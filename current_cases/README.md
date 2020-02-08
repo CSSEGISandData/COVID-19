@@ -1,2 +1,2 @@
 # 2019 Novel Coronavirus Case Data
-These current cases will be updated regularly, and will contain the current data displayed in the dashboard.
+These current cases will be updated regularly and they will contain the current data displayed in the dashboard.
