@@ -1,37 +1,37 @@
-﻿Province/State,Country/Region,Last Update,Lat,Long,Confirmed,Suspected,Recovered,Deaths,ConfnSusp
-Hubei,Mainland China,1/25/2020  12am,30.97564,112.2707,729,,32,39,729
+﻿Province/State,Country/Region,Last Update,Lat,Long,Confirmed,Deaths,Recovered,Suspected,ConfnSusp
+Hubei,Mainland China,1/25/2020  12am,30.97564,112.2707,729,39,32,,729
 Guangdong,Mainland China,1/25/2020  12am,23.33841,113.422,78,,2,,78
 Zhejiang,Mainland China,1/25/2020  12am,29.18251,120.0985,62,,1,,62
 Chongqing,Mainland China,1/25/2020  12am,30.05718,107.874,57,,,,57
 Hunan,Mainland China,1/25/2020  12am,27.61041,111.7088,43,,,,43
-Anhui,Mainland China,1/25/2020  12am,31.82571,117.2264,39,4,,,43
+Anhui,Mainland China,1/25/2020  12am,31.82571,117.2264,39,,,4,43
 Beijing,Mainland China,1/25/2020  12am,40.18238,116.4142,36,,1,,36
-Shanghai,Mainland China,1/25/2020  12am,31.20327,121.4554,33,22,1,,55
-Henan,Mainland China,1/25/2020  12am,33.88202,113.614,32,1,,,33
-Sichuan,Mainland China,1/25/2020  12am,30.61714,102.7103,28,4,,,32
+Shanghai,Mainland China,1/25/2020  12am,31.20327,121.4554,33,,1,22,55
+Henan,Mainland China,1/25/2020  12am,33.88202,113.614,32,,,1,33
+Sichuan,Mainland China,1/25/2020  12am,30.61714,102.7103,28,,,4,32
 Guangxi,Mainland China,1/25/2020  12am,23.82908,108.7881,23,,,,23
 Shandong,Mainland China,1/25/2020  12am,36.34377,118.1529,21,,,,21
 Jiangxi,Mainland China,1/25/2020  12am,27.61401,115.7221,18,,,,18
 Jiangsu,Mainland China,1/25/2020  12am,32.97027,119.464,18,,1,,18
 Hainan,Mainland China,1/25/2020  12am,19.19673,109.7455,17,,,,17
 Liaoning,Mainland China,1/25/2020  12am,41.29284,122.6086,15,,,,15
-Fujian,Mainland China,1/25/2020  12am,26.07783,117.9895,10,4,,,14
-Heilongjiang,Mainland China,1/25/2020  12am,47.862,127.7622,9,,,1,9
+Fujian,Mainland China,1/25/2020  12am,26.07783,117.9895,10,,,4,14
+Heilongjiang,Mainland China,1/25/2020  12am,47.862,127.7622,9,1,,,9
 Tianjin,Mainland China,1/25/2020  12am,39.29362,117.333,8,,,,8
-Hebei,Mainland China,1/25/2020  12am,38.0428,114.5149,8,,,1,8
+Hebei,Mainland China,1/25/2020  12am,38.0428,114.5149,8,1,,,8
 Shanxi,Mainland China,1/25/2020  12am,37.57769,112.2922,6,,,,6
 Yunnan,Mainland China,1/25/2020  12am,24.97411,101.4868,5,,,,5
-Hong Kong,Hong Kong,1/25/2020  12am,22.3193,114.1694,5,36,,,41
+Hong Kong,Hong Kong,1/25/2020  12am,22.3193,114.1694,5,,,36,41
 Shaanxi,Mainland China,1/25/2020  12am,35.19165,108.8701,5,,,,5
 Guizhou,Mainland China,1/25/2020  12am,26.81536,106.8748,4,,,,4
 Jilin,Mainland China,1/25/2020  12am,43.66657,126.1917,4,,,,4
 Gansu,Mainland China,1/25/2020  12am,36.0611,103.8343,4,,,,4
-Ningxia,Mainland China,1/25/2020  12am,37.26923,106.1655,3,1,,,4
+Ningxia,Mainland China,1/25/2020  12am,37.26923,106.1655,3,,,1,4
 Taiwan,Taiwan,1/25/2020  12am,23.6978,120.9605,3,,,,3
 Xinjiang,Mainland China,1/25/2020  12am,41.11981,85.17822,3,,,,3
 Macau,Macau,1/25/2020  12am,22.1987,113.5439,2,,,,2
 Inner Mongolia,Mainland China,1/25/2020  12am,44.09448,113.9456,2,,,,2
-Qinghai,Mainland China,1/25/2020  12am,35.65945,96.02564,,1,,,1
+Qinghai,Mainland China,1/25/2020  12am,35.65945,96.02564,,,,1,1
 Washington,US,1/25/2020  12am,47.6062,-122.3321,1,,,,1
 Illinois,US,1/25/2020  12am,41.8781,-87.6298,1,,,,1
 ,Japan,1/25/2020  12am,35.6762,139.6503,2,,,,2

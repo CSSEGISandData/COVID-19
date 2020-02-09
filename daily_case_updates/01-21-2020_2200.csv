@@ -1,27 +1,27 @@
-﻿Province/State,Country/Region,Last Update,Lat,Long,Confirmed,Suspected,Cured,Demised
-Anhui,Mainland China,1/21/2020 10pm,31.82571,117.2264,,3,,
+﻿Province/State,Country/Region,Last Update,Lat,Long,Confirmed,Deaths,Recovered,Suspected
+Anhui,Mainland China,1/21/2020 10pm,31.82571,117.2264,,,,3
 Beijing,Mainland China,1/21/2020 10pm,40.18238,116.4142,10,,,
 Chongqing,Mainland China,1/21/2020 10pm,30.05718,107.874,5,,,
-Guangdong,Mainland China,1/21/2020 10pm,23.33841,113.422,17,4,,
-Guangxi,Mainland China,1/21/2020 10pm,23.82908,108.7881,,1,,
-Guizhou,Mainland China,1/21/2020 10pm,26.81536,106.8748,,1,,
-Hainan,Mainland China,1/21/2020 10pm,19.19673,109.7455,,1,,
-Heilongjiang,Mainland China,1/21/2020 10pm,47.862,127.7622,,1,,
+Guangdong,Mainland China,1/21/2020 10pm,23.33841,113.422,17,,,4
+Guangxi,Mainland China,1/21/2020 10pm,23.82908,108.7881,,,,1
+Guizhou,Mainland China,1/21/2020 10pm,26.81536,106.8748,,,,1
+Hainan,Mainland China,1/21/2020 10pm,19.19673,109.7455,,,,1
+Heilongjiang,Mainland China,1/21/2020 10pm,47.862,127.7622,,,,1
 Henan,Mainland China,1/21/2020 10pm,33.88202,113.614,1,,,
-Hong Kong,Hong Kong,1/21/2020 10pm,22.3193,114.1694,,117,,
-Hubei,Mainland China,1/21/2020 10pm,30.97564,112.2707,270,11,25,6
+Hong Kong,Hong Kong,1/21/2020 10pm,22.3193,114.1694,,,,117
+Hubei,Mainland China,1/21/2020 10pm,30.97564,112.2707,270,6,25,11
 Hunan,Mainland China,1/21/2020 10pm,27.61041,111.7088,1,,,
 Jiangxi,Mainland China,1/21/2020 10pm,27.61401,115.7221,2,,,
-Jilin,Mainland China,1/21/2020 10pm,43.66657,126.1917,,1,,
-Liaoning,Mainland China,1/21/2020 10pm,41.29284,122.6086,,1,,
-Ningxia,Mainland China,1/21/2020 10pm,37.26923,106.1655,,1,,
+Jilin,Mainland China,1/21/2020 10pm,43.66657,126.1917,,,,1
+Liaoning,Mainland China,1/21/2020 10pm,41.29284,122.6086,,,,1
+Ningxia,Mainland China,1/21/2020 10pm,37.26923,106.1655,,,,1
 Shandong,Mainland China,1/21/2020 10pm,36.34377,118.1529,1,,,
-Shanghai,Mainland China,1/21/2020 10pm,31.20327,121.4554,9,10,,
-Sichuan,Mainland China,1/21/2020 10pm,30.61714,102.7103,2,1,,
+Shanghai,Mainland China,1/21/2020 10pm,31.20327,121.4554,9,,,10
+Sichuan,Mainland China,1/21/2020 10pm,30.61714,102.7103,2,,,1
 Taiwan,Taiwan,1/21/2020 10pm,23.6978,120.9605,1,,,
 Tianjin,Mainland China,1/21/2020 10pm,39.29362,117.333,2,,,
 Yunnan,Mainland China,1/21/2020 10pm,24.97411,101.4868,1,,,
-Zhejiang,Mainland China,1/21/2020 10pm,29.18251,120.0985,5,16,,
+Zhejiang,Mainland China,1/21/2020 10pm,29.18251,120.0985,5,,,16
 ,Japan,1/21/2020 10pm,35.6762,139.6503,1,,,
 Washington,US,1/21/2020 10pm,47.6062,-122.3321,1,,,
 ,South Korea,1/21/2020 10pm,37.5665,126.978,1,,,
