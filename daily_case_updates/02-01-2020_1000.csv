@@ -1,65 +1,65 @@
-﻿Province/State,Country/Region,Last Update,Lat,Long,Confirmed,Deaths,Recovered
-Hubei,Mainland China,2/1/2020 10:00,30.97564,112.2707,7153,249,168
-Zhejiang,Mainland China,2/1/2020 10:00,29.18251,120.0985,599,,21
-Guangdong,Mainland China,2/1/2020 10:00,23.33841,113.422,535,,14
-Henan,Mainland China,2/1/2020 10:00,33.88202,113.614,422,2,3
-Hunan,Mainland China,2/1/2020 10:00,27.61041,111.7088,389,,8
-Anhui,Mainland China,2/1/2020 10:00,31.82571,117.2264,297,,5
-Jiangxi,Mainland China,2/1/2020 10:00,27.61401,115.7221,286,,9
-Chongqing,Mainland China,2/1/2020 10:00,30.05718,107.874,247,1,3
-Sichuan,Mainland China,2/1/2020 10:00,30.61714,102.7103,207,1,3
-Shandong,Mainland China,2/1/2020 10:00,36.34377,118.1529,206,,3
-Jiangsu,Mainland China,2/1/2020 10:00,32.97027,119.464,202,,6
-Shanghai,Mainland China,2/1/2020 10:00,31.20327,121.4554,169,1,10
-Beijing,Mainland China,2/1/2020 10:00,40.18238,116.4142,168,1,9
-Fujian,Mainland China,2/1/2020 10:00,26.07783,117.9895,144,,
-Shaanxi,Mainland China,2/1/2020 10:00,35.19165,108.8701,101,,
-Guangxi,Mainland China,2/1/2020 10:00,23.82908,108.7881,100,,2
-Hebei,Mainland China,2/1/2020 10:00,38.0428,114.5149,96,1,
-Yunnan,Mainland China,2/1/2020 10:00,24.97411,101.4868,91,,2
-Heilongjiang,Mainland China,2/1/2020 10:00,47.862,127.7622,80,2,2
-Liaoning,Mainland China,2/1/2020 10:00,41.29284,122.6086,63,,1
-Hainan,Mainland China,2/1/2020 10:00,19.19673,109.7455,62,1,1
-Shanxi,Mainland China,2/1/2020 10:00,37.57769,112.2922,47,,1
-Tianjin,Mainland China,2/1/2020 10:00,39.29362,117.333,38,,
-Gansu,Mainland China,2/1/2020 10:00,36.0611,103.8343,35,,
-Guizhou,Mainland China,2/1/2020 10:00,26.81536,106.8748,29,,2
-Ningxia,Mainland China,2/1/2020 10:00,37.26923,106.1655,26,,
-Inner Mongolia,Mainland China,2/1/2020 10:00,44.09448,113.9456,23,,1
-Xinjiang,Mainland China,2/1/2020 10:00,41.11981,85.17822,18,,
-Jilin,Mainland China,2/1/2020 10:00,43.66657,126.1917,17,,1
-Hong Kong,Hong Kong,2/1/2020 10:00,22.3193,114.1694,13,,
-Taiwan,Taiwan,2/1/2020 10:00,23.6978,120.9605,10,,
-Qinghai,Mainland China,2/1/2020 10:00,35.65945,96.02564,9,,
-Macau,Macau,2/1/2020 10:00,22.1987,113.5439,7,,
-Tibet,Mainland China,2/1/2020 10:00,30.1534,88.7879,1,,
-Washington,US,2/1/2020 10:00,47.7511,-120.7401,1,,
-Illinois,US,2/1/2020 10:00,40.6331,-89.3985,2,,
-California,US,2/1/2020 10:00,36.7783,-119.4179,3,,
-Arizona,US,2/1/2020 10:00,34.0489,-111.0937,1,,
-,Japan,2/1/2020 10:00,35.6762,139.6503,17,,1
-,Thailand,2/1/2020 10:00,13.7563,100.5018,19,,7
-,South Korea,2/1/2020 10:00,37.5665,126.978,12,,
-,Singapore ,2/1/2020 10:00,1.3521,103.8198,18,,
-,Vietnam,2/1/2020 10:00,21.0278,105.8342,6,,1
-,France,2/1/2020 10:00,46.2276,2.2137,6,,
-,Nepal,2/1/2020 10:00,28.3949,84.124,1,,
-,Malaysia ,2/1/2020 10:00,4.2105,101.9758,8,,
-Ontario,Canada,2/1/2020 10:00,43.6532,-79.3832,3,,
-British Columbia,Canada,2/1/2020 10:00,49.2827,-123.1207,1,,
-,Cambodia,2/1/2020 10:00,12.5657,104.991,1,,
-,Sri Lanka,2/1/2020 10:00,7.8731,80.7718,1,,1
-New South Wales,Australia,2/1/2020 10:00,-33.8688,151.2093,4,,2
-Victoria,Australia,2/1/2020 10:00,-37.8136,144.9631,4,,
-Queensland,Australia,2/1/2020 10:00,-27.4698,153.0251,3,,
-South Australia,Australia,2/1/2020 10:00,-34.9285,138.6007,1,,
-Bavaria,Germany,2/1/2020 10:00,51.1657,10.4515,7,,
-,Finland,2/1/2020 10:00,61.9241,25.7482,1,,
-,United Arab Emirates,2/1/2020 10:00,23.4241,53.8478,4,,
-,Philippines,2/1/2020 10:00,12.8797,121.774,1,,
-,India,2/1/2020 10:00,20.5937,78.9629,1,,
-,Italy,2/1/2020 10:00,41.8719,12.5674,2,,
-,Sweden,2/1/2020 10:00,60.1282,18.6435,1,,
-,Russia,2/1/2020 10:00,61.524,105.3188,2,,
-,Spain,2/1/2020 10:00,40.4637,-3.7492,1,,
-,UK,2/1/2020 10:00,55.3781,-3.436,2,,
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2/1/20 10:00,7153,249,168
+Zhejiang,Mainland China,2/1/20 10:00,599,,21
+Guangdong,Mainland China,2/1/20 10:00,535,,14
+Henan,Mainland China,2/1/20 10:00,422,2,3
+Hunan,Mainland China,2/1/20 10:00,389,,8
+Anhui,Mainland China,2/1/20 10:00,297,,5
+Jiangxi,Mainland China,2/1/20 10:00,286,,9
+Chongqing,Mainland China,2/1/20 10:00,247,1,3
+Sichuan,Mainland China,2/1/20 10:00,207,1,3
+Shandong,Mainland China,2/1/20 10:00,206,,3
+Jiangsu,Mainland China,2/1/20 10:00,202,,6
+Shanghai,Mainland China,2/1/20 10:00,169,1,10
+Beijing,Mainland China,2/1/20 10:00,168,1,9
+Fujian,Mainland China,2/1/20 10:00,144,,
+Shaanxi,Mainland China,2/1/20 10:00,101,,
+Guangxi,Mainland China,2/1/20 10:00,100,,2
+Hebei,Mainland China,2/1/20 10:00,96,1,
+Yunnan,Mainland China,2/1/20 10:00,91,,2
+Heilongjiang,Mainland China,2/1/20 10:00,80,2,2
+Liaoning,Mainland China,2/1/20 10:00,63,,1
+Hainan,Mainland China,2/1/20 10:00,62,1,1
+Shanxi,Mainland China,2/1/20 10:00,47,,1
+Tianjin,Mainland China,2/1/20 10:00,38,,
+Gansu,Mainland China,2/1/20 10:00,35,,
+Guizhou,Mainland China,2/1/20 10:00,29,,2
+Ningxia,Mainland China,2/1/20 10:00,26,,
+Inner Mongolia,Mainland China,2/1/20 10:00,23,,1
+Xinjiang,Mainland China,2/1/20 10:00,18,,
+Jilin,Mainland China,2/1/20 10:00,17,,1
+Hong Kong,Hong Kong,2/1/20 10:00,13,,
+Taiwan,Taiwan,2/1/20 10:00,10,,
+Qinghai,Mainland China,2/1/20 10:00,9,,
+Macau,Macau,2/1/20 10:00,7,,
+Tibet,Mainland China,2/1/20 10:00,1,,
+Washington,US,2/1/20 10:00,1,,
+Illinois,US,2/1/20 10:00,2,,
+California,US,2/1/20 10:00,3,,
+Arizona,US,2/1/20 10:00,1,,
+,Japan,2/1/20 10:00,17,,1
+,Thailand,2/1/20 10:00,19,,7
+,South Korea,2/1/20 10:00,12,,
+,Singapore ,2/1/20 10:00,18,,
+,Vietnam,2/1/20 10:00,6,,1
+,France,2/1/20 10:00,6,,
+,Nepal,2/1/20 10:00,1,,
+,Malaysia ,2/1/20 10:00,8,,
+Ontario,Canada,2/1/20 10:00,3,,
+British Columbia,Canada,2/1/20 10:00,1,,
+,Cambodia,2/1/20 10:00,1,,
+,Sri Lanka,2/1/20 10:00,1,,1
+New South Wales,Australia,2/1/20 10:00,4,,2
+Victoria,Australia,2/1/20 10:00,4,,
+Queensland,Australia,2/1/20 10:00,3,,
+South Australia,Australia,2/1/20 10:00,1,,
+Bavaria,Germany,2/1/20 10:00,7,,
+,Finland,2/1/20 10:00,1,,
+,United Arab Emirates,2/1/20 10:00,4,,
+,Philippines,2/1/20 10:00,1,,
+,India,2/1/20 10:00,1,,
+,Italy,2/1/20 10:00,2,,
+,Sweden,2/1/20 10:00,1,,
+,Russia,2/1/20 10:00,2,,
+,Spain,2/1/20 10:00,1,,
+,UK,2/1/20 10:00,2,,
