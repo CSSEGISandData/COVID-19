@@ -1,4 +1,4 @@
-Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,,,"Quick note: Starting from this tab, our map is updating (almost) in real time (China data - at least once per hour; non China data - several times per day). This table is planning to be updated twice a day. The discrepancy between the map and this sheet is expected. Sorry for any confusion and inconvenience."
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,,,
 Hubei,Mainland China,2/1/2020 11:53,7153,249,168,,,
 Zhejiang,Mainland China,2/1/2020 10:53,599,0,21,,,
 Guangdong,Mainland China,2/1/2020 14:23,535,0,14,,,
