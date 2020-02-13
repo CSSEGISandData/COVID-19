@@ -1,5 +1,5 @@
 # Novel Coronavirus 2019 Daily Case Data
-This case data is the current data from the dashboard and is uploaded twice a day. <br>
+Each CSV file included in this folder reports the number of cumulative cases reported on the dashboard at a specified point in time. From Jan 22- Feb 13, at least two updates are provided each day. <br>
 The file names follow the date and time schema 'month-day-year_24hr time'
 
 ### About Time Zone:
