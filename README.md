@@ -31,7 +31,9 @@ https://systems.jhu.edu/
 * US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html <br>
 * Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html <br>
 * Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance <br>
-* European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases <br>
+* European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
+* Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
+<br>
   
 <br>
   
