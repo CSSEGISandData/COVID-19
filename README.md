@@ -7,13 +7,13 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 
 <b>Visual Dashboard (desktop):</b><br>
 https://arcg.is/0fHmTX
-
+<br><br>
 <b>Visual Dashboard (mobile):</b><br>
 https://arcg.is/1DPOWm0
-
+<br><br>
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE):</b><br>
 https://systems.jhu.edu/
-
+<br><br>
 <b>Data Sources:</b><br>
 * World Health Organization (WHO): https://www.who.int/ <br>
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
