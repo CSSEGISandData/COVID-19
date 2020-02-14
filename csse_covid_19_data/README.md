@@ -15,9 +15,12 @@ MM-DD-YYYY.csv in UTC.
 * Deaths: the number of deaths.
 * Recovered: the number of recovered cases.
 
-### Updating frequency
+### Update frequency
 * Files after Feb 1 (UTC): once a day around 23:59 (UTC).
 * Files on and before Feb 1 (UTC): the last updated files before 23:59 (UTC). Source: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data).
+
+### Data sources
+Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
 
 ### Why create this new folder?
 1. Unifying all timestamps to UTC, including the file name and the "Last Update" field.
@@ -35,5 +38,5 @@ This folder contains daily time series summary tables, including confirmed, deat
 * Lat and Long: a coordinates reference for the user.
 * Date fields: M/DD/YYYY (UTC), the same data as MM-DD-YYYY.csv file.
 
-### Updating frequency
+### Update frequency
 * Once a day.
