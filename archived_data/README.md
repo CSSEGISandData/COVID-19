@@ -1,0 +1,2 @@
+# Announcement
+This folder contains daily case reports from Jan 21 to Feb 14, 2020. The data collection for the coronavirus COVID-19 (formerly known as 2019-nCoV) started on Jan 21, first in the Google Sheet, and then moved to this GitHub on Feb 11. We found there are several issues in the previously maintained dataset, such as time zone inconsistency and more than one files per day. To clear up the confusion, we newly create [csse_covid_19_data folder](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data).
