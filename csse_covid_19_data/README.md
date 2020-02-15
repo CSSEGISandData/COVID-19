@@ -40,3 +40,8 @@ This folder contains daily time series summary tables, including confirmed, deat
 
 ### Update frequency
 * Once a day.
+
+---
+## Data modification records
+We are also monitoring the curve change. Any errors made by us will be corrected in the dataset. Any possible errors from the original data sources will be listed here as a reference.
+* NHC 2/14: Hubei Province deducted 108 prior deaths from the death toll due to double counting.
