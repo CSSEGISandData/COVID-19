@@ -2,7 +2,7 @@
 
 ## Daily reports (csse_covid_19_daily_reports)
 
-This folder contains daily case reports. All timestamps are in UTC (GMT +0).
+This folder contains daily case reports. All timestamps are in UTC (GMT+0).
 
 ### File naming convention
 MM-DD-YYYY.csv in UTC.
@@ -17,7 +17,7 @@ MM-DD-YYYY.csv in UTC.
 
 ### Update frequency
 * Files after Feb 1 (UTC): once a day around 23:59 (UTC).
-* Files on and before Feb 1 (UTC): the last updated files before 23:59 (UTC). Source: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data).
+* Files on and before Feb 1 (UTC): the last updated files before 23:59 (UTC). Source: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data) and dashboard.
 
 ### Data sources
 Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
