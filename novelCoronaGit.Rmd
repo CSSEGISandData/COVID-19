@@ -1,13 +1,18 @@
 ---
 title: "Tracking the Novel Coronavirus"
 author: "Kevin Lanning, Wilkes Honors College"
-date: "02022020 :)"
+date: "`r Sys.Date()`"
 output:
   html_document: default
-  pdf_document: default
+#  pdf_document: 
+#      citation_package: natbib
+#      template: svm-latex-ms2.tex 
+# bibliography: \dummy{`r file.path(getwd(), list.files(getwd(), "bib$"))`}
+always_allow_html: true
+
 ---
 
-The Novel Coronavirus is an emerging health crisis, particularly in Wuhan (a Chinese city larger than New York City) and the surrounding province of Hubei. **It is not yet a threat in the United States - there have, at this writing (02/11/20) been zero cases in Florida.** Still, tracking the spread of the virus - the unfolding number of people infected and recovered, as well as the number of deaths - is a fascinating exercise.
+The Novel Coronavirus is an emerging health crisis, particularly in Wuhan (a Chinese city larger than New York City) and the surrounding province of Hubei. **It is not yet a threat in the United States - there have, at this writing (02/18/20) been zero cases in Florida.** Further, epidemiologists have argued that the reported numbers for the epidemic should be viewed with skepticism for a variety of reasons (see, e.g., https://doi.org/10.4414/smw.2020.20203). Nonetheless, attempting to track the spread of the virus - the unfolding number of people infected and recovered, as well as the number of deaths - is a fascinating exercise.
 
 This is an educational script for students learning R with the Tidyverse. It reads data provided by the Johns Hopkins Center for Systems Science and Engineering (JHU/CSSE).  
 
@@ -209,22 +214,20 @@ coronaPlot1
 Plotly is an open-source, javascript based library that produces interactive graphs. The syntax that Plotly requires is (a little) different from ggplot, so, for example, the subtitle and caption are folded in to the title here, and the legend is moved a little further over. 
 
 ```{r confirmed}
-p <- ggplotly(coronaPlot1) %>% 
+ggplotly(coronaPlot1) %>% 
   # make interactive
-  layout(legend = list(x=.1,y=.9),
+  layout(legend = list(x = .1,y = .9),
          title = list(text = paste0('Novel coronavirus',
                                     '<br>',
                                     '<sup>',
                                     mySubtitle,
                                     myCaption,
                                     '</sup>')))
-# saveWidget(p, file="coronaDeathsRecovered.html")
-p
 ```
 
 ### Plotting confirmed cases
 
-In this last figure, data for confirmed cases are shown (only the interactive version is included here). : 
+In this last figure, data for confirmed cases are shown (only the interactive version is included here): 
 
 ```{r}
 mySubtitle <- paste0(
@@ -241,7 +244,7 @@ coronaPlot2 <- coronaDataSimple %>%
 # The code for this is clumsy
 # the cleaner geom_label does not work correctly with plotly
   annotate("rect",ymin=46000,ymax=50000, 
-           xmin=date("2020-02-06"), xmax=date("2020-02-12"), 
+           xmin=date("2020-02-05"), xmax=date("2020-02-13"), 
            fill="white") +
   annotate("text", x=date("2020-02-09"), y=49200, 
            label = "From 2/14, broader",
@@ -258,7 +261,7 @@ coronaPlot2 <- coronaDataSimple %>%
        y = "Cases", 
        caption = myCaption)
 
-p <- ggplotly(coronaPlot2) %>% 
+ ggplotly(coronaPlot2) %>% 
   # make interactive
   layout(legend = list(x=.1,y=.9),
          title = list(text = paste0('Novel coronavirus',
@@ -267,10 +270,57 @@ p <- ggplotly(coronaPlot2) %>%
                                     mySubtitle,
                                     myCaption,
                                     '</sup>')))
-p
+```
 
 
+## Examining the lethality of the virus
 
+If you contact the virus, you will ultimately recover from it or succumb to it. How likely is it that you will (not) survive? Here, the ratios between the number of recovered cases and confirmed cases is examined, as well as that between deaths and confirmed cases (the fatality rate). While these values should be considered as very rough due to both uneven reporting and the lag between diagnosis and outcome, it's nonetheless noteworthy that (a) the fatality rate is roughly 2.5%, substantially lower than for the SARS epidemic of 2002-2003 (14-15%) and (b) the recovery rate continues to increase. 
+
+```{r lethality, message= FALSE}
+
+mySubtitle <- paste0(
+         "Recovery and fatality rates in Wuhan through ",
+         (month(today())), "/",
+         (day(today())),"/",
+         (year(today())),".")
+myCaption <- " Data courtesy JHU/CSSE http://bit.ly/ncvdata"
+coronaPlot3 <- coronaDataSimple %>% 
+  # combining over the different locations
+  group_by(reportDate) %>% 
+  summarize(Confirmed = sum(Confirmed),
+            Deaths = sum(Deaths),
+            Recovered = sum(Recovered)) %>% 
+  ungroup() %>% 
+  # getting rough recovery and fatality rates
+  mutate (RecoveryRate = (Recovered/Confirmed)) %>% 
+  mutate (FatalityRate = (Deaths/Confirmed)) %>% 
+  ggplot(aes(x=reportDate)) +
+  geom_point(aes(y=RecoveryRate, color = "RecoveryRate")) + 
+  geom_smooth(aes(y=RecoveryRate, color = "RecoveryRate"),
+              se = FALSE, linetype = "solid") + 
+  geom_point(aes(y=FatalityRate, color = "FatalityRate")) + 
+  geom_smooth(aes(y=FatalityRate, color = "FatalityRate"),
+              se = FALSE, linetype = "dotted") + 
+  theme(axis.title.y = 
+        element_text(angle = 90,
+                     vjust = 1,size = 14),
+        legend.position = (c(.2,.8))) +
+# kludge to change legend title
+  scale_colour_discrete("Case rate") +
+  labs(title = "Novel coronavirus",
+       fill = "Case type",
+       subtitle = mySubtitle,
+       y = "Case rate", 
+       caption = myCaption)
+ggplotly(coronaPlot3) %>% 
+  layout(legend = list(x=.2,y=.8),
+         title = list(text = paste0('Novel coronavirus',
+                                    '<br>',
+                                    '<sup>',
+                                    mySubtitle,
+                                    myCaption,
+                                    '</sup>')))
 ```
 
 
