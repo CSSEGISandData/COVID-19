@@ -11,7 +11,7 @@ Chongqing,Mainland China,2020-02-17T23:13:06,553,5,225
 Shandong,Mainland China,2020-02-17T11:03:06,541,2,191
 Sichuan,Mainland China,2020-02-17T13:13:09,495,3,156
 Heilongjiang,Mainland China,2020-02-17T08:03:06,457,11,85
-None,Diamond Princess,2020-02-17T14:33:04,454,0,0
+Diamond Princess cruise ship,Others,2020-02-17T14:33:04,454,0,0
 Beijing,Mainland China,2020-02-17T01:23:02,381,4,114
 Shanghai,Mainland China,2020-02-17T23:53:02,333,1,161
 Hebei,Mainland China,2020-02-17T13:03:06,301,3,122
@@ -74,4 +74,3 @@ Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 "San Antonio, TX",US,2020-02-13T18:53:02,1,0,0
 "Seattle, WA",US,2020-02-09T07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01T19:43:03,1,0,0
-,Others,2020-02-17T23:13:06,0,0,0
