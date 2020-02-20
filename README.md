@@ -11,6 +11,9 @@ https://arcg.is/0fHmTX
 <b>Visual Dashboard (mobile):</b><br>
 https://arcg.is/1DPOWm0
 <br><br>
+<b>Article:</b><br>
+[An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
+<br><br>
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE):</b><br>
 https://systems.jhu.edu/
 <br><br>
