@@ -1,0 +1,85 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-22T23:33:06,64084,2346,15299
+Guangdong,Mainland China,2020-02-22T10:03:04,1339,5,728
+Henan,Mainland China,2020-02-22T14:13:38,1270,19,830
+Zhejiang,Mainland China,2020-02-22T11:13:13,1205,1,719
+Hunan,Mainland China,2020-02-22T10:03:04,1013,4,692
+Anhui,Mainland China,2020-02-22T07:43:03,989,6,597
+Jiangxi,Mainland China,2020-02-22T06:13:05,934,1,555
+Shandong,Mainland China,2020-02-22T09:43:02,750,4,302
+Diamond Princess cruise ship,Others,2020-02-20T15:53:03,634,2,1
+Jiangsu,Mainland China,2020-02-22T07:43:03,631,0,401
+Chongqing,Mainland China,2020-02-22T23:23:05,573,6,328
+Sichuan,Mainland China,2020-02-22T13:03:03,526,3,250
+Heilongjiang,Mainland China,2020-02-22T11:13:13,479,12,204
+,South Korea,2020-02-22T08:33:02,433,2,16
+Beijing,Mainland China,2020-02-22T02:23:05,399,4,178
+Shanghai,Mainland China,2020-02-22T06:33:17,335,3,227
+Hebei,Mainland China,2020-02-22T12:33:04,309,6,203
+Fujian,Mainland China,2020-02-22T14:03:04,293,1,162
+Guangxi,Mainland China,2020-02-22T05:53:02,249,2,104
+Shaanxi,Mainland China,2020-02-22T09:53:02,245,1,149
+Yunnan,Mainland China,2020-02-22T04:43:02,174,2,107
+Hainan,Mainland China,2020-02-22T09:53:02,168,4,104
+Guizhou,Mainland China,2020-02-22T01:03:10,146,2,90
+Tianjin,Mainland China,2020-02-22T12:33:04,135,3,65
+Shanxi,Mainland China,2020-02-22T23:23:05,132,0,81
+,Japan,2020-02-22T14:53:02,122,1,22
+Liaoning,Mainland China,2020-02-22T02:23:05,121,1,66
+Gansu,Mainland China,2020-02-21T15:13:07,91,2,76
+Jilin,Mainland China,2020-02-22T12:33:04,91,1,52
+,Singapore,2020-02-21T03:43:02,85,0,37
+Xinjiang,Mainland China,2020-02-22T11:13:14,76,2,25
+Inner Mongolia,Mainland China,2020-02-22T23:53:01,75,0,26
+Ningxia,Mainland China,2020-02-21T06:23:04,71,0,48
+Hong Kong,Hong Kong,2020-02-22T13:23:05,69,2,6
+,Italy,2020-02-22T23:43:02,62,2,1
+,Thailand,2020-02-21T18:53:02,35,0,17
+,Iran,2020-02-22T10:03:05,28,5,0
+Taiwan,Taiwan,2020-02-21T06:53:03,26,1,2
+,Malaysia,2020-02-19T09:33:03,22,0,15
+Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
+,Germany,2020-02-21T23:03:13,16,0,14
+,Vietnam,2020-02-21T06:03:04,16,0,14
+,United Arab Emirates,2020-02-22T14:53:02,13,0,4
+,France,2020-02-15T20:53:02,12,1,4
+"Omaha, NE (From Diamond Princess)",US,2020-02-22T23:03:09,11,0,0
+Macau,Macau,2020-02-20T02:13:19,10,0,6
+,UK,2020-02-16T16:23:06,9,0,8
+From Diamond Princess,Australia,2020-02-22T17:03:05,7,0,0
+British Columbia,Canada,2020-02-21T05:23:04,6,0,0
+Queensland,Australia,2020-02-21T05:43:02,5,0,1
+"Travis, CA (From Diamond Princess)",US,2020-02-22T17:13:24,5,0,0
+New South Wales,Australia,2020-02-13T17:53:03,4,0,4
+Victoria,Australia,2020-02-13T17:53:03,4,0,4
+,India,2020-02-16T07:43:02,3,0,3
+,Philippines,2020-02-12T07:43:02,3,1,1
+South Australia,Australia,2020-02-17T08:13:09,2,0,2
+"Toronto, ON",Canada,2020-02-21T05:23:04,2,0,2
+,Russia,2020-02-12T14:43:03,2,0,2
+,Spain,2020-02-15T17:23:04,2,0,2
+"Chicago, IL",US,2020-02-09T19:03:03,2,0,2
+"Lackland, TX (From Diamond Princess)",US,2020-02-22T17:13:24,2,0,0
+"San Benito, CA",US,2020-02-03T03:53:02,2,0,0
+"San Diego County, CA",US,2020-02-21T05:43:02,2,0,1
+"Santa Clara, CA",US,2020-02-21T05:23:04,2,0,1
+,Belgium,2020-02-17T04:23:06,1,0,1
+,Cambodia,2020-02-12T07:43:02,1,0,1
+"London, ON",Canada,2020-02-12T18:53:03,1,0,1
+,Egypt,2020-02-21T18:53:02,1,0,0
+,Finland,2020-02-12T00:03:12,1,0,1
+From Diamond Princess,Israel,2020-02-22T20:53:02,1,0,0
+,Lebanon,2020-02-22T20:53:02,1,0,0
+Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
+,Nepal,2020-02-12T14:43:03,1,0,1
+,Sri Lanka,2020-02-08T03:43:03,1,0,1
+,Sweden,2020-02-01T02:13:26,1,0,0
+"Boston, MA",US,2020-02-01T19:43:03,1,0,0
+"Humboldt County, CA",US,2020-02-21T05:13:09,1,0,0
+"Los Angeles, CA",US,2020-02-01T19:53:03,1,0,0
+"Madison, WI",US,2020-02-05T21:53:02,1,0,0
+"Orange, CA",US,2020-02-01T19:53:03,1,0,0
+"Sacramento County, CA",US,2020-02-21T23:13:16,1,0,0
+"San Antonio, TX",US,2020-02-13T18:53:02,1,0,0
+"Seattle, WA",US,2020-02-09T07:03:04,1,0,1
+"Tempe, AZ",US,2020-02-01T19:43:03,1,0,0
