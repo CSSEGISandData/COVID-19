@@ -11,3 +11,4 @@ The file names follow the date and time schema 'month-day-year_24hr time'
 
 ### Data Correction
 * Feb 20, 2020: remove 1 death from Shandong in 01-27-2020_2030.csv and 1 death from Fujian in 01-25-2020_2200.csv.
+* Feb 22, 2020: add 1 death to Heilongjiang in 01-25-2020_2200.csv. ([Issue 87](https://github.com/CSSEGISandData/COVID-19/issues/87))
