@@ -1,3 +1,5 @@
+# NOTICE (Feb 24, 1 PM ET): Our dashboard is currently down due to high traffic. We apologize for any inconvenience it might cause. We are aware of the problem and working to resolve it as soon as possible.
+
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 
