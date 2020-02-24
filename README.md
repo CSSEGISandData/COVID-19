@@ -1,5 +1,3 @@
-# NOTICE (Feb 24, 1 PM ET): Our dashboard is currently down due to high traffic. We apologize for any inconvenience it might cause. We are aware of the problem and working to resolve it as soon as possible.
-
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 
@@ -34,19 +32,18 @@ https://systems.jhu.edu/
 * Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance <br>
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
+
 <br>
-  
-<br>
-  
+
 <b>Additional Information about the Visual Dashboard:</b><br>
 https://systems.jhu.edu/research/public-health/ncov/
 
 <br>
-
 <b>Contact Us: </b><br>
 * Email: jhusystems@gmail.com
 
 <br>
+
 <b>Terms of Use:</b><br>
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis, copyright 2020 Johns Hopkins University, all rights reserved, is provided to the public strictly for educational and academic research purposes.  The Website relies upon publicly available data from multiple sources, that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability.  Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
