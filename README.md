@@ -9,7 +9,7 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 <br><br>
 <b>Visual Dashboard (mobile):</b><br>
-arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
+http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 <br><br>
 <b>Lancet Article:</b><br>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
@@ -34,13 +34,14 @@ https://systems.jhu.edu/
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 
 <br>
-
 <b>Additional Information about the Visual Dashboard:</b><br>
 https://systems.jhu.edu/research/public-health/ncov/
 
 <br>
-<b>Contact Us: jhusystems@gmail.com</b><br>
-<br>
+
+<b>Contact Us: </b><br>
+* Email: jhusystems@gmail.com
+<br><br>
 
 <b>Terms of Use:</b><br>
 
