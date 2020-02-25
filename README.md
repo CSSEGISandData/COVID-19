@@ -36,8 +36,7 @@ https://systems.jhu.edu/
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
 https://systems.jhu.edu/research/public-health/ncov/
-
-<br>
+<br><br>
 
 <b>Contact Us: </b><br>
 * Email: jhusystems@gmail.com
