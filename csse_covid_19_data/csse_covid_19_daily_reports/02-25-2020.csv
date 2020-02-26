@@ -1,0 +1,95 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-25T15:23:04,64786,2563,18971
+Guangdong,Mainland China,2020-02-25T08:53:02,1347,7,822
+Henan,Mainland China,2020-02-25T12:43:02,1271,19,1002
+Zhejiang,Mainland China,2020-02-25T09:13:05,1205,1,808
+Hunan,Mainland China,2020-02-25T15:03:05,1016,4,768
+Anhui,Mainland China,2020-02-25T06:33:02,989,6,712
+,South Korea,2020-02-25T08:13:19,977,10,22
+Jiangxi,Mainland China,2020-02-25T15:03:05,934,1,683
+Shandong,Mainland China,2020-02-25T12:53:02,756,6,355
+Diamond Princess cruise ship,Others,2020-02-23T22:33:03,691,3,0
+Jiangsu,Mainland China,2020-02-25T00:53:02,631,0,458
+Chongqing,Mainland China,2020-02-25T23:23:03,576,6,372
+Sichuan,Mainland China,2020-02-25T15:03:05,529,3,289
+Heilongjiang,Mainland China,2020-02-25T15:23:04,480,12,243
+Beijing,Mainland China,2020-02-25T01:33:02,400,4,215
+Shanghai,Mainland China,2020-02-25T06:33:02,336,3,268
+,Italy,2020-02-25T18:55:32,322,10,1
+Hebei,Mainland China,2020-02-25T12:43:02,311,6,248
+Fujian,Mainland China,2020-02-25T10:03:07,294,1,199
+Guangxi,Mainland China,2020-02-25T10:03:07,252,2,134
+Shaanxi,Mainland China,2020-02-25T15:23:04,245,1,186
+Yunnan,Mainland China,2020-02-25T04:53:02,174,2,129
+,Japan,2020-02-25T14:53:03,170,1,22
+Hainan,Mainland China,2020-02-25T12:53:02,168,5,124
+Guizhou,Mainland China,2020-02-25T08:03:07,146,2,104
+Tianjin,Mainland China,2020-02-25T15:23:04,135,3,91
+Shanxi,Mainland China,2020-02-25T23:13:03,133,0,98
+Liaoning,Mainland China,2020-02-25T00:23:03,121,1,83
+,Iran,2020-02-25T14:53:03,95,16,0
+Jilin,Mainland China,2020-02-25T15:23:04,93,1,63
+Gansu,Mainland China,2020-02-24T15:13:07,91,2,80
+,Singapore,2020-02-25T18:55:32,91,0,53
+Hong Kong,Hong Kong,2020-02-25T09:43:02,84,2,19
+Xinjiang,Mainland China,2020-02-24T15:03:05,76,2,30
+Inner Mongolia,Mainland China,2020-02-25T23:53:02,75,0,35
+Ningxia,Mainland China,2020-02-25T03:53:02,71,0,61
+,Thailand,2020-02-25T08:53:02,37,0,22
+Unassigned Location (From Diamond Princess),US,2020-02-25T21:23:03,36,0,0
+Taiwan,Taiwan,2020-02-25T06:53:02,31,1,5
+,Bahrain,2020-02-25T18:55:32,23,0,0
+,Malaysia,2020-02-24T11:53:02,22,0,18
+Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
+,Germany,2020-02-25T21:33:02,17,0,14
+,Vietnam,2020-02-25T08:53:02,16,0,16
+,France,2020-02-25T21:23:03,14,1,11
+,UK,2020-02-24T08:33:02,13,0,8
+,United Arab Emirates,2020-02-22T14:53:02,13,0,4
+,Kuwait,2020-02-25T23:43:03,11,0,0
+Macau,Macau,2020-02-25T15:23:04,10,0,7
+From Diamond Princess,Australia,2020-02-22T17:03:05,7,0,0
+British Columbia,Canada,2020-02-25T02:23:05,7,0,0
+,Spain,2020-02-25T21:33:02,6,0,2
+Queensland,Australia,2020-02-21T05:43:02,5,0,1
+New South Wales,Australia,2020-02-13T17:53:03,4,0,4
+Victoria,Australia,2020-02-13T17:53:03,4,0,4
+"Toronto, ON",Canada,2020-02-24T14:43:03,3,0,2
+,India,2020-02-16T07:43:02,3,0,3
+,Philippines,2020-02-12T07:43:02,3,1,1
+South Australia,Australia,2020-02-17T08:13:09,2,0,2
+None,Austria,2020-02-25T18:55:32,2,0,0
+,Oman,2020-02-25T01:13:09,2,0,0
+,Russia,2020-02-12T14:43:03,2,0,2
+"Chicago, IL",US,2020-02-09T19:03:03,2,0,2
+"San Benito, CA",US,2020-02-03T03:53:02,2,0,0
+"San Diego County, CA",US,2020-02-21T05:43:02,2,0,1
+"Santa Clara, CA",US,2020-02-21T05:23:04,2,0,1
+,Afghanistan,2020-02-24T23:33:02,1,0,0
+,Algeria,2020-02-25T23:43:03,1,0,0
+,Belgium,2020-02-17T04:23:06,1,0,1
+,Cambodia,2020-02-12T07:43:02,1,0,1
+"London, ON",Canada,2020-02-12T18:53:03,1,0,1
+,Croatia,2020-02-25T18:55:32,1,0,0
+,Egypt,2020-02-21T18:53:02,1,0,0
+,Finland,2020-02-12T00:03:12,1,0,1
+,Iraq,2020-02-24T23:33:02,1,0,0
+From Diamond Princess,Israel,2020-02-22T20:53:02,1,0,0
+,Lebanon,2020-02-22T20:53:02,1,0,0
+Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
+,Nepal,2020-02-12T14:43:03,1,0,1
+,Sri Lanka,2020-02-08T03:43:03,1,0,1
+,Sweden,2020-02-01T02:13:26,1,0,0
+,Switzerland,2020-02-25T19:13:21,1,0,0
+"Boston, MA",US,2020-02-01T19:43:03,1,0,0
+"Humboldt County, CA",US,2020-02-21T05:13:09,1,0,0
+"Los Angeles, CA",US,2020-02-01T19:53:03,1,0,0
+"Madison, WI",US,2020-02-05T21:53:02,1,0,0
+"Orange, CA",US,2020-02-01T19:53:03,1,0,0
+"Sacramento County, CA",US,2020-02-21T23:13:16,1,0,0
+"San Antonio, TX",US,2020-02-13T18:53:02,1,0,0
+"Seattle, WA",US,2020-02-09T07:03:04,1,0,1
+"Tempe, AZ",US,2020-02-25T21:23:03,1,0,1
+"Lackland, TX (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0
+"Omaha, NE (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0
+"Travis, CA (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0
