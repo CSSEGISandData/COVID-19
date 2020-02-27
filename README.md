@@ -32,6 +32,7 @@ https://systems.jhu.edu/
 * Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance <br>
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
+* Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
