@@ -16,6 +16,7 @@ const writeOutput = (path, outputPath) => {
     fs.mkdirSync(outputDir);
   }
   fs.copyFileSync(path, outputPath);
+  fs.copyFileSync('README.md', outputDir + 'README.md');
 };
 
 const validate = (path, outputPath) => {
