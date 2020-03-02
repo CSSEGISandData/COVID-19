@@ -45,3 +45,4 @@ This folder contains daily time series summary tables, including confirmed, deat
 ## Data modification records
 We are also monitoring the curve change. Any errors made by us will be corrected in the dataset. Any possible errors from the original data sources will be listed here as a reference.
 * NHC 2/14: Hubei Province deducted 108 prior deaths from the death toll due to double counting.
+* About DP 3/1: All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together, and their location is currently designated at the ship’s port location off the coast of Japan. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
