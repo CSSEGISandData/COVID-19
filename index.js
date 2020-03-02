@@ -25,18 +25,22 @@ const validate = (path, outputPath) => {
     complete: function(results) {
       const data = results.data;
       const header = data[0];
-      console.log(data[0]);
       for (const [i, expected] of expectedHeader.entries()) {
         const value = header[i];
         if (value != expected) {
           console.log(`unexpected header ${value}, expected: ${expected}`);
           return FAIL;
+        } else {
+          console.log(`header ${i} matches: ${value}`);
         }
       }
 
       if (header.length > expectedHeader.length) {
         console.warn(`file header is longer than validation list: ${header.length} vs ${expectedHeader.length}`);
         console.warn('not everyting is checked!');
+        for (let i = expectedHeader.length; i < header.length; ++i) {
+          console.log(`extra header ${i}: ${header[i]}`);
+        }
       }
 
       console.log(`validation success, writing ${outputPath}`);
