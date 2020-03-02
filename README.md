@@ -1,7 +1,7 @@
-# 2019 Novel Coronavirus COVID-19 (2019-nCoV) Web Data Repository by Johns Hopkins CSSE
+# 2019 Novel Coronavirus COVID-19 (2019-nCoV) Web Crawler Data Repository by Johns Hopkins CSSE
 
 
-This is the web data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
+This is the web crawler data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
 <br><br>
 <b>Current Data Crawling Sources:</b><br>
