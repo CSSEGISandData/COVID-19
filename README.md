@@ -7,6 +7,7 @@ This is the web crawler data repository for the 2019 Novel Coronavirus Visual Da
 <b>Current Data Crawling Sources:</b><br>
 
 * BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  <br>
+* Worldometer: https://www.worldometers.info/coronavirus/ <br>
 
 <b>Contact Us: </b><br>
 * Email: jhusystems@gmail.com
