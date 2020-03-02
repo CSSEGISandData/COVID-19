@@ -12,11 +12,8 @@ const expectedHeader = ['Province/State', 'Country/Region', 'Lat', 'Long', '1/22
 const FAIL = 1;
 
 const writeOutput = (path, outputPath) => {
-  if (!fs.existsSync(outputDir)){
-    fs.mkdirSync(outputDir);
-  }
   fs.copyFileSync(path, outputPath);
-  fs.copyFileSync('README.md', outputDir + 'README.md');
+
 };
 
 const validate = (path, outputPath) => {
@@ -49,4 +46,15 @@ const validate = (path, outputPath) => {
   });
 };
 
+
+//
+//
+//
+if (!fs.existsSync(outputDir)){
+  fs.mkdirSync(outputDir);
+}
+fs.copyFileSync('README.md', outputDir + 'README.md');
+
 validate(path, outputPath);
+
+fs.copyFileSync('_headers', outputDir + '_headers');
