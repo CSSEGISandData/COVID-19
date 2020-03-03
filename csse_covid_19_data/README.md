@@ -11,7 +11,7 @@ MM-DD-YYYY.csv in UTC.
 * Province/State: China - province name; US/Canada/Australia/ - city name, state/province name; Others - name of the event (e.g., "Diamond Princess" cruise ship); other countries - blank.
 * Country/Region: country/region name conforming to WHO (will be updated).
 * Last Update: MM/DD/YYYY HH:mm  (24 hour format, in UTC).
-* Confirmed: the number of confirmed cases. For Hubei Province: from Feb 13 (GMT +8), we report both clinically diagnosed and lab-confirmed cases. For lab-confirmed cases only (Before Feb 17), please refer to [who_covid_19_situation_reports](https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports).
+* Confirmed: the number of confirmed cases. For Hubei Province: from Feb 13 (GMT +8), we report both clinically diagnosed and lab-confirmed cases. For lab-confirmed cases only (Before Feb 17), please refer to [who_covid_19_situation_reports](https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports). For Italy, diagnosis standard might be changed since Feb 27 to "slow the growth of new case numbers." ([Source](https://apnews.com/6c7e40fbec09858a3b4dbd65fe0f14f5))
 * Deaths: the number of deaths.
 * Recovered: the number of recovered cases.
 
@@ -45,3 +45,4 @@ This folder contains daily time series summary tables, including confirmed, deat
 ## Data modification records
 We are also monitoring the curve change. Any errors made by us will be corrected in the dataset. Any possible errors from the original data sources will be listed here as a reference.
 * NHC 2/14: Hubei Province deducted 108 prior deaths from the death toll due to double counting.
+* About DP 3/1: All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together, and their location is currently designated at the ship’s port location off the coast of Japan. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
