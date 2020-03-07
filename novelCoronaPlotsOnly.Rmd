@@ -11,13 +11,13 @@ output:
 
 The Novel Coronavirus is an emerging health crisis, particularly in Wuhan (a Chinese city larger than New York City) and the surrounding province of Hubei. Keep in mind that in the United States and elsewhere, [most cases are mild](https://www.washingtonpost.com/outlook/2020/02/28/i-have-coronavirus-so-far-it-isnt-that-bad/). There is in short no need to freak out - but do wash your hands frequently, avoid touching your mouths, eyes, and nose, and remember that the inside of your elbow is a great place to deposit your coughs and sneezes.
 
-This script reads and plots data provided by the Johns Hopkins Center for Systems Science and Engineering (JHU/CSSE). Hopkins also provides a graphical representation of their data with maps  [here](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).  In the following, I show how you can pull and visualize the data using R code that should be understandable for introductory data science students. Plots reveal the overall number of people infected and recovered, as well as the number of deaths, how these trends are changing over time, and how they differ in Wuhan Province and elsewhere.
+This code creates simple visualizations using R. The code written to be readily understandable for introductory data science students. You can download it [here](https://github.com/kevinlanning/2019-nCoV/blob/master/novelCorona.Rmd).
 
-*History.* This document was modified February 3 because of new Googlesheet link and altered variable names, on Feb 5 because of a new URL for the data and additional changes in the variable name for date, and Feb 7 to (a) remove need for OAuth and (b) separate Wuhan from other China. On Feb 9, additional data cleaning was performed and interactive plots were added. On February 11, the code was rewritten to read files from a Github repo rather than Google Sheets. Minor changes and additions were made in late February and early March.
+The data come from the Johns Hopkins Center for Systems Science and Engineering (JHU/CSSE). 
+They have made their data freely available, and as a consequence this script does not use an API or require authorization from Github. Hopkins also provides an up-to-date ArcGIS mapping of their data [here](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6). 
 
-The Johns Hopkins group has made their data freely available, and as a consequence this script does not use an API or require authorization from Github. You can download this code from https://github.com/kevinlanning/2019-nCoV/blob/master/novelCorona.Rmd. Note that you will need to install all of the packages in the first chunk if you haven't already done so.
-
-```{r setup, message = FALSE, warning = FALSE}
+```{r setup, echo=FALSE, message = FALSE}
+knitr::opts_chunk$set(echo=FALSE, message = FALSE)
 library(tidyverse)
 library(httr)
 library(purrr)
@@ -44,11 +44,12 @@ nsheets <- nrow(filelist)
 rawGitFiles <- "https://raw.githubusercontent.com/CSSEGISandData/2019-nCoV/master/"
 ```
 
-### Reading the data
+```{r readdata, message = FALSE}
 
-The Novel Coronavirus data consists of a series of csv files in a Github repository. This combines them into a single sheet in R. 
+# Reading the data
 
-```{r readdata, message = FALSE, warning=FALSE}
+#The Novel Coronavirus data consists of a series of csv files in a Github repository. This combines them into a single sheet in R. 
+
 # variables to retain or create
 numvars <- c("Confirmed", "Deaths", "Recovered")
 varlist <- c("Province/State", "Country/Region",
@@ -72,20 +73,20 @@ for (i in 1:nsheets) {
 }
 ```
 
+```{r cleaning}
 ### Cleaning (wrangling, munging) the data
 
-Cleaning the data includes not just finding "errors," but adapting it for our own use. It's generally time consuming, as was the case here. The following letters refer to sections of the code below.
+# Cleaning the data includes not just finding "errors," but adapting it for our own use. It's generally time consuming, as was the case here. The following letters refer to sections of the code below.
 
-* a - fix a few missing values outside of China for province and country
-* b - the earliest cases, all in China, did not include country
-* c - because province/state is included inconsistently, an unambiguous place variable is created
-* d - reportdate is standardized (above) and renamed
-* e - in some cases, multiple reports are issued for each day. only the last of these is used for each place.
-* f - for dates where no data was supplied, the most recent (previous) data are used
-* g - values of NA for Deaths, Confirmed, and Recovered cases are replaced by zero.
-* h - Prior to Feb 1, reporting for US included only state, since then, city and state. This drops the (duplicated) province/state-only values beginning Feb 1. 
+# * a - fix a few missing values outside of China for province and country
+# * b - the earliest cases, all in China, did not include country
+# * c - because province/state is included inconsistently, an unambiguous place variable is created
+# * d - reportdate is standardized (above) and renamed
+# * e - in some cases, multiple reports are issued for each day. only the last of these is used for each place.
+# * f - for dates where no data was supplied, the most recent (previous) data are used
+# * g - values of NA for Deaths, Confirmed, and Recovered cases are replaced by zero.
+# * h - Prior to Feb 1, reporting for US included only state, since then, city and state. This drops the (duplicated) province/state-only values beginning Feb 1. 
 
-```{r cleaning}
 coronaData %<>% 
 # a 
   mutate (`Province/State` = case_when(
@@ -133,13 +134,13 @@ coronaData %<>%
 
 ```
 
-### Simplifying the data: China and the rest of the world
-
-This separates data into three locations, breaking down China into Hubei (Wuhan) and other, then summarizes results:
 
 ```{r threelocations}
-coronaDataSimple <- coronaData %>% 
-  filter(reportDate < today()) %>%
+### Simplifying the data: China and the rest of the world
+
+# This separates data into three locations, breaking down China into Hubei (Wuhan) and other, then summarizes results:
+
+  coronaDataSimple <- coronaData %>% 
   mutate(country = case_when(
     str_detect(place,"China") ~ "China",
     TRUE ~ "Other countries")) %>% 
@@ -157,11 +158,9 @@ coronaDataSimple <- coronaData %>%
   ungroup()
 ```
 
-### Making an initial plot
+### An initial plot
 
-The first plot is simple, including data for only deaths. A caption is added to show the source of the data.
-
-The plot includes both the raw data (geom_point) and a smoothed (LOESS) curve.
+The first plot is simple, including data for only deaths. A caption is added to show the source of the data. The plot includes both the raw data and a smoothed (LOESS) curve.
 
 ```{r simpleplot, message= FALSE}
 myCaption <- " Data courtesy JHU/CSSE http://bit.ly/ncvdata"
@@ -173,13 +172,13 @@ coronaPlot0 <- coronaDataSimple %>%
 coronaPlot0
 ```
 
-### Adding recovered cases
+### Adding recovered cases and making the graph interactive
 
 Here, recovered cases and deaths are included (as these are roughly on the same scale). Additional changes are self-evident.
 
 ```{r deathsrecovered, message= FALSE}
 mySubtitle <- paste0(
-         "Recovered cases (solid line) and deaths (dotted) by region")
+         "Recovered cases (solid line) & deaths (dotted) by region.")
 myCaption <- " Data courtesy JHU/CSSE http://bit.ly/ncvdata"
 coronaPlot1 <- coronaDataSimple %>% 
   ggplot(aes(x=reportDate, color = location)) +
@@ -201,14 +200,11 @@ coronaPlot1 <- coronaDataSimple %>%
        subtitle = mySubtitle,
        y = "Cases", 
        caption = myCaption)
-coronaPlot1
-```
 
-### Making the graph interactive
+#Making the graph interactive
 
-Plotly is an open-source, javascript based library that produces interactive graphs. The syntax that Plotly requires is (a little) different from ggplot, so, for example, the subtitle and caption are folded in to the title here, and the legend is moved a little further over. 
+# Plotly is an open-source, javascript based library that produces interactive graphs. The syntax that Plotly requires is (a little) different from ggplot, so, for example, the subtitle and caption are folded in to the title here, and the legend is moved a little further over. 
 
-```{r confirmed}
 p <- ggplotly(coronaPlot1) %>% 
   # make interactive
   layout(legend = list(x = .1,y = .9),
@@ -224,11 +220,13 @@ p
 
 ### Plotting confirmed cases
 
-In this figure, data for confirmed cases are shown (only the interactive version is included here). : 
-
 ```{r}
+
+#In this figure, data for confirmed cases are shown (only the interactive version is included here). : 
 mySubtitle <- paste0(
-         "Confirmed cases by region")
+         "Confirmed cases by region through ",
+         (month(today())), "/",         (day(today())),"/",
+         (year(today())),".")
 coronaPlot2 <- coronaDataSimple %>% 
   ggplot(aes(x=reportDate, color = location)) +
   geom_point(aes(y=Confirmed)) + 
@@ -278,7 +276,10 @@ To examine whether the growth rate is exponential, data for all three measures (
 ```{r logplots, message= FALSE}
 
 mySubtitle <- paste0(
-         "Recovered cases (solid line), deaths (dotted), and confirmed (dashed) in Wuhan")
+         "Recovered cases (solid line), deaths (dotted), and confirmed (dashed) in Wuhan through ",
+         (month(today())), "/",
+         (day(today())),"/",
+         (year(today())),".")
 myCaption <- " Data courtesy JHU/CSSE http://bit.ly/ncvdata"
 coronaPlot3 <- coronaDataSimple %>% 
   dplyr::filter(location == "Hubei (Wuhan)") %>% 
@@ -318,12 +319,15 @@ ggplotly(coronaPlot3) %>%
 
 ### Looking at growth rates *outside of* China.
 
-In the last plot, data for all three measures (Confirmed, Deaths, and Recovered) are plotted for cases outside of China using a log scale.  Exponential growth is indicated by a linear trend. 
+In the last plot, data for all three measures (Confirmed, Deaths, and Recovered) are plotted for cases outside of China using a log scale. 
 
 ```{r logplotsoutsideChina, message= FALSE}
 
 mySubtitle <- paste0(
-         "Recovered cases (solid line), deaths (dotted), and confirmed (dashed) outside of China")
+         "Recovered cases (solid line), deaths (dotted), and confirmed (dashed) outside of China through ",
+         (month(today())), "/",
+         (day(today())),"/",
+         (year(today())),".")
 myCaption <- " Data courtesy JHU/CSSE http://bit.ly/ncvdata"
 coronaPlot3 <- coronaDataSimple %>% ungroup () %>%  
   dplyr::filter(location == "Elsewhere") %>% 
@@ -361,14 +365,10 @@ ggplotly(coronaPlot3) %>%
                                     '</sup>')))
 ```
 
+### Some questions
 
+1. Grab the code and try to run it yourself. What problems (if any) did you encounter? 
 
-### Asking some questions
-
-1. Consider the data and try to run the code yourself.
-  + What problems did you encounter? 
-  + What parts need to be annotated more?
-  
 2. Can you reverse-engineer the code? Where is it confusing? (remember the 15 minute rule).
 
 3. What is the relationship between 'confirmed cases' and 'deaths'? Which appears to be increasing more quickly?  Is this cause for optimism?
@@ -379,3 +379,4 @@ ggplotly(coronaPlot3) %>%
 
 If you are interested in looking at additional epidemiological datasets and how they might be looked at in R, consider this source by Tomás J. Aragón (https://bookdown.org/medepi/phds/). For Plotly in R, check out https://plotly-r.com/ 
 
+This document was modified February 3 because of new Googlesheet link and altered variable names, on Feb 5 because of a new URL for the data and additional changes in the variable name for date, and Feb 7 to (a) remove need for OAuth and (b) separate Wuhan from other China. On Feb 9, additional data cleaning was performed and interactive plots were added. On February 11, the code was rewritten to read files from a Github repo rather than Google Sheets. Minor changes and additions were made in late February and early March.
