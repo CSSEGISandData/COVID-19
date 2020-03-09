@@ -13,6 +13,7 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <br><br>
 <b>Visual 3D earth:</b><br>
 https://endof.world
+https://github.com/hugetiny/endofworld
 <br><br>
 <b>Lancet Article:</b><br>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
