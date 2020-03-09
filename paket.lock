@@ -1,0 +1,11 @@
+STORAGE: NONE
+RESTRICTION: || (== netcoreapp3.1) (== netstandard2.0) (== netstandard2.1)
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (4.7)
+    FSharp.Data (3.3.3)
+      FSharp.Core (>= 4.3.4)
+    Newtonsoft.Json (12.0.3)
+    XPlot.Plotly (3.0.1)
+      FSharp.Core (>= 4.5.2)
+      Newtonsoft.Json (>= 12.0.2)
