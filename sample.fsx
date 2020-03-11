@@ -25,26 +25,29 @@ let allData =
     files
     |> Seq.map Daily.Load
     |> Seq.collect(fun data -> data.Rows)
+    |> Seq.filter(fun row -> row.``Country/Region`` <> "Others")
 
-let cleanedData =
-    allData
-    |> Seq.map (fun row ->
-        row.``Country/Region``.Trim(),
-        row.``Last Update``.Date,
-        row.Confirmed.GetValueOrDefault 0)
-    |> Seq.filter (fun (country,_,_) -> country <> "Others")
+let cleanseCountry (country:string) =
+    match country.Trim() with
+    | "Russia" -> "Russian Federation"
+    | "Iran" -> "Iran (Islamic Republic of)"
+    | "Macau" -> "Macao SAR"
+    | "Hong Kong" -> "Hong Kong SAR"
+    | "Viet Nam" -> "Vietnam"
+    | "Palestine" -> "occupied Palestinian territory"
+    | country -> country
 
-let byCountry =
-    cleanedData
-    |> Seq.groupBy (fun (country,date,_) -> country, date)
-    |> Seq.map (fun (group, rows) ->
-        group, rows |> Seq.sumBy (fun (_,_,confirmed) -> confirmed))
-    |> Seq.groupBy (fun ((country,_), _) -> country)
-    |> Seq.map (fun (country, rows) ->
-         country, rows |> Seq.map (fun ((_, date), confirmed) -> date, confirmed))
+let confirmedByCountryDaily = seq {
+    for country, rows in allData |> Seq.groupBy(fun r -> cleanseCountry r.``Country/Region``) do
+        let countryData = seq {
+            for date, rows in rows |> Seq.groupBy(fun r -> r.``Last Update``.Date) do
+                date, rows |> Seq.sumBy(fun r -> r.Confirmed.GetValueOrDefault 0)
+        }
+        country, countryData
+}
 
 let topTen =
-    byCountry
+    confirmedByCountryDaily
     |> Seq.sortByDescending(fun (_, rows) ->
         let (_, confirmed) = rows |> Seq.last
         confirmed)
@@ -55,4 +58,3 @@ topTen
 |> Seq.map makeScatter
 |> Chart.Plot
 |> Chart.Show
-
