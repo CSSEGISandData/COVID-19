@@ -1,4 +1,0 @@
-# Announcement
-
-This folder contains the previously posted dashboard case reports from Jan 21 to Feb 14, 2020 for the coronavirus COVID-19 (formerly known as 2019-nCoV).
-Please now refer to the data provided in the new folder, entitled "[csse_covid_19_data folder](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)". Moving forward we will be updating daily case reports into this new folder. Additionally, the previously uploaded data from Jan 21-Feb 14, 2020 is also included in the new folder, and it has been cleaned and re-formatted to address inconsistencies in the timezone and update frequency that resulted during the transition from our manual updates to automated updates (which took place on Feb 1, 2020. The new folder now includes one case report per day, from the same time of day. This will be the standard moving forward (as of Feb 14, 2020).

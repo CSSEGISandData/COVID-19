@@ -1,9 +1,5 @@
 # CSSE COVID-19 Dataset
 
-## Daily reports (csse_covid_19_daily_reports)
-
-This folder contains daily case reports. All timestamps are in UTC (GMT+0).
-
 ### File naming convention
 MM-DD-YYYY.csv in UTC.
 
