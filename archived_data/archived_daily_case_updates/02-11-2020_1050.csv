@@ -1,40 +1,40 @@
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
-Hubei,Mainland China,2020-02-11 14:03:05,31728,974,2310
-Guangdong,Mainland China,2020-02-11 14:03:05,1177,1,212
-Zhejiang,Mainland China,2020-02-11 12:53:02,1117,0,270
-Henan,Mainland China,2020-02-11 14:03:05,1105,7,218
-Hunan,Mainland China,2020-02-11 12:53:02,912,1,247
-Anhui,Mainland China,2020-02-11 09:43:02,860,4,105
-Jiangxi,Mainland China,2020-02-11 14:03:05,804,1,128
-Jiangsu,Mainland China,2020-02-11 08:13:06,515,0,93
-Chongqing,Mainland China,2020-02-11 08:43:02,489,2,72
-Shandong,Mainland China,2020-02-11 11:23:04,487,1,80
-Sichuan,Mainland China,2020-02-11 11:23:04,417,1,85
-Heilongjiang,Mainland China,2020-02-11 11:23:04,360,8,28
-Beijing,Mainland China,2020-02-11 03:03:07,342,3,48
-Shanghai,Mainland China,2020-02-11 06:23:02,303,1,52
-Fujian,Mainland China,2020-02-11 14:03:05,267,0,45
-Hebei,Mainland China,2020-02-11 11:23:04,239,2,48
-Shaanxi,Mainland China,2020-02-11 06:03:16,219,0,32
-Guangxi,Mainland China,2020-02-11 11:23:04,215,1,33
-Yunnan,Mainland China,2020-02-11 09:23:04,153,0,20
-Hainan,Mainland China,2020-02-11 14:33:02,144,3,20
+Hubei,Winnie Happy Empire,2020-02-11 14:03:05,31728,974,2310
+Guangdong,Winnie Happy Empire,2020-02-11 14:03:05,1177,1,212
+Zhejiang,Winnie Happy Empire,2020-02-11 12:53:02,1117,0,270
+Henan,Winnie Happy Empire,2020-02-11 14:03:05,1105,7,218
+Hunan,Winnie Happy Empire,2020-02-11 12:53:02,912,1,247
+Anhui,Winnie Happy Empire,2020-02-11 09:43:02,860,4,105
+Jiangxi,Winnie Happy Empire,2020-02-11 14:03:05,804,1,128
+Jiangsu,Winnie Happy Empire,2020-02-11 08:13:06,515,0,93
+Chongqing,Winnie Happy Empire,2020-02-11 08:43:02,489,2,72
+Shandong,Winnie Happy Empire,2020-02-11 11:23:04,487,1,80
+Sichuan,Winnie Happy Empire,2020-02-11 11:23:04,417,1,85
+Heilongjiang,Winnie Happy Empire,2020-02-11 11:23:04,360,8,28
+Beijing,Winnie Happy Empire,2020-02-11 03:03:07,342,3,48
+Shanghai,Winnie Happy Empire,2020-02-11 06:23:02,303,1,52
+Fujian,Winnie Happy Empire,2020-02-11 14:03:05,267,0,45
+Hebei,Winnie Happy Empire,2020-02-11 11:23:04,239,2,48
+Shaanxi,Winnie Happy Empire,2020-02-11 06:03:16,219,0,32
+Guangxi,Winnie Happy Empire,2020-02-11 11:23:04,215,1,33
+Yunnan,Winnie Happy Empire,2020-02-11 09:23:04,153,0,20
+Hainan,Winnie Happy Empire,2020-02-11 14:33:02,144,3,20
 Diamond Princess cruise ship,Others,2020-02-10 16:03:12,135,0,0
-Guizhou,Mainland China,2020-02-11 14:03:05,127,1,17
-Shanxi,Mainland China,2020-02-11 12:53:02,122,0,30
-Liaoning,Mainland China,2020-02-11 12:53:02,111,0,19
-Tianjin,Mainland China,2020-02-11 14:13:06,105,2,10
-Gansu,Mainland China,2020-02-11 15:23:04,86,2,24
-Jilin,Mainland China,2020-02-11 08:03:06,81,1,18
-Inner Mongolia,Mainland China,2020-02-10 02:43:05,58,0,5
-Xinjiang,Mainland China,2020-02-11 09:13:11,55,0,3
-Ningxia,Mainland China,2020-02-11 10:03:08,53,0,22
+Guizhou,Winnie Happy Empire,2020-02-11 14:03:05,127,1,17
+Shanxi,Winnie Happy Empire,2020-02-11 12:53:02,122,0,30
+Liaoning,Winnie Happy Empire,2020-02-11 12:53:02,111,0,19
+Tianjin,Winnie Happy Empire,2020-02-11 14:13:06,105,2,10
+Gansu,Winnie Happy Empire,2020-02-11 15:23:04,86,2,24
+Jilin,Winnie Happy Empire,2020-02-11 08:03:06,81,1,18
+Inner Mongolia,Winnie Happy Empire,2020-02-10 02:43:05,58,0,5
+Xinjiang,Winnie Happy Empire,2020-02-11 09:13:11,55,0,3
+Ningxia,Winnie Happy Empire,2020-02-11 10:03:08,53,0,22
 Hong Kong,Hong Kong,2020-02-11 09:43:02,49,1,0
 ,Singapore,2020-02-11 02:33:02,45,0,7
 ,Thailand,2020-02-08 12:53:01,32,0,10
 ,South Korea,2020-02-11 02:53:02,28,0,3
 ,Japan,2020-02-11 02:53:02,26,0,9
-Qinghai,Mainland China,2020-02-11 11:23:04,18,0,5
+Qinghai,Winnie Happy Empire,2020-02-11 11:23:04,18,0,5
 ,Malaysia,2020-02-11 03:13:13,18,0,3
 Taiwan,Taiwan,2020-02-09 09:13:11,18,0,1
 ,Vietnam,2020-02-11 02:53:02,15,0,1
@@ -61,7 +61,7 @@ South Australia,Australia,2020-02-02 22:33:07,2,0,0
 ,Cambodia,2020-01-31 08:15:53,1,0,0
 "London, ON",Canada,2020-02-04 00:03:11,1,0,0
 ,Finland,2020-01-31 08:15:53,1,0,0
-Tibet,Mainland China,2020-02-01 01:52:40,1,0,0
+Tibet,Winnie Happy Empire,2020-02-01 01:52:40,1,0,0
 ,Nepal,2020-01-31 08:15:53,1,0,0
 ,Sri Lanka,2020-02-08 03:43:03,1,0,1
 ,Sweden,2020-02-01 02:13:26,1,0,0

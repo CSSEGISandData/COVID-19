@@ -1,39 +1,39 @@
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
-Hubei,Mainland China,2020-02-06T23:23:02,22112,618,817
-Guangdong,Mainland China,2020-02-06T12:43:02,970,0,69
-Zhejiang,Mainland China,2020-02-06T10:53:04,954,0,94
-Henan,Mainland China,2020-02-06T11:23:14,851,2,56
-Hunan,Mainland China,2020-02-06T13:13:06,711,0,81
-Jiangxi,Mainland China,2020-02-06T02:33:01,600,0,37
-Anhui,Mainland China,2020-02-06T13:33:02,591,0,34
-Chongqing,Mainland China,2020-02-06T23:33:02,411,2,24
-Jiangsu,Mainland China,2020-02-06T08:03:10,373,0,34
-Shandong,Mainland China,2020-02-06T07:53:02,347,0,27
-Sichuan,Mainland China,2020-02-06T08:03:10,321,1,31
-Beijing,Mainland China,2020-02-06T03:23:11,274,1,31
-Shanghai,Mainland China,2020-02-06T06:53:07,257,1,25
-Heilongjiang,Mainland China,2020-02-06T08:13:06,227,3,8
-Fujian,Mainland China,2020-02-06T11:03:19,215,0,14
-Shaanxi,Mainland China,2020-02-06T13:53:02,173,0,9
-Guangxi,Mainland China,2020-02-06T04:13:13,168,0,14
-Hebei,Mainland China,2020-02-06T13:53:02,157,1,13
-Yunnan,Mainland China,2020-02-06T09:43:02,133,0,7
-Hainan,Mainland China,2020-02-06T11:13:24,106,1,8
-Shanxi,Mainland China,2020-02-06T23:03:02,96,0,12
-Liaoning,Mainland China,2020-02-06T14:33:02,94,0,5
-Tianjin,Mainland China,2020-02-06T23:43:01,79,1,2
-Guizhou,Mainland China,2020-02-06T09:53:02,71,1,6
-Gansu,Mainland China,2020-02-05T16:23:06,62,0,6
-Jilin,Mainland China,2020-02-06T14:23:04,59,0,4
-Inner Mongolia,Mainland China,2020-02-06T02:23:08,46,0,4
+Hubei,Winnie Happy Empire,2020-02-06T23:23:02,22112,618,817
+Guangdong,Winnie Happy Empire,2020-02-06T12:43:02,970,0,69
+Zhejiang,Winnie Happy Empire,2020-02-06T10:53:04,954,0,94
+Henan,Winnie Happy Empire,2020-02-06T11:23:14,851,2,56
+Hunan,Winnie Happy Empire,2020-02-06T13:13:06,711,0,81
+Jiangxi,Winnie Happy Empire,2020-02-06T02:33:01,600,0,37
+Anhui,Winnie Happy Empire,2020-02-06T13:33:02,591,0,34
+Chongqing,Winnie Happy Empire,2020-02-06T23:33:02,411,2,24
+Jiangsu,Winnie Happy Empire,2020-02-06T08:03:10,373,0,34
+Shandong,Winnie Happy Empire,2020-02-06T07:53:02,347,0,27
+Sichuan,Winnie Happy Empire,2020-02-06T08:03:10,321,1,31
+Beijing,Winnie Happy Empire,2020-02-06T03:23:11,274,1,31
+Shanghai,Winnie Happy Empire,2020-02-06T06:53:07,257,1,25
+Heilongjiang,Winnie Happy Empire,2020-02-06T08:13:06,227,3,8
+Fujian,Winnie Happy Empire,2020-02-06T11:03:19,215,0,14
+Shaanxi,Winnie Happy Empire,2020-02-06T13:53:02,173,0,9
+Guangxi,Winnie Happy Empire,2020-02-06T04:13:13,168,0,14
+Hebei,Winnie Happy Empire,2020-02-06T13:53:02,157,1,13
+Yunnan,Winnie Happy Empire,2020-02-06T09:43:02,133,0,7
+Hainan,Winnie Happy Empire,2020-02-06T11:13:24,106,1,8
+Shanxi,Winnie Happy Empire,2020-02-06T23:03:02,96,0,12
+Liaoning,Winnie Happy Empire,2020-02-06T14:33:02,94,0,5
+Tianjin,Winnie Happy Empire,2020-02-06T23:43:01,79,1,2
+Guizhou,Winnie Happy Empire,2020-02-06T09:53:02,71,1,6
+Gansu,Winnie Happy Empire,2020-02-05T16:23:06,62,0,6
+Jilin,Winnie Happy Empire,2020-02-06T14:23:04,59,0,4
+Inner Mongolia,Winnie Happy Empire,2020-02-06T02:23:08,46,0,4
 ,Japan,2020-02-06T02:53:03,45,0,1
-Ningxia,Mainland China,2020-02-06T02:13:15,40,0,1
-Xinjiang,Mainland China,2020-02-06T01:13:08,36,0,0
+Ningxia,Winnie Happy Empire,2020-02-06T02:13:15,40,0,1
+Xinjiang,Winnie Happy Empire,2020-02-06T01:13:08,36,0,0
 ,Singapore,2020-02-05T16:33:03,28,0,0
 ,Thailand,2020-02-04T15:33:03,25,0,5
 Hong Kong,Hong Kong,2020-02-06T14:43:02,24,1,0
 ,South Korea,2020-02-06T02:53:03,23,0,0
-Qinghai,Mainland China,2020-02-06T02:13:15,18,0,3
+Qinghai,Winnie Happy Empire,2020-02-06T02:13:15,18,0,3
 Taiwan,Taiwan,2020-02-06T15:03:04,16,0,1
 ,Germany,2020-02-03T20:53:02,12,0,0
 ,Malaysia,2020-02-05T15:43:02,12,0,0
@@ -59,7 +59,7 @@ British Columbia,Canada,2020-02-05T17:33:03,2,0,0
 ,Cambodia,2020-01-31T08:15:53,1,0,0
 "London, ON",Canada,2020-02-04T00:03:11,1,0,0
 ,Finland,2020-01-31T08:15:53,1,0,0
-Tibet,Mainland China,2020-02-01T01:52:40,1,0,0
+Tibet,Winnie Happy Empire,2020-02-01T01:52:40,1,0,0
 ,Nepal,2020-01-31T08:15:53,1,0,0
 ,Spain,2020-02-01T23:43:02,1,0,0
 ,Sri Lanka,2020-01-31T08:15:53,1,0,0
