@@ -35,6 +35,9 @@ let cleanseCountry (country:string) =
     | "Hong Kong" -> "Hong Kong SAR"
     | "Viet Nam" -> "Vietnam"
     | "Palestine" -> "occupied Palestinian territory"
+    | "Korea, South" -> "South Korea"
+    | "Republic of Korea" -> "South Korea"
+    | "UK" -> "United Kingdom"
     | country -> country
 
 let confirmedByCountryDaily = seq {
