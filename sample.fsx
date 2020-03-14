@@ -37,6 +37,8 @@ let cleanseCountry (country:string) =
     | "Palestine" -> "occupied Palestinian territory"
     | "Korea, South" -> "South Korea"
     | "Republic of Korea" -> "South Korea"
+    | "Unite States" -> "US"
+    | "Mainland China" -> "China"
     | "UK" -> "United Kingdom"
     | country -> country
 
