@@ -54,9 +54,9 @@ South Australia,Australia,AU,AUS,Oceania,2020-02-02T22:33:07,2,0,0
 "Toronto, ON",Canada,CA,CAN,Americas,2020-02-04T00:13:06,2,0,0
 ,Russia,,,,2020-02-12T14:43:03,2,0,2
 ,Spain,ES,ESP,Europe,2020-02-09T20:33:03,2,0,0
-"Chicago, IL",US,,,,2020-02-09T19:03:03,2,0,2
-"San Benito, CA",US,,,,2020-02-03T03:53:02,2,0,0
-"Santa Clara, CA",US,,,,2020-02-03T00:43:02,2,0,0
+"Chicago, IL",US,US,USA,Americas,2020-02-09T19:03:03,2,0,2
+"San Benito, CA",US,US,USA,Americas,2020-02-03T03:53:02,2,0,0
+"Santa Clara, CA",US,US,USA,Americas,2020-02-03T00:43:02,2,0,0
 ,Belgium,BE,BEL,Europe,2020-02-04T15:43:02,1,0,0
 ,Cambodia,KH,KHM,Asia,2020-02-12T07:43:02,1,0,1
 "London, ON",Canada,CA,CAN,Americas,2020-02-12T18:53:03,1,0,1
@@ -65,10 +65,10 @@ Tibet,Mainland China,CN,CHN,Asia,2020-02-12T06:43:02,1,0,1
 ,Nepal,NP,NPL,Asia,2020-02-12T14:43:03,1,0,1
 ,Sri Lanka,LK,LKA,Asia,2020-02-08T03:43:03,1,0,1
 ,Sweden,SE,SWE,Europe,2020-02-01T02:13:26,1,0,0
-"Boston, MA",US,,,,2020-02-01T19:43:03,1,0,0
-"Los Angeles, CA",US,,,,2020-02-01T19:53:03,1,0,0
-"Madison, WI",US,,,,2020-02-05T21:53:02,1,0,0
-"Orange, CA",US,,,,2020-02-01T19:53:03,1,0,0
-"San Diego County, CA",US,,,,2020-02-11T01:23:05,1,0,0
-"Seattle, WA",US,,,,2020-02-09T07:03:04,1,0,1
-"Tempe, AZ",US,,,,2020-02-01T19:43:03,1,0,0
+"Boston, MA",US,US,USA,Americas,2020-02-01T19:43:03,1,0,0
+"Los Angeles, CA",US,US,USA,Americas,2020-02-01T19:53:03,1,0,0
+"Madison, WI",US,US,USA,Americas,2020-02-05T21:53:02,1,0,0
+"Orange, CA",US,US,USA,Americas,2020-02-01T19:53:03,1,0,0
+"San Diego County, CA",US,US,USA,Americas,2020-02-11T01:23:05,1,0,0
+"Seattle, WA",US,US,USA,Americas,2020-02-09T07:03:04,1,0,1
+"Tempe, AZ",US,US,USA,Americas,2020-02-01T19:43:03,1,0,0

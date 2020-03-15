@@ -37,7 +37,7 @@ Inner Mongolia,Mainland China,CN,CHN,Asia,2020-02-27T23:33:02,75,0,43
 Ningxia,Mainland China,CN,CHN,Asia,2020-02-27T10:03:07,72,0,68
 ,Germany,DE,DEU,Europe,2020-02-27T23:13:04,46,0,16
 ,Kuwait,KW,KWT,Asia,2020-02-27T13:33:03,43,0,0
-Unassigned Location (From Diamond Princess),US,,,,2020-02-26T20:03:06,42,0,0
+Unassigned Location (From Diamond Princess),US,US,USA,Americas,2020-02-26T20:03:06,42,0,0
 ,Thailand,TH,THA,Asia,2020-02-26T07:23:03,40,0,22
 ,France,FR,FRA,Europe,2020-02-27T22:13:10,38,2,11
 ,Bahrain,BH,BHR,Asia,2020-02-26T21:03:07,33,0,0
@@ -70,11 +70,11 @@ South Australia,Australia,AU,AUS,Oceania,2020-02-17T08:13:09,2,0,2
 ,Lebanon,LB,LBN,Asia,2020-02-26T19:33:02,2,0,0
 ,Pakistan,PK,PAK,Asia,2020-02-26T23:53:02,2,0,0
 ,Russia,,,,2020-02-12T14:43:03,2,0,2
-"Chicago, IL",US,,,,2020-02-09T19:03:03,2,0,2
-"Sacramento County, CA",US,,,,2020-02-27T20:33:02,2,0,0
-"San Benito, CA",US,,,,2020-02-03T03:53:02,2,0,0
-"San Diego County, CA",US,,,,2020-02-21T05:43:02,2,0,1
-"Santa Clara, CA",US,,,,2020-02-21T05:23:04,2,0,1
+"Chicago, IL",US,US,USA,Americas,2020-02-09T19:03:03,2,0,2
+"Sacramento County, CA",US,US,USA,Americas,2020-02-27T20:33:02,2,0,0
+"San Benito, CA",US,US,USA,Americas,2020-02-03T03:53:02,2,0,0
+"San Diego County, CA",US,US,USA,Americas,2020-02-21T05:43:02,2,0,1
+"Santa Clara, CA",US,US,USA,Americas,2020-02-21T05:23:04,2,0,1
 ,Afghanistan,AF,AFG,Asia,2020-02-24T23:33:02,1,0,0
 ,Algeria,DZ,DZA,Africa,2020-02-25T23:43:03,1,0,0
 ,Belgium,BE,BEL,Europe,2020-02-17T04:23:06,1,0,1
@@ -93,14 +93,14 @@ Tibet,Mainland China,CN,CHN,Asia,2020-02-12T06:43:02,1,0,1
 ,Romania,RO,ROU,Europe,2020-02-27T16:23:03,1,0,0
 ,San Marino,SM,SMR,Europe,2020-02-27T21:13:10,1,0,0
 ,Sri Lanka,LK,LKA,Asia,2020-02-08T03:43:03,1,0,1
-"Boston, MA",US,,,,2020-02-01T19:43:03,1,0,0
-"Humboldt County, CA",US,,,,2020-02-21T05:13:09,1,0,0
-"Los Angeles, CA",US,,,,2020-02-01T19:53:03,1,0,0
-"Madison, WI",US,,,,2020-02-05T21:53:02,1,0,0
-"Orange, CA",US,,,,2020-02-01T19:53:03,1,0,0
-"San Antonio, TX",US,,,,2020-02-13T18:53:02,1,0,0
-"Seattle, WA",US,,,,2020-02-09T07:03:04,1,0,1
-"Tempe, AZ",US,,,,2020-02-25T21:23:03,1,0,1
-"Lackland, TX (From Diamond Princess)",US,,,,2020-02-24T23:33:02,0,0,0
-"Omaha, NE (From Diamond Princess)",US,,,,2020-02-24T23:33:02,0,0,0
-"Travis, CA (From Diamond Princess)",US,,,,2020-02-24T23:33:02,0,0,0
+"Boston, MA",US,US,USA,Americas,2020-02-01T19:43:03,1,0,0
+"Humboldt County, CA",US,US,USA,Americas,2020-02-21T05:13:09,1,0,0
+"Los Angeles, CA",US,US,USA,Americas,2020-02-01T19:53:03,1,0,0
+"Madison, WI",US,US,USA,Americas,2020-02-05T21:53:02,1,0,0
+"Orange, CA",US,US,USA,Americas,2020-02-01T19:53:03,1,0,0
+"San Antonio, TX",US,US,USA,Americas,2020-02-13T18:53:02,1,0,0
+"Seattle, WA",US,US,USA,Americas,2020-02-09T07:03:04,1,0,1
+"Tempe, AZ",US,US,USA,Americas,2020-02-25T21:23:03,1,0,1
+"Lackland, TX (From Diamond Princess)",US,US,USA,Americas,2020-02-24T23:33:02,0,0,0
+"Omaha, NE (From Diamond Princess)",US,US,USA,Americas,2020-02-24T23:33:02,0,0,0
+"Travis, CA (From Diamond Princess)",US,US,USA,Americas,2020-02-24T23:33:02,0,0,0

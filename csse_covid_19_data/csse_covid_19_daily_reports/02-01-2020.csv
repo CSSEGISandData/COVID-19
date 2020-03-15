@@ -48,7 +48,7 @@ Ontario,Canada,CA,CAN,Americas,2/1/2020 18:12,3,0,0
 ,Italy,IT,ITA,Europe,1/31/2020 8:15,2,0,0
 ,Russia,,,,1/31/2020 16:13,2,0,0
 ,UK,GB,GBR,Europe,2/1/2020 1:52,2,0,0
-"Chicago, IL",US,,,,2/1/2020 19:43,2,0,0
+"Chicago, IL",US,US,USA,Americas,2/1/2020 19:43,2,0,0
 South Australia,Australia,AU,AUS,Oceania,2/1/2020 18:12,1,0,0
 ,Cambodia,KH,KHM,Asia,1/31/2020 8:15,1,0,0
 British Columbia,Canada,CA,CAN,Americas,2/1/2020 18:12,1,0,0
@@ -60,9 +60,9 @@ Tibet,Mainland China,CN,CHN,Asia,2/1/2020 1:52,1,0,0
 ,Spain,ES,ESP,Europe,2/1/2020 2:13,1,0,0
 ,Sri Lanka,LK,LKA,Asia,1/31/2020 8:15,1,0,0
 ,Sweden,SE,SWE,Europe,2/1/2020 2:13,1,0,0
-"Boston, MA",US,,,,2/1/2020 19:43,1,0,0
-"Los Angeles, CA",US,,,,2/1/2020 19:53,1,0,0
-"Orange, CA",US,,,,2/1/2020 19:53,1,0,0
-"Santa Clara, CA",US,,,,2/1/2020 19:53,1,0,0
-"Seattle, WA",US,,,,2/1/2020 19:43,1,0,0
-"Tempe, AZ",US,,,,2/1/2020 19:43,1,0,0
+"Boston, MA",US,US,USA,Americas,2/1/2020 19:43,1,0,0
+"Los Angeles, CA",US,US,USA,Americas,2/1/2020 19:53,1,0,0
+"Orange, CA",US,US,USA,Americas,2/1/2020 19:53,1,0,0
+"Santa Clara, CA",US,US,USA,Americas,2/1/2020 19:53,1,0,0
+"Seattle, WA",US,US,USA,Americas,2/1/2020 19:43,1,0,0
+"Tempe, AZ",US,US,USA,Americas,2/1/2020 19:43,1,0,0
