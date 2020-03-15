@@ -1,3 +1,5 @@
+# See our blog post [here](https://www.compositional-it.com/news-blog/using-f-for-rapid-data-analysis/) for details on the F# script contained within this repository
+
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 
