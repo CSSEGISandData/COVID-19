@@ -25,6 +25,7 @@ let allData =
     files
     |> Seq.map Daily.Load
     |> Seq.collect(fun data -> data.Rows)
+    |> Seq.distinctBy (fun row -> row.``Country/Region``, row.``Province/State``, row.``Last Update``.Date)
     |> Seq.filter(fun row -> row.``Country/Region`` <> "Others")
 
 let cleanseCountry (country:string) =
@@ -35,6 +36,11 @@ let cleanseCountry (country:string) =
     | "Hong Kong" -> "Hong Kong SAR"
     | "Viet Nam" -> "Vietnam"
     | "Palestine" -> "occupied Palestinian territory"
+    | "Korea, South" -> "South Korea"
+    | "Republic of Korea" -> "South Korea"
+    | "Unite States" -> "US"
+    | "Mainland China" -> "China"
+    | "UK" -> "United Kingdom"
     | country -> country
 
 let confirmedByCountryDaily = seq {
