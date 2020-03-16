@@ -13,11 +13,15 @@ jobs:
     
     - name: Copy Repository Contents
       uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.6
 
     - name: Install packages
       run: |
-        sudo apt-get install python3-setuptools
-        pip3 install pandas scrapy jupyterlab papermill ipykernel
+        pip install pandas scrapy jupyterlab papermill ipykernel
         python3 -m ipykernel install --user --name python3
         sudo chmod -R 777 .
     
