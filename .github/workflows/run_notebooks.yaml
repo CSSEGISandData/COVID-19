@@ -1,7 +1,7 @@
 name: Update Notebooks
 on:
   schedule:
-    - cron:  '*/60 * * * *'
+    - cron:  '*/15 * * * *'
 
 jobs:
   update-notebooks:
