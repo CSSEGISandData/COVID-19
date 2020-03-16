@@ -14,11 +14,14 @@ jobs:
     - name: Copy Repository Contents
       uses: actions/checkout@v2
 
-    - name: Run notebooks
+    - name: Install packages
       run: |
         sudo apt-get install python3-setuptools
         pip3 install pandas scrapy jupyterlab papermill ipykernel
         python3 -m ipykernel install --user --name python3
         sudo chmod -R 777 .
+    
+    - name: Run notebooks
+      run: |
         cd data_generation
-        ls *.ipynb
+        for nb in $(ls *ipynb); do papermill --kernel python3 $nb $nb
