@@ -16,6 +16,7 @@ jobs:
 
     - name: Run notebooks
       run: |
+        sudo apt-get install python3-setuptools
         pip3 install pandas scrapy jupyterlab papermill ipykernel
         python3 -m ipykernel install --user --name python3
         sudo chmod -R 777 .
