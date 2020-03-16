@@ -1,142 +1,142 @@
-Province/State,Country/Region,CountryAlpha2,CountryAlpha3,M49Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
-Hubei,Mainland China,CN,CHN,Asia,2020-03-02T15:03:23,67103,2803,33934,30.9756,112.2707
-,South Korea,,,,2020-03-02T20:23:16,4335,28,30,36.0000,128.0000
-,Italy,IT,ITA,Europe,2020-03-02T20:23:16,2036,52,149,43.0000,12.0000
-,Iran,IR,IRN,Asia,2020-03-02T20:23:16,1501,66,291,32.0000,53.0000
-Guangdong,Mainland China,CN,CHN,Asia,2020-03-02T15:03:23,1350,7,1059,23.3417,113.4244
-Henan,Mainland China,CN,CHN,Asia,2020-03-02T11:43:03,1272,22,1205,33.8820,113.6140
-Zhejiang,Mainland China,CN,CHN,Asia,2020-03-02T11:43:03,1206,1,1069,29.1832,120.0934
-Hunan,Mainland China,CN,CHN,Asia,2020-03-02T11:43:03,1018,4,887,27.6104,111.7088
-Anhui,Mainland China,CN,CHN,Asia,2020-03-02T15:03:23,990,6,917,31.8257,117.2264
-Jiangxi,Mainland China,CN,CHN,Asia,2020-03-02T01:33:02,935,1,850,27.6140,115.7221
-Shandong,Mainland China,CN,CHN,Asia,2020-03-02T08:03:12,758,6,460,36.3427,118.1498
-Diamond Princess cruise ship,Others,,,,2020-03-02T14:33:03,705,6,10,35.4437,139.6380
-Jiangsu,Mainland China,CN,CHN,Asia,2020-03-02T12:53:02,631,0,543,32.9711,119.4550
-Chongqing,Mainland China,CN,CHN,Asia,2020-03-02T23:23:02,576,6,469,30.0572,107.8740
-Sichuan,Mainland China,CN,CHN,Asia,2020-03-02T15:03:23,538,3,386,30.6171,102.7103
-Heilongjiang,Mainland China,CN,CHN,Asia,2020-03-02T12:53:02,480,13,356,47.8620,127.7615
-Beijing,Mainland China,CN,CHN,Asia,2020-03-02T02:13:16,414,8,282,40.1824,116.4142
-Shanghai,Mainland China,CN,CHN,Asia,2020-03-02T04:03:13,337,3,292,31.2020,121.4491
-Hebei,Mainland China,CN,CHN,Asia,2020-03-02T09:43:05,318,6,296,38.0428,114.5149
-Fujian,Mainland China,CN,CHN,Asia,2020-03-02T12:53:02,296,1,255,26.0789,117.9874
-,Japan,JP,JPN,Asia,2020-03-02T20:33:02,274,6,32,36.0000,138.0000
-Guangxi,Mainland China,CN,CHN,Asia,2020-03-02T12:53:02,252,2,192,23.8298,108.7881
-Shaanxi,Mainland China,CN,CHN,Asia,2020-03-02T08:03:12,245,1,216,35.1917,108.8701
-,France,FR,FRA,Europe,2020-03-02T20:33:02,191,3,12,47.0000,2.0000
-Yunnan,Mainland China,CN,CHN,Asia,2020-03-02T06:23:04,174,2,168,24.9740,101.4870
-Hainan,Mainland China,CN,CHN,Asia,2020-03-02T02:03:18,168,5,151,19.1959,109.7453
-,Germany,DE,DEU,Europe,2020-03-02T20:33:02,159,0,16,51.0000,9.0000
-Guizhou,Mainland China,CN,CHN,Asia,2020-03-02T01:13:06,146,2,114,26.8154,106.8748
-Tianjin,Mainland China,CN,CHN,Asia,2020-03-01T12:43:02,136,3,111,39.3054,117.3230
-Shanxi,Mainland China,CN,CHN,Asia,2020-03-02T23:23:02,133,0,119,37.5777,112.2922
-Liaoning,Mainland China,CN,CHN,Asia,2020-03-01T12:23:06,122,1,103,41.2956,122.6085
-,Spain,ES,ESP,Europe,2020-03-02T14:43:05,120,0,2,40.0000,-4.0000
-,Singapore,SG,SGP,Asia,2020-03-02T20:33:02,108,0,78,1.2833,103.8333
-Hong Kong,Hong Kong,HK,HKG,Asia,2020-03-02T23:53:02,100,2,36,22.3000,114.2000
-Jilin,Mainland China,CN,CHN,Asia,2020-03-02T15:03:23,93,1,83,43.6661,126.1923
-Gansu,Mainland China,CN,CHN,Asia,2020-03-02T15:03:23,91,2,85,36.0611,103.8343
-Xinjiang,Mainland China,CN,CHN,Asia,2020-03-02T15:43:31,76,3,66,41.1129,85.2401
-Inner Mongolia,Mainland China,CN,CHN,Asia,2020-03-02T10:23:04,75,0,54,44.0935,113.9448
-Ningxia,Mainland China,CN,CHN,Asia,2020-03-02T01:33:02,74,0,69,37.2692,106.1655
-,Kuwait,KW,KWT,Asia,2020-03-02T20:33:02,56,0,0,29.5000,47.7500
-,Bahrain,BH,BHR,Asia,2020-03-02T20:33:02,49,0,0,26.0275,50.5500
-Unassigned Location (From Diamond Princess),US,US,USA,Americas,2020-03-02T19:53:03,45,0,0,35.4437,139.6380
-,Thailand,TH,THA,Asia,2020-03-02T06:23:04,43,1,31,15.0000,101.0000
-,Switzerland,CH,CHE,Europe,2020-03-02T22:33:09,42,0,0,46.8182,8.2275
-Taiwan,Taiwan,TW,TWN,,2020-03-02T08:03:12,41,1,12,23.7000,121.0000
-,UK,GB,GBR,Europe,2020-03-02T20:33:02,40,0,8,55.0000,-3.0000
-,Malaysia,MY,MYS,Asia,2020-03-01T12:53:02,29,0,18,2.5000,112.5000
-,Iraq,IQ,IRQ,Asia,2020-03-02T20:53:02,26,0,0,33.0000,44.0000
-,Norway,NO,NOR,Europe,2020-03-02T20:53:02,25,0,0,60.4720,8.4689
-,United Arab Emirates,,,,2020-02-29T12:33:03,21,0,5,24.0000,54.0000
-,Austria,AT,AUT,Europe,2020-03-02T21:23:04,18,0,0,47.5162,14.5501
-Qinghai,Mainland China,CN,CHN,Asia,2020-02-21T04:43:02,18,0,18,35.7452,95.9956
-,Netherlands,NL,NLD,Europe,2020-03-02T20:53:02,18,0,0,52.1326,5.2913
-"Toronto, ON",Canada,CA,CAN,Americas,2020-03-02T20:53:02,17,0,2,43.6532,-79.3832
-,Vietnam,VN,VNM,Asia,2020-02-25T08:53:02,16,0,16,16.0000,108.0000
-,Sweden,SE,SWE,Europe,2020-03-02T20:53:02,15,0,0,63.0000,16.0000
-"King County, WA",US,US,USA,Americas,2020-03-02T20:23:16,14,5,1,47.5480,-121.9836
-,Lebanon,LB,LBN,Asia,2020-03-02T20:53:02,13,0,0,33.8547,35.8623
-,Israel,IL,ISR,Asia,2020-03-01T23:23:02,10,0,1,31.0000,35.0000
-Macau,Macau,MO,MAC,Asia,2020-02-27T12:43:02,10,0,8,22.1667,113.5500
-Queensland,Australia,AU,AUS,Oceania,2020-02-29T02:03:10,9,0,1,-28.0167,153.4000
-Victoria,Australia,AU,AUS,Oceania,2020-03-02T00:53:03,9,0,4,-37.8136,144.9631
-"Santa Clara, CA",US,US,USA,Americas,2020-03-02T20:33:02,9,0,1,37.3541,-121.9552
-,Belgium,BE,BEL,Europe,2020-03-02T20:53:02,8,0,1,50.8333,4.0000
-British Columbia,Canada,CA,CAN,Americas,2020-02-29T23:23:13,8,0,3,49.2827,-123.1207
-,San Marino,SM,SMR,Europe,2020-03-02T01:03:12,8,0,0,43.9424,12.4578
-,Croatia,HR,HRV,Europe,2020-03-01T23:33:03,7,0,0,45.1000,15.2000
-,Greece,GR,GRC,Europe,2020-03-01T23:23:02,7,0,0,39.0742,21.8243
-New South Wales,Australia,AU,AUS,Oceania,2020-03-01T23:33:03,6,0,4,-33.8688,151.2093
-,Ecuador,EC,ECU,Americas,2020-03-01T23:33:03,6,0,0,-1.8312,-78.1834
-,Finland,FI,FIN,Europe,2020-03-01T23:23:02,6,0,1,64.0000,26.0000
-,Iceland,IS,ISL,Europe,2020-03-02T22:33:09,6,0,0,64.9631,-19.0208
-,Oman,OM,OMN,Asia,2020-02-29T12:33:03,6,0,1,21.0000,57.0000
-,India,IN,IND,Asia,2020-03-02T22:33:09,5,0,3,21.0000,78.0000
-,Mexico,MX,MEX,Americas,2020-03-01T23:33:03,5,0,0,23.0000,-102.0000
-,Denmark,DK,DNK,Europe,2020-03-01T23:33:03,4,0,0,56.2639,9.5018
-,Pakistan,PK,PAK,Asia,2020-02-29T18:03:05,4,0,0,30.3753,69.3451
-"Cook County, IL",US,US,USA,Americas,2020-03-02T20:33:02,4,0,2,41.7377,-87.6976
-"Snohomish County, WA",US,US,USA,Americas,2020-03-02T20:53:02,4,1,0,48.0330,-121.8339
-,Algeria,DZ,DZA,Africa,2020-03-02T00:53:03,3,0,0,28.0339,1.6596
-South Australia,Australia,AU,AUS,Oceania,2020-02-29T02:03:10,3,0,2,-34.9285,138.6007
-,Azerbaijan,AZ,AZE,Asia,2020-03-01T02:43:03,3,0,0,40.1431,47.5769
-,Czech Republic,CZ,CZE,Europe,2020-03-02T16:33:02,3,0,0,49.8175,15.4730
-,Georgia,GE,GEO,Asia,2020-03-01T15:43:03,3,0,0,42.3154,43.3569
-,Philippines,PH,PHL,Asia,2020-02-12T07:43:02,3,1,1,13.0000,122.0000
-,Qatar,QA,QAT,Asia,2020-03-01T23:33:03,3,0,0,25.3548,51.1839
-,Romania,RO,ROU,Europe,2020-02-28T15:33:03,3,0,0,45.9432,24.9668
-,Russia,RU,RUS,Europe,2020-03-02T21:23:04,3,0,2,60.0000,90.0000
-Western Australia,Australia,AU,AUS,Oceania,2020-03-01T02:43:03,2,1,0,-31.9505,115.8605
-,Brazil,BR,BRA,Americas,2020-02-29T21:03:05,2,0,0,-14.2350,-51.9253
-,Egypt,EG,EGY,Africa,2020-03-01T23:33:03,2,0,1,26.0000,30.0000
-,Indonesia,ID,IDN,Asia,2020-03-02T18:03:04,2,0,0,-0.7893,113.9213
-,Portugal,PT,PRT,Europe,2020-03-02T22:43:02,2,0,0,39.3999,-8.2245
-"Portland, OR",US,US,USA,Americas,2020-03-02T03:33:08,2,0,0,45.5051,-122.6750
-"Providence, RI",US,US,USA,Americas,2020-03-02T03:43:02,2,0,0,41.8240,-71.4128
-"Sacramento County, CA",US,US,USA,Americas,2020-02-27T20:33:02,2,0,0,38.4747,-121.3542
-"San Benito, CA",US,US,USA,Americas,2020-02-03T03:53:02,2,0,0,36.5761,-120.9876
-"San Diego County, CA",US,US,USA,Americas,2020-02-21T05:43:02,2,0,1,32.7157,-117.1611
-,Afghanistan,AF,AFG,Asia,2020-02-24T23:33:02,1,0,0,33.0000,65.0000
-,Andorra,AD,AND,Europe,2020-03-02T20:23:16,1,0,0,42.5063,1.5218
-,Armenia,AM,ARM,Asia,2020-03-01T19:53:02,1,0,0,40.0691,45.0382
-Tasmania,Australia,AU,AUS,Oceania,2020-03-02T20:53:02,1,0,0,-41.4545,145.9707
-,Belarus,BY,BLR,Europe,2020-02-28T16:23:03,1,0,0,53.7098,27.9534
-,Cambodia,KH,KHM,Asia,2020-02-12T07:43:02,1,0,1,11.5500,104.9167
-" Montreal, QC",Canada,CA,CAN,Americas,2020-02-28T05:23:07,1,0,0,45.5017,-73.5673
-"London, ON",Canada,CA,CAN,Americas,2020-02-12T18:53:03,1,0,1,42.9849,-81.2453
-,Dominican Republic,,,,2020-03-02T16:33:02,1,0,0,18.7357,-70.1627
-,Estonia,EE,EST,Europe,2020-02-27T16:23:03,1,0,0,58.5953,25.0136
-,Ireland,IE,IRL,Europe,2020-03-01T07:13:07,1,0,0,53.1424,-7.6921
-,Latvia,LV,LVA,Europe,2020-03-02T20:13:49,1,0,0,56.8796,24.6032
-,Lithuania,LT,LTU,Europe,2020-02-28T16:23:03,1,0,0,55.1694,23.8813
-,Luxembourg,LU,LUX,Europe,2020-03-01T07:13:07,1,0,0,49.8153,6.1296
-Tibet,Mainland China,CN,CHN,Asia,2020-02-12T06:43:02,1,0,1,31.6927,88.0924
-,Monaco,MC,MCO,Europe,2020-02-29T00:33:01,1,0,0,43.7333,7.4167
-,Morocco,MA,MAR,Africa,2020-03-02T22:33:09,1,0,0,31.7917,-7.0926
-,Nepal,NP,NPL,Asia,2020-02-12T14:43:03,1,0,1,28.1667,84.2500
-,New Zealand,NZ,NZL,Oceania,2020-02-28T16:23:03,1,0,0,-40.9006,174.8860
-,Nigeria,NG,NGA,Africa,2020-02-28T16:23:03,1,0,0,9.0820,8.6753
-,North Macedonia,,,,2020-02-27T16:23:03,1,0,0,41.6086,21.7453
-,Saudi Arabia,SA,SAU,Asia,2020-03-02T23:53:02,1,0,0,24.0000,45.0000
-,Senegal,SN,SEN,Africa,2020-03-02T20:23:16,1,0,0,14.4974,-14.4524
-,Sri Lanka,LK,LKA,Asia,2020-02-08T03:43:03,1,0,1,7.0000,81.0000
-"Boston, MA",US,US,USA,Americas,2020-02-28T21:13:12,1,0,1,42.3601,-71.0589
-"Grafton County, NH",US,US,USA,Americas,2020-03-02T20:33:02,1,0,0,43.9088,-71.8260
-"Hillsborough, FL",US,US,USA,Americas,2020-03-02T03:13:25,1,0,0,27.9904,-82.3018
-"Humboldt County, CA",US,US,USA,Americas,2020-02-21T05:13:09,1,0,0,40.7450,-123.8695
-"Los Angeles, CA",US,US,USA,Americas,2020-02-01T19:53:03,1,0,0,34.0522,-118.2437
-"Madison, WI",US,US,USA,Americas,2020-02-05T21:53:02,1,0,0,43.0731,-89.4012
-"New York City, NY",US,US,USA,Americas,2020-03-02T01:53:03,1,0,0,40.7128,-74.0060
-"Orange, CA",US,US,USA,Americas,2020-02-01T19:53:03,1,0,0,33.7879,-117.8531
-"Placer County, CA",US,US,USA,Americas,2020-03-02T23:53:02,1,0,0,39.0916,-120.8039
-"San Antonio, TX",US,US,USA,Americas,2020-02-13T18:53:02,1,0,0,29.4241,-98.4936
-"San Mateo, CA",US,US,USA,Americas,2020-03-02T20:43:02,1,0,0,37.5630,-122.3255
-"Sarasota, FL",US,US,USA,Americas,2020-03-02T03:23:06,1,0,0,27.3364,-82.5307
-"Sonoma County, CA",US,US,USA,Americas,2020-03-02T20:53:02,1,0,0,38.5780,-122.9888
-"Tempe, AZ",US,US,USA,Americas,2020-02-25T21:23:03,1,0,1,33.4255,-111.9400
-"Umatilla, OR",US,US,USA,Americas,2020-03-02T20:23:16,1,0,0,45.7750,-118.7606
-From Diamond Princess,Australia,AU,AUS,Oceania,2020-02-29T02:03:10,0,0,0,35.4437,139.6380
-"Lackland, TX (From Diamond Princess)",US,US,USA,Americas,2020-02-24T23:33:02,0,0,0,29.3829,-98.6134
-"Omaha, NE (From Diamond Princess)",US,US,USA,Americas,2020-02-24T23:33:02,0,0,0,41.2545,-95.9758
-"Travis, CA (From Diamond Princess)",US,US,USA,Americas,2020-02-24T23:33:02,0,0,0,38.2721,-121.9399
+Province/State,Country/Region,CountryAlpha2,CountryAlpha3,M49Region,M49SubRegion,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+Hubei,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T15:03:23,67103,2803,33934,30.9756,112.2707
+,South Korea,,,,,2020-03-02T20:23:16,4335,28,30,36.0000,128.0000
+,Italy,IT,ITA,Europe,Southern Europe,2020-03-02T20:23:16,2036,52,149,43.0000,12.0000
+,Iran,IR,IRN,Asia,Southern Asia,2020-03-02T20:23:16,1501,66,291,32.0000,53.0000
+Guangdong,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T15:03:23,1350,7,1059,23.3417,113.4244
+Henan,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T11:43:03,1272,22,1205,33.8820,113.6140
+Zhejiang,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T11:43:03,1206,1,1069,29.1832,120.0934
+Hunan,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T11:43:03,1018,4,887,27.6104,111.7088
+Anhui,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T15:03:23,990,6,917,31.8257,117.2264
+Jiangxi,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T01:33:02,935,1,850,27.6140,115.7221
+Shandong,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T08:03:12,758,6,460,36.3427,118.1498
+Diamond Princess cruise ship,Others,,,,,2020-03-02T14:33:03,705,6,10,35.4437,139.6380
+Jiangsu,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T12:53:02,631,0,543,32.9711,119.4550
+Chongqing,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T23:23:02,576,6,469,30.0572,107.8740
+Sichuan,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T15:03:23,538,3,386,30.6171,102.7103
+Heilongjiang,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T12:53:02,480,13,356,47.8620,127.7615
+Beijing,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T02:13:16,414,8,282,40.1824,116.4142
+Shanghai,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T04:03:13,337,3,292,31.2020,121.4491
+Hebei,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T09:43:05,318,6,296,38.0428,114.5149
+Fujian,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T12:53:02,296,1,255,26.0789,117.9874
+,Japan,JP,JPN,Asia,Eastern Asia,2020-03-02T20:33:02,274,6,32,36.0000,138.0000
+Guangxi,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T12:53:02,252,2,192,23.8298,108.7881
+Shaanxi,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T08:03:12,245,1,216,35.1917,108.8701
+,France,FR,FRA,Europe,Western Europe,2020-03-02T20:33:02,191,3,12,47.0000,2.0000
+Yunnan,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T06:23:04,174,2,168,24.9740,101.4870
+Hainan,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T02:03:18,168,5,151,19.1959,109.7453
+,Germany,DE,DEU,Europe,Western Europe,2020-03-02T20:33:02,159,0,16,51.0000,9.0000
+Guizhou,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T01:13:06,146,2,114,26.8154,106.8748
+Tianjin,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-01T12:43:02,136,3,111,39.3054,117.3230
+Shanxi,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T23:23:02,133,0,119,37.5777,112.2922
+Liaoning,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-01T12:23:06,122,1,103,41.2956,122.6085
+,Spain,ES,ESP,Europe,Southern Europe,2020-03-02T14:43:05,120,0,2,40.0000,-4.0000
+,Singapore,SG,SGP,Asia,South-eastern Asia,2020-03-02T20:33:02,108,0,78,1.2833,103.8333
+Hong Kong,Hong Kong,HK,HKG,Asia,Eastern Asia,2020-03-02T23:53:02,100,2,36,22.3000,114.2000
+Jilin,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T15:03:23,93,1,83,43.6661,126.1923
+Gansu,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T15:03:23,91,2,85,36.0611,103.8343
+Xinjiang,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T15:43:31,76,3,66,41.1129,85.2401
+Inner Mongolia,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T10:23:04,75,0,54,44.0935,113.9448
+Ningxia,Mainland China,CN,CHN,Asia,Eastern Asia,2020-03-02T01:33:02,74,0,69,37.2692,106.1655
+,Kuwait,KW,KWT,Asia,Western Asia,2020-03-02T20:33:02,56,0,0,29.5000,47.7500
+,Bahrain,BH,BHR,Asia,Western Asia,2020-03-02T20:33:02,49,0,0,26.0275,50.5500
+Unassigned Location (From Diamond Princess),US,US,USA,Americas,Northern America,2020-03-02T19:53:03,45,0,0,35.4437,139.6380
+,Thailand,TH,THA,Asia,South-eastern Asia,2020-03-02T06:23:04,43,1,31,15.0000,101.0000
+,Switzerland,CH,CHE,Europe,Western Europe,2020-03-02T22:33:09,42,0,0,46.8182,8.2275
+Taiwan,Taiwan,TW,TWN,,,2020-03-02T08:03:12,41,1,12,23.7000,121.0000
+,UK,GB,GBR,Europe,Northern Europe,2020-03-02T20:33:02,40,0,8,55.0000,-3.0000
+,Malaysia,MY,MYS,Asia,South-eastern Asia,2020-03-01T12:53:02,29,0,18,2.5000,112.5000
+,Iraq,IQ,IRQ,Asia,Western Asia,2020-03-02T20:53:02,26,0,0,33.0000,44.0000
+,Norway,NO,NOR,Europe,Northern Europe,2020-03-02T20:53:02,25,0,0,60.4720,8.4689
+,United Arab Emirates,,,,,2020-02-29T12:33:03,21,0,5,24.0000,54.0000
+,Austria,AT,AUT,Europe,Western Europe,2020-03-02T21:23:04,18,0,0,47.5162,14.5501
+Qinghai,Mainland China,CN,CHN,Asia,Eastern Asia,2020-02-21T04:43:02,18,0,18,35.7452,95.9956
+,Netherlands,NL,NLD,Europe,Western Europe,2020-03-02T20:53:02,18,0,0,52.1326,5.2913
+"Toronto, ON",Canada,CA,CAN,Americas,Northern America,2020-03-02T20:53:02,17,0,2,43.6532,-79.3832
+,Vietnam,VN,VNM,Asia,South-eastern Asia,2020-02-25T08:53:02,16,0,16,16.0000,108.0000
+,Sweden,SE,SWE,Europe,Northern Europe,2020-03-02T20:53:02,15,0,0,63.0000,16.0000
+"King County, WA",US,US,USA,Americas,Northern America,2020-03-02T20:23:16,14,5,1,47.5480,-121.9836
+,Lebanon,LB,LBN,Asia,Western Asia,2020-03-02T20:53:02,13,0,0,33.8547,35.8623
+,Israel,IL,ISR,Asia,Western Asia,2020-03-01T23:23:02,10,0,1,31.0000,35.0000
+Macau,Macau,MO,MAC,Asia,Eastern Asia,2020-02-27T12:43:02,10,0,8,22.1667,113.5500
+Queensland,Australia,AU,AUS,Oceania,Australia and New Zealand,2020-02-29T02:03:10,9,0,1,-28.0167,153.4000
+Victoria,Australia,AU,AUS,Oceania,Australia and New Zealand,2020-03-02T00:53:03,9,0,4,-37.8136,144.9631
+"Santa Clara, CA",US,US,USA,Americas,Northern America,2020-03-02T20:33:02,9,0,1,37.3541,-121.9552
+,Belgium,BE,BEL,Europe,Western Europe,2020-03-02T20:53:02,8,0,1,50.8333,4.0000
+British Columbia,Canada,CA,CAN,Americas,Northern America,2020-02-29T23:23:13,8,0,3,49.2827,-123.1207
+,San Marino,SM,SMR,Europe,Southern Europe,2020-03-02T01:03:12,8,0,0,43.9424,12.4578
+,Croatia,HR,HRV,Europe,Southern Europe,2020-03-01T23:33:03,7,0,0,45.1000,15.2000
+,Greece,GR,GRC,Europe,Southern Europe,2020-03-01T23:23:02,7,0,0,39.0742,21.8243
+New South Wales,Australia,AU,AUS,Oceania,Australia and New Zealand,2020-03-01T23:33:03,6,0,4,-33.8688,151.2093
+,Ecuador,EC,ECU,Americas,Latin America and the Caribbean,2020-03-01T23:33:03,6,0,0,-1.8312,-78.1834
+,Finland,FI,FIN,Europe,Northern Europe,2020-03-01T23:23:02,6,0,1,64.0000,26.0000
+,Iceland,IS,ISL,Europe,Northern Europe,2020-03-02T22:33:09,6,0,0,64.9631,-19.0208
+,Oman,OM,OMN,Asia,Western Asia,2020-02-29T12:33:03,6,0,1,21.0000,57.0000
+,India,IN,IND,Asia,Southern Asia,2020-03-02T22:33:09,5,0,3,21.0000,78.0000
+,Mexico,MX,MEX,Americas,Latin America and the Caribbean,2020-03-01T23:33:03,5,0,0,23.0000,-102.0000
+,Denmark,DK,DNK,Europe,Northern Europe,2020-03-01T23:33:03,4,0,0,56.2639,9.5018
+,Pakistan,PK,PAK,Asia,Southern Asia,2020-02-29T18:03:05,4,0,0,30.3753,69.3451
+"Cook County, IL",US,US,USA,Americas,Northern America,2020-03-02T20:33:02,4,0,2,41.7377,-87.6976
+"Snohomish County, WA",US,US,USA,Americas,Northern America,2020-03-02T20:53:02,4,1,0,48.0330,-121.8339
+,Algeria,DZ,DZA,Africa,Northern Africa,2020-03-02T00:53:03,3,0,0,28.0339,1.6596
+South Australia,Australia,AU,AUS,Oceania,Australia and New Zealand,2020-02-29T02:03:10,3,0,2,-34.9285,138.6007
+,Azerbaijan,AZ,AZE,Asia,Western Asia,2020-03-01T02:43:03,3,0,0,40.1431,47.5769
+,Czech Republic,CZ,CZE,Europe,Eastern Europe,2020-03-02T16:33:02,3,0,0,49.8175,15.4730
+,Georgia,GE,GEO,Asia,Western Asia,2020-03-01T15:43:03,3,0,0,42.3154,43.3569
+,Philippines,PH,PHL,Asia,South-eastern Asia,2020-02-12T07:43:02,3,1,1,13.0000,122.0000
+,Qatar,QA,QAT,Asia,Western Asia,2020-03-01T23:33:03,3,0,0,25.3548,51.1839
+,Romania,RO,ROU,Europe,Eastern Europe,2020-02-28T15:33:03,3,0,0,45.9432,24.9668
+,Russia,RU,RUS,Europe,Eastern Europe,2020-03-02T21:23:04,3,0,2,60.0000,90.0000
+Western Australia,Australia,AU,AUS,Oceania,Australia and New Zealand,2020-03-01T02:43:03,2,1,0,-31.9505,115.8605
+,Brazil,BR,BRA,Americas,Latin America and the Caribbean,2020-02-29T21:03:05,2,0,0,-14.2350,-51.9253
+,Egypt,EG,EGY,Africa,Northern Africa,2020-03-01T23:33:03,2,0,1,26.0000,30.0000
+,Indonesia,ID,IDN,Asia,South-eastern Asia,2020-03-02T18:03:04,2,0,0,-0.7893,113.9213
+,Portugal,PT,PRT,Europe,Southern Europe,2020-03-02T22:43:02,2,0,0,39.3999,-8.2245
+"Portland, OR",US,US,USA,Americas,Northern America,2020-03-02T03:33:08,2,0,0,45.5051,-122.6750
+"Providence, RI",US,US,USA,Americas,Northern America,2020-03-02T03:43:02,2,0,0,41.8240,-71.4128
+"Sacramento County, CA",US,US,USA,Americas,Northern America,2020-02-27T20:33:02,2,0,0,38.4747,-121.3542
+"San Benito, CA",US,US,USA,Americas,Northern America,2020-02-03T03:53:02,2,0,0,36.5761,-120.9876
+"San Diego County, CA",US,US,USA,Americas,Northern America,2020-02-21T05:43:02,2,0,1,32.7157,-117.1611
+,Afghanistan,AF,AFG,Asia,Southern Asia,2020-02-24T23:33:02,1,0,0,33.0000,65.0000
+,Andorra,AD,AND,Europe,Southern Europe,2020-03-02T20:23:16,1,0,0,42.5063,1.5218
+,Armenia,AM,ARM,Asia,Western Asia,2020-03-01T19:53:02,1,0,0,40.0691,45.0382
+Tasmania,Australia,AU,AUS,Oceania,Australia and New Zealand,2020-03-02T20:53:02,1,0,0,-41.4545,145.9707
+,Belarus,BY,BLR,Europe,Eastern Europe,2020-02-28T16:23:03,1,0,0,53.7098,27.9534
+,Cambodia,KH,KHM,Asia,South-eastern Asia,2020-02-12T07:43:02,1,0,1,11.5500,104.9167
+" Montreal, QC",Canada,CA,CAN,Americas,Northern America,2020-02-28T05:23:07,1,0,0,45.5017,-73.5673
+"London, ON",Canada,CA,CAN,Americas,Northern America,2020-02-12T18:53:03,1,0,1,42.9849,-81.2453
+,Dominican Republic,,,,,2020-03-02T16:33:02,1,0,0,18.7357,-70.1627
+,Estonia,EE,EST,Europe,Northern Europe,2020-02-27T16:23:03,1,0,0,58.5953,25.0136
+,Ireland,IE,IRL,Europe,Northern Europe,2020-03-01T07:13:07,1,0,0,53.1424,-7.6921
+,Latvia,LV,LVA,Europe,Northern Europe,2020-03-02T20:13:49,1,0,0,56.8796,24.6032
+,Lithuania,LT,LTU,Europe,Northern Europe,2020-02-28T16:23:03,1,0,0,55.1694,23.8813
+,Luxembourg,LU,LUX,Europe,Western Europe,2020-03-01T07:13:07,1,0,0,49.8153,6.1296
+Tibet,Mainland China,CN,CHN,Asia,Eastern Asia,2020-02-12T06:43:02,1,0,1,31.6927,88.0924
+,Monaco,MC,MCO,Europe,Western Europe,2020-02-29T00:33:01,1,0,0,43.7333,7.4167
+,Morocco,MA,MAR,Africa,Northern Africa,2020-03-02T22:33:09,1,0,0,31.7917,-7.0926
+,Nepal,NP,NPL,Asia,Southern Asia,2020-02-12T14:43:03,1,0,1,28.1667,84.2500
+,New Zealand,NZ,NZL,Oceania,Australia and New Zealand,2020-02-28T16:23:03,1,0,0,-40.9006,174.8860
+,Nigeria,NG,NGA,Africa,Sub-Saharan Africa,2020-02-28T16:23:03,1,0,0,9.0820,8.6753
+,North Macedonia,,,,,2020-02-27T16:23:03,1,0,0,41.6086,21.7453
+,Saudi Arabia,SA,SAU,Asia,Western Asia,2020-03-02T23:53:02,1,0,0,24.0000,45.0000
+,Senegal,SN,SEN,Africa,Sub-Saharan Africa,2020-03-02T20:23:16,1,0,0,14.4974,-14.4524
+,Sri Lanka,LK,LKA,Asia,Southern Asia,2020-02-08T03:43:03,1,0,1,7.0000,81.0000
+"Boston, MA",US,US,USA,Americas,Northern America,2020-02-28T21:13:12,1,0,1,42.3601,-71.0589
+"Grafton County, NH",US,US,USA,Americas,Northern America,2020-03-02T20:33:02,1,0,0,43.9088,-71.8260
+"Hillsborough, FL",US,US,USA,Americas,Northern America,2020-03-02T03:13:25,1,0,0,27.9904,-82.3018
+"Humboldt County, CA",US,US,USA,Americas,Northern America,2020-02-21T05:13:09,1,0,0,40.7450,-123.8695
+"Los Angeles, CA",US,US,USA,Americas,Northern America,2020-02-01T19:53:03,1,0,0,34.0522,-118.2437
+"Madison, WI",US,US,USA,Americas,Northern America,2020-02-05T21:53:02,1,0,0,43.0731,-89.4012
+"New York City, NY",US,US,USA,Americas,Northern America,2020-03-02T01:53:03,1,0,0,40.7128,-74.0060
+"Orange, CA",US,US,USA,Americas,Northern America,2020-02-01T19:53:03,1,0,0,33.7879,-117.8531
+"Placer County, CA",US,US,USA,Americas,Northern America,2020-03-02T23:53:02,1,0,0,39.0916,-120.8039
+"San Antonio, TX",US,US,USA,Americas,Northern America,2020-02-13T18:53:02,1,0,0,29.4241,-98.4936
+"San Mateo, CA",US,US,USA,Americas,Northern America,2020-03-02T20:43:02,1,0,0,37.5630,-122.3255
+"Sarasota, FL",US,US,USA,Americas,Northern America,2020-03-02T03:23:06,1,0,0,27.3364,-82.5307
+"Sonoma County, CA",US,US,USA,Americas,Northern America,2020-03-02T20:53:02,1,0,0,38.5780,-122.9888
+"Tempe, AZ",US,US,USA,Americas,Northern America,2020-02-25T21:23:03,1,0,1,33.4255,-111.9400
+"Umatilla, OR",US,US,USA,Americas,Northern America,2020-03-02T20:23:16,1,0,0,45.7750,-118.7606
+From Diamond Princess,Australia,AU,AUS,Oceania,Australia and New Zealand,2020-02-29T02:03:10,0,0,0,35.4437,139.6380
+"Lackland, TX (From Diamond Princess)",US,US,USA,Americas,Northern America,2020-02-24T23:33:02,0,0,0,29.3829,-98.6134
+"Omaha, NE (From Diamond Princess)",US,US,USA,Americas,Northern America,2020-02-24T23:33:02,0,0,0,41.2545,-95.9758
+"Travis, CA (From Diamond Princess)",US,US,USA,Americas,Northern America,2020-02-24T23:33:02,0,0,0,38.2721,-121.9399

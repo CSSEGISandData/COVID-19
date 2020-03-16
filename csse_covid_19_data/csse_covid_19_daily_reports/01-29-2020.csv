@@ -1,55 +1,55 @@
-﻿Province/State,Country/Region,CountryAlpha2,CountryAlpha3,M49Region,Last Update,Confirmed,Deaths,Recovered
-Hubei,Mainland China,CN,CHN,Asia,1/29/20 19:30,3554,125,88
-Zhejiang,Mainland China,CN,CHN,Asia,1/29/20 19:30,296,,3
-Guangdong,Mainland China,CN,CHN,Asia,1/29/20 19:30,277,,5
-Hunan,Mainland China,CN,CHN,Asia,1/29/20 19:30,221,,
-Henan,Mainland China,CN,CHN,Asia,1/29/20 19:30,206,2,1
-Anhui,Mainland China,CN,CHN,Asia,1/29/20 19:30,152,,2
-Chongqing,Mainland China,CN,CHN,Asia,1/29/20 19:30,147,,1
-Shandong,Mainland China,CN,CHN,Asia,1/29/20 19:30,130,,1
-Beijing,Mainland China,CN,CHN,Asia,1/29/20 19:30,111,1,4
-Jiangxi,Mainland China,CN,CHN,Asia,1/29/20 19:30,109,,3
-Sichuan,Mainland China,CN,CHN,Asia,1/29/20 19:30,108,1,1
-Jiangsu,Mainland China,CN,CHN,Asia,1/29/20 19:30,99,,1
-Shanghai,Mainland China,CN,CHN,Asia,1/29/20 19:30,96,1,5
-Fujian,Mainland China,CN,CHN,Asia,1/29/20 19:30,84,,
-Guangxi,Mainland China,CN,CHN,Asia,1/29/20 19:30,58,,2
-Shaanxi,Mainland China,CN,CHN,Asia,1/29/20 19:30,56,,
-Yunnan,Mainland China,CN,CHN,Asia,1/29/20 19:30,55,,
-Hebei,Mainland China,CN,CHN,Asia,1/29/20 19:30,48,1,
-Hainan,Mainland China,CN,CHN,Asia,1/29/20 19:30,43,1,
-Liaoning,Mainland China,CN,CHN,Asia,1/29/20 19:30,39,,1
-Heilongjiang,Mainland China,CN,CHN,Asia,1/29/20 19:30,38,1,
-Tianjin,Mainland China,CN,CHN,Asia,1/29/20 19:30,27,,
-Shanxi,Mainland China,CN,CHN,Asia,1/29/20 19:30,27,,1
-Gansu,Mainland China,CN,CHN,Asia,1/29/20 19:30,24,,
-Inner Mongolia,Mainland China,CN,CHN,Asia,1/29/20 19:30,16,,
-Xinjiang,Mainland China,CN,CHN,Asia,1/29/20 19:30,13,,
-Ningxia,Mainland China,CN,CHN,Asia,1/29/20 19:30,12,,
-Hong Kong,Hong Kong,HK,HKG,Asia,1/29/20 19:30,10,,
-Guizhou,Mainland China,CN,CHN,Asia,1/29/20 19:30,9,,1
-Jilin,Mainland China,CN,CHN,Asia,1/29/20 19:30,9,,
-Taiwan,Taiwan,TW,TWN,,1/29/20 19:30,8,,
-Macau,Macau,MO,MAC,Asia,1/29/20 19:30,7,,
-Qinghai,Mainland China,CN,CHN,Asia,1/29/20 19:30,6,,
-Washington,US,US,USA,Americas,1/29/20 19:30,1,,
-Illinois,US,US,USA,Americas,1/29/20 19:30,1,,
-California,US,US,USA,Americas,1/29/20 19:30,2,,
-Arizona,US,US,USA,Americas,1/29/20 19:30,1,,
-,Japan,JP,JPN,Asia,1/29/20 19:30,7,,1
-,Thailand,TH,THA,Asia,1/29/20 19:30,14,,5
-,South Korea,,,,1/29/20 19:30,4,,
-,Singapore,SG,SGP,Asia,1/29/20 19:30,7,,
-,Vietnam,VN,VNM,Asia,1/29/20 19:30,2,,
-,France,FR,FRA,Europe,1/29/20 19:30,5,,
-,Nepal,NP,NPL,Asia,1/29/20 19:30,1,,
-,Malaysia,MY,MYS,Asia,1/29/20 19:30,7,,
-Ontario,Canada,CA,CAN,Americas,1/29/20 19:30,1,,
-British Columbia,Canada,CA,CAN,Americas,1/29/20 19:30,1,,
-,Cambodia,KH,KHM,Asia,1/29/20 19:30,1,,
-,Sri Lanka,LK,LKA,Asia,1/29/20 19:30,1,,
-New South Wales,Australia,AU,AUS,Oceania,1/29/20 19:30,4,,
-Victoria,Australia,AU,AUS,Oceania,1/29/20 19:30,1,,
-Bavaria,Germany,DE,DEU,Europe,1/29/20 19:30,4,,
-,Finland,FI,FIN,Europe,1/29/20 19:30,1,,
-,United Arab Emirates,,,,1/29/20 19:30,4,,
+﻿Province/State,Country/Region,CountryAlpha2,CountryAlpha3,M49Region,M49SubRegion,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,3554,125,88
+Zhejiang,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,296,,3
+Guangdong,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,277,,5
+Hunan,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,221,,
+Henan,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,206,2,1
+Anhui,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,152,,2
+Chongqing,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,147,,1
+Shandong,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,130,,1
+Beijing,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,111,1,4
+Jiangxi,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,109,,3
+Sichuan,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,108,1,1
+Jiangsu,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,99,,1
+Shanghai,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,96,1,5
+Fujian,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,84,,
+Guangxi,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,58,,2
+Shaanxi,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,56,,
+Yunnan,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,55,,
+Hebei,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,48,1,
+Hainan,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,43,1,
+Liaoning,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,39,,1
+Heilongjiang,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,38,1,
+Tianjin,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,27,,
+Shanxi,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,27,,1
+Gansu,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,24,,
+Inner Mongolia,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,16,,
+Xinjiang,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,13,,
+Ningxia,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,12,,
+Hong Kong,Hong Kong,HK,HKG,Asia,Eastern Asia,1/29/20 19:30,10,,
+Guizhou,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,9,,1
+Jilin,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,9,,
+Taiwan,Taiwan,TW,TWN,,,1/29/20 19:30,8,,
+Macau,Macau,MO,MAC,Asia,Eastern Asia,1/29/20 19:30,7,,
+Qinghai,Mainland China,CN,CHN,Asia,Eastern Asia,1/29/20 19:30,6,,
+Washington,US,US,USA,Americas,Northern America,1/29/20 19:30,1,,
+Illinois,US,US,USA,Americas,Northern America,1/29/20 19:30,1,,
+California,US,US,USA,Americas,Northern America,1/29/20 19:30,2,,
+Arizona,US,US,USA,Americas,Northern America,1/29/20 19:30,1,,
+,Japan,JP,JPN,Asia,Eastern Asia,1/29/20 19:30,7,,1
+,Thailand,TH,THA,Asia,South-eastern Asia,1/29/20 19:30,14,,5
+,South Korea,,,,,1/29/20 19:30,4,,
+,Singapore,SG,SGP,Asia,South-eastern Asia,1/29/20 19:30,7,,
+,Vietnam,VN,VNM,Asia,South-eastern Asia,1/29/20 19:30,2,,
+,France,FR,FRA,Europe,Western Europe,1/29/20 19:30,5,,
+,Nepal,NP,NPL,Asia,Southern Asia,1/29/20 19:30,1,,
+,Malaysia,MY,MYS,Asia,South-eastern Asia,1/29/20 19:30,7,,
+Ontario,Canada,CA,CAN,Americas,Northern America,1/29/20 19:30,1,,
+British Columbia,Canada,CA,CAN,Americas,Northern America,1/29/20 19:30,1,,
+,Cambodia,KH,KHM,Asia,South-eastern Asia,1/29/20 19:30,1,,
+,Sri Lanka,LK,LKA,Asia,Southern Asia,1/29/20 19:30,1,,
+New South Wales,Australia,AU,AUS,Oceania,Australia and New Zealand,1/29/20 19:30,4,,
+Victoria,Australia,AU,AUS,Oceania,Australia and New Zealand,1/29/20 19:30,1,,
+Bavaria,Germany,DE,DEU,Europe,Western Europe,1/29/20 19:30,4,,
+,Finland,FI,FIN,Europe,Northern Europe,1/29/20 19:30,1,,
+,United Arab Emirates,,,,,1/29/20 19:30,4,,

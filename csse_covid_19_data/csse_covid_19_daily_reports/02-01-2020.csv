@@ -1,68 +1,68 @@
-Province/State,Country/Region,CountryAlpha2,CountryAlpha3,M49Region,Last Update,Confirmed,Deaths,Recovered
-Hubei,Mainland China,CN,CHN,Asia,2/1/2020 11:53,7153,249,168
-Zhejiang,Mainland China,CN,CHN,Asia,2/1/2020 10:53,599,0,21
-Guangdong,Mainland China,CN,CHN,Asia,2/1/2020 14:23,535,0,14
-Henan,Mainland China,CN,CHN,Asia,2/1/2020 1:52,422,2,3
-Hunan,Mainland China,CN,CHN,Asia,2/1/2020 11:03,389,0,8
-Anhui,Mainland China,CN,CHN,Asia,2/1/2020 13:33,297,0,5
-Jiangxi,Mainland China,CN,CHN,Asia,2/1/2020 1:52,286,0,9
-Chongqing,Mainland China,CN,CHN,Asia,2/1/2020 8:43,247,1,3
-Sichuan,Mainland China,CN,CHN,Asia,2/1/2020 1:52,207,1,3
-Shandong,Mainland China,CN,CHN,Asia,2/1/2020 7:51,206,0,3
-Jiangsu,Mainland China,CN,CHN,Asia,2/1/2020 14:03,202,0,6
-Shanghai,Mainland China,CN,CHN,Asia,2/1/2020 6:05,169,1,10
-Beijing,Mainland China,CN,CHN,Asia,2/1/2020 9:17,168,1,9
-Fujian,Mainland China,CN,CHN,Asia,2/1/2020 5:37,144,0,0
-Shaanxi,Mainland China,CN,CHN,Asia,2/1/2020 5:37,101,0,0
-Guangxi,Mainland China,CN,CHN,Asia,2/1/2020 1:52,100,0,2
-Hebei,Mainland China,CN,CHN,Asia,2/1/2020 1:52,96,1,0
-Yunnan,Mainland China,CN,CHN,Asia,2/1/2020 15:53,93,0,2
-Heilongjiang,Mainland China,CN,CHN,Asia,2/1/2020 10:33,80,2,2
-Liaoning,Mainland China,CN,CHN,Asia,2/1/2020 15:23,64,0,1
-Hainan,Mainland China,CN,CHN,Asia,2/1/2020 8:43,62,1,1
-Shanxi,Mainland China,CN,CHN,Asia,2/1/2020 1:52,47,0,1
-Tianjin,Mainland China,CN,CHN,Asia,2/1/2020 15:43,41,0,0
-Gansu,Mainland China,CN,CHN,Asia,2/1/2020 15:43,40,0,0
-Guizhou,Mainland China,CN,CHN,Asia,1/31/2020 15:20,29,0,2
-Ningxia,Mainland China,CN,CHN,Asia,2/1/2020 2:13,26,0,0
-Inner Mongolia,Mainland China,CN,CHN,Asia,2/1/2020 5:37,23,0,1
-,Japan,JP,JPN,Asia,2/1/2020 18:53,20,0,1
-,Thailand,TH,THA,Asia,1/31/2020 10:37,19,0,5
-Xinjiang,Mainland China,CN,CHN,Asia,2/1/2020 5:37,18,0,0
-Jilin,Mainland China,CN,CHN,Asia,2/1/2020 1:52,17,0,1
-,Singapore,SG,SGP,Asia,2/1/2020 5:37,16,0,0
-Hong Kong,Hong Kong,HK,HKG,Asia,2/1/2020 5:37,13,0,0
-,South Korea,,,,2/1/2020 10:43,12,0,0
-Taiwan,Taiwan,TW,TWN,,1/31/2020 15:20,10,0,0
-Qinghai,Mainland China,CN,CHN,Asia,2/1/2020 5:37,9,0,0
-,Malaysia,MY,MYS,Asia,1/31/2020 8:15,8,0,0
-,Germany,DE,DEU,Europe,2/1/2020 18:33,8,0,0
-Macau,Macau,MO,MAC,Asia,1/31/2020 8:15,7,0,0
-,France,FR,FRA,Europe,2/1/2020 1:52,6,0,0
-,Vietnam,VN,VNM,Asia,2/1/2020 7:38,6,0,1
-New South Wales,Australia,AU,AUS,Oceania,2/1/2020 18:12,4,0,2
-Victoria,Australia,AU,AUS,Oceania,2/1/2020 18:12,4,0,0
-,United Arab Emirates,,,,1/31/2020 8:15,4,0,0
-Queensland,Australia,AU,AUS,Oceania,2/1/2020 18:12,3,0,0
-Ontario,Canada,CA,CAN,Americas,2/1/2020 18:12,3,0,0
-,Italy,IT,ITA,Europe,1/31/2020 8:15,2,0,0
-,Russia,RU,RUS,Europe,1/31/2020 16:13,2,0,0
-,UK,GB,GBR,Europe,2/1/2020 1:52,2,0,0
-"Chicago, IL",US,US,USA,Americas,2/1/2020 19:43,2,0,0
-South Australia,Australia,AU,AUS,Oceania,2/1/2020 18:12,1,0,0
-,Cambodia,KH,KHM,Asia,1/31/2020 8:15,1,0,0
-British Columbia,Canada,CA,CAN,Americas,2/1/2020 18:12,1,0,0
-,Finland,FI,FIN,Europe,1/31/2020 8:15,1,0,0
-,India,IN,IND,Asia,1/31/2020 8:15,1,0,0
-Tibet,Mainland China,CN,CHN,Asia,2/1/2020 1:52,1,0,0
-,Nepal,NP,NPL,Asia,1/31/2020 8:15,1,0,0
-,Philippines,PH,PHL,Asia,2/1/2020 17:43,1,0,0
-,Spain,ES,ESP,Europe,2/1/2020 2:13,1,0,0
-,Sri Lanka,LK,LKA,Asia,1/31/2020 8:15,1,0,0
-,Sweden,SE,SWE,Europe,2/1/2020 2:13,1,0,0
-"Boston, MA",US,US,USA,Americas,2/1/2020 19:43,1,0,0
-"Los Angeles, CA",US,US,USA,Americas,2/1/2020 19:53,1,0,0
-"Orange, CA",US,US,USA,Americas,2/1/2020 19:53,1,0,0
-"Santa Clara, CA",US,US,USA,Americas,2/1/2020 19:53,1,0,0
-"Seattle, WA",US,US,USA,Americas,2/1/2020 19:43,1,0,0
-"Tempe, AZ",US,US,USA,Americas,2/1/2020 19:43,1,0,0
+Province/State,Country/Region,CountryAlpha2,CountryAlpha3,M49Region,M49SubRegion,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 11:53,7153,249,168
+Zhejiang,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 10:53,599,0,21
+Guangdong,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 14:23,535,0,14
+Henan,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 1:52,422,2,3
+Hunan,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 11:03,389,0,8
+Anhui,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 13:33,297,0,5
+Jiangxi,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 1:52,286,0,9
+Chongqing,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 8:43,247,1,3
+Sichuan,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 1:52,207,1,3
+Shandong,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 7:51,206,0,3
+Jiangsu,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 14:03,202,0,6
+Shanghai,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 6:05,169,1,10
+Beijing,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 9:17,168,1,9
+Fujian,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 5:37,144,0,0
+Shaanxi,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 5:37,101,0,0
+Guangxi,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 1:52,100,0,2
+Hebei,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 1:52,96,1,0
+Yunnan,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 15:53,93,0,2
+Heilongjiang,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 10:33,80,2,2
+Liaoning,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 15:23,64,0,1
+Hainan,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 8:43,62,1,1
+Shanxi,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 1:52,47,0,1
+Tianjin,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 15:43,41,0,0
+Gansu,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 15:43,40,0,0
+Guizhou,Mainland China,CN,CHN,Asia,Eastern Asia,1/31/2020 15:20,29,0,2
+Ningxia,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 2:13,26,0,0
+Inner Mongolia,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 5:37,23,0,1
+,Japan,JP,JPN,Asia,Eastern Asia,2/1/2020 18:53,20,0,1
+,Thailand,TH,THA,Asia,South-eastern Asia,1/31/2020 10:37,19,0,5
+Xinjiang,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 5:37,18,0,0
+Jilin,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 1:52,17,0,1
+,Singapore,SG,SGP,Asia,South-eastern Asia,2/1/2020 5:37,16,0,0
+Hong Kong,Hong Kong,HK,HKG,Asia,Eastern Asia,2/1/2020 5:37,13,0,0
+,South Korea,,,,,2/1/2020 10:43,12,0,0
+Taiwan,Taiwan,TW,TWN,,,1/31/2020 15:20,10,0,0
+Qinghai,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 5:37,9,0,0
+,Malaysia,MY,MYS,Asia,South-eastern Asia,1/31/2020 8:15,8,0,0
+,Germany,DE,DEU,Europe,Western Europe,2/1/2020 18:33,8,0,0
+Macau,Macau,MO,MAC,Asia,Eastern Asia,1/31/2020 8:15,7,0,0
+,France,FR,FRA,Europe,Western Europe,2/1/2020 1:52,6,0,0
+,Vietnam,VN,VNM,Asia,South-eastern Asia,2/1/2020 7:38,6,0,1
+New South Wales,Australia,AU,AUS,Oceania,Australia and New Zealand,2/1/2020 18:12,4,0,2
+Victoria,Australia,AU,AUS,Oceania,Australia and New Zealand,2/1/2020 18:12,4,0,0
+,United Arab Emirates,,,,,1/31/2020 8:15,4,0,0
+Queensland,Australia,AU,AUS,Oceania,Australia and New Zealand,2/1/2020 18:12,3,0,0
+Ontario,Canada,CA,CAN,Americas,Northern America,2/1/2020 18:12,3,0,0
+,Italy,IT,ITA,Europe,Southern Europe,1/31/2020 8:15,2,0,0
+,Russia,RU,RUS,Europe,Eastern Europe,1/31/2020 16:13,2,0,0
+,UK,GB,GBR,Europe,Northern Europe,2/1/2020 1:52,2,0,0
+"Chicago, IL",US,US,USA,Americas,Northern America,2/1/2020 19:43,2,0,0
+South Australia,Australia,AU,AUS,Oceania,Australia and New Zealand,2/1/2020 18:12,1,0,0
+,Cambodia,KH,KHM,Asia,South-eastern Asia,1/31/2020 8:15,1,0,0
+British Columbia,Canada,CA,CAN,Americas,Northern America,2/1/2020 18:12,1,0,0
+,Finland,FI,FIN,Europe,Northern Europe,1/31/2020 8:15,1,0,0
+,India,IN,IND,Asia,Southern Asia,1/31/2020 8:15,1,0,0
+Tibet,Mainland China,CN,CHN,Asia,Eastern Asia,2/1/2020 1:52,1,0,0
+,Nepal,NP,NPL,Asia,Southern Asia,1/31/2020 8:15,1,0,0
+,Philippines,PH,PHL,Asia,South-eastern Asia,2/1/2020 17:43,1,0,0
+,Spain,ES,ESP,Europe,Southern Europe,2/1/2020 2:13,1,0,0
+,Sri Lanka,LK,LKA,Asia,Southern Asia,1/31/2020 8:15,1,0,0
+,Sweden,SE,SWE,Europe,Northern Europe,2/1/2020 2:13,1,0,0
+"Boston, MA",US,US,USA,Americas,Northern America,2/1/2020 19:43,1,0,0
+"Los Angeles, CA",US,US,USA,Americas,Northern America,2/1/2020 19:53,1,0,0
+"Orange, CA",US,US,USA,Americas,Northern America,2/1/2020 19:53,1,0,0
+"Santa Clara, CA",US,US,USA,Americas,Northern America,2/1/2020 19:53,1,0,0
+"Seattle, WA",US,US,USA,Americas,Northern America,2/1/2020 19:43,1,0,0
+"Tempe, AZ",US,US,USA,Americas,Northern America,2/1/2020 19:43,1,0,0

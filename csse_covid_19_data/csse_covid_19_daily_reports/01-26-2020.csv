@@ -1,48 +1,48 @@
-﻿Province/State,Country/Region,CountryAlpha2,CountryAlpha3,M49Region,Last Update,Confirmed,Deaths,Recovered
-Hubei,Mainland China,CN,CHN,Asia,1/26/20 16:00,1058,52,42
-Guangdong,Mainland China,CN,CHN,Asia,1/26/20 16:00,111,,2
-Zhejiang,Mainland China,CN,CHN,Asia,1/26/20 16:00,104,,1
-Henan,Mainland China,CN,CHN,Asia,1/26/20 16:00,83,1,
-Chongqing,Mainland China,CN,CHN,Asia,1/26/20 16:00,75,,
-Hunan,Mainland China,CN,CHN,Asia,1/26/20 16:00,69,,
-Beijing,Mainland China,CN,CHN,Asia,1/26/20 16:00,68,,2
-Anhui,Mainland China,CN,CHN,Asia,1/26/20 16:00,60,,
-Shandong,Mainland China,CN,CHN,Asia,1/26/20 16:00,46,,
-Sichuan,Mainland China,CN,CHN,Asia,1/26/20 16:00,44,,
-Shanghai,Mainland China,CN,CHN,Asia,1/26/20 16:00,40,1,1
-Guangxi,Mainland China,CN,CHN,Asia,1/26/20 16:00,36,,
-Jiangxi,Mainland China,CN,CHN,Asia,1/26/20 16:00,36,,
-Fujian,Mainland China,CN,CHN,Asia,1/26/20 16:00,35,,
-Jiangsu,Mainland China,CN,CHN,Asia,1/26/20 16:00,33,,1
-Hainan,Mainland China,CN,CHN,Asia,1/26/20 16:00,22,,
-Shaanxi,Mainland China,CN,CHN,Asia,1/26/20 16:00,22,,
-Liaoning,Mainland China,CN,CHN,Asia,1/26/20 16:00,21,,
-Yunnan,Mainland China,CN,CHN,Asia,1/26/20 16:00,16,,
-Heilongjiang,Mainland China,CN,CHN,Asia,1/26/20 16:00,15,1,
-Tianjin,Mainland China,CN,CHN,Asia,1/26/20 16:00,14,,
-Hebei,Mainland China,CN,CHN,Asia,1/26/20 16:00,13,1,
-Shanxi,Mainland China,CN,CHN,Asia,1/26/20 16:00,9,,
-Hong Kong,Hong Kong,HK,HKG,Asia,1/26/20 16:00,8,,
-Inner Mongolia,Mainland China,CN,CHN,Asia,1/26/20 16:00,7,,
-Gansu,Mainland China,CN,CHN,Asia,1/26/20 16:00,7,,
-Guizhou,Mainland China,CN,CHN,Asia,1/26/20 16:00,5,,
-Macau,Macau,MO,MAC,Asia,1/26/20 16:00,5,,
-Ningxia,Mainland China,CN,CHN,Asia,1/26/20 16:00,4,,
-Jilin,Mainland China,CN,CHN,Asia,1/26/20 16:00,4,,
-Taiwan,Taiwan,TW,TWN,,1/26/20 16:00,4,,
-Xinjiang,Mainland China,CN,CHN,Asia,1/26/20 16:00,4,,
-Qinghai,Mainland China,CN,CHN,Asia,1/26/20 16:00,1,,
-Washington,US,US,USA,Americas,1/26/20 16:00,1,,
-Illinois,US,US,USA,Americas,1/26/20 16:00,1,,
-California,US,US,USA,Americas,1/26/20 16:00,2,,
-Arizona,US,US,USA,Americas,1/26/20 16:00,1,,
-,Japan,JP,JPN,Asia,1/26/20 16:00,4,,1
-,Thailand,TH,THA,Asia,1/26/20 16:00,8,,2
-,South Korea,,,,1/26/20 16:00,3,,
-,Singapore,SG,SGP,Asia,1/26/20 16:00,4,,
-,Vietnam,VN,VNM,Asia,1/26/20 16:00,2,,
-,France,FR,FRA,Europe,1/26/20 16:00,3,,
-,Australia,AU,AUS,Oceania,1/26/20 16:00,4,,
-,Nepal,NP,NPL,Asia,1/26/20 16:00,1,,
-,Malaysia,MY,MYS,Asia,1/26/20 16:00,4,,
-Ontario,Canada,CA,CAN,Americas,1/26/20 16:00,1,,
+﻿Province/State,Country/Region,CountryAlpha2,CountryAlpha3,M49Region,M49SubRegion,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,1058,52,42
+Guangdong,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,111,,2
+Zhejiang,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,104,,1
+Henan,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,83,1,
+Chongqing,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,75,,
+Hunan,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,69,,
+Beijing,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,68,,2
+Anhui,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,60,,
+Shandong,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,46,,
+Sichuan,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,44,,
+Shanghai,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,40,1,1
+Guangxi,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,36,,
+Jiangxi,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,36,,
+Fujian,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,35,,
+Jiangsu,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,33,,1
+Hainan,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,22,,
+Shaanxi,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,22,,
+Liaoning,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,21,,
+Yunnan,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,16,,
+Heilongjiang,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,15,1,
+Tianjin,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,14,,
+Hebei,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,13,1,
+Shanxi,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,9,,
+Hong Kong,Hong Kong,HK,HKG,Asia,Eastern Asia,1/26/20 16:00,8,,
+Inner Mongolia,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,7,,
+Gansu,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,7,,
+Guizhou,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,5,,
+Macau,Macau,MO,MAC,Asia,Eastern Asia,1/26/20 16:00,5,,
+Ningxia,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,4,,
+Jilin,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,4,,
+Taiwan,Taiwan,TW,TWN,,,1/26/20 16:00,4,,
+Xinjiang,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,4,,
+Qinghai,Mainland China,CN,CHN,Asia,Eastern Asia,1/26/20 16:00,1,,
+Washington,US,US,USA,Americas,Northern America,1/26/20 16:00,1,,
+Illinois,US,US,USA,Americas,Northern America,1/26/20 16:00,1,,
+California,US,US,USA,Americas,Northern America,1/26/20 16:00,2,,
+Arizona,US,US,USA,Americas,Northern America,1/26/20 16:00,1,,
+,Japan,JP,JPN,Asia,Eastern Asia,1/26/20 16:00,4,,1
+,Thailand,TH,THA,Asia,South-eastern Asia,1/26/20 16:00,8,,2
+,South Korea,,,,,1/26/20 16:00,3,,
+,Singapore,SG,SGP,Asia,South-eastern Asia,1/26/20 16:00,4,,
+,Vietnam,VN,VNM,Asia,South-eastern Asia,1/26/20 16:00,2,,
+,France,FR,FRA,Europe,Western Europe,1/26/20 16:00,3,,
+,Australia,AU,AUS,Oceania,Australia and New Zealand,1/26/20 16:00,4,,
+,Nepal,NP,NPL,Asia,Southern Asia,1/26/20 16:00,1,,
+,Malaysia,MY,MYS,Asia,South-eastern Asia,1/26/20 16:00,4,,
+Ontario,Canada,CA,CAN,Americas,Northern America,1/26/20 16:00,1,,
