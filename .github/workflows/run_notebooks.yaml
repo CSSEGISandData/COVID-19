@@ -1,0 +1,12 @@
+name: Update Notebooks
+on:
+  schedule:
+    - cron:  '*/60 * * * *'
+
+jobs:
+  update-notebooks:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Copy Repository Contents
+      uses: actions/checkout@v2
