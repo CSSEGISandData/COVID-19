@@ -66,6 +66,7 @@ select
     c.alpha2 as "CountryAlpha2",
     c.alpha3 as "CountryAlpha3",
     m49.region_name as "M49Region",
+    m49.subregion_name as "M49SubRegion",
     c.updated as "Last Update",
     c.confirmed as "Confirmed",
     c.deaths as "Deaths",

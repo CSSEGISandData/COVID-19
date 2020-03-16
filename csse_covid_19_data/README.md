@@ -13,6 +13,7 @@ MM-DD-YYYY.csv in UTC.
 * Country Code Alpha 2: Two-letter ISO-3166-1 country code.
 * Country Code Alpha 3: Three-letter ISO-3166-1 country code.
 * M49 Region: [M49 Region Code](https://unstats.un.org/unsd/methodology/m49/overview/).
+* M49 Sub-region: M49 Sub-region Code.
 * Last Update: MM/DD/YYYY HH:mm  (24 hour format, in UTC).
 * Confirmed: the number of confirmed cases. For Hubei Province: from Feb 13 (GMT +8), we report both clinically diagnosed and lab-confirmed cases. For lab-confirmed cases only (Before Feb 17), please refer to [who_covid_19_situation_reports](https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports). For Italy, diagnosis standard might be changed since Feb 27 to "slow the growth of new case numbers." ([Source](https://apnews.com/6c7e40fbec09858a3b4dbd65fe0f14f5))
 * Deaths: the number of deaths.
@@ -41,6 +42,7 @@ This folder contains daily time series summary tables, including confirmed, deat
 * Country Code Alpha 2: same as above.
 * Country Code Alpha 3: same as above.
 * M49 Region: same as above.
+* M49 Sub-region: same as above.
 * Lat and Long: a coordinates reference for the user.
 * Date fields: M/DD/YYYY (UTC), the same data as MM-DD-YYYY.csv file.
 
