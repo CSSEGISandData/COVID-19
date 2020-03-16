@@ -24,4 +24,4 @@ jobs:
     - name: Run notebooks
       run: |
         cd data_generation
-        for nb in $(ls *ipynb); do papermill --kernel python3 $nb $nb
+        for nb in $(ls *ipynb); do papermill --kernel python3 $nb $nb; done
