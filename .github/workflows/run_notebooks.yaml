@@ -1,4 +1,4 @@
-name: Update Notebooks
+name: Update data
 on:
   schedule:
     - cron:  '*/15 * * * *'
@@ -14,9 +14,9 @@ jobs:
     - name: Copy Repository Contents
       uses: actions/checkout@v2
 
-    - name: Install dependencies
+    - name: Run notebooks
       run: |
-        pip install pandas scrapy jupyterlab papermill ipykernel
+        pip3 install pandas scrapy jupyterlab papermill ipykernel
         python3 -m ipykernel install --user --name python3
         sudo chmod -R 777 .
         cd data_generation
