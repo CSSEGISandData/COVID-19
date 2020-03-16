@@ -2,6 +2,9 @@ name: Update Notebooks
 on:
   schedule:
     - cron:  '*/15 * * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   update-notebooks:
@@ -10,3 +13,11 @@ jobs:
     
     - name: Copy Repository Contents
       uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: |
+        pip install pandas scrapy jupyterlab papermill ipykernel
+        python3 -m ipykernel install --user --name python3
+        sudo chmod -R 777 .
+        cd data_generation
+        ls *.ipynb
