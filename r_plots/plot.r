@@ -247,7 +247,7 @@ for (ploti in seq_len(nplots)) {
                                                   ") " %*% " time ]; r = ", rsq, "; p ", p)),
                                  list(estimate=round(lm_log_estimate, 2), uncert=round(lm_log_uncert, 2),
                                       rsq=round(sqrt(rsq), 2), p=ifelse(pvalue < 1e-5, "<= 1e-5", paste0("= ", pvalue))))),
-                 eval(substitute(expression(paste("exponential prediction (doubling time = dt/(dt", "" %*% "", estimate, ") = ", 
+                 eval(substitute(expression(paste("exponential prediction (doubling time = ", estimate, ""^paste(-1), " = ", 
                                                   doubling_time, " days)")),
                                  list(estimate=round(lm_log_estimate, 2), doubling_time=round(dt/(lm_log_estimate*dt), 2)))))
     legend("topleft", legend=lm_text,
