@@ -1,9 +1,12 @@
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 Germany:
-<img align="left" width="600" src="lib/Germany_confirmed.png">
-<img align="left" width="600" src="lib/Germany_change_of_confirmed_per_day.png">
-<img align="left" width="600" src="lib/Germany_confirmed.png">
+<br>
+<img align="center" width="1000" src="lib/Germany_confirmed.png">
+<br>
+<img align="center" width="1000" src="lib/Germany_change_of_confirmed_per_day.png">
+<br>
+<img align="center" width="1000" src="lib/Germany_confirmed.png">
 <br>
 <br>
 
