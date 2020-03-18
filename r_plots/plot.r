@@ -77,47 +77,87 @@ cat(capture.output(str(report)), sep="\n")
 
 ## plot ts
 nplots <- 4
+log <- "y" # "", "y"
+yat_log_must_include <- c(0:10, seq(20, 100, b=10), seq(200, 1000, b=100), 
+                          seq(2000, 10000, b=1000), seq(20000, 100000, b=10000))
 lm_obs_col <- "blue"
-lm_predict_ntime <- 10
+lm_predict_ntime <- 14
 lm_predict_interval <- "day"
 lm_predict_col <- "red"
+
 for (ploti in seq_len(nplots)) {
+    lm_from <- lm_to <- "" # default
     if (ploti == 1) {
         x <- ts$time
         y <- ts$confirmed
         ylab <- "confirmed per day"
+        lm_from <- as.POSIXlt("2020-02-25", tz="UTC")
     } else if (ploti == 2) {
         x <- ts$time
         y <- cumsum(ts$confirmed)
         ylab <- "confirmed cumulative"
+        lm_from <- as.POSIXlt("2020-03-02", tz="UTC")
     } else if (ploti == 3) {
         x <- ts$time[2:length(ts$time)]
         y <- diff(ts$confirmed)
         ylab <- "change of confirmed per day"
-    } else if (ploti == 3) {
+        lm_from <- as.POSIXlt("2020-02-25", tz="UTC")
+    } else if (ploti == 4) {
         x <- ts$time
         y <- ts$deaths
         ylab <- "deaths"
     }
+   
+    if (log == "y") {
+        y[which(y == 0)] <- NA
+    }
     
-    # exponential model
-    x_future <- seq.POSIXt(x[length(x)], l=lm_predict_ntime, b=lm_predict_interval)
-    x_future <- x_future[-1] # remove last day of obs
-    x_future <- as.POSIXlt(x_future)
-    x_lm <- as.numeric(x) # posix cannot be input for lm
-    y_lm <- y # numeric 0 cannot be input for lm
+    # exponential model of obs
+    if (!is.character(lm_from)) { # lm only from
+        if (lm_from %in% x) {
+            lm_from_ind <- which.min(abs(lm_from - x))
+        } else {
+            message("lm_from = ", lm_from, " is given but in range of x = ", min(x), " to ", max(x))
+        }
+    } else {
+        lm_from_ind <- 1
+    }
+    if (!is.character(lm_to)) { # lm only to
+        if (lm_to %in% x) {
+            lm_to_ind <- which.min(abs(lm_to - x))
+        } else {
+            message("lm_to = ", lm_to, " is given but in range of x = ", min(x), " to ", max(x))
+        }
+    } else {
+        lm_to_ind <- length(x)
+    }
+    lm_inds <- lm_from_ind:lm_to_ind
+    #lm_inds <- seq_along(x)
+    x_lm <- as.numeric(x)[lm_inds] # posix cannot be input for lm
+    y_lm <- y[lm_inds] # numeric 0 cannot be input for lm
     y_lm[which(y_lm == 0)] <- NA
-    lm_log <- lm(log(y_lm) ~ x_lm)
-    lm_log_obs <- exp(lm_log$fitted.values)
+    if (T) { # var = exp(time) <=> log(var) = time
+        lm_log <- lm(log(y_lm) ~ x_lm) # if data is exponential: take log of data and fit against linear time
+        x_lm_log_obs <- lm_log$model[,2]
+        y_lm_log_obs <- exp(lm_log$fitted.values)
+    } else if (F) { # exp(var) = exp(time) <=> log(var) = log(time)
+        lm_log <- lm(log(y_lm) ~ log(x_lm))
+        x_lm_log_obs <- exp(lm_log$model[,2])
+        y_lm_log_obs <- exp(lm_log$fitted.values)
+    }
+    #nls_log <- nls(log(y_lm) ~ x_lm)
 
-    # exponential model prediction
-    x_future_lm <- as.numeric(x_future)
-    x_future_lm <- data.frame(x_lm=x_future_lm) # input for predict
-    lm_log_future <- predict(lm_log, newdata=x_future_lm, interval="prediction")
-    lm_log_future <- exp(lm_log_future)
+    # exponential prediction
+    x_lm_log_future <- seq.POSIXt(x[length(x)], l=lm_predict_ntime, b=lm_predict_interval)
+    x_lm_log_future <- x_lm_log_future[-1] # remove last day of obs
+    x_lm_log_future <- as.POSIXlt(x_lm_log_future)
+    x_lm_log_future_lm <- as.numeric(x_lm_log_future) # input for predict 
+    x_lm_log_future_lm <- data.frame(x_lm=x_lm_log_future_lm) 
+    lm_log_future <- predict(lm_log, newdata=x_lm_log_future_lm, interval="prediction")
+    y_lm_log_future <- exp(lm_log_future)
 
     # prepare plot
-    ts_tlimlt <- range(x, x_future)
+    ts_tlimlt <- range(x, x_lm_log_future)
     ts_tlimn <- as.numeric(ts_tlimlt)
     ts_tlablt <- as.POSIXlt(pretty(ts_tlimlt, n=length(x)))
     if (any(ts_tlablt < ts_tlimlt[1])) {
@@ -128,57 +168,67 @@ for (ploti in seq_len(nplots)) {
     }
     ts_tatn <- as.numeric(ts_tlablt)
     ts_tlablt <- paste0(month.abb[ts_tlablt$mon+1], " ", ts_tlablt$mday)
-    ylim <- range(y, lm_log_obs, lm_log_future[,"fit"])
-    yat <- pretty(ylim, n=30)
+    ylim <- range(y, y_lm_log_obs, y_lm_log_future, na.rm=T)
     ylim[2] <- ylim[2] + 0.05*diff(ylim)
+    yat <- pretty(ylim, n=30)
+    if (log == "y") {
+        yat <- sort(unique(c(yat, yat_log_must_include)))
+    }
 
     # plot
-    plotname <- paste0("plots/", country, "_", gsub(" ", "_", ylab), ".png")
+    plotname <- paste0("plots/", country, "_", gsub(" ", "_", ylab), 
+                       ifelse(log != "", paste0("_log", log), ""), 
+                       ".png")
     message("plot ", plotname)
     png(plotname, width=3000, height=1666, res=300)
     par(mar=c(5.1, 6.1, 4.1, 6.1) + 0.1)
     plot(x, y, xaxt="n", yaxt="n", t="n",
+         log=log,
          xlab="date", ylab=NA,
          xlim=ts_tlimn, ylim=ylim)
+    message("ylim = ", appendLF=F)
+    dput(ylim)
+    message("par(\"usr\") = ", appendLF=F)
+    dput(par("usr"))
     axis(1, at=ts_tatn, labels=rep("", t=length(ts_tatn)))
-    text(x=ts_tatn, y=ylim[1] - 0.1*diff(ylim), labels=ts_tlablt, xpd=T, srt=90, adj=1, cex=0.5)
+    text(x=ts_tatn, y=grconvertY(-0.08, from="npc"), labels=ts_tlablt, xpd=T, srt=90, cex=0.5)
     axis(2, at=yat, las=2, cex.axis=0.5)
     mtext(side=2, text=ylab, line=3)
     axis(4, at=yat, las=2, cex.axis=0.5)
     mtext(side=4, text=ylab, line=3)
-    
+
     # add grid
     abline(h=yat, col="gray", lwd=0.5)
     abline(v=ts_tatn, col="gray", lwd=0.5)
    
     # add title
-    title(paste0(country, " at ", max(x)))
+    title(paste0(ylab, " in ", country, " at ", max(x)), cex.main=0.85)
 
     # add obs
     points(x, y, t="o")
     
     if (F) { # add day of month of obs
-        text(x, y, labels=x$mday, pos=3, cex=0.5) # pos=3: above
+        text(x, y, labels=x$mday, pos=3, cex=0.5) # pos=3: above; todo: pos destroys center adjustment
 
     } else if (T) { # add value of obs
-        text(x, y, labels=y, pos=3, cex=0.5, srt=90) # pos=3: above
+        text(x, y, labels=y, pos=3, cex=0.5, srt=90) # pos=3: above; todo: pos destroys center adjustment
     }
 
     # add exponential model of obs
-    points(lm_log$model[,2], lm_log_obs, t="o", col=lm_obs_col)
+    points(x_lm_log_obs, y_lm_log_obs, t="o", col=lm_obs_col)
 
     # add uncertainty of exponential model of future
-    polygon(c(x_future, rev(x_future)),
-            c(lm_log_future[,"lwr"], rev(lm_log_future[,"upr"])),
+    polygon(c(x_lm_log_future, rev(x_lm_log_future)),
+            c(y_lm_log_future[,"lwr"], rev(y_lm_log_future[,"upr"])),
             col=rgb(t(col2rgb(lm_predict_col)/255), alpha=0.2), border=NA)
 
     # add exponential model of future
-    points(x_future, lm_log_future[,"fit"], t="o", col=lm_predict_col)
+    points(x_lm_log_future, y_lm_log_future[,"fit"], t="o", col=lm_predict_col)
 
     if (F) { # add day of month of prediction
-        text(x_future, lm_log_future[,"fit"], labels=x_future$mday, pos=3, cex=0.5) # pos=3: above
+        text(x_lm_log_future, y_lm_log_future[,"fit"], labels=x_lm_log_future$mday, pos=3, cex=0.5) # pos=3: above
     } else if (T) { # add value of prediction
-        text(x_future, lm_log_future[,"fit"], labels=round(lm_log_future[,"fit"]), 
+        text(x_lm_log_future, y_lm_log_future[,"fit"], labels=round(y_lm_log_future[,"fit"]), 
              pos=3, cex=0.5, srt=90) # pos=3: above
     }
 
