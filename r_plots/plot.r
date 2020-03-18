@@ -76,7 +76,7 @@ cat(capture.output(str(report)), sep="\n")
 
 
 ## plot ts
-nplots <- 3
+nplots <- 4
 lm_obs_col <- "blue"
 lm_predict_ntime <- 10
 lm_predict_interval <- "day"
@@ -85,8 +85,12 @@ for (ploti in seq_len(nplots)) {
     if (ploti == 1) {
         x <- ts$time
         y <- ts$confirmed
-        ylab <- "confirmed"
+        ylab <- "confirmed per day"
     } else if (ploti == 2) {
+        x <- ts$time
+        y <- cumsum(ts$confirmed)
+        ylab <- "confirmed cumulative"
+    } else if (ploti == 3) {
         x <- ts$time[2:length(ts$time)]
         y <- diff(ts$confirmed)
         ylab <- "change of confirmed per day"
