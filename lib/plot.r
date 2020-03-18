@@ -127,7 +127,9 @@ for (ploti in seq_len(nplots)) {
     ylim[2] <- ylim[2] + 0.05*diff(ylim)
 
     # plot
-    png(paste0(gsub(" ", "_", ylab), ".png"), width=3000, height=1666, res=300)
+    plotname <- paste0(country, "_", gsub(" ", "_", ylab), ".png")
+    message("plot ", plotname)
+    png(plotname, width=3000, height=1666, res=300)
     par(mar=c(5.1, 6.1, 4.1, 6.1) + 0.1)
     plot(x, y, xaxt="n", yaxt="n", t="n",
          xlab="date", ylab=NA,
