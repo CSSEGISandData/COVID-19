@@ -243,10 +243,10 @@ for (ploti in seq_len(nplots)) {
 
     # legend
     lm_text <- c("obs",
-                 eval(substitute(expression(paste("exponential model = exp[ (", estimate, "" %+-% "", uncert, ") " %*% " time ]; r = ", 
-                                                  rsq, "; p = ", p)),
+                 eval(substitute(expression(paste("exponential model = exp[ (", estimate, "" %+-% "", uncert, 
+                                                  ") " %*% " time ]; r = ", rsq, "; p ", p)),
                                  list(estimate=round(lm_log_estimate, 2), uncert=round(lm_log_uncert, 2),
-                                      rsq=round(sqrt(rsq), 2), p=ifelse(pvalue < 1e-5, "<1e-5", pvalue)))),
+                                      rsq=round(sqrt(rsq), 2), p=ifelse(pvalue < 1e-5, "<= 1e-5", paste0("= ", pvalue))))),
                  eval(substitute(expression(paste("exponential prediction (doubling time = dt/(dt", "" %*% "", estimate, ") = ", 
                                                   doubling_time, " days)")),
                                  list(estimate=round(lm_log_estimate, 2), doubling_time=round(dt/(lm_log_estimate*dt), 2)))))
