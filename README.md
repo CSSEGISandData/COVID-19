@@ -6,7 +6,7 @@ Germany:
 <br>
 <img align="center" width="1000" src="lib/Germany_change_of_confirmed_per_day.png">
 <br>
-<img align="center" width="1000" src="lib/Germany_confirmed.png">
+<img align="center" width="1000" src="lib/Germany_deaths.png">
 <br>
 <br>
 
