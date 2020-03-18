@@ -108,10 +108,6 @@ for (ploti in seq_len(nplots)) {
         ylab <- "deaths"
     }
    
-    if (log == "y") {
-        y[which(y == 0)] <- NA
-    }
-    
     # exponential model of obs
     if (!is.character(lm_from)) { # lm only from
         if (lm_from %in% x) {
@@ -135,6 +131,7 @@ for (ploti in seq_len(nplots)) {
     #lm_inds <- seq_along(x)
     x_lm <- as.numeric(x)[lm_inds] # posix cannot be input for lm
     y_lm <- y[lm_inds] # numeric 0 cannot be input for lm
+    x_lm[which(y_lm == 0)] <- NA 
     y_lm[which(y_lm == 0)] <- NA
     if (T) { # var = exp(time) <=> log(var) = time
         lm_log <- lm(log(y_lm) ~ x_lm) # if data is exponential: take log of data and fit against linear time
@@ -147,6 +144,17 @@ for (ploti in seq_len(nplots)) {
     }
     #nls_log <- nls(log(y_lm) ~ x_lm)
 
+    # exponential model summary
+    lm_log_summary <- summary(lm_log)
+    dt <- unique(diff(x_lm))
+    if (any(is.na(dt))) dt <- dt[-which(is.na(dt))]
+    if (length(dt) != 1)  stop("dont know time factor for exponential model estimate")
+    lm_log_estimate <- lm_log_summary$coefficients[2,1]*dt
+    lm_log_uncert <- lm_log_summary$coefficients[2,2]*dt
+    rsq <- lm_log_summary$r.squared
+    pvalue <- lm_log_summary$coefficients[2,4]
+    message("exponential model estimate = ", lm_log_estimate, " +- ", lm_log_uncert, "; r^2 = ", rsq, "; p = ", pvalue) 
+    
     # exponential prediction
     x_lm_log_future <- seq.POSIXt(x[length(x)], l=lm_predict_ntime, b=lm_predict_interval)
     x_lm_log_future <- x_lm_log_future[-1] # remove last day of obs
@@ -168,6 +176,7 @@ for (ploti in seq_len(nplots)) {
     }
     ts_tatn <- as.numeric(ts_tlablt)
     ts_tlablt <- paste0(month.abb[ts_tlablt$mon+1], " ", ts_tlablt$mday)
+    if (log == "y") y[which(y == 0)] <- NA
     ylim <- range(y, y_lm_log_obs, y_lm_log_future, na.rm=T)
     ylim[2] <- ylim[2] + 0.05*diff(ylim)
     yat <- pretty(ylim, n=30)
@@ -233,8 +242,13 @@ for (ploti in seq_len(nplots)) {
     }
 
     # legend
-    legend("topleft", 
-           c("obs", "exponential model", "exponential prediction"),
+    lm_text <- c("obs",
+                 eval(substitute(expression(paste("exponential model = exp[ (", estimate, "" %+-% "", uncert, ") " %*% " time ]; r = ", 
+                                                  rsq, "; p = ", p)),
+                                 list(estimate=round(lm_log_estimate, 2), uncert=round(lm_log_uncert, 2),
+                                      rsq=round(sqrt(rsq), 2), p=ifelse(pvalue < 1e-5, "<1e-5", pvalue)))),
+                 "exponential prediction")
+    legend("topleft", legend=lm_text,
            col=c("black", lm_obs_col, lm_predict_col),
            lty=1, lwd=1, pch=1, 
            bty="n", x.intersp=0.2)
