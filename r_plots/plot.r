@@ -104,12 +104,14 @@ for (ploti in seq_len(nplots)) {
     y_lm <- y # numeric 0 cannot be input for lm
     y_lm[which(y_lm == 0)] <- NA
     lm_log <- lm(log(y_lm) ~ x_lm)
+    lm_log_obs <- exp(lm_log$fitted.values)
 
     # exponential model prediction
     x_future_lm <- as.numeric(x_future)
     x_future_lm <- data.frame(x_lm=x_future_lm) # input for predict
     lm_log_future <- predict(lm_log, newdata=x_future_lm, interval="prediction")
-    
+    lm_log_future <- exp(lm_log_future)
+
     # prepare plot
     ts_tlimlt <- range(x, x_future)
     ts_tlimn <- as.numeric(ts_tlimlt)
@@ -122,7 +124,7 @@ for (ploti in seq_len(nplots)) {
     }
     ts_tatn <- as.numeric(ts_tlablt)
     ts_tlablt <- paste0(month.abb[ts_tlablt$mon+1], " ", ts_tlablt$mday)
-    ylim <- range(y, exp(lm_log$fitted.values), exp(lm_log_future[,"fit"]))
+    ylim <- range(y, lm_log_obs, lm_log_future[,"fit"])
     yat <- pretty(ylim, n=30)
     ylim[2] <- ylim[2] + 0.05*diff(ylim)
 
@@ -143,6 +145,7 @@ for (ploti in seq_len(nplots)) {
     
     # add grid
     abline(h=yat, col="gray", lwd=0.5)
+    abline(v=ts_tatn, col="gray", lwd=0.5)
    
     # add title
     title(paste0(country, " at ", max(x)))
@@ -150,23 +153,31 @@ for (ploti in seq_len(nplots)) {
     # add obs
     points(x, y, t="o")
     
-    # add day of month of obs
-    text(x, y, labels=x$mday, pos=3, cex=0.5) # pos=3: above
+    if (F) { # add day of month of obs
+        text(x, y, labels=x$mday, pos=3, cex=0.5) # pos=3: above
+
+    } else if (T) { # add value of obs
+        text(x, y, labels=y, pos=3, cex=0.5, srt=90) # pos=3: above
+    }
 
     # add exponential model of obs
-    points(lm_log$model[,2], exp(lm_log$fitted.values), t="o", col=lm_obs_col)
+    points(lm_log$model[,2], lm_log_obs, t="o", col=lm_obs_col)
 
     # add uncertainty of exponential model of future
     polygon(c(x_future, rev(x_future)),
-            c(exp(lm_log_future[,"lwr"]), rev(exp(lm_log_future[,"upr"]))),
+            c(lm_log_future[,"lwr"], rev(lm_log_future[,"upr"])),
             col=rgb(t(col2rgb(lm_predict_col)/255), alpha=0.2), border=NA)
 
     # add exponential model of future
-    points(x_future, exp(lm_log_future[,"fit"]), t="o", col=lm_predict_col)
+    points(x_future, lm_log_future[,"fit"], t="o", col=lm_predict_col)
 
-    # add day of month of prediction
-    text(x_future, exp(lm_log_future[,"fit"]), labels=x_future$mday, pos=3, cex=0.5) # pos=3: above
-   
+    if (F) { # add day of month of prediction
+        text(x_future, lm_log_future[,"fit"], labels=x_future$mday, pos=3, cex=0.5) # pos=3: above
+    } else if (T) { # add value of prediction
+        text(x_future, lm_log_future[,"fit"], labels=round(lm_log_future[,"fit"]), 
+             pos=3, cex=0.5, srt=90) # pos=3: above
+    }
+
     # legend
     legend("topleft", 
            c("obs", "exponential model", "exponential prediction"),
