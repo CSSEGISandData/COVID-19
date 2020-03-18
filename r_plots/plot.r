@@ -105,7 +105,7 @@ for (ploti in seq_len(nplots)) {
     } else if (ploti == 4) {
         x <- ts$time
         y <- ts$deaths
-        ylab <- "deaths"
+        ylab <- "cumulative deaths"
     }
    
     # exponential model of obs
