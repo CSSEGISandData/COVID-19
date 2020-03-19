@@ -21,10 +21,15 @@ jobs:
           npm ci
           npm run build
 
+      - name: Install SSH Client 🔑
+        uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           SSH: true
-          ACCESS_TOKEN: ${{ secrets.DEPLOY_KEY }}
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: build # The folder the action should deploy.
+          CLEAN: true # Cleanup for builds utilizing hashed filenames
