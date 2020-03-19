@@ -1,6 +1,121 @@
-﻿FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active
-"05",Arkansas,US,03/15/2020 02:13:21,34.26767081,-91.92619839,17,3,1,13
-"06",California,US,03/16/2020 02:13:15,33.03484597,-116.7365326,27,4,8,15
-,Saint Barthelemy,France,03/16/2020 14:38:45,17.9,-62.8333,3,0,0,3
-,New South Wales,Australia,03/16/2020 14:38:46,-33.8688,151.2093,171,4,2,165
-,Grand Princess,Canada,03/16/2020 00:22:11,37.64894,-122.665479,2,0,0,2
+FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active
+01,Alabama,US,,32.3182,-86.9023,51,0,0,0
+02,Alaska,US,,61.3707,-152.4044,5,0,0,0
+04,Arizona,US,,33.7298,-111.4312,27,0,0,0
+05,Arkansas,US,,34.9697,-92.3731,4,0,0,0
+06,California,US,,36.1162,-119.6816,828,16,0,0
+08,Colorado,US,,39.0598,-105.3111,218,2,0,0
+09,Connecticut,US,,41.5978,-72.7554,96,1,0,0
+10,Delaware,US,,39.3185,-75.5071,19,0,0,0
+88,Diamond Princess,US,,35.4437,139.638,759,7,456,249
+11,District of Columbia,US,,38.8974,-77.0268,31,0,0,0
+12,Florida,US,,27.7663,-81.6868,306,7,0,0
+13,Georgia,US,,33.0406,-83.6431,197,3,0,0
+99,Grand Princess,US,,37.6489,-122.6655,21,0,0,0
+66,Guam,US,,13.4443,144.7937,5,0,0,0
+15,Hawaii,US,,21.0943,-157.4983,15,0,0,0
+16,Idaho,US,,44.2405,-114.4788,9,0,0,0
+17,Illinois,US,,40.3495,-88.9861,272,1,0,0
+18,Indiana,US,,39.8494,-86.2583,38,2,0,0
+19,Iowa,US,,42.0115,-93.2105,38,0,0,0
+20,Kansas,US,,38.5266,-96.7265,22,1,0,0
+21,Kentucky,US,,37.6681,-84.6701,28,1,0,0
+22,Louisiana,US,,31.1695,-91.8678,257,6,0,0
+23,Maine,US,,44.6939,-69.3819,35,0,0,0
+24,Maryland,US,,39.0639,-76.8021,85,0,0,0
+25,Massachusetts,US,,42.2302,-71.5301,252,0,0,0
+26,Michigan,US,,43.3266,-84.5361,119,1,0,0
+27,Minnesota,US,,45.6945,-93.9002,77,0,0,0
+28,Mississippi,US,,32.7416,-89.6787,34,0,0,0
+29,Missouri,US,,38.4561,-92.2884,18,1,0,0
+30,Montana,US,,46.9219,-110.4544,10,0,0,0
+31,Nebraska,US,,41.1254,-98.2681,24,0,0,0
+32,Nevada,US,,38.3135,-117.0554,55,1,0,0
+33,New Hampshire,US,,43.4525,-71.5639,37,0,0,0
+34,New Jersey,US,,40.2989,-74.521,397,5,0,0
+35,New Mexico,US,,34.8405,-106.2485,28,0,0,0
+36,New York,US,,42.1657,-74.9481,3038,17,0,0
+37,North Carolina,US,,35.6301,-79.8064,92,0,0,0
+38,North Dakota,US,,47.5289,-99.784,6,0,0,0
+39,Ohio,US,,40.3888,-82.7649,89,0,0,0
+40,Oklahoma,US,,35.5653,-96.9289,17,0,0,0
+41,Oregon,US,,44.572,-122.0709,75,3,0,0
+42,Pennsylvania,US,,40.5908,-77.2098,155,1,0,0
+72,Puerto Rico,US,,18.2208,-66.5901,5,0,0,0
+44,Rhode Island,US,,41.6809,-71.5118,33,0,0,0
+45,South Carolina,US,,33.8569,-80.945,60,1,0,0
+46,South Dakota,US,,44.2998,-99.4388,11,1,0,0
+47,Tennessee,US,,35.7478,-86.6923,100,0,0,0
+48,Texas,US,,31.0545,-97.5635,196,3,0,0
+49,Utah,US,,40.15,-111.8624,47,0,0,0
+50,Vermont,US,,44.0459,-72.7107,13,0,0,0
+78,"Virgin Islands, U.S.",US,5/8/2020 2:13,18.3358,-64.8963,0,0,0,0
+51,Virginia,US,,37.7693,-78.17,79,2,0,0
+53,Washington,US,,47.4009,-121.4905,1022,67,0,0
+54,West Virginia,US,,38.4912,-80.9545,1,0,0,0
+55,Wisconsin,US,,44.2685,-89.6165,111,0,0,0
+56,Wyoming,US,,42.756,-107.3025,16,0,0,0
+60,American Samoa,US,,-14.271,-170.1322,0,0,0,0
+69,Northern Mariana Islands,US,,15.0979,145.6739,0,0,0,0
+,Canberra (ACT),Australia,,-35.473469,149.012375,3,0,0,3
+,Jervis Bay Territory,Australia,,-35.1522,150.7027,0,0,0,0
+,New South Wales,Australia,,-31.840233,145.612793,267,5,0,262
+,Northern Territory,Australia,,-19.491411,132.550964,1,0,0,1
+,Queensland,Australia,,-20.917574,142.702789,94,0,0,94
+,South Australia,Australia,,-30.000233,136.209152,37,0,3,34
+,Tasmania,Australia,,-41.4545,145.9707,10,0,0,10
+,Victoria,Australia,,-37.0201,144.9646,121,0,0,121
+,Western Australia,Australia,,-25.760321,122.805176,35,1,1,33
+,Alberta,Canada,,55,-115,119,0,,
+,British Columbia,Canada,,53.726669,-127.647621,231,7,,
+,Manitoba,Canada,,53.76086,-98.813873,17,0,,
+,New Brunswick,Canada,,46.49839,-66.159668,11,0,,
+,Nova Scotia,Canada,,45,-63,12,0,,
+,Ontario,Canada,,50,-85,214,1,,
+,Prince Edward Island,Canada,,46.25,-63,1,0,,
+,Quebec,Canada,,53,-70,94,1,,
+,Saskatchewan,Canada,,55,-106,16,0,,
+,Anhui,China,,31.8257,117.2264,990,6,984,0
+,Beijing,China,,40.1824,116.4142,469,8,378,83
+,Chongqing,China,,30.0572,107.874,576,6,570,0
+,Fujian,China,,26.0789,117.9874,296,1,295,0
+,Gansu,China,,37.8099,101.0583,133,2,91,40
+,Guangdong,China,,23.3417,113.4244,1370,8,1313,49
+,Guangxi,China,,23.8298,108.7881,253,2,250,1
+,Guizhou,China,,26.8154,106.8748,146,2,144,0
+,Hainan,China,,19.1959,109.7453,168,6,161,1
+,Hebei,China,,39.549,116.1306,318,6,310,2
+,Heilongjiang,China,,47.862,127.7615,482,13,463,6
+,Henan,China,,33.882,113.614,1273,22,1250,1
+,Hong Kong,China,,22.3,114.2,192,4,92,96
+,Hubei,China,,30.9756,112.2707,67800,3122,56927,7751
+,Hunan,China,,27.6104,111.7088,1018,4,1014,0
+,Inner Mongolia,China,,44.0935,113.9448,75,1,73,1
+,Jiangsu,China,,32.9711,119.455,631,0,631,0
+,Jiangxi,China,,27.614,115.7221,935,1,934,0
+,Jilin,China,,43.6661,126.1923,93,1,92,0
+,Liaoning,China,,41.2956,122.6085,125,1,122,2
+,Macau,China,,22.1667,113.55,17,0,10,7
+,Ningxia,China,,37.2692,106.1655,75,0,75,0
+,Qinghai,China,,35.7452,95.9956,18,0,18,0
+,Shaanxi,China,,35.1917,108.8701,246,3,237,6
+,Shandong,China,,36.3427,118.1498,761,7,746,8
+,Shanghai,China,,31.202,121.4491,363,3,326,34
+,Shanxi,China,,37.5777,112.2922,133,0,133,0
+,Sichuan,China,,30.6171,102.7103,540,3,525,12
+,Tianjin,China,,39.3054,117.323,136,3,133,0
+,Tibet,China,,31.6927,88.0924,1,0,1,0
+,Xinjiang,China,,41.1129,85.2401,76,3,73,0
+,Yunnan,China,,24.974,101.487,176,2,172,2
+,Zhejiang,China,,29.1832,120.0934,1232,1,1216,15
+,Faroe Islands,Denmark,,62.0448724,-7.0322972,58,0,1,57
+,French Guiana,France,,4.0039882,-52.999998,11,0,0,11
+,French Polynesia,France,,-16.03442485,-146.0490931,3,0,0,3
+,Mayotte,France,,-12.823048,45.1520755,3,0,0,3
+,Reunion,France,,-21.1309332,55.5265771,12,0,0,12
+,Saint Barthelemy,France,,17.9036287,-62.81156884,3,0,0,3
+,St Martin,France,,48.5683066,6.7539988,3,0,0,3
+,Curacao,Netherlands,,12.1845,-68.9640875,3,0,0,3
+,Channel Islands,United Kingdom,,60.6167942,-145.7996671,6,0,0,6
+,Gibraltar,United Kingdom,,36.10674695,-5.335277183,8,0,2,6
+,Virgin Islands,US,,18.3358,-64.8963,2,0,,
