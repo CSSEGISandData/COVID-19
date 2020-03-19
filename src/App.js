@@ -11,6 +11,9 @@ function App() {
       <p>
         Hello, world!
       </p>
+      <p>
+        Some additional text
+      </p>
     </div>
   );
 }
