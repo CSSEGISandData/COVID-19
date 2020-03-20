@@ -42,10 +42,7 @@ const parseCsvData = (data) => {
  *
  * @param {datasetsCallback} callback - A callback to run.
  */
-const getDatasets = (opts, callback) => {
-  const {provinceState, countryRegion} = opts;
-  console.log(provinceState);
-  console.log(countryRegion);
+const getDatasets = (callback) => {
   axios.all([
     axios.get('/data/time_series_19-covid-Confirmed.csv'),
     axios.get('/data/time_series_19-covid-Deaths.csv'),

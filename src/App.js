@@ -20,7 +20,7 @@ function App() {
     };
 
     // Set up CSV parser
-    getDatasets({provinceState, countryRegion}, (confirmedDataset, deathsDataset, recoveredDataset, countryRegionsToProvinceStateMap) => {
+    getDatasets((confirmedDataset, deathsDataset, recoveredDataset, countryRegionsToProvinceStateMap) => {
       alasql(`DROP TABLE IF EXISTS confirmed`);
       alasql(`DROP TABLE IF EXISTS deaths`);
       alasql(`DROP TABLE IF EXISTS recovered`);
