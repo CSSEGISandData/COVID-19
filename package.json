@@ -2,13 +2,16 @@
   "name": "my-corona",
   "version": "0.1.0",
   "dependencies": {
+    "axios": "^0.19.2",
+    "copy-webpack-plugin": "^5.1.1",
     "react": "^16.13.0",
+    "react-app-rewired": "^2.1.5",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -25,5 +28,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "my-corona/"
+  "homepage": "."
 }
