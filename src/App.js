@@ -19,12 +19,8 @@ function App() {
       ];
     };
 
-    // Set up CSV parser
+    // Get latest app data
     getDatasets((confirmedDataset, deathsDataset, recoveredDataset, countryRegionsToProvinceStateMap) => {
-      alasql(`DROP TABLE IF EXISTS confirmed`);
-      alasql(`DROP TABLE IF EXISTS deaths`);
-      alasql(`DROP TABLE IF EXISTS recovered`);
-
       const columnStatement = '(provinceState STRING, countryRegion STRING, date DATE, cases INT)'; // using 'cases' here instead of 'count' to avoid SQL conflicts
       alasql(`CREATE TABLE confirmed ${columnStatement}`);
       alasql(`CREATE TABLE deaths ${columnStatement}`);
@@ -37,7 +33,7 @@ function App() {
       // TODO: Use this data to populate dropdown menu in UI, and update provinceState and countryRegion states.
       setCountryRegionsToProvinceStates(countryRegionsToProvinceStateMap);
     });
-  }, [provinceState, countryRegion]);
+  }, []);
 
   if(!countryRegionsToProvinceStates) {
     return 'Loading...';
