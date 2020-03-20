@@ -2,6 +2,7 @@
   "name": "my-corona",
   "version": "0.1.0",
   "dependencies": {
+    "alasql": "^0.5.5",
     "axios": "^0.19.2",
     "copy-webpack-plugin": "^5.1.1",
     "csv-parse": "^4.8.8",
