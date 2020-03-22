@@ -1,5 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Out of State,Michigan,US,2,0
+Desoto,Florida,US,1,0
 Brockton,Massachusetts,US,6,0
 Dukes and Nantucket,Massachusetts,US,1,0
 Out-of-state,Tennessee,US,82,0
@@ -15,6 +16,7 @@ District of Columbia,"Washington, D.C.",US,102,2
 Kansas City,Missouri,US,13,0
 Berknap,New Hampshire,US,3,0
 Nashua,New Hampshire,US,1,0
+Manchester,New Hampshire,US,1,0
 Dona Ana,New Mexico,US,2,0
 Hawaii Island,Hawaii,US,3,0
 Seward,Alaska,US,1,0
