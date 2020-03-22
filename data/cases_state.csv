@@ -22,7 +22,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 21.0,Kentucky,US,4/6/2020 2:13,37.6681,-84.6701,87,3,0,0
 22.0,Louisiana,US,4/20/2020 2:13,31.1695,-91.8678,763,20,0,0
 23.0,Maine,US,4/27/2020 2:13,44.6939,-69.3819,70,0,0,0
-24.0,Maryland,US,3/30/2020 2:13,39.0639,-76.8021,194,3,0,0
+24.0,Maryland,US,3/30/2020 2:13,39.0639,-76.8021,244,3,0,0
 25.0,Massachusetts,US,3/18/2020 2:13,42.2302,-71.5301,529,2,0,0
 26.0,Michigan,US,4/28/2020 2:13,43.3266,-84.5361,560,5,0,0
 27.0,Minnesota,US,4/10/2020 2:13,45.6945,-93.9002,135,1,0,0
@@ -80,23 +80,23 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Northern Territory,Australia,,-12.4634,130.8456,5,0,0,5
 ,External territories,Australia,,,,0,0,0,0
 ,Jervis Bay Territory,Australia,,,,0,0,0,0
+,Macau,China,,22.1667,113.55,20,0,10,10
+,Gansu,China,,37.8099,101.0583,136,2,114,20
 ,Chongqing,China,,30.0572,107.874,577,6,570,1
 ,Hubei,China,,30.9756,112.2707,67800,3144,59433,5223
 ,Hong Kong,China,,22.3,114.2,317,4,100,213
 ,Shandong,China,,36.3427,118.1498,766,7,750,9
-,Shanghai,China,,31.202,121.4491,394,4,328,62
-,Jiangxi,China,,27.614,115.7221,936,1,934,1
-,Macau,China,,22.1667,113.55,19,0,10,9
-,Beijing,China,,40.1824,116.4142,514,8,400,106
-,Guangdong,China,,23.3417,113.4244,1407,8,1329,70
+,Liaoning,China,,41.2956,122.6085,126,2,124,0
 ,Heilongjiang,China,,47.862,127.7615,484,13,466,5
-,Hebei,China,,39.549,116.1306,319,6,310,3
-,Sichuan,China,,30.6171,102.7103,543,3,536,4
-,Fujian,China,,26.0789,117.9874,307,1,295,11
+,Shanghai,China,,31.202,121.4491,394,4,328,62
+,Beijing,China,,40.1824,116.4142,514,8,400,106
 ,Jiangsu,China,,32.9711,119.455,633,0,631,2
 ,Zhejiang,China,,29.1832,120.0934,1237,1,1219,17
-,Liaoning,China,,41.2956,122.6085,126,2,124,0
-,Gansu,China,,37.8099,101.0583,134,2,113,19
+,Guangdong,China,,23.3417,113.4244,1407,8,1329,70
+,Sichuan,China,,30.6171,102.7103,543,3,536,4
+,Jiangxi,China,,27.614,115.7221,936,1,934,1
+,Fujian,China,,26.0789,117.9874,307,1,295,11
+,Hebei,China,,39.549,116.1306,319,6,310,3
 ,Shaanxi,China,,35.1917,108.8701,248,3,239,6
 ,Tianjin,China,,39.3054,117.323,137,3,133,1
 ,Guangxi,China,,23.8298,108.7881,254,2,250,2
@@ -111,9 +111,9 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Jilin,China,,43.6661,126.1923,93,1,92,0
 ,Xinjiang,China,,41.1129,85.2401,76,3,73,0
 ,Anhui,China,,31.8257,117.2264,990,6,984,0
-,Qinghai,China,,35.7452,95.9956,18,0,18,0
 ,Tibet,China,,31.6927,88.0924,1,0,1,0
-,Faroe Islands,Denmark,,61.8926,-6.9118,92,0,3,89
+,Qinghai,China,,35.7452,95.9956,18,0,18,0
+,Faroe Islands,Denmark,,61.8926,-6.9118,115,0,3,112
 ,Guadeloupe,France,,16.265,-61.551,56,1,0,55
 ,Reunion,France,,-21.1151,55.5364,47,0,0,47
 ,Martinique,France,,14.6415,-61.0242,37,1,0,36
