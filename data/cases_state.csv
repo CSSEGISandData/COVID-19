@@ -1,6 +1,6 @@
 FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active
 1.0,Alabama,US,5/6/2020 2:13,32.3182,-86.9023,131,0,0,0
-2.0,Alaska,US,4/23/2020 2:13,61.3707,-152.4044,16,0,0,0
+2.0,Alaska,US,4/23/2020 2:13,61.3707,-152.4044,20,0,0,0
 4.0,Arizona,US,4/4/2020 2:13,33.7298,-111.4312,104,1,0,0
 5.0,Arkansas,US,4/24/2020 2:13,34.9697,-92.3731,122,0,0,0
 6.0,California,US,3/17/2020 2:13,36.1162,-119.6816,1515,28,0,0
