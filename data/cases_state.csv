@@ -123,6 +123,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Mayotte,France,,-12.8275,45.166244,11,0,0,11
 ,Gibraltar,United Kingdom,,36.1408,-5.3536,10,0,2,8
 ,Aruba,Netherlands,,12.5211,-69.9683,8,0,1,7
+,Isle of Man,United Kingdom,,54.2361,-4.5481,5,0,0,5
 ,St Martin,France,,18.0708,-63.0501,5,0,0,5
 ,New Caledonia,France,,-20.904305,165.618042,4,0,0,4
 ,Cayman Islands,United Kingdom,,19.3133,-81.2546,3,1,0,2
@@ -130,6 +131,5 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Saint Barthelemy,France,,17.9,-62.8333,3,0,0,3
 ,Bermuda,United Kingdom,,32.3078,-64.7505,2,0,0,2
 ,Greenland,Denmark,,71.7069,-42.6043,2,0,0,2
-,Isle of Man,United Kingdom,,54.2361,-4.5481,2,0,0,2
 ,Montserrat,United Kingdom,,16.742498,-62.187366,1,0,0,1
 ,Sint Maarten,Netherlands,,18.0425,-63.0548,1,0,0,1
