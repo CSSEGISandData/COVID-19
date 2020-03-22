@@ -1,26 +1,27 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Detroit City,Michigan,US,248,3
-Out of State,Michigan,US,1,0
-Brockton,Massachusetts,US,6,0
-Dukes and Nantucket,Massachusetts,US,1,0
-Out-of-state,Tennessee,US,59,0
-Unknown,Tennessee,US,8,0
-Stanley,North Carolina,US,1,0
-Out of state,Ohio,US,1,0
-Portsmouth City,Virginia,US,1,0
-Filmore,Minnesota,US,2,0
-Non-Utah resident,Utah,US,11,0
-Weber-Morgan,Utah,US,6,0
-Southwest Utah,Utah,US,1,0
-District of Columbia,"Washington, D.C.",US,98,1
-Kansas City,Missouri,US,12,0
-Berknap,New Hampshire,US,3,0
-Nashua,New Hampshire,US,1,0
-Dona Ana,New Mexico,US,2,0
-Hawaii Island,Hawaii,US,3,0
-Seward,Alaska,US,1,0
-Soldotna,Alaska,US,1,0
-Sterling,Alaska,US,1,0
-,External territories,Australia,0,0
-,Jervis Bay Territory,Australia,0,0
-,Nunavut,Canada,1,0
+NYC-Unassigned,New York,US,6.0,60
+Out of State,Michigan,US,1.0,0
+Brockton,Massachusetts,US,6.0,0
+Dukes and Nantucket,Massachusetts,US,1.0,0
+Out-of-state,Tennessee,US,59.0,0
+Unknown,Tennessee,US,8.0,0
+Out of state,Ohio,US,1.0,0
+Stanley,North Carolina,US,1.0,0
+Portsmouth City,Virginia,US,1.0,0
+Filmore,Minnesota,US,2.0,0
+LeSeur,Minnesota,US,,0
+Non-Utah resident,Utah,US,11.0,0
+Weber-Morgan,Utah,US,6.0,0
+Southwest Utah,Utah,US,1.0,0
+District of Columbia,"Washington, D.C.",US,,1
+Kansas City,Missouri,US,12.0,0
+Berknap,New Hampshire,US,3.0,0
+Nashua,New Hampshire,US,1.0,0
+Dona Ana,New Mexico,US,2.0,0
+Hawaii Island,Hawaii,US,3.0,0
+Seward,Alaska,US,1.0,0
+Soldotna,Alaska,US,1.0,0
+Sterling,Alaska,US,1.0,0
+,External territories,Australia,0.0,0
+,Jervis Bay Territory,Australia,0.0,0
+,Northwest Territories,Canada,1.0,0
