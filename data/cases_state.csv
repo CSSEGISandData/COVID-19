@@ -80,39 +80,39 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Northern Territory,Australia,,-12.4634,130.8456,5,0,0,5
 ,External territories,Australia,,,,0,0,0,0
 ,Jervis Bay Territory,Australia,,,,0,0,0,0
-,Guangdong,China,,23.3417,113.4244,1400,8,1325,67
-,Shanghai,China,,31.202,121.4491,380,3,327,50
-,Beijing,China,,40.1824,116.4142,504,8,396,100
-,Hong Kong,China,,22.3,114.2,273,4,98,171
-,Hubei,China,,30.9756,112.2707,67800,3139,58946,5715
-,Zhejiang,China,,29.1832,120.0934,1236,1,1219,16
+,Jiangxi,China,,27.614,115.7221,936,1,934,1
+,Guangdong,China,,23.3417,113.4244,1407,8,1329,70
+,Macau,China,,22.1667,113.55,19,0,10,9
+,Hebei,China,,39.549,116.1306,319,6,310,3
+,Heilongjiang,China,,47.862,127.7615,484,13,466,5
+,Shanghai,China,,31.202,121.4491,394,4,328,62
+,Hong Kong,China,,22.3,114.2,273,4,100,169
+,Fujian,China,,26.0789,117.9874,307,1,295,11
+,Beijing,China,,40.1824,116.4142,514,8,400,106
+,Hubei,China,,30.9756,112.2707,67800,3144,59432,5224
+,Sichuan,China,,30.6171,102.7103,543,3,536,4
+,Jiangsu,China,,32.9711,119.455,633,0,631,2
+,Shandong,China,,36.3427,118.1498,765,7,750,8
+,Liaoning,China,,41.2956,122.6085,126,2,124,0
+,Zhejiang,China,,29.1832,120.0934,1237,1,1219,17
 ,Gansu,China,,37.8099,101.0583,134,2,113,19
-,Sichuan,China,,30.6171,102.7103,542,3,536,3
-,Shandong,China,,36.3427,118.1498,764,7,749,8
 ,Shaanxi,China,,35.1917,108.8701,248,3,239,6
-,Fujian,China,,26.0789,117.9874,303,1,295,7
-,Liaoning,China,,41.2956,122.6085,126,2,122,2
-,Heilongjiang,China,,47.862,127.7615,484,13,463,8
 ,Guangxi,China,,23.8298,108.7881,254,2,250,2
 ,Tianjin,China,,39.3054,117.323,137,3,133,1
 ,Inner Mongolia,China,,44.0935,113.9448,75,1,74,0
-,Macau,China,,22.1667,113.55,17,0,10,7
 ,Guizhou,China,,26.8154,106.8748,146,2,144,0
 ,Yunnan,China,,24.974,101.487,176,2,172,2
 ,Hainan,China,,19.1959,109.7453,168,6,161,1
 ,Ningxia,China,,37.2692,106.1655,75,0,75,0
 ,Chongqing,China,,30.0572,107.874,576,6,570,0
-,Jiangsu,China,,32.9711,119.455,631,0,631,0
 ,Henan,China,,33.882,113.614,1273,22,1250,1
 ,Hunan,China,,27.6104,111.7088,1018,4,1014,0
 ,Shanxi,China,,37.5777,112.2922,133,0,133,0
-,Hebei,China,,39.549,116.1306,318,6,310,2
 ,Jilin,China,,43.6661,126.1923,93,1,92,0
-,Jiangxi,China,,27.614,115.7221,935,1,934,0
 ,Xinjiang,China,,41.1129,85.2401,76,3,73,0
 ,Anhui,China,,31.8257,117.2264,990,6,984,0
-,Qinghai,China,,35.7452,95.9956,18,0,18,0
 ,Tibet,China,,31.6927,88.0924,1,0,1,0
+,Qinghai,China,,35.7452,95.9956,18,0,18,0
 ,Faroe Islands,Denmark,,61.8926,-6.9118,92,0,3,89
 ,Guadeloupe,France,,16.265,-61.551,56,1,0,55
 ,Reunion,France,,-21.1151,55.5364,47,0,0,47
