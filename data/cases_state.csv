@@ -12,13 +12,13 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 12.0,Florida,US,3/23/2020 2:13,27.7663,-81.6868,763,13,0,0
 13.0,Georgia,US,3/21/2020 2:13,33.0406,-83.6431,555,20,0,0
 999.0,Grand Princess,US,3/20/2020 2:13,37.6489,-122.6655,43,1,0,0
-66.0,Guam,US,5/9/2020 2:13,13.4443,144.7937,15,0,0,0
+66.0,Guam,US,5/9/2020 2:13,13.4443,144.7937,15,1,0,0
 15.0,Hawaii,US,4/16/2020 2:13,21.0943,-157.4983,45,0,0,0
 16.0,Idaho,US,4/26/2020 2:13,44.2405,-114.4788,42,0,0,0
 17.0,Illinois,US,3/27/2020 2:13,40.3495,-88.9861,753,6,0,0
 18.0,Indiana,US,4/5/2020 2:13,39.8494,-86.2583,129,4,0,0
 19.0,Iowa,US,3/29/2020 2:13,42.0115,-93.2105,70,0,0,0
-20.0,Kansas,US,4/19/2020 2:13,38.5266,-96.7265,57,2,0,0
+20.0,Kansas,US,4/19/2020 2:13,38.5266,-96.7265,58,2,0,0
 21.0,Kentucky,US,4/6/2020 2:13,37.6681,-84.6701,87,3,0,0
 22.0,Louisiana,US,4/20/2020 2:13,31.1695,-91.8678,763,20,0,0
 23.0,Maine,US,4/27/2020 2:13,44.6939,-69.3819,70,0,0,0
@@ -69,7 +69,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,New Brunswick,Canada,,46.5653,-66.4619,17,0,0,0
 ,Newfoundland and Labrador,Canada,,53.1355,-57.6604,6,0,0,0
 ,Prince Edward Island,Canada,,46.5107,-63.4168,2,0,0,0
-,Northwest Territories,Canada,,,,1,0,0,0
+,Nunavut,Canada,,,,1,0,0,0
 ,New South Wales,Australia,,-33.8688,151.2093,533,6,4,523
 ,Victoria,Australia,,-37.8136,144.9631,296,0,51,245
 ,Queensland,Australia,,-27.4698,153.0251,259,0,8,251
