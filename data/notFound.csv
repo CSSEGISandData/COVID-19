@@ -1,20 +1,23 @@
-County,Province_State,Country_Region
-Detroit City,Michigan,US
-Out of State,Michigan,US
-Brockton,Massachusetts,US
-Dukes and Nantucket,Massachusetts,US
-Out-of-state,Tennessee,US
-Unknown,Tennessee,US
-Stanley,North Carolina,US
-Out of state,Ohio,US
-Portsmouth City,Virginia,US
-Filmore,Minnesota,US
-Non-Utah resident,Utah,US
-Weber-Morgan,Utah,US
-Southwest Utah,Utah,US
-Navajo Nation,Arizona,US
-District of Columbia,"Washington, D.C.",US
-Kansas City,Missouri,US
-Berknap,New Hampshire,US
-Hawaii Island,Hawaii,US
-Seward,Alaska,US
+County,Province_State,Country_Region,Confirmed,Deaths
+Detroit City,Michigan,US,248,3
+Out of State,Michigan,US,1,0
+Brockton,Massachusetts,US,6,0
+Dukes and Nantucket,Massachusetts,US,1,0
+Out-of-state,Tennessee,US,59,0
+Unknown,Tennessee,US,8,0
+Stanley,North Carolina,US,1,0
+Out of state,Ohio,US,1,0
+Portsmouth City,Virginia,US,1,0
+Filmore,Minnesota,US,2,0
+Non-Utah resident,Utah,US,11,0
+Weber-Morgan,Utah,US,6,0
+Southwest Utah,Utah,US,1,0
+Kansas City,Missouri,US,12,0
+District of Columbia,"Washington, D.C.",US,77,1
+Berknap,New Hampshire,US,3,0
+Nashua,New Hampshire,US,1,0
+Hawaii Island,Hawaii,US,1,0
+Seward,Alaska,US,1,0
+,External territories,Australia,0,0
+,Jervis Bay Territory,Australia,0,0
+,Northwest Territories,Canada,1,0
