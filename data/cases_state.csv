@@ -16,7 +16,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 15.0,Hawaii,US,4/16/2020 2:13,21.0943,-157.4983,45,0,0,0
 16.0,Idaho,US,4/26/2020 2:13,44.2405,-114.4788,42,0,0,0
 17.0,Illinois,US,3/27/2020 2:13,40.3495,-88.9861,753,6,0,0
-18.0,Indiana,US,4/5/2020 2:13,39.8494,-86.2583,129,4,0,0
+18.0,Indiana,US,4/5/2020 2:13,39.8494,-86.2583,201,4,0,0
 19.0,Iowa,US,3/29/2020 2:13,42.0115,-93.2105,70,0,0,0
 20.0,Kansas,US,4/19/2020 2:13,38.5266,-96.7265,58,2,0,0
 21.0,Kentucky,US,4/6/2020 2:13,37.6681,-84.6701,87,3,0,0
@@ -34,7 +34,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 33.0,New Hampshire,US,4/9/2020 2:13,43.4525,-71.5639,62,0,0,0
 34.0,New Jersey,US,3/24/2020 2:13,40.2989,-74.521,1327,16,0,0
 35.0,New Mexico,US,5/1/2020 2:13,34.8405,-106.2485,57,0,0,0
-36.0,New York,US,3/16/2020 2:13,42.1657,-74.9481,12322,76,0,0
+36.0,New York,US,3/16/2020 2:13,42.1657,-74.9481,12323,76,0,0
 37.0,North Carolina,US,3/31/2020 2:13,35.6301,-79.8064,282,0,0,0
 38.0,North Dakota,US,5/2/2020 2:13,47.5289,-99.78399999999999,28,0,0,0
 39.0,Ohio,US,4/12/2020 2:13,40.3888,-82.7649,249,3,0,0
@@ -50,7 +50,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 49.0,Utah,US,4/18/2020 2:13,40.15,-111.8624,118,0,0,0
 50.0,Vermont,US,4/22/2020 2:13,44.0459,-72.7107,49,2,0,0
 78.0,"Virgin Islands, U.S.",US,5/8/2020 2:13,18.3358,-64.8963,0,0,0,0
-51.0,Virginia,US,4/3/2020 2:13,37.7693,-78.17,157,3,0,0
+51.0,Virginia,US,4/3/2020 2:13,37.7693,-78.17,158,3,0,0
 53.0,Washington,US,3/15/2020 2:13,47.4009,-121.4905,1793,94,0,0
 54.0,West Virginia,US,5/4/2020 2:13,38.4912,-80.9545,12,0,0,0
 55.0,Wisconsin,US,4/14/2020 2:13,44.2685,-89.6165,282,4,0,0
@@ -64,7 +64,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Alberta,Canada,,53.9333,-116.5765,226,1,0,0
 ,Quebec,Canada,,52.9399,-73.5491,181,5,0,0
 ,Saskatchewan,Canada,,52.9399,-106.4509,44,0,0,0
-,Nova Scotia,Canada,,44.682,-63.7443,21,0,0,0
+,Nova Scotia,Canada,,44.682,-63.7443,28,0,0,0
 ,Manitoba,Canada,,53.7609,-98.8139,19,0,0,0
 ,New Brunswick,Canada,,46.5653,-66.4619,17,0,0,0
 ,Newfoundland and Labrador,Canada,,53.1355,-57.6604,6,0,0,0
@@ -115,7 +115,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Qinghai,China,,35.7452,95.9956,18,0,18,0
 ,Faroe Islands,Denmark,,61.8926,-6.9118,115,0,3,112
 ,Guadeloupe,France,,16.265,-61.551,56,1,0,55
-,Reunion,France,,-21.1151,55.5364,47,0,0,47
+,Reunion,France,,-21.1151,55.5364,47,0,1,46
 ,Martinique,France,,14.6415,-61.0242,37,1,0,36
 ,Channel Islands,United Kingdom,,49.3723,-2.3644,32,0,0,32
 ,French Guiana,France,,4.0,-53.0,18,0,0,18
