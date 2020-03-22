@@ -80,25 +80,25 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Northern Territory,Australia,,-12.4634,130.8456,5,0,0,5
 ,External territories,Australia,,,,0,0,0,0
 ,Jervis Bay Territory,Australia,,,,0,0,0,0
-,Hong Kong,China,,22.3,114.2,317,4,100,213
 ,Hubei,China,,30.9756,112.2707,67800,3144,59433,5223
+,Hong Kong,China,,22.3,114.2,317,4,100,213
 ,Shandong,China,,36.3427,118.1498,766,7,750,9
-,Zhejiang,China,,29.1832,120.0934,1237,1,1219,17
-,Jiangsu,China,,32.9711,119.455,633,0,631,2
-,Liaoning,China,,41.2956,122.6085,126,2,124,0
-,Heilongjiang,China,,47.862,127.7615,484,13,466,5
+,Shanghai,China,,31.202,121.4491,394,4,328,62
+,Jiangxi,China,,27.614,115.7221,936,1,934,1
+,Macau,China,,22.1667,113.55,19,0,10,9
+,Beijing,China,,40.1824,116.4142,514,8,400,106
+,Guangdong,China,,23.3417,113.4244,1407,8,1329,70
 ,Hebei,China,,39.549,116.1306,319,6,310,3
+,Heilongjiang,China,,47.862,127.7615,484,13,466,5
 ,Sichuan,China,,30.6171,102.7103,543,3,536,4
 ,Fujian,China,,26.0789,117.9874,307,1,295,11
-,Guangdong,China,,23.3417,113.4244,1407,8,1329,70
-,Shanghai,China,,31.202,121.4491,394,4,328,62
-,Macau,China,,22.1667,113.55,19,0,10,9
-,Jiangxi,China,,27.614,115.7221,936,1,934,1
-,Beijing,China,,40.1824,116.4142,514,8,400,106
+,Jiangsu,China,,32.9711,119.455,633,0,631,2
+,Zhejiang,China,,29.1832,120.0934,1237,1,1219,17
+,Liaoning,China,,41.2956,122.6085,126,2,124,0
 ,Gansu,China,,37.8099,101.0583,134,2,113,19
 ,Shaanxi,China,,35.1917,108.8701,248,3,239,6
-,Guangxi,China,,23.8298,108.7881,254,2,250,2
 ,Tianjin,China,,39.3054,117.323,137,3,133,1
+,Guangxi,China,,23.8298,108.7881,254,2,250,2
 ,Inner Mongolia,China,,44.0935,113.9448,75,1,74,0
 ,Guizhou,China,,26.8154,106.8748,146,2,144,0
 ,Yunnan,China,,24.974,101.487,176,2,172,2
