@@ -1,5 +1,4 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-NYC-Unassigned,New York,US,6.0,60.0
 Out of State,Michigan,US,1.0,0.0
 Brockton,Massachusetts,US,6.0,0.0
 Dukes and Nantucket,Massachusetts,US,1.0,0.0
@@ -14,7 +13,7 @@ Non-Utah resident,Utah,US,11.0,0.0
 Weber-Morgan,Utah,US,6.0,0.0
 Southwest Utah,Utah,US,1.0,0.0
 District of Columbia,"Washington, D.C.",US,,
-Kansas City,Missouri,US,12.0,0.0
+Kansas City,Missouri,US,13.0,0.0
 Berknap,New Hampshire,US,3.0,0.0
 Nashua,New Hampshire,US,1.0,0.0
 Dona Ana,New Mexico,US,2.0,0.0
