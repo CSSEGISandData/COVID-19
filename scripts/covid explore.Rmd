@@ -1,0 +1,55 @@
+---
+title: "MENTOR explore"
+output:
+  html_document:
+  toc: yes
+toc_depth: '5'
+toc_float: yes
+---
+  
+```{r}
+library(tidyverse)
+library(strengejacke)
+library(psych)
+library(brms)
+library(skimr)
+library(knitr)
+library(xlsx)
+library(here)
+library(haven)
+```
+
+```{r setup, include=FALSE, echo=FALSE}
+require("knitr")
+opts_knit$set(root.dir = here())
+```
+
+```{r global_options}
+knitr::opts_chunk$set(fig.width=10, fig.height=8, warning=FALSE, message=FALSE, cache=TRUE, error=T)
+```
+
+```{r}
+
+options(digits=3, scipen=6)
+
+# vertical and horizontal lines
+theme_set(theme_bw() + theme(panel.grid.minor.x=element_blank(),
+                             panel.grid.minor.y=element_blank(),
+                             plot.title=element_text(face="bold",size=16, hjust=.5),
+                             axis.title=element_text(size=14),
+                             axis.text=element_text(size=12),
+                             strip.text=element_text(size=12)))
+
+
+theme_set(theme_bw() + theme(panel.grid.minor.x=element_blank(),
+                             panel.grid.minor.y=element_blank(),
+                             panel.border = element_blank(),
+                             plot.title=element_text(face="bold",size=18, hjust=.5, family = "Source Sans Pro"),
+                             plot.subtitle = element_text(size=16, family="Source Sans Pro"),
+                             plot.caption=element_text(size=12, family="Source Sans Pro"),
+                             axis.title=element_text(size=16, family="Source Sans Pro"),
+                             axis.text=element_text(size=14, family="Source Sans Pro"),
+                             legend.text=element_text(size=14, family="Source Sans Pro"),
+                             strip.text=element_text(size=14, family="Source Sans Pro")))
+
+```
