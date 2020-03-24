@@ -33,6 +33,8 @@ https://systems.jhu.edu/
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+* Ministry of Health and Family Welfare, Government of India: https://mohfw.gov.in
+
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
