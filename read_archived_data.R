@@ -18,3 +18,6 @@ theFiles <- list.files("./archived_data/archived_daily_case_updates",pattern="*.
 dataList <- lapply(theFiles,read.csv,stringsAsFactors=FALSE)
 
 head(dataList[[1]])
+
+# show path names in list of files
+head(theFiles)
