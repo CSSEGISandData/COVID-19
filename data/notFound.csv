@@ -1,7 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
+Other,Michigan,US,13,0.0
 La Salle,Louisiana,US,1,0.0
-Not Reported,Michigan,US,2,0.0
-Abilene,Texas,US,1,0.0
 Dekalb,Tennessee,US,1,0.0
 Manassas City,Virginia,US,2,0.0
 Unknown,Virginia,US,0,4.0
@@ -19,4 +18,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,Jervis Bay Territory,Australia,0,0.0
 ,,Myanmar,3,0.0
 ,,British Virgin Islands,2,0.0
-,,Turks and Caicos,1,0.0
+,,Turks and Caicos,2,0.0
