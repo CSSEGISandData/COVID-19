@@ -21,3 +21,16 @@ head(dataList[[1]])
 
 # show path names in list of files
 head(theFiles)
+
+
+# replicate original error
+originalDirectory <- getwd()
+path2 =paste0(originalDirectory, "/csse_covid_19_data/csse_covid_19_daily_reports")
+setwd(path2)
+daily_file_names<-list.files(path2)
+daily_DAYS<-lapply(daily_file_names,read.csv,sep=",")
+
+# use pattern = "*.csv"
+daily_file_names<-list.files(path2,pattern = "*.csv")
+daily_DAYS<-lapply(daily_file_names,read.csv,sep=",")
+head(daily_DAYS[[1]])
