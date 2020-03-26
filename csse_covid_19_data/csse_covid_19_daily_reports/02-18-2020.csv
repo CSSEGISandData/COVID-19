@@ -1,4 +1,4 @@
-Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province_State,Country_Region,Last_Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-18T23:13:11,61682,1921,9128
 Guangdong,Mainland China,2020-02-18T13:43:02,1328,4,565
 Henan,Mainland China,2020-02-18T14:23:02,1257,19,522

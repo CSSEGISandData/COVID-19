@@ -1,4 +1,4 @@
-Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+Province_State,Country_Region,Last_Update,Confirmed,Deaths,Recovered,Latitude,Longitude
 Hubei,China,2020-03-16T14:38:45,67798,3099,55142,30.9756,112.2707
 ,Italy,2020-03-16T17:33:03,27980,2158,2749,41.8719,12.5674
 ,Iran,2020-03-16T14:38:45,14991,853,4590,32.4279,53.6880
