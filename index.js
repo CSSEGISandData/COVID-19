@@ -2,7 +2,7 @@ const Papa = require('papaparse');
 const fs = require('fs');
 
 const filename = 'time_series_19-covid-Confirmed.csv';
-const path = './csse_covid_19_data/csse_covid_19_time_series/' + 'time_series_19-covid-Confirmed.csv';
+const path = './csse_covid_19_data/csse_covid_19_time_series/' + 'time_series_covid19_confirmed_global.csv';
 
 const outputDir = 'output/';
 const outputPath = outputDir + filename;
@@ -13,37 +13,50 @@ const FAIL = 1;
 
 const writeOutput = (path, outputPath) => {
   fs.copyFileSync(path, outputPath);
-
 };
 
 const validate = (path, outputPath) => {
-  const file = fs.createReadStream(path);
-  Papa.parse(file, {
-    complete: function(results) {
-      const data = results.data;
-      const header = data[0];
-      for (const [i, expected] of expectedHeader.entries()) {
-        const value = header[i];
-        if (value != expected) {
-          console.log(`unexpected header ${value}, expected: ${expected}`);
-          return FAIL;
-        } else {
-          console.log(`header ${i} matches: ${value}`);
-        }
-      }
+  console.log(`validating ${path}`);
 
-      if (header.length > expectedHeader.length) {
-        console.warn(`file header is longer than validation list: ${header.length} vs ${expectedHeader.length}`);
-        console.warn('not everyting is checked!');
-        for (let i = expectedHeader.length; i < header.length; ++i) {
-          console.log(`extra header ${i}: ${header[i]}`);
+  if (fs.existsSync(path)) {
+    console.log('file exists');
+    const file = fs.createReadStream(path);
+    Papa.parse(file, {
+      complete: function(results) {
+        console.log('parse completed, parsing results');
+        const data = results.data;
+        const header = data[0];
+        for (const [i, expected] of expectedHeader.entries()) {
+          const value = header[i];
+          if (value != expected) {
+            console.log(`unexpected header ${value}, expected: ${expected}`);
+            return FAIL;
+          } else {
+            console.log(`header ${i} matches: ${value}`);
+          }
         }
-      }
 
-      console.log(`validation success, writing ${outputPath}`);
-      writeOutput(path, outputPath)
-    }
-  });
+        if (header.length > expectedHeader.length) {
+          console.warn(`file header is longer than validation list: ${header.length} vs ${expectedHeader.length}`);
+          console.warn('not everyting is checked!');
+          for (let i = expectedHeader.length; i < header.length; ++i) {
+            console.log(`extra header ${i}: ${header[i]}`);
+          }
+        }
+
+        console.log(`validation success, writing ${outputPath}`);
+        writeOutput(path, outputPath)
+      },
+      errors: function(errors) {
+        console.error(errors);
+      }
+    });
+  } else {
+    console.error('file does not exist: ');
+    throw `file does not exist ${path}`;
+  }
+
+
 };
 
 
@@ -58,3 +71,5 @@ fs.copyFileSync('README.md', outputDir + 'README.md');
 validate(path, outputPath);
 
 fs.copyFileSync('_headers', outputDir + '_headers');
+
+console.log('end of index.js');
