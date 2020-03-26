@@ -3188,7 +3188,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 88888,,Diamond Princess,US,2020-03-23 23:19:34,0.0,0.0,49,0,0,0,"Diamond Princess, US"
 ,,Faroe Islands,Denmark,2020-03-23 23:19:21,61.8926,-6.9118,118,0,23,95,"Faroe Islands, Denmark"
 ,,French Guiana,France,2020-03-23 23:19:21,4.0,-53.0,20,0,6,14,"French Guiana, France"
-,,French Polynesia,France,2020-03-23 23:19:21,-17.6797,-149.4068,19874,860,2200,16814,"French Polynesia, France"
+,,French Polynesia,France,2020-03-23 23:19:21,-17.6797,-149.4068,18,0,0,18,"French Polynesia, France"
 ,,Fujian,China,2020-03-23 00:50:24,26.0789,117.9874,313,1,295,17,"Fujian, China"
 ,,Gansu,China,2020-03-22 14:23:02,37.8099,101.0583,136,2,114,20,"Gansu, China"
 ,,Gibraltar,United Kingdom,2020-03-23 23:19:21,36.1408,-5.3536,15,0,5,10,"Gibraltar, United Kingdom"
@@ -3414,3 +3414,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Vietnam,2020-03-23 23:19:21,14.058323999999999,108.277199,123,0,17,106,Vietnam
 ,,,Zambia,2020-03-23 23:19:21,-13.133897,27.849332,3,0,0,3,Zambia
 ,,,Zimbabwe,2020-03-23 23:19:21,-19.015438,29.154857,3,1,0,2,Zimbabwe
+,,,France,3/22/20 23:45,46.2276,2.2137,19874,860,2200,13144,France
