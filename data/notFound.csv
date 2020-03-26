@@ -1,5 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Not Reported,Michigan,US,2,0.0
+Corpus Christi,Texas,US,4,0.0
 ROCKWALL,Texas,US,2,0.0
 Dekalb,Tennessee,US,1,0.0
 Manassas City,Virginia,US,2,0.0
@@ -15,7 +16,6 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,Jervis Bay Territory,Australia,0,0.0
 ,Yukon,Canada,3,0.0
 ,Northwest Territories,Canada,1,0.0
-,,West Bank and Gaza,71,1.0
 ,,Myanmar,3,0.0
 ,,British Virgin Islands,2,0.0
 ,,Turks and Caicos,1,0.0
