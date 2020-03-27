@@ -60,22 +60,22 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Anhui,China,,31.8257,117.2264,990,6,984,0
 ,Aruba,Netherlands,,12.5211,-69.9683,28,0,1,27
 ,Australian Capital Territory,Australia,,-35.4735,149.0124,62,0,1,61
-,Beijing,China,,40.1824,116.4142,566,8,406,152
+,Beijing,China,,40.1824,116.4142,569,8,408,153
 ,Bermuda,United Kingdom,,32.3078,-64.7505,15,0,2,13
 ,British Columbia,Canada,,53.7267,-127.6476,725,14,0,0
 ,Cayman Islands,United Kingdom,,19.3133,-81.2546,8,1,0,7
 ,Channel Islands,United Kingdom,,49.3723,-2.3644,66,1,0,65
 ,Chongqing,China,,30.0572,107.874,578,6,570,2
 ,Curacao,Netherlands,,12.1696,-68.99,7,1,2,4
-,Faroe Islands,Denmark,,61.8926,-6.9118,140,0,47,93
+,Faroe Islands,Denmark,,61.8926,-6.9118,140,0,54,86
 ,French Guiana,France,,4.0,-53.0,28,0,6,22
 ,French Polynesia,France,,-17.6797,-149.4068,30,0,0,30
-,Fujian,China,,26.0789,117.9874,328,1,295,32
-,Gansu,China,,37.8099,101.0583,136,2,121,13
+,Fujian,China,,26.0789,117.9874,331,1,295,35
+,Gansu,China,,37.8099,101.0583,136,2,123,11
 ,Gibraltar,United Kingdom,,36.1408,-5.3536,35,0,13,22
-,Greenland,Denmark,,71.7069,-42.6043,6,0,2,4
+,Greenland,Denmark,,71.7069,-42.6043,9,0,2,7
 ,Guadeloupe,France,,16.265,-61.551,73,1,0,72
-,Guangdong,China,,23.3417,113.4244,1448,8,1336,104
+,Guangdong,China,,23.3417,113.4244,1456,8,1337,111
 ,Guangxi,China,,23.8298,108.7881,254,2,250,2
 ,Guizhou,China,,26.8154,106.8748,146,2,144,0
 ,Hainan,China,,19.1959,109.7453,168,6,168,-6
@@ -83,21 +83,21 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Heilongjiang,China,,47.861999999999995,127.7615,484,13,469,2
 ,Henan,China,,33.882,113.61399999999999,1275,22,1250,3
 ,Hong Kong,China,,22.3,114.2,453,4,110,339
-,Hubei,China,,30.9756,112.2707,67801,3169,61201,3431
+,Hubei,China,,30.9756,112.2707,67801,3174,61731,2896
 ,Hunan,China,,27.6104,111.7088,1018,4,1014,0
-,Inner Mongolia,China,,44.0935,113.9448,89,1,74,14
+,Inner Mongolia,China,,44.0935,113.9448,92,1,74,17
 ,Isle of Man,United Kingdom,,54.2361,-4.5481,26,0,0,26
-,Jiangsu,China,,32.9711,119.455,640,0,631,9
+,Jiangsu,China,,32.9711,119.455,641,0,631,10
 ,Jiangxi,China,,27.614,115.7221,936,1,934,1
 ,Jilin,China,,43.6661,126.1923,95,1,92,2
 ,Liaoning,China,,41.2956,122.6085,128,2,124,2
-,Macau,China,,22.1667,113.55,31,0,10,21
+,Macau,China,,22.1667,113.55,33,0,10,23
 ,Manitoba,Canada,,53.7609,-98.8139,36,0,0,0
 ,Martinique,France,,14.6415,-61.0242,81,1,0,80
 ,Mayotte,France,,-12.8275,45.166244,36,0,0,36
 ,Montserrat,United Kingdom,,16.742498,-62.187366,5,0,0,5
 ,New Brunswick,Canada,,46.5653,-66.4619,33,0,0,0
-,New Caledonia,France,,-20.904305,165.618042,14,0,0,14
+,New Caledonia,France,,-20.904305,165.618042,15,0,0,15
 ,New South Wales,Australia,,-33.8688,151.2093,1405,7,4,1394
 ,Newfoundland and Labrador,Canada,,53.1355,-57.6604,82,0,0,0
 ,Ningxia,China,,37.2692,106.1655,75,0,75,0
@@ -115,22 +115,22 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Saint Barthelemy,France,,17.9,-62.8333,3,0,0,3
 ,Saskatchewan,Canada,,52.9399,-106.4509,95,0,0,0
 ,Shaanxi,China,,35.1917,108.8701,253,3,242,8
-,Shandong,China,,36.3427,118.1498,771,7,752,12
-,Shanghai,China,,31.201999999999998,121.4491,451,5,331,115
+,Shandong,China,,36.3427,118.1498,772,7,752,13
+,Shanghai,China,,31.201999999999998,121.4491,468,5,334,129
 ,Shanxi,China,,37.5777,112.2922,135,0,133,2
-,Sichuan,China,,30.6171,102.7103,547,3,536,8
+,Sichuan,China,,30.6171,102.7103,548,3,536,9
 ,Sint Maarten,Netherlands,,18.0425,-63.0548,3,0,0,3
 ,South Australia,Australia,,-34.9285,138.6007,257,0,6,251
 ,St Martin,France,,18.0708,-63.0501,11,0,0,11
 ,Tasmania,Australia,,-42.8821,147.3272,47,0,3,44
-,Tianjin,China,,39.3054,117.323,151,3,133,15
+,Tianjin,China,,39.3054,117.323,152,3,133,16
 ,Tibet,China,,31.6927,88.0924,1,0,1,0
 ,Victoria,Australia,,-37.8136,144.9631,574,3,171,400
 ,Virgin Islands,US,,18.3358,-64.8963,17,0,0,0
 ,Western Australia,Australia,,-31.9505,115.8605,231,2,1,228
 ,Xinjiang,China,,41.1129,85.2401,76,3,73,0
 ,Yukon,Canada,,64.2823,-135.0,3,0,0,0
-,Yunnan,China,,24.974,101.48700000000001,178,2,172,4
-,Zhejiang,China,,29.1832,120.0934,1243,1,1222,20
+,Yunnan,China,,24.974,101.48700000000001,180,2,172,6
+,Zhejiang,China,,29.1832,120.0934,1247,1,1222,24
 ,Diamond Princess,Canada,,0.0,0.0,0,1,0,0
 ,Grand Princess,Canada,,0.0,0.0,13,0,0,0
