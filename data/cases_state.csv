@@ -67,7 +67,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Channel Islands,United Kingdom,,49.3723,-2.3644,66,1,0,65
 ,Chongqing,China,,30.0572,107.874,578,6,570,2
 ,Curacao,Netherlands,,12.1696,-68.99,7,1,2,4
-,Faroe Islands,Denmark,,61.8926,-6.9118,140,0,54,86
+,Faroe Islands,Denmark,,61.8926,-6.9118,144,0,54,90
 ,French Guiana,France,,4.0,-53.0,28,0,6,22
 ,French Polynesia,France,,-17.6797,-149.4068,30,0,0,30
 ,Fujian,China,,26.0789,117.9874,331,1,295,35
@@ -82,7 +82,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Hebei,China,,39.549,116.1306,319,6,310,3
 ,Heilongjiang,China,,47.861999999999995,127.7615,484,13,469,2
 ,Henan,China,,33.882,113.61399999999999,1275,22,1250,3
-,Hong Kong,China,,22.3,114.2,453,4,110,339
+,Hong Kong,China,,22.3,114.2,519,4,110,405
 ,Hubei,China,,30.9756,112.2707,67801,3174,61732,2895
 ,Hunan,China,,27.6104,111.7088,1018,4,1014,0
 ,Inner Mongolia,China,,44.0935,113.9448,92,1,74,17
@@ -94,7 +94,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Macau,China,,22.1667,113.55,33,0,10,23
 ,Manitoba,Canada,,53.7609,-98.8139,36,0,0,0
 ,Martinique,France,,14.6415,-61.0242,81,1,0,80
-,Mayotte,France,,-12.8275,45.166244,36,0,0,36
+,Mayotte,France,,-12.8275,45.166244,50,0,0,50
 ,Montserrat,United Kingdom,,16.742498,-62.187366,5,0,0,5
 ,New Brunswick,Canada,,46.5653,-66.4619,33,0,0,0
 ,New Caledonia,France,,-20.904305,165.618042,15,0,0,15
