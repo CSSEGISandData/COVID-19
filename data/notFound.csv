@@ -1,17 +1,18 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Other,Michigan,US,13,0.0
+Other,Michigan,US,22,0.0
+Dickson,Michigan,US,1,0.0
+La Salle,Illinois,US,3,0.0
 La Salle,Louisiana,US,1,0.0
 West Celiciana,Louisiana,US,1,0.0
-La Salle,Illinois,US,3,0.0
 Mcduffie,Georgia,US,1,0.0
-Dekalb,Tennessee,US,2,0.0
+Dekalb,Tennessee,US,3,0.0
 Caroll,Indiana,US,1,0.0
 Whitlty,Indiana,US,1,0.0
+TBD,Missouri,US,4,0.0
 Manassas City,Virginia,US,3,0.0
 Unknown,Virginia,US,0,4.0
-TBD,Missouri,US,10,0.0
 Bear River,Utah,US,7,0.0
-TriCounty,Utah,US,1,0.0
+TriCounty,Utah,US,1,1.0
 Lac Qui Parle,Minnesota,US,1,0.0
 unassign,Minnesota,US,1,0.0
 Northern Kentucky,Kentucky,US,1,0.0
