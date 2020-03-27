@@ -104,11 +104,11 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Northern Territory,Australia,,-12.4634,130.8456,12,0,0,12
 ,Northwest Territories,Canada,,64.8255,-124.8457,1,0,0,0
 ,Nova Scotia,Canada,,44.682,-63.7443,73,0,0,0
-,Ontario,Canada,,51.2538,-85.3232,858,13,0,0
+,Ontario,Canada,,51.2538,-85.3232,858,15,0,0
 ,Prince Edward Island,Canada,,46.5107,-63.4168,9,0,0,0
 ,Qinghai,China,,35.7452,95.9956,18,0,18,0
 ,Quebec,Canada,,52.9399,-73.5491,1632,8,0,0
-,Queensland,Australia,,-27.4698,153.0251,493,1,8,484
+,Queensland,Australia,,-27.4698,153.0251,555,1,8,546
 ,Recovered,Canada,,0.0,0.0,0,0,184,0
 ,Recovered,US,,0.0,0.0,0,0,753,0
 ,Reunion,France,,-21.1151,55.5364,135,0,1,134
@@ -120,7 +120,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Shanxi,China,,37.5777,112.2922,135,0,133,2
 ,Sichuan,China,,30.6171,102.7103,547,3,536,8
 ,Sint Maarten,Netherlands,,18.0425,-63.0548,3,0,0,3
-,South Australia,Australia,,-34.9285,138.6007,235,0,6,229
+,South Australia,Australia,,-34.9285,138.6007,257,0,6,251
 ,St Martin,France,,18.0708,-63.0501,11,0,0,11
 ,Tasmania,Australia,,-42.8821,147.3272,47,0,3,44
 ,Tianjin,China,,39.3054,117.323,151,3,133,15
