@@ -3183,6 +3183,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Curacao,Netherlands,2020-03-24 23:37:15,12.1696,-68.99,6,1,0,5,"Curacao, Netherlands"
 ,,Diamond Princess,Canada,2020-03-24 23:41:36,0.0,0.0,0,1,0,0,"Diamond Princess, Canada"
 88888,,Diamond Princess,US,2020-03-24 23:37:31,0.0,0.0,49,0,0,0,"Diamond Princess, US"
+,,Diamond Princess,Cruise Ship,2020-03-23 23:19:21,0.0,0.0,712,8,567,137,"Diamond Princess, Cruise Ship"
 ,,Faroe Islands,Denmark,2020-03-24 23:37:15,61.8926,-6.9118,122,0,33,89,"Faroe Islands, Denmark"
 ,,French Guiana,France,2020-03-24 23:37:15,4.0,-53.0,23,0,6,17,"French Guiana, France"
 ,,French Polynesia,France,2020-03-24 23:37:15,-17.6797,-149.4068,25,0,0,25,"French Polynesia, France"
