@@ -1,10 +1,12 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Mckean,Pennsylvania,US,1,0
 Verm.,Indiana,US,1,0
-Unknown,Virginia,US,0,4
 TBD,Missouri,US,4,0
+Joplin,Missouri,US,1,0
+Unknown,Virginia,US,0,4
 TriCounty,Utah,US,1,1
 Northern Kentucky,Kentucky,US,1,0
+Unknown,Kansas,US,0,1
 Gridwood,Alaska,US,1,0
 Unassigned,Wuhan Evacuee,US,4,0
 ,External territories,Australia,0,0
