@@ -1,9 +1,14 @@
 County,Province_State,Country_Region,Confirmed,Deaths
+De Witt,Texas,US,3,0
 Verm.,Indiana,US,1,0
 Unknown,Virginia,US,0,4
 TBD,Missouri,US,4,0
 TriCounty,Utah,US,1,0
+Out-of-State,Oklahoma,US,2,0
 Northern Kentucky,Kentucky,US,1,0
+St. Croix,US Virgin Islands,US,11,0
+St. Thomas,US Virgin Islands,US,11,0
+St. John,US Virgin Islands,US,1,0
 Unassigned,Wuhan Evacuee,US,4,0
 Saipan,Northern Mariana Islands,US,2,0
 ,External territories,Australia,0,0
