@@ -3428,19 +3428,19 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,West Bank and Gaza,28/03/2020 23:05,31.9522,35.2332,98,1,18,79,West Bank and Gaza
 ,,,Zambia,28/03/2020 23:05,-13.133897,27.849332,28,0,0,28,Zambia
 ,,,Zimbabwe,28/03/2020 23:05,-19.015438,29.154857,7,1,0,6,Zimbabwe
-,,Region de Arica y Parinacota,Chile,29/03/2020 18:48,-18.4784,-70.3211,4,0,0,0,Region de Arica y Parinacota, Chile
-,,Region de Tarapaca,Chile,29/03/2020 18:48,-20.2141,-70.1524,6,0,0,0,Region de Tarapaca, Chile
-,,Region de Antofagasta,Chile,29/03/2020 18:48,-23.6464,-70.398,27,0,0,0,Region de Antofagasta, Chile
-,,Region de Atacama,Chile,29/03/2020 18:48,-27.3665,-70.3323,2,0,0,0,Region de Atacama, Chile
-,,Region de Coquimbo,Chile,29/03/2020 18:48,-29.9027,-71.252,18,0,0,0,Region de Coquimbo, Chile
-,,Region de Valparaiso,Chile,29/03/2020 18:48,-33.045944,-71.616361,80,0,0,0,Region de Valparaiso, Chile
-,,Region Metropolitana,Chile,29/03/2020 18:48,-33.45,-70.666667,1167,3,75,72,Region Metropolitana, Chile
-,,Region de OHiggins,Chile,29/03/2020 18:48,-34.165389,-70.739806,21,0,0,0,Region de OHiggins, Chile
-,,Region del Maule,Chile,29/03/2020 18:48,-35.4266,-71.6661,42,0,0,0,Region del Maule, Chile
-,,Region del Niuble,Chile,29/03/2020 18:48,-36.6067,-72.1033,197,0,0,0,Region del Niuble, Chile
-,,Region del BioBio,Chile,29/03/2020 18:48,-36.8271,-73.0503,185,2,0,0,Region del BioBio, Chile
-,,Region de La Araucania,Chile,29/03/2020 18:48,-38.7399,-72.5901,205,2,0,0,Region de La Araucania, Chile
-,,Region de Los Rios,Chile,29/03/2020 18:48,-39.8142,-73.2459,40,0,0,0,Region de Los Rios, Chile
-,,Region de Los Lagos,Chile,29/03/2020 18:48,-41.4718,-72.9396,104,0,0,0,Region de Los Lagos, Chile
-,,Region de Aysen,Chile,29/03/2020 18:48,-45.5712,-72.0685,2,0,0,0,Region de Aysen, Chile
-,,Region de Magallanes,Chile,29/03/2020 18:48,-53.1627,-70.9081,39,0,0,0,Region de Magallanes, Chile
+,,Region de Arica y Parinacota,Chile,29/03/2020 18:48,-18.4784,-70.3211,4,0,0,4,"Region de Arica y Parinacota, Chile"
+,,Region de Tarapaca,Chile,29/03/2020 18:48,-20.2141,-70.1524,6,0,0,6,"Region de Tarapaca, Chile"
+,,Region de Antofagasta,Chile,29/03/2020 18:48,-23.6464,-70.398,27,0,0,27,"Region de Antofagasta, Chile"
+,,Region de Atacama,Chile,29/03/2020 18:48,-27.3665,-70.3323,2,0,0,2,"Region de Atacama, Chile"
+,,Region de Coquimbo,Chile,29/03/2020 18:48,-29.9027,-71.252,18,0,0,18,"Region de Coquimbo, Chile"
+,,Region de Valparaiso,Chile,29/03/2020 18:48,-33.045944,-71.616361,80,0,0,80,"Region de Valparaiso, Chile"
+,,Region Metropolitana,Chile,29/03/2020 18:48,-33.45,-70.666667,1167,3,75,1092,"Region Metropolitana, Chile"
+,,Region de OHiggins,Chile,29/03/2020 18:48,-34.165389,-70.739806,21,0,0,21,"Region de OHiggins, Chile"
+,,Region del Maule,Chile,29/03/2020 18:48,-35.4266,-71.6661,42,0,0,42,"Region del Maule, Chile"
+,,Region del Niuble,Chile,29/03/2020 18:48,-36.6067,-72.1033,197,0,0,197,"Region del Niuble, Chile"
+,,Region del BioBio,Chile,29/03/2020 18:48,-36.8271,-73.0503,185,2,0,185,"Region del BioBio, Chile"
+,,Region de La Araucania,Chile,29/03/2020 18:48,-38.7399,-72.5901,205,2,0,205,"Region de La Araucania, Chile"
+,,Region de Los Rios,Chile,29/03/2020 18:48,-39.8142,-73.2459,40,0,0,40,"Region de Los Rios, Chile"
+,,Region de Los Lagos,Chile,29/03/2020 18:48,-41.4718,-72.9396,104,0,0,104,"Region de Los Lagos, Chile"
+,,Region de Aysen,Chile,29/03/2020 18:48,-45.5712,-72.0685,2,0,0,2,"Region de Aysen, Chile"
+,,Region de Magallanes,Chile,29/03/2020 18:48,-53.1627,-70.9081,39,0,0,39,"Region de Magallanes, Chile"
