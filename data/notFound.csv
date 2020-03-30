@@ -1,4 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
+Harris--Houston,Texas,US,286,0
+Harris--Non Houston,Texas,US,240,3
+El Paso--Fort Bliss,Texas,US,7,0
 De Witt,Texas,US,3,0
 Verm.,Indiana,US,1,0
 TBD,Missouri,US,8,0
@@ -7,9 +10,9 @@ Unitah,Utah,US,1,0
 Unassigned Southwest,Utah,US,1,0
 Northern Kentucky,Kentucky,US,1,0
 Out-of-State,Oklahoma,US,2,0
+St. Thomas,US Virgin Islands,US,17,0
 St. Croix,US Virgin Islands,US,11,0
-St. Thomas,US Virgin Islands,US,11,0
-St. John,US Virgin Islands,US,1,0
+St. John,US Virgin Islands,US,2,0
 Unassigned,Wuhan Evacuee,US,4,0
 Saipan,Northern Mariana Islands,US,2,0
 ,External territories,Australia,0,0
