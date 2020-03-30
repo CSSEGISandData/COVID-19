@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # mkinlan's fork of original 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
+=======
+## 2019 Novel Coronavirus (COVID-19) Analysis in R
+>>>>>>> 1130201dcac99e8a21637e29cd23cfb4aaa3917b
 
+### Code:
+Work has been done in R using R Studio. R script and R markdown explaining logic are above. 
 
+<<<<<<< HEAD
 The data in this fork is sourced from the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). The JHU data is also supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
 <b>mkinlan's Term's of Use:</br><br>
@@ -10,20 +17,14 @@ This Github public fork was created for educational/academic purposes, not for a
 
 ##Links to Original JHU CSSE Dashboards and Work: 
 <br>
+=======
+<b>Terms of Use:</b><br>
+This Github public fork was created for educational purposes. 
 
-<b>Visual Dashboard (desktop):</b><br>
-https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-<br><br>
-<b>Visual Dashboard (mobile):</b><br>
-http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
-<br><br>
-<b>Lancet Article:</b><br>
-[An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
-<br><br>
-<b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b><br>
-https://systems.jhu.edu/
-<br><br>
-<b>Data Sources:</b><br>
+### Data Sources Used:
+The primary data source for this analysis is the <a href="https://github.com/CSSEGISandData/COVID-19">JHU CSSEGIS COVID-19 GitHub Repository</a>, which aggregates data from the following organizations:  
+>>>>>>> 1130201dcac99e8a21637e29cd23cfb4aaa3917b
+
 * World Health Organization (WHO): https://www.who.int/ <br>
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
 * BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  <br>
@@ -39,6 +40,7 @@ https://systems.jhu.edu/
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+<<<<<<< HEAD
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
@@ -55,3 +57,7 @@ This GitHub repo and its contents herein, including all data, mapping, and analy
 
 
 
+=======
+* 1Point3Arces: https://coronavirus.1point3acres.com/en
+* WorldoMeters: https://www.worldometers.info/coronavirus/
+>>>>>>> 1130201dcac99e8a21637e29cd23cfb4aaa3917b
