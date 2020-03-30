@@ -32,7 +32,7 @@ Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
 
 This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data are from the daily case report.
 
-### Field descriptioin
+### Field description
 * Province/State: same as above.
 * Country/Region: same as above.
 * Lat and Long: a coordinates reference for the user.
