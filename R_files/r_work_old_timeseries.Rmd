@@ -1,0 +1,209 @@
+---
+title: "COVID-19 in Various U.S. Regions"
+author: "Morgana Kinlan"
+date: "March 30, 2020"
+output: html_document
+---
+
+###Data Sources
+
+To examine COVID-19 data, I first created my own GitHub repository as a fork from the [Novel Coronavirus (COVID-19) Cases public github repository](https://github.com/CSSEGISandData/COVID-19/blob/master/README.md) provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Their repo is also supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
+
+My public GitHub repo, which includes data used, can be found here: https://github.com/mkinlan/COVID-19
+
+###Connecting R to GitHub
+
+After creating my public repo, I created a new project in R Studio and connected it to my GitHub repo. Connecting directly through R Studio allows me to pull fresh data from the JHU repo, which is updated daily, rather than having to re-clone the repo each day or manually download CSV files. 
+
+For help connecting R Studio to GitHub, see Ch.12 of [Happy Git and GitHub for the useR](https://happygitwithr.com/rstudio-git-github.html).
+
+####R Packages
+
+After setting up the project, I loaded the following packages into R Studio that would be needed for the first section: 
+
+```{r, warning= FALSE, message=FALSE}
+library(readr)
+library(dplyr)
+library(tidyverse)
+library(tidyr)
+library(lubridate)
+library(ggthemes)
+```
+
+Next, I loaded in time series data of confirmed COVID-19 cases from my GitHub repo. The time series CSV file shows the total number of confirmed cases from around the world, recorded by country and aggregated from the province or state level. 
+
+```{r, warning=FALSE, message=FALSE, echo=TRUE, results='hide'}
+#Reading in time series data for the world, cloned from GitHub
+confirm <- read_csv("C:/Users/Morganak/Documents/R/COVID_Project/COVID-19/old_time_series_data/time_series_19-covid-Confirmed.csv")
+names(confirm)
+head(confirm)
+```
+
+I currently live in Maryland and wanted to see data about my home state, so once the data was imported, I filtered it down to just the United States and just the state of Maryland.
+
+
+```{r, warning=FALSE, message=F, echo=T, results='hide'}
+#filtering down to just United States
+md<-confirm %>% filter(`Country/Region`=="US"& `Province/State`=="Maryland")
+head(md)
+```
+
+###Reshaping Data for Plotting
+As the results above show, the Maryland-only data was very wide (only 1 row, but 65 columns). 
+
+I wanted to be able to plot all of the confirmed cases by date. R views column names as variables, so in the current data format, each date would be a separate variable for a total of 65 variables. This format makes a lot of sense from a real-time data collection standpoint, but plotting 65 variables is not ideal. 
+
+I decided to reshape the Maryland data into something more usable.
+
+```{r}
+#reshaping wide Cartesian view into long indexed view
+
+md<-md[,-c(2:4)]#Removing country, lat, long cols
+names(md)[1]<-"State" #renaming for easier coding
+md_short<-md %>% gather(Date, Confirmed, "1/22/20":"3/22/20")
+```
+
+I didn't need the country, latitude, or longitude variable columns for the bar chart, so I removed those from the dataframe. Then I transposed the wide maryland data into a long indexed form with only 3 columns: "State", "Date" and "Confirmed". These last two columns were created with the gather() function.
+
+The gather() function placed all of the data from columns "1/22/20" through "3/22/20" into two newly formed columns, which I named "Date" and "Confirmed". Now, instead of having each date as it's own separate variable, each date column name would be listed under the single new "Date" variable. The accompanying row 1 data under each date column name was gathered under the new "Confirmed" column.
+
+Here is the result:
+
+```{r}
+head(md_short)
+```
+
+Next, I used ggplot2 to create a bar plot showng the number of confirmed COVID-19 cases over time:
+
+```{r}
+md_short$Date<-as.Date(md_short$Date, "%m/%d/%y")#turning from char to date
+
+#Plot showing difference from one month ago to today
+p<-ggplot(md_short, aes(Date,Confirmed))
+p<-p+geom_bar(stat="identity")
+p
+```
+
+After first creating the initial plot, p, I thought it might be better to change the x-axis limits to only the dates when COVID-19 first started to appear in Maryland, which happened to be early March. 
+
+I also added a title, subtitle, and adjusted the overall look and feel by changing the theme() function. 
+
+```{r, warning=F, error=F, message=F}
+p_short<-p + xlim(as.Date(c("2020-03-01", "2020-03-23"), format="%Y-%m-%d")) #only showing time since infection started
+p_titles<-p_short + labs(x=NULL, y="Confirmed Cases", title="Confirmed COVID-19 Cases in Maryland", subtitle = "github.com/mkinlan/COVID-19.git")
+p_titles + theme_economist()
+```
+
+
+##Mapping U.S. Data
+```{r, warning=FALSE, message=F}
+library(raster)
+library(rgdal)
+library(sp)
+library(mapproj)
+library(tidyverse)
+```
+
+Loading package to retrieve raster map from Google Maps
+```{r,warning=FALSE, message=F}
+library(ggmap) #to use this package, need to register with Google and use Maps Static API, Geocoding API & maybe Geolocation API
+```
+
+```{r, echo=T, warning=F, message=F, results='hide'}
+daily<-read.csv2("C:/Users/Morganak/Documents/R/COVID_Project/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/03-29-2020.csv", header=TRUE, sep=",", stringsAsFactors=FALSE)
+
+str(daily)
+names(daily)
+```
+
+```{r, warning=FALSE, message=F}
+colnames(daily)<-c('FIPS','Admin2','State','Country','Date', 'Lat', 'Long', 'Confirmed', 'Deaths', 'Recover', 'Active', 'Combined_Key')
+
+#Filtering to only US confirmed cases in the 50 states
+us_only<-daily %>% dplyr::filter(Country=="US" & Confirmed!=0) 
+
+#%>% dplyr::select('State','Confirmed','Lat', 'Long')
+states<-read.csv2("C:/Users/Morganak/Documents/R/COVID_Project/COVID-19/states_conus.csv")
+
+s<-states[,"State"] #vector of state names
+
+us_only<-filter(us_only, State %in% s) #filtering out locations not in the state name vector
+
+
+us_only<-us_only%>% dplyr::select('Confirmed','Lat', 'Long')#selecting only needed cols
+us_only$Lat<-as.numeric(us_only$Lat)
+us_only$Long<-as.numeric(us_only$Long)
+```
+
+###US Map
+```{r, warning=FALSE, message=F}
+
+#Getting a map of the United States
+map<-get_map(location = 'US', zoom=4, source="stamen", maptype = "watercolor", crop=FALSE)
+#Adding points for confirmed cases
+us_point<-ggmap(map) + geom_point(data=us_only, aes(x=Long, y=Lat), size=2, alpha=.5)
+us_point
+```
+
+
+```{r, warning=FALSE, message=F}
+library(ggplot2)
+library(dplyr) #for filtering & selecting 
+library(ggmap)#for scatterplot map
+library(maps)#for bubblemap
+library(readr) #to read CSV
+library(viridis) #for colors
+```
+
+```{r, warning=FALSE, message=F}
+#Bubble map CONUS
+#warning message refers to points outside the map axes
+
+us_only<-us_only %>% arrange(Confirmed)#arranging confirmed desc. so that points representing larger confirmed cases will be in the 
+
+map<-map_data("world") %>% filter(region=="USA") #map data
+```
+
+```{r, warning=FALSE, message=F}
+
+p1<-ggplot() +
+  geom_polygon(data = map, aes(x=long, y=lat, group=group), fill="gray", colour = "darkgray", size=0.5) + #setting line color, fill color, line size
+  ylim(20,50) + xlim(-125,-59) + #resizing to just CONUS
+  geom_point(data=us_only, aes(x=Long, y=Lat, color=us_only$Confirmed, size=us_only$Confirmed, alpha=0.5)) +
+  #theme_void() + #gets rid of axes
+  coord_map() + #plotting with correct mercator projection (prior plot was cartesian coordinates)
+  scale_color_viridis() +
+  #theme(legend.position="none") +
+  ggtitle("Confirmed COVID-19 Cases in the U.S.") 
+print(p1)
+```
+
+```{r, warning=FALSE, message=F}
+
+p2<-ggplot(us_only,aes(x=Long, y=Lat, size=Confirmed)) +
+  geom_polygon(data = map, aes(x=long, y=lat, group=group), fill="gray", colour = "darkgray", size=0.5) + #setting line color, fill color, line size
+  ylim(23,50) + xlim(-125,-60) + #resizing to just CONUS
+  geom_point(alpha=0.5, color="darkgreen") + #everything inside aes appears in legend
+  theme_void() + #gets rid of axes
+  coord_map() + #plotting with correct mercator projection (prior plot was cartesian coordinates)
+  ggtitle("Confirmed COVID-19 Cases in the U.S.") 
+print(p2)
+```
+
+```{r, warning=FALSE, message=F}
+
+p3<-ggplot() +
+  geom_polygon(data = map, aes(x=long, y=lat, group=group), fill="gray", colour = "darkgray", size=0.5, alpha=0.3) + #setting line color, fill color, line size
+  ylim(23,50) + xlim(-125,-60) + #resizing to just CONUS
+  geom_point(data=us_only, aes(x=Long, y=Lat, color=Confirmed, size=Confirmed), alpha=0.5) + #everything inside aes appears in legend
+  coord_map() + #plotting with correct mercator projection (prior plot was cartesian coordinates)
+  scale_color_viridis_c()+
+  ggtitle("Confirmed COVID-19 Cases in the U.S.") +
+  guides( colour = guide_legend()) +
+  theme_void()  #gets rid of axes
+  #theme(plot.background = element_rect(fill="black")) #changes to only show one legend
+print(p3)
+```
+          
+          
+          
