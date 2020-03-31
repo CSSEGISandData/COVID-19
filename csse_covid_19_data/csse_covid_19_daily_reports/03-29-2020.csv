@@ -3236,8 +3236,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
 ,,Quebec,Canada,2020-03-29 23:13:52,52.9399,-73.5491,2840,22,0,0,"Quebec, Canada"
 ,,Queensland,Australia,2020-03-29 23:14:06,-27.4698,153.0251,656,2,8,646,"Queensland, Australia"
-,,Recovered,Canada,2020-03-29 23:13:52,0.0,0.0,0,0,466,0,"Recovered, Canada"
-,,Recovered,US,2020-03-29 23:08:25,0.0,0.0,0,0,2665,0,"Recovered, US"
 ,,Reunion,France,2020-03-29 23:08:13,-21.1151,55.5364,183,0,1,182,"Reunion, France"
 ,,Saint Barthelemy,France,2020-03-29 23:08:13,17.9,-62.8333,5,0,0,5,"Saint Barthelemy, France"
 ,,Saskatchewan,Canada,2020-03-29 23:13:52,52.9399,-106.4509,156,0,0,0,"Saskatchewan, Canada"
