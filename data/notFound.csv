@@ -1,9 +1,11 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Unknown,Michigan,US,19,2.0
 Chambers,Georgia,US,0,0.0
+Out of state,Colorado,US,0,1.0
 Verm.,Indiana,US,1,0.0
 TBD,Missouri,US,1,0.0
 Charke,Virginia,US,1,0.0
+Central Utah,Utah,US,1,0.0
 Adam,Idaho,US,1,0.0
 Obrien,Iowa,US,2,0.0
 Unknown,Kansas,US,0,0.0
