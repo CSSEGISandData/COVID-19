@@ -141,6 +141,7 @@
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles
+694,SL,SLE,694,,,,Sierra Leone,8.460555,-11.779889,Sierra Leone
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore
 703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia
 705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia
@@ -186,6 +187,7 @@
 533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands"
 531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands"
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands"
+535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands"
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom"
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom"
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom"
@@ -195,6 +197,7 @@
 833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom"
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom"
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,"Turks and Caicos Islands, United Kingdom"
+36,AU,AUS,36,,,,Australia,-25,133,Australia
 3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia"
 3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia"
 3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia"
@@ -203,6 +206,7 @@
 3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia"
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia"
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia"
+124,CA,CAN,124,,,,Canada,60,-95,Canada
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada"
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada"
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada"
@@ -218,6 +222,7 @@
 12413,CA,CAN,124,,,Diamond Princess,Canada,,,"Diamond Princess, Canada"
 12414,CA,CAN,124,,,Grand Princess,Canada,,,"Grand Princess, Canada"
 12415,CA,CAN,124,,,Recovered,Canada,,,"Recovered, Canada"
+156,CN,CHN,156,,,,China,30.5928,114.3055,China
 15601,CN,CHN,156,,,Anhui,China,31.8257,117.2264,"Anhui, China"
 15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China"
 15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China"
@@ -251,6 +256,7 @@
 15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China"
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China"
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China"
+840,US,USA,840,,,,US,40,-100,US
 16,AS,ASM,16,00060,,American Samoa,US,-14.271,-170.132,"American Samoa, US"
 316,GU,GUM,316,00066,,Guam,US,13.4443,144.7937,"Guam, US"
 580,MP,MNP,580,00069,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US"
@@ -1118,7 +1124,7 @@
 84018009,US,USA,840,18009,Blackford,Indiana,US,40.47388153,-85.32499702,"Blackford, Indiana, US"
 84018011,US,USA,840,18011,Boone,Indiana,US,40.0509304,-86.46841646,"Boone, Indiana, US"
 84018013,US,USA,840,18013,Brown,Indiana,US,39.19605589,-86.22868909,"Brown, Indiana, US"
-84018015,US,USA,840,18015,Carroll,Indiana,US,40.5807832,-86.56198812,"Carroll,Indiana,US"
+84018015,US,USA,840,18015,Carroll,Indiana,US,40.5807832,-86.56198812,"Carroll, Indiana,US"
 84018017,US,USA,840,18017,Cass,Indiana,US,40.76135835,-86.34830753,"Cass, Indiana, US"
 84018019,US,USA,840,18019,Clark,Indiana,US,38.48015445,-85.70510334,"Clark, Indiana, US"
 84018021,US,USA,840,18021,Clay,Indiana,US,39.39561833,-87.11723506,"Clay, Indiana, US"
@@ -2305,7 +2311,7 @@
 84036121,US,USA,840,36121,Wyoming,New York,US,42.70145109,-78.22199579,"Wyoming, New York, US"
 84036123,US,USA,840,36123,Yates,New York,US,42.63505484,-77.10369919,"Yates, New York, US"
 84037001,US,USA,840,37001,Alamance,North Carolina,US,36.0434701,-79.39976137,"Alamance, North Carolina, US"
-84037003,US,USA,840,37003,Alexander,North Carolina,US,35.9223796,-81.17751948,"Alexander,North Carolina,US"
+84037003,US,USA,840,37003,Alexander,North Carolina,US,35.9223796,-81.17751948,"Alexander, North Carolina,US"
 84037005,US,USA,840,37005,Alleghany,North Carolina,US,36.49360862,-81.12857041,"Alleghany, North Carolina, US"
 84037007,US,USA,840,37007,Anson,North Carolina,US,34.97403241,-80.09953279,"Anson, North Carolina, US"
 84037009,US,USA,840,37009,Ashe,North Carolina,US,36.43296207,-81.49862729,"Ashe, North Carolina, US"
