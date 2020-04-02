@@ -83,8 +83,8 @@ Dekalb,Tennessee,US,DeKalb,Tennessee,US,35.97616272,-85.83689361,,,,,
 Out-of-state,Tennessee,US,Out of TN,Tennessee,US,0,0,,,,,
 Unknown,Tennessee,US,Unassigned,Tennessee,US,0,0,,,,,
 El Paso--Fort Bliss,Texas,US,El Paso,Texas,US,31.76980765,-106.2363275,,,,,
-Harris--Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,
-Harris--Non Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,
+Harris--Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
+Harris--Non Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
 Bear River,Utah,US,Box Elder,Utah,US,41.52106798,-113.0832816,,,,,
 Non-Utah resident,Utah,US,Out of UT,Utah,US,0,0,,,,,
 Southwest Utah,Utah,US,Washington,Utah,US,37.28003525,-113.504698,,,,,
@@ -100,8 +100,24 @@ Unknown,Virginia,US,Unassigned,Virginia,US,0,0,,,,,
 ,,Palestine,,,West Bank and Gaza,31.9522,35.2332,,,,,
 Manchester,New Hampshire,US,Manchester,New Hampshire,US,42.9956,-71.4548,,,,,
 Nashua,New Hampshire,US,Nashua,New Hampshire,US,42.7654,-71.4676,,,,,
-"Navajo, AZ",Navajo Nation,US,Navajo,Arizona,US,35.4020,-110.1403,,,,,
+"Navajo, AZ",Navajo Nation,US,Navajo,Arizona,US,35.402,-110.1403,,,,,
 "Coconino, AZ",Navajo Nation,US,Coconino,Arizona,US,35.6648,-111.4753,,,,,
 "Apache, AZ",Navajo Nation,US,Apache,Arizona,US,35.5313,-109.3783,,,,,
 "San Juan, NM",Navajo Nation,US,San Juan,New Mexico,US,36.3882,-108.2378,,,,,
 "McKinley, NM",Navajo Nation,US,McKinley,New Mexico,US,35.7152,-108.2378,,,,,
+Unknown,Michigan,US,Unassigned,Michigan,US,,,,,,,
+Parish Under Investigation,Louisiana,US,Unassigned,Louisiana,US,,,,,,,
+Out of state,Colorado,US,Out of CO,Colorado,US,,,,,,,80008
+Charke,Virginia,US,Clarke,Virginia,US,39.11271747,-77.99199425,,,,,51043
+Staunton City,Virginia,US,Staunton,Virginia,US,38.15965544,-79.05979937,,,,,
+Adam,Idaho,US,Adams,Idaho,US,44.89333571,-116.4545247,,,,,16003
+Obrien,Iowa,US,O'Brien,Iowa,US,43.08310673,-95.62474482,,,,,19141
+Kenai,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
+Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,
+,,Caribbean Netherlands,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,,,,,
+Navajo,Navajo Nation,US,Navajo,Arizona,US,35.3997715,-110.3218983,,,,,04017
+Coconino,Navajo Nation,US,Coconino,Arizona,US,35.83883429,-111.7707178,,,,,04005
+Apache,Navajo Nation,US,Apache,Arizona,US,35.39465006,-109.4892383,,,,,04001
+McKinley,Navajo Nation,US,McKinley,New Mexico,US,35.5800772,-108.262245,,,,,35031
+"San Juan, UT",Navajo Nation,US,San Juan,Utah,US,37.62762978,-109.8033714,,,,,49037
+Cibola,Navajo Nation,US,Cibola,New Mexico,US,34.91131525,-107.998876,,,,,35006
