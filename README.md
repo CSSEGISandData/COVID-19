@@ -35,7 +35,6 @@ https://systems.jhu.edu/
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 * 1Point3Arces: https://coronavirus.1point3acres.com/en
 * WorldoMeters: https://www.worldometers.info/coronavirus/
-* Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
