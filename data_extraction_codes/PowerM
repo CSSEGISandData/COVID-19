@@ -1,0 +1,69 @@
+//AUTOMATED SCRIPT TO PULL CSV FILES IN A LOOP INTO POWER BI USING POWER M LANGUAGE FOR POWER BI AND EXCEL
+//YOU NEED TO PASTE EACH STEP IN A SEPARATE QUERY
+
+
+//STEP 1 - FUNCTION
+//CREATE BLANK QUERY AND PASTE CODE BELOW; COMMENTS PROVIDED
+//WE CREATE THE FUNCTION THAT CREATES THE LOOP FOR EACH URL IN GITHUB
+
+(Calendar as text) as table =>
+/* we use "text" since we will try to match the string taken from the filenames, which is always MM-DD-YYYY*/
+let
+    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/"& Calendar &".csv"),[Delimiter=",", Columns=6, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+in
+    #"Promoted Headers"  
+
+
+//STEP 2 - CALENDAR TABLE
+//CREATE A BLANK QUERY AND PASTE CODE BELOW; COMMENT PROVIDED
+//WE CREATE A DATE STRING COLUMN TO MATCH THE FILENAME AND A DATE FORMAT COLUMN FOR LATER USE
+let
+    
+    /* we start by creating a date table. I used 1st Dec 2019 as start date and set a year using 365 day; you can edit this as you wish*/
+    Source = List.Dates(#date(2019, 12, 01), 365, #duration(1, 0, 0, 0)),
+    #"Converted to Table" = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+
+    /* we create a copy and reformat it to a correct date type column */
+    #"Duplicated Column" = Table.DuplicateColumn(#"Converted to Table", "Column1", "Column1 - Copy"),
+    #"Renamed Columns" = Table.RenameColumns(#"Duplicated Column",{{"Column1 - Copy", "Date"}}),
+    
+    /* we break up the date format so that we create the string matching the filenames */
+    #"Split Column by Delimiter" = Table.SplitColumn(Table.TransformColumnTypes(#"Renamed Columns", {{"Column1", type text}}, "en-GB"), "Column1", Splitter.SplitTextByDelimiter("/", QuoteStyle.Csv), {"Column1.1", "Column1.2", "Column1.3"}),
+    #"Merged Columns" = Table.CombineColumns(Table.TransformColumnTypes(#"Split Column by Delimiter", {{"Column1.2", type text}, {"Column1.1", type text}, {"Column1.3", type text}}, "en-GB"),{"Column1.2", "Column1.1", "Column1.3"},Combiner.CombineTextByDelimiter("-", QuoteStyle.None),"dateString")
+in
+    #"Merged Columns"
+    
+    
+//STEP 3 - GET AND FORMAT DATA
+//CREATE A BLANK QUERY AND PASTE CODE BELOW
+//WE WILL MERGE QUERY WITH CALENDAR AND THEN GET THE DATA COLUMNS WE NEED
+let
+
+    /* we start by creating a date table. I used 1st Dec 2019 as start date and set a year using 365 day; you can edit this as you wish*/
+    Source = List.Dates(#date(2019, 12, 01), 365, #duration(1, 0, 0, 0)),
+    #"Converted to Table" = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+    
+    /* we break up the date format so that we create the string matching the filenames */
+    #"Split Column by Delimiter" = Table.SplitColumn(Table.TransformColumnTypes(#"Converted to Table", {{"Column1", type text}}, "en-GB"), "Column1", Splitter.SplitTextByDelimiter("/", QuoteStyle.Csv), {"Column1.1", "Column1.2", "Column1.3"}),
+    #"Merged Columns" = Table.CombineColumns(Table.TransformColumnTypes(#"Split Column by Delimiter", {{"Column1.2", type text}, {"Column1.1", type text}, {"Column1.3", type text}}, "en-GB"),{"Column1.2", "Column1.1", "Column1.3"},Combiner.CombineTextByDelimiter("-", QuoteStyle.None),"Calendar"),
+    
+    /* we merge with the Calendar table using the matching string and when we expand bring also the
+    #"Merged Queries" = Table.NestedJoin(#"Merged Columns", {"Calendar"}, Calendar, {"dateString"}, "Calendar.1", JoinKind.LeftOuter),
+    #"Expanded Calendar.1" = Table.ExpandTableColumn(#"Merged Queries", "Calendar.1", {"Date"}, {"Date"}),
+    
+    /* we now invoke the Function from Step 1 and pull the data and remove future dates */
+    #"Invoked Custom Function" = Table.AddColumn(#"Expanded Calendar.1", "DateFunction", each DateFunction([Calendar])),
+    #"Removed Errors" = Table.RemoveRowsWithErrors(#"Invoked Custom Function", {"DateFunction"}),
+    
+    /* we then expand the merged data, format to numbers where needed and removed the column we used to merge the data*/
+    #"Expanded DateFunction1" = Table.ExpandTableColumn(#"Removed Errors", "DateFunction", {"Province/State", "Country/Region", "Last Update", "Confirmed", "Deaths", "Recovered", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update", "Lat"}, {"Province/State", "Country/Region", "Last Update", "Confirmed", "Deaths", "Recovered", "FIPS", "Admin2", "Province_State", "Country_Region", "Last_Update", "Lat"}),
+    #"Removed Columns" = Table.RemoveColumns(#"Expanded DateFunction1",{"Calendar"}),
+    #"Changed Type" = Table.TransformColumnTypes(#"Removed Columns",{{"Confirmed", Int64.Type}, {"Deaths", Int64.Type}, {"Recovered", Int64.Type}}),
+    
+    /* OPTIONAL!!! I did not want province so I grouped by country and merged the two Country/Region column due to change in data structure from mid-Feb */
+    #"Grouped Rows" = Table.Group(#"Changed Type", {"Date", "Country/Region", "Country_Region"}, {{"CumConfirmed", each List.Sum([Confirmed]), type number}, {"CumDeaths", each List.Sum([Deaths]), type number}, {"CumRecovered", each List.Sum([Recovered]), type number}}),
+    #"Merged Columns1" = Table.CombineColumns(Table.TransformColumnTypes(#"Grouped Rows", {{"Country_Region", type text}}, "en-GB"),{"Country/Region", "Country_Region"},Combiner.CombineTextByDelimiter("", QuoteStyle.None),"Country"),
+    #"Sorted Rows" = Table.Sort(#"Merged Columns1",{{"Date", Order.Ascending}, {"Country", Order.Ascending}})
+in
+    #"Sorted Rows"
