@@ -9,7 +9,9 @@
 (Calendar as text) as table =>
 /* we use "text" since we will try to match the string taken from the filenames, which is always MM-DD-YYYY*/
 let
-    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/"& Calendar &".csv"),[Delimiter=",", Columns=6, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    
+    /* note the Columns parameter is set to 10 since data structure changed (ca. 31st March); it would need updating if file structure changes again
+    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/"& Calendar &".csv"),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
     #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
 in
     #"Promoted Headers"  
@@ -18,6 +20,7 @@ in
 //STEP 2 - CALENDAR TABLE
 //CREATE A BLANK QUERY AND PASTE CODE BELOW; COMMENT PROVIDED
 //WE CREATE A DATE STRING COLUMN TO MATCH THE FILENAME AND A DATE FORMAT COLUMN FOR LATER USE
+
 let
     
     /* we start by creating a date table. I used 1st Dec 2019 as start date and set a year using 365 day; you can edit this as you wish*/
@@ -38,6 +41,7 @@ in
 //STEP 3 - GET AND FORMAT DATA
 //CREATE A BLANK QUERY AND PASTE CODE BELOW
 //WE WILL MERGE QUERY WITH CALENDAR AND THEN GET THE DATA COLUMNS WE NEED
+
 let
 
     /* we start by creating a date table. I used 1st Dec 2019 as start date and set a year using 365 day; you can edit this as you wish*/
