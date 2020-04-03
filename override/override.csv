@@ -113,7 +113,7 @@ Staunton City,Virginia,US,Staunton,Virginia,US,38.15965544,-79.05979937,,,,,
 Adam,Idaho,US,Adams,Idaho,US,44.89333571,-116.4545247,,,,,16003
 Obrien,Iowa,US,O'Brien,Iowa,US,43.08310673,-95.62474482,,,,,19141
 Kenai,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
-Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,
+Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,02170
 ,,Caribbean Netherlands,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,,,,,
 Navajo,Navajo Nation,US,Navajo,Arizona,US,35.3997715,-110.3218983,,,,,04017
 Coconino,Navajo Nation,US,Coconino,Arizona,US,35.83883429,-111.7707178,,,,,04005
@@ -124,3 +124,12 @@ Cibola,Navajo Nation,US,Cibola,New Mexico,US,34.91131525,-107.998876,,,,,35006
 Hillsborough-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
+Central Utah,Utah,US,Washington County,Utah,US,37.3225,-113.4776,,,,,49053
+Fairbanks North Star--North Pole,Alaska,US,Fairbanks North Star,Alaska,US,64.80726247,-146.5692663,,,,,02090
+Anchorage--Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,02020
+Kenai Peninsula--Homer,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
+Kenai Peninsula--Soldotna,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
+Kenai Peninsula--Sterling,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
+Anchorage--Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,02020
+Kenai Peninsula--Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
+Matanuska-Susitna--Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,02170
