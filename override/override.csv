@@ -76,7 +76,7 @@ Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,
 Alexander,South Carolina,US,Alexander,North Carolina,US,35.9223796,-81.17751948,,,,,
 Stanley,North Carolina,US,Gaston,North Carolina,US,35.29373559,-81.17477045,,,,,
 Saipan,Northern Mariana Islands,US,,Northern Mariana Islands,US,15.0979,145.6739,,,,,
-Out-of-State,Oklahoma,US,Out of OK,Oklahoma,US,0,0,,,,,
+Out-of-State,Oklahoma,US,Out of OK,Oklahoma,US,0,0,,,,,80040
 Mckean,Pennsylvania,US,McKean,Pennsylvania,US,41.80938602,-78.56478358,,,,,
 ,,Puerto Rico,,Puerto Rico,US,,,,,,,
 Dekalb,Tennessee,US,DeKalb,Tennessee,US,35.97616272,-85.83689361,,,,,
@@ -112,12 +112,12 @@ Charke,Virginia,US,Clarke,Virginia,US,39.11271747,-77.99199425,,,,,51043
 Staunton City,Virginia,US,Staunton,Virginia,US,38.15965544,-79.05979937,,,,,
 Adam,Idaho,US,Adams,Idaho,US,44.89333571,-116.4545247,,,,,16003
 Obrien,Iowa,US,O'Brien,Iowa,US,43.08310673,-95.62474482,,,,,19141
-Kenai,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
-Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,02170
+Kenai,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
 ,,Caribbean Netherlands,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,,,,,
-Navajo,Navajo Nation,US,Navajo,Arizona,US,35.3997715,-110.3218983,,,,,04017
-Coconino,Navajo Nation,US,Coconino,Arizona,US,35.83883429,-111.7707178,,,,,04005
-Apache,Navajo Nation,US,Apache,Arizona,US,35.39465006,-109.4892383,,,,,04001
+Navajo,Navajo Nation,US,Navajo,Arizona,US,35.3997715,-110.3218983,,,,,4017
+Coconino,Navajo Nation,US,Coconino,Arizona,US,35.83883429,-111.7707178,,,,,4005
+Apache,Navajo Nation,US,Apache,Arizona,US,35.39465006,-109.4892383,,,,,4001
 McKinley,Navajo Nation,US,McKinley,New Mexico,US,35.5800772,-108.262245,,,,,35031
 "San Juan, UT",Navajo Nation,US,San Juan,Utah,US,37.62762978,-109.8033714,,,,,49037
 Cibola,Navajo Nation,US,Cibola,New Mexico,US,34.91131525,-107.998876,,,,,35006
@@ -125,12 +125,15 @@ Hillsborough-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.915377
 Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Central Utah,Utah,US,Washington County,Utah,US,37.3225,-113.4776,,,,,49053
-Fairbanks North Star--North Pole,Alaska,US,Fairbanks North Star,Alaska,US,64.80726247,-146.5692663,,,,,02090
-Anchorage--Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,02020
-Kenai Peninsula--Homer,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
-Kenai Peninsula--Soldotna,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
-Kenai Peninsula--Sterling,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
-Anchorage--Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,02020
-Kenai Peninsula--Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,02122
-Matanuska-Susitna--Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,02170
+Fairbanks North Star--North Pole,Alaska,US,Fairbanks North Star,Alaska,US,64.80726247,-146.5692663,,,,,2090
+Anchorage--Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
+Kenai Peninsula--Homer,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Kenai Peninsula--Soldotna,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Kenai Peninsula--Sterling,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Anchorage--Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
+Kenai Peninsula--Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Matanuska-Susitna--Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
 Buena Vista City,Virginia,US,Buena Vista,Virginia,US,37.73484642,-79.35296097,,,,,51530
+Verm.,Indiana,US,Vermillion,Indiana,US,39.8523352,-87.46160542,,,,,18165
+Unknown,Kansas,US,Unassigned,Kansas,US,,,,,,,90020
+Residents diagnosed Outside of HI,Hawaii,US,Out of HI,Hawaii,US,,,,,,,80015
