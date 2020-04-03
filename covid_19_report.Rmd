@@ -1,0 +1,155 @@
+---
+title: "COVID-19 Analysis"
+author: "Alex Brown"
+date: "March 27, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r library-bank, echo=FALSE, message=FALSE, warning=FALSE}
+# refs:
+# https://datasharkie.com/covid-19-daily-statistics-updates/?fbclid=IwAR0EwXLIH_AiwEmU7KxOMyfgE83nmdLH34Dj5QCtOdFA78pTHRsdf2KRguQ
+# https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+# https://github.com/CSSEGISandData/COVID-19
+
+
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'readxl', 'httr', 'tidyverse', 'data.table', 'scales', 'directlabels', 'knitr'
+), 'packages.bib')
+
+options(knitr.table.format = "html")
+
+# library bank ----
+
+library(readxl)
+library(httr)
+library(tidyverse)
+library(data.table)
+library(scales)
+library(directlabels)
+library(knitr)
+```
+
+# Overview
+
+This is a report about COVID-19 or the cornavirus. This virus has caused turmoil around the globe by quickly spreading sickness that has no direct cure and what seems to be a high risk of death among older individuals who cannot get the medical attention they need due to large influx of hospital patients. It has caused whole populations to be quarantined in doors, businesses to close up shop (temporarily at the time of this writing, but probably permanently in the near future), disrupted economies, and created a large dip in stock markets. The US media has switched from constant coverage of President Trump to minute by minute updates of the virus, every-other post on social media is about toilet paper and cooking cats.
+
+```{r cooked-cat, echo=FALSE, out.width = '100%'}
+
+include_graphics("cooked_cat.jpg")
+
+```
+
+The purpose of this report is to get a general idea of how covid-19 is effecting the world and different populations. It will first look at the world as a whole, then break it down by different countries, and then focus in more on the US and it's states.
+
+## The Data
+
+The data used in this analysis is from John Hopkins. The data and details about the data can be found here: https://github.com/CSSEGISandData/COVID-19
+
+Here is a list of all the dates used in this data:
+
+```{r read-in-data, echo=FALSE}
+# john hopskins data ----
+
+# list all the files in the path
+covid_files <- list.files(path = "csse_covid_19_data/csse_covid_19_daily_reports", pattern = ".csv", full.names = T)
+pander::pander(gsub("_|.csv", "", basename(covid_files)))
+
+covid_data <- map(covid_files,
+                  function(x) {
+                    fread(x, na = "") %>%
+                      mutate(Date = as.Date(gsub(".csv", "", basename(x)), format = "%m-%d-%Y")) %>% 
+                      possibly(rename, otherwise = .)(Latitude = Lat, Longitude = Long_) %>% 
+                      rename_all(.funs = ~gsub("/| ", "_", trimws(.)))
+                    }) %>% bind_rows() %>%
+  mutate(Country_Region = gsub("Mainland China", "China", Country_Region))
+
+```
+
+The data is an accumulation of what is reported everyday in each of the observations. Here is a glimpse of the dataset:
+
+```{r glimpse-data, echo=FALSE}
+covid_data %>% glimpse()
+```
+
+# World Analysis
+
+## Aggregation Overtime
+
+Covid-19 is interesting because it's a common threat around the world. Therefore, lets look at what's happening to the world as a whole first. We can do that by grouping the number of cases by `Date`. It's easy to see from the graph below, the number of cases around the world is exponential and deaths and recoveries has a delay but appears to have that save exponential curve. This makes sense because it takes time (about two weeks) to either recover or die from the virus.
+
+```{r world-analysis, echo=FALSE}
+# world analysis ----
+
+covid_world <- covid_data %>%
+  group_by(Date) %>%
+  summarize(Confirmed = sum(Confirmed),
+            Deaths = sum(Deaths),
+            Recovered = sum(Recovered)) %>% 
+  gather(key = "Outcome", value = "Total", -Date) %>% 
+  filter(!is.na(Total))
+
+# line graph
+covid_world %>% 
+  ggplot(aes(x = Date, y = Total, color = Outcome)) +
+    geom_line() +
+    scale_y_continuous(labels = comma) +
+    scale_colour_discrete(guide = 'none') +
+    scale_x_date(breaks = pretty_breaks(10), expand = c(0, 5)) +
+    geom_dl(aes(label = Outcome), method = list(dl.trans(x = x + 0.2), "last.points", cex = 0.8)) +
+    coord_cartesian(clip = 'off') +
+    theme_bw() +
+    ggtitle("Covid19 Cases in The World")
+```
+
+Lets look at that in a different way. Below we are looking at the same information, except in a stacked "percent" bar-chart. This shows the percent/proportion on the `y-axis` and colors represent the percent. This type of graph helps identify the distribution overtime. You can see the deaths are representing a higher proportion of the graph toward the end of the time frame but stay pretty consistent over time.
+
+```{r stacked-world bar, echo=FALSE}
+# stacked area graph
+covid_world %>% 
+  ggplot(aes(x = Date, y = Total, fill = Outcome)) +
+    geom_area(position="fill", stat="identity", alpha=0.6) +
+    scale_x_date(breaks = pretty_breaks(10)) +
+    theme_classic() +
+    ylab("Proportion") +
+    ggtitle("Stacked Proportion of World Cases and Outcomes")
+```
+
+## Death Rate
+
+Another way to look at this virus, and what has everyone worried, is the death rates. It's supposed to have a much higher death rate than the flu, which we won't get into too much detail about, but I think we can agree that makes sense because of there is no vaccine and hospitals are flooded with people because of it. We can get death rate by simply dividing the number of deaths by the number of cases. We'll do the same thing for recovery. We will filter out any days where the death was `NA`.
+
+```{r death-rate-overtime, echo=FALSE, fig.hold='hold', out.width="50%"}
+
+covid_world %>% 
+  spread(key = "Outcome", value = "Total") %>% 
+  filter(!is.na(Deaths)) %>% 
+  mutate(Death_Rate = Deaths/Confirmed,
+         Recovered_Rate = Recovered/Confirmed) %>% 
+  select(Date, Death_Rate, Recovered_Rate) %>% 
+  gather(key = "Outcome", value = "Total", -Date) %>% 
+  ggplot(aes(x = Date, y = Total, color = Outcome)) +
+    geom_line() +
+    theme_bw() +
+    ylab("Proportion") +
+    ggtitle("Death & Recover Rate Overtime")
+
+covid_world %>% 
+  spread(key = "Outcome", value = "Total") %>% 
+  filter(!is.na(Deaths)) %>% 
+  mutate(Death_Rate = Deaths/Confirmed,
+         Recovered_Rate = Recovered/Confirmed) %>% 
+  select(Date, Death_Rate, Recovered_Rate) %>% 
+  gather(key = "Outcome", value = "Total", -Date) %>%
+  ggplot(aes(x = Date, y = Total, fill = Outcome)) +
+    geom_area(position="fill", stat="identity", alpha=0.6) +
+    scale_x_date(breaks = pretty_breaks(10)) +
+    theme_classic() +
+    ylab("Proportion") +
+    ggtitle("Stacked Death & Recover Rate Overtime")
+
+```
