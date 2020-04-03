@@ -1,0 +1,340 @@
+
+---
+title: "COVID 19analysis"
+author: ""
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+---
+  
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+#A. Libraries
+library(tidyverse)
+library(data.table)
+library(survival)
+library(gridExtra)
+library(smcure) #mixture cure model
+#library(My.stepwise) #My.stepwise.coxph
+library(cowplot)
+library(survminer)
+library(Hmisc)
+library(directlabels) #geom_dl add legend at the end of each line in the survival plot 
+library(hdnom)
+library(rms)
+library(pec) #for selectCox stepwsie procedure using pval and aic #
+library(GoodmanKruskal) #association plot between many categorical variables#
+library(lubridate) #year function
+
+#B. PATH
+if(grepl('[Ss]uliman', Sys.info()[['user']])){
+  if(Sys.info()[['user']]=="ababaker.suliman"){
+     #Office
+     path_global = "C:/Abubaker/RFunctions/"
+  } else {
+     #Home
+     path_global = "C:/IPH/RFunctions/"
+  }
+} else {
+  path_global = "D:/Oulhaj/4_Research/00000_My_Projects/RFunctions/"
+}
+
+path_data = paste0("D:/Oulhaj/4_Research/00000_My_Projects/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/")
+#C. Load Global Functions##
+#source(paste0(path_global,"functions_final.R"))
+# source(paste0(path_global,"DemoTables.R"))
+# source(paste0(path_global,"graphs.R"))
+# 
+# #D. Load Local Functions##
+# source("helpers_functions.R")
+
+#E. General Parameters
+
+#F. Read Data set##
+
+fun1 <- function(df)
+{ 
+df = read_csv(file.path(path_data,df))
+df = df %>% rename(country = contains("country"), date_old = contains("Update")) 
+frmt_vec = unique(names(guess_formats(df$date_old, c("mdy_HM", "dmy_HMS", "ymd_HMS"), print_matches = FALSE)))
+df = list(df,frmt_vec )
+}
+tbl1 <- list.files(path = path_data, pattern = "*.csv") %>% map(~fun1(.)) 
+frmt_avail = unique(unlist(sapply(tbl1,function(x) x[2])))
+
+fun2 <- function(df)
+  {
+  if(any(df[[2]] %in% c("OmdyHM", "mdyHM")))
+  {df1 = df[[1]] %>% mutate(date_new = floor_date(mdy_hm(date_old), "day")) %>% group_by_at(.vars = c("country","date_new")) %>%              summarise(Confirmed_cum = sum(Confirmed, na.rm = TRUE), Death_cum = sum(Deaths, na.rm = TRUE), Recovered_cum = sum(Recovered, na.rm = TRUE),  n = n()) %>% ungroup
+  }
+  else{
+    if(any(df[[2]] %in% c("yOmdHMS", "ymdHMS"))){df1 = df[[1]] %>% mutate(date_new = floor_date(ymd_hms(date_old), "day")) %>% group_by_at(.vars = c("country","date_new")) %>% summarise(Confirmed_cum = sum(Confirmed, na.rm = TRUE), Death_cum = sum(Deaths, na.rm = TRUE), Recovered_cum = sum(Recovered, na.rm = TRUE),  n = n()) %>% ungroup} else{"ERROR"}
+    
+    }
+
+  }
+tbl2 =  tbl2 %>% map(~fun2(.)) %>% print()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+df <- read.csv(paste0(dirname(getwd()),"/1_data/2_new/dfBC_clean.csv"), stringsAsFactors=FALSE, na.strings = c("N/A",""))
+
+#Create Factor variables
+df <- df %>% mutate(nationality_mod_inv=fct_relevel(nationality_mod,"Non-Emirati","Emirati"),
+                    censoring_fac = fct_collapse(as.character(censoring),'Alive'='0','Dead'='1'),
+                    age_cat_fac = fct_relevel(age_cat,"<=35 years","36-49 years","50-64 years",">=65 years"),
+                    TSize_mod_fac = fct_relevel(TSize_mod,"T0","T1","T2","T3","T4","Not available"),
+                    Stage_mod_fac = as.factor(Stage_mod),
+                    grade_mod_fac = fct_relevel(grade_mod, 'Grade I','Grade II','Grade III'),
+                    laterality_mod_fac = fct_relevel(laterality_mod, 'Left','Right'),
+                    LN_mod_fac = fct_relevel(LN_mod, 'N0','N1','N2','N3','Not available'),
+                    MS_fac = fct_relevel(MS,'M0','M1'),
+                    age_years = age,
+                    age_50cutoff = ifelse(age<50,"<50",">=50"),
+                    year_of_diag = lubridate::year(DOID),
+                    year_of_diag_2012 = ifelse(year_of_diag>=2012,1,0)
+                    )
+
+
+#Remove subjects where delay_treatment_days is negative
+df <- filter(df, delay_treatment_days >= 0)
+
+#Remove subjects where time_to_event_days is negative or =0 
+df <- filter(df, time_to_event_days > 0)
+
+#Remove one subject distracte the KM plot
+df = subset(df,MRN!='00122190')
+
+#Create new predictors 
+#median(df$delay_treatment_days)=18
+#quantile(df$delay_treatment_days, prob = c (0.33, 0.66))
+#33% 66% 
+#  8  28 
+Med_df <- median(df$delay_treatment_days, na.rm = TRUE)
+Quan_df <- quantile(df$delay_treatment_days, prob = c (0.33, 0.66))
+df <- df %>% mutate(delay_treatment_days_med = if_else(delay_treatment_days<=Med_df, paste0('<=',Med_df),paste0('>',Med_df)),
+                    delay_treatment_days_tertile = factor(cut(delay_treatment_days, breaks = c (0, unname(Quan_df), 100000), include.lowest = TRUE, labels = FALSE)),
+                    delay_treatment_days_3mons = ifelse(delay_treatment_days>=90,'>=90 days','<90 days'),
+                    delay_treatment_days_1mons = ifelse(delay_treatment_days>=30,'>=30 days','<30 days'))
+
+df <- df %>% mutate(LN_g=fct_collapse(LN, 'N0,N1mi'=c('N0','N1mi'),
+                                      'N1,N2'=c('N2','N1'),
+                                      #N2=c('N2','N3'),
+                                      #N3='N3',
+                                      'N3,NAny'=c('N3','NAny')),
+                    Tsize_g=fct_collapse(Tsize, 'T0,Tis,T1,T2'=c('T0','Tis','T1','T2'),
+                                         #T2=c('T2'),
+                                         'T3,T4'=c('T3','T4'),
+                                         TAny='TAny'),
+                    stage_g = fct_collapse(Stage_mod_fac, '0,1'=c('0','1')))
+
+#Remove subjects labeled with "Remove" in HB_ICD_mod
+df <- filter(df, HB_ICD_mod != "Remove")
+
+#Create HB_ICD_mod_upd by merging Inf LCIS and LCIS into LCIS, and DCIS Inf and DCIS into DCIS
+df <- df %>% mutate(HB_ICD_mod_upd = fct_collapse(HB_ICD_mod, InSitu = c('DCIS','LCIS'),
+                                                  INFG = c('Inf LCIS', 'Inf DCIS'),
+                                                  Other='Other'),
+                    HB_ICD_mod_upd = fct_relevel(HB_ICD_mod_upd, 'InSitu','INFG','Other'),
+                    #Ignore the following warning message as we reduce n from 990 to 756 by implement delay>0
+                    HB_ICD_mod_upd1 = fct_collapse(HB_ICD_mod, INFG=c('Inf LCIS', 'Inf DCIS'),
+                                                   Other=c('LCIS', 'DCIS','Other')))
+#Reorder Primary Site to keep hazards in an increasing order
+df$primary_site_mod_rev <- relevel(factor(df$primary_site_mod), ref = "C5035")
+#Treatment
+#tre <- table(df$FCourseRx_summary) %>% data.frame(stringsAsFactors = FALSE)->tre
+#tre$Var2 <- as.character(tre$Var1)
+#tre %>% group_by(Var2) %>% summarise(Freq=sum(Freq, na.rm = TRUE), Var1=paste(Var1, collapse = ' | ')) %>% View()
+df[df$time_to_event_years>0,]
+
+```
+
+#Demographic data (Table 1)
+```{r}
+vnamed <- c("age","age_years", "nationality_mod", "nationality_mod_inv","delay_treatment_days", "delay_treatment_days_3mons","delay_treatment_days_med", "delay_treatment_days_tertile")
+vlabeld <-  c("Age", "Age in years", "Nationality", "Nationality Inv.", "Delay in treatment (days)", "Delay in treatments by 3 Months","Delay treatment by Median (days)","Delay treatment by Tertile (days)")
+
+demoTable_By(df_r=df, cols_r=vnamed, labels_r=vlabeld, by_varname="age_50cutoff",caption = "Demographic characteristics", html_out=TRUE, out_sort=TRUE,hrzl=FALSE,pval=TRUE,range_include =TRUE, digits_r = 4, tfoot_r = "")
+  
+```
+#Clinical/pathological factors (Table 2)
+```{r}
+vnamecp <- c("grade_mod", "laterality_mod", "stage_g", "Tsize_g", "LN_g", "MS_fac","primary_site_mod_rev")
+vlabelcp <-  c("Grade", "Laterality", "Stage", "Tumour Size", "Lymph Node status", "Metastasis","Primary site")
+
+demoTable_By(df_r=df, cols_r=vnamecp, labels_r=vlabelcp, by_varname="age_50cutoff",caption = "Clinical/pathological factors", html_out=TRUE, out_sort=TRUE,hrzl=FALSE,pval=TRUE,range_include =TRUE, digits_r = 4, tfoot_r = "")
+
+```
+#Demographic data with univariate Coxph model (Table 1)
+```{r}
+vname <- c("age","age_years", "age_cat_fac", "nationality_mod", "nationality_mod_inv","delay_treatment_days", "delay_treatment_days_3mons","delay_treatment_days_med", "delay_treatment_days_tertile", "grade_mod", "laterality_mod", "stage_g", "Tsize_g", "LN_g", "MS_fac","primary_site_mod_rev")
+vlabel <-  c("Age", "Age in years","Age by category", "Nationality", "Nationality Inv.", "Delay in treatment (days)", "Delay in treatments by 3 Months","Delay treatment by Median (days)","Delay treatment by Tertile (days)", "Grade", "Laterality", "Stage", "Tumour Size", "Lymph Node status", "Metastasis","Primary site")
+demoTable_BC(df_r = df, status_r = "censoring", time_r = "time_to_event_years",varname_vec = vname,varlabel_vec = vlabel, html_out = TRUE)
+```
+
+
+
+
+#Graphs
+##Overall Survival
+###Survival and Cumulative hazard
+```{r, fig.height=6, fig.width=10,out.width = "100%",dpi = 100}
+surv_simp <- survfit(Surv(time_to_event_years, censoring)~1,conf.int=0.95,data = df)
+
+#3-years survival probability
+s3 <- summary(surv_simp,time=2)
+
+#5-years survival probability
+s5 <- summary(surv_simp,time=5)
+
+SurvEst_df <- data.frame(Survival=c('2-years','5-years', '5-years Mortality'), `Estimate  (95%CI)`=c(percent_cln(s3$surv, s3$lower, s3$upper), percent_cln(s5$surv, s5$lower, s5$upper), percent_cln(1-s5$surv, 1-s5$upper, 1-s5$lower)), check.names = FALSE)
+
+knitr::kable(SurvEst_df)
+
+a <- ggsurvplot(surv_simp, conf.int = F, legend="none", censor=FALSE,risk.table = TRUE, size=0.5, palette = "black") + xlab("Time (years)")
+b <- ggsurvplot(surv_simp, conf.int = F, legend="none", censor=FALSE, fun = "cumhaz",  ylim = c(0, 1),risk.table = TRUE, size=0.5, palette = "black") + xlab("Time (years)")
+
+# ggarrange(
+#   ggarrange(a$plot,a$table+(tables.theme = theme_cleantable()),align = "v", nrow = 2,ncol = 1,labels = 'A)',heights = c(1, 0.25)),
+#   ggarrange(b$plot,b$table+(tables.theme = theme_cleantable()),align = "v",nrow = 2,ncol = 1,labels = 'B)',heights = c(1, 0.25))
+#   )
+
+ggarrange(a$plot,a$table+(tables.theme = theme_cleantable()),align = "v", nrow = 2,ncol = 1,labels = '',heights = c(1, 0.25))
+
+```
+
+##Overall Survival according to significant variables in Table 1
+###Stage, Tumor size, Lymph Node status, and Metastasis
+```{r, fig.height=12, fig.width=20,out.width = "100%",dpi = 200}
+ggkm_stage <- survfit(Surv(time_to_event_years, censoring) ~ stage_g, data = df)
+ggkm_tz <- survfit(Surv(time_to_event_years, censoring) ~ Tsize_g, data = df)
+ggkm_ln <- survfit(Surv(time_to_event_years, censoring) ~ LN_g, data = df)
+ggkm_ms <- survfit(Surv(time_to_event_years, censoring) ~ MS_fac, data = df)
+#Using ggsurvplot from survminer and ggarange from ggpubr
+ggarrange(
+  #c(0.11, 0.7)
+  ggsurvplot(ggkm_stage, linetype = "strata", palette = "grey", conf.int = F, censor=FALSE, pval = TRUE, legend.title='Stage',  ylim = c(0, 1), xlim=c(0,10.75), font.legend = c(12, "italic"), legend = "none")$plot + xlab("") + geom_dl(aes(label = gsub('stage_g=','',strata)), method = list(dl.trans(x = x + .2), "last.points")),
+  #c(0.15, 0.7)
+  ggsurvplot(ggkm_tz, linetype = "strata", palette = "grey", conf.int = F, censor=FALSE, pval = TRUE, legend.title='Tumor size',  ylim = c(0, 1), xlim=c(0,12.3), font.legend = c(12, "italic"), legend = "none")$plot + xlab("")+ geom_dl(aes(label = gsub('Tsize_g=','',strata)), method = list(dl.trans(x = x + .2), "last.points")),
+  #c(0.11, 0.7)
+   ggsurvplot(ggkm_ln, linetype = "strata", palette = "grey", conf.int = F, censor=FALSE, pval = TRUE, legend.title='Lymph Node status',  ylim = c(0, 1), xlim=c(0,11.2), font.legend = c(12, "italic"), legend = "none")$plot + xlab("Time (years)") + geom_dl(aes(label = gsub('LN_g=','',strata)), method = list(dl.trans(x = x + .2), "last.points")),
+  #c(0.11, 0.7)
+   ggsurvplot(ggkm_ms, linetype = "strata", palette = "grey", conf.int = F, censor=FALSE, pval = TRUE, legend.title='Metastasis',  ylim = c(0, 1), xlim=c(0,11.25), font.legend = c(12, "italic"), legend = "none")$plot + xlab("Time (years)") + geom_dl(aes(label = gsub('MS_fac=','',strata)), method = list(dl.trans(x = x + .2), "last.points")),
+  labels = c("Tumor stage", "Tumor size", "Lymph Node status", "Metastasis"),hjust = c(-4,-4,-2.5,-4.3)
+)
+
+survyears_table(ggkm_stage, 5)
+survyears_table(ggkm_ln, 5)
+survyears_table(ggkm_tz, 5)
+survyears_table(ggkm_ms, 5)
+
+
+```
+
+#Survival Models
+
+## Associaitons plot between categorical variables
+```{r, fig.height=12, fig.width=20,out.width = "100%",dpi = 200}
+
+tiff("figure3.tiff", height = 10, width = 12, units = 'in', res=350)
+varSet <- c("nationality_mod", "delay_treatment_days_3mons", "grade_mod", "laterality_mod", "Tsize_g", "LN_g", "MS_fac","HB_ICD_mod_upd1","primary_site_mod")
+df1 <- subset(df, select = varSet)
+mat <- GKtauDataframe(df1)
+plot(mat, col = 1 )
+dev.off()
+
+```
+
+
+## Basic Models
+### Stepwise forward analysis using p-values
+```{r}
+
+
+fm_pval <- selectCox(Surv(time_to_event_years, censoring)~ age + nationality_mod + delay_treatment_days + grade_mod_fac + laterality_mod + Tsize_g  + primary_site_mod + MS_fac + HB_ICD_mod_upd1, data=df, rule = "p")
+fm_pval
+
+```
+### Stepwise forward analysis using aic
+```{r}
+fm_aic <- selectCox(Surv(time_to_event_years, censoring)~ age + nationality_mod + delay_treatment_days + grade_mod_fac + laterality_mod + Tsize_g  + primary_site_mod + MS_fac + HB_ICD_mod_upd1, data=df, rule = "aic")
+fm_aic
+
+
+```
+
+## Lasso Model
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library("hdnom")
+suppressMessages(library("doParallel"))
+registerDoParallel(detectCores())
+
+x = sapply(df[,c("age", "nationality_mod", "delay_treatment_days", "grade_mod", "laterality_mod", "Tsize_g", "LN_g", "MS_fac","HB_ICD_mod_upd1","primary_site_mod")], function(x) if(is.factor(x)) as.numeric(x)-1 else if(is.character(x)) as.numeric(as.factor(x))-1 else x)
+y = with(df, Surv(time_to_event_years, censoring))
+
+```
+
+
+###Lasso  using lambda min
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+fit <- fit_lasso(x, y, nfolds = 5, rule = "lambda.min", seed = 11)
+fit$model$lambda
+fit$model$beta
+#nom <- as_nomogram(fit, x, time, event,pred.at = 365 * 5,funlabel = "5-Year Overall Survival Probability")
+
+```  
+
+###Lasso  using lambda se
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+fit <- fit_lasso(x, y, nfolds = 5, rule = "lambda.1se", seed = 11)
+fit$model$lambda
+fit$model$beta
+#nom <- as_nomogram(fit, x, time, event,pred.at = 365 * 5,funlabel = "5-Year Overall Survival Probability")
+
+```  
+
+
+##Final Models
+```{r}
+fm_final = coxph(Surv(time_to_event_years, censoring) ~ grade_mod_fac + Tsize_g + MS_fac, data=df)
+summary(fm_final)
+
+```
+
+#Results
+```{r}
+```
+
+In this study we include `r nrow(df)` patients, at the end of follow-up there were `r sum(grepl('Alive',df$updated_vital_status_final))` alive, `r sum(grepl('Dead',df$updated_vital_status_final))` had died, and `r sum(grepl('Lost',df$updated_vital_status_final))` were lost to follow-up. Median follow-up time, from date of intial diagnosis unitl time of death or the end of study, was `r round(median(df$time_to_event_months, na.rm = TRUE))`(range: `r round(min(df$time_to_event_months, na.rm = TRUE))` - `r round(max(df$time_to_event_months, na.rm = TRUE))`) months. Mean age at diagnosis was `r round(median(df$age, na.rm = TRUE))`(range: `r round(min(df$age, na.rm = TRUE))` - `r round(max(df$age, na.rm = TRUE))`) years. 
+
+Age at diagnosis, delay in treatment, and nationality were found not significantly associated with survival in the univariate analysis (Table1).
+
+Among the 8 clinical/pathological factors that we investigate, tumour grade, stage, tumour size, lymph node status, metastasis, and primary site were significantly associated with lower survival in the univariate analysis (Table1).
+
+<strong> Multivariate model TBC </strong>
+  
+  Using the Kaplan-Meier method, five-year overall survival of this study population was `r percent_cln(s5$surv, s5$lower, s5$upper)`. The three-year overall survival was `r percent_cln(s3$surv, s3$lower, s3$upper)`.
+
+<strong> Proportional hazards assumption TBC </strong>
+  
+  
