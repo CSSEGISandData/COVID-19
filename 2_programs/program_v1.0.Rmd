@@ -88,7 +88,7 @@ data_death = df_all %>% group_by(country) %>% filter(date_new >= date_first_deat
 countries = as.character(unique(data_cases$country))
 
 ####
-i = 11
+i = 217
 df.temp = data_death %>% filter(country %in% countries[i])
 ggplot(df.temp, aes(x = days_since_first_death, y = Death_cum, group = country, colour = country )) + geom_point() + geom_line()  + theme_bw(base_size = 9) + 
 ylab("Daily deaths") +
