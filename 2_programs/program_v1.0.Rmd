@@ -42,10 +42,10 @@ if(grepl('[Ss]uliman', Sys.info()[['user']])){
 } else {
   path_global = "D:/Oulhaj/4_Research/00000_My_Projects/RFunctions/"
 }
-
-path_data = paste0("D:/Oulhaj/4_Research/00000_My_Projects/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/")
-#C. Load Global Functions##
-#source(paste0(path_global,"functions_final.R"))
+path_project = "D:/Oulhaj/4_Research/00000_My_Projects/COVID-19/"
+path_data = paste0(path_project,"csse_covid_19_data/csse_covid_19_daily_reports/")
+#C. Load Functions##
+source(paste0(path_project,"/3_functions/functions.R"))
 # source(paste0(path_global,"DemoTables.R"))
 # source(paste0(path_global,"graphs.R"))
 # 
@@ -55,31 +55,62 @@ path_data = paste0("D:/Oulhaj/4_Research/00000_My_Projects/COVID-19/csse_covid_1
 #E. General Parameters
 
 #F. Read Data set##
-
-fun1 <- function(df)
-{ 
-df = read_csv(file.path(path_data,df))
-df = df %>% rename(country = contains("country"), date_old = contains("Update")) 
-frmt_vec = unique(names(guess_formats(df$date_old, c("mdy_HM", "dmy_HMS", "ymd_HMS"), print_matches = FALSE)))
-df = list(df,frmt_vec )
-}
 tbl1 <- list.files(path = path_data, pattern = "*.csv") %>% map(~fun1(.)) 
 frmt_avail = unique(unlist(sapply(tbl1,function(x) x[2])))
+tbl2 =  tbl1 %>% map(~fun2(.))
+tbl3 = bind_rows(tbl2) %>% distinct(country,date_new, .keep_all= TRUE) %>% arrange(country,date_new)
+df1 = tbl3 %>% group_by(country) %>% mutate(confirmed_new = if_else(date_new == min(date_new), Confirmed_cum, Confirmed_cum - lag(Confirmed_cum)), death_new =  if_else(date_new == min(date_new), Death_cum, Death_cum - lag(Death_cum)), recovered_new = if_else(date_new == min(date_new), Recovered_cum, Recovered_cum - lag(Recovered_cum))) %>% ungroup()
 
-fun2 <- function(df)
-  {
-  if(any(df[[2]] %in% c("OmdyHM", "mdyHM")))
-  {df1 = df[[1]] %>% mutate(date_new = floor_date(mdy_hm(date_old), "day")) %>% group_by_at(.vars = c("country","date_new")) %>%              summarise(Confirmed_cum = sum(Confirmed, na.rm = TRUE), Death_cum = sum(Deaths, na.rm = TRUE), Recovered_cum = sum(Recovered, na.rm = TRUE),  n = n()) %>% ungroup
-  }
-  else{
-    if(any(df[[2]] %in% c("yOmdHMS", "ymdHMS"))){df1 = df[[1]] %>% mutate(date_new = floor_date(ymd_hms(date_old), "day")) %>% group_by_at(.vars = c("country","date_new")) %>% summarise(Confirmed_cum = sum(Confirmed, na.rm = TRUE), Death_cum = sum(Deaths, na.rm = TRUE), Recovered_cum = sum(Recovered, na.rm = TRUE),  n = n()) %>% ungroup} else{"ERROR"}
+df2 = df1 %>% group_by(country)  %>% filter(Death_cum > 0) %>% filter(Death_cum ==  min(Death_cum)) %>% arrange(date_new) %>% slice(1) %>% select(country, date_new) %>% rename(date_first_death = date_new) %>% mutate(n= n()) %>% ungroup()
+df_all = merge(df1, df2, by.x = "country", by.y="country", all=TRUE) %>% arrange(country, date_new) %>% ungroup()
+
+df2.bis = df_all %>% group_by(country)  %>% filter(Confirmed_cum > 0) %>% filter(Confirmed_cum ==  min(Confirmed_cum)) %>% arrange(date_new) %>% slice(1) %>% select(country, date_new) %>% rename(date_first_case = date_new) %>% mutate(n= n()) %>% ungroup()
+
+df_all = merge(df_all, df2.bis, by.x = "country", by.y="country", all=TRUE) %>% arrange(country, date_new) %>% ungroup() %>% mutate(country = factor(country))
+
+
+###############################################################################
+#################### Temporary analysis only for data cleaning ###############
+### Temp analysis of cumulative cases #######
+data_cases = df_all %>% group_by(country) %>% filter(date_new >= date_first_case) %>% mutate(days_since_first_case = as.numeric(as.character(difftime(date_new,date_first_case, units = 'days' ))))  %>%  ungroup()
+countries = as.character(unique(data_cases$country))
+####
+i = 10
+df.temp = data_cases %>% filter(country %in% countries[i])
+ggplot(df.temp, aes(x = days_since_first_case, y = Confirmed_cum, group = country, colour = country )) + geom_point() + geom_line()  + theme_bw(base_size = 9) + 
+ylab("Daily deaths") +
+xlab("Days since first case") + 
+scale_y_continuous(limits = c(0, 1200)) 
+
     
-    }
+########## Temp analysis of Death ###########################
+data_death = df_all %>% group_by(country) %>% filter(date_new >= date_first_death ) %>% mutate(days_since_first_death = as.numeric(as.character(difftime(date_new,date_first_death, units = 'days' )))) %>%  ungroup()
+countries = as.character(unique(data_cases$country))
 
-  }
-tbl2 =  tbl2 %>% map(~fun2(.)) %>% print()
+####
+i = 11
+df.temp = data_death %>% filter(country %in% countries[i])
+ggplot(df.temp, aes(x = days_since_first_death, y = Death_cum, group = country, colour = country )) + geom_point() + geom_line()  + theme_bw(base_size = 9) + 
+ylab("Daily deaths") +
+xlab("Days since first death") + 
+scale_y_continuous(limits = c(0, 200)) 
 
 
+ggplot(df.temp, aes(x = days_since_first_death, y = death_new, group = country, colour = country )) + geom_point() + geom_line()  + theme_bw(base_size = 7) + 
+ylab("Daily deaths") +
+xlab("Days since first death") + 
+scale_y_continuous(limits = c(0, 1200)) + 
+#theme(legend.position = "none")
+
+    
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
