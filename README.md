@@ -46,7 +46,7 @@ https://systems.jhu.edu/research/public-health/ncov/
 <br><br>
 
 <b>For contributions, see:</b><br>
-[Issue 558](../issues/558)
+[Issue 558](https://github.com/CSSEGISandData/COVID-19/issues/558)
 <br><br>
 
 <b>Terms of Use:</b><br>
