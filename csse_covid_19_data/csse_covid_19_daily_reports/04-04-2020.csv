@@ -1671,7 +1671,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 30067,Park,Montana,US,2020-04-04 23:34:21,45.48965095,-110.52643940000002,6,0,0,0,"Park, Montana, US"
 56029,Park,Wyoming,US,2020-04-04 23:34:21,44.52157546,-109.58528249999999,1,0,0,0,"Park, Wyoming, US"
 18121,Parke,Indiana,US,2020-04-04 23:34:21,39.77202286,-87.20375833,2,0,0,0,"Parke, Indiana, US"
-48367,Parker,Texas,US,2020-04-04 23:34:21,32.77757172,-97.80500621,6,0,0,0,"Parker, Texas, US"
+48367,Parker,Texas,US,2020-04-04 23:34:21,32.77757172,-97.80500621,6,0,4,2,"Parker, Texas, US"
 12101,Pasco,Florida,US,2020-04-04 23:34:21,28.30810945,-82.40227529,90,2,0,0,"Pasco, Florida, US"
 37139,Pasquotank,North Carolina,US,2020-04-04 23:34:21,36.26723798,-76.25134778,8,0,0,0,"Pasquotank, North Carolina, US"
 34031,Passaic,New Jersey,US,2020-04-04 23:34:21,41.03238628,-74.29954144,2856,38,0,0,"Passaic, New Jersey, US"
