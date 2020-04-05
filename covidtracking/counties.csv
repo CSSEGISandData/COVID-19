@@ -1,0 +1,12 @@
+state,county,covid19Site,dataSite,mainSite,twitter,pui
+CA,Los Angeles,http://publichealth.lacounty.gov/media/Coronavirus/#,,,,No data
+NY,Westchester,https://health.westchestergov.com/2019-novel-coronavirus,,,,No data
+WA,King,https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus.aspx,,,,No data
+WA,Snohomish,https://www.snohd.org/484/Novel-Coronavirus-2019,,,,All data
+WA,Grant,http://granthealth.org/2019-novel-coronavirus-2019-ncov/,,,,No data
+WA,Jefferson,https://www.jeffersoncountypublichealth.org/1429/COVID-19,,,,All data
+WA,Pierce,https://www.tpchd.org/healthy-people/human-coronavirus,,,,Only positives
+WA,Clark,https://www.clark.wa.gov/public-health/novel-coronavirus,,,,All data
+WA,Kittitas,https://www.co.kittitas.wa.us/response/202003-covid19/default.aspx,,,,No data
+CA,Contra Costa,https://www.coronavirus.cchealth.org/,,https://cchealth.org/,,
+CA,Alameda County,http://www.acphd.org/2019-ncov.aspx,,http://www.acphd.org/,,
