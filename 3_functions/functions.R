@@ -2,7 +2,9 @@ fun1 <- function(df)
 { 
   df = read_csv(file.path(path_data,df))
   df = df %>% rename(country = contains("country"), date_old = contains("Update")) 
-  frmt_vec = unique(names(guess_formats(df$date_old, c("mdy_HM", "dmy_HMS", "ymd_HMS"), print_matches = FALSE)))
+  #Change values for contries#
+ df = df %>% mutate(country = recode(country, 'Mainland China' = 'China', 'United Kingdom' = 'UK', 'United Arab Emirates' = 'UAE'))
+frmt_vec = unique(names(guess_formats(df$date_old, c("mdy_HM", "dmy_HMS", "ymd_HMS"), print_matches = FALSE)))
   df = list(df,frmt_vec )
 }
 

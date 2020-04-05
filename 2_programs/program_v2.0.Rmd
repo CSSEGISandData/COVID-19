@@ -68,51 +68,71 @@ df2.bis = df_all %>% group_by(country)  %>% filter(Confirmed_cum > 0) %>% filter
 
 df_all = merge(df_all, df2.bis, by.x = "country", by.y="country", all=TRUE) %>% arrange(country, date_new) %>% ungroup() %>% mutate(country = factor(country))
 
+#add two variables: days_since_first_case and days_since_first_death #
+df_all = df_all %>% group_by(country)%>% mutate(days_since_first_case = as.numeric(as.character(difftime(date_new,date_first_case, units = 'days' ))), days_since_first_death = as.numeric(as.character(difftime(date_new,date_first_death, units = 'days' ))))  %>%  ungroup()
+
+#Remove death_new < 0 and calculate #
+df_all = df_all %>% filter(death_new >= 0, recovered_new >=0, confirmed_new >=0  )
+#Calculate the daily death rate#
+df_all = df_all %>% group_by(country) %>% mutate(Active_cum = Confirmed_cum - Death_cum - Recovered_cum, Active_cum_lead = lead(Active_cum), death_rate_crude = 100*(death_new/Active_cum_lead)) %>% ungroup()
+
+#Select only countries with more than 1000 cases at the last visit#
+df_all = df_all %>% group_by(country) %>% filter(max(Confirmed_cum) > 1000) %>% ungroup()
+
+################################ Analysis ###########################################################################
+
+#Demographic data (Table 1)
+
+#Demographic data (Table 1)
+```{r}
+vnamed <- c("age","age_years", "nationality_mod", "nationality_mod_inv","delay_treatment_days", "delay_treatment_days_3mons","delay_treatment_days_med", "delay_treatment_days_tertile")
+vlabeld <-  c("Age", "Age in years", "Nationality", "Nationality Inv.", "Delay in treatment (days)", "Delay in treatments by 3 Months","Delay treatment by Median (days)","Delay treatment by Tertile (days)")
+
+demoTable_By(df_r=df, cols_r=vnamed, labels_r=vlabeld, by_varname="age_50cutoff",caption = "Demographic characteristics", html_out=TRUE, out_sort=TRUE,hrzl=FALSE,pval=TRUE,range_include =TRUE, digits_r = 4, tfoot_r = "")
+```
 
 ###############################################################################
 #################### Temporary analysis only for data cleaning ###############
 ### Temp analysis of cumulative cases #######
-data_cases = df_all %>% group_by(country) %>% filter(date_new >= date_first_case) %>% mutate(days_since_first_case = as.numeric(as.character(difftime(date_new,date_first_case, units = 'days' ))))  %>%  ungroup()
-countries = as.character(unique(data_cases$country))
-####
-i = c("US", "UK", "France", "Spain", "Germany", "Italy", "Netherlands")
-df.temp = data_cases %>% filter(country %in% i)
-#i = 10
-#df.temp = data_cases %>% filter(country %in% countries[i])
-ggplot(df.temp, aes(x = days_since_first_case, y = Confirmed_cum, group = country, colour = country )) + geom_point() + geom_line()  + theme_bw(base_size = 9) + 
+df_cases = df_all %>% filter(days_since_first_case >=0) %>% ungroup()
+df.temp = df_cases
+countries = as.character(unique(df.temp$country))
+i = c("US", "UK", "France", "Spain", "Germany", "Italy", "China")
+#df.temp = data_death %>% filter(country %in% countries[i])
+df.temp = df_death1 %>% filter(country %in% i)
+
+ggplot(df.temp, aes(x = days_since_first_case, y = Confirmed_cum, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
 ylab("Daily deaths") +
-xlab("Days since first case") 
-#scale_y_continuous(limits = c(0, 1200)) 
+xlab("Days since first case")
+#scale_y_continuous(limits = c(0, 200)) 
 
     
 ########## Temp analysis of Death: x axis: days_since_first_death  ###########################
-data_death = df_all %>% group_by(country) %>% filter(date_new >= date_first_death ) %>% mutate(days_since_first_death = as.numeric(as.character(difftime(date_new,date_first_death, units = 'days' )))) %>%  ungroup()
-countries = as.character(unique(data_cases$country))
-
-####
-i = c("US", "UK", "France", "Spain", "Germany", "Italy", "Netherlands")
-# df.temp = data_death %>% filter(country %in% countries[i])
-df.temp = data_death %>% filter(country %in% i)
-ggplot(df.temp, aes(x = days_since_first_death, y = Death_cum, group = country, colour = country )) + geom_point() + geom_line()  + theme_bw(base_size = 9) + 
+df_death1 = df_all %>% filter(days_since_first_death >=0) %>% ungroup()
+df.temp = df_death1
+countries = as.character(unique(df.temp$country))
+i = c("France", "Spain", "Italy", "China")
+#df.temp = data_death %>% filter(country %in% countries[i])
+df.temp = df_death1 %>% filter(country %in% i)
+p1 = ggplot(df.temp, aes(x = days_since_first_death, y = Death_cum, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
 ylab("Daily deaths") +
 xlab("Days since first death")
 #scale_y_continuous(limits = c(0, 200)) 
 
 
 ########## Temp analysis of Death: x axis: days_since_first_case  ###########################
-data_death = df_all %>% group_by(country) %>% filter(date_new >= date_first_death ) %>% mutate(days_since_first_death = as.numeric(as.character(difftime(date_new,date_first_death, units = 'days' )))) %>%  ungroup()
-countries = as.character(unique(data_cases$country))
-
-####
-i = c("US", "UK", "France", "Spain", "Germany", "Italy", "Netherlands")
-# df.temp = data_death %>% filter(country %in% countries[i])
-df.temp = data_death %>% filter(country %in% i)
-ggplot(df.temp, aes(x = days_since_first_case, y = Death_cum, group = country, colour = country )) + geom_point() + geom_line()  + theme_bw(base_size = 9) + 
+df_death2 = df_all %>% filter(days_since_first_case >=0) %>% ungroup()
+df.temp = df_death2
+countries = as.character(unique(df.temp$country))
+i = c("France", "Spain", "Italy", "China")
+#df.temp = data_death %>% filter(country %in% countries[i])
+df.temp = df.temp %>% filter(country %in% i)
+p2 = ggplot(df.temp, aes(x = days_since_first_case, y = Death_cum, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
 ylab("Daily deaths") +
-xlab("Days since first death")
+xlab("Days since first case")
 #scale_y_continuous(limits = c(0, 200)) 
 
-
+ggarrange(p1,p2)
 
     
   

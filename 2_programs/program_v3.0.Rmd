@@ -1,0 +1,167 @@
+
+---
+title: "COVID 19analysis"
+author: ""
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+---
+  
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+#A. Libraries
+library(tidyverse)
+library(data.table)
+library(survival)
+library(gridExtra)
+library(smcure) #mixture cure model
+#library(My.stepwise) #My.stepwise.coxph
+library(cowplot)
+library(survminer)
+library(Hmisc)
+library(directlabels) #geom_dl add legend at the end of each line in the survival plot 
+library(hdnom)
+library(rms)
+library(pec) #for selectCox stepwsie procedure using pval and aic #
+library(GoodmanKruskal) #association plot between many categorical variables#
+library(lubridate) #year function
+library(gghighlight)  #Highlight country names inside the plot#
+
+#B. PATH
+if(grepl('[Ss]uliman', Sys.info()[['user']])){
+  if(Sys.info()[['user']]=="ababaker.suliman"){
+     #Office
+     path_global = "C:/Abubaker/RFunctions/"
+  } else {
+     #Home
+     path_global = "C:/IPH/RFunctions/"
+  }
+} else {
+  path_global = "D:/Oulhaj/4_Research/00000_My_Projects/RFunctions/"
+}
+path_project = "D:/Oulhaj/4_Research/00000_My_Projects/COVID-19/"
+path_data = paste0(path_project,"csse_covid_19_data/csse_covid_19_daily_reports/")
+#C. Load Functions##
+source(paste0(path_project,"/3_functions/functions.R"))
+# source(paste0(path_global,"DemoTables.R"))
+# source(paste0(path_global,"graphs.R"))
+# 
+# #D. Load Local Functions##
+# source("helpers_functions.R")
+
+#E. General Parameters
+
+#F. Read Data set##
+tbl1 <- list.files(path = path_data, pattern = "*.csv") %>% map(~fun1(.)) 
+frmt_avail = unique(unlist(sapply(tbl1,function(x) x[2])))
+tbl2 =  tbl1 %>% map(~fun2(.))
+tbl3 = bind_rows(tbl2) %>% distinct(country,date_new, .keep_all= TRUE) %>% arrange(country,date_new)
+df1 = tbl3 %>% group_by(country) %>% mutate(confirmed_new = if_else(date_new == min(date_new), Confirmed_cum, Confirmed_cum - lag(Confirmed_cum)), death_new =  if_else(date_new == min(date_new), Death_cum, Death_cum - lag(Death_cum)), recovered_new = if_else(date_new == min(date_new), Recovered_cum, Recovered_cum - lag(Recovered_cum))) %>% ungroup()
+
+df2 = df1 %>% group_by(country)  %>% filter(Death_cum > 0) %>% filter(Death_cum ==  min(Death_cum)) %>% arrange(date_new) %>% slice(1) %>% select(country, date_new) %>% rename(date_first_death = date_new) %>% mutate(n= n()) %>% ungroup()
+df_all = merge(df1, df2, by.x = "country", by.y="country", all=TRUE) %>% arrange(country, date_new) %>% ungroup()
+
+df2.bis = df_all %>% group_by(country)  %>% filter(Confirmed_cum > 0) %>% filter(Confirmed_cum ==  min(Confirmed_cum)) %>% arrange(date_new) %>% slice(1) %>% select(country, date_new) %>% rename(date_first_case = date_new) %>% mutate(n= n()) %>% ungroup()
+
+df_all = merge(df_all, df2.bis, by.x = "country", by.y="country", all=TRUE) %>% arrange(country, date_new) %>% ungroup() %>% mutate(country = factor(country))
+
+#add two variables: days_since_first_case and days_since_first_death #
+df_all = df_all %>% group_by(country)%>% mutate(days_since_first_case = as.numeric(as.character(difftime(date_new,date_first_case, units = 'days' ))), days_since_first_death = as.numeric(as.character(difftime(date_new,date_first_death, units = 'days' ))))  %>%  ungroup()
+
+#Remove death_new < 0 and calculate #
+df_all = df_all %>% filter(death_new >= 0, recovered_new >=0, confirmed_new >=0  )
+#Calculate the daily death rate#
+df_all = df_all %>% group_by(country) %>% mutate(Active_cum = Confirmed_cum - Death_cum - Recovered_cum, Active_cum_lead = lead(Active_cum), death_rate_crude = 100*(death_new/Active_cum_lead)) %>% ungroup()
+
+#Select only countries with more than 1000 cases at the last visit#
+df_all = df_all %>% group_by(country) %>% filter(max(Confirmed_cum) > 1000) %>% ungroup()
+####################################################################################################################
+################################ End of data cleaning ###############################################################
+#####################################################################################################################
+```
+# Analaysis of cumulative number of death
+
+## Confirmed Cumulative cases by days_since_first_case
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+index_country = c("France", "Spain", "Italy",  "UK", "Germany", "Belgium")
+
+df_cases = df_all %>% filter(days_since_first_case >=0) %>% ungroup()
+df.temp = df_cases
+countries = as.character(unique(df.temp$country))
+df.temp = df.temp %>% filter(country %in% index_country)
+
+p1 = ggplot(df.temp, aes(x = days_since_first_case, y = Confirmed_cum, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
+ylab("Daily deaths") +
+xlab("Days since first case")+
+#scale_y_continuous(limits = c(0, 200)) 
+gghighlight(label_key = country, label_params = list(size = 3))
+p1
+
+```
+
+
+## Confirmed Cumulative death by days_since_first_case
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+df_death2 = df_all %>% filter(days_since_first_case >=0) %>% ungroup()
+df.temp = df_death2
+countries = as.character(unique(df.temp$country))
+df.temp = df.temp %>% filter(country %in% index_country)
+
+p2 = ggplot(df.temp, aes(x = days_since_first_case, y = Death_cum, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
+ylab("Daily deaths") +
+xlab("Days since first case")+
+#scale_y_continuous(limits = c(0, 200)) 
+gghighlight(label_key = country, label_params = list(size = 3))
+p2
+
+```
+
+
+## Confirmed Cumulative death by days_since_first_death
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+df_death1 = df_all %>% filter(days_since_first_death >=0) %>% ungroup()
+df.temp = df_death1
+countries = as.character(unique(df.temp$country))
+df.temp = df.temp %>% filter(country %in% index_country)
+
+p3 = ggplot(df.temp, aes(x = days_since_first_death, y = Death_cum, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
+ylab("Daily deaths") +
+xlab("Days since first death") + 
+#scale_y_continuous(limits = c(0, 200)) 
+gghighlight(label_key = country, label_params = list(size = 3))
+p3
+
+```
+
+  
+# Analaysis of crude death rate
+
+## Daily death rate by days_since_first_case
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+df_cases = df_all %>% filter(days_since_first_case >=0) %>% ungroup()
+df.temp = df_cases
+countries = as.character(unique(df.temp$country))
+df.temp = df.temp %>% drop_na(death_rate_crude) %>% filter(country %in% index_country,  death_rate_crude <= 20)
+
+p4 = ggplot(df.temp, aes(x = days_since_first_case, y = death_rate_crude, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
+ylab("Daily deaths") +
+xlab("Days since first case")+
+#scale_y_continuous(limits = c(0, 200)) 
+gghighlight(label_key = country, label_params = list(size = 3))
+p4
+
+
+
+```
+
+
+
+
+
+
+
+
