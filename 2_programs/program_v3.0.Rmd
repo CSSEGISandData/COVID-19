@@ -158,6 +158,23 @@ p4
 
 ```
 
+## Daily death rate by days_since_first_case
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+df_death1 = df_all %>% filter(days_since_first_death >=0) %>% ungroup()
+df.temp = df_death1
+countries = as.character(unique(df.temp$country))
+df.temp = df.temp %>% drop_na(death_rate_crude) %>% filter(country %in% index_country,  death_rate_crude <= 20)
+
+p5 = ggplot(df.temp, aes(x = days_since_first_death, y = death_rate_crude, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
+ylab("Daily deaths") +
+xlab("Days since first death") + 
+scale_y_continuous(limits = c(0, 10)) +  
+gghighlight(label_key = country, label_params = list(size = 3))
+p5
+
+
+```
+
 
 
 
