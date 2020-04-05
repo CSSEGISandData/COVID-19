@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-04 18:06:11
+# @Last Modified time: 2020-04-04 20:11:15
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -25,6 +25,7 @@ warnings.filterwarnings('ignore')
 master_path = os.getcwd()
 if master_path not in sys.path:
     sys.path.append(master_path)
+import functions as my_func
 
 """ Params """
 cat_color = {'Confirmed':'tab:blue', 
@@ -46,9 +47,18 @@ BIGGER_SIZE = 16
 MILLION = 1000000
 
 """general functions"""
-### Attach a text label above each bar in *rects*, displaying its height.
-### source: https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/barchart.html
+### label bar plot
 def autolabel(rects, ax, str_format):
+    ######################################################
+    ### Function: Attach a text label above each bar in *rects*, displaying its height
+    ### source: https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/barchart.html
+    ### input: 
+        ### rects: output from plt.bar
+        ### ax
+        ### str_format: string format. e.g. '{:.2f}'
+    ### output: manipulate image directly.
+    ######################################################
+
     for rect in rects:
         height = rect.get_height()
         ax.annotate(str_format.format(height),
@@ -57,15 +67,15 @@ def autolabel(rects, ax, str_format):
                     textcoords="offset points",
                     ha='center', va='bottom')
 
-### different pct settings when plotting pie plot.
-### adapted from: https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct
+### pct settings when plotting pie plot.
 def my_autopct(pct):
+    ######################################################
+    ### Function: plot .1f% if percent > 2%
+    ### Adapted from: https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct
+    ######################################################
     return ('%1.1f%%' % pct) if pct > 2 else ''
 
-def my_autopct_v2(pct):
-    return f'{pct*total/100:.0f}({pct:1.1f}%)' if pct > 2 else ''
-
-######## getting colors that seperate the most based on number of colors needed
+### getting colors that seperate the most based on number of colors needed
 def get_colors(n_group, **kwarg):
     ######################################################
     ### Function: Return colors based on number of colors and colormap chosen by "choose_cmap" function
@@ -116,7 +126,7 @@ def get_colors(n_group, **kwarg):
             color_hex.append(matplotlib.colors.to_hex(color, keep_alpha=True))
         return color_hex
 
-"""supporting function for """
+"""plot_region: get summary plots of a particular region"""
 def get_logistic_params(t, pt, **kwarg):
     popt_log = np.zeros((3,3))
     if('maxfev' in kwarg.keys()):
@@ -167,8 +177,37 @@ def plot_predictions(ax1, tx0, y0, dy0, x1, tx1, popt_logs, scale_factor, color)
     ax2.legend(['Daily Data', 'Daily Fitted'], loc = 'center left')
     return ax1, ax2, y_ends, ind_midds
 
-"""plot region"""
 def plot_region(df_region, region_name, **kwarg):
+    ######################################################
+    ### Function: plot time_series, stats, and fit information of a time_series data of a particular region
+    ### Input:
+        ### df_region(dataframe): output from reshape_dataframe. index = datetime
+        ### region_name(string): name of region
+        ### additional params
+            ### is_fitting (True/False): default = False
+            ### fitting_params (dic)
+                # future = 0
+                # p0_exp = (1,1)
+                # p0_log = (1,1,1)
+                # maxfev = 100000
+                # bounds_c = (-np.inf, np.inf)
+                # bounds_d = (-np.inf, np.inf)
+                # death_to_confirmed = False
+                # CFR = df_region.CFR[-1]/100
+                # thr_c = "rolling", "total", "int(ind)"
+                # thr_d = "rolling", "total", "int(ind)"
+            ### plotting_params (dic): default as below.
+                # 'figsize':(15, 15),
+                # 'time_series_cols' : ['Confirmed', 'Deaths', 'Recovered', 'Active'],
+                # 'locator_param' : 4,
+                # 'locator_param_future':8,
+                # 'num_of_rols' : 6,
+                # 'cat_color' : {'Confirmed':'tab:blue',
+                #                 'Deaths':'tab:orange', 
+                #                 'Recovered':'tab:green', 
+                #                 'Active':'tab:red'}
+    ### Output: Figure. Total, Daily, Growth Factor, CFR, confirmed/death fits
+    ######################################################
     ######### unravel params
     if('is_fitting' in kwarg.keys()):
         is_fitting = kwarg['is_fitting']
@@ -345,11 +384,27 @@ def plot_region(df_region, region_name, **kwarg):
         y_c = df_region.Confirmed.to_numpy()
         y_d = df_region.Deaths.to_numpy()
         
-        res_c = df_region[df_region.GFc_thr != 0.0].bfill(axis=1).index[0]
-        ind_tc = max(0, time_datetime.index(res_c)-3)
-        # res_d = df_region[df_region.GFd_thr != 0.0].bfill(axis=1).index[0]
-        # ind_td = max(0, time_datetime.index(res_d)-3)
-        ind_td = ind_tc
+        if('thr_c' in fitting_params.keys()):
+            if(np.char.isnumeric(fitting_params['thr_c'])):
+                ind_tc = int(fitting_params['thr_c'])
+            elif(fitting_params['thr_c'] == 'total'):
+                res_c = df_region[df_region.Confirmed > 100].index[0]
+                ind_tc = min(max(0, time_datetime.index(res_c)-3), len(time_datetime)-20)
+            elif(fitting_params['thr_c'] == 'rolling'):
+                res_c = df_region[df_region.GFc_thr != 0.0].bfill(axis=1).index[0]
+                ind_tc = min(max(0, time_datetime.index(res_c)-3), len(time_datetime)-20)
+        else:
+            res_c = df_region[df_region.GFc_thr != 0.0].bfill(axis=1).index[0]
+            ind_tc = min(max(0, time_datetime.index(res_c)-3), len(time_datetime)-20)
+        if('thr_d' in fitting_params.keys()):
+            if(fitting_params['thr_d'] == 'total'):
+                res_d = df_region[df_region.Deaths > 10].index[0]
+            elif(fitting_params['thr_d'] == 'rolling'):
+                res_d = df_region[df_region.GFd_thr != 0.0].bfill(axis=1).index[0]
+            ind_td = min(max(0, time_datetime.index(res_d)-3), len(time_datetime)-20)
+        else:
+            ind_td = ind_tc
+        
         tc = np.arange(len(time_datetime))[ind_tc:] - ind_tc
         td = np.arange(len(time_datetime))[ind_td:] - ind_td
         pt_c = y_c[ind_tc:]
@@ -392,9 +447,9 @@ def plot_region(df_region, region_name, **kwarg):
             ax.legend(['Confirmed', 
                         'Confirmed Exp Fit', 
                         'Confirmed Logistic Fit'])
-            ax.set_title(f'{region_name} Confirmed Fit: r = {popt_exp_c[0]:.2f}/{popt_logs_c[0]:.2f}', fontsize = 18)
+            ax.set_title(f'{region_name} Confirmed Fit: r = {popt_exp_c[0]:.2f}/{popt_logs_c[0]:.2f}', fontsize = 14)
         else:
-            ax.set_title(f'{region_name} Confirmed Prediction: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}')
+            ax.set_title(f'{region_name} Confirmed Prediction: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}', fontsize = 14)
             pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_c[:,0]):.2f}, K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, peak increase at {date_max[0].date()} ~ {date_max[1].date()}'
             print(pp)
         
@@ -437,7 +492,7 @@ def plot_region(df_region, region_name, **kwarg):
                             'Deaths Logistic Fit'])
                 ax.set_title(f'{region_name} Deaths Fit: r = {popt_exp_d[0]:.2f}/{popt_exp_d[0]:.2f}', fontsize = 18)
             else:
-                ax.set_title(f'{region_name} Deaths Prediction: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}', fontsize = 18)
+                ax.set_title(f'{region_name} Deaths Prediction: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}', fontsize = 14)
                 pp = f'{region_name} Deaths prediction: r={np.mean(popt_logs_d[:,0]):.2f}, K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f} ({deaths_total/confirmed_total*100:.1f}%), peak increase at {date_max[0].date()} ~ {date_max[1].date()}'
                 print(pp)
                 
@@ -458,7 +513,7 @@ def plot_region(df_region, region_name, **kwarg):
                     ind = int(np.max(ind_midds))
                 date_max.append(time_datetime[ind_tc] + timedelta(days=ind))
             confirmed_total = np.mean(y_ends)
-            ax.set_title(f'{region_name} Confirmed projection (based on CFR = {cfr*100:.1f}): K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}')
+            ax.set_title(f'{region_name} Confirmed projection (based on CFR = {cfr*100:.1f}%)\nK = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}')
             pp = f'{region_name} Confirmed projection based on CFR = {cfr*100:.1f}%: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, peak increase at {date_max[0].date()}~{date_max[1].date()}'
             print(pp)
 
@@ -467,8 +522,13 @@ def plot_region(df_region, region_name, **kwarg):
             ax.tick_params(axis = 'x', labelrotation = 45)
             ax.set_xlim(left = time_datetime[0])
 
-"""Plot continent"""
+"""Pie charts by continent"""
 def plot_continents(df_continents):
+    ######################################################
+    ### Function: pie charts of cumulative data divided by continent.
+    ### Input: df_continents(DataFrame): columns = ['Total_Confirmed', 'New_Confirmed', 'Total_Deaths', 'New_Deaths','Population', 'Land Area', 'Pos_per_Million']
+    ### Output: Figure, with pie chart of new and total confirmed/deaths cases by continent.
+    ######################################################
     fig = plt.figure(figsize = (10, 6), constrained_layout=True, facecolor="1")
     gs = fig.add_gridspec(2,2)
 
@@ -577,7 +637,7 @@ def tests_us_vs_state(df_tests_us_daily, df_tests_onestate_daily, df_us, df_st, 
         ax.set_xlabel('Toatal number of cases')
         ax.set_ylabel('Total number of tests')
 
-def plot_us_tests_by_state(df_us_tests, df_tests_states_daily, num_states, usstate_abbs_mapping):
+def plot_us_tests_by_state(df_us_tests, df_tests_states_daily, df_us_confirmed, num_states, usstate_abbs_mapping):
     ############## figure ############
     fig = plt.figure(figsize = (18, 15), constrained_layout=True, facecolor="1")
     gs = fig.add_gridspec(3, 3)
@@ -701,7 +761,10 @@ def plot_us_tests_by_state(df_us_tests, df_tests_states_daily, num_states, ussta
     ax3.legend(states_list, loc="center right", bbox_to_anchor = (1.01, 0, 0.3, 1))
     ax3.set_title('Positive vs. Total Tests')
 
-def county_plot(df_today, states, num_counties, figsize):
+def county_plot(df_today, states, num_counties, figsize, pct_type):
+    def my_autopct_v2(pct):
+        return f'{pct*total/100:.0f}({pct:1.1f}%)' if pct > 2 else ''
+
     ############ params ############
     colors = get_colors(num_counties+1, is_last_grey = True)
 
@@ -732,6 +795,7 @@ def county_plot(df_today, states, num_counties, figsize):
         df_state.sort_values(by = 'Confirmed', inplace = True, ascending=False)
         percentages = []
         labels = []
+        total = np.sum(df_state.Confirmed)
         for county in list(df_state.index)[:num_counties]:
             percentages.append(df_state.loc[county, 'Confirmed']/np.sum(df_state.Confirmed)*100)
             if(percentages[-1] > 2):
@@ -744,11 +808,18 @@ def county_plot(df_today, states, num_counties, figsize):
             labels.append('Rest')
             percentages.append(100-sum(percentages))
 
-        ax.pie(percentages, colors = colors,
-               labels=labels, autopct = my_autopct, 
-               pctdistance=0.8, labeldistance = 1.05,
-               shadow=False, startangle=90,
-               textprops = dict(size = 12))
+        if(pct_type == 1):
+            ax.pie(percentages, colors = colors,
+                   labels=labels, autopct = my_autopct, 
+                   pctdistance=0.8, labeldistance = 1.05,
+                   shadow=False, startangle=90,
+                   textprops = dict(size = 12))
+        elif(pct_type == 2):
+            ax.pie(percentages, colors = colors,
+                   labels=labels, autopct = my_autopct_v2, 
+                   pctdistance=0.7, labeldistance = 1.05,
+                   shadow=False, startangle=90,
+                   textprops = dict(size = 12))
         ax.axis('equal')
         ax.set_title(f"{state} confirmed cases: {np.sum(df_state.Confirmed):.0f} total")
 
@@ -758,6 +829,7 @@ def county_plot(df_today, states, num_counties, figsize):
         df_state.sort_values(by = 'Deaths', inplace = True, ascending=False)
         percentages = []
         labels = []
+        total = np.sum(df_state.Confirmed)
         for county in list(df_state.index)[:num_counties]:
             percentages.append(df_state.loc[county, 'Deaths']/np.sum(df_state.Deaths)*100)
             if(percentages[-1] > 2):
@@ -770,11 +842,18 @@ def county_plot(df_today, states, num_counties, figsize):
             labels.append('Rest')
             percentages.append(100-sum(percentages))
 
-        ax.pie(percentages, colors = colors,
-               labels=labels, autopct = my_autopct, 
-               pctdistance=0.8, labeldistance = 1.05,
-               shadow=False, startangle=90,
-               textprops = dict(size = 12))
+        if(pct_type == 1):
+            ax.pie(percentages, colors = colors,
+                   labels=labels, autopct = my_autopct, 
+                   pctdistance=0.8, labeldistance = 1.05,
+                   shadow=False, startangle=90,
+                   textprops = dict(size = 12))
+        elif(pct_type == 2):
+            ax.pie(percentages, colors = colors,
+                   labels=labels, autopct = my_autopct_v2, 
+                   pctdistance=0.7, labeldistance = 1.05,
+                   shadow=False, startangle=90,
+                   textprops = dict(size = 12))
         ax.axis('equal')
         ax.set_title(f"{state} deaths: {np.sum(df_state.Deaths):.0f} total")
 
@@ -798,8 +877,7 @@ def county_plot(df_today, states, num_counties, figsize):
         ax.set_xlim([-1, len(x) + 0.5])
         a = ax.set_title(f'CFRs: {state} mean = {fr_total:.2f}%')
 
-
-"""plot by region"""
+"""plot different sub-regions of a region."""
 ### get growth rate by fitting time series data to exponeitial or logistic growth model.
 def get_growth_rate(df_ctry, time_str):
     x = np.arange(len(time_str))
@@ -825,7 +903,8 @@ def get_growth_rate(df_ctry, time_str):
     return np.min(r)
 
 
-def plot_by_regions(df_confirmed, df_deaths, **kwarg):
+### plots for different sub-regions of a region
+def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
     if('num_lineplot' in kwarg.keys()):
         num_lineplot = kwarg['num_lineplot']
     else:
@@ -834,10 +913,17 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
         num_barplot = kwarg['num_barplot']
     else:
         num_barplot = 20
+    if('yscale' in kwarg.keys()):
+        yscale = kwarg['yscale']
+    else:
+        yscale = 'log'
     
     ############ figure ############
-    fig = plt.figure(figsize = (18, 30), constrained_layout=True, facecolor="1")
-    gs = fig.add_gridspec(6, 2)
+    fig = plt.figure(figsize = (15, 30), constrained_layout=True, facecolor="1")
+    ncol = 2
+    ncol_half = int(ncol/2)
+    ncol_lh = int(ncol/2)
+    gs = fig.add_gridspec(6, ncol)
 
     plt.rc('font', size=SMALL_SIZE)          # controls default text sizes
     plt.rc('axes', titlesize=BIGGER_SIZE)     # fontsize of the axes title
@@ -849,7 +935,7 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
     
     print("subplots:", end = " ")
     ############ case per million ############
-    ax = fig.add_subplot(gs[5, 0])
+    ax = fig.add_subplot(gs[5, 0:ncol_half])
     print("11", end = " ")
     
     df_confirmed.sort_values(by = 'Per_Million', inplace = True, ascending=False)
@@ -869,13 +955,13 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
     autolabel(rects1, ax, '{:.1f}')
     autolabel(rects2, ax, '{:.1f}')
     ax.set_yscale('log')
-    # ymax = np.ceil(np.max(y)*1.2)
-    # ax.set_ylim([-0.5, ymax])
+    ymax = np.ceil(np.max(y)*1.2)
+    ax.set_ylim([-0.5, ymax])
     a = ax.set_title('Top 30 regions by case per million')
     ax.set_xlim([-1, len(x) + 0.5])
 
     ############ death per million ############
-    ax = fig.add_subplot(gs[5, 1])
+    ax = fig.add_subplot(gs[5, ncol_half:])
     print("12,", end = " ")
 
     df_deaths.sort_values(by = 'Per_Million', inplace = True, ascending=False)
@@ -895,13 +981,13 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
     autolabel(rects1, ax, '{:.1f}')
     autolabel(rects2, ax, '{:.1f}')
     ax.set_yscale('log')
-    # ymax = np.ceil(np.max(y)*1.2)
-    # ax.set_ylim([-0.5, ymax])
+    ymax = np.ceil(np.max(y)*1.2)
+    ax.set_ylim([-0.5, ymax])
     a = ax.set_title('Top 30 regions by deaths per million')
     ax.set_xlim([-1, len(x) + 0.5])
 
     ############ total confirmed: normalize axis ############
-    ax = fig.add_subplot(gs[0, 0])
+    ax = fig.add_subplot(gs[0, 0:ncol_lh])
     print("1,", end = " ")
     
     df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
@@ -939,13 +1025,14 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
     ax.legend(plot_list + 
                [f'33% daily incrase',
                f'50% daily increase'], 
-               loc="center right") #bbox_to_anchor = (1, 0, 0.35, 1)
-    ax.set_yscale('log')
+               loc="center right",
+               bbox_to_anchor = (1, 0, 0.25, 1)) #
+    ax.set_yscale(yscale)
     ax.set_xlabel('Days Since 100 Confirmed Cases')
     ax.set_title('Confirmed cases by country/region')
 
     ############ total confirmed: pie chart ############
-    ax = fig.add_subplot(gs[0,1])
+    ax = fig.add_subplot(gs[0,ncol_lh:])
     print("2,", end = " ")
 
     df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
@@ -965,13 +1052,13 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
                                       shadow=False, startangle=90,
                                       textprops = dict(size = 12))
     
-    ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1, 0, 0, 1))
+    ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1.01, 0, 0, 1))
     ax.axis('equal')
     ax.set_title("Total Confirmed Cases")
 
 
     ############ total deaths: normalized axis ############
-    ax = fig.add_subplot(gs[1, 0])
+    ax = fig.add_subplot(gs[1, 0:ncol_lh])
     print("3,", end = " ")
     
     df_deaths.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
@@ -1004,20 +1091,22 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
     ax.plot(x, 10 * (1+0.20) ** x, ls='--', color='k')
     ax.plot(x, 10 * (1+0.40) ** x, ls='-.', color='k')
 
+    ax.set_yscale(yscale)
+
     ax.set_ylim([10, max_y+max_y/10])
     ax.set_xlim([0, max_x + 2])
 
     ax.legend(plot_list + 
                [f'20% daily incrase',
                 f'40% daily increase'],
-               loc="center right") #bbox_to_anchor = (1, 0, 0.35, 1)
-    ax.set_yscale('log')
+               loc="center right",
+               bbox_to_anchor = (1.01, 0, 0.25, 1)) #bbox_to_anchor = (1, 0, 0.35, 1)
     ax.set_xlabel('Days since 10 deaths')
     ax.set_title('Total Deaths')
 
 
     ############ total deaths: pie chart ############
-    ax = fig.add_subplot(gs[1,1])
+    ax = fig.add_subplot(gs[1,ncol_lh:])
     print("4,", end = " ")
     
     df_deaths.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
@@ -1035,13 +1124,13 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
                                       autopct = my_autopct, pctdistance=0.8,
                                       shadow=False, startangle=90,
                                       textprops = dict(size = 12))
-    ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1, 0, 0, 1))
+    ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1.01, 0, 0, 1))
     ax.axis('equal')
     ax.set_title("Total Deaths")
 
 
     ############ daily confirmed ############
-    ax = fig.add_subplot(gs[2, 0])
+    ax = fig.add_subplot(gs[2, 0:ncol_half])
     print("5,", end = " ")
     
     df_confirmed.sort_values(by = 'New_Today', inplace = True, ascending=False)
@@ -1081,7 +1170,7 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
     
     
     ############ daily deaths ############
-    ax = fig.add_subplot(gs[2, 1])
+    ax = fig.add_subplot(gs[2, ncol_half:])
     print("6,", end = " ")
     
     df_deaths.sort_values(by = 'New_Today', inplace = True, ascending=False)
@@ -1122,7 +1211,7 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
 
 
     ############ growth factors ############
-    ax = fig.add_subplot(gs[3, 0])
+    ax = fig.add_subplot(gs[3, 0:ncol_half])
     print("7,", end = " ")
 
     df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
@@ -1152,7 +1241,7 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
 
 
     ############ fatality rate ############
-    ax = fig.add_subplot(gs[3, 1])
+    ax = fig.add_subplot(gs[3, ncol_half:])
     print("8,", end = " ")
     
     df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
@@ -1178,7 +1267,7 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
     a = ax.set_title(f'CFRs: global mean = {fr_total:.2f}%')
 
     ########## r for logistic growth fit ############
-    ax = fig.add_subplot(gs[4, 0])
+    ax = fig.add_subplot(gs[4, 0:ncol_half])
     print("9:", end = " ")
     
     df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
@@ -1207,11 +1296,13 @@ def plot_by_regions(df_confirmed, df_deaths, **kwarg):
     ax.set_xlim([-1, len(x) + 0.5])
     a = ax.set_title(f'Logistic fitted r, median = {np.median(rs_global):.2f}')
 
+    plt.tight_layout()
 
+### plot confirmed% for top sub-regions of a given region over time.
 def plot_confirmed_per_over_time(df_us_confirmed, n, time_datetime):
     def format_fn(tick_val, tick_pos):
         if(tick_val >= 0 and tick_val < len(time_datetime)):
-            return time_str[int(tick_val)]
+            return time_datetime[int(tick_val)]
         else:
             return None
         
@@ -1450,7 +1541,7 @@ def plot_china_prov(df_mc_confirmed, df_mc_deaths, df_hb, df_co, **kwarg):
             'num_of_rols' : 6,
             'cat_color' : cat_color
         }
-    time_datetime = list(df_prov.index)
+    time_datetime = list(df_hb.index)
 
     fig = plt.figure(figsize = plotting_params['figsize'], constrained_layout=True, facecolor="1")
     gs = fig.add_gridspec(plotting_params['num_of_rols'],2)
