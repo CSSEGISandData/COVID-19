@@ -1,4 +1,4 @@
-Ôªøold_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
+old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
 ,,Belize,,,Belize,17.1899,-88.4976,,,,,
 ,,Myanmar,,,Burma,,,,,,,
 ,Northwest Territories,Canada,,Northwest Territories,Canada,64.8255,-124.8457,,,,,
@@ -17,7 +17,7 @@
 ,,Martinique,,Martinique,France,,,,,,,
 ,,Mayotte,,Mayotte,France,,,,,,,
 ,,New Caledonia,,New Caledonia,France,,,,,,,
-,,R√©union,,Reunion,France,,,,,,,
+,,Réunion,,Reunion,France,,,,,,,
 ,,St. Barth,,Saint Barthelemy,France,,,,,,,
 ,,Saint Martin,,St Martin,France,,,,,,,
 ,,Vatican City,,,Holy See,,,,,,,
@@ -25,7 +25,7 @@
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
 ,,MS Zaandam,,,MS Zaandam,0,0,,,,,
 ,,Aruba,,Aruba,Netherlands,,,,,,,
-,,Cura√ßao,,Curacao,Netherlands,,,,,,,
+,,Curaçao,,Curacao,Netherlands,,,,,,,
 ,,Sint Maarten,,Sint Maarten,Netherlands,,,,,,,
 ,,St. Vincent Grenadines,,,Saint Vincent and the Grenadines,,,,,,,
 ,,Taiwan,,,Taiwan*,,,,,,,
@@ -142,10 +142,12 @@ TBD,Missouri,US,Unassigned,Missouri,US,0,0,,,,,90029
 La Porte,Indiana,US,LaPorte,Indiana,US,41.54366008,-86.74072188,,,,,18091
 De Kalb,Indiana,US,DeKalb,Indiana,US,41.39804622,-84.99906934,,,,,18033
 Adam,Ohio,US,Adams,Ohio,US,38.84541072,-83.4718964,,,,,39001
-,,Western Sahara,,,Western Sahara, 24.2155, -12.8858,,,,,
+,,Western Sahara,,,Western Sahara,24.2155,-12.8858,,,,,
 Unassigned Bear River,Utah,US,Unassigned,Utah,US,0,0,,,,,90049
 Socorro-NM,Navajo Nation,US,Socorro,New Mexico,US,34.00715494,-106.9298354,,,,,35053
 St. John,Virgin Islands,US,,Virgin Islands,US,,,,,,,
 ,,Saint Pierre Miquelon,,Saint Pierre and Miquelon,France,46.8852,-56.3159,,,,,
 Unknown,Georgia,US,Unassigned,Georgia,US,0,0,,,,,90013
 Unassigned Southwest,Utah,US,Unassigned,Utah,US,0,0,,,,,90049
+"Cibola, NM",Navajo Nation,US,Cibola,New Mexico,US,34.91131525,-107.998876,,,,,35006
+"Socorro, NM",Navajo Nation,US,Socorro,New Mexico,US,34.00715494,-106.9298354,,,,,35053
