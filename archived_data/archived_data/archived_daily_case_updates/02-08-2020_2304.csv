@@ -1,0 +1,73 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2/9/20 3:03,27100,780,1440
+Guangdong,Mainland China,2/9/20 1:53,1120,1,125
+Zhejiang,Mainland China,2/9/20 3:03,1075,0,185
+Henan,Mainland China,2/9/20 1:13,1033,6,131
+Hunan,Mainland China,2/9/20 1:13,838,1,159
+Anhui,Mainland China,2/9/20 1:23,779,1,59
+Jiangxi,Mainland China,2/9/20 1:23,740,0,72
+Jiangsu,Mainland China,2/9/20 3:33,468,0,58
+Chongqing,Mainland China,2/9/20 0:43,446,2,39
+Shandong,Mainland China,2/9/20 2:13,435,1,50
+Sichuan,Mainland China,2/9/20 1:13,386,1,60
+Beijing,Mainland China,2/9/20 3:43,326,2,37
+Heilongjiang,Mainland China,2/9/20 1:03,307,6,13
+Shanghai,Mainland China,2/9/20 1:33,292,1,41
+Fujian,Mainland China,2/9/20 3:43,250,0,26
+Shaanxi,Mainland China,2/9/20 3:03,208,0,25
+Hebei,Mainland China,2/9/20 1:03,206,2,30
+Guangxi,Mainland China,2/9/20 0:33,195,1,18
+Yunnan,Mainland China,2/9/20 0:13,140,0,17
+Hainan,Mainland China,2/9/20 1:53,128,2,15
+Shanxi,Mainland China,2/8/20 23:53,115,0,21
+Liaoning,Mainland China,2/8/20 11:53,105,0,8
+Guizhou,Mainland China,2/9/20 1:23,96,1,7
+Tianjin,Mainland China,2/9/20 4:03,90,1,4
+Gansu,Mainland China,2/8/20 15:13,79,1,12
+Jilin,Mainland China,2/9/20 0:53,78,1,5
+Cruise Ship,Others,2/7/20 16:33,61,0,0
+Inner Mongolia,Mainland China,2/9/20 2:23,54,0,5
+Ningxia,Mainland China,2/9/20 2:03,45,0,13
+Xinjiang,Mainland China,2/9/20 1:23,45,0,0
+,Singapore,2/9/20 2:43,40,0,2
+,Thailand,2/8/20 12:53,32,0,10
+Hong Kong,Hong Kong,2/8/20 0:03,26,1,0
+,Japan,2/7/20 4:13,25,0,1
+,South Korea,2/9/20 2:33,25,0,3
+Qinghai,Mainland China,2/6/20 2:13,18,0,3
+Taiwan,Taiwan,2/8/20 5:23,17,0,1
+,Malaysia,2/8/20 10:23,16,0,1
+,Germany,2/7/20 16:33,13,0,0
+,Vietnam,2/8/20 7:23,13,0,1
+,France,2/8/20 9:53,11,0,0
+Macau,Macau,2/6/20 14:23,10,0,1
+,United Arab Emirates,2/8/20 7:03,7,0,0
+Queensland,Australia,2/7/20 1:03,5,0,0
+New South Wales,Australia,2/6/20 3:13,4,0,2
+Victoria,Australia,2/1/20 18:12,4,0,0
+British Columbia,Canada,2/7/20 5:43,4,0,0
+,India,2/3/20 21:43,3,0,0
+,Italy,2/7/20 17:53,3,0,0
+,Philippines,2/7/20 16:43,3,1,0
+,UK,2/7/20 18:33,3,0,0
+South Australia,Australia,2/2/20 22:33,2,0,0
+"Toronto, ON",Canada,2/4/20 0:13,2,0,0
+,Russia,1/31/20 16:13,2,0,0
+"Chicago, IL",US,2/1/20 19:43,2,0,0
+"San Benito, CA",US,2/3/20 3:53,2,0,0
+"Santa Clara, CA",US,2/3/20 0:43,2,0,0
+,Belgium,2/4/20 15:43,1,0,0
+,Cambodia,1/31/20 8:15,1,0,0
+"London, ON",Canada,2/4/20 0:03,1,0,0
+,Finland,1/31/20 8:15,1,0,0
+Tibet,Mainland China,2/1/20 1:52,1,0,0
+,Nepal,1/31/20 8:15,1,0,0
+,Spain,2/1/20 23:43,1,0,0
+,Sri Lanka,2/8/20 3:43,1,0,1
+,Sweden,2/1/20 2:13,1,0,0
+"Boston, MA",US,2/1/20 19:43,1,0,0
+"Los Angeles, CA",US,2/1/20 19:53,1,0,0
+"Madison, WI",US,2/5/20 21:53,1,0,0
+"Orange, CA",US,2/1/20 19:53,1,0,0
+"Seattle, WA",US,2/1/20 19:43,1,0,0
+"Tempe, AZ",US,2/1/20 19:43,1,0,0
