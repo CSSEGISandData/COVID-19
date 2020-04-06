@@ -1,6 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Unknown,Florida,US,7,1.0
 Chambers,Georgia,US,0,0.0
+Guesnsey,Ohio,US,1,0.0
 "Cibola, NM",Navajo Nation,US,7,0.0
 "Socorro, NM",Navajo Nation,US,2,0.0
 Unassigned,Navajo Nation,US,0,14.0
@@ -8,4 +9,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,1329307,73831.0
+,,World,1330596,73891.0
