@@ -1,4 +1,4 @@
-Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+Province_State,Country_Region,Last_Update,Confirmed,Deaths,Recovered,Latitude,Longitude
 Hubei,Mainland China,2020-03-06T14:23:04,67592,2931,42033,30.9756,112.2707
 ,South Korea,2020-03-06T13:33:03,6593,42,135,36.0000,128.0000
 ,Iran,2020-03-06T12:23:04,4747,124,913,32.0000,53.0000

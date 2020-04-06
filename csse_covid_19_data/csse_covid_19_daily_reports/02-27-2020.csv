@@ -1,4 +1,4 @@
-Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province_State,Country_Region,Last_Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,2020-02-27T12:13:14,65596,2641,23383
 ,South Korea,2020-02-27T12:03:04,1766,13,22
 Guangdong,Mainland China,2020-02-27T09:53:02,1347,7,890
