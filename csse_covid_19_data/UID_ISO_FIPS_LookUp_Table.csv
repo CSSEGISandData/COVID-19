@@ -99,6 +99,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2722291
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,625976
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,27691019
+454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,19129955
 458,MY,MYS,458,,,,Malaysia,4.210484,101.975766,Malaysia,32365998
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,540542
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166,Mali,20250834
@@ -139,6 +140,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 662,LC,LCA,662,,,,Saint Lucia,13.9094,-60.9789,Saint Lucia,183629
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,110947
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,33938
+678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,219161
 682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,34813867
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,16743930
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,8737370
