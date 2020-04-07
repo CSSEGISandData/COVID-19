@@ -1,3 +1,9 @@
+"""
+Month2Num(month)
+span(timestamp1, timestamp2): This will show the span in hours between two timestamps.
+
+"""
+from __future__ import division
 def Month2Num(month):
     number=""
     months=["January","February","March","April","May","June","July",\
@@ -16,3 +22,9 @@ def Month2Num(month):
     if month==months[10]:number=Numbers[10]
     if month==months[11]:number=Numbers[11]    
     return number
+
+def span(timestamp1, timestamp2):
+    SPAN = timestamp2-timestamp1
+    res =SPAN/3600
+    result = round(res,2)
+    return result
