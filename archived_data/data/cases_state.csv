@@ -1,4 +1,4 @@
-Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalized_Rate
+Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
 Alabama,US,2020-04-09 16:52:10,32.3182,-86.9023,2499,67,,2432,1,53.296116336102074,20605,333,2.681072428971589,84000001,USA,439.442367789269,13.325330132052821
 Alaska,US,2020-04-09 16:52:10,61.3707,-152.4044,226,7,32,219,2,37.808511599350226,7068,27,3.0973451327433628,84000002,USA,1182.4361061248117,11.946902654867257
 Arizona,US,2020-04-09 16:52:10,33.7298,-111.4312,3018,89,,2929,4,41.46335130215943,34564,,2.9489728296885356,84000004,USA,474.8639080211526,
