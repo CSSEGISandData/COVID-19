@@ -21,6 +21,7 @@
 ,,St. Barth,,Saint Barthelemy,France,,,,,,,
 ,,Saint Pierre Miquelon,,Saint Pierre and Miquelon,France,46.8852,-56.3159,,,,,
 ,,Saint Martin,,St Martin,France,,,,,,,
+,,France,,,France,46.2276,2.2137,82048,,,,250
 ,,Vatican City,,,Holy See,,,,,,,
 ,,S. Korea,,,"Korea, South",,,,,,,
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
@@ -59,15 +60,10 @@ Kenai Peninsula--Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.538
 Palmer,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,
 Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
 Matanuska-Susitna--Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
-"Apache, AZ",Navajo Nation,US,Apache,Arizona,US,35.5313,-109.3783,,,,,
-Apache,Navajo Nation,US,Apache,Arizona,US,35.39465006,-109.4892383,,,,,4001
-"Coconino, AZ",Navajo Nation,US,Coconino,Arizona,US,35.6648,-111.4753,,,,,
-Coconino,Navajo Nation,US,Coconino,Arizona,US,35.83883429,-111.7707178,,,,,4005
-"Navajo, AZ",Navajo Nation,US,Navajo,Arizona,US,35.402,-110.1403,,,,,
-Navajo,Navajo Nation,US,Navajo,Arizona,US,35.3997715,-110.3218983,,,,,4017
 Out of state,Colorado,US,Out of CO,Colorado,US,,,,,,,80008
 District of Columbia,"Washington, D.C.",US,District of Columbia,District of Columbia,US,38.90417773,-77.01655992,,,,,11001
 Desoto,Florida,US,DeSoto,Florida,US,27.18677893,-81.80941373,,,,,
+Unknown,Florida,US,Unassigned,Florida,US,0,0,,,,,90012
 Dekalb,Georgia,US,DeKalb,Georgia,US,33.76944049,-84.22396017,,,,,
 Mcduffie,Georgia,US,McDuffie,Georgia,US,33.47851918,-82.48252774,,,,,
 Mcintosh,Georgia,US,McIntosh,Georgia,US,,,,,,,
@@ -106,16 +102,12 @@ Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-7
 Hillsborough-Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Manchester,New Hampshire,US,Manchester,New Hampshire,US,42.9956,-71.4548,,,,,
 Nashua,New Hampshire,US,Nashua,New Hampshire,US,42.7654,-71.4676,,,,,
-Cibola,Navajo Nation,US,Cibola,New Mexico,US,34.91131525,-107.998876,,,,,35006
 Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,
-"McKinley, NM",Navajo Nation,US,McKinley,New Mexico,US,35.7152,-108.2378,,,,,
-McKinley,Navajo Nation,US,McKinley,New Mexico,US,35.5800772,-108.262245,,,,,35031
-"San Juan, NM",Navajo Nation,US,San Juan,New Mexico,US,36.3882,-108.2378,,,,,
-Socorro-NM,Navajo Nation,US,Socorro,New Mexico,US,34.00715494,-106.9298354,,,,,35053
 Alexander,South Carolina,US,Alexander,North Carolina,US,35.9223796,-81.17751948,,,,,
 Stanley,North Carolina,US,Gaston,North Carolina,US,35.29373559,-81.17477045,,,,,
 Saipan,Northern Mariana Islands,US,,Northern Mariana Islands,US,15.0979,145.6739,,,,,
 Adam,Ohio,US,Adams,Ohio,US,38.84541072,-83.4718964,,,,,39001
+Guesnsey,Ohio,US,Guernsey,Ohio,US,40.05026529,-81.49248905,,,,,39059
 Out-of-State,Oklahoma,US,Out of OK,Oklahoma,US,0,0,,,,,80040
 Mckean,Pennsylvania,US,McKean,Pennsylvania,US,41.80938602,-78.56478358,,,,,
 ,,Puerto Rico,,Puerto Rico,US,,,,,,,
@@ -127,17 +119,16 @@ Harris--Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
 Harris--Non Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
 Bear River,Utah,US,Box Elder,Utah,US,41.52106798,-113.0832816,,,,,
 Non-Utah resident,Utah,US,Out of UT,Utah,US,0,0,,,,,
-"San Juan, UT",Navajo Nation,US,San Juan,Utah,US,37.62762978,-109.8033714,,,,,49037
 Unassigned Bear River,Utah,US,Unassigned,Utah,US,0,0,,,,,90049
 Unassigned Southwest,Utah,US,Unassigned,Utah,US,0,0,,,,,90049
 Southwest Utah,Utah,US,Washington,Utah,US,37.28003525,-113.504698,,,,,
 Central Utah,Utah,US,Washington,Utah,US,37.3225,-113.4776,,,,,49053
 Weber-Morgan,Utah,US,Weber,Utah,US,41.27116049,-111.9145117,,,,,
-,,U.S. Virgin Islands,,Virgin Islands,US,18.3358,-64.8963,,,,,
+St. John,Virgin Islands,US,,Virgin Islands,US,,,,,,,
 St. Thomas,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,
 St. Croix,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,
 St. John,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,
-St. John,Virgin Islands,US,,Virgin Islands,US,,,,,,,
+,,U.S. Virgin Islands,,Virgin Islands,US,18.3358,-64.8963,,,,,
 Buena Vista City,Virginia,US,Buena Vista,Virginia,US,37.73484642,-79.35296097,,,,,51530
 Charke,Virginia,US,Clarke,Virginia,US,39.11271747,-77.99199425,,,,,51043
 Manassas City,Virginia,US,Manassas,Virginia,US,38.7464321,-77.48509905,,,,,
@@ -145,11 +136,6 @@ Portsmouth City,Virginia,US,Norfolk,Virginia,US,36.89934014,-76.26420872,,,,,
 Staunton City,Virginia,US,Staunton,Virginia,US,38.15965544,-79.05979937,,,,,
 Unknown,Virginia,US,Unassigned,Virginia,US,0,0,,,,,
 ,,,,Wuhan Evacuee,US,,,0,,,,
+unassigned,Wyoming,US,Unassigned,Wyoming,US,0,0,,,,,
 ,,Palestine,,,West Bank and Gaza,31.9522,35.2332,,,,,
 ,,Western Sahara,,,Western Sahara,24.2155,-12.8858,,,,,
-Unknown,Florida,US,Unassigned,Florida,US,0,0,,,,,90012
-Guesnsey,Ohio,US,Guernsey,Ohio,US,40.05026529,-81.49248905,,,,,39059
-"Cibola, NM",Navajo Nation,US,Cibola,New Mexico,US,34.91131525,-107.998876,,,,,35006
-"Socorro, NM",Navajo Nation,US,Socorro,New Mexico,US,34.00715494,-106.9298354,,,,,35053
-unassigned,Wyoming,US,Unassigned,Wyoming,US,0,0,,,,,
-,,France,,,France,46.2276,2.2137,82048,,,,250
