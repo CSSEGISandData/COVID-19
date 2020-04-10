@@ -1,6 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Monitor,Texas,US,0,0.0
 Chambers,Georgia,US,0,0.0
+Monitor,Texas,US,0,0.0
 Unassigned,US Military,US,1558,5.0
 Navy,US Military,US,925,0.0
 Air Force,US Military,US,649,1.0
@@ -19,4 +19,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,1633452,98379.0
+,,World,1652643,100371.0
