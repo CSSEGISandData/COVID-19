@@ -1,4 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
+Michigan Department of Corrections (MDOC),Michigan,US,335,5.0
+Federal Correctional Institution (FCI),Michigan,US,14,0.0
 Monitor,Texas,US,0,0.0
 Chambers,Georgia,US,0,0.0
 Unassigned,US Military,US,1792,10.0
@@ -19,4 +21,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,1680527,101762.0
+,,World,1684640,102059.0
