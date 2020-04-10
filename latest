@@ -1,4 +1,6 @@
 dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterritoryCode,popData2018
+09/04/2020,9,4,2020,56,3,Afghanistan,AF,AFG,37172386
+08/04/2020,8,4,2020,30,4,Afghanistan,AF,AFG,37172386
 07/04/2020,7,4,2020,38,0,Afghanistan,AF,AFG,37172386
 06/04/2020,6,4,2020,29,2,Afghanistan,AF,AFG,37172386
 05/04/2020,5,4,2020,35,1,Afghanistan,AF,AFG,37172386
@@ -88,6 +90,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Afghanistan,AF,AFG,37172386
 01/01/2020,1,1,2020,0,0,Afghanistan,AF,AFG,37172386
 31/12/2019,31,12,2019,0,0,Afghanistan,AF,AFG,37172386
+09/04/2020,9,4,2020,17,0,Albania,AL,ALB,2866376
+08/04/2020,8,4,2020,6,0,Albania,AL,ALB,2866376
 07/04/2020,7,4,2020,16,1,Albania,AL,ALB,2866376
 06/04/2020,6,4,2020,28,2,Albania,AL,ALB,2866376
 05/04/2020,5,4,2020,29,2,Albania,AL,ALB,2866376
@@ -118,16 +122,12 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 11/03/2020,11,3,2020,4,0,Albania,AL,ALB,2866376
 10/03/2020,10,3,2020,4,0,Albania,AL,ALB,2866376
 09/03/2020,9,3,2020,2,0,Albania,AL,ALB,2866376
+09/04/2020,9,4,2020,19,1,Andorra,AD,AND,77006
+08/04/2020,8,4,2020,19,1,Andorra,AD,AND,77006
 07/04/2020,7,4,2020,25,3,Andorra,AD,AND,77006
 06/04/2020,6,4,2020,35,1,Andorra,AD,AND,77006
-05/04/2020,5,4,2020,27,1,Andorra,AD,AND,77006
-04/04/2020,4,4,2020,11,1,Andorra,AD,AND,77006
-03/04/2020,3,4,2020,38,1,Andorra,AD,AND,77006
-02/04/2020,2,4,2020,14,2,Andorra,AD,AND,77006
-01/04/2020,1,4,2020,6,4,Andorra,AD,AND,77006
-31/03/2020,31,3,2020,36,2,Andorra,AD,AND,77006
-30/03/2020,30,3,2020,26,2,Andorra,AD,AND,77006
-29/03/2020,29,3,2020,41,1,Andorra,AD,AND,77006
+09/04/2020,9,4,2020,104,11,Algeria,DZ,DZA,42228429
+08/04/2020,8,4,2020,45,21,Algeria,DZ,DZA,42228429
 07/04/2020,7,4,2020,103,21,Algeria,DZ,DZA,42228429
 06/04/2020,6,4,2020,20,22,Algeria,DZ,DZA,42228429
 05/04/2020,5,4,2020,314,47,Algeria,DZ,DZA,42228429
@@ -222,6 +222,14 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Algeria,DZ,DZA,42228429
 01/01/2020,1,1,2020,0,0,Algeria,DZ,DZA,42228429
 31/12/2019,31,12,2019,0,0,Algeria,DZ,DZA,42228429
+05/04/2020,5,4,2020,27,1,Andorra,AD,AND,77006
+04/04/2020,4,4,2020,11,1,Andorra,AD,AND,77006
+03/04/2020,3,4,2020,38,1,Andorra,AD,AND,77006
+02/04/2020,2,4,2020,14,2,Andorra,AD,AND,77006
+01/04/2020,1,4,2020,6,4,Andorra,AD,AND,77006
+31/03/2020,31,3,2020,36,2,Andorra,AD,AND,77006
+30/03/2020,30,3,2020,26,2,Andorra,AD,AND,77006
+29/03/2020,29,3,2020,41,1,Andorra,AD,AND,77006
 28/03/2020,28,3,2020,43,0,Andorra,AD,AND,77006
 27/03/2020,27,3,2020,36,3,Andorra,AD,AND,77006
 26/03/2020,26,3,2020,24,0,Andorra,AD,AND,77006
@@ -237,6 +245,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,3,0,Andorra,AD,AND,77006
 14/03/2020,14,3,2020,1,0,Andorra,AD,AND,77006
 03/03/2020,3,3,2020,1,0,Andorra,AD,AND,77006
+09/04/2020,9,4,2020,2,0,Angola,AO,AGO,30809762
+08/04/2020,8,4,2020,1,0,Angola,AO,AGO,30809762
 07/04/2020,7,4,2020,2,0,Angola,AO,AGO,30809762
 06/04/2020,6,4,2020,4,0,Angola,AO,AGO,30809762
 05/04/2020,5,4,2020,2,0,Angola,AO,AGO,30809762
@@ -254,6 +264,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 24/03/2020,24,3,2020,0,0,Angola,AO,AGO,30809762
 23/03/2020,23,3,2020,0,0,Angola,AO,AGO,30809762
 22/03/2020,22,3,2020,2,0,Angola,AO,AGO,30809762
+09/04/2020,9,4,2020,0,0,Anguilla,AI,,
+08/04/2020,8,4,2020,0,0,Anguilla,AI,,
 07/04/2020,7,4,2020,0,0,Anguilla,AI,,
 06/04/2020,6,4,2020,0,0,Anguilla,AI,,
 05/04/2020,5,4,2020,0,0,Anguilla,AI,,
@@ -266,6 +278,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 29/03/2020,29,3,2020,0,0,Anguilla,AI,,
 28/03/2020,28,3,2020,0,0,Anguilla,AI,,
 27/03/2020,27,3,2020,2,0,Anguilla,AI,,
+09/04/2020,9,4,2020,0,0,Antigua_and_Barbuda,AG,ATG,96286
+08/04/2020,8,4,2020,0,0,Antigua_and_Barbuda,AG,ATG,96286
 07/04/2020,7,4,2020,0,0,Antigua_and_Barbuda,AG,ATG,96286
 06/04/2020,6,4,2020,0,0,Antigua_and_Barbuda,AG,ATG,96286
 05/04/2020,5,4,2020,0,0,Antigua_and_Barbuda,AG,ATG,96286
@@ -285,6 +299,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Antigua_and_Barbuda,AG,ATG,96286
 21/03/2020,21,3,2020,0,0,Antigua_and_Barbuda,AG,ATG,96286
 15/03/2020,15,3,2020,1,0,Antigua_and_Barbuda,AG,ATG,96286
+09/04/2020,9,4,2020,80,5,Argentina,AR,ARG,44494502
+08/04/2020,8,4,2020,87,7,Argentina,AR,ARG,44494502
 07/04/2020,7,4,2020,74,7,Argentina,AR,ARG,44494502
 06/04/2020,6,4,2020,103,3,Argentina,AR,ARG,44494502
 05/04/2020,5,4,2020,186,6,Argentina,AR,ARG,44494502
@@ -317,6 +333,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 07/03/2020,7,3,2020,6,0,Argentina,AR,ARG,44494502
 06/03/2020,6,3,2020,1,0,Argentina,AR,ARG,44494502
 04/03/2020,4,3,2020,1,0,Argentina,AR,ARG,44494502
+09/04/2020,9,4,2020,28,1,Armenia,AM,ARM,2951776
+08/04/2020,8,4,2020,20,0,Armenia,AM,ARM,2951776
 07/04/2020,7,4,2020,11,1,Armenia,AM,ARM,2951776
 06/04/2020,6,4,2020,52,0,Armenia,AM,ARM,2951776
 05/04/2020,5,4,2020,34,0,Armenia,AM,ARM,2951776
@@ -407,6 +425,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Armenia,AM,ARM,2951776
 01/01/2020,1,1,2020,0,0,Armenia,AM,ARM,2951776
 31/12/2019,31,12,2019,0,0,Armenia,AM,ARM,2951776
+09/04/2020,9,4,2020,3,0,Aruba,AW,ABW,105845
+08/04/2020,8,4,2020,3,0,Aruba,AW,ABW,105845
 07/04/2020,7,4,2020,7,0,Aruba,AW,ABW,105845
 06/04/2020,6,4,2020,0,0,Aruba,AW,ABW,105845
 05/04/2020,5,4,2020,2,0,Aruba,AW,ABW,105845
@@ -423,6 +443,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 24/03/2020,24,3,2020,8,0,Aruba,AW,ABW,105845
 20/03/2020,20,3,2020,2,0,Aruba,AW,ABW,105845
 13/03/2020,13,3,2020,2,0,Aruba,AW,ABW,105845
+09/04/2020,9,4,2020,96,5,Australia,AU,AUS,24992369
+08/04/2020,8,4,2020,112,3,Australia,AU,AUS,24992369
 07/04/2020,7,4,2020,100,6,Australia,AU,AUS,24992369
 06/04/2020,6,4,2020,57,2,Australia,AU,AUS,24992369
 05/04/2020,5,4,2020,139,4,Australia,AU,AUS,24992369
@@ -522,6 +544,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Australia,AU,AUS,24992369
 01/01/2020,1,1,2020,0,0,Australia,AU,AUS,24992369
 31/12/2019,31,12,2019,0,0,Australia,AU,AUS,24992369
+09/04/2020,9,4,2020,329,30,Austria,AT,AUT,8847037
+08/04/2020,8,4,2020,343,23,Austria,AT,AUT,8847037
 07/04/2020,7,4,2020,314,16,Austria,AT,AUT,8847037
 06/04/2020,6,4,2020,217,18,Austria,AT,AUT,8847037
 05/04/2020,5,4,2020,241,18,Austria,AT,AUT,8847037
@@ -621,6 +645,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Austria,AT,AUT,8847037
 01/01/2020,1,1,2020,0,0,Austria,AT,AUT,8847037
 31/12/2019,31,12,2019,0,0,Austria,AT,AUT,8847037
+09/04/2020,9,4,2020,105,0,Azerbaijan,AZ,AZE,9942334
+08/04/2020,8,4,2020,76,1,Azerbaijan,AZ,AZE,9942334
 07/04/2020,7,4,2020,57,0,Azerbaijan,AZ,AZE,9942334
 06/04/2020,6,4,2020,63,2,Azerbaijan,AZ,AZE,9942334
 05/04/2020,5,4,2020,78,0,Azerbaijan,AZ,AZE,9942334
@@ -713,6 +739,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Azerbaijan,AZ,AZE,9942334
 01/01/2020,1,1,2020,0,0,Azerbaijan,AZ,AZE,9942334
 31/12/2019,31,12,2019,0,0,Azerbaijan,AZ,AZE,9942334
+09/04/2020,9,4,2020,4,1,Bahamas,BS,BHS,385640
+08/04/2020,8,4,2020,3,1,Bahamas,BS,BHS,385640
 07/04/2020,7,4,2020,4,0,Bahamas,BS,BHS,385640
 06/04/2020,6,4,2020,1,1,Bahamas,BS,BHS,385640
 05/04/2020,5,4,2020,4,1,Bahamas,BS,BHS,385640
@@ -734,6 +762,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 20/03/2020,20,3,2020,2,0,Bahamas,BS,BHS,385640
 17/03/2020,17,3,2020,0,0,Bahamas,BS,BHS,385640
 16/03/2020,16,3,2020,1,0,Bahamas,BS,BHS,385640
+09/04/2020,9,4,2020,12,0,Bahrain,BH,BHR,1569439
+08/04/2020,8,4,2020,55,1,Bahrain,BH,BHR,1569439
 07/04/2020,7,4,2020,56,0,Bahrain,BH,BHR,1569439
 06/04/2020,6,4,2020,12,0,Bahrain,BH,BHR,1569439
 05/04/2020,5,4,2020,45,0,Bahrain,BH,BHR,1569439
@@ -832,6 +862,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Bahrain,BH,BHR,1569439
 01/01/2020,1,1,2020,0,0,Bahrain,BH,BHR,1569439
 31/12/2019,31,12,2019,0,0,Bahrain,BH,BHR,1569439
+09/04/2020,9,4,2020,54,3,Bangladesh,BD,BGD,161356039
+08/04/2020,8,4,2020,41,5,Bangladesh,BD,BGD,161356039
 07/04/2020,7,4,2020,35,3,Bangladesh,BD,BGD,161356039
 06/04/2020,6,4,2020,18,1,Bangladesh,BD,BGD,161356039
 05/04/2020,5,4,2020,9,2,Bangladesh,BD,BGD,161356039
@@ -856,6 +888,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,2,0,Bangladesh,BD,BGD,161356039
 15/03/2020,15,3,2020,0,0,Bangladesh,BD,BGD,161356039
 09/03/2020,9,3,2020,3,0,Bangladesh,BD,BGD,161356039
+09/04/2020,9,4,2020,0,0,Barbados,BB,BRB,286641
+08/04/2020,8,4,2020,3,1,Barbados,BB,BRB,286641
 07/04/2020,7,4,2020,4,1,Barbados,BB,BRB,286641
 06/04/2020,6,4,2020,5,1,Barbados,BB,BRB,286641
 05/04/2020,5,4,2020,6,0,Barbados,BB,BRB,286641
@@ -877,6 +911,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 20/03/2020,20,3,2020,1,0,Barbados,BB,BRB,286641
 19/03/2020,19,3,2020,0,0,Barbados,BB,BRB,286641
 18/03/2020,18,3,2020,1,0,Barbados,BB,BRB,286641
+09/04/2020,9,4,2020,205,0,Belarus,BY,BLR,9485386
+08/04/2020,8,4,2020,161,0,Belarus,BY,BLR,9485386
 07/04/2020,7,4,2020,136,5,Belarus,BY,BLR,9485386
 06/04/2020,6,4,2020,170,3,Belarus,BY,BLR,9485386
 05/04/2020,5,4,2020,43,1,Belarus,BY,BLR,9485386
@@ -968,6 +1004,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Belarus,BY,BLR,9485386
 01/01/2020,1,1,2020,0,0,Belarus,BY,BLR,9485386
 31/12/2019,31,12,2019,0,0,Belarus,BY,BLR,9485386
+09/04/2020,9,4,2020,1209,205,Belgium,BE,BEL,11422068
+08/04/2020,8,4,2020,1380,403,Belgium,BE,BEL,11422068
 07/04/2020,7,4,2020,1123,185,Belgium,BE,BEL,11422068
 06/04/2020,6,4,2020,1260,164,Belgium,BE,BEL,11422068
 05/04/2020,5,4,2020,1661,140,Belgium,BE,BEL,11422068
@@ -1067,6 +1105,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Belgium,BE,BEL,11422068
 01/01/2020,1,1,2020,0,0,Belgium,BE,BEL,11422068
 31/12/2019,31,12,2019,0,0,Belgium,BE,BEL,11422068
+09/04/2020,9,4,2020,1,0,Belize,BZ,BLZ,383071
+08/04/2020,8,4,2020,0,0,Belize,BZ,BLZ,383071
 07/04/2020,7,4,2020,2,0,Belize,BZ,BLZ,383071
 06/04/2020,6,4,2020,1,1,Belize,BZ,BLZ,383071
 05/04/2020,5,4,2020,0,0,Belize,BZ,BLZ,383071
@@ -1082,6 +1122,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 26/03/2020,26,3,2020,1,0,Belize,BZ,BLZ,383071
 25/03/2020,25,3,2020,0,0,Belize,BZ,BLZ,383071
 24/03/2020,24,3,2020,1,0,Belize,BZ,BLZ,383071
+09/04/2020,9,4,2020,0,0,Benin,BJ,BEN,11485048
+08/04/2020,8,4,2020,0,0,Benin,BJ,BEN,11485048
 07/04/2020,7,4,2020,4,1,Benin,BJ,BEN,11485048
 06/04/2020,6,4,2020,6,0,Benin,BJ,BEN,11485048
 05/04/2020,5,4,2020,0,0,Benin,BJ,BEN,11485048
@@ -1104,6 +1146,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 19/03/2020,19,3,2020,0,0,Benin,BJ,BEN,11485048
 18/03/2020,18,3,2020,0,0,Benin,BJ,BEN,11485048
 17/03/2020,17,3,2020,1,0,Benin,BJ,BEN,11485048
+09/04/2020,9,4,2020,0,1,Bermuda,BM,BMU,63968
+08/04/2020,8,4,2020,0,0,Bermuda,BM,BMU,63968
 07/04/2020,7,4,2020,2,2,Bermuda,BM,BMU,63968
 06/04/2020,6,4,2020,0,0,Bermuda,BM,BMU,63968
 05/04/2020,5,4,2020,2,0,Bermuda,BM,BMU,63968
@@ -1123,6 +1167,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Bermuda,BM,BMU,63968
 21/03/2020,21,3,2020,0,0,Bermuda,BM,BMU,63968
 20/03/2020,20,3,2020,2,0,Bermuda,BM,BMU,63968
+09/04/2020,9,4,2020,0,0,Bhutan,BT,BTN,754394
+08/04/2020,8,4,2020,0,0,Bhutan,BT,BTN,754394
 07/04/2020,7,4,2020,0,0,Bhutan,BT,BTN,754394
 06/04/2020,6,4,2020,0,0,Bhutan,BT,BTN,754394
 05/04/2020,5,4,2020,0,0,Bhutan,BT,BTN,754394
@@ -1148,6 +1194,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 15/03/2020,15,3,2020,0,0,Bhutan,BT,BTN,754394
 13/03/2020,13,3,2020,0,0,Bhutan,BT,BTN,754394
 06/03/2020,6,3,2020,1,0,Bhutan,BT,BTN,754394
+09/04/2020,9,4,2020,54,3,Bolivia,BO,BOL,11353142
+08/04/2020,8,4,2020,16,1,Bolivia,BO,BOL,11353142
 07/04/2020,7,4,2020,11,3,Bolivia,BO,BOL,11353142
 06/04/2020,6,4,2020,26,1,Bolivia,BO,BOL,11353142
 05/04/2020,5,4,2020,18,0,Bolivia,BO,BOL,11353142
@@ -1174,12 +1222,16 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 14/03/2020,14,3,2020,7,0,Bolivia,BO,BOL,11353142
 13/03/2020,13,3,2020,1,0,Bolivia,BO,BOL,11353142
 12/03/2020,12,3,2020,2,0,Bolivia,BO,BOL,11353142
+09/04/2020,9,4,2020,0,0,"Bonaire, Saint Eustatius and Saba",BQ,,
+08/04/2020,8,4,2020,0,0,"Bonaire, Saint Eustatius and Saba",BQ,,
 07/04/2020,7,4,2020,0,0,"Bonaire, Saint Eustatius and Saba",BQ,,
 06/04/2020,6,4,2020,0,0,"Bonaire, Saint Eustatius and Saba",BQ,,
 05/04/2020,5,4,2020,0,0,"Bonaire, Saint Eustatius and Saba",BQ,,
 04/04/2020,4,4,2020,0,0,"Bonaire, Saint Eustatius and Saba",BQ,,
 03/04/2020,3,4,2020,0,0,"Bonaire, Saint Eustatius and Saba",BQ,,
 02/04/2020,2,4,2020,2,0,"Bonaire, Saint Eustatius and Saba",BQ,,
+09/04/2020,9,4,2020,35,3,Bosnia_and_Herzegovina,BA,BIH,3323929
+08/04/2020,8,4,2020,86,4,Bosnia_and_Herzegovina,BA,BIH,3323929
 07/04/2020,7,4,2020,32,4,Bosnia_and_Herzegovina,BA,BIH,3323929
 06/04/2020,6,4,2020,31,3,Bosnia_and_Herzegovina,BA,BIH,3323929
 05/04/2020,5,4,2020,46,3,Bosnia_and_Herzegovina,BA,BIH,3323929
@@ -1206,13 +1258,17 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 13/03/2020,13,3,2020,0,0,Bosnia_and_Herzegovina,BA,BIH,3323929
 12/03/2020,12,3,2020,1,0,Bosnia_and_Herzegovina,BA,BIH,3323929
 06/03/2020,6,3,2020,2,0,Bosnia_and_Herzegovina,BA,BIH,3323929
-07/04/2020,7,4,2020,1,0,Botswana,BW,BWA,2254126
+09/04/2020,9,4,2020,1,0,Botswana,BW,BWA,2254126
+08/04/2020,8,4,2020,0,0,Botswana,BW,BWA,2254126
+07/04/2020,7,4,2020,0,0,Botswana,BW,BWA,2254126
 06/04/2020,6,4,2020,2,0,Botswana,BW,BWA,2254126
 05/04/2020,5,4,2020,0,0,Botswana,BW,BWA,2254126
 04/04/2020,4,4,2020,0,0,Botswana,BW,BWA,2254126
 03/04/2020,3,4,2020,0,0,Botswana,BW,BWA,2254126
 02/04/2020,2,4,2020,1,1,Botswana,BW,BWA,2254126
 01/04/2020,1,4,2020,3,0,Botswana,BW,BWA,2254126
+09/04/2020,9,4,2020,2210,133,Brazil,BR,BRA,209469333
+08/04/2020,8,4,2020,1661,114,Brazil,BR,BRA,209469333
 07/04/2020,7,4,2020,926,67,Brazil,BR,BRA,209469333
 06/04/2020,6,4,2020,852,54,Brazil,BR,BRA,209469333
 05/04/2020,5,4,2020,1222,73,Brazil,BR,BRA,209469333
@@ -1309,6 +1365,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Brazil,BR,BRA,209469333
 01/01/2020,1,1,2020,0,0,Brazil,BR,BRA,209469333
 31/12/2019,31,12,2019,0,0,Brazil,BR,BRA,209469333
+09/04/2020,9,4,2020,0,0,British_Virgin_Islands,VG,VGB,29802
+08/04/2020,8,4,2020,0,0,British_Virgin_Islands,VG,VGB,29802
 07/04/2020,7,4,2020,0,0,British_Virgin_Islands,VG,VGB,29802
 06/04/2020,6,4,2020,0,0,British_Virgin_Islands,VG,VGB,29802
 05/04/2020,5,4,2020,0,0,British_Virgin_Islands,VG,VGB,29802
@@ -1321,6 +1379,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 29/03/2020,29,3,2020,0,0,British_Virgin_Islands,VG,VGB,29802
 28/03/2020,28,3,2020,0,0,British_Virgin_Islands,VG,VGB,29802
 27/03/2020,27,3,2020,2,0,British_Virgin_Islands,VG,VGB,29802
+09/04/2020,9,4,2020,0,0,Brunei_Darussalam,BN,BRN,428962
+08/04/2020,8,4,2020,0,0,Brunei_Darussalam,BN,BRN,428962
 07/04/2020,7,4,2020,0,0,Brunei_Darussalam,BN,BRN,428962
 06/04/2020,6,4,2020,0,0,Brunei_Darussalam,BN,BRN,428962
 05/04/2020,5,4,2020,2,0,Brunei_Darussalam,BN,BRN,428962
@@ -1349,6 +1409,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 13/03/2020,13,3,2020,14,0,Brunei_Darussalam,BN,BRN,428962
 12/03/2020,12,3,2020,10,0,Brunei_Darussalam,BN,BRN,428962
 10/03/2020,10,3,2020,1,0,Brunei_Darussalam,BN,BRN,428962
+09/04/2020,9,4,2020,16,1,Bulgaria,BG,BGR,7024216
+08/04/2020,8,4,2020,28,1,Bulgaria,BG,BGR,7024216
 07/04/2020,7,4,2020,18,2,Bulgaria,BG,BGR,7024216
 06/04/2020,6,4,2020,28,3,Bulgaria,BG,BGR,7024216
 05/04/2020,5,4,2020,18,3,Bulgaria,BG,BGR,7024216
@@ -1378,6 +1440,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 12/03/2020,12,3,2020,3,1,Bulgaria,BG,BGR,7024216
 09/03/2020,9,3,2020,2,0,Bulgaria,BG,BGR,7024216
 08/03/2020,8,3,2020,2,0,Bulgaria,BG,BGR,7024216
+09/04/2020,9,4,2020,30,4,Burkina_Faso,BF,BFA,19751535
+08/04/2020,8,4,2020,20,2,Burkina_Faso,BF,BFA,19751535
 07/04/2020,7,4,2020,19,0,Burkina_Faso,BF,BFA,19751535
 06/04/2020,6,4,2020,43,1,Burkina_Faso,BF,BFA,19751535
 05/04/2020,5,4,2020,14,0,Burkina_Faso,BF,BFA,19751535
@@ -1404,6 +1468,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 15/03/2020,15,3,2020,1,0,Burkina_Faso,BF,BFA,19751535
 12/03/2020,12,3,2020,0,0,Burkina_Faso,BF,BFA,19751535
 11/03/2020,11,3,2020,2,0,Burkina_Faso,BF,BFA,19751535
+09/04/2020,9,4,2020,0,0,Burundi,BI,BDI,11175378
+08/04/2020,8,4,2020,0,0,Burundi,BI,BDI,11175378
 07/04/2020,7,4,2020,0,0,Burundi,BI,BDI,11175378
 06/04/2020,6,4,2020,0,0,Burundi,BI,BDI,11175378
 05/04/2020,5,4,2020,0,0,Burundi,BI,BDI,11175378
@@ -1411,6 +1477,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 03/04/2020,3,4,2020,1,0,Burundi,BI,BDI,11175378
 02/04/2020,2,4,2020,0,0,Burundi,BI,BDI,11175378
 01/04/2020,1,4,2020,2,0,Burundi,BI,BDI,11175378
+09/04/2020,9,4,2020,1,0,Cambodia,KH,KHM,16249798
+08/04/2020,8,4,2020,2,0,Cambodia,KH,KHM,16249798
 07/04/2020,7,4,2020,1,0,Cambodia,KH,KHM,16249798
 06/04/2020,6,4,2020,0,0,Cambodia,KH,KHM,16249798
 05/04/2020,5,4,2020,0,0,Cambodia,KH,KHM,16249798
@@ -1501,6 +1569,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Cambodia,KH,KHM,16249798
 01/01/2020,1,1,2020,0,0,Cambodia,KH,KHM,16249798
 31/12/2019,31,12,2019,0,0,Cambodia,KH,KHM,16249798
+09/04/2020,9,4,2020,45,1,Cameroon,CM,CMR,25216237
+08/04/2020,8,4,2020,27,0,Cameroon,CM,CMR,25216237
 07/04/2020,7,4,2020,8,0,Cameroon,CM,CMR,25216237
 06/04/2020,6,4,2020,95,0,Cameroon,CM,CMR,25216237
 05/04/2020,5,4,2020,46,1,Cameroon,CM,CMR,25216237
@@ -1527,6 +1597,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 15/03/2020,15,3,2020,1,0,Cameroon,CM,CMR,25216237
 09/03/2020,9,3,2020,1,0,Cameroon,CM,CMR,25216237
 07/03/2020,7,3,2020,1,0,Cameroon,CM,CMR,25216237
+09/04/2020,9,4,2020,1391,55,Canada,CA,CAN,37058856
+08/04/2020,8,4,2020,1230,57,Canada,CA,CAN,37058856
 07/04/2020,7,4,2020,1157,43,Canada,CA,CAN,37058856
 06/04/2020,6,4,2020,1614,49,Canada,CA,CAN,37058856
 05/04/2020,5,4,2020,1363,44,Canada,CA,CAN,37058856
@@ -1536,14 +1608,14 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 01/04/2020,1,4,2020,1112,7,Canada,CA,CAN,37058856
 31/03/2020,31,3,2020,1169,28,Canada,CA,CAN,37058856
 30/03/2020,30,3,2020,869,1,Canada,CA,CAN,37058856
-29/03/2020,29,3,2020,697,7,Canada,CA,CAN,37058856
-28/03/2020,28,3,2020,671,14,Canada,CA,CAN,37058856
+29/03/2020,29,3,2020,711,7,Canada,CA,CAN,37058856
+28/03/2020,28,3,2020,657,14,Canada,CA,CAN,37058856
 27/03/2020,27,3,2020,633,4,Canada,CA,CAN,37058856
 26/03/2020,26,3,2020,1426,8,Canada,CA,CAN,37058856
 25/03/2020,25,3,2020,313,3,Canada,CA,CAN,37058856
-24/03/2020,24,3,2020,216,6,Canada,CA,CAN,37058856
-23/03/2020,23,3,2020,199,5,Canada,CA,CAN,37058856
-22/03/2020,22,3,2020,260,1,Canada,CA,CAN,37058856
+24/03/2020,24,3,2020,216,4,Canada,CA,CAN,37058856
+23/03/2020,23,3,2020,128,2,Canada,CA,CAN,37058856
+22/03/2020,22,3,2020,331,6,Canada,CA,CAN,37058856
 21/03/2020,21,3,2020,125,2,Canada,CA,CAN,37058856
 20/03/2020,20,3,2020,156,1,Canada,CA,CAN,37058856
 19/03/2020,19,3,2020,121,1,Canada,CA,CAN,37058856
@@ -1626,6 +1698,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Canada,CA,CAN,37058856
 01/01/2020,1,1,2020,0,0,Canada,CA,CAN,37058856
 31/12/2019,31,12,2019,0,0,Canada,CA,CAN,37058856
+09/04/2020,9,4,2020,0,0,Cape_Verde,CV,CPV,543767
+08/04/2020,8,4,2020,0,0,Cape_Verde,CV,CPV,543767
 07/04/2020,7,4,2020,0,0,Cape_Verde,CV,CPV,543767
 06/04/2020,6,4,2020,0,0,Cape_Verde,CV,CPV,543767
 05/04/2020,5,4,2020,1,0,Cape_Verde,CV,CPV,543767
@@ -1708,6 +1782,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Cases_on_an_international_conveyance_Japan,JPG11668,N/A,3000
 01/01/2020,1,1,2020,0,0,Cases_on_an_international_conveyance_Japan,JPG11668,N/A,3000
 31/12/2019,31,12,2019,0,0,Cases_on_an_international_conveyance_Japan,JPG11668,N/A,3000
+09/04/2020,9,4,2020,0,0,Cayman_Islands,KY,CYM,64174
+08/04/2020,8,4,2020,6,0,Cayman_Islands,KY,CYM,64174
 07/04/2020,7,4,2020,0,0,Cayman_Islands,KY,CYM,64174
 06/04/2020,6,4,2020,4,0,Cayman_Islands,KY,CYM,64174
 05/04/2020,5,4,2020,6,0,Cayman_Islands,KY,CYM,64174
@@ -1727,6 +1803,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Cayman_Islands,KY,CYM,64174
 21/03/2020,21,3,2020,2,1,Cayman_Islands,KY,CYM,64174
 20/03/2020,20,3,2020,1,0,Cayman_Islands,KY,CYM,64174
+09/04/2020,9,4,2020,1,0,Central_African_Republic,CF,CAF,4666377
+08/04/2020,8,4,2020,0,0,Central_African_Republic,CF,CAF,4666377
 07/04/2020,7,4,2020,0,0,Central_African_Republic,CF,CAF,4666377
 06/04/2020,6,4,2020,0,0,Central_African_Republic,CF,CAF,4666377
 05/04/2020,5,4,2020,1,0,Central_African_Republic,CF,CAF,4666377
@@ -1750,6 +1828,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 18/03/2020,18,3,2020,0,0,Central_African_Republic,CF,CAF,4666377
 17/03/2020,17,3,2020,0,0,Central_African_Republic,CF,CAF,4666377
 16/03/2020,16,3,2020,1,0,Central_African_Republic,CF,CAF,4666377
+09/04/2020,9,4,2020,1,0,Chad,TD,TCD,15477751
+08/04/2020,8,4,2020,0,0,Chad,TD,TCD,15477751
 07/04/2020,7,4,2020,0,0,Chad,TD,TCD,15477751
 06/04/2020,6,4,2020,1,0,Chad,TD,TCD,15477751
 05/04/2020,5,4,2020,1,0,Chad,TD,TCD,15477751
@@ -1769,6 +1849,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,1,0,Chad,TD,TCD,15477751
 21/03/2020,21,3,2020,0,0,Chad,TD,TCD,15477751
 20/03/2020,20,3,2020,1,0,Chad,TD,TCD,15477751
+09/04/2020,9,4,2020,430,5,Chile,CL,CHL,18729160
+08/04/2020,8,4,2020,301,6,Chile,CL,CHL,18729160
 07/04/2020,7,4,2020,344,3,Chile,CL,CHL,18729160
 06/04/2020,6,4,2020,310,7,Chile,CL,CHL,18729160
 05/04/2020,5,4,2020,424,5,Chile,CL,CHL,18729160
@@ -1803,6 +1885,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 06/03/2020,6,3,2020,1,0,Chile,CL,CHL,18729160
 05/03/2020,5,3,2020,2,0,Chile,CL,CHL,18729160
 04/03/2020,4,3,2020,1,0,Chile,CL,CHL,18729160
+09/04/2020,9,4,2020,86,2,China,CN,CHN,1392730000
+08/04/2020,8,4,2020,86,2,China,CN,CHN,1392730000
 07/04/2020,7,4,2020,56,0,China,CN,CHN,1392730000
 06/04/2020,6,4,2020,67,2,China,CN,CHN,1392730000
 05/04/2020,5,4,2020,48,3,China,CN,CHN,1392730000
@@ -1902,6 +1986,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,China,CN,CHN,1392730000
 01/01/2020,1,1,2020,0,0,China,CN,CHN,1392730000
 31/12/2019,31,12,2019,27,0,China,CN,CHN,1392730000
+09/04/2020,9,4,2020,274,5,Colombia,CO,COL,49648685
+08/04/2020,8,4,2020,201,4,Colombia,CO,COL,49648685
 07/04/2020,7,4,2020,94,11,Colombia,CO,COL,49648685
 06/04/2020,6,4,2020,79,3,Colombia,CO,COL,49648685
 05/04/2020,5,4,2020,139,7,Colombia,CO,COL,49648685
@@ -1930,6 +2016,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 12/03/2020,12,3,2020,6,0,Colombia,CO,COL,49648685
 10/03/2020,10,3,2020,2,0,Colombia,CO,COL,49648685
 07/03/2020,7,3,2020,1,0,Colombia,CO,COL,49648685
+09/04/2020,9,4,2020,15,0,Congo,CG,COG,5244363
+08/04/2020,8,4,2020,0,0,Congo,CG,COG,5244363
 07/04/2020,7,4,2020,0,0,Congo,CG,COG,5244363
 06/04/2020,6,4,2020,0,0,Congo,CG,COG,5244363
 05/04/2020,5,4,2020,4,2,Congo,CG,COG,5244363
@@ -1953,6 +2041,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 18/03/2020,18,3,2020,0,0,Congo,CG,COG,5244363
 17/03/2020,17,3,2020,0,0,Congo,CG,COG,5244363
 16/03/2020,16,3,2020,1,0,Congo,CG,COG,5244363
+09/04/2020,9,4,2020,19,0,Costa_Rica,CR,CRI,4999441
+08/04/2020,8,4,2020,16,0,Costa_Rica,CR,CRI,4999441
 07/04/2020,7,4,2020,13,0,Costa_Rica,CR,CRI,4999441
 06/04/2020,6,4,2020,19,0,Costa_Rica,CR,CRI,4999441
 05/04/2020,5,4,2020,19,0,Costa_Rica,CR,CRI,4999441
@@ -1984,6 +2074,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 10/03/2020,10,3,2020,4,0,Costa_Rica,CR,CRI,4999441
 09/03/2020,9,3,2020,4,0,Costa_Rica,CR,CRI,4999441
 07/03/2020,7,3,2020,1,0,Costa_Rica,CR,CRI,4999441
+09/04/2020,9,4,2020,35,0,Cote_dIvoire,CI,CIV,25069229
+08/04/2020,8,4,2020,26,0,Cote_dIvoire,CI,CIV,25069229
 07/04/2020,7,4,2020,62,0,Cote_dIvoire,CI,CIV,25069229
 06/04/2020,6,4,2020,16,1,Cote_dIvoire,CI,CIV,25069229
 05/04/2020,5,4,2020,27,1,Cote_dIvoire,CI,CIV,25069229
@@ -2009,6 +2101,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,0,0,Cote_dIvoire,CI,CIV,25069229
 15/03/2020,15,3,2020,3,0,Cote_dIvoire,CI,CIV,25069229
 12/03/2020,12,3,2020,1,0,Cote_dIvoire,CI,CIV,25069229
+09/04/2020,9,4,2020,61,1,Croatia,HR,HRV,4089400
+08/04/2020,8,4,2020,60,2,Croatia,HR,HRV,4089400
 07/04/2020,7,4,2020,40,1,Croatia,HR,HRV,4089400
 06/04/2020,6,4,2020,56,3,Croatia,HR,HRV,4089400
 05/04/2020,5,4,2020,47,4,Croatia,HR,HRV,4089400
@@ -2105,6 +2199,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Croatia,HR,HRV,4089400
 01/01/2020,1,1,2020,0,0,Croatia,HR,HRV,4089400
 31/12/2019,31,12,2019,0,0,Croatia,HR,HRV,4089400
+09/04/2020,9,4,2020,61,1,Cuba,CU,CUB,11338138
+08/04/2020,8,4,2020,46,2,Cuba,CU,CUB,11338138
 07/04/2020,7,4,2020,30,1,Cuba,CU,CUB,11338138
 06/04/2020,6,4,2020,32,2,Cuba,CU,CUB,11338138
 05/04/2020,5,4,2020,19,0,Cuba,CU,CUB,11338138
@@ -2129,6 +2225,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 15/03/2020,15,3,2020,0,0,Cuba,CU,CUB,11338138
 14/03/2020,14,3,2020,1,0,Cuba,CU,CUB,11338138
 12/03/2020,12,3,2020,3,0,Cuba,CU,CUB,11338138
+09/04/2020,9,4,2020,1,0,Curaçao,CW,CUW,159849
+08/04/2020,8,4,2020,0,0,Curaçao,CW,CUW,159849
 07/04/2020,7,4,2020,2,0,Curaçao,CW,CUW,159849
 06/04/2020,6,4,2020,0,0,Curaçao,CW,CUW,159849
 05/04/2020,5,4,2020,0,0,Curaçao,CW,CUW,159849
@@ -2144,6 +2242,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 24/03/2020,24,3,2020,3,0,Curaçao,CW,CUW,159849
 20/03/2020,20,3,2020,2,0,Curaçao,CW,CUW,159849
 13/03/2020,13,3,2020,1,0,Curaçao,CW,CUW,159849
+09/04/2020,9,4,2020,32,0,Cyprus,CY,CYP,1189265
+08/04/2020,8,4,2020,29,0,Cyprus,CY,CYP,1189265
 07/04/2020,7,4,2020,19,0,Cyprus,CY,CYP,1189265
 06/04/2020,6,4,2020,20,3,Cyprus,CY,CYP,1189265
 05/04/2020,5,4,2020,30,0,Cyprus,CY,CYP,1189265
@@ -2171,6 +2271,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 14/03/2020,14,3,2020,8,0,Cyprus,CY,CYP,1189265
 12/03/2020,12,3,2020,4,0,Cyprus,CY,CYP,1189265
 10/03/2020,10,3,2020,2,0,Cyprus,CY,CYP,1189265
+09/04/2020,9,4,2020,295,11,Czechia,CZ,,
+08/04/2020,8,4,2020,195,10,Czechia,CZ,,
 07/04/2020,7,4,2020,235,11,Czechia,CZ,,
 06/04/2020,6,4,2020,115,8,Czechia,CZ,,
 05/04/2020,5,4,2020,282,6,Czechia,CZ,,
@@ -2270,6 +2372,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Czechia,CZ,,
 01/01/2020,1,1,2020,0,0,Czechia,CZ,,
 31/12/2019,31,12,2019,0,0,Czechia,CZ,,
+09/04/2020,9,4,2020,3,2,Democratic_Republic_of_the_Congo,CD,COD,84068091
+08/04/2020,8,4,2020,19,0,Democratic_Republic_of_the_Congo,CD,COD,84068091
 07/04/2020,7,4,2020,7,0,Democratic_Republic_of_the_Congo,CD,COD,84068091
 06/04/2020,6,4,2020,0,0,Democratic_Republic_of_the_Congo,CD,COD,84068091
 05/04/2020,5,4,2020,20,5,Democratic_Republic_of_the_Congo,CD,COD,84068091
@@ -2296,6 +2400,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 15/03/2020,15,3,2020,0,0,Democratic_Republic_of_the_Congo,CD,COD,84068091
 14/03/2020,14,3,2020,1,0,Democratic_Republic_of_the_Congo,CD,COD,84068091
 11/03/2020,11,3,2020,1,0,Democratic_Republic_of_the_Congo,CD,COD,84068091
+09/04/2020,9,4,2020,331,15,Denmark,DK,DNK,5797446
+08/04/2020,8,4,2020,390,16,Denmark,DK,DNK,5797446
 07/04/2020,7,4,2020,312,8,Denmark,DK,DNK,5797446
 06/04/2020,6,4,2020,292,18,Denmark,DK,DNK,5797446
 05/04/2020,5,4,2020,320,22,Denmark,DK,DNK,5797446
@@ -2395,6 +2501,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Denmark,DK,DNK,5797446
 01/01/2020,1,1,2020,0,0,Denmark,DK,DNK,5797446
 31/12/2019,31,12,2019,0,0,Denmark,DK,DNK,5797446
+09/04/2020,9,4,2020,14,0,Djibouti,DJ,DJI,958920
+08/04/2020,8,4,2020,31,0,Djibouti,DJ,DJI,958920
 07/04/2020,7,4,2020,31,0,Djibouti,DJ,DJI,958920
 06/04/2020,6,4,2020,8,0,Djibouti,DJ,DJI,958920
 05/04/2020,5,4,2020,10,0,Djibouti,DJ,DJI,958920
@@ -2415,6 +2523,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 21/03/2020,21,3,2020,0,0,Djibouti,DJ,DJI,958920
 20/03/2020,20,3,2020,0,0,Djibouti,DJ,DJI,958920
 19/03/2020,19,3,2020,1,0,Djibouti,DJ,DJI,958920
+09/04/2020,9,4,2020,0,0,Dominica,DM,DMA,71625
+08/04/2020,8,4,2020,0,0,Dominica,DM,DMA,71625
 07/04/2020,7,4,2020,1,0,Dominica,DM,DMA,71625
 06/04/2020,6,4,2020,0,0,Dominica,DM,DMA,71625
 05/04/2020,5,4,2020,0,0,Dominica,DM,DMA,71625
@@ -2431,6 +2541,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 25/03/2020,25,3,2020,1,0,Dominica,DM,DMA,71625
 24/03/2020,24,3,2020,0,0,Dominica,DM,DMA,71625
 23/03/2020,23,3,2020,1,0,Dominica,DM,DMA,71625
+09/04/2020,9,4,2020,155,10,Dominican_Republic,DO,DOM,10627165
+08/04/2020,8,4,2020,128,12,Dominican_Republic,DO,DOM,10627165
 07/04/2020,7,4,2020,83,4,Dominican_Republic,DO,DOM,10627165
 06/04/2020,6,4,2020,167,5,Dominican_Republic,DO,DOM,10627165
 05/04/2020,5,4,2020,90,9,Dominican_Republic,DO,DOM,10627165
@@ -2521,6 +2633,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Dominican_Republic,DO,DOM,10627165
 01/01/2020,1,1,2020,0,0,Dominican_Republic,DO,DOM,10627165
 31/12/2019,31,12,2019,0,0,Dominican_Republic,DO,DOM,10627165
+09/04/2020,9,4,2020,455,22,Ecuador,EC,ECU,17084357
+08/04/2020,8,4,2020,248,29,Ecuador,EC,ECU,17084357
 07/04/2020,7,4,2020,101,11,Ecuador,EC,ECU,17084357
 06/04/2020,6,4,2020,181,8,Ecuador,EC,ECU,17084357
 05/04/2020,5,4,2020,97,27,Ecuador,EC,ECU,17084357
@@ -2615,6 +2729,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Ecuador,EC,ECU,17084357
 01/01/2020,1,1,2020,0,0,Ecuador,EC,ECU,17084357
 31/12/2019,31,12,2019,0,0,Ecuador,EC,ECU,17084357
+09/04/2020,9,4,2020,238,18,Egypt,EG,EGY,98423595
+08/04/2020,8,4,2020,249,7,Egypt,EG,EGY,98423595
 07/04/2020,7,4,2020,3,7,Egypt,EG,EGY,98423595
 06/04/2020,6,4,2020,85,5,Egypt,EG,EGY,98423595
 05/04/2020,5,4,2020,206,14,Egypt,EG,EGY,98423595
@@ -2710,6 +2826,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Egypt,EG,EGY,98423595
 01/01/2020,1,1,2020,0,0,Egypt,EG,EGY,98423595
 31/12/2019,31,12,2019,0,0,Egypt,EG,EGY,98423595
+09/04/2020,9,4,2020,25,1,El_Salvador,SV,SLV,6420744
+08/04/2020,8,4,2020,0,0,El_Salvador,SV,SLV,6420744
 07/04/2020,7,4,2020,9,1,El_Salvador,SV,SLV,6420744
 06/04/2020,6,4,2020,7,0,El_Salvador,SV,SLV,6420744
 05/04/2020,5,4,2020,6,0,El_Salvador,SV,SLV,6420744
@@ -2730,6 +2848,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 21/03/2020,21,3,2020,2,0,El_Salvador,SV,SLV,6420744
 20/03/2020,20,3,2020,0,0,El_Salvador,SV,SLV,6420744
 19/03/2020,19,3,2020,1,0,El_Salvador,SV,SLV,6420744
+09/04/2020,9,4,2020,2,0,Equatorial_Guinea,GQ,GNQ,1308974
+08/04/2020,8,4,2020,0,0,Equatorial_Guinea,GQ,GNQ,1308974
 07/04/2020,7,4,2020,0,0,Equatorial_Guinea,GQ,GNQ,1308974
 06/04/2020,6,4,2020,0,0,Equatorial_Guinea,GQ,GNQ,1308974
 05/04/2020,5,4,2020,0,0,Equatorial_Guinea,GQ,GNQ,1308974
@@ -2754,6 +2874,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Equatorial_Guinea,GQ,GNQ,1308974
 16/03/2020,16,3,2020,0,0,Equatorial_Guinea,GQ,GNQ,1308974
 15/03/2020,15,3,2020,1,0,Equatorial_Guinea,GQ,GNQ,1308974
+09/04/2020,9,4,2020,2,0,Eritrea,ER,ERI,
+08/04/2020,8,4,2020,0,0,Eritrea,ER,ERI,
 07/04/2020,7,4,2020,2,0,Eritrea,ER,ERI,
 06/04/2020,6,4,2020,0,0,Eritrea,ER,ERI,
 05/04/2020,5,4,2020,7,0,Eritrea,ER,ERI,
@@ -2771,6 +2893,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 24/03/2020,24,3,2020,0,0,Eritrea,ER,ERI,
 23/03/2020,23,3,2020,0,0,Eritrea,ER,ERI,
 22/03/2020,22,3,2020,1,0,Eritrea,ER,ERI,
+09/04/2020,9,4,2020,36,3,Estonia,EE,EST,1320884
+08/04/2020,8,4,2020,41,2,Estonia,EE,EST,1320884
 07/04/2020,7,4,2020,11,4,Estonia,EE,EST,1320884
 06/04/2020,6,4,2020,79,2,Estonia,EE,EST,1320884
 05/04/2020,5,4,2020,57,1,Estonia,EE,EST,1320884
@@ -2865,6 +2989,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Estonia,EE,EST,1320884
 01/01/2020,1,1,2020,0,0,Estonia,EE,EST,1320884
 31/12/2019,31,12,2019,0,0,Estonia,EE,EST,1320884
+09/04/2020,9,4,2020,2,0,Eswatini,SZ,SWZ,1367000
+08/04/2020,8,4,2020,0,0,Eswatini,SZ,SWZ,1367000
 07/04/2020,7,4,2020,1,0,Eswatini,SZ,SWZ,1367000
 06/04/2020,6,4,2020,0,0,Eswatini,SZ,SWZ,1367000
 05/04/2020,5,4,2020,0,0,Eswatini,SZ,SWZ,1367000
@@ -2889,6 +3015,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Eswatini,SZ,SWZ,1367000
 16/03/2020,16,3,2020,0,0,Eswatini,SZ,SWZ,1367000
 15/03/2020,15,3,2020,1,0,Eswatini,SZ,SWZ,1367000
+09/04/2020,9,4,2020,3,0,Ethiopia,ET,ETH,109224559
+08/04/2020,8,4,2020,8,0,Ethiopia,ET,ETH,109224559
 07/04/2020,7,4,2020,1,0,Ethiopia,ET,ETH,109224559
 06/04/2020,6,4,2020,5,2,Ethiopia,ET,ETH,109224559
 05/04/2020,5,4,2020,3,0,Ethiopia,ET,ETH,109224559
@@ -2914,10 +3042,14 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,3,0,Ethiopia,ET,ETH,109224559
 15/03/2020,15,3,2020,0,0,Ethiopia,ET,ETH,109224559
 14/03/2020,14,3,2020,1,0,Ethiopia,ET,ETH,109224559
+09/04/2020,9,4,2020,0,0,Falkland_Islands_(Malvinas),FK,,
+08/04/2020,8,4,2020,3,0,Falkland_Islands_(Malvinas),FK,,
 07/04/2020,7,4,2020,0,0,Falkland_Islands_(Malvinas),FK,,
 06/04/2020,6,4,2020,1,0,Falkland_Islands_(Malvinas),FK,,
 05/04/2020,5,4,2020,0,0,Falkland_Islands_(Malvinas),FK,,
 04/04/2020,4,4,2020,1,0,Falkland_Islands_(Malvinas),FK,,
+09/04/2020,9,4,2020,0,0,Faroe_Islands,FO,FRO,48497
+08/04/2020,8,4,2020,1,0,Faroe_Islands,FO,FRO,48497
 07/04/2020,7,4,2020,2,0,Faroe_Islands,FO,FRO,48497
 06/04/2020,6,4,2020,0,0,Faroe_Islands,FO,FRO,48497
 05/04/2020,5,4,2020,2,0,Faroe_Islands,FO,FRO,48497
@@ -2937,6 +3069,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,12,0,Faroe_Islands,FO,FRO,48497
 21/03/2020,21,3,2020,8,0,Faroe_Islands,FO,FRO,48497
 20/03/2020,20,3,2020,72,0,Faroe_Islands,FO,FRO,48497
+09/04/2020,9,4,2020,0,0,Fiji,FJ,FJI,883483
+08/04/2020,8,4,2020,1,0,Fiji,FJ,FJI,883483
 07/04/2020,7,4,2020,0,0,Fiji,FJ,FJI,883483
 06/04/2020,6,4,2020,2,0,Fiji,FJ,FJI,883483
 05/04/2020,5,4,2020,0,0,Fiji,FJ,FJI,883483
@@ -2956,6 +3090,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,1,0,Fiji,FJ,FJI,883483
 21/03/2020,21,3,2020,0,0,Fiji,FJ,FJI,883483
 20/03/2020,20,3,2020,1,0,Fiji,FJ,FJI,883483
+09/04/2020,9,4,2020,179,6,Finland,FI,FIN,5518050
+08/04/2020,8,4,2020,132,7,Finland,FI,FIN,5518050
 07/04/2020,7,4,2020,249,0,Finland,FI,FIN,5518050
 06/04/2020,6,4,2020,45,2,Finland,FI,FIN,5518050
 05/04/2020,5,4,2020,267,5,Finland,FI,FIN,5518050
@@ -3050,6 +3186,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Finland,FI,FIN,5518050
 01/01/2020,1,1,2020,0,0,Finland,FI,FIN,5518050
 31/12/2019,31,12,2019,0,0,Finland,FI,FIN,5518050
+09/04/2020,9,4,2020,3881,541,France,FR,FRA,66987244
+08/04/2020,8,4,2020,3777,1417,France,FR,FRA,66987244
 07/04/2020,7,4,2020,3912,833,France,FR,FRA,66987244
 06/04/2020,6,4,2020,1873,518,France,FR,FRA,66987244
 05/04/2020,5,4,2020,4267,1053,France,FR,FRA,66987244
@@ -3149,6 +3287,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,France,FR,FRA,66987244
 01/01/2020,1,1,2020,0,0,France,FR,FRA,66987244
 31/12/2019,31,12,2019,0,0,France,FR,FRA,66987244
+09/04/2020,9,4,2020,4,0,French_Polynesia,PF,PYF,277679
+08/04/2020,8,4,2020,6,0,French_Polynesia,PF,PYF,277679
 07/04/2020,7,4,2020,0,0,French_Polynesia,PF,PYF,277679
 06/04/2020,6,4,2020,1,0,French_Polynesia,PF,PYF,277679
 05/04/2020,5,4,2020,1,0,French_Polynesia,PF,PYF,277679
@@ -3169,6 +3309,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 21/03/2020,21,3,2020,12,0,French_Polynesia,PF,PYF,277679
 20/03/2020,20,3,2020,0,0,French_Polynesia,PF,PYF,277679
 19/03/2020,19,3,2020,3,0,French_Polynesia,PF,PYF,277679
+09/04/2020,9,4,2020,3,0,Gabon,GA,GAB,2119275
+08/04/2020,8,4,2020,9,0,Gabon,GA,GAB,2119275
 07/04/2020,7,4,2020,0,0,Gabon,GA,GAB,2119275
 06/04/2020,6,4,2020,0,0,Gabon,GA,GAB,2119275
 05/04/2020,5,4,2020,0,0,Gabon,GA,GAB,2119275
@@ -3194,6 +3336,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,0,0,Gabon,GA,GAB,2119275
 15/03/2020,15,3,2020,0,0,Gabon,GA,GAB,2119275
 13/03/2020,13,3,2020,1,0,Gabon,GA,GAB,2119275
+09/04/2020,9,4,2020,0,0,Gambia,GM,GMB,2280102
+08/04/2020,8,4,2020,0,0,Gambia,GM,GMB,2280102
 07/04/2020,7,4,2020,0,0,Gambia,GM,GMB,2280102
 06/04/2020,6,4,2020,0,0,Gambia,GM,GMB,2280102
 05/04/2020,5,4,2020,0,0,Gambia,GM,GMB,2280102
@@ -3215,6 +3359,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 20/03/2020,20,3,2020,0,0,Gambia,GM,GMB,2280102
 19/03/2020,19,3,2020,0,0,Gambia,GM,GMB,2280102
 18/03/2020,18,3,2020,1,0,Gambia,GM,GMB,2280102
+09/04/2020,9,4,2020,15,0,Georgia,GE,GEO,3731000
+08/04/2020,8,4,2020,8,1,Georgia,GE,GEO,3731000
 07/04/2020,7,4,2020,14,0,Georgia,GE,GEO,3731000
 06/04/2020,6,4,2020,17,2,Georgia,GE,GEO,3731000
 05/04/2020,5,4,2020,9,0,Georgia,GE,GEO,3731000
@@ -3311,6 +3457,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Georgia,GE,GEO,3731000
 01/01/2020,1,1,2020,0,0,Georgia,GE,GEO,3731000
 31/12/2019,31,12,2019,0,0,Georgia,GE,GEO,3731000
+09/04/2020,9,4,2020,4974,246,Germany,DE,DEU,82927922
+08/04/2020,8,4,2020,4003,254,Germany,DE,DEU,82927922
 07/04/2020,7,4,2020,3834,173,Germany,DE,DEU,82927922
 06/04/2020,6,4,2020,3677,92,Germany,DE,DEU,82927922
 05/04/2020,5,4,2020,5936,184,Germany,DE,DEU,82927922
@@ -3410,6 +3558,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Germany,DE,DEU,82927922
 01/01/2020,1,1,2020,0,0,Germany,DE,DEU,82927922
 31/12/2019,31,12,2019,0,0,Germany,DE,DEU,82927922
+09/04/2020,9,4,2020,26,1,Ghana,GH,GHA,29767108
+08/04/2020,8,4,2020,0,0,Ghana,GH,GHA,29767108
 07/04/2020,7,4,2020,73,0,Ghana,GH,GHA,29767108
 06/04/2020,6,4,2020,0,0,Ghana,GH,GHA,29767108
 05/04/2020,5,4,2020,9,0,Ghana,GH,GHA,29767108
@@ -3435,11 +3585,13 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,0,0,Ghana,GH,GHA,29767108
 15/03/2020,15,3,2020,0,0,Ghana,GH,GHA,29767108
 13/03/2020,13,3,2020,2,0,Ghana,GH,GHA,29767108
+09/04/2020,9,4,2020,7,0,Gibraltar,GI,GIB,33718
+08/04/2020,8,4,2020,4,0,Gibraltar,GI,GIB,33718
 07/04/2020,7,4,2020,6,0,Gibraltar,GI,GIB,33718
 06/04/2020,6,4,2020,5,0,Gibraltar,GI,GIB,33718
 05/04/2020,5,4,2020,3,0,Gibraltar,GI,GIB,33718
 04/04/2020,4,4,2020,7,0,Gibraltar,GI,GIB,33718
-03/04/2020,3,4,2020,19,1,Gibraltar,GI,GIB,33718
+03/04/2020,3,4,2020,19,0,Gibraltar,GI,GIB,33718
 02/04/2020,2,4,2020,0,0,Gibraltar,GI,GIB,33718
 01/04/2020,1,4,2020,0,0,Gibraltar,GI,GIB,33718
 31/03/2020,31,3,2020,4,0,Gibraltar,GI,GIB,33718
@@ -3454,6 +3606,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Gibraltar,GI,GIB,33718
 21/03/2020,21,3,2020,0,0,Gibraltar,GI,GIB,33718
 20/03/2020,20,3,2020,10,0,Gibraltar,GI,GIB,33718
+09/04/2020,9,4,2020,52,2,Greece,EL,GRC,10727668
+08/04/2020,8,4,2020,77,2,Greece,EL,GRC,10727668
 07/04/2020,7,4,2020,20,6,Greece,EL,GRC,10727668
 06/04/2020,6,4,2020,62,5,Greece,EL,GRC,10727668
 05/04/2020,5,4,2020,60,9,Greece,EL,GRC,10727668
@@ -3551,6 +3705,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Greece,EL,GRC,10727668
 01/01/2020,1,1,2020,0,0,Greece,EL,GRC,10727668
 31/12/2019,31,12,2019,0,0,Greece,EL,GRC,10727668
+09/04/2020,9,4,2020,0,0,Greenland,GL,GRL,56025
+08/04/2020,8,4,2020,0,0,Greenland,GL,GRL,56025
 07/04/2020,7,4,2020,0,0,Greenland,GL,GRL,56025
 06/04/2020,6,4,2020,1,0,Greenland,GL,GRL,56025
 05/04/2020,5,4,2020,0,0,Greenland,GL,GRL,56025
@@ -3570,6 +3726,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Greenland,GL,GRL,56025
 21/03/2020,21,3,2020,0,0,Greenland,GL,GRL,56025
 20/03/2020,20,3,2020,2,0,Greenland,GL,GRL,56025
+09/04/2020,9,4,2020,0,0,Grenada,GD,GRD,111454
+08/04/2020,8,4,2020,0,0,Grenada,GD,GRD,111454
 07/04/2020,7,4,2020,0,0,Grenada,GD,GRD,111454
 06/04/2020,6,4,2020,0,0,Grenada,GD,GRD,111454
 05/04/2020,5,4,2020,0,0,Grenada,GD,GRD,111454
@@ -3586,6 +3744,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 25/03/2020,25,3,2020,0,0,Grenada,GD,GRD,111454
 24/03/2020,24,3,2020,0,0,Grenada,GD,GRD,111454
 23/03/2020,23,3,2020,1,0,Grenada,GD,GRD,111454
+09/04/2020,9,4,2020,4,0,Guam,GU,GUM,165768
+08/04/2020,8,4,2020,9,0,Guam,GU,GUM,165768
 07/04/2020,7,4,2020,2,0,Guam,GU,GUM,165768
 06/04/2020,6,4,2020,17,0,Guam,GU,GUM,165768
 05/04/2020,5,4,2020,6,0,Guam,GU,GUM,165768
@@ -3606,6 +3766,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 21/03/2020,21,3,2020,2,0,Guam,GU,GUM,165768
 20/03/2020,20,3,2020,9,0,Guam,GU,GUM,165768
 19/03/2020,19,3,2020,3,0,Guam,GU,GUM,165768
+09/04/2020,9,4,2020,7,0,Guatemala,GT,GTM,17247807
+08/04/2020,8,4,2020,6,0,Guatemala,GT,GTM,17247807
 07/04/2020,7,4,2020,4,0,Guatemala,GT,GTM,17247807
 06/04/2020,6,4,2020,9,1,Guatemala,GT,GTM,17247807
 05/04/2020,5,4,2020,11,1,Guatemala,GT,GTM,17247807
@@ -3630,6 +3792,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,5,0,Guatemala,GT,GTM,17247807
 16/03/2020,16,3,2020,0,1,Guatemala,GT,GTM,17247807
 15/03/2020,15,3,2020,1,0,Guatemala,GT,GTM,17247807
+09/04/2020,9,4,2020,15,1,Guernsey,GG,GGY,63026
+08/04/2020,8,4,2020,1,0,Guernsey,GG,GGY,63026
 07/04/2020,7,4,2020,11,1,Guernsey,GG,GGY,63026
 06/04/2020,6,4,2020,18,1,Guernsey,GG,GGY,63026
 05/04/2020,5,4,2020,22,0,Guernsey,GG,GGY,63026
@@ -3649,6 +3813,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Guernsey,GG,GGY,63026
 21/03/2020,21,3,2020,0,0,Guernsey,GG,GGY,63026
 20/03/2020,20,3,2020,1,0,Guernsey,GG,GGY,63026
+09/04/2020,9,4,2020,20,0,Guinea,GN,GIN,12414318
+08/04/2020,8,4,2020,16,0,Guinea,GN,GIN,12414318
 07/04/2020,7,4,2020,7,0,Guinea,GN,GIN,12414318
 06/04/2020,6,4,2020,10,0,Guinea,GN,GIN,12414318
 05/04/2020,5,4,2020,59,0,Guinea,GN,GIN,12414318
@@ -3673,6 +3839,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Guinea,GN,GIN,12414318
 15/03/2020,15,3,2020,0,0,Guinea,GN,GIN,12414318
 14/03/2020,14,3,2020,1,0,Guinea,GN,GIN,12414318
+09/04/2020,9,4,2020,0,0,Guinea_Bissau,GW,GNB,1874309
+08/04/2020,8,4,2020,0,0,Guinea_Bissau,GW,GNB,1874309
 07/04/2020,7,4,2020,15,0,Guinea_Bissau,GW,GNB,1874309
 06/04/2020,6,4,2020,0,0,Guinea_Bissau,GW,GNB,1874309
 05/04/2020,5,4,2020,3,0,Guinea_Bissau,GW,GNB,1874309
@@ -3685,6 +3853,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 29/03/2020,29,3,2020,0,0,Guinea_Bissau,GW,GNB,1874309
 28/03/2020,28,3,2020,0,0,Guinea_Bissau,GW,GNB,1874309
 27/03/2020,27,3,2020,2,0,Guinea_Bissau,GW,GNB,1874309
+09/04/2020,9,4,2020,4,1,Guyana,GY,GUY,779004
+08/04/2020,8,4,2020,2,0,Guyana,GY,GUY,779004
 07/04/2020,7,4,2020,2,1,Guyana,GY,GUY,779004
 06/04/2020,6,4,2020,5,0,Guyana,GY,GUY,779004
 05/04/2020,5,4,2020,1,0,Guyana,GY,GUY,779004
@@ -3709,6 +3879,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Guyana,GY,GUY,779004
 16/03/2020,16,3,2020,3,0,Guyana,GY,GUY,779004
 13/03/2020,13,3,2020,1,1,Guyana,GY,GUY,779004
+09/04/2020,9,4,2020,2,0,Haiti,HT,HTI,11123176
+08/04/2020,8,4,2020,1,0,Haiti,HT,HTI,11123176
 07/04/2020,7,4,2020,3,1,Haiti,HT,HTI,11123176
 06/04/2020,6,4,2020,0,0,Haiti,HT,HTI,11123176
 05/04/2020,5,4,2020,3,0,Haiti,HT,HTI,11123176
@@ -3728,6 +3900,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Haiti,HT,HTI,11123176
 21/03/2020,21,3,2020,0,0,Haiti,HT,HTI,11123176
 20/03/2020,20,3,2020,2,0,Haiti,HT,HTI,11123176
+09/04/2020,9,4,2020,1,0,Holy_See,VA,VAT,1000
+08/04/2020,8,4,2020,0,0,Holy_See,VA,VAT,1000
 07/04/2020,7,4,2020,0,0,Holy_See,VA,VAT,1000
 06/04/2020,6,4,2020,0,0,Holy_See,VA,VAT,1000
 05/04/2020,5,4,2020,0,0,Holy_See,VA,VAT,1000
@@ -3752,6 +3926,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Holy_See,VA,VAT,1000
 16/03/2020,16,3,2020,0,0,Holy_See,VA,VAT,1000
 07/03/2020,7,3,2020,1,0,Holy_See,VA,VAT,1000
+09/04/2020,9,4,2020,31,1,Honduras,HN,HND,9587522
+08/04/2020,8,4,2020,7,0,Honduras,HN,HND,9587522
 07/04/2020,7,4,2020,7,0,Honduras,HN,HND,9587522
 06/04/2020,6,4,2020,30,0,Honduras,HN,HND,9587522
 05/04/2020,5,4,2020,4,7,Honduras,HN,HND,9587522
@@ -3777,14 +3953,16 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,3,0,Honduras,HN,HND,9587522
 14/03/2020,14,3,2020,1,0,Honduras,HN,HND,9587522
 12/03/2020,12,3,2020,2,0,Honduras,HN,HND,9587522
+09/04/2020,9,4,2020,85,8,Hungary,HU,HUN,9768785
+08/04/2020,8,4,2020,78,11,Hungary,HU,HUN,9768785
 07/04/2020,7,4,2020,73,9,Hungary,HU,HUN,9768785
 06/04/2020,6,4,2020,11,4,Hungary,HU,HUN,9768785
 05/04/2020,5,4,2020,55,2,Hungary,HU,HUN,9768785
-04/04/2020,4,4,2020,93,11,Hungary,HU,HUN,9768785
-03/04/2020,3,4,2020,60,1,Hungary,HU,HUN,9768785
-02/04/2020,2,4,2020,33,4,Hungary,HU,HUN,9768785
-01/04/2020,1,4,2020,45,1,Hungary,HU,HUN,9768785
-31/03/2020,31,3,2020,0,0,Hungary,HU,HUN,9768785
+04/04/2020,4,4,2020,55,6,Hungary,HU,HUN,9768785
+03/04/2020,3,4,2020,38,5,Hungary,HU,HUN,9768785
+02/04/2020,2,4,2020,60,1,Hungary,HU,HUN,9768785
+01/04/2020,1,4,2020,33,4,Hungary,HU,HUN,9768785
+31/03/2020,31,3,2020,45,1,Hungary,HU,HUN,9768785
 30/03/2020,30,3,2020,39,2,Hungary,HU,HUN,9768785
 29/03/2020,29,3,2020,65,2,Hungary,HU,HUN,9768785
 28/03/2020,28,3,2020,43,1,Hungary,HU,HUN,9768785
@@ -3810,6 +3988,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 08/03/2020,8,3,2020,3,0,Hungary,HU,HUN,9768785
 07/03/2020,7,3,2020,2,0,Hungary,HU,HUN,9768785
 05/03/2020,5,3,2020,2,0,Hungary,HU,HUN,9768785
+09/04/2020,9,4,2020,30,0,Iceland,IS,ISL,353574
+08/04/2020,8,4,2020,24,0,Iceland,IS,ISL,353574
 07/04/2020,7,4,2020,76,2,Iceland,IS,ISL,353574
 06/04/2020,6,4,2020,69,0,Iceland,IS,ISL,353574
 05/04/2020,5,4,2020,53,0,Iceland,IS,ISL,353574
@@ -3909,6 +4089,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Iceland,IS,ISL,353574
 01/01/2020,1,1,2020,0,0,Iceland,IS,ISL,353574
 31/12/2019,31,12,2019,0,0,Iceland,IS,ISL,353574
+09/04/2020,9,4,2020,540,17,India,IN,IND,1352617328
+08/04/2020,8,4,2020,773,35,India,IN,IND,1352617328
 07/04/2020,7,4,2020,354,5,India,IN,IND,1352617328
 06/04/2020,6,4,2020,693,32,India,IN,IND,1352617328
 05/04/2020,5,4,2020,472,9,India,IN,IND,1352617328
@@ -4007,6 +4189,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,India,IN,IND,1352617328
 01/01/2020,1,1,2020,0,0,India,IN,IND,1352617328
 31/12/2019,31,12,2019,0,0,India,IN,IND,1352617328
+09/04/2020,9,4,2020,218,19,Indonesia,ID,IDN,267663435
+08/04/2020,8,4,2020,247,12,Indonesia,ID,IDN,267663435
 07/04/2020,7,4,2020,218,11,Indonesia,ID,IDN,267663435
 06/04/2020,6,4,2020,181,7,Indonesia,ID,IDN,267663435
 05/04/2020,5,4,2020,106,10,Indonesia,ID,IDN,267663435
@@ -4099,6 +4283,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Indonesia,ID,IDN,267663435
 01/01/2020,1,1,2020,0,0,Indonesia,ID,IDN,267663435
 31/12/2019,31,12,2019,0,0,Indonesia,ID,IDN,267663435
+09/04/2020,9,4,2020,1997,121,Iran,IR,IRN,81800269
+08/04/2020,8,4,2020,2089,133,Iran,IR,IRN,81800269
 07/04/2020,7,4,2020,2274,136,Iran,IR,IRN,81800269
 06/04/2020,6,4,2020,2483,151,Iran,IR,IRN,81800269
 05/04/2020,5,4,2020,5275,292,Iran,IR,IRN,81800269
@@ -4198,6 +4384,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Iran,IR,IRN,81800269
 01/01/2020,1,1,2020,0,0,Iran,IR,IRN,81800269
 31/12/2019,31,12,2019,0,0,Iran,IR,IRN,81800269
+09/04/2020,9,4,2020,171,5,Iraq,IQ,IRQ,38433600
+08/04/2020,8,4,2020,0,0,Iraq,IQ,IRQ,38433600
 07/04/2020,7,4,2020,70,3,Iraq,IQ,IRQ,38433600
 06/04/2020,6,4,2020,83,5,Iraq,IQ,IRQ,38433600
 05/04/2020,5,4,2020,106,2,Iraq,IQ,IRQ,38433600
@@ -4295,6 +4483,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Iraq,IQ,IRQ,38433600
 01/01/2020,1,1,2020,0,0,Iraq,IQ,IRQ,38433600
 31/12/2019,31,12,2019,0,0,Iraq,IQ,IRQ,38433600
+09/04/2020,9,4,2020,515,25,Ireland,IE,IRL,4853506
+08/04/2020,8,4,2020,345,36,Ireland,IE,IRL,4853506
 07/04/2020,7,4,2020,253,16,Ireland,IE,IRL,4853506
 06/04/2020,6,4,2020,507,21,Ireland,IE,IRL,4853506
 05/04/2020,5,4,2020,331,17,Ireland,IE,IRL,4853506
@@ -4392,6 +4582,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Ireland,IE,IRL,4853506
 01/01/2020,1,1,2020,0,0,Ireland,IE,IRL,4853506
 31/12/2019,31,12,2019,0,0,Ireland,IE,IRL,4853506
+09/04/2020,9,4,2020,8,0,Isle_of_Man,IM,IMN,84077
+08/04/2020,8,4,2020,11,0,Isle_of_Man,IM,IMN,84077
 07/04/2020,7,4,2020,12,0,Isle_of_Man,IM,IMN,84077
 06/04/2020,6,4,2020,1,0,Isle_of_Man,IM,IMN,84077
 05/04/2020,5,4,2020,12,0,Isle_of_Man,IM,IMN,84077
@@ -4410,6 +4602,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 23/03/2020,23,3,2020,0,0,Isle_of_Man,IM,IMN,84077
 22/03/2020,22,3,2020,1,0,Isle_of_Man,IM,IMN,84077
 21/03/2020,21,3,2020,1,0,Isle_of_Man,IM,IMN,84077
+09/04/2020,9,4,2020,156,6,Israel,IL,ISR,8883800
+08/04/2020,8,4,2020,344,8,Israel,IL,ISR,8883800
 07/04/2020,7,4,2020,474,8,Israel,IL,ISR,8883800
 06/04/2020,6,4,2020,412,3,Israel,IL,ISR,8883800
 05/04/2020,5,4,2020,590,7,Israel,IL,ISR,8883800
@@ -4506,6 +4700,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Israel,IL,ISR,8883800
 01/01/2020,1,1,2020,0,0,Israel,IL,ISR,8883800
 31/12/2019,31,12,2019,0,0,Israel,IL,ISR,8883800
+09/04/2020,9,4,2020,3836,540,Italy,IT,ITA,60431283
+08/04/2020,8,4,2020,3039,604,Italy,IT,ITA,60431283
 07/04/2020,7,4,2020,3599,636,Italy,IT,ITA,60431283
 06/04/2020,6,4,2020,4316,527,Italy,IT,ITA,60431283
 05/04/2020,5,4,2020,4805,681,Italy,IT,ITA,60431283
@@ -4605,6 +4801,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Italy,IT,ITA,60431283
 01/01/2020,1,1,2020,0,0,Italy,IT,ITA,60431283
 31/12/2019,31,12,2019,0,0,Italy,IT,ITA,60431283
+09/04/2020,9,4,2020,0,1,Jamaica,JM,JAM,2934855
+08/04/2020,8,4,2020,4,0,Jamaica,JM,JAM,2934855
 07/04/2020,7,4,2020,1,0,Jamaica,JM,JAM,2934855
 06/04/2020,6,4,2020,3,0,Jamaica,JM,JAM,2934855
 05/04/2020,5,4,2020,2,0,Jamaica,JM,JAM,2934855
@@ -4631,6 +4829,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 14/03/2020,14,3,2020,2,0,Jamaica,JM,JAM,2934855
 13/03/2020,13,3,2020,4,0,Jamaica,JM,JAM,2934855
 12/03/2020,12,3,2020,2,0,Jamaica,JM,JAM,2934855
+09/04/2020,9,4,2020,351,1,Japan,JP,JPN,126529100
+08/04/2020,8,4,2020,89,0,Japan,JP,JPN,126529100
 07/04/2020,7,4,2020,163,7,Japan,JP,JPN,126529100
 06/04/2020,6,4,2020,383,3,Japan,JP,JPN,126529100
 05/04/2020,5,4,2020,336,1,Japan,JP,JPN,126529100
@@ -4730,6 +4930,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Japan,JP,JPN,126529100
 01/01/2020,1,1,2020,0,0,Japan,JP,JPN,126529100
 31/12/2019,31,12,2019,0,0,Japan,JP,JPN,126529100
+09/04/2020,9,4,2020,0,0,Jersey,JE,JEY,106800
+08/04/2020,8,4,2020,1,0,Jersey,JE,JEY,106800
 07/04/2020,7,4,2020,14,0,Jersey,JE,JEY,106800
 06/04/2020,6,4,2020,32,0,Jersey,JE,JEY,106800
 05/04/2020,5,4,2020,5,1,Jersey,JE,JEY,106800
@@ -4749,6 +4951,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Jersey,JE,JEY,106800
 21/03/2020,21,3,2020,7,0,Jersey,JE,JEY,106800
 20/03/2020,20,3,2020,5,0,Jersey,JE,JEY,106800
+09/04/2020,9,4,2020,9,0,Jordan,JO,JOR,9956011
+08/04/2020,8,4,2020,0,0,Jordan,JO,JOR,9956011
 07/04/2020,7,4,2020,4,1,Jordan,JO,JOR,9956011
 06/04/2020,6,4,2020,22,0,Jordan,JO,JOR,9956011
 05/04/2020,5,4,2020,24,0,Jordan,JO,JOR,9956011
@@ -4775,6 +4979,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 15/03/2020,15,3,2020,0,0,Jordan,JO,JOR,9956011
 08/03/2020,8,3,2020,0,0,Jordan,JO,JOR,9956011
 03/03/2020,3,3,2020,1,0,Jordan,JO,JOR,9956011
+09/04/2020,9,4,2020,55,1,Kazakhstan,KZ,KAZ,18276499
+08/04/2020,8,4,2020,34,0,Kazakhstan,KZ,KAZ,18276499
 07/04/2020,7,4,2020,139,1,Kazakhstan,KZ,KAZ,18276499
 06/04/2020,6,4,2020,71,2,Kazakhstan,KZ,KAZ,18276499
 05/04/2020,5,4,2020,0,0,Kazakhstan,KZ,KAZ,18276499
@@ -4799,6 +5005,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,2,0,Kazakhstan,KZ,KAZ,18276499
 16/03/2020,16,3,2020,3,0,Kazakhstan,KZ,KAZ,18276499
 15/03/2020,15,3,2020,6,0,Kazakhstan,KZ,KAZ,18276499
+09/04/2020,9,4,2020,7,0,Kenya,KE,KEN,51393010
+08/04/2020,8,4,2020,14,2,Kenya,KE,KEN,51393010
 07/04/2020,7,4,2020,16,0,Kenya,KE,KEN,51393010
 06/04/2020,6,4,2020,16,0,Kenya,KE,KEN,51393010
 05/04/2020,5,4,2020,4,0,Kenya,KE,KEN,51393010
@@ -4824,16 +5032,18 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,2,0,Kenya,KE,KEN,51393010
 15/03/2020,15,3,2020,0,0,Kenya,KE,KEN,51393010
 14/03/2020,14,3,2020,1,0,Kenya,KE,KEN,51393010
+09/04/2020,9,4,2020,0,0,Kosovo,XK,XKX,1845300
+08/04/2020,8,4,2020,39,2,Kosovo,XK,XKX,1845300
 07/04/2020,7,4,2020,5,2,Kosovo,XK,XKX,1845300
-06/04/2020,6,4,2020,14,0,Kosovo,XK,XKX,1845300
-05/04/2020,5,4,2020,0,0,Kosovo,XK,XKX,1845300
+06/04/2020,6,4,2020,8,0,Kosovo,XK,XKX,1845300
+05/04/2020,5,4,2020,6,0,Kosovo,XK,XKX,1845300
 04/04/2020,4,4,2020,1,0,Kosovo,XK,XKX,1845300
 03/04/2020,3,4,2020,13,0,Kosovo,XK,XKX,1845300
 02/04/2020,2,4,2020,0,0,Kosovo,XK,XKX,1845300
 01/04/2020,1,4,2020,6,0,Kosovo,XK,XKX,1845300
-31/03/2020,31,3,2020,20,0,Kosovo,XK,XKX,1845300
-30/03/2020,30,3,2020,0,0,Kosovo,XK,XKX,1845300
-29/03/2020,29,3,2020,0,0,Kosovo,XK,XKX,1845300
+31/03/2020,31,3,2020,15,0,Kosovo,XK,XKX,1845300
+30/03/2020,30,3,2020,3,0,Kosovo,XK,XKX,1845300
+29/03/2020,29,3,2020,2,0,Kosovo,XK,XKX,1845300
 28/03/2020,28,3,2020,7,0,Kosovo,XK,XKX,1845300
 27/03/2020,27,3,2020,8,0,Kosovo,XK,XKX,1845300
 26/03/2020,26,3,2020,8,0,Kosovo,XK,XKX,1845300
@@ -4847,6 +5057,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 18/03/2020,18,3,2020,17,0,Kosovo,XK,XKX,1845300
 17/03/2020,17,3,2020,0,0,Kosovo,XK,XKX,1845300
 16/03/2020,16,3,2020,2,0,Kosovo,XK,XKX,1845300
+09/04/2020,9,4,2020,112,0,Kuwait,KW,KWT,4137309
+08/04/2020,8,4,2020,78,0,Kuwait,KW,KWT,4137309
 07/04/2020,7,4,2020,109,0,Kuwait,KW,KWT,4137309
 06/04/2020,6,4,2020,77,0,Kuwait,KW,KWT,4137309
 05/04/2020,5,4,2020,137,1,Kuwait,KW,KWT,4137309
@@ -4943,6 +5155,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Kuwait,KW,KWT,4137309
 01/01/2020,1,1,2020,0,0,Kuwait,KW,KWT,4137309
 31/12/2019,31,12,2019,0,0,Kuwait,KW,KWT,4137309
+09/04/2020,9,4,2020,10,0,Kyrgyzstan,KG,KGZ,6315800
+08/04/2020,8,4,2020,42,0,Kyrgyzstan,KG,KGZ,6315800
 07/04/2020,7,4,2020,12,0,Kyrgyzstan,KG,KGZ,6315800
 06/04/2020,6,4,2020,72,3,Kyrgyzstan,KG,KGZ,6315800
 05/04/2020,5,4,2020,0,0,Kyrgyzstan,KG,KGZ,6315800
@@ -4963,6 +5177,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 21/03/2020,21,3,2020,0,0,Kyrgyzstan,KG,KGZ,6315800
 20/03/2020,20,3,2020,3,0,Kyrgyzstan,KG,KGZ,6315800
 19/03/2020,19,3,2020,3,0,Kyrgyzstan,KG,KGZ,6315800
+09/04/2020,9,4,2020,3,0,Laos,LA,LAO,7061507
+08/04/2020,8,4,2020,0,0,Laos,LA,LAO,7061507
 07/04/2020,7,4,2020,1,0,Laos,LA,LAO,7061507
 06/04/2020,6,4,2020,1,0,Laos,LA,LAO,7061507
 05/04/2020,5,4,2020,0,0,Laos,LA,LAO,7061507
@@ -4977,6 +5193,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 27/03/2020,27,3,2020,4,0,Laos,LA,LAO,7061507
 26/03/2020,26,3,2020,0,0,Laos,LA,LAO,7061507
 25/03/2020,25,3,2020,2,0,Laos,LA,LAO,7061507
+09/04/2020,9,4,2020,29,0,Latvia,LV,LVA,1926542
+08/04/2020,8,4,2020,6,1,Latvia,LV,LVA,1926542
 07/04/2020,7,4,2020,9,0,Latvia,LV,LVA,1926542
 06/04/2020,6,4,2020,24,0,Latvia,LV,LVA,1926542
 05/04/2020,5,4,2020,16,0,Latvia,LV,LVA,1926542
@@ -5009,6 +5227,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 09/03/2020,9,3,2020,1,0,Latvia,LV,LVA,1926542
 08/03/2020,8,3,2020,1,0,Latvia,LV,LVA,1926542
 03/03/2020,3,3,2020,1,0,Latvia,LV,LVA,1926542
+09/04/2020,9,4,2020,27,0,Lebanon,LB,LBN,6848925
+08/04/2020,8,4,2020,7,0,Lebanon,LB,LBN,6848925
 07/04/2020,7,4,2020,14,1,Lebanon,LB,LBN,6848925
 06/04/2020,6,4,2020,7,1,Lebanon,LB,LBN,6848925
 05/04/2020,5,4,2020,26,1,Lebanon,LB,LBN,6848925
@@ -5104,6 +5324,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Lebanon,LB,LBN,6848925
 01/01/2020,1,1,2020,0,0,Lebanon,LB,LBN,6848925
 31/12/2019,31,12,2019,0,0,Lebanon,LB,LBN,6848925
+09/04/2020,9,4,2020,17,1,Liberia,LR,LBR,4818977
+08/04/2020,8,4,2020,0,0,Liberia,LR,LBR,4818977
 07/04/2020,7,4,2020,1,0,Liberia,LR,LBR,4818977
 06/04/2020,6,4,2020,3,2,Liberia,LR,LBR,4818977
 05/04/2020,5,4,2020,3,1,Liberia,LR,LBR,4818977
@@ -5126,6 +5348,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 19/03/2020,19,3,2020,0,0,Liberia,LR,LBR,4818977
 18/03/2020,18,3,2020,1,0,Liberia,LR,LBR,4818977
 17/03/2020,17,3,2020,1,0,Liberia,LR,LBR,4818977
+09/04/2020,9,4,2020,2,0,Libya,LY,LBY,6678567
+08/04/2020,8,4,2020,1,0,Libya,LY,LBY,6678567
 07/04/2020,7,4,2020,0,0,Libya,LY,LBY,6678567
 06/04/2020,6,4,2020,0,0,Libya,LY,LBY,6678567
 05/04/2020,5,4,2020,7,0,Libya,LY,LBY,6678567
@@ -5140,6 +5364,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 27/03/2020,27,3,2020,0,0,Libya,LY,LBY,6678567
 26/03/2020,26,3,2020,0,0,Libya,LY,LBY,6678567
 25/03/2020,25,3,2020,1,0,Libya,LY,LBY,6678567
+09/04/2020,9,4,2020,1,0,Liechtenstein,LI,LIE,37910
+08/04/2020,8,4,2020,0,0,Liechtenstein,LI,LIE,37910
 07/04/2020,7,4,2020,0,0,Liechtenstein,LI,LIE,37910
 06/04/2020,6,4,2020,1,0,Liechtenstein,LI,LIE,37910
 05/04/2020,5,4,2020,2,1,Liechtenstein,LI,LIE,37910
@@ -5168,6 +5394,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 13/03/2020,13,3,2020,1,0,Liechtenstein,LI,LIE,37910
 12/03/2020,12,3,2020,2,0,Liechtenstein,LI,LIE,37910
 05/03/2020,5,3,2020,1,0,Liechtenstein,LI,LIE,37910
+09/04/2020,9,4,2020,32,0,Lithuania,LT,LTU,2789533
+08/04/2020,8,4,2020,37,1,Lithuania,LT,LTU,2789533
 07/04/2020,7,4,2020,32,1,Lithuania,LT,LTU,2789533
 06/04/2020,6,4,2020,40,4,Lithuania,LT,LTU,2789533
 05/04/2020,5,4,2020,0,0,Lithuania,LT,LTU,2789533
@@ -5258,6 +5486,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Lithuania,LT,LTU,2789533
 01/01/2020,1,1,2020,0,0,Lithuania,LT,LTU,2789533
 31/12/2019,31,12,2019,0,0,Lithuania,LT,LTU,2789533
+09/04/2020,9,4,2020,64,2,Luxembourg,LU,LUX,607728
+08/04/2020,8,4,2020,127,3,Luxembourg,LU,LUX,607728
 07/04/2020,7,4,2020,39,5,Luxembourg,LU,LUX,607728
 06/04/2020,6,4,2020,75,5,Luxembourg,LU,LUX,607728
 05/04/2020,5,4,2020,117,0,Luxembourg,LU,LUX,607728
@@ -5350,6 +5580,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Luxembourg,LU,LUX,607728
 01/01/2020,1,1,2020,0,0,Luxembourg,LU,LUX,607728
 31/12/2019,31,12,2019,0,0,Luxembourg,LU,LUX,607728
+09/04/2020,9,4,2020,8,0,Madagascar,MG,MDG,26262368
+08/04/2020,8,4,2020,8,0,Madagascar,MG,MDG,26262368
 07/04/2020,7,4,2020,5,0,Madagascar,MG,MDG,26262368
 06/04/2020,6,4,2020,1,0,Madagascar,MG,MDG,26262368
 05/04/2020,5,4,2020,6,0,Madagascar,MG,MDG,26262368
@@ -5368,11 +5600,15 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 23/03/2020,23,3,2020,0,0,Madagascar,MG,MDG,26262368
 22/03/2020,22,3,2020,0,0,Madagascar,MG,MDG,26262368
 21/03/2020,21,3,2020,3,0,Madagascar,MG,MDG,26262368
+09/04/2020,9,4,2020,0,0,Malawi,MW,MWI,18143315
+08/04/2020,8,4,2020,3,1,Malawi,MW,MWI,18143315
 07/04/2020,7,4,2020,1,0,Malawi,MW,MWI,18143315
 06/04/2020,6,4,2020,0,0,Malawi,MW,MWI,18143315
 05/04/2020,5,4,2020,1,0,Malawi,MW,MWI,18143315
 04/04/2020,4,4,2020,0,0,Malawi,MW,MWI,18143315
 03/04/2020,3,4,2020,3,0,Malawi,MW,MWI,18143315
+09/04/2020,9,4,2020,156,2,Malaysia,MY,MYS,31528585
+08/04/2020,8,4,2020,170,1,Malaysia,MY,MYS,31528585
 07/04/2020,7,4,2020,131,1,Malaysia,MY,MYS,31528585
 06/04/2020,6,4,2020,179,4,Malaysia,MY,MYS,31528585
 05/04/2020,5,4,2020,150,4,Malaysia,MY,MYS,31528585
@@ -5471,6 +5707,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Malaysia,MY,MYS,31528585
 01/01/2020,1,1,2020,0,0,Malaysia,MY,MYS,31528585
 31/12/2019,31,12,2019,0,0,Malaysia,MY,MYS,31528585
+09/04/2020,9,4,2020,0,0,Maldives,MV,MDV,515696
+08/04/2020,8,4,2020,0,0,Maldives,MV,MDV,515696
 07/04/2020,7,4,2020,0,0,Maldives,MV,MDV,515696
 06/04/2020,6,4,2020,0,0,Maldives,MV,MDV,515696
 05/04/2020,5,4,2020,0,0,Maldives,MV,MDV,515696
@@ -5500,6 +5738,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 11/03/2020,11,3,2020,2,0,Maldives,MV,MDV,515696
 09/03/2020,9,3,2020,2,0,Maldives,MV,MDV,515696
 08/03/2020,8,3,2020,2,0,Maldives,MV,MDV,515696
+09/04/2020,9,4,2020,3,2,Mali,ML,MLI,19077690
+08/04/2020,8,4,2020,9,0,Mali,ML,MLI,19077690
 07/04/2020,7,4,2020,2,0,Mali,ML,MLI,19077690
 06/04/2020,6,4,2020,4,2,Mali,ML,MLI,19077690
 05/04/2020,5,4,2020,2,0,Mali,ML,MLI,19077690
@@ -5513,6 +5753,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 28/03/2020,28,3,2020,0,0,Mali,ML,MLI,19077690
 27/03/2020,27,3,2020,2,0,Mali,ML,MLI,19077690
 26/03/2020,26,3,2020,2,0,Mali,ML,MLI,19077690
+09/04/2020,9,4,2020,6,1,Malta,MT,MLT,483530
+08/04/2020,8,4,2020,52,0,Malta,MT,MLT,483530
 07/04/2020,7,4,2020,7,0,Malta,MT,MLT,483530
 06/04/2020,6,4,2020,21,0,Malta,MT,MLT,483530
 05/04/2020,5,4,2020,11,0,Malta,MT,MLT,483530
@@ -5542,6 +5784,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 12/03/2020,12,3,2020,2,0,Malta,MT,MLT,483530
 10/03/2020,10,3,2020,1,0,Malta,MT,MLT,483530
 08/03/2020,8,3,2020,3,0,Malta,MT,MLT,483530
+09/04/2020,9,4,2020,0,0,Mauritania,MR,MRT,4403319
+08/04/2020,8,4,2020,0,0,Mauritania,MR,MRT,4403319
 07/04/2020,7,4,2020,0,0,Mauritania,MR,MRT,4403319
 06/04/2020,6,4,2020,0,0,Mauritania,MR,MRT,4403319
 05/04/2020,5,4,2020,0,0,Mauritania,MR,MRT,4403319
@@ -5566,6 +5810,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Mauritania,MR,MRT,4403319
 16/03/2020,16,3,2020,0,0,Mauritania,MR,MRT,4403319
 15/03/2020,15,3,2020,1,0,Mauritania,MR,MRT,4403319
+09/04/2020,9,4,2020,5,0,Mauritius,MU,MUS,1265303
+08/04/2020,8,4,2020,24,0,Mauritius,MU,MUS,1265303
 07/04/2020,7,4,2020,17,0,Mauritius,MU,MUS,1265303
 06/04/2020,6,4,2020,31,0,Mauritius,MU,MUS,1265303
 05/04/2020,5,4,2020,10,0,Mauritius,MU,MUS,1265303
@@ -5585,11 +5831,13 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,2,1,Mauritius,MU,MUS,1265303
 21/03/2020,21,3,2020,9,0,Mauritius,MU,MUS,1265303
 20/03/2020,20,3,2020,3,0,Mauritius,MU,MUS,1265303
+09/04/2020,9,4,2020,396,33,Mexico,MX,MEX,126190788
+08/04/2020,8,4,2020,346,16,Mexico,MX,MEX,126190788
 07/04/2020,7,4,2020,296,31,Mexico,MX,MEX,126190788
 06/04/2020,6,4,2020,253,15,Mexico,MX,MEX,126190788
 05/04/2020,5,4,2020,202,19,Mexico,MX,MEX,126190788
-04/04/2020,4,4,2020,310,23,Mexico,MX,MEX,126190788
-03/04/2020,3,4,2020,0,0,Mexico,MX,MEX,126190788
+04/04/2020,4,4,2020,178,10,Mexico,MX,MEX,126190788
+03/04/2020,3,4,2020,132,13,Mexico,MX,MEX,126190788
 02/04/2020,2,4,2020,163,8,Mexico,MX,MEX,126190788
 01/04/2020,1,4,2020,121,1,Mexico,MX,MEX,126190788
 31/03/2020,31,3,2020,101,8,Mexico,MX,MEX,126190788
@@ -5676,6 +5924,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Mexico,MX,MEX,126190788
 01/01/2020,1,1,2020,0,0,Mexico,MX,MEX,126190788
 31/12/2019,31,12,2019,0,0,Mexico,MX,MEX,126190788
+09/04/2020,9,4,2020,118,5,Moldova,MD,MDA,3545883
+08/04/2020,8,4,2020,91,3,Moldova,MD,MDA,3545883
 07/04/2020,7,4,2020,101,4,Moldova,MD,MDA,3545883
 06/04/2020,6,4,2020,112,3,Moldova,MD,MDA,3545883
 05/04/2020,5,4,2020,161,4,Moldova,MD,MDA,3545883
@@ -5705,6 +5955,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 12/03/2020,12,3,2020,1,0,Moldova,MD,MDA,3545883
 11/03/2020,11,3,2020,2,0,Moldova,MD,MDA,3545883
 08/03/2020,8,3,2020,1,0,Moldova,MD,MDA,3545883
+09/04/2020,9,4,2020,2,0,Monaco,MC,MCO,38682
+08/04/2020,8,4,2020,2,0,Monaco,MC,MCO,38682
 07/04/2020,7,4,2020,4,0,Monaco,MC,MCO,38682
 06/04/2020,6,4,2020,7,0,Monaco,MC,MCO,38682
 05/04/2020,5,4,2020,2,2,Monaco,MC,MCO,38682
@@ -5792,6 +6044,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Monaco,MC,MCO,38682
 01/01/2020,1,1,2020,0,0,Monaco,MC,MCO,38682
 31/12/2019,31,12,2019,0,0,Monaco,MC,MCO,38682
+09/04/2020,9,4,2020,1,0,Mongolia,MN,MNG,3170208
+08/04/2020,8,4,2020,0,0,Mongolia,MN,MNG,3170208
 07/04/2020,7,4,2020,1,0,Mongolia,MN,MNG,3170208
 06/04/2020,6,4,2020,0,0,Mongolia,MN,MNG,3170208
 05/04/2020,5,4,2020,0,0,Mongolia,MN,MNG,3170208
@@ -5815,6 +6069,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 18/03/2020,18,3,2020,3,0,Mongolia,MN,MNG,3170208
 15/03/2020,15,3,2020,0,0,Mongolia,MN,MNG,3170208
 10/03/2020,10,3,2020,1,0,Mongolia,MN,MNG,3170208
+09/04/2020,9,4,2020,8,0,Montenegro,ME,MNE,622345
+08/04/2020,8,4,2020,8,0,Montenegro,ME,MNE,622345
 07/04/2020,7,4,2020,19,0,Montenegro,ME,MNE,622345
 06/04/2020,6,4,2020,13,0,Montenegro,ME,MNE,622345
 05/04/2020,5,4,2020,27,0,Montenegro,ME,MNE,622345
@@ -5836,6 +6092,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 20/03/2020,20,3,2020,5,0,Montenegro,ME,MNE,622345
 19/03/2020,19,3,2020,6,0,Montenegro,ME,MNE,622345
 18/03/2020,18,3,2020,2,0,Montenegro,ME,MNE,622345
+09/04/2020,9,4,2020,3,0,Montserrat,MS,MSR,5900
+08/04/2020,8,4,2020,0,0,Montserrat,MS,MSR,5900
 07/04/2020,7,4,2020,0,0,Montserrat,MS,MSR,5900
 06/04/2020,6,4,2020,0,0,Montserrat,MS,MSR,5900
 05/04/2020,5,4,2020,1,0,Montserrat,MS,MSR,5900
@@ -5853,6 +6111,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 23/03/2020,23,3,2020,0,0,Montserrat,MS,MSR,5900
 22/03/2020,22,3,2020,0,0,Montserrat,MS,MSR,5900
 21/03/2020,21,3,2020,1,0,Montserrat,MS,MSR,5900
+09/04/2020,9,4,2020,91,3,Morocco,MA,MAR,36029138
+08/04/2020,8,4,2020,64,10,Morocco,MA,MAR,36029138
 07/04/2020,7,4,2020,99,10,Morocco,MA,MAR,36029138
 06/04/2020,6,4,2020,102,11,Morocco,MA,MAR,36029138
 05/04/2020,5,4,2020,211,15,Morocco,MA,MAR,36029138
@@ -5882,6 +6142,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 12/03/2020,12,3,2020,3,1,Morocco,MA,MAR,36029138
 06/03/2020,6,3,2020,1,0,Morocco,MA,MAR,36029138
 03/03/2020,3,3,2020,1,0,Morocco,MA,MAR,36029138
+09/04/2020,9,4,2020,7,0,Mozambique,MZ,MOZ,29495962
+08/04/2020,8,4,2020,0,0,Mozambique,MZ,MOZ,29495962
 07/04/2020,7,4,2020,0,0,Mozambique,MZ,MOZ,29495962
 06/04/2020,6,4,2020,0,0,Mozambique,MZ,MOZ,29495962
 05/04/2020,5,4,2020,0,0,Mozambique,MZ,MOZ,29495962
@@ -5898,6 +6160,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 25/03/2020,25,3,2020,0,0,Mozambique,MZ,MOZ,29495962
 24/03/2020,24,3,2020,0,0,Mozambique,MZ,MOZ,29495962
 23/03/2020,23,3,2020,1,0,Mozambique,MZ,MOZ,29495962
+09/04/2020,9,4,2020,0,2,Myanmar,MM,MMR,53708395
+08/04/2020,8,4,2020,0,0,Myanmar,MM,MMR,53708395
 07/04/2020,7,4,2020,1,0,Myanmar,MM,MMR,53708395
 06/04/2020,6,4,2020,0,0,Myanmar,MM,MMR,53708395
 05/04/2020,5,4,2020,1,0,Myanmar,MM,MMR,53708395
@@ -5914,6 +6178,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 25/03/2020,25,3,2020,1,0,Myanmar,MM,MMR,53708395
 24/03/2020,24,3,2020,2,0,Myanmar,MM,MMR,53708395
 17/03/2020,17,3,2020,0,0,Myanmar,MM,MMR,53708395
+09/04/2020,9,4,2020,0,0,Namibia,NA,NAM,2448255
+08/04/2020,8,4,2020,0,0,Namibia,NA,NAM,2448255
 07/04/2020,7,4,2020,0,0,Namibia,NA,NAM,2448255
 06/04/2020,6,4,2020,2,0,Namibia,NA,NAM,2448255
 05/04/2020,5,4,2020,0,0,Namibia,NA,NAM,2448255
@@ -5938,6 +6204,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Namibia,NA,NAM,2448255
 16/03/2020,16,3,2020,0,0,Namibia,NA,NAM,2448255
 15/03/2020,15,3,2020,2,0,Namibia,NA,NAM,2448255
+09/04/2020,9,4,2020,0,0,Nepal,NP,NPL,28087871
+08/04/2020,8,4,2020,0,0,Nepal,NP,NPL,28087871
 07/04/2020,7,4,2020,0,0,Nepal,NP,NPL,28087871
 06/04/2020,6,4,2020,3,0,Nepal,NP,NPL,28087871
 05/04/2020,5,4,2020,0,0,Nepal,NP,NPL,28087871
@@ -6024,6 +6292,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Nepal,NP,NPL,28087871
 01/01/2020,1,1,2020,0,0,Nepal,NP,NPL,28087871
 31/12/2019,31,12,2019,0,0,Nepal,NP,NPL,28087871
+09/04/2020,9,4,2020,969,147,Netherlands,NL,NLD,17231017
+08/04/2020,8,4,2020,777,234,Netherlands,NL,NLD,17231017
 07/04/2020,7,4,2020,952,101,Netherlands,NL,NLD,17231017
 06/04/2020,6,4,2020,1224,115,Netherlands,NL,NLD,17231017
 05/04/2020,5,4,2020,904,164,Netherlands,NL,NLD,17231017
@@ -6123,6 +6393,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Netherlands,NL,NLD,17231017
 01/01/2020,1,1,2020,0,0,Netherlands,NL,NLD,17231017
 31/12/2019,31,12,2019,0,0,Netherlands,NL,NLD,17231017
+09/04/2020,9,4,2020,0,0,New_Caledonia,NC,NCL,284060
+08/04/2020,8,4,2020,0,0,New_Caledonia,NC,NCL,284060
 07/04/2020,7,4,2020,0,0,New_Caledonia,NC,NCL,284060
 06/04/2020,6,4,2020,0,0,New_Caledonia,NC,NCL,284060
 05/04/2020,5,4,2020,0,0,New_Caledonia,NC,NCL,284060
@@ -6141,6 +6413,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 23/03/2020,23,3,2020,1,0,New_Caledonia,NC,NCL,284060
 22/03/2020,22,3,2020,2,0,New_Caledonia,NC,NCL,284060
 21/03/2020,21,3,2020,2,0,New_Caledonia,NC,NCL,284060
+09/04/2020,9,4,2020,23,0,New_Zealand,NZ,NZL,4885500
+08/04/2020,8,4,2020,26,0,New_Zealand,NZ,NZL,4885500
 07/04/2020,7,4,2020,32,0,New_Zealand,NZ,NZL,4885500
 06/04/2020,6,4,2020,39,0,New_Zealand,NZ,NZL,4885500
 05/04/2020,5,4,2020,48,0,New_Zealand,NZ,NZL,4885500
@@ -6231,6 +6505,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,New_Zealand,NZ,NZL,4885500
 01/01/2020,1,1,2020,0,0,New_Zealand,NZ,NZL,4885500
 31/12/2019,31,12,2019,0,0,New_Zealand,NZ,NZL,4885500
+09/04/2020,9,4,2020,0,0,Nicaragua,NI,NIC,6465513
+08/04/2020,8,4,2020,0,0,Nicaragua,NI,NIC,6465513
 07/04/2020,7,4,2020,1,0,Nicaragua,NI,NIC,6465513
 06/04/2020,6,4,2020,0,0,Nicaragua,NI,NIC,6465513
 05/04/2020,5,4,2020,0,0,Nicaragua,NI,NIC,6465513
@@ -6251,6 +6527,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 21/03/2020,21,3,2020,0,0,Nicaragua,NI,NIC,6465513
 20/03/2020,20,3,2020,0,0,Nicaragua,NI,NIC,6465513
 19/03/2020,19,3,2020,1,0,Nicaragua,NI,NIC,6465513
+09/04/2020,9,4,2020,64,0,Niger,NE,NER,22442948
+08/04/2020,8,4,2020,25,1,Niger,NE,NER,22442948
 07/04/2020,7,4,2020,69,0,Niger,NE,NER,22442948
 06/04/2020,6,4,2020,64,5,Niger,NE,NER,22442948
 05/04/2020,5,4,2020,22,0,Niger,NE,NER,22442948
@@ -6269,6 +6547,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 23/03/2020,23,3,2020,0,0,Niger,NE,NER,22442948
 22/03/2020,22,3,2020,0,0,Niger,NE,NER,22442948
 21/03/2020,21,3,2020,1,0,Niger,NE,NER,22442948
+09/04/2020,9,4,2020,22,0,Nigeria,NG,NGA,195874740
+08/04/2020,8,4,2020,16,1,Nigeria,NG,NGA,195874740
 07/04/2020,7,4,2020,6,0,Nigeria,NG,NGA,195874740
 06/04/2020,6,4,2020,22,1,Nigeria,NG,NGA,195874740
 05/04/2020,5,4,2020,20,2,Nigeria,NG,NGA,195874740
@@ -6357,6 +6637,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Nigeria,NG,NGA,195874740
 01/01/2020,1,1,2020,0,0,Nigeria,NG,NGA,195874740
 31/12/2019,31,12,2019,0,0,Nigeria,NG,NGA,195874740
+09/04/2020,9,4,2020,18,4,North_Macedonia,MK,MKD,2082958
+08/04/2020,8,4,2020,29,5,North_Macedonia,MK,MKD,2082958
 07/04/2020,7,4,2020,87,4,North_Macedonia,MK,MKD,2082958
 06/04/2020,6,4,2020,0,0,North_Macedonia,MK,MKD,2082958
 05/04/2020,5,4,2020,53,5,North_Macedonia,MK,MKD,2082958
@@ -6447,6 +6729,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,North_Macedonia,MK,MKD,2082958
 01/01/2020,1,1,2020,0,0,North_Macedonia,MK,MKD,2082958
 31/12/2019,31,12,2019,0,0,North_Macedonia,MK,MKD,2082958
+09/04/2020,9,4,2020,3,0,Northern_Mariana_Islands,MP,MNP,56882
+08/04/2020,8,4,2020,0,1,Northern_Mariana_Islands,MP,MNP,56882
 07/04/2020,7,4,2020,0,0,Northern_Mariana_Islands,MP,MNP,56882
 06/04/2020,6,4,2020,0,0,Northern_Mariana_Islands,MP,MNP,56882
 05/04/2020,5,4,2020,0,0,Northern_Mariana_Islands,MP,MNP,56882
@@ -6455,6 +6739,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/04/2020,2,4,2020,0,1,Northern_Mariana_Islands,MP,MNP,56882
 01/04/2020,1,4,2020,4,0,Northern_Mariana_Islands,MP,MNP,56882
 31/03/2020,31,3,2020,2,0,Northern_Mariana_Islands,MP,MNP,56882
+09/04/2020,9,4,2020,147,11,Norway,NO,NOR,5314336
+08/04/2020,8,4,2020,108,10,Norway,NO,NOR,5314336
 07/04/2020,7,4,2020,115,1,Norway,NO,NOR,5314336
 06/04/2020,6,4,2020,130,8,Norway,NO,NOR,5314336
 05/04/2020,5,4,2020,302,6,Norway,NO,NOR,5314336
@@ -6554,6 +6840,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Norway,NO,NOR,5314336
 01/01/2020,1,1,2020,0,0,Norway,NO,NOR,5314336
 31/12/2019,31,12,2019,0,0,Norway,NO,NOR,5314336
+09/04/2020,9,4,2020,0,0,Oman,OM,OMN,4829483
+08/04/2020,8,4,2020,48,0,Oman,OM,OMN,4829483
 07/04/2020,7,4,2020,73,0,Oman,OM,OMN,4829483
 06/04/2020,6,4,2020,21,0,Oman,OM,OMN,4829483
 05/04/2020,5,4,2020,46,1,Oman,OM,OMN,4829483
@@ -6647,6 +6935,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Oman,OM,OMN,4829483
 01/01/2020,1,1,2020,0,0,Oman,OM,OMN,4829483
 31/12/2019,31,12,2019,0,0,Oman,OM,OMN,4829483
+09/04/2020,9,4,2020,250,5,Pakistan,PK,PAK,212215030
+08/04/2020,8,4,2020,208,4,Pakistan,PK,PAK,212215030
 07/04/2020,7,4,2020,587,4,Pakistan,PK,PAK,212215030
 06/04/2020,6,4,2020,827,15,Pakistan,PK,PAK,212215030
 05/04/2020,5,4,2020,159,4,Pakistan,PK,PAK,212215030
@@ -6741,6 +7031,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Pakistan,PK,PAK,212215030
 01/01/2020,1,1,2020,0,0,Pakistan,PK,PAK,212215030
 31/12/2019,31,12,2019,0,0,Pakistan,PK,PAK,212215030
+09/04/2020,9,4,2020,3,0,Palestine,PS,PSE,4569087
+08/04/2020,8,4,2020,7,0,Palestine,PS,PSE,4569087
 07/04/2020,7,4,2020,36,0,Palestine,PS,PSE,4569087
 06/04/2020,6,4,2020,62,0,Palestine,PS,PSE,4569087
 04/04/2020,4,4,2020,0,0,Palestine,PS,PSE,4569087
@@ -6771,6 +7063,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 08/03/2020,8,3,2020,3,0,Palestine,PS,PSE,4569087
 07/03/2020,7,3,2020,9,0,Palestine,PS,PSE,4569087
 06/03/2020,6,3,2020,7,0,Palestine,PS,PSE,4569087
+09/04/2020,9,4,2020,279,4,Panama,PA,PAN,4176873
+08/04/2020,8,4,2020,149,4,Panama,PA,PAN,4176873
 07/04/2020,7,4,2020,112,1,Panama,PA,PAN,4176873
 06/04/2020,6,4,2020,187,8,Panama,PA,PAN,4176873
 05/04/2020,5,4,2020,128,5,Panama,PA,PAN,4176873
@@ -6800,6 +7094,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 12/03/2020,12,3,2020,7,0,Panama,PA,PAN,4176873
 11/03/2020,11,3,2020,6,1,Panama,PA,PAN,4176873
 10/03/2020,10,3,2020,1,0,Panama,PA,PAN,4176873
+09/04/2020,9,4,2020,0,0,Papua_New_Guinea,PG,PNG,8606316
+08/04/2020,8,4,2020,1,0,Papua_New_Guinea,PG,PNG,8606316
 07/04/2020,7,4,2020,0,0,Papua_New_Guinea,PG,PNG,8606316
 06/04/2020,6,4,2020,0,0,Papua_New_Guinea,PG,PNG,8606316
 05/04/2020,5,4,2020,0,0,Papua_New_Guinea,PG,PNG,8606316
@@ -6818,6 +7114,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 23/03/2020,23,3,2020,0,0,Papua_New_Guinea,PG,PNG,8606316
 22/03/2020,22,3,2020,0,0,Papua_New_Guinea,PG,PNG,8606316
 21/03/2020,21,3,2020,1,0,Papua_New_Guinea,PG,PNG,8606316
+09/04/2020,9,4,2020,9,0,Paraguay,PY,PRY,6956071
+08/04/2020,8,4,2020,2,0,Paraguay,PY,PRY,6956071
 07/04/2020,7,4,2020,0,0,Paraguay,PY,PRY,6956071
 06/04/2020,6,4,2020,9,2,Paraguay,PY,PRY,6956071
 05/04/2020,5,4,2020,8,0,Paraguay,PY,PRY,6956071
@@ -6845,6 +7143,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 13/03/2020,13,3,2020,1,0,Paraguay,PY,PRY,6956071
 11/03/2020,11,3,2020,4,0,Paraguay,PY,PRY,6956071
 08/03/2020,8,3,2020,1,0,Paraguay,PY,PRY,6956071
+09/04/2020,9,4,2020,1388,14,Peru,PE,PER,31989256
+08/04/2020,8,4,2020,393,15,Peru,PE,PER,31989256
 07/04/2020,7,4,2020,280,9,Peru,PE,PER,31989256
 06/04/2020,6,4,2020,535,10,Peru,PE,PER,31989256
 05/04/2020,5,4,2020,151,12,Peru,PE,PER,31989256
@@ -6876,6 +7176,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 10/03/2020,10,3,2020,2,0,Peru,PE,PER,31989256
 09/03/2020,9,3,2020,6,0,Peru,PE,PER,31989256
 07/03/2020,7,3,2020,1,0,Peru,PE,PER,31989256
+09/04/2020,9,4,2020,106,5,Philippines,PH,PHL,106651922
+08/04/2020,8,4,2020,104,14,Philippines,PH,PHL,106651922
 07/04/2020,7,4,2020,414,11,Philippines,PH,PHL,106651922
 06/04/2020,6,4,2020,152,8,Philippines,PH,PHL,106651922
 05/04/2020,5,4,2020,76,8,Philippines,PH,PHL,106651922
@@ -6971,6 +7273,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Philippines,PH,PHL,106651922
 01/01/2020,1,1,2020,0,0,Philippines,PH,PHL,106651922
 31/12/2019,31,12,2019,0,0,Philippines,PH,PHL,106651922
+09/04/2020,9,4,2020,357,30,Poland,PL,POL,37978548
+08/04/2020,8,4,2020,435,22,Poland,PL,POL,37978548
 07/04/2020,7,4,2020,311,13,Poland,PL,POL,37978548
 06/04/2020,6,4,2020,475,15,Poland,PL,POL,37978548
 05/04/2020,5,4,2020,244,8,Poland,PL,POL,37978548
@@ -7004,6 +7308,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 08/03/2020,8,3,2020,1,0,Poland,PL,POL,37978548
 07/03/2020,7,3,2020,4,0,Poland,PL,POL,37978548
 04/03/2020,4,3,2020,1,0,Poland,PL,POL,37978548
+09/04/2020,9,4,2020,699,35,Portugal,PT,PRT,10281762
+08/04/2020,8,4,2020,712,34,Portugal,PT,PRT,10281762
 07/04/2020,7,4,2020,452,16,Portugal,PT,PRT,10281762
 06/04/2020,6,4,2020,754,29,Portugal,PT,PRT,10281762
 05/04/2020,5,4,2020,638,20,Portugal,PT,PRT,10281762
@@ -7040,6 +7346,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 05/03/2020,5,3,2020,1,0,Portugal,PT,PRT,10281762
 04/03/2020,4,3,2020,2,0,Portugal,PT,PRT,10281762
 03/03/2020,3,3,2020,2,0,Portugal,PT,PRT,10281762
+09/04/2020,9,4,2020,47,1,Puerto_Rico,PR,PRI,3195153
+08/04/2020,8,4,2020,60,2,Puerto_Rico,PR,PRI,3195153
 07/04/2020,7,4,2020,38,1,Puerto_Rico,PR,PRI,3195153
 06/04/2020,6,4,2020,23,2,Puerto_Rico,PR,PRI,3195153
 05/04/2020,5,4,2020,74,3,Puerto_Rico,PR,PRI,3195153
@@ -7051,6 +7359,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 30/03/2020,30,3,2020,27,2,Puerto_Rico,PR,PRI,3195153
 29/03/2020,29,3,2020,36,1,Puerto_Rico,PR,PRI,3195153
 28/03/2020,28,3,2020,64,2,Puerto_Rico,PR,PRI,3195153
+09/04/2020,9,4,2020,153,0,Qatar,QA,QAT,2781677
+08/04/2020,8,4,2020,225,2,Qatar,QA,QAT,2781677
 07/04/2020,7,4,2020,228,0,Qatar,QA,QAT,2781677
 06/04/2020,6,4,2020,279,1,Qatar,QA,QAT,2781677
 05/04/2020,5,4,2020,376,0,Qatar,QA,QAT,2781677
@@ -7146,6 +7456,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Qatar,QA,QAT,2781677
 01/01/2020,1,1,2020,0,0,Qatar,QA,QAT,2781677
 31/12/2019,31,12,2019,0,0,Qatar,QA,QAT,2781677
+09/04/2020,9,4,2020,344,27,Romania,RO,ROU,19473936
+08/04/2020,8,4,2020,360,25,Romania,RO,ROU,19473936
 07/04/2020,7,4,2020,193,9,Romania,RO,ROU,19473936
 06/04/2020,6,4,2020,251,7,Romania,RO,ROU,19473936
 05/04/2020,5,4,2020,430,8,Romania,RO,ROU,19473936
@@ -7243,6 +7555,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Romania,RO,ROU,19473936
 01/01/2020,1,1,2020,0,0,Romania,RO,ROU,19473936
 31/12/2019,31,12,2019,0,0,Romania,RO,ROU,19473936
+09/04/2020,9,4,2020,1175,5,Russia,RU,RUS,144478050
+08/04/2020,8,4,2020,1154,11,Russia,RU,RUS,144478050
 07/04/2020,7,4,2020,954,2,Russia,RU,RUS,144478050
 06/04/2020,6,4,2020,658,2,Russia,RU,RUS,144478050
 05/04/2020,5,4,2020,582,9,Russia,RU,RUS,144478050
@@ -7337,6 +7651,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Russia,RU,RUS,144478050
 01/01/2020,1,1,2020,0,0,Russia,RU,RUS,144478050
 31/12/2019,31,12,2019,0,0,Russia,RU,RUS,144478050
+09/04/2020,9,4,2020,5,0,Rwanda,RW,RWA,12301939
+08/04/2020,8,4,2020,0,0,Rwanda,RW,RWA,12301939
 07/04/2020,7,4,2020,1,0,Rwanda,RW,RWA,12301939
 06/04/2020,6,4,2020,2,0,Rwanda,RW,RWA,12301939
 05/04/2020,5,4,2020,13,0,Rwanda,RW,RWA,12301939
@@ -7361,6 +7677,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Rwanda,RW,RWA,12301939
 16/03/2020,16,3,2020,4,0,Rwanda,RW,RWA,12301939
 15/03/2020,15,3,2020,1,0,Rwanda,RW,RWA,12301939
+09/04/2020,9,4,2020,0,0,Saint_Kitts_and_Nevis,KN,KNA,52441
+08/04/2020,8,4,2020,0,0,Saint_Kitts_and_Nevis,KN,KNA,52441
 07/04/2020,7,4,2020,1,0,Saint_Kitts_and_Nevis,KN,KNA,52441
 06/04/2020,6,4,2020,0,0,Saint_Kitts_and_Nevis,KN,KNA,52441
 05/04/2020,5,4,2020,1,0,Saint_Kitts_and_Nevis,KN,KNA,52441
@@ -7374,6 +7692,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 28/03/2020,28,3,2020,0,0,Saint_Kitts_and_Nevis,KN,KNA,52441
 27/03/2020,27,3,2020,0,0,Saint_Kitts_and_Nevis,KN,KNA,52441
 26/03/2020,26,3,2020,2,0,Saint_Kitts_and_Nevis,KN,KNA,52441
+09/04/2020,9,4,2020,0,0,Saint_Lucia,LC,LCA,181889
+08/04/2020,8,4,2020,0,0,Saint_Lucia,LC,LCA,181889
 07/04/2020,7,4,2020,0,0,Saint_Lucia,LC,LCA,181889
 06/04/2020,6,4,2020,0,0,Saint_Lucia,LC,LCA,181889
 05/04/2020,5,4,2020,1,0,Saint_Lucia,LC,LCA,181889
@@ -7398,6 +7718,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,0,0,Saint_Lucia,LC,LCA,181889
 16/03/2020,16,3,2020,0,0,Saint_Lucia,LC,LCA,181889
 15/03/2020,15,3,2020,2,0,Saint_Lucia,LC,LCA,181889
+09/04/2020,9,4,2020,0,0,Saint_Vincent_and_the_Grenadines,VC,VCT,110210
+08/04/2020,8,4,2020,1,0,Saint_Vincent_and_the_Grenadines,VC,VCT,110210
 07/04/2020,7,4,2020,0,0,Saint_Vincent_and_the_Grenadines,VC,VCT,110210
 06/04/2020,6,4,2020,0,0,Saint_Vincent_and_the_Grenadines,VC,VCT,110210
 05/04/2020,5,4,2020,0,0,Saint_Vincent_and_the_Grenadines,VC,VCT,110210
@@ -7413,6 +7735,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 26/03/2020,26,3,2020,0,0,Saint_Vincent_and_the_Grenadines,VC,VCT,110210
 25/03/2020,25,3,2020,0,0,Saint_Vincent_and_the_Grenadines,VC,VCT,110210
 13/03/2020,13,3,2020,1,0,Saint_Vincent_and_the_Grenadines,VC,VCT,110210
+09/04/2020,9,4,2020,29,0,San_Marino,SM,SMR,33785
+08/04/2020,8,4,2020,2,2,San_Marino,SM,SMR,33785
 07/04/2020,7,4,2020,11,0,San_Marino,SM,SMR,33785
 06/04/2020,6,4,2020,7,0,San_Marino,SM,SMR,33785
 05/04/2020,5,4,2020,8,0,San_Marino,SM,SMR,33785
@@ -7511,6 +7835,9 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,San_Marino,SM,SMR,33785
 01/01/2020,1,1,2020,0,0,San_Marino,SM,SMR,33785
 31/12/2019,31,12,2019,0,0,San_Marino,SM,SMR,33785
+09/04/2020,9,4,2020,4,0,Sao_Tome_and_Principe,ST,STP,211028
+09/04/2020,9,4,2020,137,0,Saudi_Arabia,SA,SAU,33699947
+08/04/2020,8,4,2020,272,3,Saudi_Arabia,SA,SAU,33699947
 07/04/2020,7,4,2020,138,4,Saudi_Arabia,SA,SAU,33699947
 06/04/2020,6,4,2020,206,5,Saudi_Arabia,SA,SAU,33699947
 05/04/2020,5,4,2020,294,8,Saudi_Arabia,SA,SAU,33699947
@@ -7544,6 +7871,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 08/03/2020,8,3,2020,2,0,Saudi_Arabia,SA,SAU,33699947
 06/03/2020,6,3,2020,4,0,Saudi_Arabia,SA,SAU,33699947
 03/03/2020,3,3,2020,1,0,Saudi_Arabia,SA,SAU,33699947
+09/04/2020,9,4,2020,7,0,Senegal,SN,SEN,15854360
+08/04/2020,8,4,2020,11,0,Senegal,SN,SEN,15854360
 07/04/2020,7,4,2020,4,0,Senegal,SN,SEN,15854360
 06/04/2020,6,4,2020,3,0,Senegal,SN,SEN,15854360
 05/04/2020,5,4,2020,12,1,Senegal,SN,SEN,15854360
@@ -7573,6 +7902,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 06/03/2020,6,3,2020,1,0,Senegal,SN,SEN,15854360
 05/03/2020,5,3,2020,2,0,Senegal,SN,SEN,15854360
 03/03/2020,3,3,2020,1,0,Senegal,SN,SEN,15854360
+09/04/2020,9,4,2020,219,4,Serbia,RS,SRB,6982084
+08/04/2020,8,4,2020,247,3,Serbia,RS,SRB,6982084
 07/04/2020,7,4,2020,292,7,Serbia,RS,SRB,6982084
 06/04/2020,6,4,2020,284,7,Serbia,RS,SRB,6982084
 05/04/2020,5,4,2020,148,5,Serbia,RS,SRB,6982084
@@ -7602,6 +7933,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 12/03/2020,12,3,2020,13,0,Serbia,RS,SRB,6982084
 11/03/2020,11,3,2020,4,0,Serbia,RS,SRB,6982084
 07/03/2020,7,3,2020,1,0,Serbia,RS,SRB,6982084
+09/04/2020,9,4,2020,0,0,Seychelles,SC,SYC,96762
+08/04/2020,8,4,2020,0,0,Seychelles,SC,SYC,96762
 07/04/2020,7,4,2020,1,0,Seychelles,SC,SYC,96762
 06/04/2020,6,4,2020,0,0,Seychelles,SC,SYC,96762
 05/04/2020,5,4,2020,0,0,Seychelles,SC,SYC,96762
@@ -7626,6 +7959,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,1,0,Seychelles,SC,SYC,96762
 16/03/2020,16,3,2020,1,0,Seychelles,SC,SYC,96762
 15/03/2020,15,3,2020,2,0,Seychelles,SC,SYC,96762
+09/04/2020,9,4,2020,1,0,Sierra_Leone,SL,SLE,7650154
+08/04/2020,8,4,2020,0,0,Sierra_Leone,SL,SLE,7650154
 07/04/2020,7,4,2020,0,0,Sierra_Leone,SL,SLE,7650154
 06/04/2020,6,4,2020,2,0,Sierra_Leone,SL,SLE,7650154
 05/04/2020,5,4,2020,2,0,Sierra_Leone,SL,SLE,7650154
@@ -7633,6 +7968,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 03/04/2020,3,4,2020,1,0,Sierra_Leone,SL,SLE,7650154
 02/04/2020,2,4,2020,0,0,Sierra_Leone,SL,SLE,7650154
 01/04/2020,1,4,2020,1,0,Sierra_Leone,SL,SLE,7650154
+09/04/2020,9,4,2020,142,0,Singapore,SG,SGP,5638676
+08/04/2020,8,4,2020,106,0,Singapore,SG,SGP,5638676
 07/04/2020,7,4,2020,66,0,Singapore,SG,SGP,5638676
 06/04/2020,6,4,2020,120,0,Singapore,SG,SGP,5638676
 05/04/2020,5,4,2020,75,1,Singapore,SG,SGP,5638676
@@ -7732,6 +8069,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Singapore,SG,SGP,5638676
 01/01/2020,1,1,2020,0,0,Singapore,SG,SGP,5638676
 31/12/2019,31,12,2019,0,0,Singapore,SG,SGP,5638676
+09/04/2020,9,4,2020,0,0,Sint_Maarten,SX,SXM,41486
+08/04/2020,8,4,2020,15,4,Sint_Maarten,SX,SXM,41486
 07/04/2020,7,4,2020,0,0,Sint_Maarten,SX,SXM,41486
 06/04/2020,6,4,2020,2,2,Sint_Maarten,SX,SXM,41486
 05/04/2020,5,4,2020,0,0,Sint_Maarten,SX,SXM,41486
@@ -7745,6 +8084,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 27/03/2020,27,3,2020,0,0,Sint_Maarten,SX,SXM,41486
 26/03/2020,26,3,2020,1,0,Sint_Maarten,SX,SXM,41486
 03/03/2020,3,3,2020,1,0,Sint_Maarten,SX,SXM,41486
+09/04/2020,9,4,2020,101,0,Slovakia,SK,SVK,5447011
+08/04/2020,8,4,2020,47,0,Slovakia,SK,SVK,5447011
 07/04/2020,7,4,2020,49,2,Slovakia,SK,SVK,5447011
 06/04/2020,6,4,2020,14,0,Slovakia,SK,SVK,5447011
 05/04/2020,5,4,2020,21,0,Slovakia,SK,SVK,5447011
@@ -7776,6 +8117,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 09/03/2020,9,3,2020,2,0,Slovakia,SK,SVK,5447011
 08/03/2020,8,3,2020,2,0,Slovakia,SK,SVK,5447011
 07/03/2020,7,3,2020,1,0,Slovakia,SK,SVK,5447011
+09/04/2020,9,4,2020,36,4,Slovenia,SI,SVN,2067372
+08/04/2020,8,4,2020,34,6,Slovenia,SI,SVN,2067372
 07/04/2020,7,4,2020,24,2,Slovenia,SI,SVN,2067372
 06/04/2020,6,4,2020,20,6,Slovenia,SI,SVN,2067372
 05/04/2020,5,4,2020,43,2,Slovenia,SI,SVN,2067372
@@ -7809,6 +8152,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 07/03/2020,7,3,2020,3,0,Slovenia,SI,SVN,2067372
 06/03/2020,6,3,2020,5,0,Slovenia,SI,SVN,2067372
 05/03/2020,5,3,2020,1,0,Slovenia,SI,SVN,2067372
+09/04/2020,9,4,2020,0,0,Somalia,SO,SOM,15008154
+08/04/2020,8,4,2020,1,0,Somalia,SO,SOM,15008154
 07/04/2020,7,4,2020,0,0,Somalia,SO,SOM,15008154
 06/04/2020,6,4,2020,0,0,Somalia,SO,SOM,15008154
 05/04/2020,5,4,2020,2,0,Somalia,SO,SOM,15008154
@@ -7831,6 +8176,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 19/03/2020,19,3,2020,0,0,Somalia,SO,SOM,15008154
 18/03/2020,18,3,2020,0,0,Somalia,SO,SOM,15008154
 17/03/2020,17,3,2020,1,0,Somalia,SO,SOM,15008154
+09/04/2020,9,4,2020,96,5,South_Africa,ZA,ZAF,57779622
+08/04/2020,8,4,2020,63,1,South_Africa,ZA,ZAF,57779622
 07/04/2020,7,4,2020,31,1,South_Africa,ZA,ZAF,57779622
 06/04/2020,6,4,2020,70,2,South_Africa,ZA,ZAF,57779622
 05/04/2020,5,4,2020,80,2,South_Africa,ZA,ZAF,57779622
@@ -7862,6 +8209,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 09/03/2020,9,3,2020,1,0,South_Africa,ZA,ZAF,57779622
 08/03/2020,8,3,2020,1,0,South_Africa,ZA,ZAF,57779622
 06/03/2020,6,3,2020,1,0,South_Africa,ZA,ZAF,57779622
+09/04/2020,9,4,2020,39,4,South_Korea,KR,KOR,51635256
+08/04/2020,8,4,2020,53,8,South_Korea,KR,KOR,51635256
 07/04/2020,7,4,2020,47,6,South_Korea,KR,KOR,51635256
 06/04/2020,6,4,2020,47,3,South_Korea,KR,KOR,51635256
 05/04/2020,5,4,2020,81,6,South_Korea,KR,KOR,51635256
@@ -7961,8 +8310,12 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,South_Korea,KR,KOR,51635256
 01/01/2020,1,1,2020,0,0,South_Korea,KR,KOR,51635256
 31/12/2019,31,12,2019,0,0,South_Korea,KR,KOR,51635256
+09/04/2020,9,4,2020,1,0,South_Sudan,SS,SSD,10975920
+08/04/2020,8,4,2020,0,0,South_Sudan,SS,SSD,10975920
 07/04/2020,7,4,2020,0,0,South_Sudan,SS,SSD,10975920
 06/04/2020,6,4,2020,1,0,South_Sudan,SS,SSD,10975920
+09/04/2020,9,4,2020,6180,757,Spain,ES,ESP,46723749
+08/04/2020,8,4,2020,5478,743,Spain,ES,ESP,46723749
 07/04/2020,7,4,2020,4273,637,Spain,ES,ESP,46723749
 06/04/2020,6,4,2020,6023,674,Spain,ES,ESP,46723749
 05/04/2020,5,4,2020,7026,809,Spain,ES,ESP,46723749
@@ -8062,6 +8415,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Spain,ES,ESP,46723749
 01/01/2020,1,1,2020,0,0,Spain,ES,ESP,46723749
 31/12/2019,31,12,2019,0,0,Spain,ES,ESP,46723749
+09/04/2020,9,4,2020,4,1,Sri_Lanka,LK,LKA,21670000
+08/04/2020,8,4,2020,7,1,Sri_Lanka,LK,LKA,21670000
 07/04/2020,7,4,2020,12,0,Sri_Lanka,LK,LKA,21670000
 06/04/2020,6,4,2020,7,0,Sri_Lanka,LK,LKA,21670000
 05/04/2020,5,4,2020,8,1,Sri_Lanka,LK,LKA,21670000
@@ -8152,6 +8507,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Sri_Lanka,LK,LKA,21670000
 01/01/2020,1,1,2020,0,0,Sri_Lanka,LK,LKA,21670000
 31/12/2019,31,12,2019,0,0,Sri_Lanka,LK,LKA,21670000
+09/04/2020,9,4,2020,0,0,Sudan,SD,SDN,41801533
+08/04/2020,8,4,2020,2,0,Sudan,SD,SDN,41801533
 07/04/2020,7,4,2020,0,0,Sudan,SD,SDN,41801533
 06/04/2020,6,4,2020,2,0,Sudan,SD,SDN,41801533
 05/04/2020,5,4,2020,3,0,Sudan,SD,SDN,41801533
@@ -8177,6 +8534,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,0,0,Sudan,SD,SDN,41801533
 15/03/2020,15,3,2020,0,1,Sudan,SD,SDN,41801533
 14/03/2020,14,3,2020,1,0,Sudan,SD,SDN,41801533
+09/04/2020,9,4,2020,0,0,Suriname,SR,SUR,575991
+08/04/2020,8,4,2020,0,0,Suriname,SR,SUR,575991
 07/04/2020,7,4,2020,0,0,Suriname,SR,SUR,575991
 06/04/2020,6,4,2020,0,0,Suriname,SR,SUR,575991
 05/04/2020,5,4,2020,0,0,Suriname,SR,SUR,575991
@@ -8196,6 +8555,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,4,0,Suriname,SR,SUR,575991
 21/03/2020,21,3,2020,0,0,Suriname,SR,SUR,575991
 15/03/2020,15,3,2020,1,0,Suriname,SR,SUR,575991
+09/04/2020,9,4,2020,726,96,Sweden,SE,SWE,10183175
+08/04/2020,8,4,2020,487,114,Sweden,SE,SWE,10183175
 07/04/2020,7,4,2020,376,76,Sweden,SE,SWE,10183175
 06/04/2020,6,4,2020,387,28,Sweden,SE,SWE,10183175
 05/04/2020,5,4,2020,365,40,Sweden,SE,SWE,10183175
@@ -8295,6 +8656,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Sweden,SE,SWE,10183175
 01/01/2020,1,1,2020,0,0,Sweden,SE,SWE,10183175
 31/12/2019,31,12,2019,0,0,Sweden,SE,SWE,10183175
+09/04/2020,9,4,2020,546,64,Switzerland,CH,CHE,8516543
+08/04/2020,8,4,2020,590,57,Switzerland,CH,CHE,8516543
 07/04/2020,7,4,2020,552,25,Switzerland,CH,CHE,8516543
 06/04/2020,6,4,2020,821,19,Switzerland,CH,CHE,8516543
 05/04/2020,5,4,2020,974,56,Switzerland,CH,CHE,8516543
@@ -8394,6 +8757,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Switzerland,CH,CHE,8516543
 01/01/2020,1,1,2020,0,0,Switzerland,CH,CHE,8516543
 31/12/2019,31,12,2019,0,0,Switzerland,CH,CHE,8516543
+09/04/2020,9,4,2020,0,0,Syria,SY,SYR,16906283
+08/04/2020,8,4,2020,0,0,Syria,SY,SYR,16906283
 07/04/2020,7,4,2020,0,0,Syria,SY,SYR,16906283
 06/04/2020,6,4,2020,3,0,Syria,SY,SYR,16906283
 05/04/2020,5,4,2020,0,0,Syria,SY,SYR,16906283
@@ -8410,6 +8775,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 25/03/2020,25,3,2020,0,0,Syria,SY,SYR,16906283
 24/03/2020,24,3,2020,0,0,Syria,SY,SYR,16906283
 23/03/2020,23,3,2020,1,0,Syria,SY,SYR,16906283
+09/04/2020,9,4,2020,3,0,Taiwan,TW,TWN,23780452
+08/04/2020,8,4,2020,3,0,Taiwan,TW,TWN,23780452
 07/04/2020,7,4,2020,10,0,Taiwan,TW,TWN,23780452
 06/04/2020,6,4,2020,0,0,Taiwan,TW,TWN,23780452
 05/04/2020,5,4,2020,8,0,Taiwan,TW,TWN,23780452
@@ -8507,6 +8874,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Taiwan,TW,TWN,23780452
 01/01/2020,1,1,2020,0,0,Taiwan,TW,TWN,23780452
 31/12/2019,31,12,2019,0,0,Taiwan,TW,TWN,23780452
+09/04/2020,9,4,2020,54,2,Thailand,TH,THA,69428524
+08/04/2020,8,4,2020,111,4,Thailand,TH,THA,69428524
 07/04/2020,7,4,2020,38,0,Thailand,TH,THA,69428524
 06/04/2020,6,4,2020,51,3,Thailand,TH,THA,69428524
 05/04/2020,5,4,2020,191,4,Thailand,TH,THA,69428524
@@ -8599,6 +8968,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Thailand,TH,THA,69428524
 01/01/2020,1,1,2020,0,0,Thailand,TH,THA,69428524
 31/12/2019,31,12,2019,0,0,Thailand,TH,THA,69428524
+09/04/2020,9,4,2020,0,0,Timor_Leste,TL,TLS,1267972
+08/04/2020,8,4,2020,0,0,Timor_Leste,TL,TLS,1267972
 07/04/2020,7,4,2020,0,0,Timor_Leste,TL,TLS,1267972
 06/04/2020,6,4,2020,0,0,Timor_Leste,TL,TLS,1267972
 05/04/2020,5,4,2020,0,0,Timor_Leste,TL,TLS,1267972
@@ -8616,6 +8987,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 24/03/2020,24,3,2020,0,0,Timor_Leste,TL,TLS,1267972
 23/03/2020,23,3,2020,0,0,Timor_Leste,TL,TLS,1267972
 22/03/2020,22,3,2020,1,0,Timor_Leste,TL,TLS,1267972
+09/04/2020,9,4,2020,5,0,Togo,TG,TGO,7889094
+08/04/2020,8,4,2020,7,0,Togo,TG,TGO,7889094
 07/04/2020,7,4,2020,14,0,Togo,TG,TGO,7889094
 06/04/2020,6,4,2020,3,0,Togo,TG,TGO,7889094
 05/04/2020,5,4,2020,1,0,Togo,TG,TGO,7889094
@@ -8641,6 +9014,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,0,0,Togo,TG,TGO,7889094
 15/03/2020,15,3,2020,0,0,Togo,TG,TGO,7889094
 07/03/2020,7,3,2020,1,0,Togo,TG,TGO,7889094
+09/04/2020,9,4,2020,0,0,Trinidad_and_Tobago,TT,TTO,1389858
+08/04/2020,8,4,2020,2,0,Trinidad_and_Tobago,TT,TTO,1389858
 07/04/2020,7,4,2020,1,1,Trinidad_and_Tobago,TT,TTO,1389858
 06/04/2020,6,4,2020,1,1,Trinidad_and_Tobago,TT,TTO,1389858
 05/04/2020,5,4,2020,3,0,Trinidad_and_Tobago,TT,TTO,1389858
@@ -8667,6 +9042,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 15/03/2020,15,3,2020,0,0,Trinidad_and_Tobago,TT,TTO,1389858
 14/03/2020,14,3,2020,1,0,Trinidad_and_Tobago,TT,TTO,1389858
 13/03/2020,13,3,2020,1,0,Trinidad_and_Tobago,TT,TTO,1389858
+09/04/2020,9,4,2020,27,1,Tunisia,TN,TUN,11565204
+08/04/2020,8,4,2020,22,0,Tunisia,TN,TUN,11565204
 07/04/2020,7,4,2020,21,3,Tunisia,TN,TUN,11565204
 06/04/2020,6,4,2020,58,1,Tunisia,TN,TUN,11565204
 05/04/2020,5,4,2020,40,5,Tunisia,TN,TUN,11565204
@@ -8697,14 +9074,16 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 11/03/2020,11,3,2020,3,0,Tunisia,TN,TUN,11565204
 10/03/2020,10,3,2020,1,0,Tunisia,TN,TUN,11565204
 03/03/2020,3,3,2020,1,0,Tunisia,TN,TUN,11565204
+09/04/2020,9,4,2020,4117,87,Turkey,TR,TUR,82319724
+08/04/2020,8,4,2020,3892,76,Turkey,TR,TUR,82319724
 07/04/2020,7,4,2020,3148,75,Turkey,TR,TUR,82319724
 06/04/2020,6,4,2020,3135,73,Turkey,TR,TUR,82319724
 05/04/2020,5,4,2020,3013,76,Turkey,TR,TUR,82319724
 04/04/2020,4,4,2020,2786,69,Turkey,TR,TUR,82319724
 03/04/2020,3,4,2020,2456,79,Turkey,TR,TUR,82319724
 02/04/2020,2,4,2020,2148,63,Turkey,TR,TUR,82319724
-01/04/2020,1,4,2020,1996,46,Turkey,TR,TUR,82319724
-31/03/2020,31,3,2020,2318,37,Turkey,TR,TUR,82319724
+01/04/2020,1,4,2020,2704,46,Turkey,TR,TUR,82319724
+31/03/2020,31,3,2020,1610,37,Turkey,TR,TUR,82319724
 30/03/2020,30,3,2020,1815,23,Turkey,TR,TUR,82319724
 29/03/2020,29,3,2020,1704,16,Turkey,TR,TUR,82319724
 28/03/2020,28,3,2020,2069,17,Turkey,TR,TUR,82319724
@@ -8722,6 +9101,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,16,0,Turkey,TR,TUR,82319724
 13/03/2020,13,3,2020,1,0,Turkey,TR,TUR,82319724
 12/03/2020,12,3,2020,1,0,Turkey,TR,TUR,82319724
+09/04/2020,9,4,2020,0,0,Turks_and_Caicos_islands,TC,TCA,31458
+08/04/2020,8,4,2020,0,0,Turks_and_Caicos_islands,TC,TCA,31458
 07/04/2020,7,4,2020,3,0,Turks_and_Caicos_islands,TC,TCA,31458
 06/04/2020,6,4,2020,0,1,Turks_and_Caicos_islands,TC,TCA,31458
 05/04/2020,5,4,2020,0,0,Turks_and_Caicos_islands,TC,TCA,31458
@@ -8736,6 +9117,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 27/03/2020,27,3,2020,1,0,Turks_and_Caicos_islands,TC,TCA,31458
 26/03/2020,26,3,2020,0,0,Turks_and_Caicos_islands,TC,TCA,31458
 25/03/2020,25,3,2020,1,0,Turks_and_Caicos_islands,TC,TCA,31458
+09/04/2020,9,4,2020,1,0,Uganda,UG,UGA,42723139
+08/04/2020,8,4,2020,0,0,Uganda,UG,UGA,42723139
 07/04/2020,7,4,2020,0,0,Uganda,UG,UGA,42723139
 06/04/2020,6,4,2020,4,0,Uganda,UG,UGA,42723139
 05/04/2020,5,4,2020,0,0,Uganda,UG,UGA,42723139
@@ -8753,6 +9136,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 24/03/2020,24,3,2020,8,0,Uganda,UG,UGA,42723139
 23/03/2020,23,3,2020,0,0,Uganda,UG,UGA,42723139
 22/03/2020,22,3,2020,1,0,Uganda,UG,UGA,42723139
+09/04/2020,9,4,2020,206,7,Ukraine,UA,UKR,44622516
+08/04/2020,8,4,2020,143,7,Ukraine,UA,UKR,44622516
 07/04/2020,7,4,2020,68,6,Ukraine,UA,UKR,44622516
 06/04/2020,6,4,2020,155,4,Ukraine,UA,UKR,44622516
 05/04/2020,5,4,2020,109,5,Ukraine,UA,UKR,44622516
@@ -8778,6 +9163,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,0,0,Ukraine,UA,UKR,44622516
 13/03/2020,13,3,2020,2,0,Ukraine,UA,UKR,44622516
 04/03/2020,4,3,2020,1,0,Ukraine,UA,UKR,44622516
+09/04/2020,9,4,2020,300,0,United_Arab_Emirates,AE,ARE,9630959
+08/04/2020,8,4,2020,283,1,United_Arab_Emirates,AE,ARE,9630959
 07/04/2020,7,4,2020,277,1,United_Arab_Emirates,AE,ARE,9630959
 06/04/2020,6,4,2020,294,0,United_Arab_Emirates,AE,ARE,9630959
 05/04/2020,5,4,2020,481,2,United_Arab_Emirates,AE,ARE,9630959
@@ -8871,6 +9258,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,United_Arab_Emirates,AE,ARE,9630959
 01/01/2020,1,1,2020,0,0,United_Arab_Emirates,AE,ARE,9630959
 31/12/2019,31,12,2019,0,0,United_Arab_Emirates,AE,ARE,9630959
+09/04/2020,9,4,2020,5491,938,United_Kingdom,UK,GBR,66488991
+08/04/2020,8,4,2020,3634,786,United_Kingdom,UK,GBR,66488991
 07/04/2020,7,4,2020,3802,439,United_Kingdom,UK,GBR,66488991
 06/04/2020,6,4,2020,5903,621,United_Kingdom,UK,GBR,66488991
 05/04/2020,5,4,2020,3735,708,United_Kingdom,UK,GBR,66488991
@@ -8970,6 +9359,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,United_Kingdom,UK,GBR,66488991
 01/01/2020,1,1,2020,0,0,United_Kingdom,UK,GBR,66488991
 31/12/2019,31,12,2019,0,0,United_Kingdom,UK,GBR,66488991
+09/04/2020,9,4,2020,1,0,United_Republic_of_Tanzania,TZ,TZA,56318348
+08/04/2020,8,4,2020,0,0,United_Republic_of_Tanzania,TZ,TZA,56318348
 07/04/2020,7,4,2020,2,0,United_Republic_of_Tanzania,TZ,TZA,56318348
 06/04/2020,6,4,2020,1,0,United_Republic_of_Tanzania,TZ,TZA,56318348
 05/04/2020,5,4,2020,0,0,United_Republic_of_Tanzania,TZ,TZA,56318348
@@ -8992,6 +9383,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 19/03/2020,19,3,2020,2,0,United_Republic_of_Tanzania,TZ,TZA,56318348
 18/03/2020,18,3,2020,0,0,United_Republic_of_Tanzania,TZ,TZA,56318348
 17/03/2020,17,3,2020,1,0,United_Republic_of_Tanzania,TZ,TZA,56318348
+09/04/2020,9,4,2020,33323,1922,United_States_of_America,US,USA,327167434
+08/04/2020,8,4,2020,30613,1906,United_States_of_America,US,USA,327167434
 07/04/2020,7,4,2020,30561,1342,United_States_of_America,US,USA,327167434
 06/04/2020,6,4,2020,25398,1146,United_States_of_America,US,USA,327167434
 05/04/2020,5,4,2020,34272,1344,United_States_of_America,US,USA,327167434
@@ -9091,6 +9484,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,United_States_of_America,US,USA,327167434
 01/01/2020,1,1,2020,0,0,United_States_of_America,US,USA,327167434
 31/12/2019,31,12,2019,0,0,United_States_of_America,US,USA,327167434
+09/04/2020,9,4,2020,0,0,United_States_Virgin_Islands,VI,VIR,106977
+08/04/2020,8,4,2020,3,0,United_States_Virgin_Islands,VI,VIR,106977
 07/04/2020,7,4,2020,0,0,United_States_Virgin_Islands,VI,VIR,106977
 06/04/2020,6,4,2020,2,1,United_States_Virgin_Islands,VI,VIR,106977
 05/04/2020,5,4,2020,0,0,United_States_Virgin_Islands,VI,VIR,106977
@@ -9105,6 +9500,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 26/03/2020,26,3,2020,0,0,United_States_Virgin_Islands,VI,VIR,106977
 25/03/2020,25,3,2020,0,0,United_States_Virgin_Islands,VI,VIR,106977
 24/03/2020,24,3,2020,17,0,United_States_Virgin_Islands,VI,VIR,106977
+09/04/2020,9,4,2020,32,0,Uruguay,UY,URY,3449299
+08/04/2020,8,4,2020,9,1,Uruguay,UY,URY,3449299
 07/04/2020,7,4,2020,9,0,Uruguay,UY,URY,3449299
 06/04/2020,6,4,2020,6,1,Uruguay,UY,URY,3449299
 05/04/2020,5,4,2020,14,1,Uruguay,UY,URY,3449299
@@ -9129,6 +9526,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,21,0,Uruguay,UY,URY,3449299
 16/03/2020,16,3,2020,2,0,Uruguay,UY,URY,3449299
 15/03/2020,15,3,2020,6,0,Uruguay,UY,URY,3449299
+09/04/2020,9,4,2020,51,1,Uzbekistan,UZ,UZB,32955400
+08/04/2020,8,4,2020,107,0,Uzbekistan,UZ,UZB,32955400
 07/04/2020,7,4,2020,55,0,Uzbekistan,UZ,UZB,32955400
 06/04/2020,6,4,2020,76,0,Uzbekistan,UZ,UZB,32955400
 05/04/2020,5,4,2020,39,0,Uzbekistan,UZ,UZB,32955400
@@ -9152,6 +9551,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 18/03/2020,18,3,2020,8,0,Uzbekistan,UZ,UZB,32955400
 17/03/2020,17,3,2020,2,0,Uzbekistan,UZ,UZB,32955400
 16/03/2020,16,3,2020,6,0,Uzbekistan,UZ,UZB,32955400
+09/04/2020,9,4,2020,1,1,Venezuela,VE,VEN,28870195
+08/04/2020,8,4,2020,7,2,Venezuela,VE,VEN,28870195
 07/04/2020,7,4,2020,11,0,Venezuela,VE,VEN,28870195
 06/04/2020,6,4,2020,4,0,Venezuela,VE,VEN,28870195
 05/04/2020,5,4,2020,0,2,Venezuela,VE,VEN,28870195
@@ -9176,6 +9577,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 17/03/2020,17,3,2020,18,0,Venezuela,VE,VEN,28870195
 16/03/2020,16,3,2020,5,0,Venezuela,VE,VEN,28870195
 15/03/2020,15,3,2020,10,0,Venezuela,VE,VEN,28870195
+09/04/2020,9,4,2020,0,0,Vietnam,VN,VNM,95540395
+08/04/2020,8,4,2020,6,0,Vietnam,VN,VNM,95540395
 07/04/2020,7,4,2020,4,0,Vietnam,VN,VNM,95540395
 06/04/2020,6,4,2020,1,0,Vietnam,VN,VNM,95540395
 05/04/2020,5,4,2020,1,0,Vietnam,VN,VNM,95540395
@@ -9271,6 +9674,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Vietnam,VN,VNM,95540395
 01/01/2020,1,1,2020,0,0,Vietnam,VN,VNM,95540395
 31/12/2019,31,12,2019,0,0,Vietnam,VN,VNM,95540395
+09/04/2020,9,4,2020,0,0,Zambia,ZM,ZMB,17351822
+08/04/2020,8,4,2020,0,0,Zambia,ZM,ZMB,17351822
 07/04/2020,7,4,2020,0,0,Zambia,ZM,ZMB,17351822
 06/04/2020,6,4,2020,0,0,Zambia,ZM,ZMB,17351822
 05/04/2020,5,4,2020,0,0,Zambia,ZM,ZMB,17351822
@@ -9291,6 +9696,8 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 21/03/2020,21,3,2020,0,0,Zambia,ZM,ZMB,17351822
 20/03/2020,20,3,2020,0,0,Zambia,ZM,ZMB,17351822
 19/03/2020,19,3,2020,2,0,Zambia,ZM,ZMB,17351822
+09/04/2020,9,4,2020,1,1,Zimbabwe,ZW,ZWE,14439018
+08/04/2020,8,4,2020,1,0,Zimbabwe,ZW,ZWE,14439018
 07/04/2020,7,4,2020,0,0,Zimbabwe,ZW,ZWE,14439018
 06/04/2020,6,4,2020,0,0,Zimbabwe,ZW,ZWE,14439018
 05/04/2020,5,4,2020,0,0,Zimbabwe,ZW,ZWE,14439018
