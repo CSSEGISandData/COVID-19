@@ -177,6 +177,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 704,VN,VNM,704,,,,Vietnam,14.058324,108.277199,Vietnam,97338583
 275,PS,PSE,275,,,,West Bank and Gaza,31.9522,35.2332,West Bank and Gaza,5101416
 732,EH,ESH,732,,,,Western Sahara,24.2155,-12.8858,Western Sahara,597330
+887,YE,YEM,887,,,,Yemen,15.552727,48.516388,Yemen,29825968
 894,ZM,ZMB,894,,,,Zambia,-13.133897,27.849332,Zambia,18383956
 716,ZW,ZWE,716,,,,Zimbabwe,-19.015438,29.154857,Zimbabwe,14862927
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",48865
@@ -324,8 +325,10 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",5174571
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",497240
 84070001,US,USA,840,,,Recovered,US,,,"Recovered, US",
-84070002,US,USA,840,,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,"Dukes and Nantucket, Massachusetts, US",
+84070002,US,USA,840,,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,"Dukes and Nantucket, Massachusetts, US",28731
 84070003,US,USA,840,,Kansas City,Missouri,US,39.0997,-94.5786,"Kansas City, Missouri, US",488943
+84070004,US,USA,840,,Michigan Department of Corrections (MDOC),Michigan,US,,,"Michigan Department of Corrections (MDOC), Michigan",
+84070005,US,USA,840,,Federal Correctional Institution (FCI),Michigan,US,,,"Federal Correctional Institution (FCI), Michigan",
 84080001,US,USA,840,80001,Out of AL,Alabama,US,,,"Out of AL, Alabama, US",
 84080002,US,USA,840,80002,Out of AK,Alaska,US,,,"Out of AK, Alaska, US",
 84080004,US,USA,840,80004,Out of AZ,Arizona,US,,,"Out of AZ, Arizona, US",
