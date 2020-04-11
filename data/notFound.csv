@@ -1,13 +1,12 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Michigan Department of Corrections (MDOC),Michigan,US,335,5.0
-Federal Correctional Institution (FCI),Michigan,US,14,0.0
+Michigan Department of Corrections (MDOC),Michigan,US,364,8.0
+Federal Correctional Institution (FCI),Michigan,US,24,0.0
 Monitor,Texas,US,0,0.0
 Chambers,Georgia,US,0,0.0
 Unassigned,US Military,US,1841,6.0
 Navy,US Military,US,976,4.0
 Air Force,US Military,US,549,1.0
 Army,US Military,US,0,2.0
-Box,Nebraska,US,1,0.0
 "Navajo, AZ",Navajo Nation,US,234,0.0
 "Coconino, AZ",Navajo Nation,US,134,0.0
 "San Juan, NM",Navajo Nation,US,82,0.0
@@ -22,4 +21,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,1765128,107902.0
+,,World,1768019,108178.0
