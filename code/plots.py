@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-08 07:43:26
+# @Last Modified time: 2020-04-11 14:17:01
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -128,7 +128,7 @@ def get_colors(n_group, **kwarg):
 
 """plot_region: get summary plots of a particular region"""
 def get_logistic_params(t, pt, **kwarg):
-	popt_log = np.zeros((3,3))
+	
 	if('maxfev' in kwarg.keys()):
 		maxfev = kwarg['maxfev']
 	else:
@@ -137,15 +137,29 @@ def get_logistic_params(t, pt, **kwarg):
 		bounds = kwarg['bounds']
 	else:
 		bounds = (-np.inf, np.inf)
-	if('p0' in kwarg.keys()):
-		popt_log[0,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t,  pt, p0 = kwarg['p0'], maxfev = maxfev, bounds = bounds)
-		popt_log[1,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-1],  pt[:-1], p0 = kwarg['p0'], maxfev = maxfev, bounds = bounds)
-		popt_log[2,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-2],  pt[:-2], p0 = kwarg['p0'], maxfev = maxfev, bounds = bounds)
+	if('plot_range' in kwarg.keys()):
+		plot_range = kwarg['plot_range']
 	else:
-		popt_log[0,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t,  pt, maxfev = maxfev, bounds = bounds)
-		popt_log[1,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-1],  pt[:-1], maxfev = maxfev, bounds = bounds)
-		popt_log[2,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-2],  pt[:-2], maxfev = maxfev, bounds = bounds)
-	
+		plot_range = True
+	if(plot_range):
+		popt_log = np.zeros((3,3))
+	else:
+		popt_log = np.zeros((1,3))
+	if('p0' in kwarg.keys()):
+		if(plot_range):
+			popt_log[0,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t,  pt, p0 = kwarg['p0'], maxfev = maxfev, bounds = bounds)
+			popt_log[1,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-1],  pt[:-1], p0 = kwarg['p0'], maxfev = maxfev, bounds = bounds)
+			popt_log[2,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-2],  pt[:-2], p0 = kwarg['p0'], maxfev = maxfev, bounds = bounds)
+		else:
+			popt_log[0,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t,  pt, p0 = kwarg['p0'], maxfev = maxfev, bounds = bounds)
+	else:
+		if(plot_range):
+			popt_log[0,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t,  pt, maxfev = maxfev, bounds = bounds)
+			popt_log[1,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-1],  pt[:-1], maxfev = maxfev, bounds = bounds)
+			popt_log[2,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-2],  pt[:-2], maxfev = maxfev, bounds = bounds)
+		else:
+			popt_log[0,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t,  pt, maxfev = maxfev, bounds = bounds)
+	# print(popt_log)
 	return popt_log
 
 def plot_predictions(ax1, tx0, y0, dy0, x1, tx1, popt_logs, scale_factor, color, plot_range):
@@ -171,15 +185,19 @@ def plot_predictions(ax1, tx0, y0, dy0, x1, tx1, popt_logs, scale_factor, color,
 	ax1.set_ylim(bottom = 0)
 	ax2.set_ylim(bottom = 0)
 	y_ends = ys[-1,:]
-	ind_midds = np.zeros((1,3))
+	ind_midds = np.zeros((1,3))-1
+	ind_maxes = np.zeros((1,3))-1
 	for i in i_range:
-		ind_midds[0,i] = list(ys[1:,i] - ys[:-1, i]).index(max(ys[1:,i] - ys[:-1, i]))
+		ind_midds[0,i] = list(ys[1:,i] - ys[:-1, i]).index(max(ys[1:,i] - ys[:-1, i])
+			)
+		if(len(np.argwhere(np.abs(np.diff(ys[:,i]) < 0.1)))):
+			ind_maxes[0,i] = np.argwhere(np.abs(np.diff(ys[:,i]) < 0.1))[0]
 	ax1.set_xlabel('Time')
 	ax1.set_ylabel('Total')
 	ax2.set_ylabel('Daily')
 	ax1.legend(['Total Data', 'Logistic Fit'], loc = 'upper left')
 	ax2.legend(['Daily Data', 'Daily Fitted'], loc = 'center left')
-	return ax1, ax2, y_ends, ind_midds
+	return ax1, ax2, y_ends, ind_midds, ind_maxes
 
 def plot_region(df_region, region_name, **kwarg):
 	######################################################
@@ -421,11 +439,11 @@ def plot_region(df_region, region_name, **kwarg):
 		popt_exp_c, _ = opt.curve_fit(my_func.exp_growth,  tc,  pt_c, p0 = p0_exp, maxfev = maxfev)
 		popt_exp_d, _ = opt.curve_fit(my_func.exp_growth,  td,  pt_d, p0 = p0_exp, maxfev = maxfev)
 		if(future != 0):
-			popt_logs_c = get_logistic_params(tc, pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c)
-			popt_logs_d = get_logistic_params(td, pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_d)
+			popt_logs_c = get_logistic_params(tc, pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c, plot_range = plot_range)
+			popt_logs_d = get_logistic_params(td, pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_d, plot_range = plot_range)
 		else:
-			popt_logs_c, _ = opt.curve_fit(my_func. logistic_growth,  tc,  pt_c, p0 = p0_log, maxfev = maxfev)
-			popt_logs_d, _ = opt.curve_fit(my_func. logistic_growth,  td,  pt_d, p0 = p0_log, maxfev = maxfev)
+			popt_logs_c, _ = opt.curve_fit(my_func. logistic_growth,  tc,  pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c)
+			popt_logs_d, _ = opt.curve_fit(my_func. logistic_growth,  td,  pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_c)
 
 
 		### confirmed fitting plot
@@ -442,14 +460,18 @@ def plot_region(df_region, region_name, **kwarg):
 			ax.set_ylim([0, np.ceil(y_c[-1] + y_c[-1]/10)])
 		else:
 			dy_c = df_region.Daily_Confirmed_smoothed
-			ax1, ax2, y_ends, ind_midds = plot_predictions(ax, tx, y_c, dy_c, x1, tx1, popt_logs_c, 1, plotting_params['cat_color']['Confirmed'], plot_range = plot_range)
-			date_max = []
+			ax1, ax2, y_ends, ind_midds, ind_maxes = plot_predictions(ax, tx, y_c, dy_c, x1, tx1, popt_logs_c, 1, plotting_params['cat_color']['Confirmed'], plot_range = plot_range)
+			date_midds = []
+			date_maxs = []
 			for k in [0,1]:
 				if(k == 0):
-					ind = int(np.min(ind_midds))
+					ind_mid = int(np.min(ind_midds))
+					ind_max = int(np.min(ind_maxes))
 				else:
-					ind = int(np.max(ind_midds))
-				date_max.append(time_datetime[ind_tc] + timedelta(days=ind))
+					ind_mid = int(np.max(ind_midds))
+					ind_max = int(np.max(ind_maxes))
+				date_midds.append(time_datetime[ind_tc] + timedelta(days=ind_mid))
+				date_maxs.append(time_datetime[ind_tc] + timedelta(days=ind_max))
 			confirmed_total = np.mean(y_ends)
 		if(future == 0):
 			ax.legend(['Confirmed', 
@@ -459,10 +481,23 @@ def plot_region(df_region, region_name, **kwarg):
 		else:
 			if(plot_range):
 				ax.set_title(f'{region_name} Confirmed Prediction: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}', fontsize = 14)
-				pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_c[:,0]):.2f}, K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, peak increase at {date_max[0].date()} ~ {date_max[1].date()}'
 			else:
 				ax.set_title(f'{region_name} Confirmed Prediction: K = {np.max(y_ends):,.0f}', fontsize = 14)
-				pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_c[:,0]):.2f}, K = {np.max(y_ends):,.0f}, peak increase at {date_max[0].date()}'
+			pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_c[:,0]):.2f}, '
+			if(plot_range):
+				pp += f'K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, '
+				pp += f'peak increase at {date_midds[0].date()} ~ {date_midds[1].date()}, '
+
+			else:
+				pp += f'K = {np.max(y_ends):,.0f}, '
+				pp += f'peak increase at {date_midds[1].date()}, '
+			if(np.max(ind_maxes) == -1):
+				pp += 'max not reached yet.'
+			else:
+				if(-1 not in ind_maxes):
+					pp += f'max reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}'
+				else:
+					pp += f'max reached at {date_maxs[1].date()}.'
 			print(pp)
 		
 		myLocator = mticker.MultipleLocator(plotting_params['locator_param_future'])
@@ -489,14 +524,19 @@ def plot_region(df_region, region_name, **kwarg):
 				ax.set_ylim([0, np.ceil(y_d[-1] + y_d[-1]/10)])
 			else:
 				dy_d = df_region.Daily_Deaths_smoothed
-				ax1, ax2, y_ends, ind_midds = plot_predictions(ax, tx, y_d, dy_d, x1, tx1, popt_logs_d, 1, plotting_params['cat_color']['Deaths'], plot_range = plot_range)
-				date_max = []
+				ax1, ax2, y_ends, ind_midds, ind_maxes = plot_predictions(ax, tx, y_d, dy_d, x1, tx1, popt_logs_d, 1, plotting_params['cat_color']['Deaths'], plot_range = plot_range)
+				date_midds = []
+				date_maxs = []
 				for k in [0,1]:
 					if(k == 0):
-						ind = int(np.min(ind_midds))
+						ind_mid = int(np.min(ind_midds))
+						ind_max = int(np.min(ind_maxes))
 					else:
-						ind = int(np.max(ind_midds))
-					date_max.append(time_datetime[ind_tc] + timedelta(days=ind))
+						ind_mid = int(np.max(ind_midds))
+						ind_max = int(np.max(ind_maxes))
+					date_midds.append(time_datetime[ind_td] + timedelta(days=ind_mid))
+					date_maxs.append(time_datetime[ind_td] + timedelta(days=ind_max))
+				# print(date_max)
 				deaths_total = np.mean(y_ends)
 			if(future == 0):
 				ax.legend(['Deaths', 
@@ -506,10 +546,23 @@ def plot_region(df_region, region_name, **kwarg):
 			else:
 				if(plot_range):
 					ax.set_title(f'{region_name} Deaths Prediction: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}', fontsize = 14)
-					pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_d[:,0]):.2f}, K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, peak increase at {date_max[0].date()} ~ {date_max[1].date()}'
 				else:
 					ax.set_title(f'{region_name} Deaths Prediction: K = {np.max(y_ends):,.0f}', fontsize = 14)
-					pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_d[:,0]):.2f}, K = {np.max(y_ends):,.0f}, peak increase at {date_max[0].date()}'
+				pp = f'{region_name} Deaths Prediction: r={np.mean(popt_logs_d[:,0]):.2f}, '
+				if(plot_range):
+					pp += f'K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, '
+					pp += f'peak increase at {date_midds[0].date()} ~ {date_midds[1].date()}, '
+				else:
+					pp += f'K = {np.max(y_ends):,.0f}, '
+					pp += f'peak increase at {date_midds[1].date()}, '
+				if(np.max(ind_maxes) == -1):
+					pp += 'max not reached yet.'
+				else:
+					if(-1 not in ind_maxes):
+						pp += f'max reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}'
+					else:
+						pp += f'max reached at {date_maxs[1].date()}.'
+
 				print(pp)
 				
 		myLocator = mticker.MultipleLocator(plotting_params['locator_param_future'])
@@ -520,22 +573,39 @@ def plot_region(df_region, region_name, **kwarg):
 		### confirmed prediction based on death and current CFR
 		if(future != 0 and death_to_confirmed and y_d[-1] > 50):
 			ax = fig.add_subplot(gs[3, 0])
-			ax1, ax2, y_ends, ind_midds = plot_predictions(ax, tx, y_c, dy_c, x1, tx1, popt_logs_d, cfr, plotting_params['cat_color']['Confirmed'], plot_range = plot_range)
-			date_max = []
+			ax1, ax2, y_ends, ind_midds, ind_maxes = plot_predictions(ax, tx, y_c, dy_c, x1, tx1, popt_logs_d, cfr, plotting_params['cat_color']['Confirmed'], plot_range = plot_range)
+			date_midds = []
+			date_maxs = []
 			for k in [0,1]:
 				if(k == 0):
-					ind = int(np.min(ind_midds))
+					ind_mid = int(np.min(ind_midds))
+					ind_max = int(np.min(ind_maxes))
 				else:
-					ind = int(np.max(ind_midds))
-				date_max.append(time_datetime[ind_tc] + timedelta(days=ind))
+					ind_mid = int(np.max(ind_midds))
+					ind_max = int(np.max(ind_maxes))
+				date_midds.append(time_datetime[ind_tc] + timedelta(days=ind_mid))
+				date_maxs.append(time_datetime[ind_tc] + timedelta(days=ind_max))
 			confirmed_total = np.mean(y_ends)
 			
 			if(plot_range):
 				ax.set_title(f'{region_name} Confirmed projection (based on CFR = {cfr*100:.1f}%)\nK = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}')
-				pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_c[:,0]):.2f}, K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, peak increase at {date_max[0].date()} ~ {date_max[1].date()}'
 			else:
 				ax.set_title(f'{region_name} Confirmed projection (based on CFR = {cfr*100:.1f}%)\nK = {np.max(y_ends):,.0f}')
-				pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_c[:,0]):.2f}, K = {np.max(y_ends):,.0f}, peak increase at {date_max[0].date()}'
+			pp = f'{region_name} Confirmed Prediction (based on CFR = {cfr*100:.1f}%): '
+			if(plot_range):
+				pp += f'K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, '
+				pp += f'peak increase at {date_midds[0].date()} ~ {date_midds[1].date()}, '
+
+			else:
+				pp += f'K = {np.max(y_ends):,.0f}, '
+				pp += f'peak increase at {date_midds[1].date()}, '
+			if(np.max(ind_maxes) == -1):
+				pp += 'max not reached yet.'
+			else:
+				if(-1 not in ind_maxes):
+					pp += f'max reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}'
+				else:
+					pp += f'max reached at {date_maxs[1].date()}.'
 			print(pp)
 
 			myLocator = mticker.MultipleLocator(plotting_params['locator_param_future'])
@@ -947,17 +1017,21 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 		num_barplot = kwarg['num_barplot']
 	else:
 		num_barplot = 20
-	if('yscale' in kwarg.keys()):
-		yscale = kwarg['yscale']
+	if('yscales' in kwarg.keys()):
+		yscales = kwarg['yscales']
 	else:
-		yscale = 'log'
+		yscales = ['log', 'log', 'log', 'linear', 'log']
 	if('k_lines' in kwarg.keys()):
 		k_lines = kwarg['k_lines']
 	else:
 		k_lines = [0.2, 0.4, 0.2, 0.4]
+	if('figsize' in kwarg.keys()):
+		figsize = kwarg['figsize']
+	else:
+		figsize = (15, 35)
 	
 	############ figure ############
-	fig = plt.figure(figsize = (15, 30), constrained_layout=True, facecolor="1")
+	fig = plt.figure(figsize = figsize, constrained_layout=True, facecolor="1")
 	ncol = 2
 	ncol_half = int(ncol/2)
 	ncol_lh = int(ncol/2)
@@ -992,7 +1066,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.tick_params(axis = 'x', labelrotation = -90)
 	autolabel(rects1, ax, '{:.1f}')
 	autolabel(rects2, ax, '{:.1f}')
-	ax.set_yscale('log')
+	ax.set_yscale(yscales[4])
 	ymax = np.ceil(np.max(y)*1.2)
 	ax.set_ylim([-0.5, ymax])
 	a = ax.set_title('Top 30 regions by case per million')
@@ -1018,7 +1092,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.tick_params(axis = 'x', labelrotation = -90)
 	autolabel(rects1, ax, '{:.1f}')
 	autolabel(rects2, ax, '{:.1f}')
-	ax.set_yscale('log')
+	ax.set_yscale(yscales[4])
 	ymax = np.ceil(np.max(y)*1.2)
 	ax.set_ylim([-0.5, ymax])
 	a = ax.set_title('Top 30 regions by deaths per million')
@@ -1064,8 +1138,8 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 			   [f'{k_lines[0]*100:.0f}% daily incrase',
 			   f'{k_lines[1]*100:.0f}% daily increase'], 
 			   loc="center right",
-			   bbox_to_anchor = (1, 0, 0.25, 1)) #
-	ax.set_yscale(yscale)
+			   bbox_to_anchor = (1.1, 0, 0.25, 1)) #
+	ax.set_yscale(yscales[0])
 	ax.set_xlabel('Days Since 100 Confirmed Cases')
 	ax.set_title('Confirmed cases by country/region')
 
@@ -1090,10 +1164,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 									  shadow=False, startangle=90,
 									  textprops = dict(size = 12))
 	
-	ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1.01, 0, 0, 1))
+	ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1.12, 0, 0, 1))
 	ax.axis('equal')
 	ax.set_title("Total Confirmed Cases")
-	fig.subplots_adjust(left=0.0,right=0.8)
 
 	############ total deaths: normalized axis ############
 	ax = fig.add_subplot(gs[1, 0:ncol_lh])
@@ -1131,7 +1204,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.plot(x, 10 * (1+k_lines[2]) ** x, ls='--', color='k')
 	ax.plot(x, 10 * (1+k_lines[3]) ** x, ls='-.', color='k')
 
-	ax.set_yscale(yscale)
+	ax.set_yscale(yscales[0])
 
 	ax.set_ylim([10, max_y+max_y/10])
 	ax.set_xlim([0, max_x + 2])
@@ -1140,7 +1213,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 			   [f'{k_lines[2]*100:.0f}% daily incrase',
 				f'{k_lines[3]*100:.0f}% daily increase'],
 			   loc="center right",
-			   bbox_to_anchor = (1.01, 0, 0.25, 1)) #bbox_to_anchor = (1, 0, 0.35, 1)
+			   bbox_to_anchor = (1.1, 0, 0.25, 1)) #bbox_to_anchor = (1, 0, 0.35, 1)
 	ax.set_xlabel('Days since 10 deaths')
 	ax.set_title('Total Deaths')
 
@@ -1164,7 +1237,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 									  autopct = my_autopct, pctdistance=0.8,
 									  shadow=False, startangle=90,
 									  textprops = dict(size = 12))
-	ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1.01, 0, 0, 1))
+	ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1.12, 0, 0, 1))
 	ax.axis('equal')
 	ax.set_title("Total Deaths")
 	fig.subplots_adjust(left=-0.1,right=0.9)
@@ -1202,7 +1275,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 				ax.plot(xi, yi, color = colors[i], linewidth = 3)
 
 	ax.legend(plot_list, loc = 'upper left')
-	ax.set_yscale('linear')
+	ax.set_yscale(yscales[1])
 	ax.set_ylim([0, data_max + data_max/10])
 	ax.set_xlim([0, x_max + 2])
 	a = ax.set_title(f'Daily confirmed cases')
@@ -1242,7 +1315,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 				ax.plot(xi, yi, color = colors[i], linewidth = 3)
 
 	ax.legend(plot_list, loc = 'upper left')
-	ax.set_yscale('linear')
+	ax.set_yscale(yscales[1])
 	ax.set_ylim([0, data_max + data_max/10])
 	ax.set_xlim([0, x_max + 2])
 	a = ax.set_title(f'Daily deaths')
@@ -1254,37 +1327,41 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax = fig.add_subplot(gs[3, 0:ncol_half])
 	print("7,", end = " ")
 
+
 	df_confirmed.sort_values(by = 'GF_today', inplace = True, ascending=False)
 	plot_list = list(df_confirmed.index[0:int(num_barplot)])
+	top_confirmed = list(df_confirmed.sort_values(by = time_datetime[-1], inplace = False, ascending=False).index[0:int(num_barplot)])
 
-	# df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
-	# plot_list = list(df_confirmed.index[0:int(num_barplot/2)])
-	# df_confirmed.sort_values(by = 'GF_today', inplace = True, ascending=False)
-	# plot_list = plot_list + list(df_confirmed.index[0:int(num_barplot/2)])
-	# plot_list = list(set(plot_list))
-	# plot_list = list(df_confirmed.loc[plot_list,:].sort_values(by = time_datetime[-1], inplace = False, ascending=False).index)
-	# plot_list = [ele for ele in df_confirmed.index if df_confirmed.loc[ele,time_datetime[-1]] >= 500]
 
 	df_gf = df_confirmed.loc[plot_list,time_datetime].transpose()
 	for ele in plot_list:
 		df_ele = pd.DataFrame(df_confirmed.loc[ele,time_datetime])
 		df_ele = my_func.reshape_dataframe(df_ele, time_datetime)
 		df_gf[ele] = df_ele.GF_rolling
+	df_gf = df_gf.transpose()
+	df_gf.sort_values(by = time_datetime[-1], ascending = False, inplace = True)
+	plot_list = list(df_gf.index)
+	intersect_list = list(my_func.intersection(plot_list, top_confirmed))
+	true_table = [(i in intersect_list) for i in plot_list]
 
 	x = np.arange(len(plot_list))
 	x1 = np.arange(-2, len(x)+2)
-	y = df_gf.loc[time_datetime[-1],:]
-
-	rects1 = ax.bar(x, y, color = 'grey')
+	y = df_gf.loc[:, time_datetime[-1]]
+	
+	rects1 = ax.bar(x[true_table], y[true_table], color = 'grey')
+	rects2 = ax.bar(x[~np.array(true_table)], y[~np.array(true_table)], color = 'tab:red')
 	ax.plot(x1, np.full(len(x1), 1), '--', color = 'k')
 	a = ax.set_xticks(x)
 	a = ax.set_xticklabels(plot_list)
 	ax.tick_params(axis = 'x', labelrotation = -90)
 	autolabel(rects1, ax, '{:.1f}')
-	ymax = np.ceil(np.max(y)) + 1
-	ax.set_ylim([-0.5, ymax])
+	autolabel(rects2, ax, '{:.1f}')
+	ax.set_yscale(yscales[2])
+	# ymax = np.ceil(np.max(y)) + np.ceil(np.max(y))/2
+	# ax.set_ylim([0, ymax])
 	a = ax.set_title('Growth Factors: Confirmed')
 	ax.set_xlim([-1, len(x) + 0.5])
+	
 
 	############ growth factors: deaths ############
 	ax = fig.add_subplot(gs[3, ncol_half:])
@@ -1292,14 +1369,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 
 	df_deaths.sort_values(by = 'GF_today', inplace = True, ascending=False)
 	plot_list = list(df_deaths.index[0:int(num_barplot)])
-
-	# df_deaths.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
-	# plot_list = list(df_deaths.index[0:int(num_barplot/2)])
-	# df_deaths.sort_values(by = 'GF_today', inplace = True, ascending=False)
-	# plot_list = plot_list + list(df_deaths.index[0:int(num_barplot/2)])
-	# plot_list = list(set(plot_list))
-	# plot_list = list(df_deaths.loc[plot_list,:].sort_values(by = time_datetime[-1], inplace = False, ascending=False).index)
-	# plot_list = [ele for ele in df_confirmed.index if df_confirmed.loc[ele,time_datetime[-1]] >= 500]
+	top_deaths = list(df_deaths.sort_values(by = time_datetime[-1], inplace = False, ascending=False).index[0:int(num_barplot)])
 
 	df_gf = df_deaths.loc[plot_list,time_datetime].transpose()
 	for ele in plot_list:
@@ -1307,21 +1377,29 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 		df_ele = my_func.reshape_dataframe(df_ele, time_datetime)
 		df_gf[ele] = df_ele.GF_rolling
 
+	df_gf = df_gf.transpose()
+	df_gf.sort_values(by = time_datetime[-1], ascending = False, inplace = True)
+	plot_list = list(df_gf.index)
+	intersect_list = list(my_func.intersection(plot_list, top_deaths))
+	true_table = [(i in intersect_list) for i in plot_list]
+
 	x = np.arange(len(plot_list))
 	x1 = np.arange(-2, len(x)+2)
-	y = df_gf.loc[time_datetime[-1],:]
+	y = df_gf.loc[:, time_datetime[-1]]
 
-	rects1 = ax.bar(x, y, color = 'grey')
+	rects1 = ax.bar(x[true_table], y[true_table], color = 'grey')
+	rects2 = ax.bar(x[~np.array(true_table)], y[~np.array(true_table)], color = 'tab:red')
 	ax.plot(x1, np.full(len(x1), 1), '--', color = 'k')
 	a = ax.set_xticks(x)
 	a = ax.set_xticklabels(plot_list)
 	ax.tick_params(axis = 'x', labelrotation = -90)
 	autolabel(rects1, ax, '{:.1f}')
-	ymax = np.ceil(np.max(y)) + 1
-	ax.set_ylim([-0.5, ymax])
+	autolabel(rects2, ax, '{:.1f}')
+	ax.set_yscale(yscales[2])
+	# ymax = np.ceil(np.max(y)) + np.ceil(np.max(y))/2
+	# ax.set_ylim(top = ymax)
 	a = ax.set_title('Growth Factors: Deaths')
 	ax.set_xlim([-1, len(x) + 0.5])
-
 
 
 	############ fatality rate ############
@@ -1349,6 +1427,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.set_ylim([0, ymax])
 	ax.set_xlim([-1, len(x) + 0.5])
 	a = ax.set_title(f'CFRs: global mean = {fr_total:.2f}%')
+	ax.set_yscale(yscales[3])
 
 	########## r for logistic growth fit ############
 	ax = fig.add_subplot(gs[4, ncol_half:])
@@ -1379,6 +1458,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.set_ylim([0, 1])
 	ax.set_xlim([-1, len(x) + 0.5])
 	a = ax.set_title(f'Logistic fitted r, median = {np.median(rs_global):.2f}')
+	ax.set_yscale(yscales[3])
 
 	plt.tight_layout()
 
