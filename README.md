@@ -34,6 +34,8 @@ https://systems.jhu.edu/
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 * Italy machine readable official data source (National, Regional, Province): https://github.com/pcm-dpc/COVID-19/
+* 1Point3Arces: https://coronavirus.1point3acres.com/en
+* WorldoMeters: https://www.worldometers.info/coronavirus/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
