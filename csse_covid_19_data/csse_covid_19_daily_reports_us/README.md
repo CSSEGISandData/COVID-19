@@ -1,1 +1,1 @@
-USA time series data
+USA daily state data
