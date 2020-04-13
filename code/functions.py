@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 15:05:37
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-04 17:09:16
+# @Last Modified time: 2020-04-13 06:40:52
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -92,6 +92,19 @@ def exp_growth(t, r, x0):
 ### logistic growth function
 def logistic_growth(t, r, K, P0):
     return K / (1 + (K - P0)/P0 * np.exp(-r*t))
+
+### getting R^2
+def get_r_squared(x, y, popt, func):
+    if(func == 'exp_growth'):
+        y_fit = exp_growth(x, popt[0], popt[1])
+    elif(func == 'logistic_growth'):
+        y_fit = logistic_growth(x, popt[0], popt[1], popt[2])
+    residuals = y - y_fit
+    ss_res = numpy.sum(residuals**2)
+    ss_tot = numpy.sum((y-numpy.mean(y))**2)
+    r_squared = 1 - (ss_res / ss_tot)
+    return r_squared
+
 
 ######### data processing #########
 ### reshape dataframe so that the index is the dates and the columns are the relative values. better for rolling.

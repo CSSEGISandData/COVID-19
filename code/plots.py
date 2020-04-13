@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-11 14:17:01
+# @Last Modified time: 2020-04-13 06:37:32
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -61,11 +61,12 @@ def autolabel(rects, ax, str_format):
 
 	for rect in rects:
 		height = rect.get_height()
-		ax.annotate(str_format.format(height),
-					xy=(rect.get_x() + rect.get_width() / 2, height),
-					xytext=(0, 3),  # 3 points vertical offset
-					textcoords="offset points",
-					ha='center', va='bottom')
+		if(height > 0):
+			ax.annotate(str_format.format(height),
+						xy=(rect.get_x() + rect.get_width() / 2, height),
+						xytext=(0, 3),  # 3 points vertical offset
+						textcoords="offset points",
+						ha='center', va='bottom')
 
 ### pct settings when plotting pie plot.
 def my_autopct(pct):
@@ -495,7 +496,7 @@ def plot_region(df_region, region_name, **kwarg):
 				pp += 'max not reached yet.'
 			else:
 				if(-1 not in ind_maxes):
-					pp += f'max reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}'
+					pp += f'max reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}.'
 				else:
 					pp += f'max reached at {date_maxs[1].date()}.'
 			print(pp)
@@ -741,7 +742,7 @@ def tests_us_vs_state(df_tests_us_daily, df_tests_onestate_daily, df_us, df_st, 
             ax.set_yscale(kwargs['yscales'][3])
 
 
-def plot_us_tests_by_state(df_us_tests, df_tests_states_daily, df_us_confirmed, num_states, usstate_abbs_mapping):
+def plot_us_tests_by_state(df_us_tests, df_tests_states_daily, df, num_states, usstate_abbs_mapping):
 	############## figure ############
 	fig = plt.figure(figsize = (18, 15), constrained_layout=True, facecolor="1")
 	gs = fig.add_gridspec(3, 3)
@@ -830,7 +831,7 @@ def plot_us_tests_by_state(df_us_tests, df_tests_states_daily, df_us_confirmed, 
 	max_x3 = 0
 	max_y3 = 0
 	
-	states_list = list(df_us_confirmed.index[0:num_states])
+	states_list = list(df.index[0:num_states])
 	
 	for i, state in enumerate(states_list):
 		print(i, end =" ")
@@ -933,7 +934,7 @@ def county_plot(df_today, states, num_counties, figsize, pct_type):
 		df_state.sort_values(by = 'Deaths', inplace = True, ascending=False)
 		percentages = []
 		labels = []
-		total = np.sum(df_state.Confirmed)
+		total = np.sum(df_state.Deaths)
 		for county in list(df_state.index)[:num_counties]:
 			percentages.append(df_state.loc[county, 'Deaths']/np.sum(df_state.Deaths)*100)
 			if(percentages[-1] > 2):
@@ -1007,8 +1008,22 @@ def get_growth_rate(df_ctry, time_str):
 	return np.min(r)
 
 
+### reformat county ticks
+def reformat_xtick(county_list, stat_abbs_mapping):
+	new_list = []
+	for county in county_list:
+		if(len(county.split(', ')) == 2):
+			new_list.append(county.split(', ')[0])
+		else:
+			ct = county.split(', ')[0]
+			st = stat_abbs_mapping[county.split(', ')[1]]
+			new_list.append(f'{ct}, {st}')
+	return new_list
+
 ### plots for different sub-regions of a region
 def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
+
+	############ params ############
 	if('num_lineplot' in kwarg.keys()):
 		num_lineplot = kwarg['num_lineplot']
 	else:
@@ -1029,9 +1044,16 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 		figsize = kwarg['figsize']
 	else:
 		figsize = (15, 35)
+	if('is_format_xtick' in kwarg.keys()):
+		is_format_xtick = kwarg['is_format_xtick']
+	else:
+		is_format_xtick = False
+	if('stat_abbs_mapping' in kwarg.keys()):
+		stat_abbs_mapping = kwarg['stat_abbs_mapping']
 	
+
 	############ figure ############
-	fig = plt.figure(figsize = figsize, constrained_layout=True, facecolor="1")
+	fig = plt.figure(figsize = figsize, constrained_layout=True, facecolor="1", dpi = 72)
 	ncol = 2
 	ncol_half = int(ncol/2)
 	ncol_lh = int(ncol/2)
@@ -1053,24 +1075,33 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	df_confirmed.sort_values(by = 'Per_Million', inplace = True, ascending=False)
 	plot_list = list(df_confirmed.index[0:num_barplot])
 	compare_list = list(df_confirmed.sort_values(by = time_datetime[-1], ascending=False).index[:num_barplot])
-	iH = [i for i in range(len(plot_list)) if plot_list[i] not in compare_list]
-	y = df_confirmed.loc[plot_list, 'Per_Million'].to_numpy()
 	
+	iH = [i for i in range(len(plot_list)) if plot_list[i] not in compare_list]
 
+	y = df_confirmed.loc[plot_list, 'Per_Million'].to_numpy()
 	x = np.arange(len(plot_list))
+
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
 
 	rects1 = ax.bar(x, y, color = 'grey')
 	rects2 = ax.bar(x[iH], y[iH], color = 'tab:red')
+
+	autolabel(rects1, ax, '{:.1f}')
+	autolabel(rects2, ax, '{:.1f}')
+
 	a = ax.set_xticks(x)
 	a = ax.set_xticklabels(plot_list)
 	ax.tick_params(axis = 'x', labelrotation = -90)
-	autolabel(rects1, ax, '{:.1f}')
-	autolabel(rects2, ax, '{:.1f}')
+	ax.set_xlim([-1, len(x) + 0.5])
+
 	ax.set_yscale(yscales[4])
 	ymax = np.ceil(np.max(y)*1.2)
 	ax.set_ylim([-0.5, ymax])
+
 	a = ax.set_title('Top 30 regions by case per million')
-	ax.set_xlim([-1, len(x) + 0.5])
+	
 
 	############ death per million ############
 	ax = fig.add_subplot(gs[5, ncol_half:])
@@ -1079,24 +1110,31 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	df_deaths.sort_values(by = 'Per_Million', inplace = True, ascending=False)
 	plot_list = list(df_deaths.index[0:num_barplot])
 	compare_list = list(df_deaths.sort_values(by = time_datetime[-1], ascending=False).index[:num_barplot])
+
 	iH = [i for i in range(len(plot_list)) if plot_list[i] not in compare_list]
 	y = df_deaths.loc[plot_list, 'Per_Million'].to_numpy()
-	
-
 	x = np.arange(len(plot_list))
+
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
 
 	rects1 = ax.bar(x, y, color = 'grey')
 	rects2 = ax.bar(x[iH], y[iH], color = 'tab:red')
+
+	autolabel(rects1, ax, '{:.1f}')
+	autolabel(rects2, ax, '{:.1f}')
+
 	a = ax.set_xticks(x)
 	a = ax.set_xticklabels(plot_list)
 	ax.tick_params(axis = 'x', labelrotation = -90)
-	autolabel(rects1, ax, '{:.1f}')
-	autolabel(rects2, ax, '{:.1f}')
+	ax.set_xlim([-1, len(x) + 0.5])
+	
 	ax.set_yscale(yscales[4])
 	ymax = np.ceil(np.max(y)*1.2)
 	ax.set_ylim([-0.5, ymax])
+
 	a = ax.set_title('Top 30 regions by deaths per million')
-	ax.set_xlim([-1, len(x) + 0.5])
+	
 
 	############ total confirmed: normalize axis ############
 	ax = fig.add_subplot(gs[0, 0:ncol_lh])
@@ -1132,6 +1170,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.plot(x, 100 * (1+k_lines[0]) ** x, ls='--', color='k')
 	ax.plot(x, 100 * (1+k_lines[1]) ** x, ls='-.', color='k')
 
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
 	ax.set_ylim([100, max_y+max_y/2])
 	ax.set_xlim([0, max_x + 2])
 	ax.legend(plot_list + 
@@ -1155,6 +1196,10 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	for ele in df_confirmed.index[0:num_lineplot]:
 		percentages.append(df_confirmed.loc[ele, time_datetime[-1]]/df_confirmed_total*100)
 		labels.append(ele)
+
+	if(is_format_xtick):
+		labels = reformat_xtick(labels, stat_abbs_mapping)
+
 	labels.append('Rest')
 	percentages.append(100-sum(percentages))
 
@@ -1209,6 +1254,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.set_ylim([10, max_y+max_y/10])
 	ax.set_xlim([0, max_x + 2])
 
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
 	ax.legend(plot_list + 
 			   [f'{k_lines[2]*100:.0f}% daily incrase',
 				f'{k_lines[3]*100:.0f}% daily increase'],
@@ -1229,6 +1277,10 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	for ele in df_deaths.index[0:num_lineplot]:
 		percentages.append(df_deaths.loc[ele, time_datetime[-1]]/df_deaths_total*100)
 		labels.append(ele)
+
+	if(is_format_xtick):
+		labels = reformat_xtick(labels, stat_abbs_mapping)
+
 	labels.append('Rest')
 	percentages.append(100-sum(percentages))
 
@@ -1240,7 +1292,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.legend(wedges, labels, loc="center right", bbox_to_anchor = (1.12, 0, 0, 1))
 	ax.axis('equal')
 	ax.set_title("Total Deaths")
-	fig.subplots_adjust(left=-0.1,right=0.9)
+	# fig.subplots_adjust(left=-0.1,right=0.9)
 
 	############ daily confirmed ############
 	ax = fig.add_subplot(gs[2, 0:ncol_half])
@@ -1273,6 +1325,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 					ax.plot(xi, yi, color = colors[i])
 			else:
 				ax.plot(xi, yi, color = colors[i], linewidth = 3)
+
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
 
 	ax.legend(plot_list, loc = 'upper left')
 	ax.set_yscale(yscales[1])
@@ -1314,6 +1369,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 			else:
 				ax.plot(xi, yi, color = colors[i], linewidth = 3)
 
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
 	ax.legend(plot_list, loc = 'upper left')
 	ax.set_yscale(yscales[1])
 	ax.set_ylim([0, data_max + data_max/10])
@@ -1323,7 +1381,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.set_xlabel('Days Since 10 Deaths')
 
 
-	############ growth factors: confirmed ############
+	########### growth factors: confirmed ############
 	ax = fig.add_subplot(gs[3, 0:ncol_half])
 	print("7,", end = " ")
 
@@ -1334,8 +1392,12 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 
 
 	df_gf = df_confirmed.loc[plot_list,time_datetime].transpose()
+	# print(df_gf.index)
+	# print(df_confirmed.index)
 	for ele in plot_list:
 		df_ele = pd.DataFrame(df_confirmed.loc[ele,time_datetime])
+		# print(df_ele.columns)
+		df_ele.loc[:, ele] = df_ele.loc[:, ele].astype('float')
 		df_ele = my_func.reshape_dataframe(df_ele, time_datetime)
 		df_gf[ele] = df_ele.GF_rolling
 	df_gf = df_gf.transpose()
@@ -1344,25 +1406,33 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	intersect_list = list(my_func.intersection(plot_list, top_confirmed))
 	true_table = [(i in intersect_list) for i in plot_list]
 
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
+
 	x = np.arange(len(plot_list))
 	x1 = np.arange(-2, len(x)+2)
 	y = df_gf.loc[:, time_datetime[-1]]
 	
 	rects1 = ax.bar(x[true_table], y[true_table], color = 'grey')
 	rects2 = ax.bar(x[~np.array(true_table)], y[~np.array(true_table)], color = 'tab:red')
+
+	autolabel(rects1, ax, '{:.1f}')
+	autolabel(rects2, ax, '{:.1f}')
+
 	ax.plot(x1, np.full(len(x1), 1), '--', color = 'k')
 	a = ax.set_xticks(x)
 	a = ax.set_xticklabels(plot_list)
 	ax.tick_params(axis = 'x', labelrotation = -90)
-	autolabel(rects1, ax, '{:.1f}')
-	autolabel(rects2, ax, '{:.1f}')
+	ax.set_xlim([-1, len(x) + 0.5])
+
 	ax.set_yscale(yscales[2])
 	# ymax = np.ceil(np.max(y)) + np.ceil(np.max(y))/2
 	# ax.set_ylim([0, ymax])
-	a = ax.set_title('Growth Factors: Confirmed')
-	ax.set_xlim([-1, len(x) + 0.5])
-	
 
+	a = ax.set_title('Growth Factors: Confirmed')
+	
+	
 	############ growth factors: deaths ############
 	ax = fig.add_subplot(gs[3, ncol_half:])
 	print("7,", end = " ")
@@ -1374,6 +1444,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	df_gf = df_deaths.loc[plot_list,time_datetime].transpose()
 	for ele in plot_list:
 		df_ele = pd.DataFrame(df_confirmed.loc[ele,time_datetime])
+		df_ele.loc[:, ele] = df_ele.loc[:, ele].astype('float')
 		df_ele = my_func.reshape_dataframe(df_ele, time_datetime)
 		df_gf[ele] = df_ele.GF_rolling
 
@@ -1383,24 +1454,30 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	intersect_list = list(my_func.intersection(plot_list, top_deaths))
 	true_table = [(i in intersect_list) for i in plot_list]
 
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
 	x = np.arange(len(plot_list))
 	x1 = np.arange(-2, len(x)+2)
 	y = df_gf.loc[:, time_datetime[-1]]
 
 	rects1 = ax.bar(x[true_table], y[true_table], color = 'grey')
 	rects2 = ax.bar(x[~np.array(true_table)], y[~np.array(true_table)], color = 'tab:red')
+
+	autolabel(rects1, ax, '{:.1f}')
+	autolabel(rects2, ax, '{:.1f}')
+
 	ax.plot(x1, np.full(len(x1), 1), '--', color = 'k')
 	a = ax.set_xticks(x)
 	a = ax.set_xticklabels(plot_list)
 	ax.tick_params(axis = 'x', labelrotation = -90)
-	autolabel(rects1, ax, '{:.1f}')
-	autolabel(rects2, ax, '{:.1f}')
+	ax.set_xlim([-1, len(x) + 0.5])
+
 	ax.set_yscale(yscales[2])
 	# ymax = np.ceil(np.max(y)) + np.ceil(np.max(y))/2
 	# ax.set_ylim(top = ymax)
 	a = ax.set_title('Growth Factors: Deaths')
-	ax.set_xlim([-1, len(x) + 0.5])
-
+	
 
 	############ fatality rate ############
 	ax = fig.add_subplot(gs[4, 0:ncol_half])
@@ -1415,19 +1492,26 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	fr_total = np.sum(df_deaths.loc[:,time_datetime[-1]]) / np.sum(df_confirmed.loc[:,time_datetime[-1]]) * 100
 	y = fatal_rates.loc[plot_list,time_datetime[-1]]
 
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
 	rects1 = ax.bar(x[y<=fr_total], y[y<=fr_total], color = 'tab:grey')
 	rects2 = ax.bar(x[y>fr_total], y[y>fr_total], color = 'tab:red')
 	ax.plot(x1, np.full(len(x1), fr_total), '--', color = 'k')
+	
+	autolabel(rects1, ax, '{:.1f}')
+	autolabel(rects2, ax, '{:.1f}')
+
 	a = ax.set_xticks(x)
 	a = ax.set_xticklabels(plot_list)
 	ax.tick_params(axis = 'x', labelrotation = -90)
-	autolabel(rects1, ax, '{:.1f}')
-	autolabel(rects2, ax, '{:.1f}')
+	ax.set_xlim([-1, len(x) + 0.5])
+	
 	ymax = np.ceil(np.max(fatal_rates.loc[:,time_datetime[-1]]) + 1)
 	ax.set_ylim([0, ymax])
-	ax.set_xlim([-1, len(x) + 0.5])
-	a = ax.set_title(f'CFRs: global mean = {fr_total:.2f}%')
 	ax.set_yscale(yscales[3])
+	
+	a = ax.set_title(f'CFRs: global mean = {fr_total:.2f}%')
 
 	########## r for logistic growth fit ############
 	ax = fig.add_subplot(gs[4, ncol_half:])
@@ -1444,6 +1528,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 		print(f'{i}-', end = "")
 		ele = plot_list[i]
 		df_ele = pd.DataFrame(df_confirmed.loc[ele,time_datetime])
+		df_ele.loc[:, ele] = df_ele.loc[:, ele].astype('float')
 		df_ele = my_func.reshape_dataframe(df_ele, time_datetime)
 		rs_global.append(get_growth_rate(df_ele, time_datetime))
 	rs_global = np.array(rs_global)
@@ -1451,19 +1536,35 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	rects = ax.bar(x[rs_global<1], rs_global[rs_global<1], color = 'tab:grey')
 	ax.bar(x[rs_global>=1], rs_global[rs_global>=1], color = 'tab:grey')
 	ax.plot(x1, np.full(len(x1), np.median(rs_global)), '--', color = 'k')
+
+	autolabel(rects, ax, '{:.2f}')
+
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
 	a = ax.set_xticks(x)
 	a = ax.set_xticklabels(plot_list)
 	ax.tick_params(axis = 'x', labelrotation = -90)
-	autolabel(rects, ax, '{:.2f}')
-	ax.set_ylim([0, 1])
 	ax.set_xlim([-1, len(x) + 0.5])
-	a = ax.set_title(f'Logistic fitted r, median = {np.median(rs_global):.2f}')
+
+	ax.set_ylim([0, 1])
 	ax.set_yscale(yscales[3])
+	
+	a = ax.set_title(f'Logistic fitted r, median = {np.median(rs_global):.2f}')
+	
 
-	plt.tight_layout()
+	# plt.tight_layout()
 
-### plot confirmed% for top sub-regions of a given region over time.
-def plot_confirmed_per_over_time(df_us_confirmed, n, time_datetime):
+### plot percentage change for top sub-regions of a given region over time.
+def plot_percentage_over_time(df, n, **kwarg):
+		
+	time_datetime = list(df.columns)
+
+	if('title' in kwarg.keys()):
+		title = kwarg['title']
+	else:
+		title = 'Percentage of regions over time'
+
 	def format_fn(tick_val, tick_pos):
 		if(tick_val >= 0 and tick_val < len(time_datetime)):
 			return time_datetime[int(tick_val)].date()
@@ -1476,16 +1577,18 @@ def plot_confirmed_per_over_time(df_us_confirmed, n, time_datetime):
 	label_lists = []
 	for x in range(len(time_datetime)):
 		time = time_datetime[x]
-		df_us_confirmed.sort_values(by = time, inplace = True, ascending=False)
-		us_confirmed_total = np.sum(df_us_confirmed.loc[:,time])
+		# print(time)
+		# print(df)
+		df.sort_values(by = time, inplace = True, ascending=False)
+		df_time_total = np.sum(df.loc[:,time])
 		ll = []
-		for i, state in enumerate(df_us_confirmed.index[0:n]):
-			if(df_us_confirmed.loc[state, time] > 0):
+		for i, state in enumerate(df.index[0:n]):
+			if(df.loc[state, time] > 0):
 				ll.append(state)
 				label_lists.append(state)
 			else:
 				ll.append('')
-			percentages[x,i] = (df_us_confirmed.loc[state, time]/us_confirmed_total*100)
+			percentages[x,i] = (df.loc[state, time]/df_time_total*100)
 		percentages[x,n] = (100-np.sum(percentages[x,:]))
 		ll.append('Others')
 		total_labels.append(ll)
@@ -1529,7 +1632,7 @@ def plot_confirmed_per_over_time(df_us_confirmed, n, time_datetime):
 	ax.tick_params(axis = 'x', labelrotation = 45)
 	ax.set_xlim([-1, len(time_datetime) + 0.5])
 	ax.set_ylabel('Percentage')
-	plt.title('Percent of confirmed cases by region over time')
+	plt.title(title)
 	plt.legend(legend, loc='upper center', bbox_to_anchor=(0.5, -0.25), ncol= int(len(legend)/3))
 
 """world case vs. population"""
