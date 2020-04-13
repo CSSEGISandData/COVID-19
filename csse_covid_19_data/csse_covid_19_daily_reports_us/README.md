@@ -1,11 +1,9 @@
 <h1>USA daily state data</h1>
 <br>
-<br>
 This table contains an aggregation of each USA State level data.
 <br>
 <br>
 <h3>Field Definitions: </h3>
-<br>
 <br>
 <b>Province_State</b> - The name of the State within the USA.
 <br>
