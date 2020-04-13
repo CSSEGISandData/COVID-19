@@ -28,7 +28,7 @@ Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
 3. All historic data is archived in [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data).
 
 ---
-## USA daily state data
+## USA daily state reports (csse_covid_19_daily_reports_us)
 
 This table contains an aggregation of each USA State level data.
 
@@ -60,6 +60,7 @@ MM-DD-YYYY.csv in UTC.
 
 ### Data sources
 Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
+
 ---
 ## Time series summary (csse_covid_19_time_series)
 
