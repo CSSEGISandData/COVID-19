@@ -1,44 +1,44 @@
-<b>USA daily state data</b>
+<h1>USA daily state data</h1>
 <br>
 <br>
 This table contains an aggregation of each USA State level data.
 <br>
 <br>
-Field Definitions: 
+<h3>Field Definitions: </h3>
 <br>
 <br>
-Province_State - The name of the State within the USA.
+<b>Province_State</b> - The name of the State within the USA.
 <br>
-Country_Region - The name of the Country (US).
+<b>Country_Region</b> - The name of the Country (US).
 <br>
-Last_Update - The most recent date the file was pushed.
+<b>Last_Update</b> - The most recent date the file was pushed.
 <br>
-Lat - Latitude.
+<b>Lat</b> - Latitude.
 <br>
-Long_ - Longitude.
+<b>Long_</b> - Longitude.
 <br> 
-Confirmed - Aggregated confirmed case count for the state.
+<b>Confirmed</b> - Aggregated confirmed case count for the state.
 <br>
-Deaths - Aggregated Death case count for the state.
+<b>Deaths</b> - Aggregated Death case count for the state.
 <br>
-Recovered - Aggregated Recovered case count for the state.
+<b>Recovered</b> - Aggregated Recovered case count for the state.
 <br>
-Active - Aggregated confirmed cases that have not been resolved (Active = Confirmed - Recovered - Deaths).
+<b>Active</b> - Aggregated confirmed cases that have not been resolved (Active = Confirmed - Recovered - Deaths).
 <br>
-FIPS - Federal Information Processing Standards code that uniquely identifies counties within the USA.
+<b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
 <br>
-Incident_Rate - confirmed cases per 100,000 persons.
+<b>Incident_Rate</b> - confirmed cases per 100,000 persons.
 <br>
-People_Tested - Total number of people who have been tested.
+<b>People_Tested</b> - Total number of people who have been tested.
 <br>
-People_Hospitalized - Total number of people hospitalized.
+<b>People_Hospitalized</b> - Total number of people hospitalized.
 <br>
-Mortality_Rate - Number recorded deaths / Number confirmed cases.
+<b>Mortality_Rate</b> - Number recorded deaths / Number confirmed cases.
 <br>
-UID - Unique Identifier for each row entry. 
+<b>UID</b> - Unique Identifier for each row entry. 
 <br>
-ISO3 - Officialy assigned country code identifiers.
+<b>ISO3</b> - Officialy assigned country code identifiers.
 <br>	
-Testing_Rate - Total number of people tested per 100,000 persons.
+<b>Testing_Rate</b> - Total number of people tested per 100,000 persons.
 <br>
-Hospitalization_Rate - Total number of people hospitalized / Number of confirmed cases.
+<b>Hospitalization_Rate</b> - Total number of people hospitalized / Number of confirmed cases.
