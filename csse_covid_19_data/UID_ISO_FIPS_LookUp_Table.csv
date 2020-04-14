@@ -327,8 +327,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84070001,US,USA,840,,,Recovered,US,,,"Recovered, US",
 84070002,US,USA,840,,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,"Dukes and Nantucket, Massachusetts, US",28731
 84070003,US,USA,840,,Kansas City,Missouri,US,39.0997,-94.5786,"Kansas City, Missouri, US",488943
-84070004,US,USA,840,,Michigan Department of Corrections (MDOC),Michigan,US,,,"Michigan Department of Corrections (MDOC), Michigan",
-84070005,US,USA,840,,Federal Correctional Institution (FCI),Michigan,US,,,"Federal Correctional Institution (FCI), Michigan",
+84070004,US,USA,840,,Michigan Department of Corrections (MDOC),Michigan,US,,,"Michigan Department of Corrections (MDOC), Michigan, US",
+84070005,US,USA,840,,Federal Correctional Institution (FCI),Michigan,US,,,"Federal Correctional Institution (FCI), Michigan, US",
 84080001,US,USA,840,80001,Out of AL,Alabama,US,,,"Out of AL, Alabama, US",
 84080002,US,USA,840,80002,Out of AK,Alaska,US,,,"Out of AK, Alaska, US",
 84080004,US,USA,840,80004,Out of AZ,Arizona,US,,,"Out of AZ, Arizona, US",
@@ -2289,7 +2289,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84036055,US,USA,840,36055,Monroe,New York,US,43.14638895,-77.69322942,"Monroe, New York, US",741770
 84036057,US,USA,840,36057,Montgomery,New York,US,42.90123494,-74.44011632,"Montgomery, New York, US",49221
 84036059,US,USA,840,36059,Nassau,New York,US,40.74066522,-73.58941873,"Nassau, New York, US",1356924
-84036061,US,USA,840,36061,New York City,New York,US,40.7672726,-73.97152637,"New York City, New York, US",5803210
+84036061,US,USA,840,36061,New York City,New York,US,40.7672726,-73.97152637,"New York City, New York, US",8336817
 84036063,US,USA,840,36063,Niagara,New York,US,43.19898042,-78.74777412,"Niagara, New York, US",209281
 84036065,US,USA,840,36065,Oneida,New York,US,43.24375382,-75.43710392,"Oneida, New York, US",228671
 84036067,US,USA,840,36067,Onondaga,New York,US,43.00491923,-76.19971155,"Onondaga, New York, US",460528
