@@ -7,3 +7,8 @@ The files below will no longer be updated. With the release of the new data stru
 time_series_19-covid-Confirmed.csv	<br>
 time_series_19-covid-Deaths.csv	<br>
 time_series_19-covid-Recovered.csv
+
+
+## Data modification records
+* Florida data source error (4/13) - US 682,619 -> 580,619 [time_series_covid19_confirmed_global.csv]
+* Okaloosa, Florida data source error (4/13) - Okaloosa, Florida 102,103 -> 103 [time_series_covid19_confirmed_US.csv]
