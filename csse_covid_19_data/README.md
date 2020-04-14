@@ -28,6 +28,40 @@ Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
 3. All historic data is archived in [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data).
 
 ---
+## USA daily state reports (csse_covid_19_daily_reports_us)
+
+This table contains an aggregation of each USA State level data.
+
+### File naming convention
+MM-DD-YYYY.csv in UTC.
+
+### Field description
+* <b>Province_State</b> - The name of the State within the USA.
+* <b>Country_Region</b> - The name of the Country (US).
+* <b>Last_Update</b> - The most recent date the file was pushed.
+* <b>Lat</b> - Latitude.
+* <b>Long_</b> - Longitude.
+* <b>Confirmed</b> - Aggregated confirmed case count for the state.
+* <b>Deaths</b> - Aggregated Death case count for the state.
+* <b>Recovered</b> - Aggregated Recovered case count for the state.
+* <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active = Confirmed - Recovered - Deaths).
+* <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
+* <b>Incident_Rate</b> - confirmed cases per 100,000 persons.
+* <b>People_Tested</b> - Total number of people who have been tested.
+* <b>People_Hospitalized</b> - Total number of people hospitalized.
+* <b>Mortality_Rate</b> - Number recorded deaths / Number confirmed cases.
+* <b>UID</b> - Unique Identifier for each row entry. 
+* <b>ISO3</b> - Officialy assigned country code identifiers.
+* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons.
+* <b>Hospitalization_Rate</b> - Total number of people hospitalized / Number of confirmed cases.
+
+### Update frequency
+* Once a day around 23:59 (UTC).
+
+### Data sources
+Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
+
+---
 ## Time series summary (csse_covid_19_time_series)
 
 This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data are from the daily case report.
@@ -39,7 +73,7 @@ This folder contains daily time series summary tables, including confirmed, deat
 * Date fields: M/DD/YYYY (UTC), the same data as MM-DD-YYYY.csv file.
 
 ### Update frequency
-* Once a day.
+* Once a day around 23:59 (UTC).
 
 ---
 ## Data modification records
@@ -47,6 +81,8 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * NHC 2/14: Hubei Province deducted 108 prior deaths from the death toll due to double counting.
 * About DP 3/1: All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together, and their location is currently designated at the ship’s port location off the coast of Japan. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
 * Hainan Province active cases update (4/13): We responded to the error from 3/24 to 4/1 we had incorrect data for Hainan Province.  We had -6 active cases (168 6 168 -6). We applied the correction (168 6 162 0) that was applied on 4/2 for this period (3/24 to 4/1).
+* Florida in the daily report US (4/13): Source data error. Correction 123,019 -> 21,019.
+* Okaloosa, Florida in the dail report (4/13): Source data error. Correction 102,103 -> 103.
 
 ---
 ## UID Lookup Table Logic
