@@ -1,12 +1,23 @@
 County,Province_State,Country_Region,Confirmed,Deaths
+Miami-dade,Florida,US,7555,125.0
 De Witt,Texas,US,10,0.0
 Monitor,Texas,US,0,0.0
+Prince Georges,Maryland,US,2356,72.0
+St. Marys,Maryland,US,98,3.0
+Queen Annes,Maryland,US,19,0.0
 Philips,Colorado,US,4,0.0
 Unassigned,US Military,US,2110,7.0
 Navy,US Military,US,1208,6.0
 Air Force,US Military,US,640,1.0
 Army,US Military,US,602,2.0
 Marine Corps,US Military,US,209,0.0
+St Louis,Missouri,US,1851,53.0
+St Louis City,Missouri,US,706,24.0
+St Charles,Missouri,US,384,14.0
+St Francois,Missouri,US,23,1.0
+Ste Genevieve,Missouri,US,7,1.0
+St Clair,Missouri,US,2,0.0
+Hillsborough-Other,New Hampshire,US,153,2.0
 "Navajo, AZ",Navajo Nation,US,251,0.0
 "Coconino, AZ",Navajo Nation,US,159,0.0
 "McKinley, NM",Navajo Nation,US,109,0.0
@@ -23,4 +34,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,,Canada,0,0.0
-,,World,1983219,125145.0
+,,World,1988770,125623.0
