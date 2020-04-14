@@ -1,6 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 De Witt,Texas,US,10,0.0
 Monitor,Texas,US,0,0.0
+Philips,Colorado,US,4,0.0
 Unassigned,US Military,US,2110,7.0
 Navy,US Military,US,1208,6.0
 Air Force,US Military,US,640,1.0
@@ -22,4 +23,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,,Canada,0,0.0
-,,World,1980856,125018.0
+,,World,1983219,125145.0
