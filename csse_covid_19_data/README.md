@@ -28,6 +28,40 @@ Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
 3. All historic data is archived in [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data).
 
 ---
+## USA daily state reports (csse_covid_19_daily_reports_us)
+
+This table contains an aggregation of each USA State level data.
+
+### File naming convention
+MM-DD-YYYY.csv in UTC.
+
+### Field description
+* <b>Province_State</b> - The name of the State within the USA.
+* <b>Country_Region</b> - The name of the Country (US).
+* <b>Last_Update</b> - The most recent date the file was pushed.
+* <b>Lat</b> - Latitude.
+* <b>Long_</b> - Longitude.
+* <b>Confirmed</b> - Aggregated confirmed case count for the state.
+* <b>Deaths</b> - Aggregated Death case count for the state.
+* <b>Recovered</b> - Aggregated Recovered case count for the state.
+* <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active = Confirmed - Recovered - Deaths).
+* <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
+* <b>Incident_Rate</b> - confirmed cases per 100,000 persons.
+* <b>People_Tested</b> - Total number of people who have been tested.
+* <b>People_Hospitalized</b> - Total number of people hospitalized.
+* <b>Mortality_Rate</b> - Number recorded deaths / Number confirmed cases.
+* <b>UID</b> - Unique Identifier for each row entry. 
+* <b>ISO3</b> - Officialy assigned country code identifiers.
+* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons.
+* <b>Hospitalization_Rate</b> - Total number of people hospitalized / Number of confirmed cases.
+
+### Update frequency
+* Once a day around 23:59 (UTC).
+
+### Data sources
+Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
+
+---
 ## Time series summary (csse_covid_19_time_series)
 
 This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data are from the daily case report.
@@ -39,10 +73,37 @@ This folder contains daily time series summary tables, including confirmed, deat
 * Date fields: M/DD/YYYY (UTC), the same data as MM-DD-YYYY.csv file.
 
 ### Update frequency
-* Once a day.
+* Once a day around 23:59 (UTC).
 
 ---
 ## Data modification records
 We are also monitoring the curve change. Any errors made by us will be corrected in the dataset. Any possible errors from the original data sources will be listed here as a reference.
 * NHC 2/14: Hubei Province deducted 108 prior deaths from the death toll due to double counting.
 * About DP 3/1: All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together, and their location is currently designated at the ship’s port location off the coast of Japan. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
+* Hainan Province active cases update (4/13): We responded to the error from 3/24 to 4/1 we had incorrect data for Hainan Province.  We had -6 active cases (168 6 168 -6). We applied the correction (168 6 162 0) that was applied on 4/2 for this period (3/24 to 4/1).
+* Florida in the daily report US (4/13): Source data error. Correction 123,019 -> 21,019.
+* Okaloosa, Florida in the dail report (4/13): Source data error. Correction 102,103 -> 103.
+
+---
+## UID Lookup Table Logic
+
+1.	All countries without dependencies (entries with only Admin0).
+  *	None cruise ship Admin0: UID = code3. (e.g., Afghanistan, UID = code3 = 4)
+  *	Cruise ships in Admin0: Diamond Princess UID = 9999, MS Zaandam UID = 8888.
+2.	All countries with only state-level dependencies (entries with Admin0 and Admin1).
+  *	Demark, France, Netherlands: mother countries and their dependencies have different code3, therefore UID = code 3. (e.g., Faroe Islands, Denmark, UID = code3 = 234; Denmark UID = 208)
+  *	United Kingdom: the mother country and dependencies have different code3s, therefore UID = code 3. One exception: Channel Islands is using the same code3 as the mother country (826), and its artificial UID = 8261.
+  *	Australia: alphabetically ordered all states, and their UIDs are from 3601 to 3608. Australia itself is 36.
+  *	Canada: alphabetically ordered all provinces (including cruise ships and recovered entry), and their UIDs are from 12401 to 12415. Canada itself is 124.
+  *	China: alphabetically ordered all provinces, and their UIDs are from 15601 to 15631. China itself is 156. Hong Kong and Macau have their own code3.
+3.	The US (most entries with Admin0, Admin1 and Admin2).
+  *	US by itself is 840 (UID = code3).
+  *	US dependencies, American Samoa, Guam, Northern Mariana Islands, Virgin Islands and Puerto Rico, UID = code3. Their FIPS codes are different from code3.
+  *	US states: UID = 840 (country code3) + 000XX (state FIPS code). Ranging from 8400001 to 84000056.
+  *	Out of [State], US: UID = 840 (country code3) + 800XX (state FIPS code). Ranging from 8408001 to 84080056.
+  *	Unassigned, US: UID = 840 (country code3) + 900XX (state FIPS code). Ranging from 8409001 to 84090056.
+  *	US counties: UID = 840 (country code3) + XXXXX (5-digit FIPS code).
+  *	Exception type 1, such as recovered and Kansas City, ranging from 8407001 to 8407999.
+  *	Exception type 2, only the New York City, which is replacing New York County and its FIPS code.
+  *	Exception type 3, Diamond Princess, US: 84088888; Grand Princess, US: 84099999.
+
