@@ -1,12 +1,10 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Monitor,Texas,US,0,0.0
-Non-Georgia Resident,Georgia,US,496,0.0
 Unassigned,US Military,US,2012,7.0
 Navy,US Military,US,1150,5.0
 Air Force,US Military,US,640,1.0
 Army,US Military,US,523,2.0
 Marine Corps,US Military,US,203,0.0
-unassigned,Utah,US,0,5.0
 "Navajo, AZ",Navajo Nation,US,251,0.0
 "Coconino, AZ",Navajo Nation,US,159,0.0
 "McKinley, NM",Navajo Nation,US,109,0.0
@@ -23,4 +21,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,,Canada,0,0.0
-,,World,1940644,120916.0
+,,World,1947640,121785.0
