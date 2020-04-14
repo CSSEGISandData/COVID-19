@@ -3203,7 +3203,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Guangdong,China,3/29/20 2:09,23.3417,113.4244,1475,8,1349,118,"Guangdong, China"
 ,,Guangxi,China,3/20/20 4:33,23.8298,108.7881,254,2,250,2,"Guangxi, China"
 ,,Guizhou,China,3/18/20 1:37,26.8154,106.8748,146,2,144,0,"Guizhou, China"
-,,Hainan,China,3/24/20 4:29,19.1959,109.7453,168,6,168,-6,"Hainan, China"
+,,Hainan,China,3/24/20 4:29,19.1959,109.7453,168,6,162,0,"Hainan, China"
 ,,Hebei,China,3/23/20 1:53,39.549,116.1306,319,6,310,3,"Hebei, China"
 ,,Heilongjiang,China,3/26/20 0:15,47.862,127.7615,484,13,469,2,"Heilongjiang, China"
 ,,Henan,China,3/29/20 1:44,33.882,113.614,1276,22,1251,3,"Henan, China"
