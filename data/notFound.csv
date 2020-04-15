@@ -1,10 +1,10 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Monitor,Texas,US,0,0.0
-Unassigned,US Military,US,2091,7.0
-Navy,US Military,US,1208,6.0
+Unassigned,US Military,US,2298,8.0
+Navy,US Military,US,1187,6.0
 Air Force,US Military,US,659,1.0
-Army,US Military,US,602,2.0
-Marine Corps,US Military,US,209,0.0
+Army,US Military,US,403,2.0
+Marine Corps,US Military,US,219,0.0
 "Navajo, AZ",Navajo Nation,US,252,0.0
 "Coconino, AZ",Navajo Nation,US,160,0.0
 "McKinley, NM",Navajo Nation,US,116,0.0
@@ -21,4 +21,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2025004,128978.0
+,,World,2028107,129187.0
