@@ -1,25 +1,24 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Monitor,Texas,US,0,0.0
-Non-Georgia Resident,Georgia,US,496,0.0
-Unassigned,US Military,US,2012,7.0
-Navy,US Military,US,1150,5.0
-Air Force,US Military,US,640,1.0
-Army,US Military,US,523,2.0
-Marine Corps,US Military,US,203,0.0
-unassigned,Utah,US,0,5.0
-"Navajo, AZ",Navajo Nation,US,251,0.0
-"Coconino, AZ",Navajo Nation,US,159,0.0
-"McKinley, NM",Navajo Nation,US,109,0.0
-"Apache, AZ",Navajo Nation,US,100,0.0
-Unassigned,Navajo Nation,US,85,28.0
-"San Juan, NM",Navajo Nation,US,80,0.0
+Unassigned,US Military,US,2091,7.0
+Navy,US Military,US,1208,6.0
+Air Force,US Military,US,659,1.0
+Army,US Military,US,602,2.0
+Marine Corps,US Military,US,209,0.0
+"Navajo, AZ",Navajo Nation,US,252,0.0
+"Coconino, AZ",Navajo Nation,US,160,0.0
+"McKinley, NM",Navajo Nation,US,116,0.0
+"Apache, AZ",Navajo Nation,US,105,0.0
+Unassigned,Navajo Nation,US,92,33.0
+"San Juan, NM",Navajo Nation,US,84,0.0
 "San Juan, UT",Navajo Nation,US,11,0.0
 "Cibola, NM",Navajo Nation,US,9,0.0
 "Socorro, NM",Navajo Nation,US,6,0.0
 "Sandoval, NM",Navajo Nation,US,3,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
+Residents Diagnosed Outside of HI,Hawaii,US,6,0.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,1934128,120437.0
+,,World,2018614,128073.0
