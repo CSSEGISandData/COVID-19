@@ -81,6 +81,8 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * NHC 2/14: Hubei Province deducted 108 prior deaths from the death toll due to double counting.
 * About DP 3/1: All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together, and their location is currently designated at the ship’s port location off the coast of Japan. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
 * Hainan Province active cases update (4/13): We responded to the error from 3/24 to 4/1 we had incorrect data for Hainan Province.  We had -6 active cases (168 6 168 -6). We applied the correction (168 6 162 0) that was applied on 4/2 for this period (3/24 to 4/1).
+* Florida in the daily report US (4/13): Source data error. Correction 123,019 -> 21,019.
+* Okaloosa, Florida in the dail report (4/13): Source data error. Correction 102,103 -> 103.
 
 ---
 ## UID Lookup Table Logic
