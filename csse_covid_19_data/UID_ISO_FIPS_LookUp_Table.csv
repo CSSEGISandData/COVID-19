@@ -327,8 +327,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84070001,US,USA,840,,,Recovered,US,,,"Recovered, US",
 84070002,US,USA,840,,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,"Dukes and Nantucket, Massachusetts, US",28731
 84070003,US,USA,840,,Kansas City,Missouri,US,39.0997,-94.5786,"Kansas City, Missouri, US",488943
-84070004,US,USA,840,,Michigan Department of Corrections (MDOC),Michigan,US,,,"Michigan Department of Corrections (MDOC), Michigan",
-84070005,US,USA,840,,Federal Correctional Institution (FCI),Michigan,US,,,"Federal Correctional Institution (FCI), Michigan",
+84070004,US,USA,840,,Michigan Department of Corrections (MDOC),Michigan,US,,,"Michigan Department of Corrections (MDOC), Michigan, US",
+84070005,US,USA,840,,Federal Correctional Institution (FCI),Michigan,US,,,"Federal Correctional Institution (FCI), Michigan, US",
 84080001,US,USA,840,80001,Out of AL,Alabama,US,,,"Out of AL, Alabama, US",
 84080002,US,USA,840,80002,Out of AK,Alaska,US,,,"Out of AK, Alaska, US",
 84080004,US,USA,840,80004,Out of AZ,Arizona,US,,,"Out of AZ, Arizona, US",
