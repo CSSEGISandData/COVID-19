@@ -1,10 +1,5 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-De Witt,Texas,US,10,0.0
 Monitor,Texas,US,0,0.0
-Prince Georges,Maryland,US,2356,72.0
-St. Marys,Maryland,US,98,3.0
-Queen Annes,Maryland,US,19,0.0
-Philips,Colorado,US,4,0.0
 Unassigned,US Military,US,2110,7.0
 Navy,US Military,US,1208,6.0
 Air Force,US Military,US,640,1.0
@@ -28,4 +23,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,,Canada,0,0.0
-,,World,1992636,126106.0
+,,World,1997666,126597.0
