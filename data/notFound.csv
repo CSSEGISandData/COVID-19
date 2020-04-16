@@ -1,11 +1,10 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Wayne--Non Detroit,Michigan,US,5408,409.0
 Monitor,Texas,US,0,0.0
-Unassigned,US Military,US,2284,8.0
+Unassigned,US Military,US,1794,8.0
 Navy,US Military,US,1224,6.0
-Air Force,US Military,US,673,1.0
-Army,US Military,US,403,2.0
-Marine Corps,US Military,US,219,0.0
+Air Force,US Military,US,731,1.0
+Army,US Military,US,717,2.0
+Marine Corps,US Military,US,229,0.0
 "Navajo, AZ",Navajo Nation,US,270,0.0
 "Coconino, AZ",Navajo Nation,US,183,0.0
 "McKinley, NM",Navajo Nation,US,136,0.0
@@ -17,9 +16,8 @@ Unassigned,Navajo Nation,US,98,38.0
 "Socorro, NM",Navajo Nation,US,6,0.0
 "Sandoval, NM",Navajo Nation,US,4,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
-Residents Diagnosed Outside of HI,Hawaii,US,6,0.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2173168,144949.0
+,,World,2177421,145304.0
