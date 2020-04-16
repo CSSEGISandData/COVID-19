@@ -10,5 +10,6 @@ time_series_19-covid-Recovered.csv
 
 
 ## Data modification records
-* Florida data source error (4/13) - US 682,619 -> 580,619 [time_series_covid19_confirmed_global.csv]
-* Okaloosa, Florida data source error (4/13) - Okaloosa, Florida 102,103 -> 103 [time_series_covid19_confirmed_US.csv]
+* 4/13: [time_series_covid19_confirmed_global.csv] Florida data source error - US 682,619 -> 580,619
+* 4/13: [time_series_covid19_confirmed_US.csv] Okaloosa, Florida data source error - Okaloosa, Florida 102,103 -> 103 
+* 4/14: [time_series_covid19_deaths_US.csv] Unassigned, NY, Apirl 3, 955 -> 623; April 4, 1173 -> 427; Apirl 5, 1260 -> 338
