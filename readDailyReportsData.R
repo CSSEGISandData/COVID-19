@@ -13,8 +13,6 @@ country[country > 1]
 georgia <- data[data$Province_State == "Georgia",]
 
 # read all files in directory
-columnList <- c("Province.State","Country.Region","Last.Update","Confirmed",
-                "Deaths","Recovered")                
 directory <- "./csse_covid_19_data/csse_covid_19_daily_reports"
 theFiles <- list.files(path=directory,pattern="*.csv",full.names = TRUE)
 filenames <- list.files(path=directory,pattern="*.csv")
@@ -43,6 +41,8 @@ georgia <- data[data$Province_State == "Georgia",]
 cobb <- georgia[georgia$Admin2 %in% c("Cobb"),]
 cobb$date <- mdy(cobb$date)
 
-plot(cobb$date,cobb$Confirmed,type = "h")
+plot(cobb$date,cobb$Confirmed,type = "h",cex = .5,
+     main="Cobb County GA - COVID-19 Confirmed Cases",
+     xlab = "Date",ylab = "Confirmed Cases")
 
 
