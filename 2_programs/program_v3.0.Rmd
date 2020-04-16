@@ -87,7 +87,7 @@ df_all = df_all %>% group_by(country) %>% filter(max(Confirmed_cum) > 1000) %>% 
 
 ## Confirmed Cumulative cases by days_since_first_case
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
-index_country = c("France", "Spain", "Italy",  "UK", "Germany", "Belgium")
+index_country = c("China",  "France", "Spain", "Italy",  "UK", "Germany", "Belgium")
 
 df_cases = df_all %>% filter(days_since_first_case >=0) %>% ungroup()
 df.temp = df_cases
@@ -95,7 +95,7 @@ countries = as.character(unique(df.temp$country))
 df.temp = df.temp %>% filter(country %in% index_country)
 
 p1 = ggplot(df.temp, aes(x = days_since_first_case, y = Confirmed_cum, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
-ylab("Daily deaths") +
+ylab("Confirmed cumulative cases ") +
 xlab("Days since first case")+
 #scale_y_continuous(limits = c(0, 200)) 
 gghighlight(label_key = country, label_params = list(size = 3))
@@ -112,7 +112,7 @@ countries = as.character(unique(df.temp$country))
 df.temp = df.temp %>% filter(country %in% index_country)
 
 p2 = ggplot(df.temp, aes(x = days_since_first_case, y = Death_cum, group = country, colour = country )) + geom_point(size = 0.9) + geom_line()  + theme_bw(base_size = 9) + 
-ylab("Daily deaths") +
+ylab("Cumulative deaths") +
 xlab("Days since first case")+
 #scale_y_continuous(limits = c(0, 200)) 
 gghighlight(label_key = country, label_params = list(size = 3))
