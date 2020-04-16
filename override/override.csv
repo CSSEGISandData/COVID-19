@@ -21,7 +21,7 @@
 ,,St. Barth,,Saint Barthelemy,France,,,,,,,
 ,,Saint Pierre Miquelon,,Saint Pierre and Miquelon,France,46.8852,-56.3159,,,,,
 ,,Saint Martin,,St Martin,France,,,,,,,
-,,France,,,France,46.2276,2.2137,140772,,,,250
+,,France,,,France,46.2276,2.2137,133470,,,,
 ,,Vatican City,,,Holy See,,,,,,,
 ,,S. Korea,,,"Korea, South",,,,,,,
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
@@ -44,109 +44,110 @@
 ,,Montserrat,,Montserrat,United Kingdom,,,,,,,
 ,,Turks and Caicos,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,,,,,
 ,,UK,,,United Kingdom,,,,,,,
-Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,
-Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,
+Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
+Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
 Anchorage--Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
 Anchorage--Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
-Sterling,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,
-Soldotna,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,
-Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,
-Homer,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,
+Sterling,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Soldotna,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
+Homer,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
 Kenai,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
 Kenai Peninsula--Homer,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
 Kenai Peninsula--Soldotna,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
 Kenai Peninsula--Sterling,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
 Kenai Peninsula--Seward,Alaska,US,Kenai Peninsula,Alaska,US,60.24429722,-151.5388884,,,,,2122
-Palmer,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,
+Palmer,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
 Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
 Matanuska-Susitna--Wasilla,Alaska,US,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,,,,,2170
 Out of state,Colorado,US,Out of CO,Colorado,US,,,,,,,80008
+Philips,Colorado,US,Phillips,Colorado,US,40.59414277,-102.3577703,,,,,8095
 District of Columbia,"Washington, D.C.",US,District of Columbia,District of Columbia,US,38.90417773,-77.01655992,,,,,11001
-Desoto,Florida,US,DeSoto,Florida,US,27.18677893,-81.80941373,,,,,
-Unknown,Florida,US,Unassigned,Florida,US,0,0,,,,,90012
-Dekalb,Georgia,US,DeKalb,Georgia,US,33.76944049,-84.22396017,,,,,
-Mcduffie,Georgia,US,McDuffie,Georgia,US,33.47851918,-82.48252774,,,,,
-Mcintosh,Georgia,US,McIntosh,Georgia,US,,,,,,,
-Unknown,Georgia,US,Unassigned,Georgia,US,0,0,,,,,90013
-,,Guam,,Guam,US,,,,,,,
-Hawaii Island,Hawaii,US,Hawaii,Hawaii,US,19.60121157,-155.5210167,,,,,
+Desoto,Florida,US,DeSoto,Florida,US,27.18677893,-81.80941373,,,,,12027
+Unknown,Florida,US,Unassigned,Florida,US,,,,,,,90012
+Dekalb,Georgia,US,DeKalb,Georgia,US,33.76944049,-84.22396017,,,,,13089
+Mcduffie,Georgia,US,McDuffie,Georgia,US,33.47851918,-82.48252774,,,,,13189
+Mcintosh,Georgia,US,McIntosh,Georgia,US,31.49683595,-81.40163426,,,,,13191
+Non-Georgia Resident,Georgia,US,Out of GA,Georgia,US,,,,,,,80013
+Unknown,Georgia,US,Unassigned,Georgia,US,,,,,,,90013
+,,Guam,,Guam,US,13.4443,144.7937,,,,,66
+Hawaii Island,Hawaii,US,Hawaii,Hawaii,US,19.60121157,-155.5210167,,,,,15001
 Residents diagnosed Outside of HI,Hawaii,US,Out of HI,Hawaii,US,,,,,,,80015
 Adam,Idaho,US,Adams,Idaho,US,44.89333571,-116.4545247,,,,,16003
-La Salle,Illinois,US,LaSalle,Illinois,US,41.3442613,-88.88633881,,,,,
-Caroll,Indiana,US,Carroll,Indiana,US,40.5807832,-86.56198812,,,,,
+DeWitt,Illinois,US,De Witt,Illinois,US,40.17514519,-88.90959682,,,,,17039
+La Salle,Illinois,US,LaSalle,Illinois,US,41.3442613,-88.88633881,,,,,17099
+Caroll,Indiana,US,Carroll,Indiana,US,40.5807832,-86.56198812,,,,,18015
 De Kalb,Indiana,US,DeKalb,Indiana,US,41.39804622,-84.99906934,,,,,18033
 La Porte,Indiana,US,LaPorte,Indiana,US,41.54366008,-86.74072188,,,,,18091
 Verm.,Indiana,US,Vermillion,Indiana,US,39.8523352,-87.46160542,,,,,18165
-Whitlty,Indiana,US,Whitley,Indiana,US,41.13863784,-85.50791236,,,,,
+Whitlty,Indiana,US,Whitley,Indiana,US,41.13863784,-85.50791236,,,,,18183
 Obrien,Iowa,US,O'Brien,Iowa,US,43.08310673,-95.62474482,,,,,19141
 Unknown,Kansas,US,Unassigned,Kansas,US,,,,,,,90020
-La Salle,Louisiana,US,LaSalle,Louisiana,US,31.67884782,-92.15907765,,,,,
-Parish Under Investigation,Louisiana,US,Unassigned,Louisiana,US,,,,,,,
-West Celiciana,Louisiana,US,West Feliciana,Louisiana,US,30.87882871,-91.4148538,,,,,
+La Salle,Louisiana,US,LaSalle,Louisiana,US,31.67884782,-92.15907765,,,,,22059
+Parish Under Investigation,Louisiana,US,Unassigned,Louisiana,US,,,,,,,90022
+West Celiciana,Louisiana,US,West Feliciana,Louisiana,US,30.87882871,-91.4148538,,,,,22125
+Prince Georges,Maryland,US,Prince George's,Maryland,US,38.83070039,-76.8496441,,,,,24033
+Queen Annes,Maryland,US,Queen Anne's,Maryland,US,39.06198912,-76.03530977,,,,,24035
+St. Marys,Maryland,US,St. Mary's,Maryland,US,38.30058422,-76.6062928,,,,,24037
+Unassigned,Maryland,US,Unassigned,Maryland,US,,,,67,,,90024
 Dukes and Nantucket,Massachusetts,US,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,,,,,
-Dickson,Michigan,US,Manistee,Michigan,US,44.33352407,-86.05626916,,,,,
-Out of State,Michigan,US,Out of MI,Michigan,US,0,0,,,,,
-Other,Michigan,US,Unassigned,Michigan,US,0,0,,,,,
-Unknown,Michigan,US,Unassigned,Michigan,US,,,,,,,
-Wayne--Detroit,Michigan,US,Wayne,Michigan,US,42.278056,-83.378611,,,,,
-Filmore,Minnesota,US,Fillmore,Minnesota,US,43.67394126,-92.08980382,,,,,
-Lac Qui Parle,Minnesota,US,Lac qui Parle,Minnesota,US,44.9973857,-96.17488219,,,,,
-LeSeur,Minnesota,US,Le Sueur,Minnesota,US,44.37136597,-93.72844721,,,,,
-unassign,Minnesota,US,Unassigned,Minnesota,US,0,0,,,,,
-Joplin,Missouri,US,Jasper,Missouri,US,37.20351921,-94.34050458,,,,,
+Dickson,Michigan,US,Manistee,Michigan,US,44.33352407,-86.05626916,,,,,26101
+Out of State,Michigan,US,Out of MI,Michigan,US,,,,,,,80026
+Other,Michigan,US,Unassigned,Michigan,US,,,,,,,90026
+Unknown,Michigan,US,Unassigned,Michigan,US,,,,,,,90026
+Wayne--Detroit,Michigan,US,Wayne,Michigan,US,42.28098405,-83.281255,,,,,26163
+Filmore,Minnesota,US,Fillmore,Minnesota,US,43.67394126,-92.08980382,,,,,27045
+Lac Qui Parle,Minnesota,US,Lac qui Parle,Minnesota,US,44.9973857,-96.17488219,,,,,27073
+LeSeur,Minnesota,US,Le Sueur,Minnesota,US,44.37136597,-93.72844721,,,,,27079
+unassign,Minnesota,US,Unassigned,Minnesota,US,,,,,,,90027
+Joplin,Missouri,US,Jasper,Missouri,US,37.20351921,-94.34050458,,,,,29097
 Kansas City,Missouri,US,Kansas City,Missouri,US,39.0997,-94.5786,,,,,
-TBD,Missouri,US,Unassigned,Missouri,US,0,0,,,,,90029
-Berknap,New Hampshire,US,Belknap,New Hampshire,US,,,,,,,
+TBD,Missouri,US,Unassigned,Missouri,US,,,,,,,90029
+Box,Nebraska,US,Box Butte,Nebraska,US,42.22079243,-103.0878834,,,,,31013
+Berknap,New Hampshire,US,Belknap,New Hampshire,US,43.51637314,-71.41684235,,,,,33001
 Hillsborough-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
-Nashua,New Hampshire,US,Nashua,New Hampshire,US,42.7654,-71.4676,,,,,
-Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,
-Alexander,South Carolina,US,Alexander,North Carolina,US,35.9223796,-81.17751948,,,,,
-Stanley,North Carolina,US,Gaston,North Carolina,US,35.29373559,-81.17477045,,,,,
-Saipan,Northern Mariana Islands,US,,Northern Mariana Islands,US,15.0979,145.6739,,,,,
+Hillsborough-Other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
+Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
+Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,35013
+New York City,New York,US,New York City,New York,US,40.7672726,-73.97152637,,11477,,,36061
+Alexander,South Carolina,US,Alexander,North Carolina,US,35.9223796,-81.17751948,,,,,37003
+Stanley,North Carolina,US,Gaston,North Carolina,US,35.29373559,-81.17477045,,,,,37071
+Saipan,Northern Mariana Islands,US,,Northern Mariana Islands,US,15.0979,145.6739,,,,,69
 Adam,Ohio,US,Adams,Ohio,US,38.84541072,-83.4718964,,,,,39001
 Guesnsey,Ohio,US,Guernsey,Ohio,US,40.05026529,-81.49248905,,,,,39059
-Out-of-State,Oklahoma,US,Out of OK,Oklahoma,US,0,0,,,,,80040
-Mckean,Pennsylvania,US,McKean,Pennsylvania,US,41.80938602,-78.56478358,,,,,
-,,Puerto Rico,,Puerto Rico,US,,,,,,,
-Dekalb,Tennessee,US,DeKalb,Tennessee,US,35.97616272,-85.83689361,,,,,
-Out-of-state,Tennessee,US,Out of TN,Tennessee,US,0,0,,,,,
-Unknown,Tennessee,US,Unassigned,Tennessee,US,0,0,,,,,
-El Paso--Fort Bliss,Texas,US,El Paso,Texas,US,31.76980765,-106.2363275,,,,,
+Unassigned,Ohio,US,Unassigned,Ohio,US,,,,16,,,90039
+Out-of-State,Oklahoma,US,Out of OK,Oklahoma,US,,,,,,,80040
+Mckean,Pennsylvania,US,McKean,Pennsylvania,US,41.80938602,-78.56478358,,,,,42083
+,,Puerto Rico,,Puerto Rico,US,,,,,,,72
+Dekalb,Tennessee,US,DeKalb,Tennessee,US,35.97616272,-85.83689361,,,,,47041
+Out-of-state,Tennessee,US,Out of TN,Tennessee,US,,,,,,,80047
+Unknown,Tennessee,US,Unassigned,Tennessee,US,,,,,,,90047
+De Witt,Texas,US,DeWitt,Texas,US,29.08101855,-97.3568117,,,,,48123
+El Paso--Fort Bliss,Texas,US,El Paso,Texas,US,31.76980765,-106.2363275,,,,,48141
 Harris--Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
 Harris--Non Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
-Bear River,Utah,US,Box Elder,Utah,US,41.52106798,-113.0832816,,,,,
-Non-Utah resident,Utah,US,Out of UT,Utah,US,0,0,,,,,
-Unassigned Bear River,Utah,US,Unassigned,Utah,US,0,0,,,,,90049
-Unassigned Southwest,Utah,US,Unassigned,Utah,US,0,0,,,,,90049
-Southwest Utah,Utah,US,Washington,Utah,US,37.28003525,-113.504698,,,,,
-Central Utah,Utah,US,Washington,Utah,US,37.3225,-113.4776,,,,,49053
-Weber-Morgan,Utah,US,Weber,Utah,US,41.27116049,-111.9145117,,,,,
-St. John,Virgin Islands,US,,Virgin Islands,US,,,,,,,
-St. Thomas,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,
-St. Croix,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,
-St. John,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,
-,,U.S. Virgin Islands,,Virgin Islands,US,18.3358,-64.8963,,,,,
+Bear River,Utah,US,Box Elder,Utah,US,41.52106798,-113.0832816,,,,,49003
+Non-Utah resident,Utah,US,Out of UT,Utah,US,,,,,,,80049
+Unassigned Bear River,Utah,US,Unassigned,Utah,US,,,,,,,90049
+Unassigned Southwest,Utah,US,Unassigned,Utah,US,,,,,,,90049
+unassigned,Utah,US,Unassigned,Utah,US,,,,,,,90049
+Southwest Utah,Utah,US,Washington,Utah,US,37.28003525,-113.504698,,,,,49053
+Central Utah,Utah,US,Washington,Utah,US,37.28003525,-113.504698,,,,,49053
+Weber-Morgan,Utah,US,Weber,Utah,US,41.27116049,-111.9145117,,,,,49057
+St. John,Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+St. Thomas,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+St. Croix,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+St. John,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
+,,U.S. Virgin Islands,,Virgin Islands,US,18.3358,-64.8963,,,,,78
 Buena Vista City,Virginia,US,Buena Vista,Virginia,US,37.73484642,-79.35296097,,,,,51530
 Charke,Virginia,US,Clarke,Virginia,US,39.11271747,-77.99199425,,,,,51043
-Manassas City,Virginia,US,Manassas,Virginia,US,38.7464321,-77.48509905,,,,,
-Portsmouth City,Virginia,US,Norfolk,Virginia,US,36.89934014,-76.26420872,,,,,
-Staunton City,Virginia,US,Staunton,Virginia,US,38.15965544,-79.05979937,,,,,
-Unknown,Virginia,US,Unassigned,Virginia,US,0,0,,,,,
-,,,,Wuhan Evacuee,US,,,0,,,,
-unassigned,Wyoming,US,Unassigned,Wyoming,US,0,0,,,,,
+Manassas City,Virginia,US,Manassas,Virginia,US,38.7464321,-77.48509905,,,,,51683
+Portsmouth City,Virginia,US,Norfolk,Virginia,US,36.89934014,-76.26420872,,,,,51710
+Staunton City,Virginia,US,Staunton,Virginia,US,38.15965544,-79.05979937,,,,,51790
+Unknown,Virginia,US,Unassigned,Virginia,US,,,,,,,90051
+unassigned,Wyoming,US,Unassigned,Wyoming,US,,,,,,,90056
 ,,Palestine,,,West Bank and Gaza,31.9522,35.2332,,,,,
 ,,Western Sahara,,,Western Sahara,24.2155,-12.8858,,,,,
-DeWitt,Illinois,US,De Witt,Illinois,US,40.17514519,-88.90959682,,,,,17039
-Box,Nebraska,US,Box Butte,Nebraska,US,42.22079243,-103.0878834,,,,,31013
-unassigned,Utah,US,Unassigned,Utah,US,,,,,,,90049
-Non-Georgia Resident,Georgia,US,Out of GA,Georgia,US,,,,,,,80013
-De Witt,Texas,US,DeWitt,Texas,US,29.08101855,-97.3568117,,,,,48123
-Prince Georges,Maryland,US,Prince George's,Maryland,US,38.83070039,-76.8496441,,,,,24033
-St. Marys,Maryland,US,St. Mary's,Maryland,US,38.30058422,-76.6062928,,,,,24037
-Queen Annes,Maryland,US,Queen Anne's,Maryland,US,39.06198912,-76.03530977,,,,,24035
-Philips,Colorado,US,Phillips,Colorado,US,40.59414277,-102.3577703,,,,,8095
-Hillsborough-Other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
-New York City,New York,US,New York City,New York,US,40.7672726,-73.97152637,,10899,,,36061
