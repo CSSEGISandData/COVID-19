@@ -2,7 +2,7 @@
 # read JHU covid-19 data
 #
 
-data <- read.csv('./csse_covid_19_data/csse_covid_19_daily_reports/04-12-2020.csv',
+data <- read.csv('./csse_covid_19_data/csse_covid_19_daily_reports/03-03-2020.csv',
                  stringsAsFactors=FALSE)
 
 country <- table(data$Country_Region)
@@ -29,8 +29,17 @@ dataList <- lapply(1:length(theFiles),function(x){
 
 # discovered that March 1, added lat long data
 # discovered that March 22, added 4 columns, changed '.' to '_' in names
+
+# data from Johns Hopkins University Center for Systems Science and Engineering
+# on GitHub at https://github.com/CSSEGISandData/COVID-19
+# 
+directory <- "./csse_covid_19_data/csse_covid_19_daily_reports"
+theFiles <- list.files(path=directory,pattern="*.csv",full.names = TRUE)
+filenames <- list.files(path=directory,pattern="*.csv")
+# read data as of March 22
 dataList <- lapply(61:85,function(x){
   y <-read.csv(theFiles[x],stringsAsFactors=FALSE)
+  # add date from file names to mitigate coding errors in raw data
   y$date <- substr(filenames[x],1,10)
   y
 })
@@ -45,4 +54,9 @@ plot(cobb$date,cobb$Confirmed,type = "h",cex = .5,
      main="Cobb County GA - COVID-19 Confirmed Cases",
      xlab = "Date",ylab = "Confirmed Cases")
 
+fulton <- georgia[georgia$Admin2 %in% c("Fulton"),]
+fulton$date <- mdy(fulton$date)
 
+plot(fulton$date,fulton$Confirmed,type = "h",cex = .5,
+     main="Fulton County GA - COVID-19 Confirmed Cases",
+     xlab = "Date",ylab = "Confirmed Cases")
