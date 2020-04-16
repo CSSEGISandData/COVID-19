@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 15:05:37
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-13 06:40:52
+# @Last Modified time: 2020-04-14 19:11:27
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -58,6 +58,18 @@ def parse_folder_info(path):
         files.remove('._.DS_Store')
     return folders, files
 
+def get_file_paths(path):
+    file_paths = []
+    folders, files = parse_folder_info(path)
+    if not files:
+        for folder in folders:
+            paths = get_file_paths(os.path.join(path, folder))
+            file_paths = file_paths + paths
+    else:
+        for file in files:
+            file_paths = file_paths + [str(os.path.join(path, file))]
+    return file_paths
+
 ### get intersection of two lists
 def intersection(list1, list2):
     return set(list1).intersection(list2)
@@ -96,12 +108,12 @@ def logistic_growth(t, r, K, P0):
 ### getting R^2
 def get_r_squared(x, y, popt, func):
     if(func == 'exp_growth'):
-        y_fit = exp_growth(x, popt[0], popt[1])
+        y_fit = exp_growth(x, *popt)
     elif(func == 'logistic_growth'):
-        y_fit = logistic_growth(x, popt[0], popt[1], popt[2])
+        y_fit = logistic_growth(x, *popt)
     residuals = y - y_fit
-    ss_res = numpy.sum(residuals**2)
-    ss_tot = numpy.sum((y-numpy.mean(y))**2)
+    ss_res = np.sum(residuals**2)
+    ss_tot = np.sum((y-np.mean(y))**2)
     r_squared = 1 - (ss_res / ss_tot)
     return r_squared
 
@@ -128,17 +140,13 @@ def reshape_dataframe(df, time_str, **kwarg):
         df_new['Daily_Deaths'] = df_new['Deaths'].diff()
         df_new['Daily_Confirmed_smoothed'] = df_new.Daily_Confirmed.rolling(window = 2).mean()
         df_new['Daily_Deaths_smoothed'] = df_new.Daily_Deaths.rolling(window = 2).mean()
-        l1 = df_new.loc[time_str[2:],'Daily_Confirmed'].to_list()
-        l2 = df_new.loc[time_str[1:-1],'Daily_Confirmed'].to_list()
-        l3 = df_new.loc[time_str[2:],'Daily_Deaths'].to_list()
-        l4 = df_new.loc[time_str[1:-1],'Daily_Deaths'].to_list()
-        df_new.loc[time_str[2:],'GFc'] = np.divide(l1, l2)
-        df_new.loc[time_str[2:],'GFd'] = np.divide(l3, l4)
+        df_new.loc[time_str[2:],'GFc'] = np.divide(df_new.loc[time_str[2:],'Daily_Confirmed'].to_list(), df_new.loc[time_str[1:-1],'Daily_Confirmed'].to_list())
+        df_new.loc[time_str[2:],'GFd'] = np.divide(df_new.loc[time_str[2:],'Daily_Deaths'].to_list(), df_new.loc[time_str[1:-1],'Daily_Deaths'].to_list())
         df_new['GFc_thr'] = df_new.GFc.rolling(window = 3).mean()
         df_new['GFd_thr'] = df_new.GFd.rolling(window = 3).mean()
         df_new[~np.isfinite(df_new)] = 0
-        df_new['GFc_rolling'] = df_new.GFc.rolling(window = 2).mean()
-        df_new['GFd_rolling'] = df_new.GFd.rolling(window = 2).mean()
+        df_new.loc[time_str[2:],'GFc_rolling'] = np.divide(df_new.loc[time_str[2:],'Daily_Confirmed_smoothed'].to_list(), df_new.loc[time_str[1:-1],'Daily_Confirmed_smoothed'].to_list())
+        df_new.loc[time_str[2:],'GFd_rolling'] = np.divide(df_new.loc[time_str[2:],'Daily_Deaths_smoothed'].to_list(), df_new.loc[time_str[1:-1],'Daily_Deaths_smoothed'].to_list())
         df_new[~np.isfinite(df_new)] = 0
     else:
         df_new = df.copy(deep = True)
@@ -146,12 +154,10 @@ def reshape_dataframe(df, time_str, **kwarg):
         df_new.rename_axis('Date', inplace = True)
         df_new['Daily'] = df_new['Confirmed'].diff()
         df_new['Daily_smoothed'] = df_new.Daily.rolling(window = 2).mean()
-        l1 = df_new.loc[time_str[2:],'Daily'].to_list()
-        l2 = df_new.loc[time_str[1:-1],'Daily'].to_list()
-        df_new.loc[time_str[2:],'GF'] = np.divide(l1, l2)
+        df_new.loc[time_str[2:],'GF'] = np.divide(df_new.loc[time_str[2:],'Daily'].to_list(), df_new.loc[time_str[1:-1],'Daily'].to_list())
         df_new['GF_rolling_thr'] = df_new.GF.rolling(window = 3).mean()
         df_new[~np.isfinite(df_new)] = 0
-        df_new['GF_rolling'] = df_new.GF.rolling(window = 2).mean()
+        df_new.loc[time_str[2:],'GF_rolling'] = np.divide(df_new.loc[time_str[2:],'Daily_smoothed'].to_list(), df_new.loc[time_str[1:-1],'Daily_smoothed'].to_list())
         df_new[~np.isfinite(df_new)] = 0
     return df_new
 

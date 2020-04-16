@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-13 06:37:32
+# @Last Modified time: 2020-04-14 02:56:43
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -144,8 +144,10 @@ def get_logistic_params(t, pt, **kwarg):
 		plot_range = True
 	if(plot_range):
 		popt_log = np.zeros((3,3))
+		r2 = np.zeros(3)
 	else:
 		popt_log = np.zeros((1,3))
+		r2 = np.zeros(1)
 	if('p0' in kwarg.keys()):
 		if(plot_range):
 			popt_log[0,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t,  pt, p0 = kwarg['p0'], maxfev = maxfev, bounds = bounds)
@@ -160,8 +162,11 @@ def get_logistic_params(t, pt, **kwarg):
 			popt_log[2,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t[:-2],  pt[:-2], maxfev = maxfev, bounds = bounds)
 		else:
 			popt_log[0,:], pcov_log = opt.curve_fit(my_func.logistic_growth,  t,  pt, maxfev = maxfev, bounds = bounds)
+	for i in np.arange(popt_log.shape[0]):
+		r2[i] = my_func.get_r_squared(t, pt, popt_log[i,:], 'logistic_growth')
+
 	# print(popt_log)
-	return popt_log
+	return popt_log, r2
 
 def plot_predictions(ax1, tx0, y0, dy0, x1, tx1, popt_logs, scale_factor, color, plot_range):
 	if(plot_range):
@@ -173,8 +178,8 @@ def plot_predictions(ax1, tx0, y0, dy0, x1, tx1, popt_logs, scale_factor, color,
 	for i in i_range:
 		df_tmp = pd.DataFrame(columns = ['x', 'y'])
 		df_tmp['x'] = tx1
-		df_tmp['y'] = my_func.logistic_growth(x1, popt_logs[i,0], popt_logs[i,1], popt_logs[i,2]) / scale_factor
-		ys[:,i] = my_func.logistic_growth(x1, popt_logs[i,0], popt_logs[i,1], popt_logs[i,2]) / scale_factor
+		df_tmp['y'] = my_func.logistic_growth(x1, *popt_logs[i,:]) / scale_factor
+		ys[:,i] = my_func.logistic_growth(x1, *popt_logs[i,:]) / scale_factor
 		df = df.append(df_tmp)
 	sns.set(style = 'ticks', rc={"lines.linewidth": 2})
 	ax2 = ax1.twinx()
@@ -189,10 +194,10 @@ def plot_predictions(ax1, tx0, y0, dy0, x1, tx1, popt_logs, scale_factor, color,
 	ind_midds = np.zeros((1,3))-1
 	ind_maxes = np.zeros((1,3))-1
 	for i in i_range:
-		ind_midds[0,i] = list(ys[1:,i] - ys[:-1, i]).index(max(ys[1:,i] - ys[:-1, i])
-			)
-		if(len(np.argwhere(np.abs(np.diff(ys[:,i]) < 0.1)))):
-			ind_maxes[0,i] = np.argwhere(np.abs(np.diff(ys[:,i]) < 0.1))[0]
+		ind_midds[0,i] = int(list(ys[1:,i] - ys[:-1, i]).index(max(ys[1:,i] - ys[:-1, i])
+			))
+		if(len(np.argwhere(np.abs(np.diff(ys[int(ind_midds[0,i]):,i]) < 1)))):
+			ind_maxes[0,i] = np.argwhere(np.abs(np.diff(ys[int(ind_midds[0,i]):,i]) < 1))[0] + ind_midds[0,i]
 	ax1.set_xlabel('Time')
 	ax1.set_ylabel('Total')
 	ax2.set_ylabel('Daily')
@@ -339,7 +344,7 @@ def plot_region(df_region, region_name, **kwarg):
 	
 	ax.legend(['Confirmed', 'Deaths', 'y=1'])
 	ax.set_title(f'{region_name} Growth Factor: {df_region.GFc_rolling[-1]:.2f}/{df_region.GFd_rolling[-1]:.2f} today')
-	ax.set_ylim([0, min(5, max(np.max(df_region.GFc_rolling) + 0.5, np.max(df_region.GFd_rolling) + 0.5))])
+	ax.set_ylim([0, min(2.5, max(np.max(df_region.GFc_rolling) + 0.5, np.max(df_region.GFd_rolling) + 0.5))])
 	
 	ax.set_xlim([time_datetime[0], time_datetime[-1] + timedelta(days=2)])
 	
@@ -438,13 +443,17 @@ def plot_region(df_region, region_name, **kwarg):
 		pt_d = y_d[ind_td:]
 
 		popt_exp_c, _ = opt.curve_fit(my_func.exp_growth,  tc,  pt_c, p0 = p0_exp, maxfev = maxfev)
+		r2_exp_c = my_func.get_r_squared(tc, pt_c, popt_exp_c, 'exp_growth')
 		popt_exp_d, _ = opt.curve_fit(my_func.exp_growth,  td,  pt_d, p0 = p0_exp, maxfev = maxfev)
+		r2_exp_d = my_func.get_r_squared(td, pt_d, popt_exp_d, 'exp_growth')
 		if(future != 0):
-			popt_logs_c = get_logistic_params(tc, pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c, plot_range = plot_range)
-			popt_logs_d = get_logistic_params(td, pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_d, plot_range = plot_range)
+			popt_logs_c, r2_logs_c = get_logistic_params(tc, pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c, plot_range = plot_range)
+			popt_logs_d, r2_logs_d = get_logistic_params(td, pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_d, plot_range = plot_range)
 		else:
 			popt_logs_c, _ = opt.curve_fit(my_func. logistic_growth,  tc,  pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c)
+			r2_logs_c = my_func.get_r_squared(tc, pt_c, popt_logs_c, 'logistic_growth')
 			popt_logs_d, _ = opt.curve_fit(my_func. logistic_growth,  td,  pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_c)
+			r2_logs_d = my_func.get_r_squared(td, pt_d, popt_logs_d, 'logistic_growth')
 
 
 		### confirmed fitting plot
@@ -456,8 +465,8 @@ def plot_region(df_region, region_name, **kwarg):
 
 		if(future == 0):
 			ax.plot(tx, y_c, '.', ms = 10, color = plotting_params['cat_color']['Confirmed'])
-			ax.plot(tx1, my_func.exp_growth(x1, popt_exp_c[0], popt_exp_c[1]), '--', color = plotting_params['cat_color']['Confirmed'])
-			ax.plot(tx1, my_func. logistic_growth(x1, popt_logs_c[0], popt_logs_c[1], popt_logs_c[2]), color = plotting_params['cat_color']['Confirmed'])
+			ax.plot(tx1, my_func.exp_growth(x1, *popt_exp_c), '--', color = plotting_params['cat_color']['Confirmed'])
+			ax.plot(tx1, my_func. logistic_growth(x1, *popt_logs_c), color = plotting_params['cat_color']['Confirmed'])
 			ax.set_ylim([0, np.ceil(y_c[-1] + y_c[-1]/10)])
 		else:
 			dy_c = df_region.Daily_Confirmed_smoothed
@@ -476,29 +485,35 @@ def plot_region(df_region, region_name, **kwarg):
 			confirmed_total = np.mean(y_ends)
 		if(future == 0):
 			ax.legend(['Confirmed', 
-						'Confirmed Exp Fit', 
-						'Confirmed Logistic Fit'])
+						f'Exp Fit: R2 = {r2_exp_c:.2f}', 
+						f'Logistic Fit: R2 = {r2_logs_c:.2f}'])
 			ax.set_title(f'{region_name} Confirmed Fit: r = {popt_exp_c[0]:.2f}/{popt_logs_c[0]:.2f}', fontsize = 14)
 		else:
 			if(plot_range):
 				ax.set_title(f'{region_name} Confirmed Prediction: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}', fontsize = 14)
 			else:
 				ax.set_title(f'{region_name} Confirmed Prediction: K = {np.max(y_ends):,.0f}', fontsize = 14)
-			pp = f'{region_name} Confirmed Prediction: r={np.mean(popt_logs_c[:,0]):.2f}, '
+			pp = f'{region_name} Confirmed cases: max daily increase at {df_region[df_region.Daily_Confirmed_smoothed == np.max(df_region.Daily_Confirmed_smoothed)].index[-1].date()}, '
+			if(df_region.GFc_rolling[-1]<1):
+				pp += f'new cases decreasing since {(df_region[df_region.GFc_rolling>1].index[-1] + timedelta(days=1)).date()}. '
+			else:
+				pp += f'GF > 1 for today ({time_datetime[-1].date()}). '
+			pp += f'Prediction: r={np.mean(popt_logs_c[:,0]):.2f}, '
 			if(plot_range):
 				pp += f'K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, '
-				pp += f'peak increase at {date_midds[0].date()} ~ {date_midds[1].date()}, '
-
+				pp += f'R^2 = {np.max(r2_logs_c):.2f} ~ {np.min(r2_logs_c):.2f}; '
+				pp += f'Predicted peak increase at {date_midds[0].date()} ~ {date_midds[1].date()}, '
 			else:
 				pp += f'K = {np.max(y_ends):,.0f}, '
-				pp += f'peak increase at {date_midds[1].date()}, '
+				pp += f'R^2 = {r2_logs_c[0]:.2f}; '
+				pp += f'Predicted peak increase at {date_midds[1].date()}, '
 			if(np.max(ind_maxes) == -1):
-				pp += 'max not reached yet.'
+				pp += f'max will not be reached by {(time_datetime[-1] + timedelta(days=future)).date()}.'
 			else:
 				if(-1 not in ind_maxes):
-					pp += f'max reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}.'
+					pp += f'max will be reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}.'
 				else:
-					pp += f'max reached at {date_maxs[1].date()}.'
+					pp += f'max will be reached at {date_maxs[1].date()}.'
 			print(pp)
 		
 		myLocator = mticker.MultipleLocator(plotting_params['locator_param_future'])
@@ -520,8 +535,8 @@ def plot_region(df_region, region_name, **kwarg):
 		else:
 			if(future == 0):
 				ax.plot(tx, y_d, '.', ms = 10, color = plotting_params['cat_color']['Deaths'])
-				ax.plot(tx1, my_func.exp_growth(x1, popt_exp_d[0], popt_exp_d[1]), '--', color = plotting_params['cat_color']['Deaths'])
-				ax.plot(tx1, my_func. logistic_growth(x1, popt_logs_d[0], popt_logs_d[1], popt_logs_d[2]), color = plotting_params['cat_color']['Deaths'])
+				ax.plot(tx1, my_func.exp_growth(x1, *popt_exp_d), '--', color = plotting_params['cat_color']['Deaths'])
+				ax.plot(tx1, my_func. logistic_growth(x1, *popt_logs_d), color = plotting_params['cat_color']['Deaths'])
 				ax.set_ylim([0, np.ceil(y_d[-1] + y_d[-1]/10)])
 			else:
 				dy_d = df_region.Daily_Deaths_smoothed
@@ -541,30 +556,39 @@ def plot_region(df_region, region_name, **kwarg):
 				deaths_total = np.mean(y_ends)
 			if(future == 0):
 				ax.legend(['Deaths', 
-							'Deaths Exp Fit', 
-							'Deaths Logistic Fit'])
+							f'Exp Fit: R2 = {r2_exp_d:.2f}', 
+							f'Logistic Fit: R2 = {r2_logs_d:.2f}'])
 				ax.set_title(f'{region_name} Deaths Fit: r = {popt_exp_d[0]:.2f}/{popt_exp_d[0]:.2f}', fontsize = 18)
 			else:
 				if(plot_range):
 					ax.set_title(f'{region_name} Deaths Prediction: K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}', fontsize = 14)
 				else:
 					ax.set_title(f'{region_name} Deaths Prediction: K = {np.max(y_ends):,.0f}', fontsize = 14)
-				pp = f'{region_name} Deaths Prediction: r={np.mean(popt_logs_d[:,0]):.2f}, '
-				if(plot_range):
-					pp += f'K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, '
-					pp += f'peak increase at {date_midds[0].date()} ~ {date_midds[1].date()}, '
-				else:
-					pp += f'K = {np.max(y_ends):,.0f}, '
-					pp += f'peak increase at {date_midds[1].date()}, '
-				if(np.max(ind_maxes) == -1):
-					pp += 'max not reached yet.'
-				else:
-					if(-1 not in ind_maxes):
-						pp += f'max reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}'
-					else:
-						pp += f'max reached at {date_maxs[1].date()}.'
+			pp = f'{region_name} Deaths: max daily increase at {df_region[df_region.Daily_Deaths_smoothed == np.max(df_region.Daily_Deaths_smoothed)].index[-1].date()}, '
+			if(df_region.GFd_rolling[-1]<1):
+				pp += f'new cases decreasing since {(df_region[df_region.GFd_rolling>1].index[-1] + timedelta(days=1)).date()}. '
+			else:
+				pp += f'GF > 1 for today ({time_datetime[-1].date()}). '
 
-				print(pp)
+			pp += f'Prediction: r={np.mean(popt_logs_d[:,0]):.2f}, '
+			if(plot_range):
+				pp += f'K = {np.min(y_ends):,.0f}~{np.max(y_ends):,.0f}, '
+				pp += f'R^2 = {np.max(r2_logs_d):.2f} ~ {np.min(r2_logs_d):.2f}; '
+				pp += f'peak increase at {date_midds[0].date()} ~ {date_midds[1].date()}, '
+			else:
+				pp += f'K = {np.max(y_ends):,.0f}, '
+				pp += f'R^2 = {r2_logs_d[0]:.2f}, '
+				pp += f'Predicted peak increase at {date_midds[1].date()}, '
+			pp += f'CFR = {deaths_total/confirmed_total*100:.2f}%; '
+			if(np.max(ind_maxes) == -1):
+				pp += f'max will not be reached by {(time_datetime[-1] + timedelta(days=future)).date()}.'
+			else:
+				if(-1 not in ind_maxes):
+					pp += f'max will be reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}.'
+				else:
+					pp += f'max will be reached at {date_maxs[1].date()}.'
+
+			print(pp)
 				
 		myLocator = mticker.MultipleLocator(plotting_params['locator_param_future'])
 		ax.xaxis.set_major_locator(myLocator)
@@ -601,12 +625,12 @@ def plot_region(df_region, region_name, **kwarg):
 				pp += f'K = {np.max(y_ends):,.0f}, '
 				pp += f'peak increase at {date_midds[1].date()}, '
 			if(np.max(ind_maxes) == -1):
-				pp += 'max not reached yet.'
+				pp += f'max will not be reached by {(time_datetime[-1] + timedelta(days=future)).date()}.'
 			else:
 				if(-1 not in ind_maxes):
-					pp += f'max reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}'
+					pp += f'max will be reached at {date_maxs[0].date()} ~ {date_maxs[1].date()}.'
 				else:
-					pp += f'max reached at {date_maxs[1].date()}.'
+					pp += f'max will be reached at {date_maxs[1].date()}.'
 			print(pp)
 
 			myLocator = mticker.MultipleLocator(plotting_params['locator_param_future'])
@@ -1676,6 +1700,7 @@ def world_cases_vs_population(key_countries, df_ctry_today):
 
 	###
 	ax = fig.add_subplot(gs[0,0])
+	print("1-", end = "")
 	cat_x = 'Total_Confirmed'
 	cat_y = 'New_Confirmed'
 	df_fit = df_ctry_today[[cat_x, cat_y]]
@@ -1692,6 +1717,7 @@ def world_cases_vs_population(key_countries, df_ctry_today):
 
 	###
 	ax = fig.add_subplot(gs[1,0])
+	print("2-", end = "")
 	cat_x = 'Total_Confirmed'
 	cat_y = 'Total_Deaths'
 
@@ -1717,6 +1743,7 @@ def world_cases_vs_population(key_countries, df_ctry_today):
 	cats = list(set(df_ctry_today[cat]))
 
 	for i in [0,1]:
+		print(f"{i}-", end = "")
 		ax = fig.add_subplot(gs[i, 1])
 		if(i == 0):
 			df_fit = np.log10(df_ctry_today[[cat_x, cat_y]])
@@ -1754,6 +1781,7 @@ def world_cases_vs_population(key_countries, df_ctry_today):
 	cats = list(set(df_ctry_today[cat]))
 
 	for i in [0,1]:
+		print(f"{i}-", end = "")
 		ax = fig.add_subplot(gs[i, 2])
 		if(i == 0):
 			df_fit = np.log10(df_ctry_today[[cat_x, cat_y]])
@@ -1901,11 +1929,11 @@ def plot_china_prov(df_mc_confirmed, df_mc_deaths, df_hb, df_co, **kwarg):
 
 	ax2 = fig.add_subplot(gs[1, 1])
 	plt.plot(x, y2, '.', ms = 10, color = plotting_params['cat_color']['Confirmed'])
-	plt.plot(x1, my_func.logistic_growth(x1, popt2[0], popt2[1], popt2[2]), '-', color = plotting_params['cat_color']['Confirmed'])
-	c2_end = my_func.logistic_growth(x1, popt2[0], popt2[1], popt2[2])[-1]
+	plt.plot(x1, my_func.logistic_growth(x1, *popt2), '-', color = plotting_params['cat_color']['Confirmed'])
+	c2_end = my_func.logistic_growth(x1, *popt2)[-1]
 	plt.plot(x, y4, '*', ms = 10, color = plotting_params['cat_color']['Deaths'])
-	plt.plot(x1, my_func.logistic_growth(x1, popt4[0], popt4[1], popt4[2]), '-', color = plotting_params['cat_color']['Deaths'])
-	d2_end = my_func.logistic_growth(x1, popt4[0], popt4[1], popt4[2])[-1]
+	plt.plot(x1, my_func.logistic_growth(x1, *popt4), '-', color = plotting_params['cat_color']['Deaths'])
+	d2_end = my_func.logistic_growth(x1, *popt4)[-1]
 
 	plt.title(f'Logistic Growth Fit for Other Chinese Provs, r = {popt2[0]:.2f}')
 	myLocator = mticker.MultipleLocator(4)
