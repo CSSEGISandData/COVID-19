@@ -1,24 +1,25 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Monitor,Texas,US,0,0.0
-Unassigned,US Military,US,2091,7.0
-Navy,US Military,US,1208,6.0
-Air Force,US Military,US,659,1.0
-Army,US Military,US,602,2.0
-Marine Corps,US Military,US,209,0.0
-"Navajo, AZ",Navajo Nation,US,252,0.0
-"Coconino, AZ",Navajo Nation,US,160,0.0
-"McKinley, NM",Navajo Nation,US,116,0.0
-"Apache, AZ",Navajo Nation,US,105,0.0
-Unassigned,Navajo Nation,US,92,33.0
-"San Juan, NM",Navajo Nation,US,84,0.0
-"San Juan, UT",Navajo Nation,US,11,0.0
-"Cibola, NM",Navajo Nation,US,9,0.0
-"Socorro, NM",Navajo Nation,US,6,0.0
-"Sandoval, NM",Navajo Nation,US,3,0.0
+Unassigned,US Military,US,1794,10.0
+Navy,US Military,US,1224,6.0
+Air Force,US Military,US,731,1.0
+Army,US Military,US,717,2.0
+Marine Corps,US Military,US,229,0.0
+"Navajo, AZ",Navajo Nation,US,306,0.0
+"McKinley, NM",Navajo Nation,US,203,0.0
+"Coconino, AZ",Navajo Nation,US,199,0.0
+"Apache, AZ",Navajo Nation,US,147,0.0
+"San Juan, NM",Navajo Nation,US,140,0.0
+"Cibola, NM",Navajo Nation,US,13,0.0
+"San Juan, UT",Navajo Nation,US,12,0.0
+"Sandoval, NM",Navajo Nation,US,12,0.0
+"Socorro, NM",Navajo Nation,US,10,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
-Residents Diagnosed Outside of HI,Hawaii,US,6,0.0
+Unassigned,Navajo Nation,US,0,41.0
+Inmates,Federal Bureau of Prisons,US,473,18.0
+Staff,Federal Bureau of Prisons,US,279,0.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2018614,128073.0
+,,World,2190010,147010.0
