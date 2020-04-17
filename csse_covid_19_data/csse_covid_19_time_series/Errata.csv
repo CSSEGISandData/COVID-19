@@ -1,0 +1,31 @@
+﻿Update Date,File,Location,Changed Field,Old,New,Comments
+7-Apr,time_series_covid19_confirmed_US.csv,Viginia Island,29-Mar,0,23,New York Times
+7-Apr,time_series_covid19_confirmed_US.csv,Viginia Island,30-Mar,0,30,New York Times
+7-Apr,time_series_covid19_confirmed_US.csv,"DC, US",21-Mar,0,98,New York Times
+7-Apr,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",19-Mar,0,101,New York Times
+7-Apr,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",20-Mar,0,124,New York Times
+7-Apr,time_series_covid19_confirmed_US.csv,"Hillsborough, NH",2-Apr,0,163,New York Times
+7-Apr,time_series_covid19_confirmed_US.csv,"Harris, TX",20-Mar,0,55,New York Times
+7-Apr,time_series_covid19_confirmed_US.csv,Kansas City,21-Mar,0,13,New York Times
+9-Apr,time_series_covid19_confirmed_US.csv,"Box Elder, UT",20-Mar,13,7,New York Times
+9-Apr,time_series_covid19_confirmed_US.csv,"Union, FL",4-Apr,10,2,New York Times
+9-Apr,time_series_covid19_confirmed_US.csv,"Daviess, KY",28-Mar,33,20,New York Times
+9-Apr,time_series_covid19_confirmed_US.csv,"Washington, RI",2-Apr,46,34,New York Times
+9-Apr,time_series_covid19_confirmed_US.csv,"West Feliciana, LA",2-Apr,20,10,New York Times
+9-Apr,time_series_covid19_confirmed_US.csv,", TN",2-Apr,617,785,New York Times
+13-Apr,time_series_covid19_confirmed_global.csv,Florida,13-Apr,682619,580619,data source error
+13-Apr,time_series_covid19_confirmed_US.csv,"Okaloosa, Florida",13-Apr,102103,103,data source error
+14-Apr,time_series_covid19_deaths_US.csv,"Unassigned, NY",3-Apr,955,623,
+14-Apr,time_series_covid19_deaths_US.csv,"Unassigned, NY",3-Apr,1173,427,
+14-Apr,time_series_covid19_deaths_US.csv,"Unassigned, NY",3-Apr,1260,338,
+16-Apr,time_series_covid19_deaths_global.csv,France,1-Apr,4032,4403,add 371 decesEhpad
+16-Apr,time_series_covid19_confirmed_global.csv,France,4-Apr,89953,68605,only report casConfirmes
+16-Apr,time_series_covid19_confirmed_global.csv,France,5-Apr,92839,70478,
+16-Apr,time_series_covid19_confirmed_global.csv,France,6-Apr,98010,74390,
+16-Apr,time_series_covid19_confirmed_global.csv,France,7-Apr,109069,78167,
+16-Apr,time_series_covid19_confirmed_global.csv,France,8-Apr,112950,82048,
+16-Apr,time_series_covid19_confirmed_global.csv,France,9-Apr,117749,86334,
+16-Apr,time_series_covid19_confirmed_global.csv,France,10-Apr,124869,90676,
+16-Apr,time_series_covid19_confirmed_global.csv,France,11-Apr,129654,93790,
+16-Apr,time_series_covid19_confirmed_global.csv,France,12-Apr,132591,120633,casPossiblesEhpad added
+16-Apr,time_series_covid19_confirmed_global.csv,France,13-Apr,136779,124298,
