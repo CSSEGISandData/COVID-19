@@ -7,9 +7,3 @@ The files below will no longer be updated. With the release of the new data stru
 time_series_19-covid-Confirmed.csv	<br>
 time_series_19-covid-Deaths.csv	<br>
 time_series_19-covid-Recovered.csv
-
-
-## Data modification records
-* 4/13: [time_series_covid19_confirmed_global.csv] Florida data source error - US 682,619 -> 580,619
-* 4/13: [time_series_covid19_confirmed_US.csv] Okaloosa, Florida data source error - Okaloosa, Florida 102,103 -> 103 
-* 4/14: [time_series_covid19_deaths_US.csv] Unassigned, NY, Apirl 3, 955 -> 623; April 4, 1173 -> 427; Apirl 5, 1260 -> 338
