@@ -55,8 +55,8 @@ dataList <- lapply(1:length(theFiles),function(x){
   y
   })
 
-# check number of columns
-columnCount <- unlist(lapply(1:length(theFiles),function(x) length(names(dataList[[x]]))))
+# check number of columns, should be 13 for all files 
+table(unlist(lapply(1:length(theFiles),function(x) length(names(dataList[[x]])))))
 
 data <- do.call(rbind,dataList)
 

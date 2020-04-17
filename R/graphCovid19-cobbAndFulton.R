@@ -1,6 +1,9 @@
 #
 # graph covid-19 confirmed cases
-# 
+# 2020-04-17 lgreski
+#
+
+# dependency: run ./R/readDailyReportsData.R from console to create input data frame 
 
 library(lubridate)
 georgia <- data[data$Province_State == "Georgia",]
