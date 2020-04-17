@@ -1,6 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Monitor,Texas,US,0,0.0
-Unassigned,US Military,US,1794,8.0
+Unassigned,US Military,US,1794,10.0
 Navy,US Military,US,1224,6.0
 Air Force,US Military,US,731,1.0
 Army,US Military,US,717,2.0
@@ -22,4 +22,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2182197,145521.0
+,,World,2182822,145551.0
