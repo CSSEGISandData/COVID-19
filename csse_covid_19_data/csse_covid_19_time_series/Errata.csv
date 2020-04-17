@@ -1,0 +1,43 @@
+﻿Update Date,File,Location,Field Updated,Old,New,Comments
+4/7,time_series_covid19_confirmed_US.csv,Viginia Island,3/29,0,23,New York Times
+4/7,time_series_covid19_confirmed_US.csv,Viginia Island,3/30,0,30,New York Times
+4/7,time_series_covid19_confirmed_US.csv,"DC, US",3/21,0,98,New York Times
+4/7,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",3/19,0,101,New York Times
+4/7,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",3/20,0,124,New York Times
+4/7,time_series_covid19_confirmed_US.csv,"Hillsborough, NH",4/2,0,163,New York Times
+4/7,time_series_covid19_confirmed_US.csv,"Harris, TX",3/20,0,55,New York Times
+4/7,time_series_covid19_confirmed_US.csv,Kansas City,3/21,0,13,New York Times
+4/9,time_series_covid19_confirmed_US.csv,"Box Elder, UT",3/20,13,7,New York Times
+4/9,time_series_covid19_confirmed_US.csv,"Union, FL",4/4,10,2,New York Times
+4/9,time_series_covid19_confirmed_US.csv,"Daviess, KY",3/28,33,20,New York Times
+4/9,time_series_covid19_confirmed_US.csv,"Washington, RI",4/2,46,34,New York Times
+4/9,time_series_covid19_confirmed_US.csv,"West Feliciana, LA",4/2,20,10,New York Times
+4/9,time_series_covid19_confirmed_US.csv,"Davidson, TN",4/2,617,785,New York Times
+4/13,time_series_covid19_confirmed_global.csv,Florida,4/13,682619,580619,data source error
+4/13,time_series_covid19_confirmed_US.csv,"Okaloosa, Florida",4/13,102103,103,data source error
+4/14,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3,955,623,
+4/14,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3,1173,427,
+4/14,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3,1260,338,
+4/16,time_series_covid19_deaths_global.csv,France,4/1,4032,4403,add 371 decesEhpad
+4/16,time_series_covid19_confirmed_global.csv,France,4/4,89953,68605,only report casConfirmes
+4/16,time_series_covid19_confirmed_global.csv,France,4/5,92839,70478,
+4/16,time_series_covid19_confirmed_global.csv,France,4/6,98010,74390,
+4/16,time_series_covid19_confirmed_global.csv,France,4/7,109069,78167,
+4/16,time_series_covid19_confirmed_global.csv,France,4/8,112950,82048,
+4/16,time_series_covid19_confirmed_global.csv,France,4/9,117749,86334,
+4/16,time_series_covid19_confirmed_global.csv,France,4/10,124869,90676,
+4/16,time_series_covid19_confirmed_global.csv,France,4/11,129654,93790,
+4/16,time_series_covid19_confirmed_global.csv,France,4/12,132591,120633,casPossiblesEhpad added
+4/16,time_series_covid19_confirmed_global.csv,France,4/13,136779,124298,
+4/16,time_series_covid19_confirmed_US.csv,"Sutter, California",4/11,3,2,
+4/16,time_series_covid19_confirmed_US.csv,"Sutter, California",4/12,3,2,
+4/16,time_series_covid19_confirmed_US.csv,"Sutter, California",4/13,3,2,
+4/16,time_series_covid19_confirmed_US.csv,"Sutter, California",4/14,3,2,
+4/16,time_series_covid19_confirmed_US.csv,"Sutter, California",4/15,3,2,
+4/16,time_series_covid19_confirmed_US.csv,"Sutter, California",4/16,3,2,
+4/16,time_series_covid19_confirmed_global.csv,US,4/11,20463,20462,
+4/16,time_series_covid19_confirmed_global.csv,US,4/12,22020,22019,
+4/16,time_series_covid19_confirmed_global.csv,US,4/13,23529,23528,
+4/16,time_series_covid19_confirmed_global.csv,US,4/14,25832,25831,
+4/16,time_series_covid19_confirmed_global.csv,US,4/15,28326,28325,
+4/16,time_series_covid19_confirmed_global.csv,US,4/16,32917,32916,
