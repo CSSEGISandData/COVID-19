@@ -14,6 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
+        repository: marceloctorres/COVID-19 
         path: target
         
     - uses: actions/checkout@v2
@@ -23,7 +24,7 @@ jobs:
         
     - name: Pull Request
       run: |
-        cp source\* target\*
+        cp source/* target/*
         cd source
         
         git request-pull -p '30ce7eb' https://marceloctorres/COVID-19 master
