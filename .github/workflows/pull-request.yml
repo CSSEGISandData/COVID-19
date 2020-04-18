@@ -19,16 +19,15 @@ jobs:
         
     - uses: actions/checkout@v2
       with:
-        repository: CSSEGISandData/COVID-19
+        repository:  
         path: source
         
     - name: Pull Request .
       run: |
         cd target
-        git remote add upstream https://github.com/CSSEGISandData/COVID-19.git
-        git fetch upstream
-        git checkout master
-        git merge upstream/master
+        hub pull-request \
+          -b marceloctorres/COVID-19
+          -h CSSEGISandData/COVID-19
+         --no-edit 
         
-        git request-pull -p '#3' https://marceloctorres/COVID-19 master
  
