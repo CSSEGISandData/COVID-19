@@ -1,8 +1,10 @@
 name: CI - Pull Request from Upstream
 
 on:
-  schedule:
-    - cron: "30 0,2,12 * * *"
+  watch:
+  -     
+#  schedule:
+#    - cron: "30 0,2,12 * * *"
 
 jobs:
   pull-request:
