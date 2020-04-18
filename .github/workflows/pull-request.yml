@@ -27,12 +27,19 @@ jobs:
         cd target
         GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}
         echo $GITHUB_TOKEN
+
+        echo 'git config --global credential.helper store'
+        git config --global credential.helper store
+        
+        echo 'git config --global credential.github.com.useHttpPath true'
+        git config --global credential.github.com.useHttpPath true
         
         echo 'git remote -v'
         git remote -v
 
         echo "git remote set-url origin 'https://marceloctorres$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'"
         git remote set-url origin 'https://marceloctorres:m4rc3l025202$$@github.com/marceloctorres/COVID-19.git'
+        
         
         echo "git remote add upstream 'https://CSSEGISandData/COVID-19.git'"
         git remote add upstream 'https://CSSEGISandData/COVID-19.git'
