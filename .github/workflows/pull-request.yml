@@ -9,7 +9,7 @@ on:
 
 jobs:
   pull-request:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
@@ -19,7 +19,7 @@ jobs:
       id: pull-request
       with:
         source_branch: "CSSEGISandData/COVID-19@master"   
-        destination_branch: "CSSEGISandData/COVID-19@master"
+        destination_branch: "marceloctorres/COVID-19@master"
         pr_title: "Pulling ${{ github.ref }} into master" # Title of pull request
         pr_body: ":crown: *An automated PR*"              # Full markdown support, requires pr_title to be set
         pr_template: ".github/PULL_REQUEST_TEMPLATE.md"   # Path to pull request template, requires pr_title to be set, excludes pr_body
