@@ -31,7 +31,7 @@ jobs:
         echo 'git remote -v'
         git remote -v
 
-        echo "git remote set-url origin 'https://marceloctorres:$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'"
+        echo "git remote set-url origin 'https://marceloctorres:m4rc3l025202$$@github.com/marceloctorres/COVID-19.git'"
         git remote set-url origin 'https://marceloctorres:$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'
         
         echo "git remote add upstream 'https://CSSEGISandData/COVID-19.git'"
