@@ -25,6 +25,13 @@ jobs:
     - name: Pull Request .
       run: |
         cd target
+        $GITHUB_TOKEN = $${{ secrets.token }}
+        git remote -v
+        
+        git remote set-url origin 'https://marceloctorres:$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'
+        git remote add upstream 'https://CSSEGISandData/COVID-19.git'
+        git remote -v
+        
         hub init -g
         hub pull-request \
           -b marceloctorres/COVID-19
