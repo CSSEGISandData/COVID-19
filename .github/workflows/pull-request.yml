@@ -23,6 +23,8 @@ jobs:
         
     - name: Pull Request
       run: |
+        copy souce\*.* target\*.*
         cd source
-        git request-pull -p 'update data' https://marceloctorres/COVID-19 master
+        
+        git request-pull -p '30ce7eb' https://marceloctorres/COVID-19 master
  
