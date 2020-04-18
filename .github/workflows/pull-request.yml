@@ -24,8 +24,10 @@ jobs:
         
     - name: Pull Request
       run: |
-        cp -r source/* target/*
-        cd source
-        
+        cd target
+        git pull origin master
+        git add .
+        git commit -m 'Automatico'
+        git push origin master
         git request-pull -p '30ce7eb' https://marceloctorres/COVID-19 master
  
