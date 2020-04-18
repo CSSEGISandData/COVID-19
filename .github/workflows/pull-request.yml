@@ -1,0 +1,26 @@
+name: CI - Pull Request from Upstream
+
+on:
+  schedule:
+    - cron: "30 0,2,12 * * *"
+
+jobs:
+  pull-request:
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Github Pull Request
+      uses: repo-sync/pull-request@master
+      id: pull-request
+  
+    # Runs a single command using the runners shell
+    - name: Run a one-line script
+      run: echo Hello, world!
+
+    # Runs a set of commands using the runners shell
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
