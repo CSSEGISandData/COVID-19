@@ -34,6 +34,6 @@ jobs:
         
         hub init -g
         hub pull-request \
-          -b marceloctorres/COVID-19
-          -h CSSEGISandData/COVID-19
+          -b origin
+          -h upstream
          --no-edit 
