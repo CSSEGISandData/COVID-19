@@ -16,8 +16,8 @@
 4/13,time_series_covid19_confirmed_global.csv,Florida,4/13,682619,580619,data source error
 4/13,time_series_covid19_confirmed_US.csv,"Okaloosa, Florida",4/13,102103,103,data source error
 4/14,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3,955,623,
-4/14,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3,1173,427,
-4/14,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3,1260,338,
+4/14,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/4,1173,427,
+4/14,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/5,1260,338,
 4/16,time_series_covid19_deaths_global.csv,France,4/1,4032,4403,add 371 decesEhpad
 4/16,time_series_covid19_confirmed_global.csv,France,4/4,89953,68605,only report casConfirmes
 4/16,time_series_covid19_confirmed_global.csv,France,4/5,92839,70478,
