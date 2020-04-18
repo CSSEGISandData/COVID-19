@@ -25,5 +25,5 @@ jobs:
     - name: Pull Request .
       run: |
         cd target
-        git request-pull -p 'Update #3' https://marceloctorres/COVID-19 master
+        git request-pull -p '#3' https://marceloctorres/COVID-19 master
  
