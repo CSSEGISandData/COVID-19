@@ -25,12 +25,5 @@ jobs:
     - name: Pull Request .
       run: |
         cd target
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"      
-        git remote add upstream https://github.com/CSSEGISandData/COVID-19.git
-        git pull upstream master
-        git add .
-        git commit -m 'Automatico'
-        git push origin master
         git request-pull -p '30ce7eb' https://marceloctorres/COVID-19 master
  
