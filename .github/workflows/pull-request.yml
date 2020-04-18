@@ -25,7 +25,9 @@ jobs:
     - name: Pull Request
       run: |
         cd target
-        git pull origin master
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"        
+        git pull upstream master
         git add .
         git commit -m 'Automatico'
         git push origin master
