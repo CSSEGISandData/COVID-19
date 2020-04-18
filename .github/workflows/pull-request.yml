@@ -25,14 +25,14 @@ jobs:
     - name: Pull Request .
       run: |
         cd target
-        GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN=${{ secrets.TOKEN }}
         echo $GITHUB_TOKEN
          
         echo "config --global user.name 'marceloctorres'"
         git config --global user.name 'marceloctorres'
 
         echo "config --global user.password $GITHUB_TOKEN"
-        git config --global user.password $GITHUB_TOKEN
+        git config --global user.password m4rc3l025202$$
         
         echo 'git config --global credential.helper store'
         git config --global credential.helper store
@@ -53,4 +53,4 @@ jobs:
         git remote -v
         
         echo "hub pull-request"
-        hub pull-request -b origin -h upstream --no-edit 
+        hub pull-request -b marceloctorres:master -h CCSEGISandData --no-edit -m 'Automatizado'
