@@ -26,7 +26,8 @@ jobs:
       run: |
         cd target
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"        
+        git config --local user.name "GitHub Action"      
+        git remote add upstream https://github.com/CSSEGISandData/COVID-19.git
         git pull upstream master
         git add .
         git commit -m 'Automatico'
