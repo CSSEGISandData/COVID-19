@@ -43,8 +43,8 @@ jobs:
         echo 'git remote -v'
         git remote -v
 
-        echo "git remote set-url origin 'https://marceloctorres$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'"
-        git remote set-url origin 'https://marceloctorres$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'
+        echo "git remote set-url origin 'https://marceloctorres:$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'"
+        git remote set-url origin 'https://marceloctorres:$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'
         
         echo "git remote add upstream 'https://CSSEGISandData/COVID-19.git'"
         git remote add upstream 'https://CSSEGISandData/COVID-19.git'
@@ -52,5 +52,8 @@ jobs:
         echo "git remote -v"
         git remote -v
         
-        echo "hub pull-request"
-        hub pull-request -b marceloctorres:master -h CCSEGISandData --no-edit -m 'Automatizado'
+        echo "hub pr list"
+        hub pr list
+        
+        echo "hub pull-request -b marceloctorres:master -h CCSEGISandData:master --no-edit -m 'Automatizado'"
+        hub pull-request -b marceloctorres:master -h CCSEGISandData:master --no-edit -m 'Automatizado'
