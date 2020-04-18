@@ -15,16 +15,15 @@ jobs:
       uses: repo-sync/pull-request@master
       id: pull-request
       with:
-        source_branch: ""                                 # If blank, default: triggered branch
-        destination_branch: "master"                      # If blank, default: master
+        source_branch: "CSSEGISandData/COVID-19@master"   
+        destination_branch: "CSSEGISandData/COVID-19@master"
         pr_title: "Pulling ${{ github.ref }} into master" # Title of pull request
         pr_body: ":crown: *An automated PR*"              # Full markdown support, requires pr_title to be set
         pr_template: ".github/PULL_REQUEST_TEMPLATE.md"   # Path to pull request template, requires pr_title to be set, excludes pr_body
-        pr_reviewer: "wei,worker"                         # Comma-separated list (no spaces)
-        pr_assignee: "wei,worker"                         # Comma-separated list (no spaces)
+        pr_reviewer: "marceloctorres"                     # Comma-separated list (no spaces)
+        pr_assignee: "marceloctorres"                         # Comma-separated list (no spaces)
         pr_label: "auto-pr"                               # Comma-separated list (no spaces)
         pr_milestone: "Milestone 1"                       # Milestone name
-        pr_draft: true                                    # Creates pull request as draft
         github_token: ${{ secrets.GITHUB_TOKEN }}
   
     # Runs a single command using the runners shell
