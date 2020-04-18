@@ -22,7 +22,7 @@ jobs:
         repository: CSSEGISandData/COVID-19
         path: source
         
-    - name: Pull Request
+    - name: Pull Request .
       run: |
         cd target
         git config --local user.email "action@github.com"
