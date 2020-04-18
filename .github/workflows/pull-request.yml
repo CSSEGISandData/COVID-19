@@ -27,7 +27,13 @@ jobs:
         cd target
         GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}
         echo $GITHUB_TOKEN
+         
+        echo "config --global user.name 'marceloctorres'"
+        git config --global user.name 'marceloctorres'
 
+        echo "config --global user.password $GITHUB_TOKEN"
+        git config --global user.password $GITHUB_TOKEN
+        
         echo 'git config --global credential.helper store'
         git config --global credential.helper store
         
@@ -38,8 +44,7 @@ jobs:
         git remote -v
 
         echo "git remote set-url origin 'https://marceloctorres$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'"
-        git remote set-url origin 'https://marceloctorres:m4rc3l025202$$@github.com/marceloctorres/COVID-19.git'
-        
+        git remote set-url origin 'https://marceloctorres$GITHUB_TOKEN@github.com/marceloctorres/COVID-19.git'
         
         echo "git remote add upstream 'https://CSSEGISandData/COVID-19.git'"
         git remote add upstream 'https://CSSEGISandData/COVID-19.git'
@@ -48,7 +53,4 @@ jobs:
         git remote -v
         
         echo "hub pull-request"
-        hub pull-request \
-          -b origin
-          -h upstream
-         --no-edit 
+        hub pull-request -b origin -h upstream --no-edit 
