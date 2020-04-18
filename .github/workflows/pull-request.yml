@@ -25,7 +25,7 @@ jobs:
     - name: Pull Request .
       run: |
         cd target
-        GITHUB_TOKEN=${{ secrets.TOKEN }}
+        GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}
         echo $GITHUB_TOKEN
         
         echo 'git remote -v'
