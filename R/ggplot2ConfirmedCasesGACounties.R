@@ -7,6 +7,7 @@
 
 library(lubridate)
 library(ggplot2)
+library(ggeasy)
 georgia <- data[data$Province_State == "Georgia",]
 countyList <- c("Cobb","Fulton","Cherokee","DeKalb","Gwinnett")
 gaCounties <- georgia[georgia$Admin2 %in% countyList,]
@@ -16,7 +17,10 @@ asOfDate <- max(gaCounties$date)
 message("data as of ", asOfDate)
 ggplot(gaCounties, aes(date,Confirmed, group = County)) + 
   geom_line(aes(group = County), color = "grey80") +
-  geom_point(aes(color = County)) + 
+  geom_point(aes(color = County)) + scale_x_date(date_breaks = "2 days") +
   labs(x = "Date",
        y = "Confirmed Cases", 
-       title = paste("COVID-19 Cases for Selected Counties in Georgia, USA as of",asOfDate) )
+       title = paste("COVID-19 Cases for Selected Counties in Georgia, USA as of",asOfDate)) +
+  easy_rotate_x_labels(angle = 45, side = "right") 
+
+
