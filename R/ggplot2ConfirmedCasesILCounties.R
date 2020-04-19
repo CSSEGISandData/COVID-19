@@ -18,9 +18,9 @@ colnames(counties) <- sub("Admin2","County",colnames(counties))
 counties$date <- mdy(counties$date)
 asOfDate <- max(counties$date)
 message("data as of ", asOfDate)
-ggplot(counties, aes(date,Confirmed, group = County)) + 
+p2 <- ggplot(counties, aes(date,Confirmed, group = County)) + 
   geom_line(aes(group = County), color = "grey80") +
-  geom_point(aes(color = County)) + 
+  geom_point(aes(color = County)) + scale_x_date(date_breaks = "2 days") +
   labs(x = "Date",
        y = "Confirmed Cases", 
        title = paste("COVID-19 Cases for Selected Counties in",theState,"USA as of",asOfDate) )
