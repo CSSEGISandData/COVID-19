@@ -21,7 +21,7 @@
 ,,St. Barth,,Saint Barthelemy,France,,,,,,,
 ,,Saint Pierre Miquelon,,Saint Pierre and Miquelon,France,46.8852,-56.3159,,,,,
 ,,Saint Martin,,St Martin,France,,,,,,,
-,,France,,,France,46.2276,2.2137,151793,,,,
+,,France,,,France,46.2276,2.2137,152894,,,,
 ,,Vatican City,,,Holy See,,,,,,,
 ,,S. Korea,,,"Korea, South",,,,,,,
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
@@ -129,14 +129,10 @@ De Witt,Texas,US,DeWitt,Texas,US,29.08101855,-97.3568117,,,,,48123
 El Paso--Fort Bliss,Texas,US,El Paso,Texas,US,31.76980765,-106.2363275,,,,,48141
 Harris--Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
 Harris--Non Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
-Bear River,Utah,US,Box Elder,Utah,US,41.52106798,-113.0832816,,,,,49003
 Non-Utah resident,Utah,US,Out of UT,Utah,US,,,,,,,80049
-Unassigned Bear River,Utah,US,Unassigned,Utah,US,,,,,,,90049
-Unassigned Southwest,Utah,US,Unassigned,Utah,US,,,,,,,90049
+Unassigned Bear River,Utah,US,Bear River,Utah,US,,,,,,,90049
+Unassigned Southwest,Utah,US,Southwest,Utah,US,,,,,,,90049
 unassigned,Utah,US,Unassigned,Utah,US,,,,,,,90049
-Southwest Utah,Utah,US,Washington,Utah,US,37.28003525,-113.504698,,,,,49053
-Central Utah,Utah,US,Washington,Utah,US,37.28003525,-113.504698,,,,,49053
-Weber-Morgan,Utah,US,Weber,Utah,US,41.27116049,-111.9145117,,,,,49057
 St. John,Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
 St. Thomas,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
 St. Croix,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
