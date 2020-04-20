@@ -1,11 +1,11 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Monitor,Texas,US,0,0.0
 VA Hospitals,Veteran Affair,US,5476,339.0
-Unassigned,US Military,US,1875,10.0
+Unassigned,US Military,US,2254,13.0
 Navy,US Military,US,1255,6.0
+Army,US Military,US,819,2.0
 Air Force,US Military,US,757,1.0
-Army,US Military,US,726,2.0
-Marine Corps,US Military,US,236,0.0
+Marine Corps,US Military,US,250,0.0
 Countytba,New Hampshire,US,2,0.0
 "Navajo, AZ",Navajo Nation,US,321,0.0
 "McKinley, NM",Navajo Nation,US,261,0.0
@@ -24,4 +24,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2444706,168011.0
+,,World,2460792,168934.0
