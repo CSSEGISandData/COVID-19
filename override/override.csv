@@ -21,7 +21,7 @@
 ,,St. Barth,,Saint Barthelemy,France,,,,,,,
 ,,Saint Pierre Miquelon,,Saint Pierre and Miquelon,France,46.8852,-56.3159,,,,,
 ,,Saint Martin,,St Martin,France,,,,,,,
-,,France,,,France,46.2276,2.2137,145960,,,,
+,,France,,,France,46.2276,2.2137,151793,,,,
 ,,Vatican City,,,Holy See,,,,,,,
 ,,S. Korea,,,"Korea, South",,,,,,,
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
@@ -89,7 +89,7 @@ West Celiciana,Louisiana,US,West Feliciana,Louisiana,US,30.87882871,-91.4148538,
 Prince Georges,Maryland,US,Prince George's,Maryland,US,38.83070039,-76.8496441,,,,,24033
 Queen Annes,Maryland,US,Queen Anne's,Maryland,US,39.06198912,-76.03530977,,,,,24035
 St. Marys,Maryland,US,St. Mary's,Maryland,US,38.30058422,-76.6062928,,,,,24037
-Unassigned,Maryland,US,Unassigned,Maryland,US,,,,67,,,90024
+Unassigned,Maryland,US,Unassigned,Maryland,US,,,,160,,,90024
 Dukes and Nantucket,Massachusetts,US,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,,,,,
 Dickson,Michigan,US,Manistee,Michigan,US,44.33352407,-86.05626916,,,,,26101
 Out of State,Michigan,US,Out of MI,Michigan,US,,,,,,,80026
@@ -112,13 +112,13 @@ Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.720025
 Hillsborough-Other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,35013
-New York City,New York,US,New York City,New York,US,40.7672726,-73.97152637,,11477,,,36061
 Alexander,South Carolina,US,Alexander,North Carolina,US,35.9223796,-81.17751948,,,,,37003
 Stanley,North Carolina,US,Gaston,North Carolina,US,35.29373559,-81.17477045,,,,,37071
 Saipan,Northern Mariana Islands,US,,Northern Mariana Islands,US,15.0979,145.6739,,,,,69
+Unassigned,Northern Mariana Islands,US,,Northern Mariana Islands,US,15.0979,145.6739,,,,,69
 Adam,Ohio,US,Adams,Ohio,US,38.84541072,-83.4718964,,,,,39001
 Guesnsey,Ohio,US,Guernsey,Ohio,US,40.05026529,-81.49248905,,,,,39059
-Unassigned,Ohio,US,Unassigned,Ohio,US,,,,16,,,90039
+Unassigned,Ohio,US,Unassigned,Ohio,US,,,,,,,90039
 Out-of-State,Oklahoma,US,Out of OK,Oklahoma,US,,,,,,,80040
 Mckean,Pennsylvania,US,McKean,Pennsylvania,US,41.80938602,-78.56478358,,,,,42083
 ,,Puerto Rico,,Puerto Rico,US,,,,,,,72
@@ -153,3 +153,4 @@ unassigned,Wyoming,US,Unassigned,Wyoming,US,,,,,,,90056
 ,,Western Sahara,,,Western Sahara,24.2155,-12.8858,,,,,
 Wayne--Non Detroit,Michigan,US,Wayne,Michigan,US,42.28098405,-83.281255,,,,,26163
 Residents Diagnosed Outside of HI,Hawaii,US,Out of HI,Hawaii,US,,,,,,,80015
+New York City,New York,US,New York City,New York,US,40.7672726,-73.97152637,,13157,,,36061
