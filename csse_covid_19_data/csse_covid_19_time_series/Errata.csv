@@ -49,3 +49,5 @@
 4/18,time_series_covid19_deaths_US.csv,all Illinois counties,4/9,462,528,aggregated state value
 4/18,time_series_covid19_confirmed_global.csv,US,4/9,461437,462780,
 4/18,time_series_covid19_deaths_global.csv,US,4/9,16478,16544,
+4/19,time_series_covid19_confirmed_US.csv,"Davidson, Tennessee",4/16,1492,1283,
+4/19,time_series_covid19_confirmed_global.csv,US,4/16,667801,667592,
