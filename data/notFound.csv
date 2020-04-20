@@ -1,5 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Monitor,Texas,US,0,0.0
+Hospital System,Veteran Affair,US,5437,326.0
 Unassigned,US Military,US,1875,10.0
 Navy,US Military,US,1255,6.0
 Air Force,US Military,US,757,1.0
@@ -17,10 +18,10 @@ Countytba,New Hampshire,US,2,0.0
 "Sandoval, NM",Navajo Nation,US,13,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
 Unassigned,Navajo Nation,US,0,44.0
-Inmates,Federal Bureau of Prisons,US,479,21.0
-Staff,Federal Bureau of Prisons,US,305,0.0
+Inmates,Federal Bureau of Prisons,US,495,22.0
+Staff,Federal Bureau of Prisons,US,309,0.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2406905,165058.0
+,,World,2406905,165059.0
