@@ -1,26 +1,26 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Monitor,Texas,US,0,0.0
-VA Hospitals,Veteran Affair,US,5476,339.0
+VA Hospitals,Veteran Affair,US,5534,339.0
 Unassigned,US Military,US,1871,12.0
 Navy,US Military,US,1616,7.0
 Army,US Military,US,819,2.0
 Air Force,US Military,US,779,1.0
 Marine Corps,US Military,US,250,0.0
-"Navajo, AZ",Navajo Nation,US,321,0.0
-"McKinley, NM",Navajo Nation,US,261,0.0
-"Coconino, AZ",Navajo Nation,US,206,0.0
-"Apache, AZ",Navajo Nation,US,187,0.0
-"San Juan, NM",Navajo Nation,US,168,0.0
+"Navajo, AZ",Navajo Nation,US,332,0.0
+"McKinley, NM",Navajo Nation,US,306,0.0
+"Apache, AZ",Navajo Nation,US,233,0.0
+"Coconino, AZ",Navajo Nation,US,217,0.0
+"San Juan, NM",Navajo Nation,US,177,0.0
+"San Juan, UT",Navajo Nation,US,16,0.0
 "Cibola, NM",Navajo Nation,US,14,0.0
-"San Juan, UT",Navajo Nation,US,14,0.0
 "Socorro, NM",Navajo Nation,US,13,0.0
 "Sandoval, NM",Navajo Nation,US,13,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
-Unassigned,Navajo Nation,US,0,44.0
+Unassigned,Navajo Nation,US,0,45.0
 Inmates,Federal Bureau of Prisons,US,497,22.0
 Staff,Federal Bureau of Prisons,US,319,0.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2481374,170436.0
+,,World,2481866,170455.0
