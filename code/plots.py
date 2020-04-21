@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-20 12:07:44
+# @Last Modified time: 2020-04-20 18:47:20
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -686,84 +686,84 @@ def plot_continents(df_continents):
 
 """us tests"""
 def plot_tests_bar_and_percent(ax1, x, y1, y2, color1, color2):
-    ax2 = ax1.twinx()
-    for i, cat in enumerate(y1.columns):
-        ax1.bar(x, y1[cat], color = color1[i], alpha = 0.8)
-    ax2.plot(x, y2, linewidth = 2, color = color2)
-    ax1.legend(['Negative', 'Positive'], loc = 'upper left')
-    ax2.legend(['%positive'], loc = 'upper center')
-    ax1.set_ylabel('Number of tests')
-    ax2.set_ylabel('Positive%')
-    return ax1, ax2
+	ax2 = ax1.twinx()
+	for i, cat in enumerate(y1.columns):
+		ax1.bar(x, y1[cat], color = color1[i], alpha = 0.8)
+	ax2.plot(x, y2, linewidth = 2, color = color2)
+	ax1.legend(['Negative', 'Positive'], loc = 'upper left')
+	ax2.legend(['%positive'], loc = 'upper center')
+	ax1.set_ylabel('Number of tests')
+	ax2.set_ylabel('Positive%')
+	return ax1, ax2
 
 def tests_us_vs_state(df_tests_us_daily, df_tests_onestate_daily, df_us, df_st, state, **kwargs):
-        
-    fig = plt.figure(figsize = (15, 15), constrained_layout=True, facecolor="1")
-    gs = fig.add_gridspec(3, 2)
+		
+	fig = plt.figure(figsize = (15, 15), constrained_layout=True, facecolor="1")
+	gs = fig.add_gridspec(3, 2)
 
-    plt.rc('font', size=SMALL_SIZE)          # controls default text sizes
-    plt.rc('axes', titlesize=BIGGER_SIZE)     # fontsize of the axes title
-    plt.rc('axes', labelsize=MEDIUM_SIZE)    # fontsize of the x and y labels
-    plt.rc('xtick', labelsize=MEDIUM_SIZE)    # fontsize of the tick labels
-    plt.rc('ytick', labelsize=MEDIUM_SIZE)    # fontsize of the tick labels
-    plt.rc('legend', fontsize=MEDIUM_SIZE)    # legend fontsize
-    plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
-
-
-    for i in [0,1]:
-        if(i == 0):
-            plt_title = 'US'
-            df_plot = df_us
-            df_test = df_tests_us_daily
-        else:
-            plt_title = state
-            df_plot = df_st
-            df_test = df_tests_onestate_daily
+	plt.rc('font', size=SMALL_SIZE)          # controls default text sizes
+	plt.rc('axes', titlesize=BIGGER_SIZE)     # fontsize of the axes title
+	plt.rc('axes', labelsize=MEDIUM_SIZE)    # fontsize of the x and y labels
+	plt.rc('xtick', labelsize=MEDIUM_SIZE)    # fontsize of the tick labels
+	plt.rc('ytick', labelsize=MEDIUM_SIZE)    # fontsize of the tick labels
+	plt.rc('legend', fontsize=MEDIUM_SIZE)    # legend fontsize
+	plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
 
 
-        ### bar graph of tests
-        ax = fig.add_subplot(gs[0, i])
-        x = df_test.index
-        ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
-                                              df_test.loc[:,['totalTestResults', 'positive']], 
-                                              df_test.positive/df_test.totalTestResults*100,
-                                              [cat_color['Negative'], cat_color['Positive']],
-                                              'k')
-        myLocator = mticker.MultipleLocator(4)
-        ax.xaxis.set_major_locator(myLocator)
-        ax.tick_params(axis = 'x', labelrotation = 45)
-        ax.set_title(f'{plt_title} tests performed')
-        if('yscales' in kwargs.keys()):
-            ax.set_yscale(kwargs['yscales'][1])
+	for i in [0,1]:
+		if(i == 0):
+			plt_title = 'US'
+			df_plot = df_us
+			df_test = df_tests_us_daily
+		else:
+			plt_title = state
+			df_plot = df_st
+			df_test = df_tests_onestate_daily
 
 
-        ### daily increase
-        ax = fig.add_subplot(gs[1, i])
+		### bar graph of tests
+		ax = fig.add_subplot(gs[0, i])
+		x = df_test.index
+		ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
+											  df_test.loc[:,['totalTestResults', 'positive']], 
+											  df_test.positive/df_test.totalTestResults*100,
+											  [cat_color['Negative'], cat_color['Positive']],
+											  'k')
+		myLocator = mticker.MultipleLocator(4)
+		ax.xaxis.set_major_locator(myLocator)
+		ax.tick_params(axis = 'x', labelrotation = 45)
+		ax.set_title(f'{plt_title} tests performed')
+		if('yscales' in kwargs.keys()):
+			ax.set_yscale(kwargs['yscales'][1])
+
+
+		### daily increase
+		ax = fig.add_subplot(gs[1, i])
 #         ax.bar(x, df_test.totalTestResultsIncrease, color = 'grey')
 #         ax.set_yscale('linear')
-        ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
-                                              df_test.loc[:,['totalTestResultsIncrease', 'positiveIncrease']], 
-                                              df_test.positiveIncrease/df_test.totalTestResultsIncrease*100,
-                                              [cat_color['Negative'], cat_color['Positive']],
-                                              'k')
-        myLocator = mticker.MultipleLocator(4)
-        ax.xaxis.set_major_locator(myLocator)
-        ax.tick_params(axis = 'x', labelrotation = 45)
-        ax.set_title(f'{plt_title} daily tests performed')
-        ax.set_ylabel('Number of tests')
-        if('yscales' in kwargs.keys()):
-            ax1.set_yscale(kwargs['yscales'][2])
+		ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
+											  df_test.loc[:,['totalTestResultsIncrease', 'positiveIncrease']], 
+											  df_test.positiveIncrease/df_test.totalTestResultsIncrease*100,
+											  [cat_color['Negative'], cat_color['Positive']],
+											  'k')
+		myLocator = mticker.MultipleLocator(4)
+		ax.xaxis.set_major_locator(myLocator)
+		ax.tick_params(axis = 'x', labelrotation = 45)
+		ax.set_title(f'{plt_title} daily tests performed')
+		ax.set_ylabel('Number of tests')
+		if('yscales' in kwargs.keys()):
+			ax1.set_yscale(kwargs['yscales'][2])
 
-        ### tests vs. positive
-        ax = fig.add_subplot(gs[2, i])
-        sns.regplot(data = df_test, x = 'positive', y = 'totalTestResults')
-        sns.regplot(x = df_plot.loc[df_test.index, 'Confirmed'], y = df_test.totalTestResults)
-        ax.set_yscale('linear')
-        ax.legend(['Reported positive test cases', 'Reported confirmed cases'])
-        ax.set_xlabel('Toatal number of cases')
-        ax.set_ylabel('Total number of tests')
-        if('yscales' in kwargs.keys()):
-            ax.set_yscale(kwargs['yscales'][3])
+		### tests vs. positive
+		ax = fig.add_subplot(gs[2, i])
+		sns.regplot(data = df_test, x = 'positive', y = 'totalTestResults')
+		sns.regplot(x = df_plot.loc[df_test.index, 'Confirmed'], y = df_test.totalTestResults)
+		ax.set_yscale('linear')
+		ax.legend(['Reported positive test cases', 'Reported confirmed cases'])
+		ax.set_xlabel('Toatal number of cases')
+		ax.set_ylabel('Total number of tests')
+		if('yscales' in kwargs.keys()):
+			ax.set_yscale(kwargs['yscales'][3])
 
 
 def plot_us_tests_by_state(df_us_tests, df_tests_states_daily, df, num_states, usstate_abbs_mapping):
@@ -1065,7 +1065,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	if('k_lines' in kwarg.keys()):
 		k_lines = kwarg['k_lines']
 	else:
-		k_lines = [0.2, 0.4, 0.2, 0.4]
+		k_lines = [0.2, 0.4, 0.2, 0.4, 0.2, 0.4, 0.2, 0.4]
 	if('figsize' in kwarg.keys()):
 		figsize = kwarg['figsize']
 	else:
@@ -1077,7 +1077,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	if('stat_abbs_mapping' in kwarg.keys()):
 		stat_abbs_mapping = kwarg['stat_abbs_mapping']
 
-	
+	color_special = 'k'
 
 	############ figure ############
 	fig = plt.figure(figsize = figsize, constrained_layout=True, facecolor="1", dpi = 72)
@@ -1098,79 +1098,180 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
 	
 	print("subplots:", end = " ")
+
+	i_fig = -1
 	############ case per million ############
 	if('Per_Million' in df_confirmed):
-		ax = fig.add_subplot(gs[5, 0:ncol_half])
-		print("11", end = " ")
+		ax = fig.add_subplot(gs[2, 0:ncol_half])
+		i_fig += 1
+		print(i_fig, end = " ")
 		
 		df_confirmed.sort_values(by = 'Per_Million', inplace = True, ascending=False)
-		plot_list = list(df_confirmed.index[0:num_barplot])
-		compare_list = list(df_confirmed.sort_values(by = time_datetime[-1], ascending=False).index[:num_barplot])
-		
-		iH = [i for i in range(len(plot_list)) if plot_list[i] not in compare_list]
+		plot_list = list(df_confirmed.index[0:num_lineplot])
 
-		y = df_confirmed.loc[plot_list, 'Per_Million'].to_numpy()
-		x = np.arange(len(plot_list))
+		if('list_addins' in kwarg.keys()):
+			plot_list += kwarg['list_addins']
+			plot_list = list(set(plot_list))
+			df_plot = df_confirmed.loc[plot_list,:].sort_values(by = 'Per_Million', ascending=False)
+			plot_list = list(df_plot.index)
+		df_plot = df_confirmed.loc[plot_list,time_datetime]
+
+		colors = get_colors(len(plot_list))
+		max_x = 0
+		max_y = 0
+
+		for i, ele in enumerate(plot_list):
+			y = df_confirmed.loc[ele,time_datetime]/(df_confirmed.loc[ele,'Population']/MILLION)
+			if(y[-1] > 100):
+				xi = len(y[y>100])
+				yi = max(y)
+				if(xi > max_x and ele != 'China'):
+					max_x = xi
+				if(yi > max_y):
+					max_y = yi
+				if('special' in kwarg.keys()):
+					if(ele == kwarg['special']):
+						ax.plot(y[y>100].to_numpy(), linewidth = 3, color = color_special)
+					else:
+						ax.plot(y[y>100].to_numpy(), color = colors[i], linewidth = 3)
+				else:
+					ax.plot(y[y>100].to_numpy(), color = colors[i])
+		# print(max_x, max_y)
 
 		if(is_format_xtick):
 			plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
 
+		x = np.arange(max_x)
+		ax.plot(x, 100 * (1+k_lines[4]) ** x, ls='--', color='k')
+		ax.plot(x, 100 * (1+k_lines[5]) ** x, ls='-.', color='k')
 
-		rects1 = ax.bar(x, y, color = 'grey')
-		rects2 = ax.bar(x[iH], y[iH], color = 'tab:red')
+		ax.set_ylim([100, max_y+max_y/2])
+		ax.set_xlim([0, max_x + 2])
+		ax.legend(plot_list + 
+				   [f'{k_lines[4]*100:.0f}% daily incrase',
+				   f'{k_lines[5]*100:.0f}% daily increase'], 
+				   loc="center right",
+				   bbox_to_anchor = (1.1, 0, 0.25, 1)) #
+		ax.set_yscale(yscales[0])
+		ax.set_xlabel('Days Since 100 Confirmed/Million')
+		ax.set_title(f'Total Confirmed/Million')
 
-		autolabel(rects1, ax, '{:.1f}')
-		autolabel(rects2, ax, '{:.1f}')
+		# compare_list = list(df_confirmed.sort_values(by = time_datetime[-1], ascending=False).index[:num_barplot])
+		
+		# iH = [i for i in range(len(plot_list)) if plot_list[i] not in compare_list]
 
-		a = ax.set_xticks(x)
-		a = ax.set_xticklabels(plot_list)
-		ax.tick_params(axis = 'x', labelrotation = -90)
-		ax.set_xlim([-1, len(x) + 0.5])
+		# y = df_confirmed.loc[plot_list, 'Per_Million'].to_numpy()
+		# x = np.arange(len(plot_list))
 
-		ax.set_yscale(yscales[4])
-		ymax = np.ceil(np.max(y)*1.2)
-		ax.set_ylim([-0.5, ymax])
+		# if(is_format_xtick):
+		# 	plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
 
-		a = ax.set_title(f'Case per Million')
+
+		# rects1 = ax.bar(x, y, color = 'grey')
+		# rects2 = ax.bar(x[iH], y[iH], color = 'tab:red')
+
+		# autolabel(rects1, ax, '{:.1f}')
+		# autolabel(rects2, ax, '{:.1f}')
+
+		# a = ax.set_xticks(x)
+		# a = ax.set_xticklabels(plot_list)
+		# ax.tick_params(axis = 'x', labelrotation = -90)
+		# ax.set_xlim([-1, len(x) + 0.5])
+
+		# ax.set_yscale(yscales[4])
+		# ymax = np.ceil(np.max(y)*1.2)
+		# ax.set_ylim([-0.5, ymax])
+
+		# a = ax.set_title(f'Case per Million')
 		
 
 	############ death per million ############
 	if('Per_Million' in df_deaths):
-		ax = fig.add_subplot(gs[5, ncol_half:])
-		print("12,", end = " ")
+		ax = fig.add_subplot(gs[2, ncol_half:])
+		i_fig += 1
+		print(i_fig, end = " ")
 
 		df_deaths.sort_values(by = 'Per_Million', inplace = True, ascending=False)
-		plot_list = list(df_deaths.index[0:num_barplot])
-		compare_list = list(df_deaths.sort_values(by = time_datetime[-1], ascending=False).index[:num_barplot])
+		plot_list = list(df_deaths.index[0:num_lineplot])
+		if('list_addins' in kwarg.keys()):
+			plot_list += kwarg['list_addins']
+			plot_list = list(set(plot_list))
+			df_plot = df_deaths.loc[plot_list,:].sort_values(by = 'Per_Million', ascending=False)
+			plot_list = list(df_plot.index)
+		df_plot = df_deaths.loc[plot_list,time_datetime]
 
-		iH = [i for i in range(len(plot_list)) if plot_list[i] not in compare_list]
-		y = df_deaths.loc[plot_list, 'Per_Million'].to_numpy()
-		x = np.arange(len(plot_list))
+		colors = get_colors(len(plot_list))
+		max_x = 0
+		max_y = 0
+
+		for i, ele in enumerate(plot_list):
+			y = df_plot.loc[ele,time_datetime]/(df_deaths.loc[ele,'Population']/MILLION)
+			if(y[-1] > 10):
+				xi = len(y[y>10])
+				yi = max(y)
+				if(xi > max_x and ele != 'China'):
+					max_x = xi
+				if(yi > max_y):
+					max_y = yi
+				if('special' in kwarg.keys()):
+					if(ele == kwarg['special']):
+						ax.plot(y[y>10].to_numpy(), linewidth = 3, color = color_special)
+					else:
+						ax.plot(y[y>10].to_numpy(), color = colors[i], linewidth = 3)
+				else:
+					ax.plot(y[y>10].to_numpy(), color = colors[i])
+
+		# print(max_x, max_y)
 
 		if(is_format_xtick):
 			plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
 
-		rects1 = ax.bar(x, y, color = 'grey')
-		rects2 = ax.bar(x[iH], y[iH], color = 'tab:red')
+		x = np.arange(max_x)
+		ax.plot(x, 10 * (1+k_lines[6]) ** x, ls='--', color='k')
+		ax.plot(x, 10 * (1+k_lines[7]) ** x, ls='-.', color='k')
 
-		autolabel(rects1, ax, '{:.1f}')
-		autolabel(rects2, ax, '{:.1f}')
+		ax.set_ylim([10, max_y+max_y/2])
+		ax.set_xlim([0, max_x + 2])
+		ax.legend(plot_list + 
+				   [f'{k_lines[6]*100:.0f}% daily incrase',
+				   f'{k_lines[7]*100:.0f}% daily increase'], 
+				   loc="center right",
+				   bbox_to_anchor = (1.1, 0, 0.25, 1)) #
+		ax.set_yscale(yscales[0])
+		ax.set_xlabel('Days Since 10 Deaths/Million')
+		ax.set_title(f'Total Deaths/Million')
 
-		a = ax.set_xticks(x)
-		a = ax.set_xticklabels(plot_list)
-		ax.tick_params(axis = 'x', labelrotation = -90)
-		ax.set_xlim([-1, len(x) + 0.5])
+		# compare_list = list(df_deaths.sort_values(by = time_datetime[-1], ascending=False).index[:num_barplot])
+
+		# iH = [i for i in range(len(plot_list)) if plot_list[i] not in compare_list]
+		# y = df_deaths.loc[plot_list, 'Per_Million'].to_numpy()
+		# x = np.arange(len(plot_list))
+
+		# if(is_format_xtick):
+		# 	plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
+		# rects1 = ax.bar(x, y, color = 'grey')
+		# rects2 = ax.bar(x[iH], y[iH], color = 'tab:red')
+
+		# autolabel(rects1, ax, '{:.1f}')
+		# autolabel(rects2, ax, '{:.1f}')
+
+		# a = ax.set_xticks(x)
+		# a = ax.set_xticklabels(plot_list)
+		# ax.tick_params(axis = 'x', labelrotation = -90)
+		# ax.set_xlim([-1, len(x) + 0.5])
 		
-		ax.set_yscale(yscales[4])
-		ymax = np.ceil(np.max(y)*1.2)
-		ax.set_ylim([-0.5, ymax])
+		# ax.set_yscale(yscales[4])
+		# ymax = np.ceil(np.max(y)*1.2)
+		# ax.set_ylim([-0.5, ymax])
 
-		a = ax.set_title(f'Deaths per Million')
+		# a = ax.set_title(f'Deaths per Million')
 	
 
 	############ total confirmed: normalize axis ############
 	ax = fig.add_subplot(gs[0, 0:ncol_lh])
-	print("1,", end = " ")
+	i_fig += 1
+	print(i_fig, end = " ")
 	
 	df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
 	plot_list = list(df_confirmed.index[0:num_lineplot])
@@ -1192,7 +1293,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 				max_x = xi
 			if('special' in kwarg.keys()):
 				if(ele == kwarg['special']):
-					ax.plot(df_plot.loc[ele, df_plot.loc[ele,:]>100].to_numpy(), linewidth = 3, color = 'tab:red')
+					ax.plot(df_plot.loc[ele, df_plot.loc[ele,:]>100].to_numpy(), linewidth = 3, color = color_special)
 				else:
 					ax.plot(df_plot.loc[ele, df_plot.loc[ele,:]>100].to_numpy(), color = colors[i], linewidth = 3)
 			else:
@@ -1218,7 +1319,8 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 
 	############ total confirmed: pie chart ############
 	ax = fig.add_subplot(gs[0,ncol_lh:])
-	print("2,", end = " ")
+	i_fig += 1
+	print(i_fig, end = " ")
 
 	df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
 	percentages = []
@@ -1247,7 +1349,8 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 
 	############ total deaths: normalized axis ############
 	ax = fig.add_subplot(gs[1, 0:ncol_lh])
-	print("3,", end = " ")
+	i_fig += 1
+	print(i_fig, end = " ")
 	
 	df_deaths.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
 	plot_list = list(df_deaths.index[0:num_lineplot])
@@ -1271,7 +1374,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 				max_x = xi
 			if('special' in kwarg.keys()):
 				if(ele == kwarg['special']):
-					ax.plot(df_plot.loc[ele,df_plot.loc[ele,:]>10].to_numpy(), color = 'tab:red', linewidth = 3)
+					ax.plot(df_plot.loc[ele,df_plot.loc[ele,:]>10].to_numpy(), color = color_special, linewidth = 3)
 				else:
 					ax.plot(df_plot.loc[ele,df_plot.loc[ele,:]>10].to_numpy(), color = colors[i], linewidth = 3)
 			else:
@@ -1300,7 +1403,8 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 
 	############ total deaths: pie chart ############
 	ax = fig.add_subplot(gs[1,ncol_lh:])
-	print("4,", end = " ")
+	i_fig += 1
+	print(i_fig, end = " ")
 	
 	df_deaths.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
 	percentages = []
@@ -1327,8 +1431,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	# fig.subplots_adjust(left=-0.1,right=0.9)
 
 	############ daily confirmed ############
-	ax = fig.add_subplot(gs[2, 0:ncol_half])
-	print("5,", end = " ")
+	ax = fig.add_subplot(gs[3, 0:ncol_half])
+	i_fig += 1
+	print(i_fig, end = " ")
 	
 	df_confirmed.sort_values(by = 'New_Today', inplace = True, ascending=False)
 	plot_list = list(df_confirmed.index[0:num_lineplot])
@@ -1352,7 +1457,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 				x_max = len(xi)
 			if('special' in kwarg.keys()):
 				if(ele == kwarg['special']):
-					ax.plot(xi, yi, color = 'tab:red', linewidth = 3)
+					ax.plot(xi, yi, color = color_special, linewidth = 3)
 				else:
 					ax.plot(xi, yi, color = colors[i], linewidth = 3)
 			else:
@@ -1370,9 +1475,10 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	
 	
 	############ daily deaths ############
-	ax = fig.add_subplot(gs[2, ncol_half:])
-	print("6,", end = " ")
-	
+	ax = fig.add_subplot(gs[3, ncol_half:])
+	i_fig += 1
+	print(i_fig, end = " ")
+
 	df_deaths.sort_values(by = 'New_Today', inplace = True, ascending=False)
 	plot_list = list(df_deaths.index[0:num_lineplot])
 	if('list_addins' in kwarg.keys()):
@@ -1395,7 +1501,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 				x_max = len(xi)
 			if('special' in kwarg.keys()):
 				if(ele == kwarg['special']):
-					ax.plot(xi, yi, color = 'tab:red', linewidth = 3)
+					ax.plot(xi, yi, color = color_special, linewidth = 3)
 				else:
 					ax.plot(xi, yi, color = colors[i],  linewidth = 3)
 			else:
@@ -1414,8 +1520,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 
 
 	########### growth factors: confirmed ############
-	ax = fig.add_subplot(gs[3, 0:ncol_half])
-	print("7,", end = " ")
+	ax = fig.add_subplot(gs[4, 0:ncol_half])
+	i_fig += 1
+	print(i_fig, end = " ")
 
 
 	df_confirmed.sort_values(by = 'GF_today', inplace = True, ascending=False)
@@ -1466,8 +1573,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	
 	
 	############ growth factors: deaths ############
-	ax = fig.add_subplot(gs[3, ncol_half:])
-	print("7,", end = " ")
+	ax = fig.add_subplot(gs[4, ncol_half:])
+	i_fig += 1
+	print(i_fig, end = " ")
 
 	df_deaths.sort_values(by = 'GF_today', inplace = True, ascending=False)
 	plot_list = list(df_deaths.index[0:int(num_barplot)])
@@ -1512,8 +1620,9 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	
 
 	############ fatality rate ############
-	ax = fig.add_subplot(gs[4, 0:ncol_half])
-	print("8,", end = " ")
+	ax = fig.add_subplot(gs[5, 0:ncol_half])
+	i_fig += 1
+	print(i_fig, end = " ")
 	
 	df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
 	plot_list = list(df_confirmed.index[0:num_barplot])
@@ -1546,43 +1655,43 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	a = ax.set_title(f'CFRs: mean = {fr_total:.2f}%')
 
 	########## r for logistic growth fit ############
-	ax = fig.add_subplot(gs[4, ncol_half:])
-	print("9:", end = " ")
+	# ax = fig.add_subplot(gs[4, ncol_half:])
+	# print("9:", end = " ")
 	
-	df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
-	plot_list = list(df_confirmed.index[0:num_barplot])
+	# df_confirmed.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
+	# plot_list = list(df_confirmed.index[0:num_barplot])
 
-	x = np.arange(len(plot_list))
-	x1 = np.arange(-2, len(x)+2)
-	# if not 'rs_global' in locals():
-	rs_global = []
-	for i in x:
-		print(f'{i}-', end = "")
-		ele = plot_list[i]
-		df_ele = pd.DataFrame(df_confirmed.loc[ele,time_datetime])
-		df_ele.loc[:, ele] = df_ele.loc[:, ele].astype('float')
-		df_ele = my_func.reshape_dataframe(df_ele, time_datetime)
-		rs_global.append(get_growth_rate(df_ele, time_datetime))
-	rs_global = np.array(rs_global)
+	# x = np.arange(len(plot_list))
+	# x1 = np.arange(-2, len(x)+2)
+	# # if not 'rs_global' in locals():
+	# rs_global = []
+	# for i in x:
+	# 	print(f'{i}-', end = "")
+	# 	ele = plot_list[i]
+	# 	df_ele = pd.DataFrame(df_confirmed.loc[ele,time_datetime])
+	# 	df_ele.loc[:, ele] = df_ele.loc[:, ele].astype('float')
+	# 	df_ele = my_func.reshape_dataframe(df_ele, time_datetime)
+	# 	rs_global.append(get_growth_rate(df_ele, time_datetime))
+	# rs_global = np.array(rs_global)
 
-	rects = ax.bar(x[rs_global<1], rs_global[rs_global<1], color = 'tab:grey')
-	ax.bar(x[rs_global>=1], rs_global[rs_global>=1], color = 'tab:grey')
-	ax.plot(x1, np.full(len(x1), np.median(rs_global)), '--', color = 'k')
+	# rects = ax.bar(x[rs_global<1], rs_global[rs_global<1], color = 'tab:grey')
+	# ax.bar(x[rs_global>=1], rs_global[rs_global>=1], color = 'tab:grey')
+	# ax.plot(x1, np.full(len(x1), np.median(rs_global)), '--', color = 'k')
 
-	autolabel(rects, ax, '{:.2f}')
+	# autolabel(rects, ax, '{:.2f}')
 
-	if(is_format_xtick):
-		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+	# if(is_format_xtick):
+	# 	plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
 
-	a = ax.set_xticks(x)
-	a = ax.set_xticklabels(plot_list)
-	ax.tick_params(axis = 'x', labelrotation = -90)
-	ax.set_xlim([-1, len(x) + 0.5])
+	# a = ax.set_xticks(x)
+	# a = ax.set_xticklabels(plot_list)
+	# ax.tick_params(axis = 'x', labelrotation = -90)
+	# ax.set_xlim([-1, len(x) + 0.5])
 
-	ax.set_ylim([0, 1])
-	ax.set_yscale(yscales[3])
+	# ax.set_ylim([0, 1])
+	# ax.set_yscale(yscales[3])
 	
-	a = ax.set_title(f'Logistic fitted r, median = {np.median(rs_global):.2f}')
+	# a = ax.set_title(f'Logistic fitted r, median = {np.median(rs_global):.2f}')
 	
 
 	# plt.tight_layout()
