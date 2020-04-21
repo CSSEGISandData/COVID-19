@@ -41,3 +41,13 @@
 4/16,time_series_covid19_confirmed_global.csv,US,4/14,25832,25831,
 4/16,time_series_covid19_confirmed_global.csv,US,4/15,28326,28325,
 4/16,time_series_covid19_confirmed_global.csv,US,4/16,32917,32916,
+4/18,time_series_covid19_confirmed_US.csv,all Illinois counties,4/7,12271,13553,"changed at county level,"
+4/18,time_series_covid19_deaths_US.csv,all Illinois counties,4/7,308,380,aggregated state value
+4/18,time_series_covid19_confirmed_global.csv,US,4/7,396223,397505,
+4/18,time_series_covid19_deaths_global.csv,US,4/7,12722,12794,
+4/18,time_series_covid19_confirmed_US.csv,all Illinois counties,4/9,15079,16422,"changed at county level,"
+4/18,time_series_covid19_deaths_US.csv,all Illinois counties,4/9,462,528,aggregated state value
+4/18,time_series_covid19_confirmed_global.csv,US,4/9,461437,462780,
+4/18,time_series_covid19_deaths_global.csv,US,4/9,16478,16544,
+4/19,time_series_covid19_confirmed_US.csv,"Davidson, Tennessee",4/16,1492,1283,
+4/19,time_series_covid19_confirmed_global.csv,US,4/16,667801,667592,
