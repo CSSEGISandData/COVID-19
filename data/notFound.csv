@@ -1,5 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Benton and Franklin,Washington,US,740,39.0
+VA Hospitals,Veteran Affair,US,5777,374.0
 Unassigned,US Military,US,2203,15.0
 Navy,US Military,US,1631,7.0
 Army,US Military,US,841,2.0
@@ -23,4 +24,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,13,0.0
-,,World,2629951,183723.0
+,,World,2631338,183788.0
