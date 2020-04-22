@@ -51,3 +51,38 @@
 4/18,time_series_covid19_deaths_global.csv,US,4/9,16478,16544,
 4/19,time_series_covid19_confirmed_US.csv,"Davidson, Tennessee",4/16,1492,1283,
 4/19,time_series_covid19_confirmed_global.csv,US,4/16,667801,667592,
+4/22,time_series_covid19_confirmed_global.csv,US,4/1,213372,213242,Navajo Nation correction
+4/22,time_series_covid19_confirmed_global.csv,US,4/2,243762,243622,Navajo Nation correction
+4/22,time_series_covid19_confirmed_global.csv,US,4/3,275586,275367,Navajo Nation correction
+4/22,time_series_covid19_confirmed_global.csv,US,4/4,308853,308650,Navajo Nation correction
+4/22,time_series_covid19_confirmed_global.csv,US,4/5,337072,336802,Navajo Nation correction
+4/22,time_series_covid19_confirmed_global.csv,US,4/6,366667,366317,Navajo Nation correction
+4/22,time_series_covid19_confirmed_global.csv,US,4/7,397505,397121,Navajo Nation correction
+4/22,time_series_covid19_confirmed_global.csv,US,4/8,429052,428654,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,3/31,3873,3874,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/1,4757,4760,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/2,5926,5929,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/3,7087,7090,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/4,8407,8408,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/7,12794,12794,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/8,14695,14704,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/10,18586,18595,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/11,20462,20471,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/12,22019,22029,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/13,23528,23538,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/14,25831,25843,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/15,28325,28338,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/16,32916,32930,Navajo Nation correction
+4/22,time_series_covid19_deaths_global.csv,US,4/17,36773,36787,Navajo Nation correction
+4/22,time_series_covid19_confirmed_US.csv,"Navajo, AZ",4/1 - 4/8,,,remove duplicates
+4/22,time_series_covid19_confirmed_US.csv,"Coconino, AZ",4/1 - 4/8,,,remove duplicates
+4/22,time_series_covid19_confirmed_US.csv,"Apache, AZ",4/1 - 4/8,,,remove duplicates
+4/22,time_series_covid19_confirmed_US.csv,"San Juan, NM",4/1 - 4/8,,,remove duplicates
+4/22,time_series_covid19_confirmed_US.csv,"McKinley, NM",4/1 - 4/8,,,remove duplicates
+4/22,time_series_covid19_confirmed_US.csv,"Cibola, NM",4/1 - 4/8,,,remove duplicates
+4/22,time_series_covid19_confirmed_US.csv,"Socorro, NM",4/1 - 4/8,,,remove duplicates
+4/22,time_series_covid19_confirmed_US.csv,"San Juan, UT",4/1 - 4/8,,,remove duplicates
+4/22,time_series_covid19_deaths_US.csv,"Navajo, AZ",3/31 - 4/17,,,remove duplicates
+4/22,time_series_covid19_deaths_US.csv,"Coconino, AZ",3/31 - 4/17,,,remove duplicates
+4/22,time_series_covid19_deaths_US.csv,"Apache, AZ",3/31 - 4/17,,,remove duplicates
+4/22,time_series_covid19_deaths_US.csv,"McKinley, NM",4/4,0,1,remove duplicates
