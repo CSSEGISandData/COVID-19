@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-20 18:47:20
+# @Last Modified time: 2020-04-21 21:09:40
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -1119,6 +1119,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 		colors = get_colors(len(plot_list))
 		max_x = 0
 		max_y = 0
+		legend = []
 
 		for i, ele in enumerate(plot_list):
 			y = df_confirmed.loc[ele,time_datetime]/(df_confirmed.loc[ele,'Population']/MILLION)
@@ -1136,10 +1137,11 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 						ax.plot(y[y>100].to_numpy(), color = colors[i], linewidth = 3)
 				else:
 					ax.plot(y[y>100].to_numpy(), color = colors[i])
+				legend.append(ele)
 		# print(max_x, max_y)
 
 		if(is_format_xtick):
-			plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+			legend = reformat_xtick(legend, stat_abbs_mapping)
 
 		x = np.arange(max_x)
 		ax.plot(x, 100 * (1+k_lines[4]) ** x, ls='--', color='k')
@@ -1147,7 +1149,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 
 		ax.set_ylim([100, max_y+max_y/2])
 		ax.set_xlim([0, max_x + 2])
-		ax.legend(plot_list + 
+		ax.legend(legend + 
 				   [f'{k_lines[4]*100:.0f}% daily incrase',
 				   f'{k_lines[5]*100:.0f}% daily increase'], 
 				   loc="center right",
@@ -1203,6 +1205,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 		colors = get_colors(len(plot_list))
 		max_x = 0
 		max_y = 0
+		legend = []
 
 		for i, ele in enumerate(plot_list):
 			y = df_plot.loc[ele,time_datetime]/(df_deaths.loc[ele,'Population']/MILLION)
@@ -1220,11 +1223,12 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 						ax.plot(y[y>10].to_numpy(), color = colors[i], linewidth = 3)
 				else:
 					ax.plot(y[y>10].to_numpy(), color = colors[i])
+				legend.append(ele)
 
 		# print(max_x, max_y)
 
 		if(is_format_xtick):
-			plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+			legend = reformat_xtick(legend, stat_abbs_mapping)
 
 		x = np.arange(max_x)
 		ax.plot(x, 10 * (1+k_lines[6]) ** x, ls='--', color='k')
@@ -1232,7 +1236,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 
 		ax.set_ylim([10, max_y+max_y/2])
 		ax.set_xlim([0, max_x + 2])
-		ax.legend(plot_list + 
+		ax.legend(legend + 
 				   [f'{k_lines[6]*100:.0f}% daily incrase',
 				   f'{k_lines[7]*100:.0f}% daily increase'], 
 				   loc="center right",
@@ -1619,7 +1623,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	a = ax.set_title('Growth Factors: Deaths')
 	
 
-	############ fatality rate ############
+	############ fatality rate: countries with most caes ############
 	ax = fig.add_subplot(gs[5, 0:ncol_half])
 	i_fig += 1
 	print(i_fig, end = " ")
@@ -1652,7 +1656,41 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	ax.set_ylim([0, ymax])
 	ax.set_yscale(yscales[3])
 	
-	a = ax.set_title(f'CFRs: mean = {fr_total:.2f}%')
+	a = ax.set_title(f'CFR of regions with most cases (mean = {fr_total:.2f}%)')
+
+
+	############ fatality rate: highest CFR ############
+	ax = fig.add_subplot(gs[5, ncol_half:])
+	i_fig += 1
+	print(i_fig, end = " ")
+	
+	fatal_rates = df_deaths.loc[:,time_datetime] / df_confirmed.loc[:,time_datetime] * 100
+	fatal_rates.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
+	plot_list = list(fatal_rates.index[0:num_barplot])
+	x = np.arange(len(plot_list))
+	x1 = np.arange(-2, len(x)+2)
+	fr_total = np.sum(df_deaths.loc[:,time_datetime[-1]]) / np.sum(df_confirmed.loc[:,time_datetime[-1]]) * 100
+	y = fatal_rates.loc[plot_list,time_datetime[-1]]
+
+	if(is_format_xtick):
+		plot_list = reformat_xtick(plot_list, stat_abbs_mapping)
+
+	rects1 = ax.bar(x, y, color = 'tab:grey')
+	ax.plot(x1, np.full(len(x1), fr_total), '--', color = 'k')
+	
+	autolabel(rects1, ax, '{:.1f}')
+
+	a = ax.set_xticks(x)
+	a = ax.set_xticklabels(plot_list)
+	ax.tick_params(axis = 'x', labelrotation = -90)
+	ax.set_xlim([-1, len(x) + 0.5])
+	
+	ymax = np.ceil(np.max(fatal_rates.loc[:,time_datetime[-1]]) + 1)
+	ax.set_ylim([0, ymax])
+	ax.set_yscale(yscales[3])
+	
+	a = ax.set_title(f'Regions of highest CFRs (mean = {fr_total:.2f}%)')
+
 
 	########## r for logistic growth fit ############
 	# ax = fig.add_subplot(gs[4, ncol_half:])
