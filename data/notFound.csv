@@ -1,6 +1,5 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Monitor,Texas,US,0,0.0
-Benton and Franklin,Washington,US,727,38.0
+Benton and Franklin,Washington,US,740,39.0
 "Navajo, AZ",Navajo Nation,US,332,0.0
 "McKinley, NM",Navajo Nation,US,306,0.0
 "Apache, AZ",Navajo Nation,US,233,0.0
@@ -16,4 +15,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2609100,182151.0
+,,World,2614803,182467.0
