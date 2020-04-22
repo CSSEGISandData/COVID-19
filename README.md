@@ -9,7 +9,7 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 <br><br>
 <b>Visual Dashboard (mobile):</b><br>
-http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
+https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 <br><br>
 <b>Lancet Article:</b><br>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
@@ -19,7 +19,7 @@ https://systems.jhu.edu/
 <br><br>
 <b>Data Sources:</b><br>
 * World Health Organization (WHO): https://www.who.int/ <br>
-* DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
+* DXY.cn. Pneumonia. 2020. https://3g.dxy.cn/newh5/view/pneumonia.  <br>
 * BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  <br>
 * National Health Commission of the People’s Republic of China (NHC): <br>
  http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml <br>
