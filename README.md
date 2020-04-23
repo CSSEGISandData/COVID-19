@@ -19,12 +19,12 @@ https://systems.jhu.edu/
 <br><br>
 <b>Data Sources:</b><br>
 * World Health Organization (WHO): https://www.who.int/ <br>
-* DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
+* DXY.cn. Pneumonia. 2020. https://ncov.dxy.cn/ncovh5/view/pneumonia.  <br>
 * BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  <br>
 * National Health Commission of the People’s Republic of China (NHC): <br>
  http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml <br>
 * China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm <br>
-* Hong Kong Department of Health: https://www.chp.gov.hk/en/features/102465.html <br>
+* Hong Kong Department of Health: https://www.coronavirus.gov.hk/eng/index.html <br>
 * Macau Government: https://www.ssm.gov.mo/portal/ <br>
 * Taiwan CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0 <br>
 * US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html <br>
