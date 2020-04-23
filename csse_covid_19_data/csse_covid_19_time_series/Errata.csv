@@ -88,3 +88,7 @@
 4/22/20,time_series_covid19_deaths_US.csv,"McKinley, NM",4/4/20,0,1,remove duplicates
 4/22/20,time_series_covid19_confirmed_US.csv,"Unassigned, WA",4/19/20,436,159,remove spike
 4/22/20,time_series_covid19_confirmed_global.csv,US,4/19/20,759086,758809,remove spike
+4/22/20,time_series_covid19_confirmed_US.csv,US,4/21/20,,,correction for US federal data
+4/22/20,time_series_covid19_deaths_US.csv,US,4/21/20,,,correction for US federal data
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/21/20,,,correction for US federal data
+4/22/20,time_series_covid19_deaths_global.csv,US,4/21/20,,,correction for US federal data
