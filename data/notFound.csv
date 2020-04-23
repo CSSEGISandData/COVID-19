@@ -1,27 +1,26 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Benton and Franklin,Washington,US,740,39.0
-VA Hospitals,Veteran Affair,US,5825,374.0
-Unassigned,US Military,US,2138,13.0
-Navy,US Military,US,1691,9.0
-Army,US Military,US,841,2.0
-Air Force,US Military,US,805,1.0
-Marine Corps,US Military,US,259,0.0
-"Navajo, AZ",Navajo Nation,US,342,0.0
-"McKinley, NM",Navajo Nation,US,306,0.0
-"Apache, AZ",Navajo Nation,US,260,0.0
-"Coconino, AZ",Navajo Nation,US,222,0.0
-"San Juan, NM",Navajo Nation,US,177,0.0
-"Cibola, NM",Navajo Nation,US,17,0.0
-"San Juan, UT",Navajo Nation,US,16,0.0
-"Socorro, NM",Navajo Nation,US,13,0.0
-"Sandoval, NM",Navajo Nation,US,13,0.0
-"Bernalillo, NM",Navajo Nation,US,0,0.0
-Unassigned,Navajo Nation,US,0,45.0
 Inmates,Federal Bureau of Prisons,US,566,24.0
 Staff,Federal Bureau of Prisons,US,342,0.0
+"Apache, AZ",Navajo Nation,US,260,0.0
+"Bernalillo, NM",Navajo Nation,US,0,0.0
+"Cibola, NM",Navajo Nation,US,17,0.0
+"Coconino, AZ",Navajo Nation,US,222,0.0
+"McKinley, NM",Navajo Nation,US,306,0.0
+"Navajo, AZ",Navajo Nation,US,342,0.0
+"San Juan, NM",Navajo Nation,US,177,0.0
+"San Juan, UT",Navajo Nation,US,16,0.0
+"Sandoval, NM",Navajo Nation,US,13,0.0
+"Socorro, NM",Navajo Nation,US,13,0.0
+Unassigned,Navajo Nation,US,0,45.0
+Air Force,US Military,US,805,1.0
+Army,US Military,US,841,2.0
+Marine Corps,US Military,US,259,0.0
+Navy,US Military,US,1691,9.0
+Unassigned,US Military,US,2138,13.0
+VA Hospitals,Veteran Affair,US,5825,374.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,13,0.0
-,,World,2637707,184222.0
+,,World,2637888,184235.0
