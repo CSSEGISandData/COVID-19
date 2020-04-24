@@ -1,13 +1,13 @@
 # JHU CSSE COVID-19 Dataset
 
-Table of contents
-=================
+## Table of contents
+
  * [Daily reports (csse_covid_19_daily_reports)](#daily-reports-csse_covid_19_daily_reports)
  * [USA daily state reports (csse_covid_19_daily_reports_us)](#usa-daily-state-reports-csse_covid_19_daily_reports_us)
  * [Time series summary (csse_covid_19_time_series)](#time-series-summary-csse_covid_19_time_series)
  * [Data modification records](#data-modification-records)
- * [UID Lookup Table Logic](#time-series-summary-csse_covid_19_time_series)
-
+ * [UID Lookup Table Logic](#uid-lookup-table-logic)
+---
 
 ## [Daily reports (csse_covid_19_daily_reports)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 
