@@ -1,6 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,566,24.0
-Staff,Federal Bureau of Prisons,US,342,0.0
+Inmates,Federal Bureau of Prisons,US,620,24.0
+Staff,Federal Bureau of Prisons,US,357,0.0
 "Apache, AZ",Navajo Nation,US,262,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
 "Cibola, NM",Navajo Nation,US,17,0.0
@@ -24,4 +24,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,13,0.0
 ,Nunavut,Canada,0,0.0
-,,World,2715713,190465.0
+,,World,2718139,190635.0
