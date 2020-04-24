@@ -36,6 +36,7 @@ https://systems.jhu.edu/
 * 1Point3Arces: https://coronavirus.1point3acres.com/en
 * WorldoMeters: https://www.worldometers.info/coronavirus/
 * COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number report ed for each state.)
+* French Government: https://dashboard.covid19.data.gouv.fr/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>

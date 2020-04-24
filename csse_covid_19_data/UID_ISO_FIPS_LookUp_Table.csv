@@ -329,6 +329,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84070003,US,USA,840,,Kansas City,Missouri,US,39.0997,-94.5786,"Kansas City, Missouri, US",488943
 84070004,US,USA,840,,Michigan Department of Corrections (MDOC),Michigan,US,,,"Michigan Department of Corrections (MDOC), Michigan, US",
 84070005,US,USA,840,,Federal Correctional Institution (FCI),Michigan,US,,,"Federal Correctional Institution (FCI), Michigan, US",
+84070006,US,USA,840,,Air Force,US Military,US,,,"Air Force, US Military, US",
+84070007,US,USA,840,,Army,US Military,US,,,"Army, US Military, US",
+84070008,US,USA,840,,Marine Corps,US Military,US,,,"Marine Corps, US Military, US",
+84070009,US,USA,840,,Navy,US Military,US,,,"Navy, US Military, US",
+84070010,US,USA,840,,Unassigned,US Military,US,,,"Unassigned, US Military, US",
+84070011,US,USA,840,,,US Military,US,,,"US Military, US",
+84070012,US,USA,840,,Inmates,Federal Bureau of Prisons,US,,,"Inmates, Federal Bureau of Prisons, US",
+84070013,US,USA,840,,Staff,Federal Bureau of Prisons,US,,,"Staff, Federal Bureau of Prisons, US",
+84070014,US,USA,840,,,Federal Bureau of Prisons,US,,,"Federal Bureau of Prisons, US",
+84070015,US,USA,840,,Bear River,Utah,US,41.52106798,-113.0832816,"Bear River, Utah, US",186818
+84070016,US,USA,840,,Central Utah,Utah,US,39.37231946,-111.5758676,"Central Utah, Utah, US",81954
+84070017,US,USA,840,,Southeast Utah,Utah,US,38.99617072,-110.7013958,"Southeast Utah, Utah, US",40229
+84070018,US,USA,840,,Southwest Utah,Utah,US,37.85447192,-111.4418764,"Southwest Utah, Utah, US",252042
+84070019,US,USA,840,,TriCounty,Utah,US,40.12491499,-109.5174415,"TriCounty, Utah, US",56622
+84070020,US,USA,840,,Weber-Morgan,Utah,US,41.27116049,-111.9145117,"Weber-Morgan, Utah, US",272337
+84070021,US,USA,840,,,Veteran Hospitals,US,,,"Veteran Hospitals, US",
 84080001,US,USA,840,80001,Out of AL,Alabama,US,,,"Out of AL, Alabama, US",
 84080002,US,USA,840,80002,Out of AK,Alaska,US,,,"Out of AK, Alaska, US",
 84080004,US,USA,840,80004,Out of AZ,Arizona,US,,,"Out of AZ, Arizona, US",
