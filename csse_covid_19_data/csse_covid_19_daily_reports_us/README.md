@@ -1,0 +1,1 @@
+USA daily state data
