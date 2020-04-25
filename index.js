@@ -11,6 +11,13 @@ const expectedHeader = ['Province/State', 'Country/Region', 'Lat', 'Long', '1/22
 
 const FAIL = 1;
 
+// Add promise to papa
+Papa.parsePromise = function(file) {
+  return new Promise(function(resolve, reject) {
+    Papa.parse(file, {complete: resolve, error: reject});
+  });
+};
+
 const writeOutput = (path, outputPath) => {
   fs.copyFileSync(path, outputPath);
 };
@@ -21,8 +28,12 @@ const validateCopy = (path, outputPath) => {
   if (fs.existsSync(path)) {
     console.log('file exists');
     const file = fs.createReadStream(path);
-    Papa.parse(file, {
+    Papa.parsePromise(file, {
       complete: function(results) {
+
+      }
+    })
+      .then(results => {
         console.log('parse completed, parsing results');
         const data = results.data;
         const header = data[0];
@@ -46,22 +57,21 @@ const validateCopy = (path, outputPath) => {
 
         console.log(`validation success, writing ${outputPath}`);
         writeOutput(path, outputPath)
-      },
-      errors: function(errors) {
-        console.error(errors);
-      }
-    });
+      })
+      .then(() => {
+        // Double check output written:
+        if (fs.existsSync(outputPath)) {
+          console.log('output file exists: ', outputPath);
+        } else {
+          throw new Error(`missing output file ${outputPath}`)
+        }
+      });
   } else {
     console.error('file does not exist: ');
-    throw `file does not exist ${path}`;
+    throw new Error(`file does not exist ${path}`);
   }
 
-  // Double check output written:
-  if (fs.existsSync(outputPath)) {
-    console.log('output file exists: ', outputPath);
-  } else {
-    throw new Error(`missing output file ${outputPath}`)
-  }
+
 };
 
 
