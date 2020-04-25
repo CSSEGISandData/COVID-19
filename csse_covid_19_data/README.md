@@ -1,4 +1,13 @@
-# CSSE COVID-19 Dataset
+# JHU CSSE COVID-19 Dataset
+
+## Table of contents
+
+ * [Daily reports (csse_covid_19_daily_reports)](#daily-reports-csse_covid_19_daily_reports)
+ * [USA daily state reports (csse_covid_19_daily_reports_us)](#usa-daily-state-reports-csse_covid_19_daily_reports_us)
+ * [Time series summary (csse_covid_19_time_series)](#time-series-summary-csse_covid_19_time_series)
+ * [Data modification records](#data-modification-records)
+ * [UID Lookup Table Logic](#uid-lookup-table-logic)
+---
 
 ## [Daily reports (csse_covid_19_daily_reports)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 
@@ -21,8 +30,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Combined_Key</b>: Admin2 + Province_State + Country_Region.
 
 ### Update frequency
-* Files after Feb 1 (UTC): once per day around 23:59 (UTC).
-* Files on and before Feb 1 (UTC): the last updated files before 23:59 (UTC). Sources: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data) and dashboard.
+* Files on and after April 23, once per day between 03:30 and 04:00 UTC.
+* Files from February 2 to April 22: once per day around 23:59 UTC.
+* Files on and before February 1: the last updated files before 23:59 UTC. Sources: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data) and dashboard.
 
 ### Data sources
 Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
@@ -61,7 +71,7 @@ MM-DD-YYYY.csv in UTC.
 * <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases.
 
 ### Update frequency
-* Once a day around 23:59 (UTC).
+* Once per day between 03:30 and 04:00 UTC.
 
 ### Data sources
 Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
@@ -83,6 +93,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * Okaloosa, Florida in the dail report (4/13): Source data error. Correction 102,103 -> 103.
 * The death toll in Wuhan was revised from 2579 to 3869 (4/17). ([Source1](http://www.china.org.cn/china/Off_the_Wire/2020-04/17/content_75943843.htm), [Source2](http://www.nhc.gov.cn/yjb/s7860/202004/51706a79b1af4349b99264420f2cee54.shtml))
 * About France confirmed cases (4/16): after communicating with solidarites-sante.gouv.fr, we decided to make these adjustments based on public available information. From April 4 to April 11, only "cas confirmés" are counted as confirmed cases in our dashboard. Starting from April 12, both "cas confirmés" and "cas possibles en ESMS" (probable cases from ESMS) are counted into confirmed cases in our dashboard. ([More details](https://github.com/CSSEGISandData/COVID-19/issues/2094))
+* Benton and Franklin, WA on April 21 and 22. Data were adjusted/added to match the WA DOH report. See [errata](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/Errata.csv) for details.
 
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
