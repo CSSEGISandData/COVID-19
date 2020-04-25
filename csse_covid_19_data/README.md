@@ -1,4 +1,13 @@
-# CSSE COVID-19 Dataset
+# JHU CSSE COVID-19 Dataset
+
+## Table of contents
+
+ * [Daily reports (csse_covid_19_daily_reports)](#daily-reports-csse_covid_19_daily_reports)
+ * [USA daily state reports (csse_covid_19_daily_reports_us)](#usa-daily-state-reports-csse_covid_19_daily_reports_us)
+ * [Time series summary (csse_covid_19_time_series)](#time-series-summary-csse_covid_19_time_series)
+ * [Data modification records](#data-modification-records)
+ * [UID Lookup Table Logic](#uid-lookup-table-logic)
+---
 
 ## [Daily reports (csse_covid_19_daily_reports)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 
@@ -21,8 +30,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Combined_Key</b>: Admin2 + Province_State + Country_Region.
 
 ### Update frequency
-* Files after Feb 1 (UTC): once per day around 23:59 (UTC).
-* Files on and before Feb 1 (UTC): the last updated files before 23:59 (UTC). Sources: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data) and dashboard.
+* Files on and after April 23, once per day between 03:30 and 04:00 UTC.
+* Files from February 2 to April 22: once per day around 23:59 UTC.
+* Files on and before February 1: the last updated files before 23:59 UTC. Sources: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data) and dashboard.
 
 ### Data sources
 Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
@@ -61,7 +71,7 @@ MM-DD-YYYY.csv in UTC.
 * <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases.
 
 ### Update frequency
-* Once a day around 23:59 (UTC).
+* Once per day between 03:30 and 04:00 UTC.
 
 ### Data sources
 Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
