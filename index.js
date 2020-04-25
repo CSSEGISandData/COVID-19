@@ -56,7 +56,12 @@ const validateCopy = (path, outputPath) => {
     throw `file does not exist ${path}`;
   }
 
-
+  // Double check output written:
+  if (fs.existsSync(outputPath)) {
+    console.log('output file exists: ', outputPath);
+  } else {
+    throw new Error(`missing output file ${outputPath}`)
+  }
 };
 
 
@@ -69,12 +74,5 @@ if (!fs.existsSync(outputDir)){
 fs.copyFileSync('README.md', outputDir + 'README.md');
 
 validateCopy(path, outputPath);
-
-// Double check output written:
-if (fs.existsSync(outputPath)) {
-  console.log('output file exists: ', outputPath);
-} else {
-  throw new Error(`missing output file ${outputPath}`)
-}
 
 console.log('end of index.js');
