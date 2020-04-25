@@ -74,7 +74,7 @@ validateCopy(path, outputPath);
 if (fs.existsSync(outputPath)) {
   console.log('output file exists: ', outputPath);
 } else {
-  throw new Error('missing output file')
+  throw new Error(`missing output file ${outputPath}`)
 }
 
 console.log('end of index.js');
