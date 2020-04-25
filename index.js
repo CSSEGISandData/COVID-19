@@ -77,6 +77,4 @@ if (fs.existsSync(outputPath)) {
   throw new Error('missing output file')
 }
 
-fs.copyFileSync('_headers', outputDir + '_headers');
-
 console.log('end of index.js');
