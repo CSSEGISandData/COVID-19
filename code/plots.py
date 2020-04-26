@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-21 21:09:40
+# @Last Modified time: 2020-04-22 18:58:37
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -1623,7 +1623,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	a = ax.set_title('Growth Factors: Deaths')
 	
 
-	############ fatality rate: countries with most caes ############
+	############ fatality rate: most caes ############
 	ax = fig.add_subplot(gs[5, 0:ncol_half])
 	i_fig += 1
 	print(i_fig, end = " ")
@@ -1665,6 +1665,7 @@ def plot_by_regions(df_confirmed, df_deaths, time_datetime, **kwarg):
 	print(i_fig, end = " ")
 	
 	fatal_rates = df_deaths.loc[:,time_datetime] / df_confirmed.loc[:,time_datetime] * 100
+	fatal_rates[~np.isfinite(fatal_rates)] = 0
 	fatal_rates.sort_values(by = time_datetime[-1], inplace = True, ascending=False)
 	plot_list = list(fatal_rates.index[0:num_barplot])
 	x = np.arange(len(plot_list))
