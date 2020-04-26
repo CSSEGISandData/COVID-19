@@ -92,3 +92,12 @@
 4/22/20,time_series_covid19_deaths_US.csv,US,4/21/20,,,correction for US federal data
 4/22/20,time_series_covid19_confirmed_global.csv,US,4/21/20,,,correction for US federal data
 4/22/20,time_series_covid19_deaths_global.csv,US,4/21/20,,,correction for US federal data
+4/23/20,time_series_covid19_confirmed_US.csv,"Benton, WA",4/21/20,423,326,"remove 97 probable cases,"
+4/23/20,time_series_covid19_confirmed_US.csv,"Benton, WA",4/22/20,0,338,consistent with state report
+4/23/20,time_series_covid19_confirmed_US.csv,"Franklin, WA",4/21/20,266,192,"remove 74 probable cases,"
+4/23/20,time_series_covid19_confirmed_US.csv,"Franklin, WA",4/22/20,0,207,consistent with state report
+4/23/20,time_series_covid19_deaths_US.csv,"Benton, WA",4/22/20,0,35,"adjust for Benton and Franklin, WA"
+4/23/20,time_series_covid19_deaths_US.csv,"Franklin, WA",4/22/20,0,4,"adjust for Benton and Franklin, WA"
+4/23/20,time_series_covid19_confirmed_global.csv,US,4/21/20,812036,811865,"adjust for Benton and Franklin, WA"
+4/23/20,time_series_covid19_confirmed_global.csv,US,4/22/20,839675,840351,"adjust for Benton and Franklin, WA"
+4/23/20,time_series_covid19_deaths_global.csv,US,4/22/20,46583,46622,"adjust for Benton and Franklin, WA"
