@@ -1,0 +1,68 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2/2/2020 23:43,11177,350,295
+Zhejiang,Mainland China,2/3/2020 1:33,724,0,36
+Guangdong,Mainland China,2/3/2020 1:33,683,0,15
+Henan,Mainland China,2/3/2020 1:03,566,2,14
+Hunan,Mainland China,2/3/2020 1:33,521,0,16
+Anhui,Mainland China,2/3/2020 0:53,408,0,7
+Jiangxi,Mainland China,2/3/2020 1:33,391,0,18
+Chongqing,Mainland China,2/2/2020 23:33,300,2,7
+Jiangsu,Mainland China,2/3/2020 1:03,271,0,7
+Sichuan,Mainland China,2/3/2020 1:03,254,1,12
+Shandong,Mainland China,2/3/2020 1:13,246,0,6
+Shanghai,Mainland China,2/3/2020 0:03,193,1,10
+Beijing,Mainland China,2/2/2020 8:43,191,1,9
+Fujian,Mainland China,2/2/2020 3:43,159,0,0
+Guangxi,Mainland China,2/3/2020 0:13,127,0,2
+Shaanxi,Mainland China,2/2/2020 3:23,116,0,0
+Hebei,Mainland China,2/3/2020 0:23,113,1,3
+Yunnan,Mainland China,2/2/2020 18:03,105,0,3
+Heilongjiang,Mainland China,2/2/2020 3:23,95,2,2
+Hainan,Mainland China,2/3/2020 0:43,71,1,4
+Liaoning,Mainland China,2/2/2020 18:03,70,0,1
+Shanxi,Mainland China,2/2/2020 23:23,66,0,3
+Gansu,Mainland China,2/2/2020 23:43,51,0,3
+Tianjin,Mainland China,2/2/2020 9:43,48,0,1
+Guizhou,Mainland China,2/3/2020 1:03,46,0,2
+Jilin,Mainland China,2/3/2020 0:53,31,0,1
+Ningxia,Mainland China,2/2/2020 1:43,28,0,0
+Inner Mongolia,Mainland China,2/2/2020 3:43,27,0,1
+Xinjiang,Mainland China,2/3/2020 1:13,24,0,0
+,Japan,2/1/2020 18:53,20,0,1
+,Thailand,1/31/2020 10:37,19,0,5
+,Singapore,2/2/2020 1:03,18,0,0
+Hong Kong,Hong Kong,2/2/2020 23:53,15,0,0
+,South Korea,2/2/2020 2:23,15,0,0
+Qinghai,Mainland China,2/2/2020 5:33,11,0,0
+,Germany,2/2/2020 18:03,10,0,0
+Taiwan,Taiwan,1/31/2020 15:20,10,0,0
+Macau,Macau,2/2/2020 4:23,8,0,0
+,Malaysia,1/31/2020 8:15,8,0,0
+,France,2/1/2020 1:52,6,0,0
+,Vietnam,2/1/2020 7:38,6,0,1
+,United Arab Emirates,2/2/2020 5:43,5,0,0
+New South Wales,Australia,2/1/2020 18:12,4,0,2
+Victoria,Australia,2/1/2020 18:12,4,0,0
+Ontario,Canada,2/1/2020 18:12,3,0,0
+Queensland,Australia,2/2/2020 22:33,2,0,0
+South Australia,Australia,2/2/2020 22:33,2,0,0
+,India,2/2/2020 6:03,2,0,0
+,Italy,1/31/2020 8:15,2,0,0
+,Philippines,2/2/2020 3:33,2,1,0
+,Russia,1/31/2020 16:13,2,0,0
+,UK,2/1/2020 1:52,2,0,0
+"Chicago, IL",US,2/1/2020 19:43,2,0,0
+"Santa Clara, CA",US,2/3/2020 0:43,2,0,0
+,Cambodia,1/31/2020 8:15,1,0,0
+British Columbia,Canada,2/1/2020 18:12,1,0,0
+,Finland,1/31/2020 8:15,1,0,0
+Tibet,Mainland China,2/1/2020 1:52,1,0,0
+,Nepal,1/31/2020 8:15,1,0,0
+,Spain,2/1/2020 23:43,1,0,0
+,Sri Lanka,1/31/2020 8:15,1,0,0
+,Sweden,2/1/2020 2:13,1,0,0
+"Boston, MA",US,2/1/2020 19:43,1,0,0
+"Los Angeles, CA",US,2/1/2020 19:53,1,0,0
+"Orange, CA",US,2/1/2020 19:53,1,0,0
+"Seattle, WA",US,2/1/2020 19:43,1,0,0
+"Tempe, AZ",US,2/1/2020 19:43,1,0,0

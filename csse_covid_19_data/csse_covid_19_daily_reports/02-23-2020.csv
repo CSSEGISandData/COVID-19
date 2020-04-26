@@ -1,0 +1,86 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-23T11:33:03,64084,2346,15343
+Guangdong,Mainland China,2020-02-23T08:53:02,1342,6,755
+Henan,Mainland China,2020-02-23T10:23:02,1271,19,868
+Zhejiang,Mainland China,2020-02-23T13:43:02,1205,1,760
+Hunan,Mainland China,2020-02-23T10:33:03,1016,4,714
+Anhui,Mainland China,2020-02-23T10:53:02,989,6,637
+Jiangxi,Mainland China,2020-02-23T09:23:02,934,1,613
+Shandong,Mainland China,2020-02-23T11:33:03,754,4,321
+Diamond Princess cruise ship,Others,2020-02-23T22:33:03,691,3,0
+Jiangsu,Mainland China,2020-02-23T08:53:02,631,0,418
+,South Korea,2020-02-23T23:33:07,602,6,18
+Chongqing,Mainland China,2020-02-23T23:13:05,575,6,335
+Sichuan,Mainland China,2020-02-23T08:53:02,526,3,261
+Heilongjiang,Mainland China,2020-02-23T13:43:02,480,12,222
+Beijing,Mainland China,2020-02-23T01:13:13,399,4,189
+Shanghai,Mainland China,2020-02-23T03:13:07,335,3,249
+Hebei,Mainland China,2020-02-23T11:33:03,311,6,219
+Fujian,Mainland China,2020-02-23T10:33:03,293,1,170
+Guangxi,Mainland China,2020-02-23T10:33:03,249,2,106
+Shaanxi,Mainland China,2020-02-23T12:13:14,245,1,163
+Yunnan,Mainland China,2020-02-23T05:33:03,174,2,115
+Hainan,Mainland China,2020-02-23T23:23:03,168,5,106
+,Italy,2020-02-23T23:43:02,155,3,2
+,Japan,2020-02-23T23:33:07,147,1,22
+Guizhou,Mainland China,2020-02-23T12:43:02,146,2,102
+Tianjin,Mainland China,2020-02-23T12:43:02,135,3,81
+Shanxi,Mainland China,2020-02-23T23:03:08,132,0,88
+Liaoning,Mainland China,2020-02-23T13:33:02,121,1,73
+Gansu,Mainland China,2020-02-23T13:23:06,91,2,78
+Jilin,Mainland China,2020-02-23T12:43:02,91,1,54
+,Singapore,2020-02-23T15:13:15,89,0,51
+Xinjiang,Mainland China,2020-02-23T14:43:04,76,2,28
+Inner Mongolia,Mainland China,2020-02-23T09:43:02,75,0,27
+Hong Kong,Hong Kong,2020-02-23T09:53:02,74,2,11
+Ningxia,Mainland China,2020-02-23T05:33:03,71,0,56
+,Iran,2020-02-23T15:13:15,43,8,0
+,Thailand,2020-02-23T15:03:05,35,0,21
+Taiwan,Taiwan,2020-02-23T09:53:02,28,1,2
+,Malaysia,2020-02-19T09:33:03,22,0,15
+Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
+,Germany,2020-02-21T23:03:13,16,0,14
+,Vietnam,2020-02-21T06:03:04,16,0,14
+,United Arab Emirates,2020-02-22T14:53:02,13,0,4
+,France,2020-02-15T20:53:02,12,1,4
+"Omaha, NE (From Diamond Princess)",US,2020-02-22T23:03:09,11,0,0
+Macau,Macau,2020-02-20T02:13:19,10,0,6
+,UK,2020-02-16T16:23:06,9,0,8
+From Diamond Princess,Australia,2020-02-22T17:03:05,7,0,0
+British Columbia,Canada,2020-02-21T05:23:04,6,0,0
+Queensland,Australia,2020-02-21T05:43:02,5,0,1
+"Travis, CA (From Diamond Princess)",US,2020-02-22T17:13:24,5,0,0
+New South Wales,Australia,2020-02-13T17:53:03,4,0,4
+Victoria,Australia,2020-02-13T17:53:03,4,0,4
+,India,2020-02-16T07:43:02,3,0,3
+,Philippines,2020-02-12T07:43:02,3,1,1
+South Australia,Australia,2020-02-17T08:13:09,2,0,2
+"Toronto, ON",Canada,2020-02-21T05:23:04,2,0,2
+,Russia,2020-02-12T14:43:03,2,0,2
+,Spain,2020-02-15T17:23:04,2,0,2
+"Chicago, IL",US,2020-02-09T19:03:03,2,0,2
+"Lackland, TX (From Diamond Princess)",US,2020-02-22T17:13:24,2,0,0
+"San Benito, CA",US,2020-02-03T03:53:02,2,0,0
+"San Diego County, CA",US,2020-02-21T05:43:02,2,0,1
+"Santa Clara, CA",US,2020-02-21T05:23:04,2,0,1
+,Belgium,2020-02-17T04:23:06,1,0,1
+,Cambodia,2020-02-12T07:43:02,1,0,1
+"London, ON",Canada,2020-02-12T18:53:03,1,0,1
+,Egypt,2020-02-21T18:53:02,1,0,0
+,Finland,2020-02-12T00:03:12,1,0,1
+From Diamond Princess,Israel,2020-02-22T20:53:02,1,0,0
+,Lebanon,2020-02-22T20:53:02,1,0,0
+Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
+,Nepal,2020-02-12T14:43:03,1,0,1
+,Sri Lanka,2020-02-08T03:43:03,1,0,1
+,Sweden,2020-02-01T02:13:26,1,0,0
+"Boston, MA",US,2020-02-01T19:43:03,1,0,0
+"Humboldt County, CA",US,2020-02-21T05:13:09,1,0,0
+"Los Angeles, CA",US,2020-02-01T19:53:03,1,0,0
+"Madison, WI",US,2020-02-05T21:53:02,1,0,0
+"Orange, CA",US,2020-02-01T19:53:03,1,0,0
+"Sacramento County, CA",US,2020-02-21T23:13:16,1,0,0
+"San Antonio, TX",US,2020-02-13T18:53:02,1,0,0
+"Seattle, WA",US,2020-02-09T07:03:04,1,0,1
+"Tempe, AZ",US,2020-02-01T19:43:03,1,0,0
+None,Iraq,2020-02-23T18:23:06,0,0,0
