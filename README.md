@@ -37,6 +37,11 @@ https://systems.jhu.edu/
 * WorldoMeters: https://www.worldometers.info/coronavirus/
 * COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
 * French Government: https://dashboard.covid19.data.gouv.fr/
+* COVID Live (Australia): https://www.covidlive.com.au/
+* Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
+* Maryland Department of Health: https://coronavirus.maryland.gov/
+* New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
+* NYC Department of Health and Mental Hygiene: https://www1.nyc.gov/site/doh/covid/covid-19-data.page and https://github.com/nychealth/coronavirus-data
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
