@@ -1,7 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Sitka	,Alaska,US,1,0.0
-Inmates,Federal Bureau of Prisons,US,799,27.0
-Staff,Federal Bureau of Prisons,US,319,0.0
+Inmates,Federal Bureau of Prisons,US,1046,28.0
+Staff,Federal Bureau of Prisons,US,330,0.0
 Nemaha	,Kansas,US,1,0.0
 Apache(AZ),Navajo Nation,US,342,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
@@ -26,4 +26,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,1,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3043401,210204.0
+,,World,3046269,210416.0
