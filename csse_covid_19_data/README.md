@@ -102,7 +102,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
   *	None cruise ship Admin0: UID = code3. (e.g., Afghanistan, UID = code3 = 4)
   *	Cruise ships in Admin0: Diamond Princess UID = 9999, MS Zaandam UID = 8888.
 2.	All countries with only state-level dependencies (entries with Admin0 and Admin1).
-  *	Demark, France, Netherlands: mother countries and their dependencies have different code3, therefore UID = code 3. (e.g., Faroe Islands, Denmark, UID = code3 = 234; Denmark UID = 208)
+  *	Denmark, France, Netherlands: mother countries and their dependencies have different code3, therefore UID = code 3. (e.g., Faroe Islands, Denmark, UID = code3 = 234; Denmark UID = 208)
   *	United Kingdom: the mother country and dependencies have different code3s, therefore UID = code 3. One exception: Channel Islands is using the same code3 as the mother country (826), and its artificial UID = 8261.
   *	Australia: alphabetically ordered all states, and their UIDs are from 3601 to 3608. Australia itself is 36.
   *	Canada: alphabetically ordered all provinces (including cruise ships and recovered entry), and their UIDs are from 12401 to 12415. Canada itself is 124.
