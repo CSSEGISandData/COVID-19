@@ -101,3 +101,4 @@
 4/23/20,time_series_covid19_confirmed_global.csv,US,4/21/20,812036,811865,"adjust for Benton and Franklin, WA"
 4/23/20,time_series_covid19_confirmed_global.csv,US,4/22/20,839675,840351,"adjust for Benton and Franklin, WA"
 4/23/20,time_series_covid19_deaths_global.csv,US,4/22/20,46583,46622,"adjust for Benton and Franklin, WA"
+4/25/20,time_series_covid19_confirmed_global.csv,Ukraine,4/24/20,8125,7647,adjust 5 min ahead
