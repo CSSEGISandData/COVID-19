@@ -2,6 +2,7 @@ County,Province_State,Country_Region,Confirmed,Deaths
 Sitka	,Alaska,US,1,0.0
 Inmates,Federal Bureau of Prisons,US,799,27.0
 Staff,Federal Bureau of Prisons,US,319,0.0
+Nemaha	,Kansas,US,1,0.0
 Apache(AZ),Navajo Nation,US,342,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
 Cibola(NM),Navajo Nation,US,15,0.0
@@ -18,11 +19,11 @@ Army,US Military,US,971,2.0
 Marine Corps,US Military,US,282,0.0
 Navy,US Military,US,1864,9.0
 Unassigned,US Military,US,2284,14.0
-VA Hospitals,Veteran Affair,US,6922,435.0
+VA Hospitals,Veteran Affair,US,6943,435.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,1,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3020075,208130.0
+,,World,3025726,209001.0
