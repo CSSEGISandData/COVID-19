@@ -29,7 +29,7 @@ MM-DD-YYYY.csv in UTC.
 * <b>Active:</b> Active cases = total confirmed - total recovered - total deaths.
 * <b>Incidence_Rate</b>: Admin2 + Province_State + Country_Region.
 * <b>Case-Fatality Ratio (%)</b>: = confirmed cases per 100,000 persons.
-* <b>US Testing Rate</b>: = total test conducted per 100,000 persons. The "Total test conducted" is taken from "Total test results
+* <b>US Testing Rate</b>: = total test results per 100,000 persons. The "total test results" is equal to "Total test results
 (Positive + Negative)" from [Covid Tracking Project](https://covidtracking.com/).
 * <b>US Hospitalization Rate (%)</b>: = Total number hospitalized / Number confirmed cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [Covid Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "hospitalized - Cumulative" data is only presented for those states which provide cumulative hospital data.
 
