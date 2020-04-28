@@ -22,7 +22,7 @@ MM-DD-YYYY.csv in UTC.
 * <b>Province_State</b>: Province, state or dependency name.
 * <b>Country_Region</b>: Country, region or sovereignty name. The names of locations included on the Website correspond with the official designations used by the U.S. Department of State.
 * <b>Last Update</b>: MM/DD/YYYY HH:mm:ss  (24 hour format, in UTC).
-* <b>Lat</b> and <b>Long_</b>: Dot locatoins on the dashboard. All points (except for Australia) shown on the map are based on geographic centroids, and are not representative of a specific address, building or any location at a spatial scale finer than a province/state. Australian dots are located at the centroid of the largest city in each state.
+* <b>Lat</b> and <b>Long_</b>: Dot locations on the dashboard. All points (except for Australia) shown on the map are based on geographic centroids, and are not representative of a specific address, building or any location at a spatial scale finer than a province/state. Australian dots are located at the centroid of the largest city in each state.
 * <b>Confirmed</b>: Confirmed cases include presumptive positive cases.
 * <b>Deaths</b>: Death totals in the US include confirmed and probable, in accordance with [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) guidelines as of April 14.
 * <b>Recovered</b>: Recovered cases outside China are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number.
