@@ -101,6 +101,17 @@
 4/23/20,time_series_covid19_confirmed_global.csv,US,4/21/20,812036,811865,"adjust for Benton and Franklin, WA"
 4/23/20,time_series_covid19_confirmed_global.csv,US,4/22/20,839675,840351,"adjust for Benton and Franklin, WA"
 4/23/20,time_series_covid19_deaths_global.csv,US,4/22/20,46583,46622,"adjust for Benton and Franklin, WA"
+4/24/20,time_series_covid19_deaths_us.csv,"New York City, NY", 3/12-4/24,,,Adjust to back-distribute probable deaths
+4/24/2-,time_series_covid19_confirmed_us.csv,"New York City, NY",4/18-4/22,,,Adjust to remove probable deaths from case count
 4/25/20,time_series_covid19_confirmed_global.csv,Ukraine,4/24/20,8125,7647,adjust 5 min ahead
+4/26/20,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,4/20 through 4/25,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,New South Wales - Australia,4/20 through 4/25,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,4/20 through 4/25,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Northern Territory - Australia,4/20 through 4/26,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,South Australia - Australia,4/20 through 4/26,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Tasmania - Australia,4/20 through 4/26,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Victoria - Australia,4/20 through 4/25,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Western Australia - Australia,4/20 through 4/25,,,Replace recovered cases
 4/27/20,time_series_covid19_confirmed_global.csv,Mexico,Multiple,,,Remove duplicate entry on 13/3/20; add 10544 cases on 22/4; adjust 11632 to 12872
 4/27/20,times_series_covid19_deaths_global.csv,Mexico,Multiple,,,Remove duplicate entry on 3/20/20; add 970 deaths on 22/4; adjust 1069 to 1221
+4/28/20,time_series_covid19_deaths_global.csv,US,All,,,Adjust deaths to reflect changes from 4/24 adjustment of NYC probable deaths
