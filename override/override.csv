@@ -1,4 +1,4 @@
-﻿old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
+﻿old_county,old_province_state,old_country_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
 ,,Belize,,,Belize,17.1899,-88.4976,,,,,
 ,,Myanmar,,,Burma,,,,,,,
 ,Northwest Territories,Canada,,Northwest Territories,Canada,64.8255,-124.8457,,,,,
@@ -21,7 +21,7 @@
 ,,St. Barth,,Saint Barthelemy,France,,,,,,,
 ,,Saint Pierre Miquelon,,Saint Pierre and Miquelon,France,46.8852,-56.3159,,,,,
 ,,Saint Martin,,St Martin,France,,,,,,,
-,,France,,,France,46.2276,2.2137,165093,,,,
+,,France,,,France,46.2276,2.2137,165764,,,,
 ,,Vatican City,,,Holy See,,,,,,,
 ,,S. Korea,,,"Korea, South",,,,,,,
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
@@ -152,3 +152,4 @@ Mcclain,Oklahoma,US,McClain,Oklahoma,US,35.01123903,-97.44572302,,,,,40087
 Mccurtain,Oklahoma,US,McCurtain,Oklahoma,US,34.11664328,-94.77222373,,,,,40089
 Mcintosh,Oklahoma,US,McIntosh,Oklahoma,US,35.37235506,-95.66599306,,,,,40091
 Countytba,New Hampshire,US,Unassigned,New Hampshire,US,,,,,,,90033
+,,,,,Spain,40.463667,-3.74922,213435,24543,112050,,
