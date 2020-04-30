@@ -1,27 +1,25 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Monitor,Texas,US,0,0.0
-Unassigned,US Military,US,1875,10.0
-Navy,US Military,US,1255,6.0
-Air Force,US Military,US,757,1.0
-Army,US Military,US,726,2.0
-Marine Corps,US Military,US,236,0.0
-TriCounty,Utah,US,9,0.0
-Southeast Utah,Utah,US,7,0.0
-"Navajo, AZ",Navajo Nation,US,316,0.0
-"McKinley, NM",Navajo Nation,US,235,0.0
-"Coconino, AZ",Navajo Nation,US,203,0.0
-"Apache, AZ",Navajo Nation,US,168,0.0
-"San Juan, NM",Navajo Nation,US,153,0.0
-"San Juan, UT",Navajo Nation,US,14,0.0
-"Cibola, NM",Navajo Nation,US,13,0.0
-"Socorro, NM",Navajo Nation,US,13,0.0
-"Sandoval, NM",Navajo Nation,US,12,0.0
-"Bernalillo, NM",Navajo Nation,US,0,0.0
-Unassigned,Navajo Nation,US,0,44.0
-Inmates,Federal Bureau of Prisons,US,479,21.0
-Staff,Federal Bureau of Prisons,US,305,0.0
+Inmates,Federal Bureau of Prisons,US,1534,31.0
+Staff,Federal Bureau of Prisons,US,343,0.0
+Apache(AZ),Navajo Nation,US,342,0.0
+Bernalillo(NM),Navajo Nation,US,0,0.0
+Cibola(NM),Navajo Nation,US,15,0.0
+Coconino(AZ),Navajo Nation,US,238,0.0
+McKinley(NM),Navajo Nation,US,351,0.0
+Navajo(AZ),Navajo Nation,US,386,0.0
+San Juan(NM),Navajo Nation,US,154,0.0
+San Juan(UT),Navajo Nation,US,19,0.0
+Sandoval(NM),Navajo Nation,US,15,0.0
+Socorro(NM),Navajo Nation,US,20,0.0
+Unassigned,Navajo Nation,US,0,58.0
+Air Force,US Military,US,812,1.0
+Army,US Military,US,971,2.0
+Marine Corps,US Military,US,282,0.0
+Navy,US Military,US,1864,9.0
+Unassigned,US Military,US,2284,14.0
+VA Hospitals,Veteran Affair,US,7903,482.0
 Unassigned,Wuhan Evacuee,US,4,0.0
-,External territories,Australia,0,0.0
-,Jervis Bay,Australia,0,0.0
-,,Australia,0,0.0
-,,World,2357765,161879.0
+,Australia,Australia,6746,90.0
+,Grand Princess and Canadian Repatriations,Canada,1,0.0
+,Nunavut,Canada,0,0.0
+,,World,3205878,227290.0
