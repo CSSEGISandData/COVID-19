@@ -36,6 +36,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,50882884
 178,CG,COG,178,,,,Congo (Brazzaville),-4.2634,15.2832,Congo (Brazzaville),5518092
 180,CD,COD,180,,,,Congo (Kinshasa),-4.322447,15.307045,Congo (Kinshasa),89561404
+174,KM,COM,174,,,,Comoros,-11.6455,43.3333,Comoros,869595
 188,CR,CRI,188,,,,Costa Rica,9.7489,-83.7534,Costa Rica,5094114
 384,CI,CIV,384,,,,Cote d'Ivoire,7.54,-5.5471,Cote d'Ivoire,26378275
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,4105268
@@ -153,6 +154,25 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,59308690
 728,SS,SSD,728,,,,South Sudan,6.877,31.307,South Sudan,11193729
 724,ES,ESP,724,,,,Spain,40.463667,-3.74922,Spain,46754783
+72401,ES,ESP,724,,,Andalusia,Spain,37.5443,-4.7278,"Andalusia, Spain",8427405
+72402,ES,ESP,724,,,Aragon,Spain,41.5976,-0.9057,"Aragon, Spain",1320586
+72403,ES,ESP,724,,,Asturias,Spain,43.3614,-5.8593,"Asturias, Spain",1022205
+72404,ES,ESP,724,,,Baleares,Spain,39.710358,2.995148,"Baleares, Spain",1188220
+72405,ES,ESP,724,,,Canarias,Spain,28.2916,-16.6291,"Canarias, Spain",2206901
+72406,ES,ESP,724,,,Cantabria,Spain,43.1828,-3.9878,"Cantabria, Spain",581641
+72407,ES,ESP,724,,,Castilla - La Mancha,Spain,39.2796,-3.0977,"Castilla - La Mancha, Spain",2034877
+72408,ES,ESP,724,,,Castilla y Leon,Spain,41.8357,-4.3976,"Castilla y Leon, Spain",2407733
+72409,ES,ESP,724,,,Catalonia,Spain,41.5912,1.5209,"Catalonia, Spain",7566431
+72410,ES,ESP,724,,,Ceuta,Spain,35.8894,-5.3213,"Ceuta, Spain",84829
+72411,ES,ESP,724,,,C. Valenciana,Spain,39.484,-0.7533,"C. Valenciana, Spain",4974969
+72412,ES,ESP,724,,,Extremadura,Spain,39.4937,-6.0679,"Extremadura, Spain",1065424
+72413,ES,ESP,724,,,Galicia,Spain,42.5751,-8.1339,"Galicia, Spain",2700441
+72414,ES,ESP,724,,,Madrid,Spain,40.4168,-3.7038,"Madrid, Spain",6641649
+72415,ES,ESP,724,,,Melilla,Spain,35.2923,-2.9381,"Melilla, Spain",84689
+72416,ES,ESP,724,,,Murcia,Spain,37.9922,-1.1307,"Murcia, Spain",1487663
+72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",649946
+72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2177880
+72419,ES,ESP,724,,,La Rioja,Spain,42.2871,2.5396,"La Rioja, Spain",313571
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.771797,Sri Lanka,21413250
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,43849269
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,586634
@@ -160,6 +180,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 756,CH,CHE,756,,,,Switzerland,46.8182,8.2275,Switzerland,8654618
 760,SY,SYR,760,,,,Syria,34.802075,38.996815,Syria,17500657
 158,TW,TWN,158,,,,Taiwan*,23.7,121,Taiwan*,23816775
+762,TJ,TJK,762,,,,Tajikistan,38.861,71.2761,Tajikistan,9537642
 834,TZ,TZA,834,,,,Tanzania,-6.369028,34.888822,Tanzania,59734213
 764,TH,THA,764,,,,Thailand,15.870032,100.992541,Thailand,69799978
 626,TL,TLS,626,,,,Timor-Leste,-8.874217,125.727539,Timor-Leste,1318442
