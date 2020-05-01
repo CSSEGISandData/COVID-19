@@ -118,3 +118,9 @@
 4/30/20,time_series_covid19_deaths_global.csv,United Kingdom,All columns,,,Adjusted all deaths to match newly released data from the United Kingdom identifying deaths in care homes
 4/30/20,time_series_covid19_cases_global.csv,Spain,4/24-4/29,,,Cases adjusted to match official case count
 4/30/20,time_series_covid19_recovered_global.csv,Spain,4/26-4/29,,,Recovered adjusted to match official count
+5/01/20,time_series_covid19_cases_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 510.
+5/01/20,time_series_covid19_deaths_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 12.
+5/01/20,time_series_covid19_recovered_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 93.
+5/01/20,time_series_covid19_cases_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 6630.
+5/01/20,time_series_covid19_deaths_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 125.
+5/01/20,time_series_covid19_recovered_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 870.
