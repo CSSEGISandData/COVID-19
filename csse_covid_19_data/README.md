@@ -122,3 +122,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
   *	Exception type 1, such as recovered and Kansas City, ranging from 8407001 to 8407999.
   *	Exception type 2, only the New York City, which is replacing New York County and its FIPS code.
   *	Exception type 3, Diamond Princess, US: 84088888; Grand Princess, US: 84099999.
+4. Population data sources.
+ * United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Rev. 1. https://population.un.org/wpp/Download/Standard/Population/
+ * eurostat: https://ec.europa.eu/eurostat/web/products-datasets/product?code=tgs00096
+ * The U.S. Census Bureau: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
