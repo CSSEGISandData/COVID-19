@@ -1,4 +1,4 @@
-﻿old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
+old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
 ,,Belize,,,Belize,17.1899,-88.4976,,,,,
 ,,Myanmar,,,Burma,,,,,,,
 ,Northwest Territories,Canada,,Northwest Territories,Canada,64.8255,-124.8457,,,,,
@@ -21,7 +21,7 @@
 ,,St. Barth,,Saint Barthelemy,France,,,,,,,
 ,,Saint Pierre Miquelon,,Saint Pierre and Miquelon,France,46.8852,-56.3159,,,,,
 ,,Saint Martin,,St Martin,France,,,,,,,
-,,France,,,France,46.2276,2.2137,165764,,,,
+,,France,,,France,46.2276,2.2137,165764,24563,49300,,
 ,,Vatican City,,,Holy See,,,,,,,
 ,,S. Korea,,,"Korea, South",,,,,,,
 ,,Mauritania,,,Mauritania,21.0079,-10.9408,,,,,
@@ -130,7 +130,7 @@ Harris--Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
 Harris--Non Houston,Texas,US,Harris,Texas,US,29.86,-95.39,,,,,48201
 Non-Utah resident,Utah,US,Out of UT,Utah,US,,,,,,,80049
 Unassigned Bear River,Utah,US,Bear River,Utah,US,,,,,,,90049
-Unassigned Southwest,Utah,US,Southwest,Utah,US,,,,,,,90049
+Unassigned Southwest,Utah,US,Southwest Utah,Utah,US,,,,,,,90049
 unassigned,Utah,US,Unassigned,Utah,US,,,,,,,90049
 St. John,Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
 St. Thomas,US Virgin Islands,US,,Virgin Islands,US,18.3358,-64.8963,,,,,78
@@ -154,4 +154,5 @@ Mcintosh,Oklahoma,US,McIntosh,Oklahoma,US,35.37235506,-95.66599306,,,,,40091
 Countytba,New Hampshire,US,Unassigned,New Hampshire,US,,,,,,,90033
 ,,Spain,,,Spain,40.463667,-3.74922,213435,24543,112050,,
 ,,Serbia,,,Serbia,44.0165,21.0059,9009,179,1343,,
-,,Kosovo,,,Kosovo,42.602636,20.902977,799,22,249,,
+,,Kosovo,,,Kosovo,42.602636,20.902977,806,22,271,,
+Data not available,Maryland,US,Unassigned,Maryland,US,,,,,,,90024
