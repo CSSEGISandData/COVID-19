@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-27 21:06:09
+# @Last Modified time: 2020-04-29 09:25:35
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -699,7 +699,7 @@ def plot_tests_bar_and_percent(ax1, x, y1, y2, color1, color2, legend1, legend2,
 def tests_us_vs_state(df_tests_us_daily, df_tests_onestate_daily, df_us, df_st, state, **kwargs):
 		
 	fig = plt.figure(figsize = (15, 30), constrained_layout=True, facecolor="1")
-	gs = fig.add_gridspec(6, 2)
+	gs = fig.add_gridspec(3, 2)
 
 	plt.rc('font', size=SMALL_SIZE)          # controls default text sizes
 	plt.rc('axes', titlesize=BIGGER_SIZE)     # fontsize of the axes title
@@ -720,108 +720,108 @@ def tests_us_vs_state(df_tests_us_daily, df_tests_onestate_daily, df_us, df_st, 
 			df_plot = df_st
 			df_test = df_tests_onestate_daily
 
+		if(kwargs['polt_choice'] == 'Testing'):
 
-		### bar graph of tests
-		ax = fig.add_subplot(gs[0, i])
-		x = df_test.index
-		legend1 = ['Negative', 'Positive']
-		legend2 = ['%positive']
-		ylabel1 = 'Number of tests'
-		ylabel2 = '%Positive'
-		ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
-											  df_test.loc[:,['total', 'positive']], 
-											  df_test.positive/df_test.total*100,
-											  [cat_color['Negative'], cat_color['Positive']], 'k', 
-											  legend1, legend2, ylabel1, ylabel2)
-		myLocator = mticker.MultipleLocator(4)
-		ax.xaxis.set_major_locator(myLocator)
-		ax.tick_params(axis = 'x', labelrotation = 45)
-		ax.set_title(f'{plt_title} tests performed')
-		if('yscales' in kwargs.keys()):
-			ax.set_yscale(kwargs['yscales'][1])
-
-		### daily increase
-		ax = fig.add_subplot(gs[1, i])
-#         ax.bar(x, df_test.totalTestResultsIncrease, color = 'grey')
-#         ax.set_yscale('linear')
-		ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
-											  df_test.loc[:,['d_total', 'd_positive']], 
-											  df_test.d_positive/df_test.d_total*100,
-											  [cat_color['Negative'], cat_color['Positive']], 'k', 
-											  legend1, legend2, ylabel1, ylabel2)
-		myLocator = mticker.MultipleLocator(4)
-		ax.xaxis.set_major_locator(myLocator)
-		ax.tick_params(axis = 'x', labelrotation = 45)
-		ax.set_title(f'{plt_title} daily tests performed')
-		ax.set_ylabel('Number of tests')
-		if('yscales' in kwargs.keys()):
-			ax1.set_yscale(kwargs['yscales'][2])
-
-		### tests vs. positive
-		ax = fig.add_subplot(gs[2, i])
-		sns.regplot(data = df_test, x = 'positive', y = 'total')
-		sns.regplot(x = df_plot.loc[df_test.index, 'Confirmed'], y = df_test.total)
-		ax.set_yscale('linear')
-		ax.legend(['Reported positive test cases', 'Reported confirmed cases'])
-		ax.set_xlabel('Toatal number of cases')
-		ax.set_ylabel('Total number of tests')
-		if('yscales' in kwargs.keys()):
-			ax.set_yscale(kwargs['yscales'][3])
-
-		### culmultive hospitalization
-		if(sum(df_test['hosp_cum']) > 0):
-			ax = fig.add_subplot(gs[3, i])
-			y1 = df_test[['positive', 'hosp_cum']][df_test['hosp_cum']>0]
-			x = y1.index
-			y2 = y1['hosp_cum']/y1['positive'] * 100
-			legend1 = ['Positive', 'Hospitalized']
-			legend2 = ['%Hospitalized']
+			### bar graph of tests
+			ax = fig.add_subplot(gs[0, i])
+			x = df_test.index
+			legend1 = ['Negative', 'Positive']
+			legend2 = ['%positive']
 			ylabel1 = 'Number of tests'
-			ylabel2 = '%Hospitalized'
+			ylabel2 = '%Positive'
 			ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
-												  y1, 
-												  y2,
+												  df_test.loc[:,['total', 'positive']], 
+												  df_test.positive/df_test.total*100,
 												  [cat_color['Negative'], cat_color['Positive']], 'k', 
 												  legend1, legend2, ylabel1, ylabel2)
 			myLocator = mticker.MultipleLocator(4)
 			ax.xaxis.set_major_locator(myLocator)
 			ax.tick_params(axis = 'x', labelrotation = 45)
-			ax.set_title(f'{plt_title} Culmultive Hospitalized')
+			ax.set_title(f'{plt_title} tests performed')
 			if('yscales' in kwargs.keys()):
-				ax.set_yscale(kwargs['yscales'][4])
+				ax.set_yscale(kwargs['yscales'][1])
 
-		### current hopitalization
-		if(sum(df_test['hosp_cur']) > 0):
-			ax = fig.add_subplot(gs[4, i])
-			y1 = df_test[['active', 'hosp_cur']][df_test['hosp_cur']>0]
-			x = y1.index
-			y2 = y1['hosp_cur']/y1['active'] * 100
-			legend1 = ['Active', 'Hospitalized']
-			legend2 = ['%Hospitalized']
-			ylabel1 = 'Number of tests'
-			ylabel2 = '%Hospitalized'
+			### daily increase
+			ax = fig.add_subplot(gs[1, i])
 			ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
-												  y1, 
-												  y2,
+												  df_test.loc[:,['d_total', 'd_positive']], 
+												  df_test.d_positive/df_test.d_total*100,
 												  [cat_color['Negative'], cat_color['Positive']], 'k', 
 												  legend1, legend2, ylabel1, ylabel2)
 			myLocator = mticker.MultipleLocator(4)
 			ax.xaxis.set_major_locator(myLocator)
 			ax.tick_params(axis = 'x', labelrotation = 45)
-			ax.set_title(f'{plt_title} Current Hospitalized')
+			ax.set_title(f'{plt_title} daily tests performed')
+			ax.set_ylabel('Number of tests')
 			if('yscales' in kwargs.keys()):
-				ax.set_yscale(kwargs['yscales'][5])
+				ax1.set_yscale(kwargs['yscales'][2])
 
-		### increase in current hospitalization
-		if(sum(df_test['hosp_cur']) > 0):
-			ax = fig.add_subplot(gs[5, i])
-			ax.plot(df_test['hosp_cur'].diff()[df_test['hosp_cur']>0])
-			myLocator = mticker.MultipleLocator(4)
-			ax.xaxis.set_major_locator(myLocator)
-			ax.tick_params(axis = 'x', labelrotation = 45)
-			ax.set_title(f'{plt_title} Increase in Hospitalization')
+			### tests vs. positive
+			ax = fig.add_subplot(gs[2, i])
+			sns.regplot(data = df_test, x = 'positive', y = 'total')
+			sns.regplot(x = df_plot.loc[df_test.index, 'Confirmed'], y = df_test.total)
+			ax.set_yscale('linear')
+			ax.legend(['Reported positive test cases', 'Reported confirmed cases'])
+			ax.set_xlabel('Toatal number of cases')
+			ax.set_ylabel('Total number of tests')
 			if('yscales' in kwargs.keys()):
-				ax.set_yscale(kwargs['yscales'][6])
+				ax.set_yscale(kwargs['yscales'][3])
+
+		elif(kwargs['polt_choice'] == 'Hospitalization'):
+			### culmultive hospitalization
+			if(sum(df_test['hosp_cum']) > 0):
+				ax = fig.add_subplot(gs[3, i])
+				y1 = df_test[['positive', 'hosp_cum']][df_test['hosp_cum']>0]
+				x = y1.index
+				y2 = y1['hosp_cum']/y1['positive'] * 100
+				legend1 = ['Positive', 'Hospitalized']
+				legend2 = ['%Hospitalized']
+				ylabel1 = 'Number of tests'
+				ylabel2 = '%Hospitalized'
+				ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
+													  y1, 
+													  y2,
+													  [cat_color['Negative'], cat_color['Positive']], 'k', 
+													  legend1, legend2, ylabel1, ylabel2)
+				myLocator = mticker.MultipleLocator(4)
+				ax.xaxis.set_major_locator(myLocator)
+				ax.tick_params(axis = 'x', labelrotation = 45)
+				ax.set_title(f'{plt_title} Culmultive Hospitalized')
+				if('yscales' in kwargs.keys()):
+					ax.set_yscale(kwargs['yscales'][4])
+
+			### current hopitalization
+			if(sum(df_test['hosp_cur']) > 0):
+				ax = fig.add_subplot(gs[4, i])
+				y1 = df_test[['active', 'hosp_cur']][df_test['hosp_cur']>0]
+				x = y1.index
+				y2 = y1['hosp_cur']/y1['active'] * 100
+				legend1 = ['Active', 'Hospitalized']
+				legend2 = ['%Hospitalized']
+				ylabel1 = 'Number of tests'
+				ylabel2 = '%Hospitalized'
+				ax1, ax2 = plot_tests_bar_and_percent(ax, x, 
+													  y1, 
+													  y2,
+													  [cat_color['Negative'], cat_color['Positive']], 'k', 
+													  legend1, legend2, ylabel1, ylabel2)
+				myLocator = mticker.MultipleLocator(4)
+				ax.xaxis.set_major_locator(myLocator)
+				ax.tick_params(axis = 'x', labelrotation = 45)
+				ax.set_title(f'{plt_title} Current Hospitalized')
+				if('yscales' in kwargs.keys()):
+					ax.set_yscale(kwargs['yscales'][5])
+
+			### increase in current hospitalization
+			if(sum(df_test['hosp_cur']) > 0):
+				ax = fig.add_subplot(gs[5, i])
+				ax.plot(df_test['hosp_cur'].diff()[df_test['hosp_cur']>0])
+				myLocator = mticker.MultipleLocator(4)
+				ax.xaxis.set_major_locator(myLocator)
+				ax.tick_params(axis = 'x', labelrotation = 45)
+				ax.set_title(f'{plt_title} Increase in Hospitalization')
+				if('yscales' in kwargs.keys()):
+					ax.set_yscale(kwargs['yscales'][6])
 
 
 def plot_us_tests_by_state(df_us_tests, df_tests_states_daily, df, num_states, usstate_abbs_mapping):
