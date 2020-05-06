@@ -1,22 +1,27 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Unknown,Michigan,US,19,2.0
-Chambers,Georgia,US,0,0.0
-Out of state,Colorado,US,0,1.0
-Verm.,Indiana,US,1,0.0
-TBD,Missouri,US,1,0.0
-Charke,Virginia,US,1,0.0
-Staunton City,Virginia,US,1,0.0
-Central Utah,Utah,US,1,0.0
-Adam,Idaho,US,1,0.0
-Obrien,Iowa,US,2,0.0
-Unknown,Kansas,US,0,0.0
-"San Juan, UT",Navajo Nation,US,6,0.0
-"Cibola, NM",Navajo Nation,US,1,0.0
-Unassigned,Navajo Nation,US,0,5.0
-Kenai,Alaska,US,1,0.0
-Wasilla,Alaska,US,1,0.0
+Inmates,Federal Bureau of Prisons,US,2066,41.0
+Staff,Federal Bureau of Prisons,US,359,0.0
+Out of state,Illinois,US,73,4.0
+Apache(AZ),Navajo Nation,US,450,0.0
+Bernalillo(NM),Navajo Nation,US,0,0.0
+Cibola(NM),Navajo Nation,US,17,0.0
+Coconino(AZ),Navajo Nation,US,274,0.0
+McKinley(NM),Navajo Nation,US,504,0.0
+Navajo(AZ),Navajo Nation,US,468,0.0
+San Juan(NM),Navajo Nation,US,202,0.0
+San Juan(UT),Navajo Nation,US,22,0.0
+Sandoval(NM),Navajo Nation,US,19,0.0
+Socorro(NM),Navajo Nation,US,21,0.0
+Unassigned,Navajo Nation,US,0,62.0
+Mcpherson,Nebraska,US,1,0.0
+Air Force,US Military,US,914,1.0
+Army,US Military,US,1039,2.0
+Marine Corps,US Military,US,433,0.0
+Navy,US Military,US,2567,9.0
+Unassigned,US Military,US,2573,15.0
+VA Hospitals,Veteran Affair,US,9627,722.0
 Unassigned,Wuhan Evacuee,US,4,0.0
-,External territories,Australia,0,0.0
-,Jervis Bay,Australia,0,0.0
-,,Australia,0,0.0
-,,Caribbean Netherlands,2,0.0
+,Australia,Australia,6858,97.0
+,Grand Princess and Canadian Repatriations,Canada,1,0.0
+,Nunavut,Canada,0,0.0
+,,World,3719956,257749.0
