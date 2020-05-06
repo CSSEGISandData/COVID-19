@@ -1,6 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,1926,38.0
-Staff,Federal Bureau of Prisons,US,350,0.0
+Inmates,Federal Bureau of Prisons,US,2066,41.0
+Staff,Federal Bureau of Prisons,US,359,0.0
+Out of state,Illinois,US,73,4.0
 Apache(AZ),Navajo Nation,US,450,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
 Cibola(NM),Navajo Nation,US,17,0.0
@@ -12,14 +13,15 @@ San Juan(UT),Navajo Nation,US,22,0.0
 Sandoval(NM),Navajo Nation,US,19,0.0
 Socorro(NM),Navajo Nation,US,21,0.0
 Unassigned,Navajo Nation,US,0,62.0
-Air Force,US Military,US,859,1.0
-Army,US Military,US,971,2.0
-Marine Corps,US Military,US,282,0.0
-Navy,US Military,US,2289,9.0
-Unassigned,US Military,US,2561,15.0
-VA Hospitals,Veteran Affair,US,9315,538.0
+Mcpherson,Nebraska,US,1,0.0
+Air Force,US Military,US,914,1.0
+Army,US Military,US,1039,2.0
+Marine Corps,US Military,US,433,0.0
+Navy,US Military,US,2567,9.0
+Unassigned,US Military,US,2573,15.0
+VA Hospitals,Veteran Affair,US,9627,722.0
 Unassigned,Wuhan Evacuee,US,4,0.0
-,Australia,Australia,6799,95.0
+,Australia,Australia,6858,97.0
 ,Grand Princess and Canadian Repatriations,Canada,1,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3555338,247631.0
+,,World,3719956,257749.0
