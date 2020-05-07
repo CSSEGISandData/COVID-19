@@ -159,6 +159,6 @@
 5/7/20,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/23/20,92,74,
 5/7/20,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/24/20,92,81,
 5/7/20,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/25/20,92,83,
-5/7/20,time_series_covid19_confirmed_US.csv,"Box Elder and Bear River, Utah",on and before 4/19,,,"transfer data from Box Elder to Bear River, Utah"
-5/7/20,time_series_covid19_confirmed_US.csv,"Weber and Weber-Morgan, Utah",on and before 4/19,,,"transfer data from Weber to Weber-Morgan, Utah"
-5/7/20,time_series_covid19_deaths_US.csv,"Weber and Weber-Morgan, Utah",on and before 4/19,,,"transfer data from Weber to Weber-Morgan, Utah"
+5/7/20,time_series_covid19_confirmed_US.csv,"Box Elder and Bear River, Utah",before 4/19,,,"transfer data from Box Elder to Bear River, Utah"
+5/7/20,time_series_covid19_confirmed_US.csv,"Weber and Weber-Morgan, Utah",before 4/19,,,"transfer data from Weber to Weber-Morgan, Utah"
+5/7/20,time_series_covid19_deaths_US.csv,"Weber and Weber-Morgan, Utah",before 4/19,,,"transfer data from Weber to Weber-Morgan, Utah"
