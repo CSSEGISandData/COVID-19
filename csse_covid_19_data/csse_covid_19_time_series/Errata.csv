@@ -1,128 +1,130 @@
 ﻿Update Date,File,Location,Field Updated,Old,New,Comments
-4/7/2020,time_series_covid19_confirmed_US.csv,Viginia Island,3/29/2020,0,23,New York Times
-4/7/2020,time_series_covid19_confirmed_US.csv,Viginia Island,3/30/2020,0,30,New York Times
-4/7/2020,time_series_covid19_confirmed_US.csv,"DC, US",3/21/2020,0,98,New York Times
-4/7/2020,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",3/19/2020,0,101,New York Times
-4/7/2020,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",3/20/2020,0,124,New York Times
-4/7/2020,time_series_covid19_confirmed_US.csv,"Hillsborough, NH",4/2/2020,0,163,New York Times
-4/7/2020,time_series_covid19_confirmed_US.csv,"Harris, TX",3/20/2020,0,55,New York Times
-4/7/2020,time_series_covid19_confirmed_US.csv,Kansas City,3/21/2020,0,13,New York Times
-4/9/2020,time_series_covid19_confirmed_US.csv,"Box Elder, UT",3/20/2020,13,7,New York Times
-4/9/2020,time_series_covid19_confirmed_US.csv,"Union, FL",4/4/2020,10,2,New York Times
-4/9/2020,time_series_covid19_confirmed_US.csv,"Daviess, KY",3/28/2020,33,20,New York Times
-4/9/2020,time_series_covid19_confirmed_US.csv,"Washington, RI",4/2/2020,46,34,New York Times
-4/9/2020,time_series_covid19_confirmed_US.csv,"West Feliciana, LA",4/2/2020,20,10,New York Times
-4/9/2020,time_series_covid19_confirmed_US.csv,"Davidson, TN",4/2/2020,617,785,New York Times
-4/13/2020,time_series_covid19_confirmed_global.csv,Florida,4/13/2020,682619,580619,data source error
-4/13/2020,time_series_covid19_confirmed_US.csv,"Okaloosa, Florida",4/13/2020,102103,103,data source error
-4/14/2020,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3/2020,955,623,
-4/14/2020,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/4/2020,1173,427,
-4/14/2020,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/5/2020,1260,338,
-4/16/2020,time_series_covid19_deaths_global.csv,France,4/1/2020,4032,4403,add 371 decesEhpad
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/4/2020,89953,68605,only report casConfirmes
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/5/2020,92839,70478,
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/6/2020,98010,74390,
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/7/2020,109069,78167,
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/8/2020,112950,82048,
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/9/2020,117749,86334,
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/10/2020,124869,90676,
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/11/2020,129654,93790,
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/12/2020,132591,120633,casPossiblesEhpad added
-4/16/2020,time_series_covid19_confirmed_global.csv,France,4/13/2020,136779,124298,
-4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/11/2020,3,2,
-4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/12/2020,3,2,
-4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/13/2020,3,2,
-4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/14/2020,3,2,
-4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/15/2020,3,2,
-4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/16/2020,3,2,
-4/16/2020,time_series_covid19_confirmed_global.csv,US,4/11/2020,20463,20462,
-4/16/2020,time_series_covid19_confirmed_global.csv,US,4/12/2020,22020,22019,
-4/16/2020,time_series_covid19_confirmed_global.csv,US,4/13/2020,23529,23528,
-4/16/2020,time_series_covid19_confirmed_global.csv,US,4/14/2020,25832,25831,
-4/16/2020,time_series_covid19_confirmed_global.csv,US,4/15/2020,28326,28325,
-4/16/2020,time_series_covid19_confirmed_global.csv,US,4/16/2020,32917,32916,
-4/18/2020,time_series_covid19_confirmed_US.csv,all Illinois counties,4/7/2020,12271,13553,"changed at county level,"
-4/18/2020,time_series_covid19_deaths_US.csv,all Illinois counties,4/7/2020,308,380,aggregated state value
-4/18/2020,time_series_covid19_confirmed_global.csv,US,4/7/2020,396223,397505,
-4/18/2020,time_series_covid19_deaths_global.csv,US,4/7/2020,12722,12794,
-4/18/2020,time_series_covid19_confirmed_US.csv,all Illinois counties,4/9/2020,15079,16422,"changed at county level,"
-4/18/2020,time_series_covid19_deaths_US.csv,all Illinois counties,4/9/2020,462,528,aggregated state value
-4/18/2020,time_series_covid19_confirmed_global.csv,US,4/9/2020,461437,462780,
-4/18/2020,time_series_covid19_deaths_global.csv,US,4/9/2020,16478,16544,
-4/19/2020,time_series_covid19_confirmed_US.csv,"Davidson, Tennessee",4/16/2020,1492,1283,
-4/19/2020,time_series_covid19_confirmed_global.csv,US,4/16/2020,667801,667592,
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/1/2020,213372,213242,Navajo Nation correction
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/2/2020,243762,243622,Navajo Nation correction
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/3/2020,275586,275367,Navajo Nation correction
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/4/2020,308853,308650,Navajo Nation correction
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/5/2020,337072,336802,Navajo Nation correction
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/6/2020,366667,366317,Navajo Nation correction
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/7/2020,397505,397121,Navajo Nation correction
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/8/2020,429052,428654,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,3/31/2020,3873,3874,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/1/2020,4757,4760,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/2/2020,5926,5929,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/3/2020,7087,7090,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/4/2020,8407,8408,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/7/2020,12794,12794,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/8/2020,14695,14704,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/10/2020,18586,18595,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/11/2020,20462,20471,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/12/2020,22019,22029,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/13/2020,23528,23538,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/14/2020,25831,25843,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/15/2020,28325,28338,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/16/2020,32916,32930,Navajo Nation correction
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/17/2020,36773,36787,Navajo Nation correction
-4/22/2020,time_series_covid19_confirmed_US.csv,"Navajo, AZ",4/1 - 4/8,,,remove duplicates
-4/22/2020,time_series_covid19_confirmed_US.csv,"Coconino, AZ",4/1 - 4/8,,,remove duplicates
-4/22/2020,time_series_covid19_confirmed_US.csv,"Apache, AZ",4/1 - 4/8,,,remove duplicates
-4/22/2020,time_series_covid19_confirmed_US.csv,"San Juan, NM",4/1 - 4/8,,,remove duplicates
-4/22/2020,time_series_covid19_confirmed_US.csv,"McKinley, NM",4/1 - 4/8,,,remove duplicates
-4/22/2020,time_series_covid19_confirmed_US.csv,"Cibola, NM",4/1 - 4/8,,,remove duplicates
-4/22/2020,time_series_covid19_confirmed_US.csv,"Socorro, NM",4/1 - 4/8,,,remove duplicates
-4/22/2020,time_series_covid19_confirmed_US.csv,"San Juan, UT",4/1 - 4/8,,,remove duplicates
-4/22/2020,time_series_covid19_deaths_US.csv,"Navajo, AZ",3/31 - 4/17,,,remove duplicates
-4/22/2020,time_series_covid19_deaths_US.csv,"Coconino, AZ",3/31 - 4/17,,,remove duplicates
-4/22/2020,time_series_covid19_deaths_US.csv,"Apache, AZ",3/31 - 4/17,,,remove duplicates
-4/22/2020,time_series_covid19_deaths_US.csv,"McKinley, NM",4/4/2020,0,1,remove duplicates
-4/22/2020,time_series_covid19_confirmed_US.csv,"Unassigned, WA",4/19/2020,436,159,remove spike
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/19/2020,759086,758809,remove spike
-4/22/2020,time_series_covid19_confirmed_US.csv,US,4/21/2020,,,correction for US federal data
-4/22/2020,time_series_covid19_deaths_US.csv,US,4/21/2020,,,correction for US federal data
-4/22/2020,time_series_covid19_confirmed_global.csv,US,4/21/2020,,,correction for US federal data
-4/22/2020,time_series_covid19_deaths_global.csv,US,4/21/2020,,,correction for US federal data
-4/23/2020,time_series_covid19_confirmed_US.csv,"Benton, WA",4/21/2020,423,326,"remove 97 probable cases,"
-4/23/2020,time_series_covid19_confirmed_US.csv,"Benton, WA",4/22/2020,0,338,consistent with state report
-4/23/2020,time_series_covid19_confirmed_US.csv,"Franklin, WA",4/21/2020,266,192,"remove 74 probable cases,"
-4/23/2020,time_series_covid19_confirmed_US.csv,"Franklin, WA",4/22/2020,0,207,consistent with state report
-4/23/2020,time_series_covid19_deaths_US.csv,"Benton, WA",4/22/2020,0,35,"adjust for Benton and Franklin, WA"
-4/23/2020,time_series_covid19_deaths_US.csv,"Franklin, WA",4/22/2020,0,4,"adjust for Benton and Franklin, WA"
-4/23/2020,time_series_covid19_confirmed_global.csv,US,4/21/2020,812036,811865,"adjust for Benton and Franklin, WA"
-4/23/2020,time_series_covid19_confirmed_global.csv,US,4/22/2020,839675,840351,"adjust for Benton and Franklin, WA"
-4/23/2020,time_series_covid19_deaths_global.csv,US,4/22/2020,46583,46622,"adjust for Benton and Franklin, WA"
-4/24/2020,time_series_covid19_deaths_us.csv,"New York City, NY", 3/12-4/24,,,Adjust to back-distribute probable deaths
-4/24/2020,time_series_covid19_confirmed_us.csv,"New York City, NY",4/18-4/22,,,Adjust to remove probable deaths from case count
-4/25/2020,time_series_covid19_confirmed_global.csv,Ukraine,4/24/2020,8125,7647,adjust 5 min ahead
-4/26/2020,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,4/20 through 4/25,,,Replace recovered cases
-4/26/2020,time_series_covid19_recovered_global.csv,New South Wales - Australia,4/20 through 4/25,,,Replace recovered cases
-4/26/2020,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,4/20 through 4/25,,,Replace recovered cases
-4/26/2020,time_series_covid19_recovered_global.csv,Northern Territory - Australia,4/20 through 4/26,,,Replace recovered cases
-4/26/2020,time_series_covid19_recovered_global.csv,South Australia - Australia,4/20 through 4/26,,,Replace recovered cases
-4/26/2020,time_series_covid19_recovered_global.csv,Tasmania - Australia,4/20 through 4/26,,,Replace recovered cases
-4/26/2020,time_series_covid19_recovered_global.csv,Victoria - Australia,4/20 through 4/25,,,Replace recovered cases
-4/26/2020,time_series_covid19_recovered_global.csv,Western Australia - Australia,4/20 through 4/25,,,Replace recovered cases
-4/27/2020,time_series_covid19_confirmed_global.csv,Mexico,Multiple,,,Remove duplicate entry on 13/3/20; add 10544 cases on 22/4; adjust 11632 to 12872
-4/27/2020,times_series_covid19_deaths_global.csv,Mexico,Multiple,,,Remove duplicate entry on 3/20/20; add 970 deaths on 22/4; adjust 1069 to 1221
-4/28/2020,time_series_covid19_deaths_global.csv,US,All,,,Adjust deaths to reflect changes from 4/24 adjustment of NYC probable deaths
-4/30/2020,time_series_covid19_deaths_global.csv,United Kingdom,All columns,,,Adjusted all deaths to match newly released data from the United Kingdom identifying deaths in care homes
-4/30/2020,time_series_covid19_cases_global.csv,Spain,4/24-4/29,,,Cases adjusted to match official case count
-4/30/2020,time_series_covid19_recovered_global.csv,Spain,4/26-4/29,,,Recovered adjusted to match official count
-5/1/2020,time_series_covid19_cases_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 510.
-5/1/2020,time_series_covid19_deaths_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 12.
-5/1/2020,time_series_covid19_recovered_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 93.
-5/1/2020,time_series_covid19_cases_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 6630.
-5/1/2020,time_series_covid19_deaths_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 125.
-5/1/2020,time_series_covid19_recovered_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 870.
-5/2/2020,time_series_covid19_deaths_global.csv,France,4/14-5/01,,,"Deaths updated to remove double counts of deaths in DROM. Logic = France,  France entry for date - sum(deaths in DROM for date)"
-5/2/2020,time_series_covid19_recovered_global.csv,France,4/14-5/01,,,"Recovered updated to remove double counts of recoveries in DROM. Logic = France,  France entry for date - sum(recoveries in DROM for date)"
+4/7/20,time_series_covid19_confirmed_US.csv,Viginia Island,3/29/20,0,23,New York Times
+4/7/20,time_series_covid19_confirmed_US.csv,Viginia Island,3/30/20,0,30,New York Times
+4/7/20,time_series_covid19_confirmed_US.csv,"DC, US",3/21/20,0,98,New York Times
+4/7/20,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",3/19/20,0,101,New York Times
+4/7/20,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",3/20/20,0,124,New York Times
+4/7/20,time_series_covid19_confirmed_US.csv,"Hillsborough, NH",4/2/20,0,163,New York Times
+4/7/20,time_series_covid19_confirmed_US.csv,"Harris, TX",3/20/20,0,55,New York Times
+4/7/20,time_series_covid19_confirmed_US.csv,Kansas City,3/21/20,0,13,New York Times
+4/9/20,time_series_covid19_confirmed_US.csv,"Box Elder, UT",3/20/20,13,7,New York Times
+4/9/20,time_series_covid19_confirmed_US.csv,"Union, FL",4/4/20,10,2,New York Times
+4/9/20,time_series_covid19_confirmed_US.csv,"Daviess, KY",3/28/20,33,20,New York Times
+4/9/20,time_series_covid19_confirmed_US.csv,"Washington, RI",4/2/20,46,34,New York Times
+4/9/20,time_series_covid19_confirmed_US.csv,"West Feliciana, LA",4/2/20,20,10,New York Times
+4/9/20,time_series_covid19_confirmed_US.csv,"Davidson, TN",4/2/20,617,785,New York Times
+4/13/20,time_series_covid19_confirmed_global.csv,Florida,4/13/20,682619,580619,data source error
+4/13/20,time_series_covid19_confirmed_US.csv,"Okaloosa, Florida",4/13/20,102103,103,data source error
+4/14/20,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3/20,955,623,
+4/14/20,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/4/20,1173,427,
+4/14/20,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/5/20,1260,338,
+4/16/20,time_series_covid19_deaths_global.csv,France,4/1/20,4032,4403,add 371 decesEhpad
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/4/20,89953,68605,only report casConfirmes
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/5/20,92839,70478,
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/6/20,98010,74390,
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/7/20,109069,78167,
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/8/20,112950,82048,
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/9/20,117749,86334,
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/10/20,124869,90676,
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/11/20,129654,93790,
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/12/20,132591,120633,casPossiblesEhpad added
+4/16/20,time_series_covid19_confirmed_global.csv,France,4/13/20,136779,124298,
+4/16/20,time_series_covid19_confirmed_US.csv,"Sutter, California",4/11/20,3,2,
+4/16/20,time_series_covid19_confirmed_US.csv,"Sutter, California",4/12/20,3,2,
+4/16/20,time_series_covid19_confirmed_US.csv,"Sutter, California",4/13/20,3,2,
+4/16/20,time_series_covid19_confirmed_US.csv,"Sutter, California",4/14/20,3,2,
+4/16/20,time_series_covid19_confirmed_US.csv,"Sutter, California",4/15/20,3,2,
+4/16/20,time_series_covid19_confirmed_US.csv,"Sutter, California",4/16/20,3,2,
+4/16/20,time_series_covid19_confirmed_global.csv,US,4/11/20,20463,20462,
+4/16/20,time_series_covid19_confirmed_global.csv,US,4/12/20,22020,22019,
+4/16/20,time_series_covid19_confirmed_global.csv,US,4/13/20,23529,23528,
+4/16/20,time_series_covid19_confirmed_global.csv,US,4/14/20,25832,25831,
+4/16/20,time_series_covid19_confirmed_global.csv,US,4/15/20,28326,28325,
+4/16/20,time_series_covid19_confirmed_global.csv,US,4/16/20,32917,32916,
+4/18/20,time_series_covid19_confirmed_US.csv,all Illinois counties,4/7/20,12271,13553,"changed at county level,"
+4/18/20,time_series_covid19_deaths_US.csv,all Illinois counties,4/7/20,308,380,aggregated state value
+4/18/20,time_series_covid19_confirmed_global.csv,US,4/7/20,396223,397505,
+4/18/20,time_series_covid19_deaths_global.csv,US,4/7/20,12722,12794,
+4/18/20,time_series_covid19_confirmed_US.csv,all Illinois counties,4/9/20,15079,16422,"changed at county level,"
+4/18/20,time_series_covid19_deaths_US.csv,all Illinois counties,4/9/20,462,528,aggregated state value
+4/18/20,time_series_covid19_confirmed_global.csv,US,4/9/20,461437,462780,
+4/18/20,time_series_covid19_deaths_global.csv,US,4/9/20,16478,16544,
+4/19/20,time_series_covid19_confirmed_US.csv,"Davidson, Tennessee",4/16/20,1492,1283,
+4/19/20,time_series_covid19_confirmed_global.csv,US,4/16/20,667801,667592,
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/1/20,213372,213242,Navajo Nation correction
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/2/20,243762,243622,Navajo Nation correction
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/3/20,275586,275367,Navajo Nation correction
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/4/20,308853,308650,Navajo Nation correction
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/5/20,337072,336802,Navajo Nation correction
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/6/20,366667,366317,Navajo Nation correction
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/7/20,397505,397121,Navajo Nation correction
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/8/20,429052,428654,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,3/31/20,3873,3874,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/1/20,4757,4760,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/2/20,5926,5929,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/3/20,7087,7090,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/4/20,8407,8408,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/7/20,12794,12794,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/8/20,14695,14704,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/10/20,18586,18595,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/11/20,20462,20471,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/12/20,22019,22029,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/13/20,23528,23538,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/14/20,25831,25843,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/15/20,28325,28338,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/16/20,32916,32930,Navajo Nation correction
+4/22/20,time_series_covid19_deaths_global.csv,US,4/17/20,36773,36787,Navajo Nation correction
+4/22/20,time_series_covid19_confirmed_US.csv,"Navajo, AZ",4/1 - 4/8,,,remove duplicates
+4/22/20,time_series_covid19_confirmed_US.csv,"Coconino, AZ",4/1 - 4/8,,,remove duplicates
+4/22/20,time_series_covid19_confirmed_US.csv,"Apache, AZ",4/1 - 4/8,,,remove duplicates
+4/22/20,time_series_covid19_confirmed_US.csv,"San Juan, NM",4/1 - 4/8,,,remove duplicates
+4/22/20,time_series_covid19_confirmed_US.csv,"McKinley, NM",4/1 - 4/8,,,remove duplicates
+4/22/20,time_series_covid19_confirmed_US.csv,"Cibola, NM",4/1 - 4/8,,,remove duplicates
+4/22/20,time_series_covid19_confirmed_US.csv,"Socorro, NM",4/1 - 4/8,,,remove duplicates
+4/22/20,time_series_covid19_confirmed_US.csv,"San Juan, UT",4/1 - 4/8,,,remove duplicates
+4/22/20,time_series_covid19_deaths_US.csv,"Navajo, AZ",3/31 - 4/17,,,remove duplicates
+4/22/20,time_series_covid19_deaths_US.csv,"Coconino, AZ",3/31 - 4/17,,,remove duplicates
+4/22/20,time_series_covid19_deaths_US.csv,"Apache, AZ",3/31 - 4/17,,,remove duplicates
+4/22/20,time_series_covid19_deaths_US.csv,"McKinley, NM",4/4/20,0,1,remove duplicates
+4/22/20,time_series_covid19_confirmed_US.csv,"Unassigned, WA",4/19/20,436,159,remove spike
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/19/20,759086,758809,remove spike
+4/22/20,time_series_covid19_confirmed_US.csv,US,4/21/20,,,correction for US federal data
+4/22/20,time_series_covid19_deaths_US.csv,US,4/21/20,,,correction for US federal data
+4/22/20,time_series_covid19_confirmed_global.csv,US,4/21/20,,,correction for US federal data
+4/22/20,time_series_covid19_deaths_global.csv,US,4/21/20,,,correction for US federal data
+4/23/20,time_series_covid19_confirmed_US.csv,"Benton, WA",4/21/20,423,326,"remove 97 probable cases,"
+4/23/20,time_series_covid19_confirmed_US.csv,"Benton, WA",4/22/20,0,338,consistent with state report
+4/23/20,time_series_covid19_confirmed_US.csv,"Franklin, WA",4/21/20,266,192,"remove 74 probable cases,"
+4/23/20,time_series_covid19_confirmed_US.csv,"Franklin, WA",4/22/20,0,207,consistent with state report
+4/23/20,time_series_covid19_deaths_US.csv,"Benton, WA",4/22/20,0,35,"adjust for Benton and Franklin, WA"
+4/23/20,time_series_covid19_deaths_US.csv,"Franklin, WA",4/22/20,0,4,"adjust for Benton and Franklin, WA"
+4/23/20,time_series_covid19_confirmed_global.csv,US,4/21/20,812036,811865,"adjust for Benton and Franklin, WA"
+4/23/20,time_series_covid19_confirmed_global.csv,US,4/22/20,839675,840351,"adjust for Benton and Franklin, WA"
+4/23/20,time_series_covid19_deaths_global.csv,US,4/22/20,46583,46622,"adjust for Benton and Franklin, WA"
+4/24/20,time_series_covid19_deaths_us.csv,"New York City, NY", 3/12-4/24,,,Adjust to back-distribute probable deaths
+4/24/20,time_series_covid19_confirmed_us.csv,"New York City, NY",4/18-4/22,,,Adjust to remove probable deaths from case count
+4/25/20,time_series_covid19_confirmed_global.csv,Ukraine,4/24/20,8125,7647,adjust 5 min ahead
+4/26/20,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,4/20 through 4/25,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,New South Wales - Australia,4/20 through 4/25,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,4/20 through 4/25,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Northern Territory - Australia,4/20 through 4/26,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,South Australia - Australia,4/20 through 4/26,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Tasmania - Australia,4/20 through 4/26,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Victoria - Australia,4/20 through 4/25,,,Replace recovered cases
+4/26/20,time_series_covid19_recovered_global.csv,Western Australia - Australia,4/20 through 4/25,,,Replace recovered cases
+4/27/20,time_series_covid19_confirmed_global.csv,Mexico,Multiple,,,Remove duplicate entry on 13/3/20; add 10544 cases on 22/4; adjust 11632 to 12872
+4/27/20,times_series_covid19_deaths_global.csv,Mexico,Multiple,,,Remove duplicate entry on 3/20/20; add 970 deaths on 22/4; adjust 1069 to 1221
+4/28/20,time_series_covid19_deaths_global.csv,US,All,,,Adjust deaths to reflect changes from 4/24 adjustment of NYC probable deaths
+4/30/20,time_series_covid19_deaths_global.csv,United Kingdom,All columns,,,Adjusted all deaths to match newly released data from the United Kingdom identifying deaths in care homes
+4/30/20,time_series_covid19_cases_global.csv,Spain,4/24-4/29,,,Cases adjusted to match official case count
+4/30/20,time_series_covid19_recovered_global.csv,Spain,4/26-4/29,,,Recovered adjusted to match official count
+5/1/20,time_series_covid19_cases_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 510.
+5/1/20,time_series_covid19_deaths_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 12.
+5/1/20,time_series_covid19_recovered_global.csv,Kosovo,4/19-4/30,,,Cases updated due to stale data source. Prior were stuck at 93.
+5/1/20,time_series_covid19_cases_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 6630.
+5/1/20,time_series_covid19_deaths_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 125.
+5/1/20,time_series_covid19_recovered_global.csv,Serbia,4/20-4/30,,,Cases updated due to stale data source. Prior were stuck at 870.
+5/2/20,time_series_covid19_deaths_global.csv,France,4/14-5/01,,,"Deaths updated to remove double counts of deaths in DROM. Logic = France,  France entry for date - sum(deaths in DROM for date)"
+5/2/20,time_series_covid19_recovered_global.csv,France,4/14-5/01,,,"Recovered updated to remove double counts of recoveries in DROM. Logic = France,  France entry for date - sum(recoveries in DROM for date)"
+5/6/20,time_series_covid19_deaths_us.csv,"84029113, Lincoln, Missouri",4/27/20,41,1,correction
+5/6/20,times_series_covid19_deaths_global.csv,US,4/27/20,56259,56219,
