@@ -128,3 +128,37 @@
 5/2/20,time_series_covid19_recovered_global.csv,France,4/14-5/01,,,"Recovered updated to remove double counts of recoveries in DROM. Logic = France,  France entry for date - sum(recoveries in DROM for date)"
 5/6/20,time_series_covid19_deaths_us.csv,"84029113, Lincoln, Missouri",4/27/20,41,1,correction
 5/6/20,times_series_covid19_deaths_global.csv,US,4/27/20,56259,56219,
+5/7/20,time_series_covid19_confirmed_global.csv,Bolivia,4/28/20,1014,1053,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_confirmed_global.csv,Bolivia,4/30/20,1110,1167,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_confirmed_global.csv,Bolivia,5/2/20,1229,1470,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_deaths_global.csv,Bolivia,4/28/20,53,55,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_deaths_global.csv,Bolivia,4/30/20,59,62,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_deaths_global.csv,Bolivia,5/2/20,66,71,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_recovered_global.csv,Bolivia,4/28/20,98,110,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_recovered_global.csv,Bolivia,4/30/20,117,132,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_recovered_global.csv,Bolivia,5/2/20,134,159,Shift datat 3-4 hours later to remove the spikes
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/12/20,290,271,Update historical numbers to match the official report
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/13/20,308,273,without cases from occupied Jerusalem or East Jerusalem
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/14/20,308,284,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/15/20,374,291,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/16/20,374,294,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/17/20,402,307,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/18/20,418,313,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/19/20,437,319,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/20/20,449,329,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/21/20,466,329,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/22/20,474,335,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/23/20,480,336,
+5/7/20,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/24/20,484,340,
+5/7/20,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/19/20,3,2,
+5/7/20,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/20/20,3,2,
+5/7/20,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/21/20,4,2,
+5/7/20,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/22/20,4,2,
+5/7/20,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/23/20,4,2,
+5/7/20,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/24/20,4,2,
+5/7/20,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/23/20,92,74,
+5/7/20,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/24/20,92,81,
+5/7/20,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/25/20,92,83,
+5/7/20,time_series_covid19_confirmed_US.csv,"Box Elder and Bear River, Utah",before 4/19,,,"transfer data from Box Elder to Bear River, Utah"
+5/7/20,time_series_covid19_confirmed_US.csv,"Weber and Weber-Morgan, Utah",before 4/19,,,"transfer data from Weber to Weber-Morgan, Utah"
+5/7/20,time_series_covid19_deaths_US.csv,"Weber and Weber-Morgan, Utah",before 4/19,,,"transfer data from Weber to Weber-Morgan, Utah"
