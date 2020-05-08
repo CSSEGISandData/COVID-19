@@ -1,17 +1,17 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Inmates,Federal Bureau of Prisons,US,2646,44.0
 Staff,Federal Bureau of Prisons,US,365,0.0
-Apache(AZ),Navajo Nation,US,656,0.0
+Apache(AZ),Navajo Nation,US,701,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
-Cibola(NM),Navajo Nation,US,25,0.0
-Coconino(AZ),Navajo Nation,US,306,0.0
-McKinley(NM),Navajo Nation,US,736,0.0
-Navajo(AZ),Navajo Nation,US,574,0.0
-San Juan(NM),Navajo Nation,US,262,0.0
+Cibola(NM),Navajo Nation,US,26,0.0
+Coconino(AZ),Navajo Nation,US,308,0.0
+McKinley(NM),Navajo Nation,US,762,0.0
+Navajo(AZ),Navajo Nation,US,591,0.0
+San Juan(NM),Navajo Nation,US,273,0.0
 San Juan(UT),Navajo Nation,US,46,0.0
 Sandoval(NM),Navajo Nation,US,19,0.0
 Socorro(NM),Navajo Nation,US,21,0.0
-Unassigned,Navajo Nation,US,9,85.0
+Unassigned,Navajo Nation,US,10,88.0
 Air Force,US Military,US,929,1.0
 Army,US Military,US,1065,2.0
 Marine Corps,US Military,US,442,0.0
@@ -22,4 +22,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,Australia,Australia,6913,97.0
 ,Grand Princess and Canadian Repatriations,Canada,1,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3916244,270709.0
+,,World,3916338,270711.0
