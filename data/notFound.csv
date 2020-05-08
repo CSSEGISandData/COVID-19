@@ -1,5 +1,5 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,2100,42.0
+Inmates,Federal Bureau of Prisons,US,2646,44.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Apache(AZ),Navajo Nation,US,656,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
@@ -17,9 +17,9 @@ Army,US Military,US,1065,2.0
 Marine Corps,US Military,US,442,0.0
 Navy,US Military,US,2652,9.0
 Unassigned,US Military,US,2614,15.0
-VA Hospitals,Veteran Affair,US,10396,812.0
+VA Hospitals,Veteran Affair,US,10427,813.0
 Unassigned,Wuhan Evacuee,US,4,0.0
-,Australia,Australia,6900,97.0
+,Australia,Australia,6901,97.0
 ,Grand Princess and Canadian Repatriations,Canada,1,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3905532,270124.0
+,,World,3913559,270422.0
