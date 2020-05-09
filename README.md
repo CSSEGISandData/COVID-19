@@ -44,6 +44,9 @@ https://systems.jhu.edu/
 * NYC Department of Health and Mental Hygiene: https://www1.nyc.gov/site/doh/covid/covid-19-data.page and https://github.com/nychealth/coronavirus-data
 * Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
 and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
+* Palestine (West Bank and Gaza): https://corona.ps/details
+* Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
+* Colorado: https://covid19.colorado.gov/covid-19-data
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
