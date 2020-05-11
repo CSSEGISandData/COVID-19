@@ -166,3 +166,6 @@
 5/9/20,time_series_covid19_deaths_US.csv,"Virginia, US",5/6/20,713,737,according to https://www.vdh.virginia.gov/coronavirus/
 5/9/20,time_series_covid19_confirmed_global.csv,US,5/6/20,1228603,1229331,
 5/9/20,time_series_covid19_deaths_global.csv,US,5/6/20,73431,73455,
+5/10/20,time_series_covid19_recovered_global.csv,Uruguay,4/1/20-4/22/20,,,Recovered adjusted to match national statistics
+5/10/20,time_series_covid19_deaths_global.csv,Uruguay,3/28/20;4/5/20;4/15/20;4/21/20,0;5;8;11,1;6;9;12,Adjusted to match national statistics
+5/10/20,time_series_covid19_confirmed_global.csv,Uruguay,3/13/20-4/23/20,,,Confirmed adjusted to match national statistics
