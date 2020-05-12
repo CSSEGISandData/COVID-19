@@ -169,3 +169,4 @@
 5/10/20,time_series_covid19_recovered_global.csv,Uruguay,4/1/20-4/22/20,,,Recovered adjusted to match national statistics
 5/10/20,time_series_covid19_deaths_global.csv,Uruguay,3/28/20;4/5/20;4/15/20;4/21/20,0;5;8;11,1;6;9;12,Adjusted to match national statistics
 5/10/20,time_series_covid19_confirmed_global.csv,Uruguay,3/13/20-4/23/20,,,Confirmed adjusted to match national statistics
+5/11/20,time_series_covid19_confirmed_global.csv,Spain,5/1/20,213435,215216,
