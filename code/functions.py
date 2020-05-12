@@ -2,8 +2,8 @@
 # @Author: lily
 # @Date:   2020-04-04 15:05:37
 # @Last Modified by:   lily
-# @Last Modified time: 2020-04-27 21:09:51
-import io, os, sys, types, pickle, warnings
+# @Last Modified time: 2020-05-06 09:49:38
+import io, os, sys, types, pickle, warnings, time
 from datetime import datetime, timedelta
 
 import pandas as pd
@@ -15,10 +15,12 @@ from sklearn.linear_model import LinearRegression
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
+
 from matplotlib import colors as mcolors
 import matplotlib.pylab as pl
 
 import seaborn as sns
+
 
 warnings.filterwarnings('ignore')
 
@@ -29,9 +31,9 @@ if master_path not in sys.path:
 
 """ Params """
 cat_color = {'Confirmed':'tab:blue', 
-              'Deaths':'tab:orange', 
+              'Deaths':'tab:red', 
               'Recovered':'tab:green', 
-              'Active':'tab:red', 
+              'Active':'tab:orange', 
               'Positive':'tab:purple', 
               'Negative':'tab:olive', 
               'Democratic':'tab:blue', 
@@ -102,8 +104,8 @@ def exp_growth(t, r, x0):
     return x0 * (1 + r) ** t
 
 ### logistic growth function
-def logistic_growth(t, r, K, P0):
-    return K / (1 + (K - P0)/P0 * np.exp(-r*t))
+def logistic_growth(t, r, K, C):
+    return K / (1 + C * K * np.exp(-r*t))
 
 ### getting R^2
 def get_r_squared(x, y, popt, func):
@@ -182,6 +184,8 @@ def reshape_dataframe_v3(df_test):
     df_new['active'] = df_new['positive'] - (df_new['recovered'] + df_new['death'])
     df_new['d_positive'] = df_test['positiveIncrease']
     df_new['d_total'] = df_test['totalTestResultsIncrease']
+    df_new['perc_pos'] = df_new['positive']/df_new['total']*100
+    df_new['dly_perc_pos'] = df_new['d_positive']/df_new['d_total']*100
     if(sum(df_test['hospitalizedCurrently'].isna()) < len(df_test)):
         df_new['hosp_cur'] = df_test[['hospitalizedCurrently', 'hospitalizedCumulative']].min(axis = 1).fillna(method = 'bfill')
     else:
@@ -196,21 +200,27 @@ def reshape_dataframe_v3(df_test):
     return df_new
 
 def consolidate_testing(df_covid_tracking, df_state_stats):
-    us_tests_cols = ['State', 'Governer_Affiliation', 'Population', 'positive', 'negative', 'pending', 'hospitalized', 'death', 'totalTestResults']
+    us_tests_cols = ['State', 'Governer_Affiliation', 'Population', 'positive', 'negative', 'death', 'recovered', 'totalTestResults', 'hospitalizedCurrently', 'inIcuCurrently', 'onVentilatorCurrently']
 
     df_us_tests = pd.DataFrame(columns = us_tests_cols, index = df_covid_tracking.index)
     cols1 = intersection(us_tests_cols, list(df_covid_tracking.columns))
     cols2 = intersection(us_tests_cols, list(df_state_stats.columns))
     df_us_tests.loc[:,cols1] = df_covid_tracking.loc[:,cols1]
     df_us_tests.loc[:,cols2] = df_state_stats.loc[:,cols2]
-    df_us_tests.fillna(0.0, inplace = True)
+    # df_us_tests.fillna(0.0, inplace = True)
     df_us_tests.loc[:,'Percent_Pos'] = df_us_tests.positive / df_us_tests.totalTestResults * 100
     df_us_tests.loc[:,'Test_Per_Million'] = df_us_tests.totalTestResults / (df_us_tests.Population/MILLION)
     df_us_tests.fillna(0.0, inplace = True)
-    df_us_tests.loc[:,'Pos_Per_Million'] = np.round(df_us_tests.positive/(df_us_tests.Population/MILLION))
-    df_us_tests['rank_Percent_Pos'] = df_us_tests['Percent_Pos'].rank(ascending = False)
-    df_us_tests['rank_Test_Per_Million'] = df_us_tests['Test_Per_Million'].rank(ascending = False)
-    df_us_tests['rank_Pos_Per_Million'] = df_us_tests['Pos_Per_Million'].rank(ascending = False)
+    df_us_tests.loc[:,'Pos_Per_Million'] = df_us_tests.positive/(df_us_tests.Population/MILLION)
+    df_us_tests.loc[:,'Perc_Hosp'] = df_us_tests.hospitalizedCurrently/df_us_tests.positive
+    df_us_tests.loc[:,'Hosp_Per_Million'] = df_us_tests.hospitalizedCurrently/(df_us_tests.Population/MILLION)
+    rank_cols = ['Percent_Pos', 'Test_Per_Million', 'Pos_Per_Million', 'hospitalizedCurrently', 'Perc_Hosp', 'Hosp_Per_Million', 'inIcuCurrently', 'onVentilatorCurrently']
+    for col in rank_cols:
+        df_us_tests[f'rank_{col}'] = df_us_tests[col].rank(ascending = False)
+    df_us_tests.fillna(0.0, inplace = True)
+    # df_us_tests['rank_Percent_Pos'] = df_us_tests['Percent_Pos'].rank(ascending = False)
+    # df_us_tests['rank_Test_Per_Million'] = df_us_tests['Test_Per_Million'].rank(ascending = False)
+    # df_us_tests['rank_Pos_Per_Million'] = df_us_tests['Pos_Per_Million'].rank(ascending = False)
     return df_us_tests
 
 def get_df_ctry_today(df_confirmed, df_deaths, df_world_population, time_str):
