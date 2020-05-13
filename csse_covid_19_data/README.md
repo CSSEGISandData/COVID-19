@@ -113,6 +113,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
   *	Australia: alphabetically ordered all states, and their UIDs are from 3601 to 3608. Australia itself is 36.
   *	Canada: alphabetically ordered all provinces (including cruise ships and recovered entry), and their UIDs are from 12401 to 12415. Canada itself is 124.
   *	China: alphabetically ordered all provinces, and their UIDs are from 15601 to 15631. China itself is 156. Hong Kong and Macau have their own code3.
+  * Italy: UIDs are combined country code (380) with `codice_regione`, which is from [Dati COVID-19 Italia](https://github.com/pcm-dpc/COVID-19).
 3.	The US (most entries with Admin0, Admin1 and Admin2).
   *	US by itself is 840 (UID = code3).
   *	US dependencies, American Samoa, Guam, Northern Mariana Islands, Virgin Islands and Puerto Rico, UID = code3. Their FIPS codes are different from code3.
