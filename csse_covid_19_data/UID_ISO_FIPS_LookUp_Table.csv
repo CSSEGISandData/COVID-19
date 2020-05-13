@@ -63,6 +63,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2416664
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,3989175
 276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,83783945
+27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",11069533
+27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",13076721
+27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",3644826
+27604,DE,DEU,276,,,Brandenburg,Germany,52.4125,12.5316,"Brandenburg, Germany",2511917
+27605,DE,DEU,276,,,Bremen,Germany,53.0793,8.8017,"Bremen, Germany",682986
+27606,DE,DEU,276,,,Hamburg,Germany,53.5511,9.9937,"Hamburg, Germany",1841179
+27607,DE,DEU,276,,,Hessen,Germany,50.6521,9.1624,"Hessen, Germany",6265809
+27608,DE,DEU,276,,,Mecklenburg-Vorpommern,Germany,53.6127,12.4296,"Mecklenburg-Vorpommern, Germany",1609675
+27609,DE,DEU,276,,,Niedersachsen,Germany,52.6367,9.8451,"Niedersachsen, Germany",7982448
+27610,DE,DEU,276,,,Nordrhein-Westfalen,Germany,51.4332,7.6616,"Nordrhein-Westfalen, Germany",17932651
+27611,DE,DEU,276,,,Rheinland-Pfalz,Germany,50.1183,7.309,"Rheinland-Pfalz, Germany",4084844
+27612,DE,DEU,276,,,Saarland,Germany,49.3964,7.023,"Saarland, Germany",990509
+27613,DE,DEU,276,,,Sachsen,Germany,51.1045,13.2017,"Sachsen, Germany",4077937
+27614,DE,DEU,276,,,Sachsen-Anhalt,Germany,51.9503,11.6923,"Sachsen-Anhalt, Germany",2208321
+27615,DE,DEU,276,,,Schleswig-Holstein,Germany,54.2194,9.6961,"Schleswig-Holstein, Germany",2896712
+27616,DE,DEU,276,,,Thuringen,Germany,51.011,10.8453,"Thuringen, Germany",2143145
+27617,DE,DEU,276,,,Unknown,Germany,,,"Unknown, Germany",
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,31072945
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,10423056
 308,GD,GRD,308,,,,Grenada,12.1165,-61.679,Grenada,112519
