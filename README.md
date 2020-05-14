@@ -47,6 +47,7 @@ and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c8
 * Palestine (West Bank and Gaza): https://corona.ps/details
 * Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
 * Colorado: https://covid19.colorado.gov/covid-19-data
+* Dati COVID-19 Italia: https://github.com/pcm-dpc/COVID-19
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
