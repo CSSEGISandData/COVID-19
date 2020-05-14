@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-05-12 01:46:10
+# @Last Modified time: 2020-05-12 05:33:13
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -594,13 +594,13 @@ def plot_region(df_region, region_name, **kwarg):
 			if(future != 0):
 				popt_logs_c, r2_logs_c, t0s_c = get_logistic_params(tc, pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c, plot_range = plot_range, method = method_c)
 			else:
-				popt_logs_c, _ = opt.curve_fit(my_func. logistic_growth,  tc,  pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c, method = method_c)
+				popt_logs_c, _ = opt.curve_fit(my_func.logistic_growth,  tc,  pt_c, p0 = p0_log, maxfev = maxfev, bounds = bounds_c, method = method_c)
 				r2_logs_c = my_func.get_r_squared(tc, pt_c, popt_logs_c, 'logistic_growth')
 		else:
 			if(future != 0):
 				popt_logs_c, r2_logs_c, t0s_c = get_logistic_params(tc, pt_c, p0 = p0_log, maxfev = maxfev, plot_range = plot_range, method = method_c)
 			else:
-				popt_logs_c, _ = opt.curve_fit(my_func. logistic_growth,  tc,  pt_c, p0 = p0_log, maxfev = maxfev, method = method_c)
+				popt_logs_c, _ = opt.curve_fit(my_func.logistic_growth,  tc,  pt_c, p0 = p0_log, maxfev = maxfev, method = method_c)
 				r2_logs_c = my_func.get_r_squared(tc, pt_c, popt_logs_c, 'logistic_growth')
 
 		if('bounds_d' in fitting_params.keys()):
@@ -609,13 +609,13 @@ def plot_region(df_region, region_name, **kwarg):
 			if(future != 0):
 				popt_logs_d, r2_logs_d, t0s_d = get_logistic_params(td, pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_d, plot_range = plot_range, method = method_d)
 			else:
-				popt_logs_d, _ = opt.curve_fit(my_func. logistic_growth,  td,  pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_d, method = method_d)
+				popt_logs_d, _ = opt.curve_fit(my_func.logistic_growth,  td,  pt_d, p0 = p0_log, maxfev = maxfev, bounds = bounds_d, method = method_d)
 				r2_logs_d = my_func.get_r_squared(td, pt_d, popt_logs_d, 'logistic_growth')
 		else:
 			if(future != 0):
 				popt_logs_d, r2_logs_d, t0s_d = get_logistic_params(td, pt_d, p0 = p0_log, maxfev = maxfev, plot_range = plot_range, method = method_d)
 			else:
-				popt_logs_d, _ = opt.curve_fit(my_func. logistic_growth,  td,  pt_d, p0 = p0_log, maxfev = maxfev, method = method_d)
+				popt_logs_d, _ = opt.curve_fit(my_func.logistic_growth,  td,  pt_d, p0 = p0_log, maxfev = maxfev, method = method_d)
 				r2_logs_d = my_func.get_r_squared(td, pt_d, popt_logs_d, 'logistic_growth')			
 		# print(popt_logs_c, popt_logs_d, t0s_c, t0s_d)
 		# print(t0s_c.shape, t0s_d.shape)
