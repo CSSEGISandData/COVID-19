@@ -131,3 +131,4 @@ We are also monitoring the curve change. Any errors made by us will be corrected
  * United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Rev. 1. https://population.un.org/wpp/Download/Standard/Population/
  * eurostat: https://ec.europa.eu/eurostat/web/products-datasets/product?code=tgs00096
  * The U.S. Census Bureau: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+ * Mexico population 2020 projection: [Proyecciones de población](http://sniiv.conavi.gob.mx/(X(1)S(kqitzysod5qf1g00jwueeklj))/demanda/poblacion_proyecciones.aspx?AspxAutoDetectCookieSupport=1)
