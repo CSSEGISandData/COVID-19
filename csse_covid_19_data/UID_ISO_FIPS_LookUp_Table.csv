@@ -22,6 +22,34 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,3280815
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2351625
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,212559409
+7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",1777225
+7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",881935
+7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",4144597
+7604,BR,BRA,76,,,Amazonas,Brazil,-3.4168,-65.8561,"Amazonas, Brazil",605761
+7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",8602865
+7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",845731
+7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",1572866
+7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",7075181
+7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",3273227
+7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",9132078
+7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",3506853
+7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",4018127
+7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",9557071
+7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",3337357
+7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",2298696
+7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",14873064
+7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",21168791
+7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",4018650
+7619,BR,BRA,76,,,Rio de Janeiro,Brazil,-22.9068,-43.1729,"Rio de Janeiro, Brazil",17264943
+7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",45919049
+7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",11433957
+7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",7164788
+7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",11377239
+7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",2778986
+7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",3484466
+7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",7018354
+7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",3015268
+7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,437483
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,6948445
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,20903278
@@ -33,6 +61,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,4829764
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,16425859
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,19116209
+15201,CL,CHL,152,,,Antofagasta,Chile,-23.6509,-70.3975,"Antofagasta, Chile",607534
+15202,CL,CHL,152,,,Araucania,Chile,-38.9489,-72.3311,"Araucania, Chile",957224
+15203,CL,CHL,152,,,Arica y Parinacota,Chile,-18.594,-69.4785,"Arica y Parinacota, Chile",226068
+15204,CL,CHL,152,,,Atacama,Chile,-23.8634,-69.1328,"Atacama, Chile",286168
+15205,CL,CHL,152,,,Aysen,Chile,-45.9864,-73.7669,"Aysen, Chile",103158
+15206,CL,CHL,152,,,Biobio,Chile,-37.4464,-72.1416,"Biobio, Chile",1556805
+15207,CL,CHL,152,,,Coquimbo,Chile,-29.959,-71.3389,"Coquimbo, Chile",757586
+15208,CL,CHL,152,,,Los Lagos,Chile,-41.9198,-72.1416,"Los Lagos, Chile",828708
+15209,CL,CHL,152,,,Los Rios,Chile,-40.231,-72.3311,"Los Rios, Chile",384837
+15210,CL,CHL,152,,,Magallanes,Chile,-52.368,-70.9863,"Magallanes, Chile",166533
+15211,CL,CHL,152,,,Maule,Chile,-35.5183,-71.6885,"Maule, Chile",1044950
+15212,CL,CHL,152,,,Metropolitana,Chile,-33.4376,-70.6505,"Metropolitana, Chile",7112808
+15213,CL,CHL,152,,,Nuble,Chile,-36.7226,-71.7622,"Nuble, Chile",480609
+15214,CL,CHL,152,,,OHiggins,Chile,-48.4674,-72.5592,"OHiggins, Chile",914555
+15215,CL,CHL,152,,,Tarapaca,Chile,-19.9232,-69.5132,"Tarapaca, Chile",330558
+15216,CL,CHL,152,,,Valparaiso,Chile,-33.0472,-71.6127,"Valparaiso, Chile",1815902
+15217,CL,CHL,152,,,Unknown,Chile,,,"Unknown, Chile",
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,50882884
 178,CG,COG,178,,,,Congo (Brazzaville),-4.2634,15.2832,Congo (Brazzaville),5518092
 180,CD,COD,180,,,,Congo (Kinshasa),-4.322447,15.307045,Congo (Kinshasa),89561404
