@@ -146,7 +146,40 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,441539
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,4649660
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,1271767
-484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,128932753
+484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,127792286
+48401,MX,MEX,484,,,Aguascalientes,Mexico,21.8853,-102.2916,"Aguascalientes, Mexico",1434635
+48402,MX,MEX,484,,,Baja California,Mexico,30.8406,-115.2838,"Baja California, Mexico",3634868
+48403,MX,MEX,484,,,Baja California Sur,Mexico,26.0444,-111.6661,"Baja California Sur, Mexico",804708
+48404,MX,MEX,484,,,Campeche,Mexico,19.8301,-90.5349,"Campeche, Mexico",1000617
+48405,MX,MEX,484,,,Chiapas,Mexico,16.7569,-93.1292,"Chiapas, Mexico",5730367
+48406,MX,MEX,484,,,Chihuahua,Mexico,28.633,-106.0691,"Chihuahua, Mexico",3801487
+48407,MX,MEX,484,,,Ciudad de Mexico,Mexico,19.4326,-99.1332,"Ciudad de Mexico, Mexico",9018645
+48408,MX,MEX,484,,,Coahuila,Mexico,27.0587,-101.7068,"Coahuila, Mexico",3218720
+48409,MX,MEX,484,,,Colima,Mexico,19.1223,-104.0072,"Colima, Mexico",785153
+48410,MX,MEX,484,,,Durango,Mexico,24.5593,-104.6588,"Durango, Mexico",1868996
+48411,MX,MEX,484,,,Guanajuato,Mexico,21.019,-101.2574,"Guanajuato, Mexico",6228175
+48412,MX,MEX,484,,,Guerrero,Mexico,17.4392,-99.5451,"Guerrero, Mexico",3657048
+48413,MX,MEX,484,,,Hidalgo,Mexico,20.0911,-98.7624,"Hidalgo, Mexico",3086414
+48414,MX,MEX,484,,,Jalisco,Mexico,20.6595,-103.3494,"Jalisco, Mexico",8409693
+48415,MX,MEX,484,,,Mexico,Mexico,19.4969,-99.7233,"Mexico, Mexico",17427790
+48416,MX,MEX,484,,,Michoacan,Mexico,19.5665,-101.7068,"Michoacan, Mexico",4825401
+48417,MX,MEX,484,,,Morelos,Mexico,18.6813,-99.1013,"Morelos, Mexico",2044058
+48418,MX,MEX,484,,,Nayarit,Mexico,21.7514,-104.8455,"Nayarit, Mexico",1288571
+48419,MX,MEX,484,,,Nuevo Leon,Mexico,25.5922,-99.9962,"Nuevo Leon, Mexico",5610153
+48420,MX,MEX,484,,,Oaxaca,Mexico,17.0732,-96.7266,"Oaxaca, Mexico",4143593
+48421,MX,MEX,484,,,Puebla,Mexico,19.0414,-98.2063,"Puebla, Mexico",6604451
+48422,MX,MEX,484,,,Queretaro,Mexico,20.5888,-100.3899,"Queretaro, Mexico",2279637
+48423,MX,MEX,484,,,Quintana Roo,Mexico,19.1817,-88.4791,"Quintana Roo, Mexico",1723259
+48424,MX,MEX,484,,,San Luis Potosi,Mexico,22.1565,-100.9855,"San Luis Potosi, Mexico",2866142
+48425,MX,MEX,484,,,Sinaloa,Mexico,25.1721,-107.4795,"Sinaloa, Mexico",3156674
+48426,MX,MEX,484,,,Sonora,Mexico,29.2972,-110.3309,"Sonora, Mexico",3074745
+48427,MX,MEX,484,,,Tabasco,Mexico,17.8409,-92.6189,"Tabasco, Mexico",2572287
+48428,MX,MEX,484,,,Tamaulipas,Mexico,24.2669,-98.8363,"Tamaulipas, Mexico",3650602
+48429,MX,MEX,484,,,Tlaxcala,Mexico,19.3139,-98.2404,"Tlaxcala, Mexico",1380011
+48430,MX,MEX,484,,,Veracruz,Mexico,19.1738,-96.1342,"Veracruz, Mexico",8539862
+48431,MX,MEX,484,,,Yucatan,Mexico,20.7099,-89.0943,"Yucatan, Mexico",2259098
+48432,MX,MEX,484,,,Zacatecas,Mexico,22.7709,-102.5832,"Zacatecas, Mexico",1666426
+48433,MX,MEX,484,,,Unknown,Mexico,,,"Unknown, Mexico",
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4033963
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,39244
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,3278292
@@ -296,12 +329,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
 15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
 15604,CN,CHN,156,,,Fujian,China,26.0789,117.9874,"Fujian, China",39410000
-15605,CN,CHN,156,,,Gansu,China,37.8099,101.0583,"Gansu, China",26370000
+15605,CN,CHN,156,,,Gansu,China,35.7518,104.2861,"Gansu, China",26370000
 15606,CN,CHN,156,,,Guangdong,China,23.3417,113.4244,"Guangdong, China",113460000
 15607,CN,CHN,156,,,Guangxi,China,23.8298,108.7881,"Guangxi, China",49260000
 15608,CN,CHN,156,,,Guizhou,China,26.8154,106.8748,"Guizhou, China",36000000
 15609,CN,CHN,156,,,Hainan,China,19.1959,109.7453,"Hainan, China",9340000
-15610,CN,CHN,156,,,Hebei,China,39.549,116.1306,"Hebei, China",75560000
+15610,CN,CHN,156,,,Hebei,China,37.8957,114.9042,"Hebei, China",75560000
 15611,CN,CHN,156,,,Heilongjiang,China,47.862,127.7615,"Heilongjiang, China",37730000
 15612,CN,CHN,156,,,Henan,China,33.882,113.614,"Henan, China",96050000
 15613,CN,CHN,156,,,Hubei,China,30.9756,112.2707,"Hubei, China",59170000

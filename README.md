@@ -52,6 +52,7 @@ and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c8
 * Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
 * rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
 * Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
+* OpenCOVID19 France: https://github.com/opencovid19-fr
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
