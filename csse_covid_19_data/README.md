@@ -132,3 +132,4 @@ We are also monitoring the curve change. Any errors made by us will be corrected
  * eurostat: https://ec.europa.eu/eurostat/web/products-datasets/product?code=tgs00096
  * The U.S. Census Bureau: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
  * Mexico population 2020 projection: [Proyecciones de población](http://sniiv.conavi.gob.mx/(X(1)S(kqitzysod5qf1g00jwueeklj))/demanda/poblacion_proyecciones.aspx?AspxAutoDetectCookieSupport=1)
+* Brazil 2019 projection: https://www.ibge.gov.br/en/statistics/social/population/18448-estimates-of-resident-population-for-municipalities-and-federation-units.html?=&t=resultados

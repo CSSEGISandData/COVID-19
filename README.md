@@ -53,6 +53,9 @@ and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c8
 * rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
 * Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
 * OpenCOVID19 France: https://github.com/opencovid19-fr
+* Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
+* Brazil (confirmed cases and deaths): https://experience.arcgis.com/experience/c20767a343bc42178876b8f39bb004bf
+* Brazil (recovered - country level): https://covid.saude.gov.br/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
