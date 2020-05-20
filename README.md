@@ -44,6 +44,18 @@ https://systems.jhu.edu/
 * NYC Department of Health and Mental Hygiene: https://www1.nyc.gov/site/doh/covid/covid-19-data.page and https://github.com/nychealth/coronavirus-data
 * Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
 and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
+* Palestine (West Bank and Gaza): https://corona.ps/details
+* Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
+* Ministry of Health, Republic of Kosovo: https://kosova.health/ and https://covidks.s3.amazonaws.com/data.json
+* Colorado: https://covid19.colorado.gov/covid-19-data
+* Dati COVID-19 Italia: https://github.com/pcm-dpc/COVID-19
+* Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+* rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
+* Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
+* OpenCOVID19 France: https://github.com/opencovid19-fr
+* Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
+* Brazil (confirmed cases and deaths): https://experience.arcgis.com/experience/c20767a343bc42178876b8f39bb004bf
+* Brazil (recovered - country level): https://covid.saude.gov.br/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>

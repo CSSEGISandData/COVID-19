@@ -22,6 +22,34 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,3280815
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2351625
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,212559409
+7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",1777225
+7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",881935
+7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",4144597
+7604,BR,BRA,76,,,Amazonas,Brazil,-3.4168,-65.8561,"Amazonas, Brazil",605761
+7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",8602865
+7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",845731
+7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",1572866
+7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",7075181
+7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",3273227
+7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",9132078
+7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",3506853
+7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",4018127
+7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",9557071
+7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",3337357
+7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",2298696
+7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",14873064
+7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",21168791
+7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",4018650
+7619,BR,BRA,76,,,Rio de Janeiro,Brazil,-22.9068,-43.1729,"Rio de Janeiro, Brazil",17264943
+7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",45919049
+7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",11433957
+7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",7164788
+7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",11377239
+7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",2778986
+7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",3484466
+7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",7018354
+7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",3015268
+7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,437483
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,6948445
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,20903278
@@ -33,6 +61,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,4829764
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,16425859
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,19116209
+15201,CL,CHL,152,,,Antofagasta,Chile,-23.6509,-70.3975,"Antofagasta, Chile",607534
+15202,CL,CHL,152,,,Araucania,Chile,-38.9489,-72.3311,"Araucania, Chile",957224
+15203,CL,CHL,152,,,Arica y Parinacota,Chile,-18.594,-69.4785,"Arica y Parinacota, Chile",226068
+15204,CL,CHL,152,,,Atacama,Chile,-23.8634,-69.1328,"Atacama, Chile",286168
+15205,CL,CHL,152,,,Aysen,Chile,-45.9864,-73.7669,"Aysen, Chile",103158
+15206,CL,CHL,152,,,Biobio,Chile,-37.4464,-72.1416,"Biobio, Chile",1556805
+15207,CL,CHL,152,,,Coquimbo,Chile,-29.959,-71.3389,"Coquimbo, Chile",757586
+15208,CL,CHL,152,,,Los Lagos,Chile,-41.9198,-72.1416,"Los Lagos, Chile",828708
+15209,CL,CHL,152,,,Los Rios,Chile,-40.231,-72.3311,"Los Rios, Chile",384837
+15210,CL,CHL,152,,,Magallanes,Chile,-52.368,-70.9863,"Magallanes, Chile",166533
+15211,CL,CHL,152,,,Maule,Chile,-35.5183,-71.6885,"Maule, Chile",1044950
+15212,CL,CHL,152,,,Metropolitana,Chile,-33.4376,-70.6505,"Metropolitana, Chile",7112808
+15213,CL,CHL,152,,,Nuble,Chile,-36.7226,-71.7622,"Nuble, Chile",480609
+15214,CL,CHL,152,,,OHiggins,Chile,-48.4674,-72.5592,"OHiggins, Chile",914555
+15215,CL,CHL,152,,,Tarapaca,Chile,-19.9232,-69.5132,"Tarapaca, Chile",330558
+15216,CL,CHL,152,,,Valparaiso,Chile,-33.0472,-71.6127,"Valparaiso, Chile",1815902
+15217,CL,CHL,152,,,Unknown,Chile,,,"Unknown, Chile",
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,50882884
 178,CG,COG,178,,,,Congo (Brazzaville),-4.2634,15.2832,Congo (Brazzaville),5518092
 180,CD,COD,180,,,,Congo (Kinshasa),-4.322447,15.307045,Congo (Kinshasa),89561404
@@ -63,6 +108,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2416664
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,3989175
 276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,83783945
+27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",11069533
+27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",13076721
+27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",3644826
+27604,DE,DEU,276,,,Brandenburg,Germany,52.4125,12.5316,"Brandenburg, Germany",2511917
+27605,DE,DEU,276,,,Bremen,Germany,53.0793,8.8017,"Bremen, Germany",682986
+27606,DE,DEU,276,,,Hamburg,Germany,53.5511,9.9937,"Hamburg, Germany",1841179
+27607,DE,DEU,276,,,Hessen,Germany,50.6521,9.1624,"Hessen, Germany",6265809
+27608,DE,DEU,276,,,Mecklenburg-Vorpommern,Germany,53.6127,12.4296,"Mecklenburg-Vorpommern, Germany",1609675
+27609,DE,DEU,276,,,Niedersachsen,Germany,52.6367,9.8451,"Niedersachsen, Germany",7982448
+27610,DE,DEU,276,,,Nordrhein-Westfalen,Germany,51.4332,7.6616,"Nordrhein-Westfalen, Germany",17932651
+27611,DE,DEU,276,,,Rheinland-Pfalz,Germany,50.1183,7.309,"Rheinland-Pfalz, Germany",4084844
+27612,DE,DEU,276,,,Saarland,Germany,49.3964,7.023,"Saarland, Germany",990509
+27613,DE,DEU,276,,,Sachsen,Germany,51.1045,13.2017,"Sachsen, Germany",4077937
+27614,DE,DEU,276,,,Sachsen-Anhalt,Germany,51.9503,11.6923,"Sachsen-Anhalt, Germany",2208321
+27615,DE,DEU,276,,,Schleswig-Holstein,Germany,54.2194,9.6961,"Schleswig-Holstein, Germany",2896712
+27616,DE,DEU,276,,,Thuringen,Germany,51.011,10.8453,"Thuringen, Germany",2143145
+27617,DE,DEU,276,,,Unknown,Germany,,,"Unknown, Germany",
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,31072945
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,10423056
 308,GD,GRD,308,,,,Grenada,12.1165,-61.679,Grenada,112519
@@ -82,6 +144,27 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,4937796
 376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,8655541
 380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,60461828
+38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",1311580
+38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",562869
+38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",1947131
+38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",5801692
+38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.3417208,"Emilia-Romagna, Italy",4459477
+38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",1215220
+38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",5879082
+38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",1550640
+38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",10060574
+38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",1525271
+38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",305617
+38041,IT,ITA,380,,,P.A. Bolzano,Italy,46.49933453,11.35662422,"P.A. Bolzano, Italy",532318
+38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",541418
+38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",4356406
+38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",4029053
+38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",1639591
+38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.3623567,"Sicilia, Italy",4999891
+38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",3729641
+38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",882015
+38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",125666
+38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",4905854
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2961161
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,126476458
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
@@ -94,6 +177,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,7275556
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,1886202
 422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,6825442
+426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2142252
 430,LR,LBR,430,,,,Liberia,6.428055,-9.429499,Liberia,5057677
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,6871287
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,38137
@@ -107,7 +191,40 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,441539
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,4649660
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,1271767
-484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,128932753
+484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,127792286
+48401,MX,MEX,484,,,Aguascalientes,Mexico,21.8853,-102.2916,"Aguascalientes, Mexico",1434635
+48402,MX,MEX,484,,,Baja California,Mexico,30.8406,-115.2838,"Baja California, Mexico",3634868
+48403,MX,MEX,484,,,Baja California Sur,Mexico,26.0444,-111.6661,"Baja California Sur, Mexico",804708
+48404,MX,MEX,484,,,Campeche,Mexico,19.8301,-90.5349,"Campeche, Mexico",1000617
+48405,MX,MEX,484,,,Chiapas,Mexico,16.7569,-93.1292,"Chiapas, Mexico",5730367
+48406,MX,MEX,484,,,Chihuahua,Mexico,28.633,-106.0691,"Chihuahua, Mexico",3801487
+48407,MX,MEX,484,,,Ciudad de Mexico,Mexico,19.4326,-99.1332,"Ciudad de Mexico, Mexico",9018645
+48408,MX,MEX,484,,,Coahuila,Mexico,27.0587,-101.7068,"Coahuila, Mexico",3218720
+48409,MX,MEX,484,,,Colima,Mexico,19.1223,-104.0072,"Colima, Mexico",785153
+48410,MX,MEX,484,,,Durango,Mexico,24.5593,-104.6588,"Durango, Mexico",1868996
+48411,MX,MEX,484,,,Guanajuato,Mexico,21.019,-101.2574,"Guanajuato, Mexico",6228175
+48412,MX,MEX,484,,,Guerrero,Mexico,17.4392,-99.5451,"Guerrero, Mexico",3657048
+48413,MX,MEX,484,,,Hidalgo,Mexico,20.0911,-98.7624,"Hidalgo, Mexico",3086414
+48414,MX,MEX,484,,,Jalisco,Mexico,20.6595,-103.3494,"Jalisco, Mexico",8409693
+48415,MX,MEX,484,,,Mexico,Mexico,19.4969,-99.7233,"Mexico, Mexico",17427790
+48416,MX,MEX,484,,,Michoacan,Mexico,19.5665,-101.7068,"Michoacan, Mexico",4825401
+48417,MX,MEX,484,,,Morelos,Mexico,18.6813,-99.1013,"Morelos, Mexico",2044058
+48418,MX,MEX,484,,,Nayarit,Mexico,21.7514,-104.8455,"Nayarit, Mexico",1288571
+48419,MX,MEX,484,,,Nuevo Leon,Mexico,25.5922,-99.9962,"Nuevo Leon, Mexico",5610153
+48420,MX,MEX,484,,,Oaxaca,Mexico,17.0732,-96.7266,"Oaxaca, Mexico",4143593
+48421,MX,MEX,484,,,Puebla,Mexico,19.0414,-98.2063,"Puebla, Mexico",6604451
+48422,MX,MEX,484,,,Queretaro,Mexico,20.5888,-100.3899,"Queretaro, Mexico",2279637
+48423,MX,MEX,484,,,Quintana Roo,Mexico,19.1817,-88.4791,"Quintana Roo, Mexico",1723259
+48424,MX,MEX,484,,,San Luis Potosi,Mexico,22.1565,-100.9855,"San Luis Potosi, Mexico",2866142
+48425,MX,MEX,484,,,Sinaloa,Mexico,25.1721,-107.4795,"Sinaloa, Mexico",3156674
+48426,MX,MEX,484,,,Sonora,Mexico,29.2972,-110.3309,"Sonora, Mexico",3074745
+48427,MX,MEX,484,,,Tabasco,Mexico,17.8409,-92.6189,"Tabasco, Mexico",2572287
+48428,MX,MEX,484,,,Tamaulipas,Mexico,24.2669,-98.8363,"Tamaulipas, Mexico",3650602
+48429,MX,MEX,484,,,Tlaxcala,Mexico,19.3139,-98.2404,"Tlaxcala, Mexico",1380011
+48430,MX,MEX,484,,,Veracruz,Mexico,19.1738,-96.1342,"Veracruz, Mexico",8539862
+48431,MX,MEX,484,,,Yucatan,Mexico,20.7099,-89.0943,"Yucatan, Mexico",2259098
+48432,MX,MEX,484,,,Zacatecas,Mexico,22.7709,-102.5832,"Zacatecas, Mexico",1666426
+48433,MX,MEX,484,,,Unknown,Mexico,,,"Unknown, Mexico",
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4033963
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,39244
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,3278292
@@ -172,7 +289,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72416,ES,ESP,724,,,Murcia,Spain,37.9922,-1.1307,"Murcia, Spain",1487663
 72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",649946
 72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2177880
-72419,ES,ESP,724,,,La Rioja,Spain,42.2871,2.5396,"La Rioja, Spain",313571
+72419,ES,ESP,724,,,La Rioja,Spain,42.2871,-2.5396,"La Rioja, Spain",313571
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.771797,Sri Lanka,21413250
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,43849269
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,586634
@@ -257,12 +374,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
 15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
 15604,CN,CHN,156,,,Fujian,China,26.0789,117.9874,"Fujian, China",39410000
-15605,CN,CHN,156,,,Gansu,China,37.8099,101.0583,"Gansu, China",26370000
+15605,CN,CHN,156,,,Gansu,China,35.7518,104.2861,"Gansu, China",26370000
 15606,CN,CHN,156,,,Guangdong,China,23.3417,113.4244,"Guangdong, China",113460000
 15607,CN,CHN,156,,,Guangxi,China,23.8298,108.7881,"Guangxi, China",49260000
 15608,CN,CHN,156,,,Guizhou,China,26.8154,106.8748,"Guizhou, China",36000000
 15609,CN,CHN,156,,,Hainan,China,19.1959,109.7453,"Hainan, China",9340000
-15610,CN,CHN,156,,,Hebei,China,39.549,116.1306,"Hebei, China",75560000
+15610,CN,CHN,156,,,Hebei,China,37.8957,114.9042,"Hebei, China",75560000
 15611,CN,CHN,156,,,Heilongjiang,China,47.862,127.7615,"Heilongjiang, China",37730000
 15612,CN,CHN,156,,,Henan,China,33.882,113.614,"Henan, China",96050000
 15613,CN,CHN,156,,,Hubei,China,30.9756,112.2707,"Hubei, China",59170000
@@ -294,57 +411,57 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 630,PR,PRI,630,72,,Puerto Rico,US,18.2208,-66.5901,"Puerto Rico, US",2933408
 84088888,US,USA,840,88888,,Diamond Princess,US,,,"Diamond Princess, US",
 84099999,US,USA,840,99999,,Grand Princess,US,,,"Grand Princess, US",
-84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",4688897
-84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",597749
+84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185
+84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",731545
 84000004,US,USA,840,4,,Arizona,US,33.7298,-111.4312,"Arizona, US",7278717
-84000005,US,USA,840,5,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",2589027
-84000006,US,USA,840,6,,California,US,36.1162,-119.6816,"California, US",39208620
-84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",5666813
+84000005,US,USA,840,5,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",3017804
+84000006,US,USA,840,6,,California,US,36.1162,-119.6816,"California, US",39512223
+84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",5758736
 84000009,US,USA,840,9,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",3565287
 84000010,US,USA,840,10,,Delaware,US,39.3185,-75.5071,"Delaware, US",973764
 84000011,US,USA,840,11,,District of Columbia,US,38.8974,-77.0268,"District of Columbia, US",705749
-84000012,US,USA,840,12,,Florida,US,27.7663,-81.6868,"Florida, US",21232606
-84000013,US,USA,840,13,,Georgia,US,33.0406,-83.6431,"Georgia, US",10139393
-84000015,US,USA,840,15,,Hawaii,US,21.0943,-157.4983,"Hawaii, US",1415786
-84000016,US,USA,840,16,,Idaho,US,44.2405,-114.4788,"Idaho, US",1610497
-84000017,US,USA,840,17,,Illinois,US,40.3495,-88.9861,"Illinois, US",11735653
-84000018,US,USA,840,18,,Indiana,US,39.8494,-86.2583,"Indiana, US",6543994
-84000019,US,USA,840,19,,Iowa,US,42.0115,-93.2105,"Iowa, US",2620713
-84000020,US,USA,840,20,,Kansas,US,38.5266,-96.7265,"Kansas, US",2438488
-84000021,US,USA,840,21,,Kentucky,US,37.6681,-84.6701,"Kentucky, US",3423303
-84000022,US,USA,840,22,,Louisiana,US,31.1695,-91.8678,"Louisiana, US",4597266
-84000023,US,USA,840,23,,Maine,US,44.6939,-69.3819,"Maine, US",1174006
-84000024,US,USA,840,24,,Maryland,US,39.0639,-76.8021,"Maryland, US",5943335
-84000025,US,USA,840,25,,Massachusetts,US,42.2302,-71.5301,"Massachusetts, US",6863772
-84000026,US,USA,840,26,,Michigan,US,43.3266,-84.5361,"Michigan, US",7967259
-84000027,US,USA,840,27,,Minnesota,US,45.6945,-93.9002,"Minnesota, US",4946446
-84000028,US,USA,840,28,,Mississippi,US,32.7416,-89.6787,"Mississippi, US",2895206
-84000029,US,USA,840,29,,Missouri,US,38.4561,-92.2884,"Missouri, US",5859456
-84000030,US,USA,840,30,,Montana,US,46.9219,-110.4544,"Montana, US",865987
-84000031,US,USA,840,31,,Nebraska,US,41.1254,-98.2681,"Nebraska, US",1525272
-84000032,US,USA,840,32,,Nevada,US,38.3135,-117.0554,"Nevada, US",3016697
-84000033,US,USA,840,33,,New Hampshire,US,43.4525,-71.5639,"New Hampshire, US",1328148
+84000012,US,USA,840,12,,Florida,US,27.7663,-81.6868,"Florida, US",21477737
+84000013,US,USA,840,13,,Georgia,US,33.0406,-83.6431,"Georgia, US",10617423
+84000015,US,USA,840,15,,Hawaii,US,21.0943,-157.4983,"Hawaii, US",1415872
+84000016,US,USA,840,16,,Idaho,US,44.2405,-114.4788,"Idaho, US",1787065
+84000017,US,USA,840,17,,Illinois,US,40.3495,-88.9861,"Illinois, US",12671821
+84000018,US,USA,840,18,,Indiana,US,39.8494,-86.2583,"Indiana, US",6732219
+84000019,US,USA,840,19,,Iowa,US,42.0115,-93.2105,"Iowa, US",3155070
+84000020,US,USA,840,20,,Kansas,US,38.5266,-96.7265,"Kansas, US",2913314
+84000021,US,USA,840,21,,Kentucky,US,37.6681,-84.6701,"Kentucky, US",4467673
+84000022,US,USA,840,22,,Louisiana,US,31.1695,-91.8678,"Louisiana, US",4648794
+84000023,US,USA,840,23,,Maine,US,44.6939,-69.3819,"Maine, US",1344212
+84000024,US,USA,840,24,,Maryland,US,39.0639,-76.8021,"Maryland, US",6045680
+84000025,US,USA,840,25,,Massachusetts,US,42.2302,-71.5301,"Massachusetts, US",6892503
+84000026,US,USA,840,26,,Michigan,US,43.3266,-84.5361,"Michigan, US",9986857
+84000027,US,USA,840,27,,Minnesota,US,45.6945,-93.9002,"Minnesota, US",5639632
+84000028,US,USA,840,28,,Mississippi,US,32.7416,-89.6787,"Mississippi, US",2976149
+84000029,US,USA,840,29,,Missouri,US,38.4561,-92.2884,"Missouri, US",6137428
+84000030,US,USA,840,30,,Montana,US,46.9219,-110.4544,"Montana, US",1068778
+84000031,US,USA,840,31,,Nebraska,US,41.1254,-98.2681,"Nebraska, US",1934408
+84000032,US,USA,840,32,,Nevada,US,38.3135,-117.0554,"Nevada, US",3080156
+84000033,US,USA,840,33,,New Hampshire,US,43.4525,-71.5639,"New Hampshire, US",1359711
 84000034,US,USA,840,34,,New Jersey,US,40.2989,-74.521,"New Jersey, US",8882190
-84000035,US,USA,840,35,,New Mexico,US,34.8405,-106.2485,"New Mexico, US",1667533
-84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",16861025
-84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",9917875
-84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",606418
-84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",11173860
-84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",3657634
-84000041,US,USA,840,41,,Oregon,US,44.572,-122.0709,"Oregon, US",4007074
-84000042,US,USA,840,42,,Pennsylvania,US,40.5908,-77.2098,"Pennsylvania, US",12587497
+84000035,US,USA,840,35,,New Mexico,US,34.8405,-106.2485,"New Mexico, US",2096829
+84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",19453561
+84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",10488084
+84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",762062
+84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",11689100
+84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",3956971
+84000041,US,USA,840,41,,Oregon,US,44.572,-122.0709,"Oregon, US",4217737
+84000042,US,USA,840,42,,Pennsylvania,US,40.5908,-77.2098,"Pennsylvania, US",12801989
 84000044,US,USA,840,44,,Rhode Island,US,41.6809,-71.5118,"Rhode Island, US",1059361
-84000045,US,USA,840,45,,South Carolina,US,33.8569,-80.945,"South Carolina, US",5039975
-84000046,US,USA,840,46,,South Dakota,US,44.2998,-99.4388,"South Dakota, US",735892
-84000047,US,USA,840,47,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",6564929
-84000048,US,USA,840,48,,Texas,US,31.0545,-97.5635,"Texas, US",22984561
-84000049,US,USA,840,49,,Utah,US,40.15,-111.8624,"Utah, US",2865882
-84000050,US,USA,840,50,,Vermont,US,44.0459,-72.7107,"Vermont, US",610591
-84000051,US,USA,840,51,,Virginia,US,37.7693,-78.17,"Virginia, US",7907230
-84000053,US,USA,840,53,,Washington,US,47.4009,-121.4905,"Washington, US",7549403
-84000054,US,USA,840,54,,West Virginia,US,38.4912,-80.9545,"West Virginia, US",1322998
-84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",5174571
-84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",497240
+84000045,US,USA,840,45,,South Carolina,US,33.8569,-80.945,"South Carolina, US",5148714
+84000046,US,USA,840,46,,South Dakota,US,44.2998,-99.4388,"South Dakota, US",884659
+84000047,US,USA,840,47,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",6829174
+84000048,US,USA,840,48,,Texas,US,31.0545,-97.5635,"Texas, US",28995881
+84000049,US,USA,840,49,,Utah,US,40.15,-111.8624,"Utah, US",3205958
+84000050,US,USA,840,50,,Vermont,US,44.0459,-72.7107,"Vermont, US",623989
+84000051,US,USA,840,51,,Virginia,US,37.7693,-78.17,"Virginia, US",8535519
+84000053,US,USA,840,53,,Washington,US,47.4009,-121.4905,"Washington, US",7614893
+84000054,US,USA,840,54,,West Virginia,US,38.4912,-80.9545,"West Virginia, US",1792147
+84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",5822434
+84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",578759
 84070001,US,USA,840,,,Recovered,US,,,"Recovered, US",
 84070002,US,USA,840,,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,"Dukes and Nantucket, Massachusetts, US",28731
 84070003,US,USA,840,,Kansas City,Missouri,US,39.0997,-94.5786,"Kansas City, Missouri, US",488943
@@ -536,7 +653,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84001131,US,USA,840,1131,Wilcox,Alabama,US,31.98773215,-87.30891118,"Wilcox, Alabama, US",10373
 84001133,US,USA,840,1133,Winston,Alabama,US,34.15030532,-87.37325922,"Winston, Alabama, US",23629
 84002013,US,USA,840,2013,Aleutians East,Alaska,US,55.32222414,-161.9722021,"Aleutians East, Alaska, US",3337
-84002016,US,USA,840,2016,Aleutians West,Alaska,US,52.72541116,-110.4086433,"Aleutians West, Alaska, US",5634
+84002016,US,USA,840,2016,Aleutians West,Alaska,US,52.3233,-174.1596,"Aleutians West, Alaska, US",5634
 84002020,US,USA,840,2020,Anchorage,Alaska,US,61.14998174,-149.1426986,"Anchorage, Alaska, US",288000
 84002050,US,USA,840,2050,Bethel,Alaska,US,60.90980451,-159.8561831,"Bethel, Alaska, US",18386
 84002060,US,USA,840,2060,Bristol Bay,Alaska,US,58.74513976,-156.701064,"Bristol Bay, Alaska, US",836
