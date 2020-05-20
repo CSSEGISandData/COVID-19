@@ -1,6 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,2338,58.0
-Staff,Federal Bureau of Prisons,US,284,0.0
+Bristol Bay plus Lake Peninsula,Alaska,US,1,0.0
+Inmates,Federal Bureau of Prisons,US,2265,58.0
+Staff,Federal Bureau of Prisons,US,188,0.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
 Cibola(NM),Navajo Nation,US,37,0.0
@@ -20,8 +21,8 @@ Unassigned,US Military,US,3021,17.0
 VA Hospitals,Veteran Affair,US,12720,1083.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 Total,Colorado,US,22797,1299.0
-,Australia,Australia,7080,100.0
+,Australia,Australia,7083,100.0
 ,Grand Princess and Canadian Repatriations,Canada,1,0.0
 ,Nunavut,Canada,0,0.0
-,,World,5076204,329118.0
+,,World,5079895,329180.0
 ,NACIONAL,Mexico,54346,5666.0
