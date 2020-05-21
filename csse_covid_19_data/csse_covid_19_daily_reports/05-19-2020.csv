@@ -3017,6 +3017,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Catalonia,Spain,2020-05-20 02:32:19,41.5912,1.5209,55825,5981,0,49844,"Catalonia, Spain"
 ,,Cayman Islands,United Kingdom,2020-05-20 02:32:19,19.3133,-81.2546,111,1,55,55,"Cayman Islands, United Kingdom"
 ,,Ceuta,Spain,2020-05-20 02:32:19,35.8894,-5.3213,117,4,0,113,"Ceuta, Spain"
+,,Unknown,Spain,2020-05-20 02:32:19,,,0,0,150376,-150376,"Unknown, Spain"
 ,,Channel Islands,United Kingdom,2020-05-20 02:32:19,49.3723,-2.3644,555,44,479,32,"Channel Islands, United Kingdom"
 ,,Chongqing,China,2020-05-20 02:32:19,30.0572,107.874,579,6,573,0,"Chongqing, China"
 ,,Curacao,Netherlands,2020-05-20 02:32:19,12.1696,-68.99,16,1,14,1,"Curacao, Netherlands"
