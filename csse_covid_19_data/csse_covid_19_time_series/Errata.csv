@@ -174,3 +174,5 @@
 5/20/2020,time_series_covid19_deaths_US.csv,Colorado,3/12/20-4/20/20,,,update all counties with the last cases.csv for each day
 5/20/2020,time_series_covid19_confirmed_global.csv,US,3/5/20-4/20/20,,,correction made due to CO data update
 5/20/2020,time_series_covid19_deaths_global.csv,US,3/12/20-4/20/20,,,correction made due to CO data update
+5/21/2020,time_series_covid19_confirmed_global.csv,Italy,3/12/20,12462,15113,remove spike
+5/21/2020,time_series_covid19_deaths_global.csv,Italy,3/12/20,827,1016,remove spike
