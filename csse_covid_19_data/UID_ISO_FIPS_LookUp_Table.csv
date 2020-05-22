@@ -79,8 +79,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15216,CL,CHL,152,,,Valparaiso,Chile,-33.0472,-71.6127,"Valparaiso, Chile",1815902
 15217,CL,CHL,152,,,Unknown,Chile,,,"Unknown, Chile",
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,50882884
-178,CG,COG,178,,,,Congo (Brazzaville),-4.2634,15.2832,Congo (Brazzaville),5518092
-180,CD,COD,180,,,,Congo (Kinshasa),-4.322447,15.307045,Congo (Kinshasa),89561404
+178,CG,COG,178,,,,Congo (Brazzaville),-0.228,15.8277,Congo (Brazzaville),5518092
+180,CD,COD,180,,,,Congo (Kinshasa),-4.0383,21.7587,Congo (Kinshasa),89561404
 174,KM,COM,174,,,,Comoros,-11.6455,43.3333,Comoros,869595
 188,CR,CRI,188,,,,Costa Rica,9.7489,-83.7534,Costa Rica,5094114
 384,CI,CIV,384,,,,Cote d'Ivoire,7.54,-5.5471,Cote d'Ivoire,26378275
@@ -453,8 +453,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",24870000
 15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",48300000
 15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",57370000
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",7496988
-446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",649342
+344,HK,HKG,344,,,Hong Kong SAR,China,22.3,114.2,"Hong Kong, China",7496988
+446,MO,MAC,446,,,Macau SAR,China,22.1667,113.55,"Macau, China",649342
 840,US,USA,840,,,,US,40,-100,US,329466283
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",55641
 316,GU,GUM,316,66,,Guam,US,13.4443,144.7937,"Guam, US",164229
