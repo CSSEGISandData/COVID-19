@@ -22,33 +22,33 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,3280815
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2351625
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,212559409
-7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",1777225
-7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",881935
-7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",4144597
-7604,BR,BRA,76,,,Amazonas,Brazil,-3.4168,-65.8561,"Amazonas, Brazil",605761
-7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",8602865
-7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",845731
-7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",1572866
-7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",7075181
-7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",3273227
-7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",9132078
-7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",3506853
-7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",4018127
-7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",9557071
-7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",3337357
-7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",2298696
-7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",14873064
-7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",21168791
-7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",4018650
+7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",881935
+7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",3337357
+7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",845731
+7604,BR,BRA,76,,,Amazonas,Brazil,-3.4168,-65.8561,"Amazonas, Brazil",4144597
+7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",14873064
+7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",9132078
+7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",3015268
+7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",4018650
+7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",7018354
+7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",7075181
+7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",3484466
+7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",2778986
+7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",21168791
+7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",8602865
+7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",4018127
+7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",11433957
+7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",9557071
+7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",3273227
 7619,BR,BRA,76,,,Rio de Janeiro,Brazil,-22.9068,-43.1729,"Rio de Janeiro, Brazil",17264943
-7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",45919049
-7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",11433957
-7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",7164788
-7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",11377239
-7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",2778986
-7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",3484466
-7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",7018354
-7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",3015268
+7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",3506853
+7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",11377239
+7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",1777225
+7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",605761
+7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",7164788
+7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",45919049
+7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",2298696
+7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",1572866
 7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,437483
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,6948445
@@ -167,6 +167,57 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",4905854
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2961161
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,126476458
+39201,JP,JPN,392,,,Aichi,Japan,35.035551,137.211621,"Aichi, Japan",7552239
+39202,JP,JPN,392,,,Akita,Japan,39.748679,140.408228,"Akita, Japan",966490
+39203,JP,JPN,392,,,Aomori,Japan,40.781541,140.828896,"Aomori, Japan",1246371
+39204,JP,JPN,392,,,Chiba,Japan,35.510141,140.198917,"Chiba, Japan",6259382
+39205,JP,JPN,392,,,Ehime,Japan,33.624835,132.856842,"Ehime, Japan",1339215
+39206,JP,JPN,392,,,Fukui,Japan,35.846614,136.224654,"Fukui, Japan",767937
+39207,JP,JPN,392,,,Fukuoka,Japan,33.526032,130.666949,"Fukuoka, Japan",5103679
+39208,JP,JPN,392,,,Fukushima,Japan,37.378867,140.223295,"Fukushima, Japan",1845519
+39209,JP,JPN,392,,,Gifu,Japan,35.778671,137.055925,"Gifu, Japan",1986587
+39210,JP,JPN,392,,,Gunma,Japan,36.504479,138.985605,"Gunma, Japan",1942456
+39211,JP,JPN,392,,,Hiroshima,Japan,34.605309,132.788719,"Hiroshima, Japan",2804177
+39212,JP,JPN,392,,,Hokkaido,Japan,43.385711,142.552318,"Hokkaido, Japan",5250049
+39213,JP,JPN,392,,,Hyogo,Japan,35.039913,134.828057,"Hyogo, Japan",5466190
+39214,JP,JPN,392,,,Ibaraki,Japan,36.303588,140.319591,"Ibaraki, Japan",2860307
+39215,JP,JPN,392,,,Ishikawa,Japan,36.769464,136.771027,"Ishikawa, Japan",1137649
+39216,JP,JPN,392,,,Iwate,Japan,39.593287,141.361777,"Iwate, Japan",1226816
+39217,JP,JPN,392,,,Kagawa,Japan,34.217292,133.969047,"Kagawa, Japan",956347
+39218,JP,JPN,392,,,Kagoshima,Japan,31.009484,130.430665,"Kagoshima, Japan",1602273
+39219,JP,JPN,392,,,Kanagawa,Japan,35.415312,139.338983,"Kanagawa, Japan",9198268
+39220,JP,JPN,392,,,Kochi,Japan,33.422519,133.367307,"Kochi, Japan",698029
+39221,JP,JPN,392,,,Kumamoto,Japan,32.608154,130.745231,"Kumamoto, Japan",1747567
+39222,JP,JPN,392,,,Kyoto,Japan,35.253815,135.443341,"Kyoto, Japan",2582957
+39223,JP,JPN,392,,,Mie,Japan,34.508018,136.376013,"Mie, Japan",1780882
+39224,JP,JPN,392,,,Miyagi,Japan,38.446859,140.927086,"Miyagi, Japan",2306365
+39225,JP,JPN,392,,,Miyazaki,Japan,32.193204,131.299374,"Miyazaki, Japan",1073301
+39226,JP,JPN,392,,,Nagano,Japan,36.132134,138.045528,"Nagano, Japan",2048790
+39227,JP,JPN,392,,,Nagasaki,Japan,33.235712,129.608033,"Nagasaki, Japan",1326524
+39228,JP,JPN,392,,,Nara,Japan,34.317451,135.871644,"Nara, Japan",1330123
+39229,JP,JPN,392,,,Niigata,Japan,37.521819,138.918647,"Niigata, Japan",2223106
+39230,JP,JPN,392,,,Oita,Japan,33.200697,131.43324,"Oita, Japan",1135434
+39231,JP,JPN,392,,,Okayama,Japan,34.89246,133.826252,"Okayama, Japan",1889586
+39232,JP,JPN,392,,,Okinawa,Japan,25.768923,126.668016,"Okinawa, Japan",1453168
+39233,JP,JPN,392,,,Osaka,Japan,34.620965,135.507481,"Osaka, Japan",8809363
+39234,JP,JPN,392,,,Saga,Japan,33.286977,130.115738,"Saga, Japan",814711
+39235,JP,JPN,392,,,Saitama,Japan,35.997101,139.347635,"Saitama, Japan",7349693
+39236,JP,JPN,392,,,Shiga,Japan,35.215827,136.138064,"Shiga, Japan",1413943
+39237,JP,JPN,392,,,Shimane,Japan,35.07076,132.554064,"Shimane, Japan",674346
+39238,JP,JPN,392,,,Shizuoka,Japan,34.916975,138.407784,"Shizuoka, Japan",3643528
+39239,JP,JPN,392,,,Tochigi,Japan,36.689912,139.819213,"Tochigi, Japan",1933990
+39240,JP,JPN,392,,,Tokushima,Japan,33.919178,134.242091,"Tokushima, Japan",727977
+39241,JP,JPN,392,,,Tokyo,Japan,35.711343,139.446921,"Tokyo, Japan",13920663
+39242,JP,JPN,392,,,Tottori,Japan,35.359069,133.863619,"Tottori, Japan",555558
+39243,JP,JPN,392,,,Toyama,Japan,36.637464,137.269346,"Toyama, Japan",1043502
+39244,JP,JPN,392,,,Wakayama,Japan,33.911879,135.505446,"Wakayama, Japan",924933
+39245,JP,JPN,392,,,Yamagata,Japan,38.448396,140.102154,"Yamagata, Japan",1077666
+39246,JP,JPN,392,,,Yamaguchi,Japan,34.20119,131.573293,"Yamaguchi, Japan",1358336
+39247,JP,JPN,392,,,Yamanashi,Japan,35.612364,138.611489,"Yamanashi, Japan",810956
+39248,JP,JPN,392,,,Diamond Princess Cruise Ship,Japan,,,"Diamond Princess Cruise Ship, Japan",
+39249,JP,JPN,392,,,Nagasaki Cruise Ship,Japan,,,"Nagasaki Cruise Ship, Japan",
+39250,JP,JPN,392,,,Port Quarantine,Japan,,,"Port Quarantine, Japan",
+39251,JP,JPN,392,,,Unknown,Japan,,,"Unknown, Japan",
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
