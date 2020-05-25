@@ -22,6 +22,34 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,3280815
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2351625
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,212559409
+7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",881935
+7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",3337357
+7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",845731
+7604,BR,BRA,76,,,Amazonas,Brazil,-3.4168,-65.8561,"Amazonas, Brazil",4144597
+7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",14873064
+7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",9132078
+7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",3015268
+7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",4018650
+7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",7018354
+7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",7075181
+7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",3484466
+7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",2778986
+7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",21168791
+7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",8602865
+7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",4018127
+7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",11433957
+7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",9557071
+7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",3273227
+7619,BR,BRA,76,,,Rio de Janeiro,Brazil,-22.9068,-43.1729,"Rio de Janeiro, Brazil",17264943
+7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",3506853
+7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",11377239
+7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",1777225
+7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",605761
+7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",7164788
+7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",45919049
+7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",2298696
+7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",1572866
+7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,437483
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,6948445
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,20903278
@@ -33,9 +61,26 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,4829764
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,16425859
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,19116209
+15201,CL,CHL,152,,,Antofagasta,Chile,-23.6509,-70.3975,"Antofagasta, Chile",607534
+15202,CL,CHL,152,,,Araucania,Chile,-38.9489,-72.3311,"Araucania, Chile",957224
+15203,CL,CHL,152,,,Arica y Parinacota,Chile,-18.594,-69.4785,"Arica y Parinacota, Chile",226068
+15204,CL,CHL,152,,,Atacama,Chile,-23.8634,-69.1328,"Atacama, Chile",286168
+15205,CL,CHL,152,,,Aysen,Chile,-45.9864,-73.7669,"Aysen, Chile",103158
+15206,CL,CHL,152,,,Biobio,Chile,-37.4464,-72.1416,"Biobio, Chile",1556805
+15207,CL,CHL,152,,,Coquimbo,Chile,-29.959,-71.3389,"Coquimbo, Chile",757586
+15208,CL,CHL,152,,,Los Lagos,Chile,-41.9198,-72.1416,"Los Lagos, Chile",828708
+15209,CL,CHL,152,,,Los Rios,Chile,-40.231,-72.3311,"Los Rios, Chile",384837
+15210,CL,CHL,152,,,Magallanes,Chile,-52.368,-70.9863,"Magallanes, Chile",166533
+15211,CL,CHL,152,,,Maule,Chile,-35.5183,-71.6885,"Maule, Chile",1044950
+15212,CL,CHL,152,,,Metropolitana,Chile,-33.4376,-70.6505,"Metropolitana, Chile",7112808
+15213,CL,CHL,152,,,Nuble,Chile,-36.7226,-71.7622,"Nuble, Chile",480609
+15214,CL,CHL,152,,,OHiggins,Chile,-48.4674,-72.5592,"OHiggins, Chile",914555
+15215,CL,CHL,152,,,Tarapaca,Chile,-19.9232,-69.5132,"Tarapaca, Chile",330558
+15216,CL,CHL,152,,,Valparaiso,Chile,-33.0472,-71.6127,"Valparaiso, Chile",1815902
+15217,CL,CHL,152,,,Unknown,Chile,,,"Unknown, Chile",
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,50882884
-178,CG,COG,178,,,,Congo (Brazzaville),-4.2634,15.2832,Congo (Brazzaville),5518092
-180,CD,COD,180,,,,Congo (Kinshasa),-4.322447,15.307045,Congo (Kinshasa),89561404
+178,CG,COG,178,,,,Congo (Brazzaville),-0.228,15.8277,Congo (Brazzaville),5518092
+180,CD,COD,180,,,,Congo (Kinshasa),-4.0383,21.7587,Congo (Kinshasa),89561404
 174,KM,COM,174,,,,Comoros,-11.6455,43.3333,Comoros,869595
 188,CR,CRI,188,,,,Costa Rica,9.7489,-83.7534,Costa Rica,5094114
 384,CI,CIV,384,,,,Cote d'Ivoire,7.54,-5.5471,Cote d'Ivoire,26378275
@@ -122,6 +167,57 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",4905854
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2961161
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,126476458
+39201,JP,JPN,392,,,Aichi,Japan,35.035551,137.211621,"Aichi, Japan",7552239
+39202,JP,JPN,392,,,Akita,Japan,39.748679,140.408228,"Akita, Japan",966490
+39203,JP,JPN,392,,,Aomori,Japan,40.781541,140.828896,"Aomori, Japan",1246371
+39204,JP,JPN,392,,,Chiba,Japan,35.510141,140.198917,"Chiba, Japan",6259382
+39205,JP,JPN,392,,,Ehime,Japan,33.624835,132.856842,"Ehime, Japan",1339215
+39206,JP,JPN,392,,,Fukui,Japan,35.846614,136.224654,"Fukui, Japan",767937
+39207,JP,JPN,392,,,Fukuoka,Japan,33.526032,130.666949,"Fukuoka, Japan",5103679
+39208,JP,JPN,392,,,Fukushima,Japan,37.378867,140.223295,"Fukushima, Japan",1845519
+39209,JP,JPN,392,,,Gifu,Japan,35.778671,137.055925,"Gifu, Japan",1986587
+39210,JP,JPN,392,,,Gunma,Japan,36.504479,138.985605,"Gunma, Japan",1942456
+39211,JP,JPN,392,,,Hiroshima,Japan,34.605309,132.788719,"Hiroshima, Japan",2804177
+39212,JP,JPN,392,,,Hokkaido,Japan,43.385711,142.552318,"Hokkaido, Japan",5250049
+39213,JP,JPN,392,,,Hyogo,Japan,35.039913,134.828057,"Hyogo, Japan",5466190
+39214,JP,JPN,392,,,Ibaraki,Japan,36.303588,140.319591,"Ibaraki, Japan",2860307
+39215,JP,JPN,392,,,Ishikawa,Japan,36.769464,136.771027,"Ishikawa, Japan",1137649
+39216,JP,JPN,392,,,Iwate,Japan,39.593287,141.361777,"Iwate, Japan",1226816
+39217,JP,JPN,392,,,Kagawa,Japan,34.217292,133.969047,"Kagawa, Japan",956347
+39218,JP,JPN,392,,,Kagoshima,Japan,31.009484,130.430665,"Kagoshima, Japan",1602273
+39219,JP,JPN,392,,,Kanagawa,Japan,35.415312,139.338983,"Kanagawa, Japan",9198268
+39220,JP,JPN,392,,,Kochi,Japan,33.422519,133.367307,"Kochi, Japan",698029
+39221,JP,JPN,392,,,Kumamoto,Japan,32.608154,130.745231,"Kumamoto, Japan",1747567
+39222,JP,JPN,392,,,Kyoto,Japan,35.253815,135.443341,"Kyoto, Japan",2582957
+39223,JP,JPN,392,,,Mie,Japan,34.508018,136.376013,"Mie, Japan",1780882
+39224,JP,JPN,392,,,Miyagi,Japan,38.446859,140.927086,"Miyagi, Japan",2306365
+39225,JP,JPN,392,,,Miyazaki,Japan,32.193204,131.299374,"Miyazaki, Japan",1073301
+39226,JP,JPN,392,,,Nagano,Japan,36.132134,138.045528,"Nagano, Japan",2048790
+39227,JP,JPN,392,,,Nagasaki,Japan,33.235712,129.608033,"Nagasaki, Japan",1326524
+39228,JP,JPN,392,,,Nara,Japan,34.317451,135.871644,"Nara, Japan",1330123
+39229,JP,JPN,392,,,Niigata,Japan,37.521819,138.918647,"Niigata, Japan",2223106
+39230,JP,JPN,392,,,Oita,Japan,33.200697,131.43324,"Oita, Japan",1135434
+39231,JP,JPN,392,,,Okayama,Japan,34.89246,133.826252,"Okayama, Japan",1889586
+39232,JP,JPN,392,,,Okinawa,Japan,25.768923,126.668016,"Okinawa, Japan",1453168
+39233,JP,JPN,392,,,Osaka,Japan,34.620965,135.507481,"Osaka, Japan",8809363
+39234,JP,JPN,392,,,Saga,Japan,33.286977,130.115738,"Saga, Japan",814711
+39235,JP,JPN,392,,,Saitama,Japan,35.997101,139.347635,"Saitama, Japan",7349693
+39236,JP,JPN,392,,,Shiga,Japan,35.215827,136.138064,"Shiga, Japan",1413943
+39237,JP,JPN,392,,,Shimane,Japan,35.07076,132.554064,"Shimane, Japan",674346
+39238,JP,JPN,392,,,Shizuoka,Japan,34.916975,138.407784,"Shizuoka, Japan",3643528
+39239,JP,JPN,392,,,Tochigi,Japan,36.689912,139.819213,"Tochigi, Japan",1933990
+39240,JP,JPN,392,,,Tokushima,Japan,33.919178,134.242091,"Tokushima, Japan",727977
+39241,JP,JPN,392,,,Tokyo,Japan,35.711343,139.446921,"Tokyo, Japan",13920663
+39242,JP,JPN,392,,,Tottori,Japan,35.359069,133.863619,"Tottori, Japan",555558
+39243,JP,JPN,392,,,Toyama,Japan,36.637464,137.269346,"Toyama, Japan",1043502
+39244,JP,JPN,392,,,Wakayama,Japan,33.911879,135.505446,"Wakayama, Japan",924933
+39245,JP,JPN,392,,,Yamagata,Japan,38.448396,140.102154,"Yamagata, Japan",1077666
+39246,JP,JPN,392,,,Yamaguchi,Japan,34.20119,131.573293,"Yamaguchi, Japan",1358336
+39247,JP,JPN,392,,,Yamanashi,Japan,35.612364,138.611489,"Yamanashi, Japan",810956
+39248,JP,JPN,392,,,Diamond Princess Cruise Ship,Japan,,,"Diamond Princess Cruise Ship, Japan",
+39249,JP,JPN,392,,,Nagasaki Cruise Ship,Japan,,,"Nagasaki Cruise Ship, Japan",
+39250,JP,JPN,392,,,Port Quarantine,Japan,,,"Port Quarantine, Japan",
+39251,JP,JPN,392,,,Unknown,Japan,,,"Unknown, Japan",
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
@@ -146,7 +242,40 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,441539
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,4649660
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,1271767
-484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,128932753
+484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,127792286
+48401,MX,MEX,484,,,Aguascalientes,Mexico,21.8853,-102.2916,"Aguascalientes, Mexico",1434635
+48402,MX,MEX,484,,,Baja California,Mexico,30.8406,-115.2838,"Baja California, Mexico",3634868
+48403,MX,MEX,484,,,Baja California Sur,Mexico,26.0444,-111.6661,"Baja California Sur, Mexico",804708
+48404,MX,MEX,484,,,Campeche,Mexico,19.8301,-90.5349,"Campeche, Mexico",1000617
+48405,MX,MEX,484,,,Chiapas,Mexico,16.7569,-93.1292,"Chiapas, Mexico",5730367
+48406,MX,MEX,484,,,Chihuahua,Mexico,28.633,-106.0691,"Chihuahua, Mexico",3801487
+48407,MX,MEX,484,,,Ciudad de Mexico,Mexico,19.4326,-99.1332,"Ciudad de Mexico, Mexico",9018645
+48408,MX,MEX,484,,,Coahuila,Mexico,27.0587,-101.7068,"Coahuila, Mexico",3218720
+48409,MX,MEX,484,,,Colima,Mexico,19.1223,-104.0072,"Colima, Mexico",785153
+48410,MX,MEX,484,,,Durango,Mexico,24.5593,-104.6588,"Durango, Mexico",1868996
+48411,MX,MEX,484,,,Guanajuato,Mexico,21.019,-101.2574,"Guanajuato, Mexico",6228175
+48412,MX,MEX,484,,,Guerrero,Mexico,17.4392,-99.5451,"Guerrero, Mexico",3657048
+48413,MX,MEX,484,,,Hidalgo,Mexico,20.0911,-98.7624,"Hidalgo, Mexico",3086414
+48414,MX,MEX,484,,,Jalisco,Mexico,20.6595,-103.3494,"Jalisco, Mexico",8409693
+48415,MX,MEX,484,,,Mexico,Mexico,19.4969,-99.7233,"Mexico, Mexico",17427790
+48416,MX,MEX,484,,,Michoacan,Mexico,19.5665,-101.7068,"Michoacan, Mexico",4825401
+48417,MX,MEX,484,,,Morelos,Mexico,18.6813,-99.1013,"Morelos, Mexico",2044058
+48418,MX,MEX,484,,,Nayarit,Mexico,21.7514,-104.8455,"Nayarit, Mexico",1288571
+48419,MX,MEX,484,,,Nuevo Leon,Mexico,25.5922,-99.9962,"Nuevo Leon, Mexico",5610153
+48420,MX,MEX,484,,,Oaxaca,Mexico,17.0732,-96.7266,"Oaxaca, Mexico",4143593
+48421,MX,MEX,484,,,Puebla,Mexico,19.0414,-98.2063,"Puebla, Mexico",6604451
+48422,MX,MEX,484,,,Queretaro,Mexico,20.5888,-100.3899,"Queretaro, Mexico",2279637
+48423,MX,MEX,484,,,Quintana Roo,Mexico,19.1817,-88.4791,"Quintana Roo, Mexico",1723259
+48424,MX,MEX,484,,,San Luis Potosi,Mexico,22.1565,-100.9855,"San Luis Potosi, Mexico",2866142
+48425,MX,MEX,484,,,Sinaloa,Mexico,25.1721,-107.4795,"Sinaloa, Mexico",3156674
+48426,MX,MEX,484,,,Sonora,Mexico,29.2972,-110.3309,"Sonora, Mexico",3074745
+48427,MX,MEX,484,,,Tabasco,Mexico,17.8409,-92.6189,"Tabasco, Mexico",2572287
+48428,MX,MEX,484,,,Tamaulipas,Mexico,24.2669,-98.8363,"Tamaulipas, Mexico",3650602
+48429,MX,MEX,484,,,Tlaxcala,Mexico,19.3139,-98.2404,"Tlaxcala, Mexico",1380011
+48430,MX,MEX,484,,,Veracruz,Mexico,19.1738,-96.1342,"Veracruz, Mexico",8539862
+48431,MX,MEX,484,,,Yucatan,Mexico,20.7099,-89.0943,"Yucatan, Mexico",2259098
+48432,MX,MEX,484,,,Zacatecas,Mexico,22.7709,-102.5832,"Zacatecas, Mexico",1666426
+48433,MX,MEX,484,,,Unknown,Mexico,,,"Unknown, Mexico",
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4033963
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,39244
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,3278292
@@ -211,7 +340,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72416,ES,ESP,724,,,Murcia,Spain,37.9922,-1.1307,"Murcia, Spain",1487663
 72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",649946
 72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2177880
-72419,ES,ESP,724,,,La Rioja,Spain,42.2871,2.5396,"La Rioja, Spain",313571
+72419,ES,ESP,724,,,La Rioja,Spain,42.2871,-2.5396,"La Rioja, Spain",313571
+72420,ES,ESP,724,,,Unknown,Spain,,,"Unknown, Spain",
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.771797,Sri Lanka,21413250
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,43849269
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,586634
@@ -296,12 +426,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
 15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
 15604,CN,CHN,156,,,Fujian,China,26.0789,117.9874,"Fujian, China",39410000
-15605,CN,CHN,156,,,Gansu,China,37.8099,101.0583,"Gansu, China",26370000
+15605,CN,CHN,156,,,Gansu,China,35.7518,104.2861,"Gansu, China",26370000
 15606,CN,CHN,156,,,Guangdong,China,23.3417,113.4244,"Guangdong, China",113460000
 15607,CN,CHN,156,,,Guangxi,China,23.8298,108.7881,"Guangxi, China",49260000
 15608,CN,CHN,156,,,Guizhou,China,26.8154,106.8748,"Guizhou, China",36000000
 15609,CN,CHN,156,,,Hainan,China,19.1959,109.7453,"Hainan, China",9340000
-15610,CN,CHN,156,,,Hebei,China,39.549,116.1306,"Hebei, China",75560000
+15610,CN,CHN,156,,,Hebei,China,37.8957,114.9042,"Hebei, China",75560000
 15611,CN,CHN,156,,,Heilongjiang,China,47.862,127.7615,"Heilongjiang, China",37730000
 15612,CN,CHN,156,,,Henan,China,33.882,113.614,"Henan, China",96050000
 15613,CN,CHN,156,,,Hubei,China,30.9756,112.2707,"Hubei, China",59170000
@@ -323,8 +453,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",24870000
 15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",48300000
 15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",57370000
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",7496988
-446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",649342
+344,HK,HKG,344,,,Hong Kong SAR,China,22.3,114.2,"Hong Kong, China",7496988
+446,MO,MAC,446,,,Macau SAR,China,22.1667,113.55,"Macau, China",649342
 840,US,USA,840,,,,US,40,-100,US,329466283
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",55641
 316,GU,GUM,316,66,,Guam,US,13.4443,144.7937,"Guam, US",164229
