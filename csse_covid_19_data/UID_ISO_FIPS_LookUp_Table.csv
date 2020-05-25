@@ -22,6 +22,34 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,3280815
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2351625
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,212559409
+7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",1777225
+7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",881935
+7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",4144597
+7604,BR,BRA,76,,,Amazonas,Brazil,-3.4168,-65.8561,"Amazonas, Brazil",605761
+7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",8602865
+7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",845731
+7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",1572866
+7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",7075181
+7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",3273227
+7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",9132078
+7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",3506853
+7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",4018127
+7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",9557071
+7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",3337357
+7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",2298696
+7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",14873064
+7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",21168791
+7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",4018650
+7619,BR,BRA,76,,,Rio de Janeiro,Brazil,-22.9068,-43.1729,"Rio de Janeiro, Brazil",17264943
+7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",45919049
+7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",11433957
+7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",7164788
+7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",11377239
+7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",2778986
+7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",3484466
+7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",7018354
+7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",3015268
+7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,437483
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,6948445
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,20903278
@@ -33,6 +61,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,4829764
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,16425859
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,19116209
+15201,CL,CHL,152,,,Antofagasta,Chile,-23.6509,-70.3975,"Antofagasta, Chile",607534
+15202,CL,CHL,152,,,Araucania,Chile,-38.9489,-72.3311,"Araucania, Chile",957224
+15203,CL,CHL,152,,,Arica y Parinacota,Chile,-18.594,-69.4785,"Arica y Parinacota, Chile",226068
+15204,CL,CHL,152,,,Atacama,Chile,-23.8634,-69.1328,"Atacama, Chile",286168
+15205,CL,CHL,152,,,Aysen,Chile,-45.9864,-73.7669,"Aysen, Chile",103158
+15206,CL,CHL,152,,,Biobio,Chile,-37.4464,-72.1416,"Biobio, Chile",1556805
+15207,CL,CHL,152,,,Coquimbo,Chile,-29.959,-71.3389,"Coquimbo, Chile",757586
+15208,CL,CHL,152,,,Los Lagos,Chile,-41.9198,-72.1416,"Los Lagos, Chile",828708
+15209,CL,CHL,152,,,Los Rios,Chile,-40.231,-72.3311,"Los Rios, Chile",384837
+15210,CL,CHL,152,,,Magallanes,Chile,-52.368,-70.9863,"Magallanes, Chile",166533
+15211,CL,CHL,152,,,Maule,Chile,-35.5183,-71.6885,"Maule, Chile",1044950
+15212,CL,CHL,152,,,Metropolitana,Chile,-33.4376,-70.6505,"Metropolitana, Chile",7112808
+15213,CL,CHL,152,,,Nuble,Chile,-36.7226,-71.7622,"Nuble, Chile",480609
+15214,CL,CHL,152,,,OHiggins,Chile,-48.4674,-72.5592,"OHiggins, Chile",914555
+15215,CL,CHL,152,,,Tarapaca,Chile,-19.9232,-69.5132,"Tarapaca, Chile",330558
+15216,CL,CHL,152,,,Valparaiso,Chile,-33.0472,-71.6127,"Valparaiso, Chile",1815902
+15217,CL,CHL,152,,,Unknown,Chile,,,"Unknown, Chile",
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,50882884
 178,CG,COG,178,,,,Congo (Brazzaville),-4.2634,15.2832,Congo (Brazzaville),5518092
 180,CD,COD,180,,,,Congo (Kinshasa),-4.322447,15.307045,Congo (Kinshasa),89561404
@@ -146,7 +191,40 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,441539
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,4649660
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,1271767
-484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,128932753
+484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,127792286
+48401,MX,MEX,484,,,Aguascalientes,Mexico,21.8853,-102.2916,"Aguascalientes, Mexico",1434635
+48402,MX,MEX,484,,,Baja California,Mexico,30.8406,-115.2838,"Baja California, Mexico",3634868
+48403,MX,MEX,484,,,Baja California Sur,Mexico,26.0444,-111.6661,"Baja California Sur, Mexico",804708
+48404,MX,MEX,484,,,Campeche,Mexico,19.8301,-90.5349,"Campeche, Mexico",1000617
+48405,MX,MEX,484,,,Chiapas,Mexico,16.7569,-93.1292,"Chiapas, Mexico",5730367
+48406,MX,MEX,484,,,Chihuahua,Mexico,28.633,-106.0691,"Chihuahua, Mexico",3801487
+48407,MX,MEX,484,,,Ciudad de Mexico,Mexico,19.4326,-99.1332,"Ciudad de Mexico, Mexico",9018645
+48408,MX,MEX,484,,,Coahuila,Mexico,27.0587,-101.7068,"Coahuila, Mexico",3218720
+48409,MX,MEX,484,,,Colima,Mexico,19.1223,-104.0072,"Colima, Mexico",785153
+48410,MX,MEX,484,,,Durango,Mexico,24.5593,-104.6588,"Durango, Mexico",1868996
+48411,MX,MEX,484,,,Guanajuato,Mexico,21.019,-101.2574,"Guanajuato, Mexico",6228175
+48412,MX,MEX,484,,,Guerrero,Mexico,17.4392,-99.5451,"Guerrero, Mexico",3657048
+48413,MX,MEX,484,,,Hidalgo,Mexico,20.0911,-98.7624,"Hidalgo, Mexico",3086414
+48414,MX,MEX,484,,,Jalisco,Mexico,20.6595,-103.3494,"Jalisco, Mexico",8409693
+48415,MX,MEX,484,,,Mexico,Mexico,19.4969,-99.7233,"Mexico, Mexico",17427790
+48416,MX,MEX,484,,,Michoacan,Mexico,19.5665,-101.7068,"Michoacan, Mexico",4825401
+48417,MX,MEX,484,,,Morelos,Mexico,18.6813,-99.1013,"Morelos, Mexico",2044058
+48418,MX,MEX,484,,,Nayarit,Mexico,21.7514,-104.8455,"Nayarit, Mexico",1288571
+48419,MX,MEX,484,,,Nuevo Leon,Mexico,25.5922,-99.9962,"Nuevo Leon, Mexico",5610153
+48420,MX,MEX,484,,,Oaxaca,Mexico,17.0732,-96.7266,"Oaxaca, Mexico",4143593
+48421,MX,MEX,484,,,Puebla,Mexico,19.0414,-98.2063,"Puebla, Mexico",6604451
+48422,MX,MEX,484,,,Queretaro,Mexico,20.5888,-100.3899,"Queretaro, Mexico",2279637
+48423,MX,MEX,484,,,Quintana Roo,Mexico,19.1817,-88.4791,"Quintana Roo, Mexico",1723259
+48424,MX,MEX,484,,,San Luis Potosi,Mexico,22.1565,-100.9855,"San Luis Potosi, Mexico",2866142
+48425,MX,MEX,484,,,Sinaloa,Mexico,25.1721,-107.4795,"Sinaloa, Mexico",3156674
+48426,MX,MEX,484,,,Sonora,Mexico,29.2972,-110.3309,"Sonora, Mexico",3074745
+48427,MX,MEX,484,,,Tabasco,Mexico,17.8409,-92.6189,"Tabasco, Mexico",2572287
+48428,MX,MEX,484,,,Tamaulipas,Mexico,24.2669,-98.8363,"Tamaulipas, Mexico",3650602
+48429,MX,MEX,484,,,Tlaxcala,Mexico,19.3139,-98.2404,"Tlaxcala, Mexico",1380011
+48430,MX,MEX,484,,,Veracruz,Mexico,19.1738,-96.1342,"Veracruz, Mexico",8539862
+48431,MX,MEX,484,,,Yucatan,Mexico,20.7099,-89.0943,"Yucatan, Mexico",2259098
+48432,MX,MEX,484,,,Zacatecas,Mexico,22.7709,-102.5832,"Zacatecas, Mexico",1666426
+48433,MX,MEX,484,,,Unknown,Mexico,,,"Unknown, Mexico",
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4033963
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,39244
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,3278292
@@ -212,6 +290,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",649946
 72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2177880
 72419,ES,ESP,724,,,La Rioja,Spain,42.2871,-2.5396,"La Rioja, Spain",313571
+72420,ES,ESP,724,,,Unknown,Spain,,,"Unknown, Spain",
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.771797,Sri Lanka,21413250
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,43849269
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,586634
@@ -296,12 +375,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
 15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
 15604,CN,CHN,156,,,Fujian,China,26.0789,117.9874,"Fujian, China",39410000
-15605,CN,CHN,156,,,Gansu,China,37.8099,101.0583,"Gansu, China",26370000
+15605,CN,CHN,156,,,Gansu,China,35.7518,104.2861,"Gansu, China",26370000
 15606,CN,CHN,156,,,Guangdong,China,23.3417,113.4244,"Guangdong, China",113460000
 15607,CN,CHN,156,,,Guangxi,China,23.8298,108.7881,"Guangxi, China",49260000
 15608,CN,CHN,156,,,Guizhou,China,26.8154,106.8748,"Guizhou, China",36000000
 15609,CN,CHN,156,,,Hainan,China,19.1959,109.7453,"Hainan, China",9340000
-15610,CN,CHN,156,,,Hebei,China,39.549,116.1306,"Hebei, China",75560000
+15610,CN,CHN,156,,,Hebei,China,37.8957,114.9042,"Hebei, China",75560000
 15611,CN,CHN,156,,,Heilongjiang,China,47.862,127.7615,"Heilongjiang, China",37730000
 15612,CN,CHN,156,,,Henan,China,33.882,113.614,"Henan, China",96050000
 15613,CN,CHN,156,,,Hubei,China,30.9756,112.2707,"Hubei, China",59170000
