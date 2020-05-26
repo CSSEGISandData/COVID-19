@@ -33,7 +33,7 @@ https://systems.jhu.edu/
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
-* 1Point3Arces: https://coronavirus.1point3acres.com/en
+* 1Point3Acres: https://coronavirus.1point3acres.com/en
 * WorldoMeters: https://www.worldometers.info/coronavirus/
 * COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
 * French Government: https://dashboard.covid19.data.gouv.fr/ and https://github.com/opencovid19-fr/data/blob/master/dist/chiffres-cles.json
@@ -55,7 +55,7 @@ and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c8
 * OpenCOVID19 France: https://github.com/opencovid19-fr
 * Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
 * Brazil Ministry of Health: https://covid.saude.gov.br/
-* Gobierono De Mexico:https://covid19.sinave.gob.mx/
+* Gobierono De Mexico: https://covid19.sinave.gob.mx/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
