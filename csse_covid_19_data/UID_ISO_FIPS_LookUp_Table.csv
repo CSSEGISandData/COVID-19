@@ -248,10 +248,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 39245,JP,JPN,392,,,Yamagata,Japan,38.448396,140.102154,"Yamagata, Japan",1077666
 39246,JP,JPN,392,,,Yamaguchi,Japan,34.20119,131.573293,"Yamaguchi, Japan",1358336
 39247,JP,JPN,392,,,Yamanashi,Japan,35.612364,138.611489,"Yamanashi, Japan",810956
-39248,JP,JPN,392,,,Diamond Princess Cruise Ship,Japan,,,"Diamond Princess Cruise Ship, Japan",
-39249,JP,JPN,392,,,Nagasaki Cruise Ship,Japan,,,"Nagasaki Cruise Ship, Japan",
-39250,JP,JPN,392,,,Port Quarantine,Japan,,,"Port Quarantine, Japan",
-39251,JP,JPN,392,,,Unknown,Japan,,,"Unknown, Japan",
+39248,JP,JPN,392,,,Port Quarantine,Japan,,,"Port Quarantine, Japan",
+39249,JP,JPN,392,,,Unknown,Japan,,,"Unknown, Japan",
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
@@ -332,6 +330,32 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,7132530
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,32971846
+60401,PE,PER,604,,,Amazonas,Peru,-5.077253,-78.050172,"Amazonas, Peru",426800
+60402,PE,PER,604,,,Ancash,Peru,-9.407125,-77.671795,"Ancash, Peru",1180600
+60403,PE,PER,604,,,Apurimac,Peru,-14.027713,-72.975378,"Apurimac, Peru",430700
+60404,PE,PER,604,,,Arequipa,Peru,-15.843524,-72.475539,"Arequipa, Peru",1497400
+60405,PE,PER,604,,,Ayacucho,Peru,-14.091648,-74.08344,"Ayacucho, Peru",668200
+60406,PE,PER,604,,,Cajamarca,Peru,-6.430284,-78.745596,"Cajamarca, Peru",1453700
+60407,PE,PER,604,,,Callao,Peru,-11.954609,-77.136042,"Callao, Peru",1129900
+60408,PE,PER,604,,,Cusco,Peru,-13.191068,-72.153609,"Cusco, Peru",1357100
+60409,PE,PER,604,,,Huancavelica,Peru,-13.023888,-75.00277,"Huancavelica, Peru",365300
+60410,PE,PER,604,,,Huanuco,Peru,-9.421676,-76.040642,"Huanuco, Peru",760300
+60411,PE,PER,604,,,Ica,Peru,-14.235097,-75.574821,"Ica, Peru",975200
+60412,PE,PER,604,,,Junin,Peru,-11.541783,-74.876968,"Junin, Peru",1361500
+60413,PE,PER,604,,,La Libertad,Peru,-7.92139,-78.370238,"La Libertad, Peru",2016800
+60414,PE,PER,604,,,Lambayeque,Peru,-6.353049,-79.824113,"Lambayeque, Peru",1310800
+60415,PE,PER,604,,,Lima,Peru,-11.766533,-76.604498,"Lima, Peru",10628500
+60416,PE,PER,604,,,Loreto,Peru,-12.018027,-76.904783,"Loreto, Peru",1027600
+60417,PE,PER,604,,,Madre de Dios,Peru,-4.124847,-74.424115,"Madre de Dios, Peru",173800
+60418,PE,PER,604,,,Moquegua,Peru,-11.972699,-70.53172,"Moquegua, Peru",192700
+60419,PE,PER,604,,,Pasco,Peru,-16.860271,-70.839046,"Pasco, Peru",271900
+60420,PE,PER,604,,,Piura,Peru,-10.39655,-75.307635,"Piura, Peru",2048000
+60421,PE,PER,604,,,Puno,Peru,-5.133361,-80.335861,"Puno, Peru",1238000
+60422,PE,PER,604,,,San Martin,Peru,-14.995827,-69.922726,"San Martin, Peru",899600
+60423,PE,PER,604,,,Tacna,Peru,-7.039531,-76.729127,"Tacna, Peru",371000
+60424,PE,PER,604,,,Tumbes,Peru,-17.644161,-70.27756,"Tumbes, Peru",251500
+60425,PE,PER,604,,,Ucayali,Peru,-3.857496,-80.545255,"Ucayali, Peru",589100
+60426,PE,PER,604,,,Unknown,Peru,-9.621718,-73.444929,"Unknown, Peru",
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,109581085
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,37846605
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,10196707
