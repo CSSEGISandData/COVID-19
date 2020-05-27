@@ -56,6 +56,8 @@ and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c8
 * Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
 * Brazil Ministry of Health: https://covid.saude.gov.br/
 * Gobierono De Mexico:https://covid19.sinave.gob.mx/
+* Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
+* Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>

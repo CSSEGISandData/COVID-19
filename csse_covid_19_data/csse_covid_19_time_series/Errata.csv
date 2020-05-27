@@ -176,3 +176,7 @@
 5/20/2020,time_series_covid19_deaths_global.csv,US,3/12/20-4/20/20,,,correction made due to CO data update
 5/21/2020,time_series_covid19_confirmed_global.csv,Italy,3/12/20,12462,15113,remove spike
 5/21/2020,time_series_covid19_deaths_global.csv,Italy,3/12/20,827,1016,remove spike
+5/27/2020,time_series_covid19_recovered_global.csv,Netherlands,all,,,all recovered data removed
+5/27/2020,time_series_covid19_confirmed_global.csv,France,5/22-23/20,179306,179645/179964,stale data over weekend
+5/27/2020,time_series_covid19_deaths_global.csv,France,5/22-23/20,28167,28241/28284,stale data over weekend
+5/27/2020,time_series_covid19_recovered_global.csv,France,5/22-23/20,62216,62557/62893,stale data over weekend
