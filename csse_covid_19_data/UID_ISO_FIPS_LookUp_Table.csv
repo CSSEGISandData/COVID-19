@@ -79,6 +79,40 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15216,CL,CHL,152,,,Valparaiso,Chile,-33.0472,-71.6127,"Valparaiso, Chile",1815902
 15217,CL,CHL,152,,,Unknown,Chile,,,"Unknown, Chile",
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,50882884
+17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",76589
+17002,CO,COL,170,,,Antioquia,Colombia,7.1986,-75.3412,"Antioquia, Colombia",6407102
+17003,CO,COL,170,,,Arauca,Colombia,7.0762,-70.7105,"Arauca, Colombia",262174
+17004,CO,COL,170,,,Atlantico,Colombia,10.6966,-74.8741,"Atlantico, Colombia",2535517
+17005,CO,COL,170,,,Bolivar,Colombia,8.6704,-74.03,"Bolivar, Colombia",2070110
+17006,CO,COL,170,,,Boyaca,Colombia,5.4545,-73.362,"Boyaca, Colombia",1217376
+17007,CO,COL,170,,,Caldas,Colombia,5.2983,-75.2479,"Caldas, Colombia",998255
+17008,CO,COL,170,,,Capital District,Colombia,4.711,-74.0721,"Capital District, Colombia",7412566
+17009,CO,COL,170,,,Caqueta,Colombia,0.8699,-73.8419,"Caqueta, Colombia",401489
+17010,CO,COL,170,,,Casanare,Colombia,5.7589,-71.5724,"Casanare, Colombia",420504
+17011,CO,COL,170,,,Cauca,Colombia,2.705,-76.826,"Cauca, Colombia",1464488
+17012,CO,COL,170,,,Cesar,Colombia,9.3373,-73.6536,"Cesar, Colombia",1200574
+17013,CO,COL,170,,,Choco,Colombia,5.2528,-76.826,"Choco, Colombia",534826
+17014,CO,COL,170,,,Cordoba,Colombia,8.0493,-75.574,"Cordoba, Colombia",1784783
+17015,CO,COL,170,,,Cundinamarca,Colombia,5.026,-74.03,"Cundinamarca, Colombia",2919060
+17016,CO,COL,170,,,Guainia,Colombia,2.5854,-68.5247,"Guainia, Colombia",48114
+17017,CO,COL,170,,,Guaviare,Colombia,1.0654,-73.2603,"Guaviare, Colombia",82767
+17018,CO,COL,170,,,Huila,Colombia,2.5359,-75.5277,"Huila, Colombia",1100386
+17019,CO,COL,170,,,La Guajira,Colombia,11.3548,-72.5205,"La Guajira, Colombia",880560
+17020,CO,COL,170,,,Magdalena,Colombia,10.4113,-74.4057,"Magdalena, Colombia",1341746
+17021,CO,COL,170,,,Meta,Colombia,3.272,-73.0877,"Meta, Colombia",1039722
+17022,CO,COL,170,,,Narino,Colombia,1.2892,-77.3579,"Narino, Colombia",1630592
+17023,CO,COL,170,,,Norte de Santander,Colombia,7.9463,-72.8988,"Norte de Santander, Colombia",1491689
+17024,CO,COL,170,,,Putumayo,Colombia,0.436,-75.5277,"Putumayo, Colombia",348182
+17025,CO,COL,170,,,Quindio,Colombia,4.461,-75.6674,"Quindio, Colombia",539904
+17026,CO,COL,170,,,Risaralda,Colombia,5.3158,-75.9928,"Risaralda, Colombia",943401
+17027,CO,COL,170,,,San Andres y Providencia,Colombia,12.5567,-81.7185,"San Andres y Providencia, Colombia",61280
+17028,CO,COL,170,,,Santander,Colombia,6.6437,-73.6536,"Santander, Colombia",2184837
+17029,CO,COL,170,,,Sucre,Colombia,8.814,-74.7233,"Sucre, Colombia",904863
+17030,CO,COL,170,,,Tolima,Colombia,4.0925,-75.1545,"Tolima, Colombia",1330187
+17031,CO,COL,170,,,Valle del Cauca,Colombia,3.8009,-76.6413,"Valle del Cauca, Colombia",4475886
+17032,CO,COL,170,,,Vaupes,Colombia,0.8554,-70.812,"Vaupes, Colombia",40797
+17033,CO,COL,170,,,Vichada,Colombia,4.4234,-69.2878,"Vichada, Colombia",107808
+17034,CO,COL,170,,,Unknown,Colombia,,,"Unknown, Colombia",
 178,CG,COG,178,,,,Congo (Brazzaville),-0.228,15.8277,Congo (Brazzaville),5518092
 180,CD,COD,180,,,,Congo (Kinshasa),-4.0383,21.7587,Congo (Kinshasa),89561404
 174,KM,COM,174,,,,Comoros,-11.6455,43.3333,Comoros,869595
@@ -214,10 +248,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 39245,JP,JPN,392,,,Yamagata,Japan,38.448396,140.102154,"Yamagata, Japan",1077666
 39246,JP,JPN,392,,,Yamaguchi,Japan,34.20119,131.573293,"Yamaguchi, Japan",1358336
 39247,JP,JPN,392,,,Yamanashi,Japan,35.612364,138.611489,"Yamanashi, Japan",810956
-39248,JP,JPN,392,,,Diamond Princess Cruise Ship,Japan,,,"Diamond Princess Cruise Ship, Japan",
-39249,JP,JPN,392,,,Nagasaki Cruise Ship,Japan,,,"Nagasaki Cruise Ship, Japan",
-39250,JP,JPN,392,,,Port Quarantine,Japan,,,"Port Quarantine, Japan",
-39251,JP,JPN,392,,,Unknown,Japan,,,"Unknown, Japan",
+39248,JP,JPN,392,,,Port Quarantine,Japan,,,"Port Quarantine, Japan",
+39249,JP,JPN,392,,,Unknown,Japan,,,"Unknown, Japan",
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
@@ -298,6 +330,32 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,7132530
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,32971846
+60401,PE,PER,604,,,Amazonas,Peru,-5.077253,-78.050172,"Amazonas, Peru",426800
+60402,PE,PER,604,,,Ancash,Peru,-9.407125,-77.671795,"Ancash, Peru",1180600
+60403,PE,PER,604,,,Apurimac,Peru,-14.027713,-72.975378,"Apurimac, Peru",430700
+60404,PE,PER,604,,,Arequipa,Peru,-15.843524,-72.475539,"Arequipa, Peru",1497400
+60405,PE,PER,604,,,Ayacucho,Peru,-14.091648,-74.08344,"Ayacucho, Peru",668200
+60406,PE,PER,604,,,Cajamarca,Peru,-6.430284,-78.745596,"Cajamarca, Peru",1453700
+60407,PE,PER,604,,,Callao,Peru,-11.954609,-77.136042,"Callao, Peru",1129900
+60408,PE,PER,604,,,Cusco,Peru,-13.191068,-72.153609,"Cusco, Peru",1357100
+60409,PE,PER,604,,,Huancavelica,Peru,-13.023888,-75.00277,"Huancavelica, Peru",365300
+60410,PE,PER,604,,,Huanuco,Peru,-9.421676,-76.040642,"Huanuco, Peru",760300
+60411,PE,PER,604,,,Ica,Peru,-14.235097,-75.574821,"Ica, Peru",975200
+60412,PE,PER,604,,,Junin,Peru,-11.541783,-74.876968,"Junin, Peru",1361500
+60413,PE,PER,604,,,La Libertad,Peru,-7.92139,-78.370238,"La Libertad, Peru",2016800
+60414,PE,PER,604,,,Lambayeque,Peru,-6.353049,-79.824113,"Lambayeque, Peru",1310800
+60415,PE,PER,604,,,Lima,Peru,-11.766533,-76.604498,"Lima, Peru",10628500
+60416,PE,PER,604,,,Loreto,Peru,-12.018027,-76.904783,"Loreto, Peru",1027600
+60417,PE,PER,604,,,Madre de Dios,Peru,-4.124847,-74.424115,"Madre de Dios, Peru",173800
+60418,PE,PER,604,,,Moquegua,Peru,-11.972699,-70.53172,"Moquegua, Peru",192700
+60419,PE,PER,604,,,Pasco,Peru,-16.860271,-70.839046,"Pasco, Peru",271900
+60420,PE,PER,604,,,Piura,Peru,-10.39655,-75.307635,"Piura, Peru",2048000
+60421,PE,PER,604,,,Puno,Peru,-5.133361,-80.335861,"Puno, Peru",1238000
+60422,PE,PER,604,,,San Martin,Peru,-14.995827,-69.922726,"San Martin, Peru",899600
+60423,PE,PER,604,,,Tacna,Peru,-7.039531,-76.729127,"Tacna, Peru",371000
+60424,PE,PER,604,,,Tumbes,Peru,-17.644161,-70.27756,"Tumbes, Peru",251500
+60425,PE,PER,604,,,Ucayali,Peru,-3.857496,-80.545255,"Ucayali, Peru",589100
+60426,PE,PER,604,,,Unknown,Peru,-9.621718,-73.444929,"Unknown, Peru",
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,109581085
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,37846605
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,10196707
