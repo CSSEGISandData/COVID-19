@@ -36,7 +36,7 @@ https://systems.jhu.edu/
 * 1Point3Arces: https://coronavirus.1point3acres.com/en
 * WorldoMeters: https://www.worldometers.info/coronavirus/
 * COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
-* French Government: https://dashboard.covid19.data.gouv.fr/
+* French Government: https://dashboard.covid19.data.gouv.fr/ and https://github.com/opencovid19-fr/data/blob/master/dist/chiffres-cles.json
 * COVID Live (Australia): https://www.covidlive.com.au/
 * Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
 * Maryland Department of Health: https://coronavirus.maryland.gov/
@@ -44,6 +44,20 @@ https://systems.jhu.edu/
 * NYC Department of Health and Mental Hygiene: https://www1.nyc.gov/site/doh/covid/covid-19-data.page and https://github.com/nychealth/coronavirus-data
 * Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
 and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
+* Palestine (West Bank and Gaza): https://corona.ps/details
+* Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
+* Ministry of Health, Republic of Kosovo: https://kosova.health/ and https://covidks.s3.amazonaws.com/data.json
+* Colorado: https://covid19.colorado.gov/covid-19-data
+* Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
+* Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+* rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
+* Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
+* OpenCOVID19 France: https://github.com/opencovid19-fr
+* Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
+* Brazil Ministry of Health: https://covid.saude.gov.br/
+* Gobierono De Mexico:https://covid19.sinave.gob.mx/
+* Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
+* Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
