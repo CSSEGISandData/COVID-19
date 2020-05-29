@@ -58,6 +58,7 @@ and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c8
 * Gobierono De Mexico:https://covid19.sinave.gob.mx/
 * Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
 * Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
+* Colombia: https://antioquia2020-23.maps.arcgis.com/apps/opsdashboard/index.html#/a9194733a8334e27b0eebd7c8f67bd84 and Instituto [Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx)
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
