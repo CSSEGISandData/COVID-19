@@ -21,13 +21,14 @@ https://systems.jhu.edu/
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
-  - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-  - WorldoMeters: https://www.worldometers.info/coronavirus/
-
-- US data sources:
+  - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
-  - 1Point3Arces: https://coronavirus.1point3acres.com/en
+  - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+  - WorldoMeters: https://www.worldometers.info/coronavirus/  
+  - 1Point3Arces: https://coronavirus.1point3acres.com/en  
   - COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
+
+- US data sources at the state (Admin1) or county/city (Admin2) level:  
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
   - Maryland Department of Health: https://coronavirus.maryland.gov/
   - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
@@ -36,8 +37,7 @@ https://systems.jhu.edu/
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
   - Colorado: https://covid19.colorado.gov/covid-19-data
 
-- Non-US data sources:
-  - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
+- Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
     http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
   - China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
