@@ -32,6 +32,8 @@ dataList <- lapply(1:length(theFiles),function(x){
     y$Admin2 <- NA
     y$FIPS <- NA 
     y$Combined_Key <- NA 
+    y$Case_Fatality_Ratio <- NA
+    y$Incidence_Rate <- NA 
   } else if (fileDate < mdy("03/01/2020")){
     # cleaning specific to first wave of files
     y$Lat <- NA
@@ -39,7 +41,9 @@ dataList <- lapply(1:length(theFiles),function(x){
     y$Active <- NA
     y$Admin2 <- NA
     y$FIPS <- NA 
-    y$Combined_Key <- NA 
+    y$Combined_Key <- NA     
+    y$Case_Fatality_Ratio <- NA
+    y$Incidence_Rate <- NA 
   } else if(fileDate < mdy("03/22/2020")) {
        colnames(y) <- sub("Latitude","Lat",colnames(y))
        colnames(y) <- sub("Longitude","Long_",colnames(y))
@@ -47,6 +51,11 @@ dataList <- lapply(1:length(theFiles),function(x){
        y$Admin2 <- NA 
        y$FIPS <- NA
        y$Combined_Key <- NA 
+       y$Case_Fatality_Ratio <- NA
+       y$Incidence_Rate <- NA 
+  } else if(fileDate < mdy("05/29/2020")){
+    y$Case_Fatality_Ratio <- NA
+    y$Incidence_Rate <- NA 
   }
   # extract date from file name, assign to date column because
   # Last_Update field format varies day by day and a good programmer is 

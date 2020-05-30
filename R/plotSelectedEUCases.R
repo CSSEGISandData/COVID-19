@@ -3,9 +3,9 @@
 #
 
 data$Country_Region[data$Country_Region == "UK"] <- "United Kingdom"
-library(dplyr)
-library(ggplot2)
-library(ggeasy)
+require(dplyr)
+require(ggplot2)
+require(ggeasy)
 countryList <- c("United Kingdom", "Ireland", "France","Germany", 
                  "Italy","Spain","Belgium","Netherlands")
 
