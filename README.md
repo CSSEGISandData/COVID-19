@@ -70,6 +70,13 @@ https://systems.jhu.edu/
 <b>Additional Information about the Visual Dashboard:</b><br>
 https://systems.jhu.edu/research/public-health/ncov/
 <br><br>
+<b>Data dynamic display:</b><br>
+https://www.automl.club/jingyun/001_covid191/<br>
+
+![](images/Confirmed.gif)                
+![](images/Deaths.gif)                
+![](images/Recovered.gif)            
+<br><br>
 
 <b>Contact Us: </b><br>
 * Email: jhusystems@gmail.com
