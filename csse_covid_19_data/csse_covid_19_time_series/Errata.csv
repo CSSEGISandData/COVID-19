@@ -170,3 +170,15 @@
 5/10/20,time_series_covid19_deaths_global.csv,Uruguay,3/28/20;4/5/20;4/15/20;4/21/20,0;5;8;11,1;6;9;12,Adjusted to match national statistics
 5/10/20,time_series_covid19_confirmed_global.csv,Uruguay,3/13/20-4/23/20,,,Confirmed adjusted to match national statistics
 5/11/20,time_series_covid19_confirmed_global.csv,Spain,5/1/20,213435,215216,
+5/20/20,time_series_covid19_confirmed_US.csv,Colorado,3/5/20-4/20/20,,,update all counties with the last cases.csv for each day
+5/20/20,time_series_covid19_deaths_US.csv,Colorado,3/12/20-4/20/20,,,update all counties with the last cases.csv for each day
+5/20/20,time_series_covid19_confirmed_global.csv,US,3/5/20-4/20/20,,,correction made due to CO data update
+5/20/20,time_series_covid19_deaths_global.csv,US,3/12/20-4/20/20,,,correction made due to CO data update
+5/21/20,time_series_covid19_confirmed_global.csv,Italy,3/12/20,12462,15113,remove spike
+5/21/20,time_series_covid19_deaths_global.csv,Italy,3/12/20,827,1016,remove spike
+5/27/20,time_series_covid19_recovered_global.csv,Netherlands,all,,,all recovered data removed
+5/27/20,time_series_covid19_confirmed_global.csv,France,5/22-23/20,179306,179645/179964,stale data over weekend
+5/27/20,time_series_covid19_deaths_global.csv,France,5/22-23/20,28167,28241/28284,stale data over weekend
+5/27/20,time_series_covid19_recovered_global.csv,France,5/22-23/20,62216,62557/62893,stale data over weekend
+5/28/20,time_series_covid19_deaths_US.csv,"Siskiyou County, CA",5/22-27/20,1,0,miscount
+5/28/20,time_series_covid19_deaths_global.csv,,5/22-27/20,,-1,"correction for Siskiyou, CA"
