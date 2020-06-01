@@ -182,3 +182,5 @@
 5/27/20,time_series_covid19_recovered_global.csv,France,5/22-23/20,62216,62557/62893,stale data over weekend
 5/28/20,time_series_covid19_deaths_US.csv,"Siskiyou County, CA",5/22-27/20,1,0,miscount
 5/28/20,time_series_covid19_deaths_global.csv,,5/22-27/20,,-1,"correction for Siskiyou, CA"
+6/01/20,time_series_covid19_confirmed_global.csv,Peru,4/28/20,141779,148285,Stale overnight update
+6/01/20,time_series_covid19_deaths_global.csv,Peru,4/28/20,4099,4230,Stale overnight update
