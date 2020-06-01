@@ -501,8 +501,34 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,84339067
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,45741000
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,43733759
-80498,UA,UKR,804,,,Crimea Republic*,Ukraine,45.28350435,34.20081878,"Crimea Republic*, Ukraine",1913731
-80499,UA,UKR,804,,,Sevastopol*,Ukraine,44.6054434,33.5220842,"Sevastopol*, Ukraine",443211
+80401,UA,UKR,804,,,Cherkasy Oblast,Ukraine,49.4444,32.0598,"Cherkasy Oblast, Ukraine",1206351
+80402,UA,UKR,804,,,Chernihiv Oblast,Ukraine,51.4982,31.2893,"Chernihiv Oblast, Ukraine",1005745
+80403,UA,UKR,804,,,Chernivtsi Oblast,Ukraine,48.2917,25.9352,"Chernivtsi Oblast, Ukraine",904374
+80404,UA,UKR,804,,,Crimea Republic*,Ukraine,45.2835,34.2008,"Crimea Republic*, Ukraine",1913731
+80405,UA,UKR,804,,,Dnipropetrovsk Oblast,Ukraine,48.4647,35.0462,"Dnipropetrovsk Oblast, Ukraine",3206477
+80406,UA,UKR,804,,,Donetsk Oblast,Ukraine,48.0159,37.8028,"Donetsk Oblast, Ukraine",4165901
+80407,UA,UKR,804,,,Ivano-Frankivsk Oblast,Ukraine,48.9226,24.7111,"Ivano-Frankivsk Oblast, Ukraine",1373252
+80408,UA,UKR,804,,,Kharkiv Oblast,Ukraine,49.9935,36.2304,"Kharkiv Oblast, Ukraine",2675598
+80409,UA,UKR,804,,,Kherson Oblast,Ukraine,46.6354,32.6169,"Kherson Oblast, Ukraine",1037640
+80410,UA,UKR,804,,,Khmelnytskyi Oblast,Ukraine,49.423,26.9871,"Khmelnytskyi Oblast, Ukraine",1264705
+80410,UA,UKR,804,,,Kiev,Ukraine,50.4501,30.5234,"Kiev, Ukraine",2950800
+80411,UA,UKR,804,,,Kiev Oblast,Ukraine,50.053,30.7667,"Kiev Oblast, Ukraine",1767940
+80412,UA,UKR,804,,,Kirovohrad Oblast,Ukraine,48.5079,32.2623,"Kirovohrad Oblast, Ukraine",945549
+80413,UA,UKR,804,,,Luhansk Oblast,Ukraine,48.574,39.3078,"Luhansk Oblast, Ukraine",2151833
+80414,UA,UKR,804,,,Lviv Oblast,Ukraine,49.8397,24.0297,"Lviv Oblast, Ukraine",2522021
+80415,UA,UKR,804,,,Mykolaiv Oblast,Ukraine,46.975,31.9946,"Mykolaiv Oblast, Ukraine",2522021
+80416,UA,UKR,804,,,Odessa Oblast,Ukraine,46.4846,30.7326,"Odessa Oblast, Ukraine",2380308
+80417,UA,UKR,804,,,Poltava Oblast,Ukraine,49.5883,34.5514,"Poltava Oblast, Ukraine",1400439
+80418,UA,UKR,804,,,Rivne Oblast,Ukraine,50.6199,26.2516,"Rivne Oblast, Ukraine",1157301
+80419,UA,UKR,804,,,Sevastopol*,Ukraine,44.6054,33.522,"Sevastopol*, Ukraine",443211
+80420,UA,UKR,804,,,Sumy Oblast,Ukraine,50.9077,34.7981,"Sumy Oblast, Ukraine",1081418
+80421,UA,UKR,804,,,Ternopil Oblast,Ukraine,49.5535,25.5948,"Ternopil Oblast, Ukraine",1045879
+80422,UA,UKR,804,,,Vinnytsia Oblast,Ukraine,49.2331,28.4682,"Vinnytsia Oblast, Ukraine",1560394
+80423,UA,UKR,804,,,Volyn Oblast,Ukraine,50.7472,25.3254,"Volyn Oblast, Ukraine",1035330
+80424,UA,UKR,804,,,Zakarpattia Oblast,Ukraine,48.6208,22.2879,"Zakarpattia Oblast, Ukraine",1256802
+80425,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",1705836
+80426,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",1220193
+80427,UA,UKR,804,,,Unknown,Ukraine,,,"Unknown, Ukraine",
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,9890400
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.436,United Kingdom,67886004
 858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
