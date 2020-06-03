@@ -74,11 +74,45 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15211,CL,CHL,152,,,Maule,Chile,-35.5183,-71.6885,"Maule, Chile",1044950
 15212,CL,CHL,152,,,Metropolitana,Chile,-33.4376,-70.6505,"Metropolitana, Chile",7112808
 15213,CL,CHL,152,,,Nuble,Chile,-36.7226,-71.7622,"Nuble, Chile",480609
-15214,CL,CHL,152,,,OHiggins,Chile,-48.4674,-72.5592,"OHiggins, Chile",914555
+15214,CL,CHL,152,,,OHiggins,Chile,-34.5755,-71.0022,"OHiggins, Chile",914555
 15215,CL,CHL,152,,,Tarapaca,Chile,-19.9232,-69.5132,"Tarapaca, Chile",330558
 15216,CL,CHL,152,,,Valparaiso,Chile,-33.0472,-71.6127,"Valparaiso, Chile",1815902
 15217,CL,CHL,152,,,Unknown,Chile,,,"Unknown, Chile",
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,50882884
+17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",76589
+17002,CO,COL,170,,,Antioquia,Colombia,7.1986,-75.3412,"Antioquia, Colombia",6407102
+17003,CO,COL,170,,,Arauca,Colombia,7.0762,-70.7105,"Arauca, Colombia",262174
+17004,CO,COL,170,,,Atlantico,Colombia,10.6966,-74.8741,"Atlantico, Colombia",2535517
+17005,CO,COL,170,,,Bolivar,Colombia,8.6704,-74.03,"Bolivar, Colombia",2070110
+17006,CO,COL,170,,,Boyaca,Colombia,5.4545,-73.362,"Boyaca, Colombia",1217376
+17007,CO,COL,170,,,Caldas,Colombia,5.2983,-75.2479,"Caldas, Colombia",998255
+17008,CO,COL,170,,,Capital District,Colombia,4.711,-74.0721,"Capital District, Colombia",7412566
+17009,CO,COL,170,,,Caqueta,Colombia,0.8699,-73.8419,"Caqueta, Colombia",401489
+17010,CO,COL,170,,,Casanare,Colombia,5.7589,-71.5724,"Casanare, Colombia",420504
+17011,CO,COL,170,,,Cauca,Colombia,2.705,-76.826,"Cauca, Colombia",1464488
+17012,CO,COL,170,,,Cesar,Colombia,9.3373,-73.6536,"Cesar, Colombia",1200574
+17013,CO,COL,170,,,Choco,Colombia,5.2528,-76.826,"Choco, Colombia",534826
+17014,CO,COL,170,,,Cordoba,Colombia,8.0493,-75.574,"Cordoba, Colombia",1784783
+17015,CO,COL,170,,,Cundinamarca,Colombia,5.026,-74.03,"Cundinamarca, Colombia",2919060
+17016,CO,COL,170,,,Guainia,Colombia,2.5854,-68.5247,"Guainia, Colombia",48114
+17017,CO,COL,170,,,Guaviare,Colombia,1.0654,-73.2603,"Guaviare, Colombia",82767
+17018,CO,COL,170,,,Huila,Colombia,2.5359,-75.5277,"Huila, Colombia",1100386
+17019,CO,COL,170,,,La Guajira,Colombia,11.3548,-72.5205,"La Guajira, Colombia",880560
+17020,CO,COL,170,,,Magdalena,Colombia,10.4113,-74.4057,"Magdalena, Colombia",1341746
+17021,CO,COL,170,,,Meta,Colombia,3.272,-73.0877,"Meta, Colombia",1039722
+17022,CO,COL,170,,,Narino,Colombia,1.2892,-77.3579,"Narino, Colombia",1630592
+17023,CO,COL,170,,,Norte de Santander,Colombia,7.9463,-72.8988,"Norte de Santander, Colombia",1491689
+17024,CO,COL,170,,,Putumayo,Colombia,0.436,-75.5277,"Putumayo, Colombia",348182
+17025,CO,COL,170,,,Quindio,Colombia,4.461,-75.6674,"Quindio, Colombia",539904
+17026,CO,COL,170,,,Risaralda,Colombia,5.3158,-75.9928,"Risaralda, Colombia",943401
+17027,CO,COL,170,,,San Andres y Providencia,Colombia,12.5567,-81.7185,"San Andres y Providencia, Colombia",61280
+17028,CO,COL,170,,,Santander,Colombia,6.6437,-73.6536,"Santander, Colombia",2184837
+17029,CO,COL,170,,,Sucre,Colombia,8.814,-74.7233,"Sucre, Colombia",904863
+17030,CO,COL,170,,,Tolima,Colombia,4.0925,-75.1545,"Tolima, Colombia",1330187
+17031,CO,COL,170,,,Valle del Cauca,Colombia,3.8009,-76.6413,"Valle del Cauca, Colombia",4475886
+17032,CO,COL,170,,,Vaupes,Colombia,0.8554,-70.812,"Vaupes, Colombia",40797
+17033,CO,COL,170,,,Vichada,Colombia,4.4234,-69.2878,"Vichada, Colombia",107808
+17034,CO,COL,170,,,Unknown,Colombia,,,"Unknown, Colombia",
 178,CG,COG,178,,,,Congo (Brazzaville),-0.228,15.8277,Congo (Brazzaville),5518092
 180,CD,COD,180,,,,Congo (Kinshasa),-4.0383,21.7587,Congo (Kinshasa),89561404
 174,KM,COM,174,,,,Comoros,-11.6455,43.3333,Comoros,869595
@@ -214,10 +248,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 39245,JP,JPN,392,,,Yamagata,Japan,38.448396,140.102154,"Yamagata, Japan",1077666
 39246,JP,JPN,392,,,Yamaguchi,Japan,34.20119,131.573293,"Yamaguchi, Japan",1358336
 39247,JP,JPN,392,,,Yamanashi,Japan,35.612364,138.611489,"Yamanashi, Japan",810956
-39248,JP,JPN,392,,,Diamond Princess Cruise Ship,Japan,,,"Diamond Princess Cruise Ship, Japan",
-39249,JP,JPN,392,,,Nagasaki Cruise Ship,Japan,,,"Nagasaki Cruise Ship, Japan",
-39250,JP,JPN,392,,,Port Quarantine,Japan,,,"Port Quarantine, Japan",
-39251,JP,JPN,392,,,Unknown,Japan,,,"Unknown, Japan",
+39248,JP,JPN,392,,,Port Quarantine,Japan,,,"Port Quarantine, Japan",
+39249,JP,JPN,392,,,Unknown,Japan,,,"Unknown, Japan",
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
@@ -298,12 +330,122 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,7132530
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,32971846
+60401,PE,PER,604,,,Amazonas,Peru,-5.077253,-78.050172,"Amazonas, Peru",426800
+60402,PE,PER,604,,,Ancash,Peru,-9.407125,-77.671795,"Ancash, Peru",1180600
+60403,PE,PER,604,,,Apurimac,Peru,-14.027713,-72.975378,"Apurimac, Peru",430700
+60404,PE,PER,604,,,Arequipa,Peru,-15.843524,-72.475539,"Arequipa, Peru",1497400
+60405,PE,PER,604,,,Ayacucho,Peru,-14.091648,-74.08344,"Ayacucho, Peru",668200
+60406,PE,PER,604,,,Cajamarca,Peru,-6.430284,-78.745596,"Cajamarca, Peru",1453700
+60407,PE,PER,604,,,Callao,Peru,-11.954609,-77.136042,"Callao, Peru",1129900
+60408,PE,PER,604,,,Cusco,Peru,-13.191068,-72.153609,"Cusco, Peru",1357100
+60409,PE,PER,604,,,Huancavelica,Peru,-13.023888,-75.00277,"Huancavelica, Peru",365300
+60410,PE,PER,604,,,Huanuco,Peru,-9.421676,-76.040642,"Huanuco, Peru",760300
+60411,PE,PER,604,,,Ica,Peru,-14.235097,-75.574821,"Ica, Peru",975200
+60412,PE,PER,604,,,Junin,Peru,-11.541783,-74.876968,"Junin, Peru",1361500
+60413,PE,PER,604,,,La Libertad,Peru,-7.92139,-78.370238,"La Libertad, Peru",2016800
+60414,PE,PER,604,,,Lambayeque,Peru,-6.353049,-79.824113,"Lambayeque, Peru",1310800
+60415,PE,PER,604,,,Lima,Peru,-11.766533,-76.604498,"Lima, Peru",10628500
+60416,PE,PER,604,,,Loreto,Peru,-4.124847,-74.424115,"Loreto, Peru",1027600
+60417,PE,PER,604,,,Madre de Dios,Peru,-11.972699,-70.53172,"Madre de Dios, Peru",173800
+60418,PE,PER,604,,,Moquegua,Peru,-16.860271,-70.839046,"Moquegua, Peru",192700
+60419,PE,PER,604,,,Pasco,Peru,-10.39655,-75.307635,"Pasco, Peru",271900
+60420,PE,PER,604,,,Piura,Peru,-5.133361,-80.335861,"Piura, Peru",2048000
+60421,PE,PER,604,,,Puno,Peru,-14.995827,-69.922726,"Puno, Peru",1238000
+60422,PE,PER,604,,,San Martin,Peru,-7.039531,-76.729127,"San Martin, Peru",899600
+60423,PE,PER,604,,,Tacna,Peru,-17.644161,-70.27756,"Tacna, Peru",371000
+60424,PE,PER,604,,,Tumbes,Peru,-3.857496,-80.545255,"Tumbes, Peru",251500
+60425,PE,PER,604,,,Ucayali,Peru,-9.621718,-73.444929,"Ucayali, Peru",589100
+60426,PE,PER,604,,,Unknown,Peru,,,"Unknown, Peru",
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,109581085
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,37846605
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,10196707
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2881060
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,19237682
 643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,145934460
+64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",453376
+64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.6931424,"Altai Krai, Russia",2350080
+64303,RU,RUS,643,,,Altai Republic,Russia,50.7114101,86.8572186,"Altai Republic, Russia",218063
+64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",798424
+64305,RU,RUS,643,,,Arkhangelsk Oblast,Russia,63.5589686,43.1221646,"Arkhangelsk Oblast, Russia",1155028
+64306,RU,RUS,643,,,Astrakhan Oblast,Russia,47.1878186,47.608851,"Astrakhan Oblast, Russia",1017514
+64307,RU,RUS,643,,,Bashkortostan Republic,Russia,54.8573563,57.1439682,"Bashkortostan Republic, Russia",4063293
+64308,RU,RUS,643,,,Belgorod Oblast,Russia,50.7080119,37.5837615,"Belgorod Oblast, Russia",1549876
+64309,RU,RUS,643,,,Bryansk Oblast,Russia,52.8873315,33.415853,"Bryansk Oblast, Russia",1210982
+64310,RU,RUS,643,,,Buryatia Republic,Russia,52.7182426,109.492143,"Buryatia Republic, Russia",984511
+64311,RU,RUS,643,,,Chechen Republic,Russia,43.3976147,45.6985005,"Chechen Republic, Russia",1436981
+64312,RU,RUS,643,,,Chelyabinsk Oblast,Russia,54.4223954,61.1865846,"Chelyabinsk Oblast, Russia",3493036
+64313,RU,RUS,643,,,Chukotka Autonomous Okrug,Russia,66.0006475,169.4900869,"Chukotka Autonomous Okrug, Russia",49348
+64314,RU,RUS,643,,,Chuvashia Republic,Russia,55.4259922,47.0849429,"Chuvashia Republic, Russia",1231117
+64315,RU,RUS,643,,,Dagestan Republic,Russia,43.0574916,47.1332224,"Dagestan Republic, Russia",3063885
+64316,RU,RUS,643,,,Ingushetia Republic,Russia,43.11542075,45.01713552,"Ingushetia Republic, Russia",488043
+64317,RU,RUS,643,,,Irkutsk Oblast,Russia,56.6370122,104.719221,"Irkutsk Oblast, Russia",2404195
+64318,RU,RUS,643,,,Ivanovo Oblast,Russia,56.9167446,41.4352137,"Ivanovo Oblast, Russia",1014646
+64319,RU,RUS,643,,,Jewish Autonomous Okrug,Russia,48.57527615,132.6630746,"Jewish Autonomous Okrug, Russia",162014
+64320,RU,RUS,643,,,Kabardino-Balkarian Republic,Russia,43.4806048,43.5978976,"Kabardino-Balkarian Republic, Russia",865828
+64321,RU,RUS,643,,,Kaliningrad Oblast,Russia,54.7293041,21.1489473,"Kaliningrad Oblast, Russia",994599
+64322,RU,RUS,643,,,Kalmykia Republic,Russia,46.2313018,45.3275745,"Kalmykia Republic, Russia",275413
+64323,RU,RUS,643,,,Kaluga Oblast,Russia,54.4382773,35.5272854,"Kaluga Oblast, Russia",1012056
+64324,RU,RUS,643,,,Kamchatka Krai,Russia,57.1914882,160.0383819,"Kamchatka Krai, Russia",315557
+64325,RU,RUS,643,,,Karachay-Cherkess Republic,Russia,43.7368326,41.7267991,"Karachay-Cherkess Republic, Russia",466305
+64326,RU,RUS,643,,,Karelia Republic,Russia,62.6194031,33.4920267,"Karelia Republic, Russia",622484
+64327,RU,RUS,643,,,Kemerovo Oblast,Russia,54.5335781,87.342861,"Kemerovo Oblast, Russia",2694877
+64328,RU,RUS,643,,,Khabarovsk Krai,Russia,51.6312684,136.121524,"Khabarovsk Krai, Russia",1328302
+64329,RU,RUS,643,,,Khakassia Republic,Russia,53.72258845,91.44293627,"Khakassia Republic, Russia",537513
+64330,RU,RUS,643,,,Khanty-Mansi Autonomous Okrug,Russia,61.0259025,69.0982628,"Khanty-Mansi Autonomous Okrug, Russia",1532243
+64331,RU,RUS,643,,,Kirov Oblast,Russia,57.9665589,49.4074599,"Kirov Oblast, Russia",1283238
+64332,RU,RUS,643,,,Komi Republic,Russia,63.9881421,54.3326073,"Komi Republic, Russia",840873
+64333,RU,RUS,643,,,Kostroma Oblast,Russia,58.424756,44.2533273,"Kostroma Oblast, Russia",643324
+64334,RU,RUS,643,,,Krasnodar Krai,Russia,45.7684014,39.0261044,"Krasnodar Krai, Russia",5603420
+64335,RU,RUS,643,,,Krasnoyarsk Krai,Russia,63.3233807,97.0979974,"Krasnoyarsk Krai, Russia",2876497
+64336,RU,RUS,643,,,Kurgan Oblast,Russia,55.7655302,64.5632681,"Kurgan Oblast, Russia",845537
+64337,RU,RUS,643,,,Kursk Oblast,Russia,51.6568453,36.4852695,"Kursk Oblast, Russia",1115237
+64338,RU,RUS,643,,,Leningrad Oblast,Russia,60.1853296,32.3925325,"Leningrad Oblast, Russia",1813816
+64339,RU,RUS,643,,,Lipetsk Oblast,Russia,52.6935178,39.1122664,"Lipetsk Oblast, Russia",1150201
+64340,RU,RUS,643,,,Magadan Oblast,Russia,62.48858785,153.9903764,"Magadan Oblast, Russia",144091
+64341,RU,RUS,643,,,Mari El Republic,Russia,56.5767504,47.8817512,"Mari El Republic, Russia",682333
+64342,RU,RUS,643,,,Mordovia Republic,Russia,54.4419829,44.4661144,"Mordovia Republic, Russia",805056
+64343,RU,RUS,643,,,Moscow,Russia,55.7504461,37.6174943,"Moscow, Russia",12506468
+64344,RU,RUS,643,,,Moscow Oblast,Russia,55.5043158,38.0353929,"Moscow Oblast, Russia",7503385
+64345,RU,RUS,643,,,Murmansk Oblast,Russia,68.0000418,33.9999151,"Murmansk Oblast, Russia",753557
+64346,RU,RUS,643,,,Nenets Autonomous Okrug,Russia,68.27557185,57.1686375,"Nenets Autonomous Okrug, Russia",43997
+64347,RU,RUS,643,,,Nizhny Novgorod Oblast,Russia,55.4718033,44.0911594,"Nizhny Novgorod Oblast, Russia",3234752
+64348,RU,RUS,643,,,North Ossetia - Alania Republic,Russia,42.7933611,44.6324493,"North Ossetia - Alania Republic, Russia",701765
+64349,RU,RUS,643,,,Novgorod Oblast,Russia,58.2843833,32.5169757,"Novgorod Oblast, Russia",606476
+64350,RU,RUS,643,,,Novosibirsk Oblast,Russia,54.9720169,79.4813924,"Novosibirsk Oblast, Russia",2788849
+64351,RU,RUS,643,,,Omsk Oblast,Russia,56.0935263,73.5099936,"Omsk Oblast, Russia",1960081
+64352,RU,RUS,643,,,Orel Oblast,Russia,52.9685433,36.0692477,"Orel Oblast, Russia",747247
+64353,RU,RUS,643,,,Orenburg Oblast,Russia,52.0269262,54.7276647,"Orenburg Oblast, Russia",1977720
+64354,RU,RUS,643,,,Penza Oblast,Russia,53.1655415,44.7879181,"Penza Oblast, Russia",1331655
+64355,RU,RUS,643,,,Perm Krai,Russia,58.5951603,56.3159546,"Perm Krai, Russia",2623122
+64356,RU,RUS,643,,,Primorsky Krai,Russia,45.0819456,134.726645,"Primorsky Krai, Russia",1913037
+64357,RU,RUS,643,,,Pskov Oblast,Russia,57.5358729,28.8586826,"Pskov Oblast, Russia",636546
+64358,RU,RUS,643,,,Rostov Oblast,Russia,47.6222451,40.7957942,"Rostov Oblast, Russia",4220452
+64359,RU,RUS,643,,,Ryazan Oblast,Russia,54.4226732,40.5705246,"Ryazan Oblast, Russia",1121474
+64360,RU,RUS,643,,,Saint Petersburg,Russia,59.9606739,30.1586551,"Saint Petersburg, Russia",5351935
+64361,RU,RUS,643,,,Sakha (Yakutiya) Republic,Russia,66.941626,129.642371,"Sakha (Yakutiya) Republic, Russia",964330
+64362,RU,RUS,643,,,Sakhalin Oblast,Russia,49.7219665,143.448533,"Sakhalin Oblast, Russia",490181
+64363,RU,RUS,643,,,Samara Oblast,Russia,53.2128813,50.8914633,"Samara Oblast, Russia",3193514
+64364,RU,RUS,643,,,Saratov Oblast,Russia,51.6520555,46.8631952,"Saratov Oblast, Russia",2462950
+64365,RU,RUS,643,,,Smolensk Oblast,Russia,55.0343496,33.0192065,"Smolensk Oblast, Russia",949348
+64366,RU,RUS,643,,,Stavropol Krai,Russia,44.8632577,43.4406913,"Stavropol Krai, Russia",2800674
+64367,RU,RUS,643,,,Sverdlovsk Oblast,Russia,58.6414755,61.8021546,"Sverdlovsk Oblast, Russia",4325256
+64368,RU,RUS,643,,,Tambov Oblast,Russia,52.9019574,41.3578918,"Tambov Oblast, Russia",1033552
+64369,RU,RUS,643,,,Tatarstan Republic,Russia,55.7648572,52.43104273,"Tatarstan Republic, Russia",3894284
+64370,RU,RUS,643,,,Tomsk Oblast,Russia,58.6124279,82.0475315,"Tomsk Oblast, Russia",1078280
+64371,RU,RUS,643,,,Tula Oblast,Russia,53.9570701,37.3690909,"Tula Oblast, Russia",1491855
+64372,RU,RUS,643,,,Tver Oblast,Russia,57.1134475,35.1744428,"Tver Oblast, Russia",1283873
+64373,RU,RUS,643,,,Tyumen Oblast,Russia,58.8206488,70.3658837,"Tyumen Oblast, Russia",3692400
+64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",321722
+64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.6959832,"Udmurt Republic, Russia",1513044
+64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",1246618
+64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",1378337
+64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.2903582,"Volgograd Oblast, Russia",2521276
+64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",1176689
+64380,RU,RUS,643,,,Voronezh Oblast,Russia,50.9800393,40.1506507,"Voronezh Oblast, Russia",2333768
+64381,RU,RUS,643,,,Yamalo-Nenets Autonomous Okrug,Russia,67.1471631,74.3415488,"Yamalo-Nenets Autonomous Okrug, Russia",538547
+64382,RU,RUS,643,,,Yaroslavl Oblast,Russia,57.7781976,39.0021095,"Yaroslavl Oblast, Russia",1265684
+64383,RU,RUS,643,,,Zabaykalsky Krai,Russia,52.248521,115.956325,"Zabaykalsky Krai, Russia",1072806
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",
 646,RW,RWA,646,,,,Rwanda,-1.9403,29.8739,Rwanda,12952209
 659,KN,KNA,659,,,,Saint Kitts and Nevis,17.357822,-62.782998,Saint Kitts and Nevis,53192
 662,LC,LCA,662,,,,Saint Lucia,13.9094,-60.9789,Saint Lucia,183629
@@ -359,6 +501,34 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,84339067
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,45741000
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,43733759
+80401,UA,UKR,804,,,Cherkasy Oblast,Ukraine,49.4444,32.0598,"Cherkasy Oblast, Ukraine",1206351
+80402,UA,UKR,804,,,Chernihiv Oblast,Ukraine,51.4982,31.2893,"Chernihiv Oblast, Ukraine",1005745
+80403,UA,UKR,804,,,Chernivtsi Oblast,Ukraine,48.2917,25.9352,"Chernivtsi Oblast, Ukraine",904374
+80404,UA,UKR,804,,,Crimea Republic*,Ukraine,45.2835,34.2008,"Crimea Republic*, Ukraine",1913731
+80405,UA,UKR,804,,,Dnipropetrovsk Oblast,Ukraine,48.4647,35.0462,"Dnipropetrovsk Oblast, Ukraine",3206477
+80406,UA,UKR,804,,,Donetsk Oblast,Ukraine,48.0159,37.8028,"Donetsk Oblast, Ukraine",4165901
+80407,UA,UKR,804,,,Ivano-Frankivsk Oblast,Ukraine,48.9226,24.7111,"Ivano-Frankivsk Oblast, Ukraine",1373252
+80408,UA,UKR,804,,,Kharkiv Oblast,Ukraine,49.9935,36.2304,"Kharkiv Oblast, Ukraine",2675598
+80409,UA,UKR,804,,,Kherson Oblast,Ukraine,46.6354,32.6169,"Kherson Oblast, Ukraine",1037640
+80410,UA,UKR,804,,,Khmelnytskyi Oblast,Ukraine,49.423,26.9871,"Khmelnytskyi Oblast, Ukraine",1264705
+80411,UA,UKR,804,,,Kiev,Ukraine,50.4501,30.5234,"Kiev, Ukraine",2950800
+80412,UA,UKR,804,,,Kiev Oblast,Ukraine,50.053,30.7667,"Kiev Oblast, Ukraine",1767940
+80413,UA,UKR,804,,,Kirovohrad Oblast,Ukraine,48.5079,32.2623,"Kirovohrad Oblast, Ukraine",945549
+80414,UA,UKR,804,,,Luhansk Oblast,Ukraine,48.574,39.3078,"Luhansk Oblast, Ukraine",2151833
+80415,UA,UKR,804,,,Lviv Oblast,Ukraine,49.8397,24.0297,"Lviv Oblast, Ukraine",2522021
+80416,UA,UKR,804,,,Mykolaiv Oblast,Ukraine,46.975,31.9946,"Mykolaiv Oblast, Ukraine",2522021
+80417,UA,UKR,804,,,Odessa Oblast,Ukraine,46.4846,30.7326,"Odessa Oblast, Ukraine",2380308
+80418,UA,UKR,804,,,Poltava Oblast,Ukraine,49.5883,34.5514,"Poltava Oblast, Ukraine",1400439
+80419,UA,UKR,804,,,Rivne Oblast,Ukraine,50.6199,26.2516,"Rivne Oblast, Ukraine",1157301
+80420,UA,UKR,804,,,Sevastopol*,Ukraine,44.6054,33.522,"Sevastopol*, Ukraine",443211
+80421,UA,UKR,804,,,Sumy Oblast,Ukraine,50.9077,34.7981,"Sumy Oblast, Ukraine",1081418
+80422,UA,UKR,804,,,Ternopil Oblast,Ukraine,49.5535,25.5948,"Ternopil Oblast, Ukraine",1045879
+80423,UA,UKR,804,,,Vinnytsia Oblast,Ukraine,49.2331,28.4682,"Vinnytsia Oblast, Ukraine",1560394
+80424,UA,UKR,804,,,Volyn Oblast,Ukraine,50.7472,25.3254,"Volyn Oblast, Ukraine",1035330
+80425,UA,UKR,804,,,Zakarpattia Oblast,Ukraine,48.6208,22.2879,"Zakarpattia Oblast, Ukraine",1256802
+80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",1705836
+80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",1220193
+80428,UA,UKR,804,,,Unknown,Ukraine,,,"Unknown, Ukraine",
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,9890400
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.436,United Kingdom,67886004
 858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
