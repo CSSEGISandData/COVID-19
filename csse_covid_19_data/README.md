@@ -99,11 +99,12 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * About France confirmed cases (4/16): after communicating with solidarites-sante.gouv.fr, we decided to make these adjustments based on public available information. From April 4 to April 11, only "cas confirmés" are counted as confirmed cases in our dashboard. Starting from April 12, both "cas confirmés" and "cas possibles en ESMS" (probable cases from ESMS) are counted into confirmed cases in our dashboard. ([More details](https://github.com/CSSEGISandData/COVID-19/issues/2094))
 * Benton and Franklin, WA on April 21 and 22. Data were adjusted/added to match the WA DOH report. See [errata](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/Errata.csv) for details.
 * April 28, for consistency, we no longer report the hospitalization data as the max of "current - hospitalized" and "cumulative - hospitalized", and instead only report 'cumulative - hospitalized' from [Covid Tracking Project](https://covidtracking.com/). For states that do not provide cumulative hospital counts no hospital data will be shown.
-* April 28, Lithuania: The number of confirmed infection cases. Until 28 April, information has been provided on positive laboratory test results rather than on positive cases (people). ([Source](https://lietuva.lt/wp-content/uploads/2020/04/UPDATE-April-28.pdf))
-* May 2, clarification of the handling of data in France ([GitHub Issue](https://github.com/CSSEGISandData/COVID-19/issues/2459))
-* May 15, clairification of the handling of data for Spain ([GitHub Issue](https://github.com/CSSEGISandData/COVID-19/issues/2522))
-* May 20, the drop of cumulative confirmed cases in the UK. "This is due to historical data revisions across all pillars." ([Source](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public), [DHSCgovuk Twitter](https://twitter.com/DHSCgovuk/status/1263159710892638208))
-* May 27, removal of recovered data from Netherlands due to lack of data reporting by national health ministry
+* April 28, Lithuania: The number of confirmed infection cases. Until 28 April, information has been provided on positive laboratory test results rather than on positive cases (people). ([Source](https://lietuva.lt/wp-content/uploads/2020/04/UPDATE-April-28.pdf)).
+* May 2, clarification of the handling of data in France ([GitHub Issue](https://github.com/CSSEGISandData/COVID-19/issues/2459)).
+* May 15, clairification of the handling of data for Spain ([GitHub Issue](https://github.com/CSSEGISandData/COVID-19/issues/2522)).
+* May 20, the drop of cumulative confirmed cases in the UK. "This is due to historical data revisions across all pillars." ([Source](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public), [DHSCgovuk Twitter](https://twitter.com/DHSCgovuk/status/1263159710892638208)).
+* May 27, removal of recovered data from Netherlands due to lack of data reporting by national health ministry.
+* June 2, France: Reduction in confirmed cases due to a change in calculation method. Since June 2, patients who test positive are only counted once. (Baisse des cas confirmés due à un changement de méthode de calcul. Depuis le 2 juin, les patients testés positifs ne sont plus comptés qu’une seule fois.) [Source](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA)
 
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
