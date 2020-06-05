@@ -66,6 +66,7 @@ https://systems.jhu.edu/
   - Colombia: https://antioquia2020-23.maps.arcgis.com/apps/opsdashboard/index.html#/a9194733a8334e27b0eebd7c8f67bd84 and [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx)
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
+  - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
 
 
 <br>
