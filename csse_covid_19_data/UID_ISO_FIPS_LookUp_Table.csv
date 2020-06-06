@@ -488,6 +488,28 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,43849269
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,586634
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,10099270
+75201,SE,SWE,752,,,Blekinge,Sweden,56.2784,15.018,"Blekinge, Sweden",159606
+75202,SE,SWE,752,,,Dalarna,Sweden,61.0917,14.6664,"Dalarna, Sweden",287966
+75203,SE,SWE,752,,,Gavleborg,Sweden,61.3012,16.1534,"Gavleborg, Sweden",287382
+75204,SE,SWE,752,,,Gotland,Sweden,57.4684,18.4867,"Gotland, Sweden",59686
+75205,SE,SWE,752,,,Halland,Sweden,56.8967,12.8034,"Halland, Sweden",333848
+75206,SE,SWE,752,,,Jamtland Harjedalen,Sweden,63.1712,14.9592,"Jamtland Harjedalen, Sweden",130810
+75207,SE,SWE,752,,,Jonkoping,Sweden,57.3708,14.3439,"Jonkoping, Sweden",363599
+75208,SE,SWE,752,,,Kalmar,Sweden,57.235,16.1849,"Kalmar, Sweden",245446
+75209,SE,SWE,752,,,Kronoberg,Sweden,56.7183,14.4115,"Kronoberg, Sweden",201469
+75210,SE,SWE,752,,,Norrbotten,Sweden,66.8309,20.3992,"Norrbotten, Sweden",250093
+75211,SE,SWE,752,,,Orebro,Sweden,59.535,15.0066,"Orebro, Sweden",304805
+75212,SE,SWE,752,,,Ostergotland,Sweden,58.3454,15.5198,"Ostergotland, Sweden",465495
+75213,SE,SWE,752,,,Skane,Sweden,55.9903,13.5958,"Skane, Sweden",1377827
+75214,SE,SWE,752,,,Sormland,Sweden,59.0336,16.7519,"Sormland, Sweden",297540
+75215,SE,SWE,752,,,Stockholm,Sweden,59.6025,18.1384,"Stockholm, Sweden",2377081
+75216,SE,SWE,752,,,Uppsala,Sweden,60.0092,17.2715,"Uppsala, Sweden",383713
+75217,SE,SWE,752,,,Varmland,Sweden,59.7294,13.2354,"Varmland, Sweden",282414
+75218,SE,SWE,752,,,Vasterbotten,Sweden,65.3337,16.5162,"Vasterbotten, Sweden",271736
+75219,SE,SWE,752,,,Vasternorrland,Sweden,63.4276,17.7292,"Vasternorrland, Sweden",245347
+75220,SE,SWE,752,,,Vastmanland,Sweden,59.6714,16.2159,"Vastmanland, Sweden",275845
+75221,SE,SWE,752,,,Vastra Gotaland,Sweden,58.2528,13.0596,"Vastra Gotaland, Sweden",1725881
+75222,SE,SWE,752,,,Unknown,Sweden,,,"Unknown, Sweden",
 756,CH,CHE,756,,,,Switzerland,46.8182,8.2275,Switzerland,8654618
 760,SY,SYR,760,,,,Syria,34.802075,38.996815,Syria,17500657
 158,TW,TWN,158,,,,Taiwan*,23.7,121,Taiwan*,23816775
