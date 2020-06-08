@@ -37,6 +37,7 @@ https://systems.jhu.edu/
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
   - Colorado: https://covid19.colorado.gov/covid-19-data
   - Virginia: https://www.vdh.virginia.gov/coronavirus/
+  - Northern Mariana Islands: https://chcc.gov.mp/coronavirusinformation.php#gsc.tab=0
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
