@@ -36,6 +36,7 @@ https://systems.jhu.edu/
   - Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
   - Colorado: https://covid19.colorado.gov/covid-19-data
+  - Virginia: https://www.vdh.virginia.gov/coronavirus/
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
