@@ -70,7 +70,10 @@ https://systems.jhu.edu/
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
-
+  - India Ministry of Health and Family Welfare: https://www.mohfw.gov.in/
+  - Government of Pakistan: http://covid.gov.pk/stats/pakistan
+  - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
+  - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
