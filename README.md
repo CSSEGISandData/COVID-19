@@ -62,6 +62,7 @@ https://systems.jhu.edu/
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
   - Brazil Ministry of Health: https://covid.saude.gov.br/
+  - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
   - Gobierono De Mexico:https://covid19.sinave.gob.mx/
   - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
   - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
