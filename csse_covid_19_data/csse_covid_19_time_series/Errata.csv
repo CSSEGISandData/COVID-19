@@ -209,4 +209,9 @@
 6/8/20,time_series_covid19_confirmed_US.csv,Virginia,6/7/20,,,Updated all Virginia counties for 6/7
 6/8/20,time_series_covid19_deaths_US.csv,Virginia,6/7/20,,,Updated all Virginia counties for 6/7
 6/8/20,time_series_covid19_confirmed_global.csv,US,6/7/20,1942363,1943647,Updated for Virginia on 6/7
-6/8/20,time_series_covid19_deaths_US.csv,Virginia,6/7/20,110497,110508,Updated Virginia counties for 6/7
+6/8/20,time_series_covid19_deaths_global.csv,US,6/7/20,110497,110508,Updated for Virginia for 6/7
+6/10/20,time_series_covid19_confirmed_US.csv,Michigan,6/5-6/9/20,,,Updated all Michigan counties
+6/10/20,time_series_covid19_deaths_US.csv,Michigan,6/5-6/9/20,,,Updated all Michigan counties
+6/10/20,time_series_covid19_confirmed_global.csv,US,6/5-6/9/20,,,Updated for Michigan
+6/10/20,time_series_covid19_deaths_global.csv,US,6/5-6/9/20,,,Updated for Michigan 
+6/10/20,time_series_covid19_deaths_global.csv,Peru,6/9/20,203736,5738,Correction for deaths in Peru
