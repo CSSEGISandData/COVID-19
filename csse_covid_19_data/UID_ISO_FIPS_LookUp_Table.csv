@@ -64,7 +64,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15201,CL,CHL,152,,,Antofagasta,Chile,-23.6509,-70.3975,"Antofagasta, Chile",607534
 15202,CL,CHL,152,,,Araucania,Chile,-38.9489,-72.3311,"Araucania, Chile",957224
 15203,CL,CHL,152,,,Arica y Parinacota,Chile,-18.594,-69.4785,"Arica y Parinacota, Chile",226068
-15204,CL,CHL,152,,,Atacama,Chile,-23.8634,-69.1328,"Atacama, Chile",286168
+15204,CL,CHL,152,,,Atacama,Chile,-27.5661,-70.0503,"Atacama, Chile",288944
 15205,CL,CHL,152,,,Aysen,Chile,-45.9864,-73.7669,"Aysen, Chile",103158
 15206,CL,CHL,152,,,Biobio,Chile,-37.4464,-72.1416,"Biobio, Chile",1556805
 15207,CL,CHL,152,,,Coquimbo,Chile,-29.959,-71.3389,"Coquimbo, Chile",757586
@@ -123,6 +123,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,1207361
 203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,10708982
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,5792203
+234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",48865
+304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",56772
 9999,,,,,,,Diamond Princess,0,0,Diamond Princess,
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,988002
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,71991
@@ -138,6 +140,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,896444
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,5540718
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,65273512
+254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
+258,PF,PYF,258,,,French Polynesia,France,-17.6797,149.4068,"French Polynesia, France",280904
+312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
+474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",375265
+175,YT,MYT,175,,,Mayotte,France,-12.8275,45.166244,"Mayotte, France",272813
+540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",285491
+638,RE,REU,638,,,Reunion,France,-21.1151,55.5364,"Reunion, France",895308
+652,BL,BLM,652,,,Saint Barthelemy,France,17.9,-62.8333,"Saint Barthelemy, France",9885
+666,PM,SPM,666,,,Saint Pierre and Miquelon,France,46.8852,-56.3159,"Saint Pierre and Miquelon, France",5795
+663,MF,MAF,663,,,St Martin,France,18.0708,-63.0501,"St Martin, France",38659
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2225728
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2416664
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,3989175
@@ -172,6 +184,42 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,9660350
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,341250
 356,IN,IND,356,,,,India,20.593684,78.96288,India,1380004385
+35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",417036
+35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",53903393
+35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",1570458
+35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",35607039
+35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",124799926
+35606,IN,IND,356,,,Chandigarh,India,30.733839,76.768278,"Chandigarh, India",1158473
+35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",29436231
+35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",615724
+35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",18710922
+35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",1586250
+35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",63872399
+35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",28204692
+35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",7451955
+35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",13606320
+35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",38593948
+35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",67562686
+35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",35699443
+35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",274289
+35619,IN,IND,356,,,Madhya Pradesh,India,23.541513,78.289633,"Madhya Pradesh, India",85358965
+35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",123144223
+35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",3091545
+35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",3366710
+35623,IN,IND,356,,,Mizoram,India,23.309381,92.83822,"Mizoram, India",1239244
+35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2249695
+35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",46356334
+35626,IN,IND,356,,,Puducherry,India,11.882658,78.86498,"Puducherry, India",1413542
+35627,IN,IND,356,,,Punjab,India,30.841465,75.40879,"Punjab, India",30141373
+35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",81032689
+35629,IN,IND,356,,,Sikkim,India,27.571671,88.472712,"Sikkim, India",690251
+35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",77841267
+35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",39362732
+35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",4169794
+35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",237882725
+35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",11250858
+35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",99609303
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,273523621
 364,IR,IRN,364,,,,Iran,32.427908,53.688046,Iran,83992953
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,40222503
@@ -318,6 +366,10 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 516,NA,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2540916
 524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,29136808
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,17134873
+533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",106766
+531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",164100
+534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
+535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",26221
 554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,4822233
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,6624554
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,24206636
@@ -326,6 +378,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,220892331
+58601,PK,PAK,586,,,Azad Jammu and Kashmir,Pakistan,34.027401,73.947253,"Azad Jammu and Kashmir, Pakistan",4045366
+58602,PK,PAK,586,,,Balochistan,Pakistan,28.328492,65.898403,"Balochistan, Pakistan",12344408
+58603,PK,PAK,586,,,Gilgit-Baltistan,Pakistan,35.792146,74.982138,"Gilgit-Baltistan, Pakistan",1013584
+58604,PK,PAK,586,,,Islamabad,Pakistan,33.665087,73.121219,"Islamabad, Pakistan",2006572
+58605,PK,PAK,586,,,Khyber Pakhtunkhwa,Pakistan,34.485332,72.09169,"Khyber Pakhtunkhwa, Pakistan",30523371
+58606,PK,PAK,586,,,Punjab,Pakistan,30.811346,72.139132,"Punjab, Pakistan",110012442
+58607,PK,PAK,586,,,Sindh,Pakistan,26.009446,68.776807,"Sindh, Pakistan",47886051
+58608,PK,PAK,586,,,Unknown,Pakistan,,,"Unknown, Pakistan",
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,4314768
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,7132530
@@ -422,7 +482,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64358,RU,RUS,643,,,Rostov Oblast,Russia,47.6222451,40.7957942,"Rostov Oblast, Russia",4220452
 64359,RU,RUS,643,,,Ryazan Oblast,Russia,54.4226732,40.5705246,"Ryazan Oblast, Russia",1121474
 64360,RU,RUS,643,,,Saint Petersburg,Russia,59.9606739,30.1586551,"Saint Petersburg, Russia",5351935
-64361,RU,RUS,643,,,Sakha (Yakutiya) Republic,Russia,66.941626,129.642371,"Sakha (Yakutia) Republic, Russia",964330
+64361,RU,RUS,643,,,Sakha (Yakutiya) Republic,Russia,66.941626,129.642371,"Sakha (Yakutiya) Republic, Russia",964330
 64362,RU,RUS,643,,,Sakhalin Oblast,Russia,49.7219665,143.448533,"Sakhalin Oblast, Russia",490181
 64363,RU,RUS,643,,,Samara Oblast,Russia,53.2128813,50.8914633,"Samara Oblast, Russia",3193514
 64364,RU,RUS,643,,,Saratov Oblast,Russia,51.6520555,46.8631952,"Saratov Oblast, Russia",2462950
@@ -488,6 +548,28 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,43849269
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,586634
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,10099270
+75201,SE,SWE,752,,,Blekinge,Sweden,56.2784,15.018,"Blekinge, Sweden",159606
+75202,SE,SWE,752,,,Dalarna,Sweden,61.0917,14.6664,"Dalarna, Sweden",287966
+75203,SE,SWE,752,,,Gavleborg,Sweden,61.3012,16.1534,"Gavleborg, Sweden",287382
+75204,SE,SWE,752,,,Gotland,Sweden,57.4684,18.4867,"Gotland, Sweden",59686
+75205,SE,SWE,752,,,Halland,Sweden,56.8967,12.8034,"Halland, Sweden",333848
+75206,SE,SWE,752,,,Jamtland Harjedalen,Sweden,63.1712,14.9592,"Jamtland Harjedalen, Sweden",130810
+75207,SE,SWE,752,,,Jonkoping,Sweden,57.3708,14.3439,"Jonkoping, Sweden",363599
+75208,SE,SWE,752,,,Kalmar,Sweden,57.235,16.1849,"Kalmar, Sweden",245446
+75209,SE,SWE,752,,,Kronoberg,Sweden,56.7183,14.4115,"Kronoberg, Sweden",201469
+75210,SE,SWE,752,,,Norrbotten,Sweden,66.8309,20.3992,"Norrbotten, Sweden",250093
+75211,SE,SWE,752,,,Orebro,Sweden,59.535,15.0066,"Orebro, Sweden",304805
+75212,SE,SWE,752,,,Ostergotland,Sweden,58.3454,15.5198,"Ostergotland, Sweden",465495
+75213,SE,SWE,752,,,Skane,Sweden,55.9903,13.5958,"Skane, Sweden",1377827
+75214,SE,SWE,752,,,Sormland,Sweden,59.0336,16.7519,"Sormland, Sweden",297540
+75215,SE,SWE,752,,,Stockholm,Sweden,59.6025,18.1384,"Stockholm, Sweden",2377081
+75216,SE,SWE,752,,,Uppsala,Sweden,60.0092,17.2715,"Uppsala, Sweden",383713
+75217,SE,SWE,752,,,Varmland,Sweden,59.7294,13.2354,"Varmland, Sweden",282414
+75218,SE,SWE,752,,,Vasterbotten,Sweden,65.3337,16.5162,"Vasterbotten, Sweden",271736
+75219,SE,SWE,752,,,Vasternorrland,Sweden,63.4276,17.7292,"Vasternorrland, Sweden",245347
+75220,SE,SWE,752,,,Vastmanland,Sweden,59.6714,16.2159,"Vastmanland, Sweden",275845
+75221,SE,SWE,752,,,Vastra Gotaland,Sweden,58.2528,13.0596,"Vastra Gotaland, Sweden",1725881
+75222,SE,SWE,752,,,Unknown,Sweden,,,"Unknown, Sweden",
 756,CH,CHE,756,,,,Switzerland,46.8182,8.2275,Switzerland,8654618
 760,SY,SYR,760,,,,Syria,34.802075,38.996815,Syria,17500657
 158,TW,TWN,158,,,,Taiwan*,23.7,121,Taiwan*,23816775
@@ -501,36 +583,41 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,84339067
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,45741000
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,43733759
-80498,UA,UKR,804,,,Crimea Republic*,Ukraine,45.28350435,34.20081878,"Crimea Republic*, Ukraine",1913731
-80499,UA,UKR,804,,,Sevastopol*,Ukraine,44.6054434,33.5220842,"Sevastopol*, Ukraine",443211
+80401,UA,UKR,804,,,Cherkasy Oblast,Ukraine,49.4444,32.0598,"Cherkasy Oblast, Ukraine",1206351
+80402,UA,UKR,804,,,Chernihiv Oblast,Ukraine,51.4982,31.2893,"Chernihiv Oblast, Ukraine",1005745
+80403,UA,UKR,804,,,Chernivtsi Oblast,Ukraine,48.2917,25.9352,"Chernivtsi Oblast, Ukraine",904374
+80404,UA,UKR,804,,,Crimea Republic*,Ukraine,45.2835,34.2008,"Crimea Republic*, Ukraine",1913731
+80405,UA,UKR,804,,,Dnipropetrovsk Oblast,Ukraine,48.4647,35.0462,"Dnipropetrovsk Oblast, Ukraine",3206477
+80406,UA,UKR,804,,,Donetsk Oblast,Ukraine,48.0159,37.8028,"Donetsk Oblast, Ukraine",4165901
+80407,UA,UKR,804,,,Ivano-Frankivsk Oblast,Ukraine,48.9226,24.7111,"Ivano-Frankivsk Oblast, Ukraine",1373252
+80408,UA,UKR,804,,,Kharkiv Oblast,Ukraine,49.9935,36.2304,"Kharkiv Oblast, Ukraine",2675598
+80409,UA,UKR,804,,,Kherson Oblast,Ukraine,46.6354,32.6169,"Kherson Oblast, Ukraine",1037640
+80410,UA,UKR,804,,,Khmelnytskyi Oblast,Ukraine,49.423,26.9871,"Khmelnytskyi Oblast, Ukraine",1264705
+80411,UA,UKR,804,,,Kiev,Ukraine,50.4501,30.5234,"Kiev, Ukraine",2950800
+80412,UA,UKR,804,,,Kiev Oblast,Ukraine,50.053,30.7667,"Kiev Oblast, Ukraine",1767940
+80413,UA,UKR,804,,,Kirovohrad Oblast,Ukraine,48.5079,32.2623,"Kirovohrad Oblast, Ukraine",945549
+80414,UA,UKR,804,,,Luhansk Oblast,Ukraine,48.574,39.3078,"Luhansk Oblast, Ukraine",2151833
+80415,UA,UKR,804,,,Lviv Oblast,Ukraine,49.8397,24.0297,"Lviv Oblast, Ukraine",2522021
+80416,UA,UKR,804,,,Mykolaiv Oblast,Ukraine,46.975,31.9946,"Mykolaiv Oblast, Ukraine",2522021
+80417,UA,UKR,804,,,Odessa Oblast,Ukraine,46.4846,30.7326,"Odessa Oblast, Ukraine",2380308
+80418,UA,UKR,804,,,Poltava Oblast,Ukraine,49.5883,34.5514,"Poltava Oblast, Ukraine",1400439
+80419,UA,UKR,804,,,Rivne Oblast,Ukraine,50.6199,26.2516,"Rivne Oblast, Ukraine",1157301
+80420,UA,UKR,804,,,Sevastopol*,Ukraine,44.6054,33.522,"Sevastopol*, Ukraine",443211
+80421,UA,UKR,804,,,Sumy Oblast,Ukraine,50.9077,34.7981,"Sumy Oblast, Ukraine",1081418
+80422,UA,UKR,804,,,Ternopil Oblast,Ukraine,49.5535,25.5948,"Ternopil Oblast, Ukraine",1045879
+80423,UA,UKR,804,,,Vinnytsia Oblast,Ukraine,49.2331,28.4682,"Vinnytsia Oblast, Ukraine",1560394
+80424,UA,UKR,804,,,Volyn Oblast,Ukraine,50.7472,25.3254,"Volyn Oblast, Ukraine",1035330
+80425,UA,UKR,804,,,Zakarpattia Oblast,Ukraine,48.6208,22.2879,"Zakarpattia Oblast, Ukraine",1256802
+80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",1705836
+80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",1220193
+80428,UA,UKR,804,,,Unknown,Ukraine,,,"Unknown, Ukraine",
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,9890400
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.436,United Kingdom,67886004
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
-860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,33469199
-862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,28435943
-704,VN,VNM,704,,,,Vietnam,14.058324,108.277199,Vietnam,97338583
-275,PS,PSE,275,,,,West Bank and Gaza,31.9522,35.2332,West Bank and Gaza,5101416
-732,EH,ESH,732,,,,Western Sahara,24.2155,-12.8858,Western Sahara,597330
-887,YE,YEM,887,,,,Yemen,15.552727,48.516388,Yemen,29825968
-894,ZM,ZMB,894,,,,Zambia,-13.133897,27.849332,Zambia,18383956
-716,ZW,ZWE,716,,,,Zimbabwe,-19.015438,29.154857,Zimbabwe,14862927
-234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",48865
-304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",56772
-254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
-258,PF,PYF,258,,,French Polynesia,France,-17.6797,149.4068,"French Polynesia, France",280904
-312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
-474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",375265
-175,YT,MYT,175,,,Mayotte,France,-12.8275,45.166244,"Mayotte, France",272813
-540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",285491
-638,RE,REU,638,,,Reunion,France,-21.1151,55.5364,"Reunion, France",895308
-652,BL,BLM,652,,,Saint Barthelemy,France,17.9,-62.8333,"Saint Barthelemy, France",9885
-666,PM,SPM,666,,,Saint Pierre and Miquelon,France,46.8852,-56.3159,"Saint Pierre and Miquelon, France",5795
-663,MF,MAF,663,,,St Martin,France,18.0708,-63.0501,"St Martin, France",38659
-533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",106766
-531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",164100
-534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
-535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",26221
-660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",15002
+82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",55977200
+82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",1881600
+82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",5463300
+82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",3138600
+82605,GB,GBR,826,,,Unknown,United Kingdom,,,"Unknown, United Kingdom",
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",62273
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom",30237
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",65720
@@ -540,6 +627,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",85032
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",4999
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,"Turks and Caicos Islands, United Kingdom",38718
+660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",15002
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
+860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,33469199
+862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,28435943
+704,VN,VNM,704,,,,Vietnam,14.058324,108.277199,Vietnam,97338583
+275,PS,PSE,275,,,,West Bank and Gaza,31.9522,35.2332,West Bank and Gaza,5101416
+732,EH,ESH,732,,,,Western Sahara,24.2155,-12.8858,Western Sahara,597330
+887,YE,YEM,887,,,,Yemen,15.552727,48.516388,Yemen,29825968
+894,ZM,ZMB,894,,,,Zambia,-13.133897,27.849332,Zambia,18383956
+716,ZW,ZWE,716,,,,Zimbabwe,-19.015438,29.154857,Zimbabwe,14862927
 36,AU,AUS,36,,,,Australia,-25,133,Australia,25459700
 3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",428100
 3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",8118000
