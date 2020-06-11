@@ -215,3 +215,7 @@
 6/10/20,time_series_covid19_confirmed_global.csv,US,6/5-6/9/20,,,Updated for Michigan
 6/10/20,time_series_covid19_deaths_global.csv,US,6/5-6/9/20,,,Updated for Michigan 
 6/10/20,time_series_covid19_deaths_global.csv,Peru,6/9/20,203736,5738,Correction for deaths in Peru
+6/10/20,time_series_covid19_deaths_US.csv,Michigan,6/9/20,111694,111989,Fixed MI
+6/10/20,time_series_covid19_confirmed_global.csv,Pakistan,6/7/20,N/A,103671,Added data for date
+6/10/20,time_series_covid19_deaths_global.csv,Pakistan,6/7/20,N/A,2067,Added data for date
+6/10/20,time_series_covid19_recovered_global.csv,Pakistan,6/7/20,N/A,34355,Added data for date

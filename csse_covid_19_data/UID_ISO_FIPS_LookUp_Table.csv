@@ -186,7 +186,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 356,IN,IND,356,,,,India,20.593684,78.96288,India,1380004385
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",417036
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",53903393
-35603,IN,IND,356,,,Arunachal Pradesh,India,27.968719,96.48682,"Arunachal Pradesh, India",1570458
+35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",1570458
 35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",35607039
 35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",124799926
 35606,IN,IND,356,,,Chandigarh,India,30.733839,76.768278,"Chandigarh, India",1158473
@@ -214,7 +214,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",81032689
 35629,IN,IND,356,,,Sikkim,India,27.571671,88.472712,"Sikkim, India",690251
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",77841267
-35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telengana, India",39362732
+35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",39362732
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",4169794
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",237882725
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",11250858
@@ -378,13 +378,13 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,220892331
-58601,PK,PAK,586,,,Azad Jammu and Kashmir,Pakistan,,,"Azad Jammu and Kashmir, Pakistan",4045366
-58602,PK,PAK,586,,,Balochistan,Pakistan,,,"Balochistan, Pakistan",12344408
-58603,PK,PAK,586,,,Gilgit-Baltistan,Pakistan,,,"Gilgit-Baltistan, Pakistan",1013584
-58604,PK,PAK,586,,,Islamabad,Pakistan,,,"Islamabad, Pakistan",2006572
-58605,PK,PAK,586,,,Khyber Pakhtunkhwa,Pakistan,,,"Khyber Pakhtunkhwa, Pakistan",30523371
-58606,PK,PAK,586,,,Punjab,Pakistan,,,"Punjab, Pakistan",110012442
-58607,PK,PAK,586,,,Sindh,Pakistan,,,"Sindh, Pakistan",47886051
+58601,PK,PAK,586,,,Azad Jammu and Kashmir,Pakistan,34.027401,73.947253,"Azad Jammu and Kashmir, Pakistan",4045366
+58602,PK,PAK,586,,,Balochistan,Pakistan,28.328492,65.898403,"Balochistan, Pakistan",12344408
+58603,PK,PAK,586,,,Gilgit-Baltistan,Pakistan,35.792146,74.982138,"Gilgit-Baltistan, Pakistan",1013584
+58604,PK,PAK,586,,,Islamabad,Pakistan,33.665087,73.121219,"Islamabad, Pakistan",2006572
+58605,PK,PAK,586,,,Khyber Pakhtunkhwa,Pakistan,34.485332,72.09169,"Khyber Pakhtunkhwa, Pakistan",30523371
+58606,PK,PAK,586,,,Punjab,Pakistan,30.811346,72.139132,"Punjab, Pakistan",110012442
+58607,PK,PAK,586,,,Sindh,Pakistan,26.009446,68.776807,"Sindh, Pakistan",47886051
 58608,PK,PAK,586,,,Unknown,Pakistan,,,"Unknown, Pakistan",
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,4314768
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
@@ -614,7 +614,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,9890400
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.436,United Kingdom,67886004
 82601,GB,GBR,826,,,England,United Kingdom,52.3555,1.1743,"England, United Kingdom",55977200
-82602,GB,GBR,826,,,Northen Ireland,United Kingdom,54.7877,6.4923,"Northen Ireland, United Kingdom",1881600
+82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,6.4923,"Northern Ireland, United Kingdom",1881600
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,4.2026,"Scotland, United Kingdom",5463300
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,3.7837,"Wales, United Kingdom",3138600
 82605,GB,GBR,826,,,Unknown,United Kingdom,,,"Unknown, United Kingdom",
