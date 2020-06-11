@@ -2111,7 +2111,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 40119,Payne,Oklahoma,US,2020-06-10 04:07:00,36.07695283,-96.97584944,52,1,0,51,"Payne, Oklahoma, US",63.5821187518341,1.9230769230769231
 13225,Peach,Georgia,US,2020-06-10 04:07:00,32.56934316,-83.82937,80,7,0,73,"Peach, Georgia, US",290.42329194801425,8.75
 28109,Pearl River,Mississippi,US,2020-06-10 04:07:00,30.77090935,-89.58677275,221,31,0,190,"Pearl River, Mississippi, US",397.9472404789772,14.027149321266968
-48371,Pecos,Texas,US,2020-06-10 04:07:00,30.78097267,-102.72412609999999,27,0,0,27,"Pecos, Texas, US",170.63767932756116,0.0
+48371,Pecos,Texas,US,2020-06-10 04:07:00,30.78097267,-102.72412609999999,105,0,0,105,"Pecos, Texas, US",170.63767932756116,0.0
 38067,Pembina,North Dakota,US,2020-06-10 04:07:00,48.76623521,-97.5523809,6,0,0,6,"Pembina, North Dakota, US",88.2223202470225,0.0
 29155,Pemiscot,Missouri,US,2020-06-10 04:07:00,36.2130572,-89.78742322,97,5,0,92,"Pemiscot, Missouri, US",613.7298323315407,5.154639175257732
 53051,Pend Oreille,Washington,US,2020-06-10 04:07:00,48.53234021,-117.2741804,3,0,0,3,"Pend Oreille, Washington, US",21.85951617604197,0.0
@@ -2731,7 +2731,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90023,Unassigned,Maine,US,2020-06-10 04:07:00,,,2,0,0,2,"Unassigned, Maine, US",,0.0
 90024,Unassigned,Maryland,US,2020-06-10 04:07:00,,,0,40,0,-40,"Unassigned, Maryland, US",,
 90025,Unassigned,Massachusetts,US,2020-06-10 04:07:00,,,299,10,0,289,"Unassigned, Massachusetts, US",,3.3444816053511706
-90026,Unassigned,Michigan,US,2020-06-10 04:07:00,,,8,0,0,8,"Unassigned, Michigan, US",,0.0
+90026,Unassigned,Michigan,US,2020-06-10 04:07:00,,,8,0,5,3,"Unassigned, Michigan, US",,0.0
 90027,Unassigned,Minnesota,US,2020-06-10 04:07:00,,,86,11,0,75,"Unassigned, Minnesota, US",,12.790697674418604
 90028,Unassigned,Mississippi,US,2020-06-10 04:07:00,,,0,0,0,0,"Unassigned, Mississippi, US",,
 90029,Unassigned,Missouri,US,2020-06-10 04:07:00,,,0,0,0,0,"Unassigned, Missouri, US",,
