@@ -219,3 +219,5 @@
 6/10/20,time_series_covid19_confirmed_global.csv,Pakistan,6/7/20,N/A,103671,Added data for date
 6/10/20,time_series_covid19_deaths_global.csv,Pakistan,6/7/20,N/A,2067,Added data for date
 6/10/20,time_series_covid19_recovered_global.csv,Pakistan,6/7/20,N/A,34355,Added data for date
+6/11/20,time_series_covid19_confirmed_global.csv,US,6/9/20,1973230,1979489,Resolved discrepancy 
+6/11/20,time_series_covid19_deaths_global.csv,US,6/9/20,111989,111994,Resolved discrepancy
