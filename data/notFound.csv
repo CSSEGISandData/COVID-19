@@ -1,6 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Bristol Bay plus Lake Peninsula,Alaska,US,1,0.0
-Inmates,Federal Bureau of Prisons,US,6185,80.0
+Inmates,Federal Bureau of Prisons,US,6184,80.0
 Staff,Federal Bureau of Prisons,US,649,1.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
@@ -12,7 +12,7 @@ San Juan(NM),Navajo Nation,US,410,0.0
 San Juan(UT),Navajo Nation,US,57,0.0
 Sandoval(NM),Navajo Nation,US,21,0.0
 Socorro(NM),Navajo Nation,US,26,0.0
-Unassigned,Navajo Nation,US,2888,292.0
+Unassigned,Navajo Nation,US,2991,298.0
 Johnson,North Carolina,US,1,0.0
 out,Ohio,US,1,0.0
 Air Force,US Military,US,1262,4.0
