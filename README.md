@@ -38,6 +38,9 @@ https://systems.jhu.edu/
   - Colorado: https://covid19.colorado.gov/covid-19-data
   - Virginia: https://www.vdh.virginia.gov/coronavirus/
   - Northern Mariana Islands: https://chcc.gov.mp/coronavirusinformation.php#gsc.tab=0
+  - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
+  - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
+  - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
