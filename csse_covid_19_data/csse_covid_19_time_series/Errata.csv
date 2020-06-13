@@ -225,3 +225,10 @@
 6/12/2020,time_series_covid19_deaths_global.csv,India,6/10/2020,7745,8498,Replace with the data at the end of the day
 6/12/2020,time_series_covid19_confirmed_global.csv,Pakistan,6/10/2020,113702,119536,timing issue
 6/12/2020,time_series_covid19_deaths_global.csv,Pakistan,6/10/2020,2255,2356,timing issue
+6/12/2020,time_series_covid19_confirmed_US.csv,St. Louis County,3/9-6/11/2020,,,Change data source
+6/12/2020,time_series_covid19_deaths_US.csv,St. Louis County,3/20-6/11/2020,,,Change data source
+6/12/2020,time_series_covid19_confirmed_US.csv,St. Louis City,3/16-6/11/2020,,,Change data source
+6/12/2020,time_series_covid19_deaths_US.csv,St. Louis City,3/20-6/11/2020,,,Change data source
+6/12/2020,time_series_covid19_confirmed_US.csv,Massachusetts,"4/15,17-6/11/2020",,,Change data source
+6/12/2020,time_series_covid19_confirmed_global.csv,US,all days,,,county sum = country total
+6/12/2020,time_series_covid19_deaths_global.csv,US,all days,,,county sum = country total
