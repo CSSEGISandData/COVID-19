@@ -123,6 +123,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,1207361
 203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,10708982
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,5792203
+234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",48865
+304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",56772
 9999,,,,,,,Diamond Princess,0,0,Diamond Princess,
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,988002
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,71991
@@ -138,6 +140,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,896444
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,5540718
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,65273512
+254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
+258,PF,PYF,258,,,French Polynesia,France,-17.6797,149.4068,"French Polynesia, France",280904
+312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
+474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",375265
+175,YT,MYT,175,,,Mayotte,France,-12.8275,45.166244,"Mayotte, France",272813
+540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",285491
+638,RE,REU,638,,,Reunion,France,-21.1151,55.5364,"Reunion, France",895308
+652,BL,BLM,652,,,Saint Barthelemy,France,17.9,-62.8333,"Saint Barthelemy, France",9885
+666,PM,SPM,666,,,Saint Pierre and Miquelon,France,46.8852,-56.3159,"Saint Pierre and Miquelon, France",5795
+663,MF,MAF,663,,,St Martin,France,18.0708,-63.0501,"St Martin, France",38659
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2225728
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2416664
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,3989175
@@ -172,6 +184,42 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,9660350
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,341250
 356,IN,IND,356,,,,India,20.593684,78.96288,India,1380004385
+35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",417036
+35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",53903393
+35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",1570458
+35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",35607039
+35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",124799926
+35606,IN,IND,356,,,Chandigarh,India,30.733839,76.768278,"Chandigarh, India",1158473
+35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",29436231
+35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",615724
+35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",18710922
+35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",1586250
+35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",63872399
+35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",28204692
+35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",7451955
+35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",13606320
+35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",38593948
+35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",67562686
+35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",35699443
+35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",274289
+35619,IN,IND,356,,,Madhya Pradesh,India,23.541513,78.289633,"Madhya Pradesh, India",85358965
+35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",123144223
+35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",3091545
+35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",3366710
+35623,IN,IND,356,,,Mizoram,India,23.309381,92.83822,"Mizoram, India",1239244
+35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2249695
+35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",46356334
+35626,IN,IND,356,,,Puducherry,India,11.882658,78.86498,"Puducherry, India",1413542
+35627,IN,IND,356,,,Punjab,India,30.841465,75.40879,"Punjab, India",30141373
+35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",81032689
+35629,IN,IND,356,,,Sikkim,India,27.571671,88.472712,"Sikkim, India",690251
+35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",77841267
+35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",39362732
+35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",4169794
+35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",237882725
+35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",11250858
+35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",99609303
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,273523621
 364,IR,IRN,364,,,,Iran,32.427908,53.688046,Iran,83992953
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,40222503
@@ -318,6 +366,10 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 516,NA,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2540916
 524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,29136808
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,17134873
+533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",106766
+531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",164100
+534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
+535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",26221
 554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,4822233
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,6624554
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,24206636
@@ -326,6 +378,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,220892331
+58601,PK,PAK,586,,,Azad Jammu and Kashmir,Pakistan,34.027401,73.947253,"Azad Jammu and Kashmir, Pakistan",4045366
+58602,PK,PAK,586,,,Balochistan,Pakistan,28.328492,65.898403,"Balochistan, Pakistan",12344408
+58603,PK,PAK,586,,,Gilgit-Baltistan,Pakistan,35.792146,74.982138,"Gilgit-Baltistan, Pakistan",1013584
+58604,PK,PAK,586,,,Islamabad,Pakistan,33.665087,73.121219,"Islamabad, Pakistan",2006572
+58605,PK,PAK,586,,,Khyber Pakhtunkhwa,Pakistan,34.485332,72.09169,"Khyber Pakhtunkhwa, Pakistan",30523371
+58606,PK,PAK,586,,,Punjab,Pakistan,30.811346,72.139132,"Punjab, Pakistan",110012442
+58607,PK,PAK,586,,,Sindh,Pakistan,26.009446,68.776807,"Sindh, Pakistan",47886051
+58608,PK,PAK,586,,,Unknown,Pakistan,,,"Unknown, Pakistan",
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,4314768
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,7132530
@@ -553,32 +613,11 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 80428,UA,UKR,804,,,Unknown,Ukraine,,,"Unknown, Ukraine",
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,9890400
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.436,United Kingdom,67886004
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
-860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,33469199
-862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,28435943
-704,VN,VNM,704,,,,Vietnam,14.058324,108.277199,Vietnam,97338583
-275,PS,PSE,275,,,,West Bank and Gaza,31.9522,35.2332,West Bank and Gaza,5101416
-732,EH,ESH,732,,,,Western Sahara,24.2155,-12.8858,Western Sahara,597330
-887,YE,YEM,887,,,,Yemen,15.552727,48.516388,Yemen,29825968
-894,ZM,ZMB,894,,,,Zambia,-13.133897,27.849332,Zambia,18383956
-716,ZW,ZWE,716,,,,Zimbabwe,-19.015438,29.154857,Zimbabwe,14862927
-234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",48865
-304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",56772
-254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
-258,PF,PYF,258,,,French Polynesia,France,-17.6797,149.4068,"French Polynesia, France",280904
-312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
-474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",375265
-175,YT,MYT,175,,,Mayotte,France,-12.8275,45.166244,"Mayotte, France",272813
-540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",285491
-638,RE,REU,638,,,Reunion,France,-21.1151,55.5364,"Reunion, France",895308
-652,BL,BLM,652,,,Saint Barthelemy,France,17.9,-62.8333,"Saint Barthelemy, France",9885
-666,PM,SPM,666,,,Saint Pierre and Miquelon,France,46.8852,-56.3159,"Saint Pierre and Miquelon, France",5795
-663,MF,MAF,663,,,St Martin,France,18.0708,-63.0501,"St Martin, France",38659
-533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",106766
-531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",164100
-534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
-535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",26221
-660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",15002
+82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",55977200
+82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",1881600
+82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",5463300
+82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",3138600
+82605,GB,GBR,826,,,Unknown,United Kingdom,,,"Unknown, United Kingdom",
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",62273
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom",30237
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",65720
@@ -588,6 +627,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",85032
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",4999
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,"Turks and Caicos Islands, United Kingdom",38718
+660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",15002
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
+860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,33469199
+862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,28435943
+704,VN,VNM,704,,,,Vietnam,14.058324,108.277199,Vietnam,97338583
+275,PS,PSE,275,,,,West Bank and Gaza,31.9522,35.2332,West Bank and Gaza,5101416
+732,EH,ESH,732,,,,Western Sahara,24.2155,-12.8858,Western Sahara,597330
+887,YE,YEM,887,,,,Yemen,15.552727,48.516388,Yemen,29825968
+894,ZM,ZMB,894,,,,Zambia,-13.133897,27.849332,Zambia,18383956
+716,ZW,ZWE,716,,,,Zimbabwe,-19.015438,29.154857,Zimbabwe,14862927
 36,AU,AUS,36,,,,Australia,-25,133,Australia,25459700
 3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",428100
 3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",8118000
@@ -648,64 +697,64 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 344,HK,HKG,344,,,Hong Kong SAR,China,22.3,114.2,"Hong Kong, China",7496988
 446,MO,MAC,446,,,Macau SAR,China,22.1667,113.55,"Macau, China",649342
 840,US,USA,840,,,,US,40,-100,US,329466283
-16,AS,ASM,16,00060,,American Samoa,US,-14.271,-170.132,"American Samoa, US",55641
-316,GU,GUM,316,00066,,Guam,US,13.4443,144.7937,"Guam, US",164229
-580,MP,MNP,580,00069,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",55144
-850,VI,VIR,850,00078,,Virgin Islands,US,18.3358,-64.8963,"Virgin Islands, US",107268
-630,PR,PRI,630,00072,,Puerto Rico,US,18.2208,-66.5901,"Puerto Rico, US",2933408
+16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",55641
+316,GU,GUM,316,66,,Guam,US,13.4443,144.7937,"Guam, US",164229
+580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",55144
+850,VI,VIR,850,78,,Virgin Islands,US,18.3358,-64.8963,"Virgin Islands, US",107268
+630,PR,PRI,630,72,,Puerto Rico,US,18.2208,-66.5901,"Puerto Rico, US",2933408
 84088888,US,USA,840,88888,,Diamond Princess,US,,,"Diamond Princess, US",
 84099999,US,USA,840,99999,,Grand Princess,US,,,"Grand Princess, US",
-84000001,US,USA,840,00001,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185
-84000002,US,USA,840,00002,,Alaska,US,61.3707,-152.4044,"Alaska, US",731545
-84000004,US,USA,840,00004,,Arizona,US,33.7298,-111.4312,"Arizona, US",7278717
-84000005,US,USA,840,00005,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",3017804
-84000006,US,USA,840,00006,,California,US,36.1162,-119.6816,"California, US",39512223
-84000008,US,USA,840,00008,,Colorado,US,39.0598,-105.3111,"Colorado, US",5758736
-84000009,US,USA,840,00009,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",3565287
-84000010,US,USA,840,00010,,Delaware,US,39.3185,-75.5071,"Delaware, US",973764
-84000011,US,USA,840,00011,,District of Columbia,US,38.8974,-77.0268,"District of Columbia, US",705749
-84000012,US,USA,840,00012,,Florida,US,27.7663,-81.6868,"Florida, US",21477737
-84000013,US,USA,840,00013,,Georgia,US,33.0406,-83.6431,"Georgia, US",10617423
-84000015,US,USA,840,00015,,Hawaii,US,21.0943,-157.4983,"Hawaii, US",1415872
-84000016,US,USA,840,00016,,Idaho,US,44.2405,-114.4788,"Idaho, US",1787065
-84000017,US,USA,840,00017,,Illinois,US,40.3495,-88.9861,"Illinois, US",12671821
-84000018,US,USA,840,00018,,Indiana,US,39.8494,-86.2583,"Indiana, US",6732219
-84000019,US,USA,840,00019,,Iowa,US,42.0115,-93.2105,"Iowa, US",3155070
-84000020,US,USA,840,00020,,Kansas,US,38.5266,-96.7265,"Kansas, US",2913314
-84000021,US,USA,840,00021,,Kentucky,US,37.6681,-84.6701,"Kentucky, US",4467673
-84000022,US,USA,840,00022,,Louisiana,US,31.1695,-91.8678,"Louisiana, US",4648794
-84000023,US,USA,840,00023,,Maine,US,44.6939,-69.3819,"Maine, US",1344212
-84000024,US,USA,840,00024,,Maryland,US,39.0639,-76.8021,"Maryland, US",6045680
-84000025,US,USA,840,00025,,Massachusetts,US,42.2302,-71.5301,"Massachusetts, US",6892503
-84000026,US,USA,840,00026,,Michigan,US,43.3266,-84.5361,"Michigan, US",9986857
-84000027,US,USA,840,00027,,Minnesota,US,45.6945,-93.9002,"Minnesota, US",5639632
-84000028,US,USA,840,00028,,Mississippi,US,32.7416,-89.6787,"Mississippi, US",2976149
-84000029,US,USA,840,00029,,Missouri,US,38.4561,-92.2884,"Missouri, US",6137428
-84000030,US,USA,840,00030,,Montana,US,46.9219,-110.4544,"Montana, US",1068778
-84000031,US,USA,840,00031,,Nebraska,US,41.1254,-98.2681,"Nebraska, US",1934408
-84000032,US,USA,840,00032,,Nevada,US,38.3135,-117.0554,"Nevada, US",3080156
-84000033,US,USA,840,00033,,New Hampshire,US,43.4525,-71.5639,"New Hampshire, US",1359711
-84000034,US,USA,840,00034,,New Jersey,US,40.2989,-74.521,"New Jersey, US",8882190
-84000035,US,USA,840,00035,,New Mexico,US,34.8405,-106.2485,"New Mexico, US",2096829
-84000036,US,USA,840,00036,,New York,US,42.1657,-74.9481,"New York, US",19453561
-84000037,US,USA,840,00037,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",10488084
-84000038,US,USA,840,00038,,North Dakota,US,47.5289,-99.784,"North Dakota, US",762062
-84000039,US,USA,840,00039,,Ohio,US,40.3888,-82.7649,"Ohio, US",11689100
-84000040,US,USA,840,00040,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",3956971
-84000041,US,USA,840,00041,,Oregon,US,44.572,-122.0709,"Oregon, US",4217737
-84000042,US,USA,840,00042,,Pennsylvania,US,40.5908,-77.2098,"Pennsylvania, US",12801989
-84000044,US,USA,840,00044,,Rhode Island,US,41.6809,-71.5118,"Rhode Island, US",1059361
-84000045,US,USA,840,00045,,South Carolina,US,33.8569,-80.945,"South Carolina, US",5148714
-84000046,US,USA,840,00046,,South Dakota,US,44.2998,-99.4388,"South Dakota, US",884659
-84000047,US,USA,840,00047,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",6829174
-84000048,US,USA,840,00048,,Texas,US,31.0545,-97.5635,"Texas, US",28995881
-84000049,US,USA,840,00049,,Utah,US,40.15,-111.8624,"Utah, US",3205958
-84000050,US,USA,840,00050,,Vermont,US,44.0459,-72.7107,"Vermont, US",623989
-84000051,US,USA,840,00051,,Virginia,US,37.7693,-78.17,"Virginia, US",8535519
-84000053,US,USA,840,00053,,Washington,US,47.4009,-121.4905,"Washington, US",7614893
-84000054,US,USA,840,00054,,West Virginia,US,38.4912,-80.9545,"West Virginia, US",1792147
-84000055,US,USA,840,00055,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",5822434
-84000056,US,USA,840,00056,,Wyoming,US,42.756,-107.3025,"Wyoming, US",578759
+84000001,US,USA,840,01,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185
+84000002,US,USA,840,02,,Alaska,US,61.3707,-152.4044,"Alaska, US",731545
+84000004,US,USA,840,04,,Arizona,US,33.7298,-111.4312,"Arizona, US",7278717
+84000005,US,USA,840,05,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",3017804
+84000006,US,USA,840,06,,California,US,36.1162,-119.6816,"California, US",39512223
+84000008,US,USA,840,08,,Colorado,US,39.0598,-105.3111,"Colorado, US",5758736
+84000009,US,USA,840,09,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",3565287
+84000010,US,USA,840,10,,Delaware,US,39.3185,-75.5071,"Delaware, US",973764
+84000011,US,USA,840,11,,District of Columbia,US,38.8974,-77.0268,"District of Columbia, US",705749
+84000012,US,USA,840,12,,Florida,US,27.7663,-81.6868,"Florida, US",21477737
+84000013,US,USA,840,13,,Georgia,US,33.0406,-83.6431,"Georgia, US",10617423
+84000015,US,USA,840,15,,Hawaii,US,21.0943,-157.4983,"Hawaii, US",1415872
+84000016,US,USA,840,16,,Idaho,US,44.2405,-114.4788,"Idaho, US",1787065
+84000017,US,USA,840,17,,Illinois,US,40.3495,-88.9861,"Illinois, US",12671821
+84000018,US,USA,840,18,,Indiana,US,39.8494,-86.2583,"Indiana, US",6732219
+84000019,US,USA,840,19,,Iowa,US,42.0115,-93.2105,"Iowa, US",3155070
+84000020,US,USA,840,20,,Kansas,US,38.5266,-96.7265,"Kansas, US",2913314
+84000021,US,USA,840,21,,Kentucky,US,37.6681,-84.6701,"Kentucky, US",4467673
+84000022,US,USA,840,22,,Louisiana,US,31.1695,-91.8678,"Louisiana, US",4648794
+84000023,US,USA,840,23,,Maine,US,44.6939,-69.3819,"Maine, US",1344212
+84000024,US,USA,840,24,,Maryland,US,39.0639,-76.8021,"Maryland, US",6045680
+84000025,US,USA,840,25,,Massachusetts,US,42.2302,-71.5301,"Massachusetts, US",6892503
+84000026,US,USA,840,26,,Michigan,US,43.3266,-84.5361,"Michigan, US",9986857
+84000027,US,USA,840,27,,Minnesota,US,45.6945,-93.9002,"Minnesota, US",5639632
+84000028,US,USA,840,28,,Mississippi,US,32.7416,-89.6787,"Mississippi, US",2976149
+84000029,US,USA,840,29,,Missouri,US,38.4561,-92.2884,"Missouri, US",6137428
+84000030,US,USA,840,30,,Montana,US,46.9219,-110.4544,"Montana, US",1068778
+84000031,US,USA,840,31,,Nebraska,US,41.1254,-98.2681,"Nebraska, US",1934408
+84000032,US,USA,840,32,,Nevada,US,38.3135,-117.0554,"Nevada, US",3080156
+84000033,US,USA,840,33,,New Hampshire,US,43.4525,-71.5639,"New Hampshire, US",1359711
+84000034,US,USA,840,34,,New Jersey,US,40.2989,-74.521,"New Jersey, US",8882190
+84000035,US,USA,840,35,,New Mexico,US,34.8405,-106.2485,"New Mexico, US",2096829
+84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",19453561
+84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",10488084
+84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",762062
+84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",11689100
+84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",3956971
+84000041,US,USA,840,41,,Oregon,US,44.572,-122.0709,"Oregon, US",4217737
+84000042,US,USA,840,42,,Pennsylvania,US,40.5908,-77.2098,"Pennsylvania, US",12801989
+84000044,US,USA,840,44,,Rhode Island,US,41.6809,-71.5118,"Rhode Island, US",1059361
+84000045,US,USA,840,45,,South Carolina,US,33.8569,-80.945,"South Carolina, US",5148714
+84000046,US,USA,840,46,,South Dakota,US,44.2998,-99.4388,"South Dakota, US",884659
+84000047,US,USA,840,47,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",6829174
+84000048,US,USA,840,48,,Texas,US,31.0545,-97.5635,"Texas, US",28995881
+84000049,US,USA,840,49,,Utah,US,40.15,-111.8624,"Utah, US",3205958
+84000050,US,USA,840,50,,Vermont,US,44.0459,-72.7107,"Vermont, US",623989
+84000051,US,USA,840,51,,Virginia,US,37.7693,-78.17,"Virginia, US",8535519
+84000053,US,USA,840,53,,Washington,US,47.4009,-121.4905,"Washington, US",7614893
+84000054,US,USA,840,54,,West Virginia,US,38.4912,-80.9545,"West Virginia, US",1792147
+84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",5822434
+84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",578759
 84070001,US,USA,840,,,Recovered,US,,,"Recovered, US",
 84070002,US,USA,840,,Dukes and Nantucket,Massachusetts,US,41.40674725,-70.68763497,"Dukes and Nantucket, Massachusetts, US",28731
 84070003,US,USA,840,,Kansas City,Missouri,US,39.0997,-94.5786,"Kansas City, Missouri, US",488943

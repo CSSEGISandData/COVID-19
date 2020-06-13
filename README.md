@@ -36,6 +36,11 @@ https://systems.jhu.edu/
   - Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
   - Colorado: https://covid19.colorado.gov/covid-19-data
+  - Virginia: https://www.vdh.virginia.gov/coronavirus/
+  - Northern Mariana Islands: https://chcc.gov.mp/coronavirusinformation.php#gsc.tab=0
+  - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
+  - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
+  - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
@@ -60,6 +65,7 @@ https://systems.jhu.edu/
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
   - Brazil Ministry of Health: https://covid.saude.gov.br/
+  - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
   - Gobierono De Mexico:https://covid19.sinave.gob.mx/
   - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
   - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
@@ -67,7 +73,10 @@ https://systems.jhu.edu/
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
-
+  - India Ministry of Health and Family Welfare: https://www.mohfw.gov.in/
+  - Government of Pakistan: http://covid.gov.pk/stats/pakistan
+  - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
+  - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
