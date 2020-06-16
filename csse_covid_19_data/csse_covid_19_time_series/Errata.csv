@@ -236,3 +236,6 @@
 6/13/2020,time_series_covid19_deaths_US.csv,Michigan,3/12-6/10/20,,,Revision for Michigan historical probables
 6/13/2020,time_series_covid19_confirmed_global.csv,US,3/12-6/10/20,,,Revision for Michigan historical probables
 6/13/2020,time_series_covid19_deaths_global.csv,US,3/12-6/10/20,,,Revision for Michigan historical probables
+6/15/2020,time_series_covid19_confirmed_global.csv,India,6/11-6/14/20,,,Remove time lag from data
+6/15/2020,time_series_covid19_deaths_global.csv,India,6/10-6/14/20,,,Remove time lag from data
+6/15/2020,time_series_covid19_recovered_global.csv,India,6/11-6/14/20,,,Remove time lag from data
