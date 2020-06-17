@@ -41,6 +41,10 @@ https://systems.jhu.edu/
   - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
   - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
   - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
+  - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
+  - Illinois Department of Public Health: https://dph.illinois.gov/covid19
+  - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
+  - Connecticut Deaprtment of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
