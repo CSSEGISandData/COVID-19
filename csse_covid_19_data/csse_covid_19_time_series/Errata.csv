@@ -236,3 +236,27 @@
 6/13/2020,time_series_covid19_deaths_US.csv,Michigan,3/12-6/10/20,,,Revision for Michigan historical probables
 6/13/2020,time_series_covid19_confirmed_global.csv,US,3/12-6/10/20,,,Revision for Michigan historical probables
 6/13/2020,time_series_covid19_deaths_global.csv,US,3/12-6/10/20,,,Revision for Michigan historical probables
+6/15/2020,time_series_covid19_confirmed_global.csv,India,6/11-6/14/20,,,Remove time lag from data
+6/15/2020,time_series_covid19_deaths_global.csv,India,6/10-6/14/20,,,Remove time lag from data
+6/15/2020,time_series_covid19_recovered_global.csv,India,6/11-6/14/20,,,Remove time lag from data
+6/16/2020,time_series_covid19_confirmed_US.csv,Clackamas-Oregon,6/14,455,482,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Columbia-Oregon,6/14,20,22,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Hood River-Oregon,6/14,71,81,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Jackson-Oregon,6/14,78,81,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Jefferson-Oregon,6/14,65,67,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Klamath-Oregon,6/14,48,51,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Lane-Oregon,6/14,85,89,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Lincoln-Oregon,6/14,184,206,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Linn-Oregon,6/14,124,126,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Malheur-Oregon,6/14,33,36,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Marion-Oregon,6/14,1134,1175,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Morrow-Oregon,6/14,13,15,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Multnomah-Oregon,6/14,1440,1519,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Polk-Oregon,6/14,117,124,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Umatilla-Oregon,6/14,157,171,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Union-Oregon,6/14,12,22,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Wasco-Oregon,6/14,38,39,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Washington-Oregon,6/14,849,876,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_deaths_US.csv,Multnomah-Oregon,6/14,67,68,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_deaths_US.csv,Umatilla-Oregon,6/14,3,4,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_deaths_US.csv,Washington-Oregon,6/14,19,20,Delayed update from Oregon Health Authority
