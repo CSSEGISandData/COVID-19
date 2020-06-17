@@ -1,7 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Bristol Bay plus Lake Peninsula,Alaska,US,1,0.0
-Inmates,Federal Bureau of Prisons,US,6234,85.0
-Staff,Federal Bureau of Prisons,US,671,1.0
+Inmates,Federal Bureau of Prisons,US,6245,85.0
+Staff,Federal Bureau of Prisons,US,673,1.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
 Cibola(NM),Navajo Nation,US,37,0.0
@@ -20,12 +20,12 @@ Army,US Military,US,2352,2.0
 Marine Corps,US Military,US,762,0.0
 Navy,US Military,US,3658,12.0
 Unassigned,US Military,US,4434,18.0
-VA Hospitals,Veteran Affair,US,17517,1485.0
+VA Hospitals,Veteran Affair,US,17517,1487.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 International,Colorado,US,15,0.0
 Total,Colorado,US,29442,1617.0
 ,Australia,Australia,7370,102.0
-,,World,8343502,448537.0
+,,World,8347893,448858.0
 ,NACIONAL,Mexico,154863,18310.0
 ,Crimea Republic*,Russia,561,7.0
 ,Sevastopol*,Russia,191,3.0
