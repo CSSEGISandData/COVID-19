@@ -44,7 +44,9 @@ https://systems.jhu.edu/
   - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
   - Illinois Department of Public Health: https://dph.illinois.gov/covid19
   - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
-  - Connecticut Deaprtment of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
+  - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
+  - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
+  - Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
