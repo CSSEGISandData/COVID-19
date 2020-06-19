@@ -1,5 +1,5 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Bristol Bay plus Lake Peninsula,Alaska,US,1,0.0
+Bristol Bay plus Lake Peninsula,Alaska,US,2,0.0
 Inmates,Federal Bureau of Prisons,US,6358,85.0
 Staff,Federal Bureau of Prisons,US,681,1.0
 Apache(AZ),Navajo Nation,US,889,0.0
@@ -25,7 +25,7 @@ International,Colorado,US,15,0.0
 Total,Colorado,US,29901,1638.0
 Total,Oregon,US,6572,188.0
 ,Australia,Australia,7409,102.0
-,,World,8700050,460648.0
+,,World,8732388,461438.0
 ,NACIONAL,Mexico,165455,19747.0
 ,Crimea Republic*,Russia,575,7.0
 ,Sevastopol*,Russia,196,3.0
