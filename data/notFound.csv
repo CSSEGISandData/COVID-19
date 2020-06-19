@@ -1,7 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Bristol Bay plus Lake Peninsula,Alaska,US,1,0.0
-Inmates,Federal Bureau of Prisons,US,6311,85.0
-Staff,Federal Bureau of Prisons,US,675,1.0
+Inmates,Federal Bureau of Prisons,US,6358,85.0
+Staff,Federal Bureau of Prisons,US,681,1.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
 Cibola(NM),Navajo Nation,US,37,0.0
@@ -12,7 +12,7 @@ San Juan(NM),Navajo Nation,US,410,0.0
 San Juan(UT),Navajo Nation,US,57,0.0
 Sandoval(NM),Navajo Nation,US,21,0.0
 Socorro(NM),Navajo Nation,US,26,0.0
-Unassigned,Navajo Nation,US,3360,322.0
+Unassigned,Navajo Nation,US,3360,324.0
 Johnson,North Carolina,US,1,0.0
 Air Force,US Military,US,1400,4.0
 Army,US Military,US,2542,2.0
@@ -25,7 +25,7 @@ International,Colorado,US,15,0.0
 Total,Colorado,US,29901,1638.0
 Total,Oregon,US,6366,187.0
 ,Australia,Australia,7409,102.0
-,,World,8693396,459265.0
+,,World,8694791,459296.0
 ,NACIONAL,Mexico,165455,19747.0
 ,Crimea Republic*,Russia,575,7.0
 ,Sevastopol*,Russia,196,3.0
