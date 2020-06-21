@@ -26,7 +26,7 @@ plotCovidUSCounties <- function(data,state,counties,yLimits=NULL){
   asOfDate <- max(countyData$date)
   ggplot(countyData, aes(date,Confirmed, group = County)) + 
     geom_line(aes(group = County), color = "grey80") +
-    geom_point(aes(color = County)) + scale_x_date(date_breaks = "2 days") +
+    geom_point(aes(color = County)) + scale_x_date(date_breaks = "7 days") +
     easy_rotate_x_labels(angle = 45, side = "right")  +
     scale_y_continuous(limits = yLimits) + 
     labs(x = "Date",
