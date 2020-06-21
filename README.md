@@ -36,6 +36,21 @@ https://systems.jhu.edu/
   - Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
   - Colorado: https://covid19.colorado.gov/covid-19-data
+  - Virginia: https://www.vdh.virginia.gov/coronavirus/
+  - Northern Mariana Islands: https://chcc.gov.mp/coronavirusinformation.php#gsc.tab=0
+  - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
+  - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
+  - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
+  - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
+  - Michigan: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html 
+  - Illinois Department of Public Health: https://dph.illinois.gov/covid19
+  - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
+  - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
+  - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
+  - Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
+  - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
+  - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
+  - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/data.htm
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
@@ -60,11 +75,18 @@ https://systems.jhu.edu/
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
   - Brazil Ministry of Health: https://covid.saude.gov.br/
+  - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
   - Gobierono De Mexico:https://covid19.sinave.gob.mx/
   - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
   - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
   - Colombia: https://antioquia2020-23.maps.arcgis.com/apps/opsdashboard/index.html#/a9194733a8334e27b0eebd7c8f67bd84 and [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx)
-
+  - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
+  - Ukraine: https://covid19.rnbo.gov.ua/
+  - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
+  - India Ministry of Health and Family Welfare: https://www.mohfw.gov.in/
+  - Government of Pakistan: http://covid.gov.pk/stats/pakistan
+  - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
+  - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
@@ -78,8 +100,9 @@ https://systems.jhu.edu/research/public-health/ncov/
 <b>Terms of Use:</b><br>
 
 1. This website and its contents herein, including all data, mapping, and analysis (“Website”), copyright 2020 Johns Hopkins University, all rights reserved, is provided solely for non-profit public health, educational, and academic research purposes. You should not rely on this Website for medical advice or guidance.  
-2. Use of the Website by commercial parties and/or in commerce is strictly prohibited.   Redistribution of the Website or the aggregated data set underlying the Website is strictly prohibited.   
-3. When linking to the website, attribute the Website as the COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University, or the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
-4. The Website relies upon publicly available data from multiple sources that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights. 
-5. Any use of the Johns Hopkins’ names, logos, trademarks, and/or trade dress in a factually inaccurate manner or for marketing, promotional or commercial purposes is strictly prohibited.  
-6. These terms and conditions are subject to change.   Your use of the Website constitutes your acceptance of these terms and conditions and any future modifications thereof.
+2. Use of the Website by commercial parties and/or in commerce is strictly prohibited.   
+3. Redistribution of the Website or the aggregated data set underlying the Website is strictly prohibited.   
+4. When linking to the website, attribute the Website as the COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University, or the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
+5. The Website relies upon publicly available data from multiple sources that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights. 
+6. Any use of the Johns Hopkins’ names, logos, trademarks, and/or trade dress in a factually inaccurate manner or for marketing, promotional or commercial purposes is strictly prohibited.  
+7. These terms and conditions are subject to change.   Your use of the Website constitutes your acceptance of these terms and conditions and any future modifications thereof.
