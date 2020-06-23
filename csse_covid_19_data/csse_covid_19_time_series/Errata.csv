@@ -260,3 +260,9 @@
 6/16/2020,time_series_covid19_deaths_US.csv,Multnomah-Oregon,6/14,67,68,Delayed update from Oregon Health Authority
 6/16/2020,time_series_covid19_deaths_US.csv,Umatilla-Oregon,6/14,3,4,Delayed update from Oregon Health Authority
 6/16/2020,time_series_covid19_deaths_US.csv,Washington-Oregon,6/14,19,20,Delayed update from Oregon Health Authority
+6/19/2020,time_series_covid19_cases_global.csv,Belarus,4/18/20,4779,5297,Historic delay with Belarus reporting (https://news.tut.by/society/681391.html)
+6/19/2020,time_series_covid19_cases_global.csv,Belarus,4/19/20,4779,5807,Historic delay with Belarus reporting (https://news.tut.by/society/681391.html)
+6/20/2020,time_series_covid19_confirmed_US.csv,North Carolina,6/18-6/19,,,Corrections for NC duplication
+6/20/2020,time_series_covid19_confirmed_US.csv,North Carolina,6/18-6/19,,,Corrections for NC duplication
+6/20/2020,time_series_covid19_confirmed_global.csv,US,6/18-6/19,,,Corrections for NC duplication
+6/20/2020,time_series_covid19_deaths_global.csv,US,6/18-6/19,,,Corrections for NC duplication

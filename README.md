@@ -55,6 +55,16 @@ https://systems.jhu.edu/
   - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
   - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
   - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
+  - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
+  - Michigan: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html 
+  - Illinois Department of Public Health: https://dph.illinois.gov/covid19
+  - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
+  - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
+  - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
+  - Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
+  - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
+  - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
+  - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/data.htm
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
@@ -112,9 +122,18 @@ This GitHub repo and its contents herein, including all data, mapping, and analy
 >>>>>>> 394d746365ab4b52e8d1ff4d8968ba4f8b925bb4
 =======
 1. This website and its contents herein, including all data, mapping, and analysis (“Website”), copyright 2020 Johns Hopkins University, all rights reserved, is provided solely for non-profit public health, educational, and academic research purposes. You should not rely on this Website for medical advice or guidance.  
+<<<<<<< HEAD
 2. Use of the Website by commercial parties and/or in commerce is strictly prohibited.   Redistribution of the Website or the aggregated data set underlying the Website is strictly prohibited.   
 3. When linking to the website, attribute the Website as the COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University, or the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
 4. The Website relies upon publicly available data from multiple sources that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights. 
 5. Any use of the Johns Hopkins’ names, logos, trademarks, and/or trade dress in a factually inaccurate manner or for marketing, promotional or commercial purposes is strictly prohibited.  
 6. These terms and conditions are subject to change.   Your use of the Website constitutes your acceptance of these terms and conditions and any future modifications thereof.
 >>>>>>> 3377100d88de45783be0fa2696e787851c8ef27e
+=======
+2. Use of the Website by commercial parties and/or in commerce is strictly prohibited.   
+3. Redistribution of the Website or the aggregated data set underlying the Website is strictly prohibited.   
+4. When linking to the website, attribute the Website as the COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University, or the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
+5. The Website relies upon publicly available data from multiple sources that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights. 
+6. Any use of the Johns Hopkins’ names, logos, trademarks, and/or trade dress in a factually inaccurate manner or for marketing, promotional or commercial purposes is strictly prohibited.  
+7. These terms and conditions are subject to change.   Your use of the Website constitutes your acceptance of these terms and conditions and any future modifications thereof.
+>>>>>>> 8cd357c0c1145480584ea76cdf7144d574e132b6
