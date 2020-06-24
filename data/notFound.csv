@@ -1,5 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Bristol Bay plus Lake Peninsula,Alaska,US,3,0.0
+Yakutat plus Hoonah-Angoon,Alaska,US,1,0.0
 Inmates,Federal Bureau of Prisons,US,6411,87.0
 Staff,Federal Bureau of Prisons,US,692,1.0
 Apache(AZ),Navajo Nation,US,889,0.0
@@ -18,14 +19,14 @@ Army,US Military,US,2803,2.0
 Marine Corps,US Military,US,899,0.0
 Navy,US Military,US,3768,12.0
 Unassigned,US Military,US,5203,18.0
-VA Hospitals,Veteran Affair,US,19517,1550.0
+VA Hospitals,Veteran Affair,US,19568,1550.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 International,Colorado,US,16,0.0
 Total,Colorado,US,30893,1665.0
 Total,Oregon,US,7274,192.0
-Total,Mississippi,US,407,6.0
+Total,Mississippi,US,412,6.0
 ,Australia,Australia,7521,103.0
-,,World,9395027,480627.0
+,,World,9439595,482048.0
 ,NACIONAL,Mexico,191410,23377.0
 ,Crimea Republic*,Russia,623,7.0
 ,Sevastopol*,Russia,215,3.0
