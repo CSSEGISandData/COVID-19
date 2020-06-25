@@ -276,3 +276,7 @@
 6/23/2020,time_series_covid19_confirmed_global.csv,Peru,6/19 and 6/21,,,Corrections for source update delay
 6/23/2020,time_series_covid19_deaths_global.csv,Peru,6/19 and 6/21,,,Corrections for source update delay
 6/23/2020,time_series_covid19_recovered_global.csv,Peru,6/19 and 6/21,,,Corrections for source update delay
+6/24/2020,time_series_covid19_confirmed_US.csv,Oregon,6/20-21,,,Corrections for Oregon weekend update
+6/24/2020,time_series_covid19_confirmed_US.csv,Oregon,6/20-21,,,Corrections for Oregon weekend update
+6/24/2020,time_series_covid19_confirmed_global.csv,US,6/20-21,,,Corrections for Oregon weekend update
+6/24/2020,time_series_covid19_deaths_global.csv,US,6/20-21,,,Corrections for Oregon weekend update
