@@ -58,6 +58,8 @@ https://systems.jhu.edu/
   - Mississippi State Department of Health: https://msdh.ms.gov/msdhsite/_static/14,0,420.html
   - Nebraska Department of Health and Human Services: https://nebraska.maps.arcgis.com/apps/opsdashboard/index.html#/4213f719a45647bc873ffb58783ffef3
   - South Carolina Department of Health and Environmental Control: https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19
+  - Nevada Department of Health and Human Services: https://nvhealthresponse.nv.gov/
+  - New Jersey Department of Health: https://covid19.nj.gov/
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
