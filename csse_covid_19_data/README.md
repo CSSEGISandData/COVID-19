@@ -117,6 +117,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * June 16th, delay in reporting from Oregon Health Authority resulted in time series for confirmed and deaths not updating for June 14th. Updated via data from this [report](https://www.oregon.gov/oha/ERD/Pages/Oregon-reports-101-new-confirmed-presumptive-COVID-19-cases-2-new-deaths.aspx). Recovered data was not available for this date.
 * June 19th, cases data for Belarus on April 18th and 19th were adjusted. Initial error was due to a [delay] (https://news.tut.by/society/681391.html) in reporting by the Belarusian health authorities that wasn't properly distributed.
 * Not a data modification, but we wish to draw attention to [issue #2722](https://github.com/CSSEGISandData/COVID-19/issues/2722) that explains the recent spike in cases in Chile.
+* June 25, NJ began reporting probable deaths today and the record for the 25th reflects these 1854 deaths not previously reported.  Additional information can be found in the [transcript](https://nj.gov/governor/news/news/562020/approved/20200625a.shtml) of the state's June 25th coronavirus briefing.
 
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
