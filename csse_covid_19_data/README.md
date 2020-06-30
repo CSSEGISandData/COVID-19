@@ -125,6 +125,9 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * June 25, NJ began reporting probable deaths today and the record for the 25th reflects these 1854 deaths not previously reported.  Additional information can be found in the [transcript](https://nj.gov/governor/news/news/562020/approved/20200625a.shtml) of the state's June 25th coronavirus briefing.
 * June 27, internal audit identified issue with calculation of probable cases in nursing homes for France. The French Health Ministry ended public reporting of this number on June 1st - we have since carried that number of probable cases forward.
 
+## Retrospective reporting of (probable) cases and deaths
+This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
+
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
 
