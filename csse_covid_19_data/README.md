@@ -131,6 +131,7 @@ This section reports instances where large numbers of historical cases or deaths
 * As reported in [Issue #2763](https://github.com/CSSEGISandData/COVID-19/issues/2763), the state of New Jersey released probable deaths on June 25th. We are actively engaged with stakeholders to determine how to distribute these deaths over time.
 * As reported in [Issue #2789](https://github.com/CSSEGISandData/COVID-19/issues/2789), the state of Delaware released some probable deaths and identified historical confirmed deaths on June 23rd. We are actively engaged with stakeholders to determine how to distribute these deaths over time.
 * As reported in [Issue #2722](https://github.com/CSSEGISandData/COVID-19/issues/2722), the country of Chile released 31k cases that had previously been absent from their national counts. We are monitoring their data source to see any retrospective corrections to this data.
+* New York City began reporting probable deaths on April 23rd ([source](https://www.nbcnews.com/health/health-news/live-blog/2020-04-23-coronavirus-news-n1190201/ncrd1190406#blogHeader)). The large number of cases were back distributed to March 12th (see errata.csv line 104)
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
 
