@@ -17,6 +17,9 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b><br>
 https://systems.jhu.edu/
 <br><br>
+<b>Event Streaming Information to subscribe for updates:</b><br>
+https://github.com/SolaceLabs/jhu-covid19-stream-processors
+<br><br>
 <b>Data Sources:</b><br>
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
