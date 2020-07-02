@@ -128,12 +128,16 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
+* April 12th, The spike in France confirmed cases on April 12 is due to the new inclusion of "cas possibles en ESMS" (probable cases from ESMS), which are counted into confirmed cases in our dashboard. ([More details](https://github.com/CSSEGISandData/COVID-19/issues/2094))
 * April 23rd, New York City began reporting probable deaths ([source](https://www.nbcnews.com/health/health-news/live-blog/2020-04-23-coronavirus-news-n1190201/ncrd1190406#blogHeader)). The large number of deaths were back distributed to March 12th (see errata.csv line 104).
 * April 24th, Colorado began reporting probable deaths. THis resulting in a spike of 121 probable deaths on that day ([source](https://www.denverpost.com/2020/04/24/covid-coronavirus-colorado-new-cases-deaths-april-24/)).
 * June 5th, as reported in [Issue #2704](https://github.com/CSSEGISandData/COVID-19/issues/2704), the state of Michigan released probable cases and probable deaths. The probable cases and deaths have been distributed over March 12th and June 10th as advised by the Michigan Department of Health and Human Services.
 * June 17th, as reported in [Issue #2722](https://github.com/CSSEGISandData/COVID-19/issues/2722), the country of Chile released 31k cases that had previously been absent from their national counts. We are monitoring their data source to see any retrospective corrections to this data.
+* June 22nd, The spike in cases (and deaths) in Mississippi on June 22 is due to a lack of reporting by the state for the four days prior due to a reported technical issue (https://msdh.ms.gov/msdhsite/_static/resources/8675.pdf).
 * June 23rd, as reported in [Issue #2789](https://github.com/CSSEGISandData/COVID-19/issues/2789), the state of Delaware released some probable deaths and identified historical confirmed deaths. We are actively engaged with stakeholders to determine how to distribute these deaths over time.
 * June 25th, as reported in [Issue #2763](https://github.com/CSSEGISandData/COVID-19/issues/2763), the state of New Jersey released probable deaths. We are actively engaged with stakeholders to determine how to distribute these deaths over time.
+* July 1, the count of New Yorkers who have died of COVID-19 increased by 692 on June 30. ([NYC gov](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)) On July 1 we distributed these data back to the time series tables according to [nychealth GitHub](https://github.com/nychealth/coronavirus-data/blob/master/deaths/probable-confirmed-dod.csv).
+
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
 
