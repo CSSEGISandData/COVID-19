@@ -313,6 +313,6 @@
 7/3/2020,time_series_covid19_confirmed_global.csv,Kazakhstan,7/1/2020,,,Correction to confirmed cases
 7/3/2020,time_series_covid19_confirmed_global.csv,United Kingdom,2/3-7/2/2020,,,Correction according to the official reports
 7/3/2020,time_series_covid19_confirmed_US.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
-7/2/2020,time_series_covid19_deaths_US.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
-7/2/2020,time_series_covid19_confirmed_global.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
-7/2/2020,time_series_covid19_deaths_global.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
+7/3/2020,time_series_covid19_deaths_US.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
+7/3/2020,time_series_covid19_confirmed_global.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
+7/3/2020,time_series_covid19_deaths_global.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
