@@ -1,32 +1,30 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Bristol Bay plus Lake Peninsula,Alaska,US,4,0
-Yakutat plus Hoonah-Angoon,Alaska,US,0,0
-Inmates,Federal Bureau of Prisons,US,7163,94
-Staff,Federal Bureau of Prisons,US,762,1
-Apache(AZ),Navajo Nation,US,889,0
-Bernalillo(NM),Navajo Nation,US,3,0
-Cibola(NM),Navajo Nation,US,37,0
-Coconino(AZ),Navajo Nation,US,335,0
-McKinley(NM),Navajo Nation,US,912,0
-Navajo(AZ),Navajo Nation,US,697,0
-San Juan(NM),Navajo Nation,US,410,0
-San Juan(UT),Navajo Nation,US,57,0
-Sandoval(NM),Navajo Nation,US,21,0
-Socorro(NM),Navajo Nation,US,26,0
-Unassigned,Navajo Nation,US,4453,378
-Air Force,US Military,US,2300,5
-Army,US Military,US,4770,2
-Marine Corps,US Military,US,1487,0
-Navy,US Military,US,4850,13
-Unassigned,US Military,US,8086,20
-VA Hospitals,Veteran Affair,US,24842,1693
-Unassigned,Wuhan Evacuee,US,4,0
-International,Colorado,US,17,0
-Total,Colorado,US,34065,1701
-County,Oregon,US,Cases1,Total deaths
-Total,Oregon,US,10230,215
-,Australia,Australia,8586,106
-,,World,11664244,538656.0
+Bristol Bay plus Lake Peninsula,Alaska,US,4,0.0
+Yakutat plus Hoonah-Angoon,Alaska,US,0,0.0
+Inmates,Federal Bureau of Prisons,US,7223,94.0
+Staff,Federal Bureau of Prisons,US,764,1.0
+Apache(AZ),Navajo Nation,US,889,0.0
+Bernalillo(NM),Navajo Nation,US,3,0.0
+Cibola(NM),Navajo Nation,US,37,0.0
+Coconino(AZ),Navajo Nation,US,335,0.0
+McKinley(NM),Navajo Nation,US,912,0.0
+Navajo(AZ),Navajo Nation,US,697,0.0
+San Juan(NM),Navajo Nation,US,410,0.0
+San Juan(UT),Navajo Nation,US,57,0.0
+Sandoval(NM),Navajo Nation,US,21,0.0
+Socorro(NM),Navajo Nation,US,26,0.0
+Unassigned,Navajo Nation,US,4453,378.0
+Air Force,US Military,US,2300,5.0
+Army,US Military,US,4770,2.0
+Marine Corps,US Military,US,1487,0.0
+Navy,US Military,US,4850,13.0
+Unassigned,US Military,US,8086,20.0
+VA Hospitals,Veteran Affair,US,24942,1693.0
+Unassigned,Wuhan Evacuee,US,4,0.0
+International,Colorado,US,17,0.0
+Total,Colorado,US,34257,1691.0
+,Australia,Australia,8586,106.0
+,,World,11703199,539516.0
 ,NACIONAL,Mexico,256848,30639.0
 ,Desconocida,Chile,0,0.0
 ,Crimea Republic*,Russia,761,11.0
