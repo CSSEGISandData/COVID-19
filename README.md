@@ -37,7 +37,7 @@ https://systems.jhu.edu/
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
   - Colorado: https://covid19.colorado.gov/covid-19-data
   - Virginia: https://www.vdh.virginia.gov/coronavirus/
-  - Northern Mariana Islands: https://chcc.gov.mp/coronavirusinformation.php#gsc.tab=0
+  - Northern Mariana Islands CNMI Department of Public Health: https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5
   - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
   - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
   - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
@@ -47,7 +47,7 @@ https://systems.jhu.edu/
   - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
   - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
   - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
-  - Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
+  - Oregon Health Authority: https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de
   - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
   - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
   - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/data.htm
