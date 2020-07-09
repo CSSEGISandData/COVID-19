@@ -61,7 +61,7 @@ https://systems.jhu.edu/
   - Nevada Department of Health and Human Services: https://nvhealthresponse.nv.gov/
   - New Jersey Department of Health: https://covid19.nj.gov/
   - Delaware Emergency Management Agency: https://coronavirus.delaware.gov/
-  - Utah Department Of Health: https://coronavirus-dashboard.utah.gov/#overview
+  - Utah Department of Health: https://coronavirus-dashboard.utah.gov/#overview
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
