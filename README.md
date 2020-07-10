@@ -60,6 +60,8 @@ https://systems.jhu.edu/
   - South Carolina Department of Health and Environmental Control: https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19
   - Nevada Department of Health and Human Services: https://nvhealthresponse.nv.gov/
   - New Jersey Department of Health: https://covid19.nj.gov/
+  - Delaware Emergency Management Agency: https://coronavirus.delaware.gov/
+  - Utah Department of Health: https://coronavirus-dashboard.utah.gov/#overview
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
