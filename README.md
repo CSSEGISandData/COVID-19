@@ -9,7 +9,7 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 <br><br>
 <b>Visual Dashboard (mobile):</b><br>
-http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
+https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 <br><br>
 <b>Lancet Article:</b><br>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
@@ -20,7 +20,7 @@ https://systems.jhu.edu/
 <b>Data Sources:</b><br>
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
-  - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
+  - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
   - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
   - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
@@ -42,12 +42,12 @@ https://systems.jhu.edu/
   - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
   - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
   - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
-  - Michigan: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html 
+  - Michigan: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html
   - Illinois Department of Public Health: https://dph.illinois.gov/covid19
   - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
   - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
   - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
-  - Oregon Health Authority: https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de
+  - Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
   - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
   - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
   - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/data.htm
@@ -83,7 +83,7 @@ https://systems.jhu.edu/
   - Ministry of Health, Republic of Kosovo: https://kosova.health/ and https://covidks.s3.amazonaws.com/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
-  - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
+  - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/
   - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
   - Brazil Ministry of Health: https://covid.saude.gov.br/
   - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
@@ -95,7 +95,7 @@ https://systems.jhu.edu/
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
   - India Ministry of Health and Family Welfare: https://www.mohfw.gov.in/
-  - Government of Pakistan: http://covid.gov.pk/stats/pakistan
+  - Government of Pakistan: https://covid.gov.pk/stats/pakistan
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
 
@@ -114,6 +114,6 @@ https://systems.jhu.edu/research/public-health/ncov/
 2. Use of the Website by commercial parties and/or in commerce is strictly prohibited.   
 3. Redistribution of the Website or the aggregated data set underlying the Website is strictly prohibited.   
 4. When linking to the website, attribute the Website as the COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University, or the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
-5. The Website relies upon publicly available data from multiple sources that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights. 
+5. The Website relies upon publicly available data from multiple sources that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights.
 6. Any use of the Johns Hopkins’ names, logos, trademarks, and/or trade dress in a factually inaccurate manner or for marketing, promotional or commercial purposes is strictly prohibited.  
 7. These terms and conditions are subject to change.   Your use of the Website constitutes your acceptance of these terms and conditions and any future modifications thereof.
