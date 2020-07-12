@@ -1,5 +1,5 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,8091,94.0
+Inmates,Federal Bureau of Prisons,US,8172,94.0
 Staff,Federal Bureau of Prisons,US,858,1.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
@@ -22,7 +22,7 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 International,Colorado,US,18,0.0
 Total,Colorado,US,36591,1725.0
 ,Australia,Australia,9797,108.0
-,,World,12971792,569693.0
+,,World,12982240,570013.0
 ,NACIONAL,Mexico,295268,34730.0
 ,Crimea Republic*,Russia,855,12.0
 ,Sevastopol*,Russia,271,5.0
