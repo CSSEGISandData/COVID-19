@@ -47,7 +47,7 @@ https://systems.jhu.edu/
   - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
   - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
   - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
-  - Oregon Health Authority: https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de
+  - Oregon Office of Emergency Management: https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de
   - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
   - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
   - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/data.htm
@@ -56,7 +56,7 @@ https://systems.jhu.edu/
   - Minnesota Department of Health: https://www.health.state.mn.us/diseases/coronavirus/situation.html
   - Alabama Samford University's Department of Geography and Sociology: https://experience.arcgis.com/experience/e03f87e48a234feebbad27d0ee7ff824
   - Mississippi State Department of Health: https://msdh.ms.gov/msdhsite/_static/14,0,420.html
-  - Nebraska Department of Health and Human Services: https://nebraska.maps.arcgis.com/apps/opsdashboard/index.html#/4213f719a45647bc873ffb58783ffef3
+  - Nebraska Department of Health and Human Services: https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd
   - South Carolina Department of Health and Environmental Control: https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19
   - Nevada Department of Health and Human Services: https://nvhealthresponse.nv.gov/
   - New Jersey Department of Health: https://covid19.nj.gov/
