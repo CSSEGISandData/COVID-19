@@ -106,13 +106,6 @@ Joplin,Missouri,US,Jasper,Missouri,US,37.20351921,-94.34050458,,,,,29097
 Kansas City,Missouri,US,Kansas City,Missouri,US,39.0997,-94.5786,,,,,
 TBD,Missouri,US,Unassigned,Missouri,US,,,,,,,90029
 Box,Nebraska,US,Box Butte,Nebraska,US,42.22079243,-103.0878834,,,,,31013
-Berknap,New Hampshire,US,Belknap,New Hampshire,US,43.51637314,-71.41684235,,,,,33001
-Hillsborough-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
-Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
-Hillsborough-Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
-Hillsborough-Other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
-Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Dona Ana,New Mexico,US,Dona Ana,New Mexico,US,32.35275771,-106.8329387,,,,,35013
 Alexander,South Carolina,US,Alexander,North Carolina,US,35.9223796,-81.17751948,,,,,37003
 Stanley,North Carolina,US,Gaston,North Carolina,US,35.29373559,-81.17477045,,,,,37071
@@ -154,7 +147,6 @@ Residents Diagnosed Outside of HI,Hawaii,US,Out of HI,Hawaii,US,,,,,,,80015
 Mcclain,Oklahoma,US,McClain,Oklahoma,US,35.01123903,-97.44572302,,,,,40087
 Mccurtain,Oklahoma,US,McCurtain,Oklahoma,US,34.11664328,-94.77222373,,,,,40089
 Mcintosh,Oklahoma,US,McIntosh,Oklahoma,US,35.37235506,-95.66599306,,,,,40091
-Countytba,New Hampshire,US,Unassigned,New Hampshire,US,,,,,,,90033
 Data not available,Maryland,US,Unassigned,Maryland,US,,,,,,,90024
 Out of state,Illinois,US,Out of IL,Illinois,US,,,,,,,80017
 Mcpherson,Nebraska,US,McPherson,Nebraska,US,41.56797682,-101.0599362,,,,,31117
@@ -444,5 +436,15 @@ Walla Walla,Washington,US,Walla Walla,Washington,US,,,,,,,
 Whatcom,Washington,US,Whatcom,Washington,US,,,,,,,
 Whitman,Washington,US,Whitman,Washington,US,,,,,,,
 Yakima,Washington,US,Yakima,Washington,US,,,,,,,
-Unassigned,New Hampshire,US,Unassigned,New Hampshire,US,,,,,,,
+Belknap,New Hampshire,US,Belknap,New Hampshire,US,,,90,,,,
+Carroll,New Hampshire,US,Carroll,New Hampshire,US,,,67,,,,
+Cheshire,New Hampshire,US,Cheshire,New Hampshire,US,,,76,,,,
+Coos,New Hampshire,US,Coos,New Hampshire,US,,,11,,,,
+Grafton,New Hampshire,US,Grafton,New Hampshire,US,,,91,,,,
+Hillsborough,New Hampshire,US,Hillsborough,New Hampshire,US,,,3427,,,,
+Merrimack,New Hampshire,US,Merrimack,New Hampshire,US,,,427,,,,
+Rockingham,New Hampshire,US,Rockingham,New Hampshire,US,,,1523,,,,
+Strafford,New Hampshire,US,Strafford,New Hampshire,US,,,301,,,,
+Sullivan,New Hampshire,US,Sullivan,New Hampshire,US,,,35,,,,
+Unassigned,New Hampshire,US,Unassigned,New Hampshire,US,,,6,,,,
 ,,Kazakhstan,,,Kazakhstan,,,,,,,
