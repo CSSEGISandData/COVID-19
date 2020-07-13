@@ -143,6 +143,19 @@ This section reports instances where large numbers of historical cases or deaths
 * July 1, the count of New Yorkers who have died of COVID-19 increased by 692 on June 30. ([NYC gov](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)) On July 1 we distributed these data back to the time series tables according to [nychealth GitHub](https://github.com/nychealth/coronavirus-data/blob/master/deaths/probable-confirmed-dod.csv).
 * July 7th, incorporation of probable cases and deaths that are being released by the Illinois Department of Health once per week, starting July 3rd. We anticipate weekly spikes in both of these numbers.
 
+## Irregular Update Schedules
+As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
+
+United States
+* Rhode Island: Not updating case, death, or recovered data on the weekends
+* Conneticut: Not updating case, death, or recovered data on the weekends
+* Illinois: Releasing probable cases once per week.
+
+International
+* Sweden: Not updating case, death, or recovered data on the weekends
+* Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
+* Nicaragua: Releasing case, death, and recovered data once per week.
+
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
 
