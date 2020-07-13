@@ -150,6 +150,7 @@ United States
 * Rhode Island: Not updating case, death, or recovered data on the weekends
 * Conneticut: Not updating case, death, or recovered data on the weekends
 * Illinois: Releasing probable cases once per week.
+
 International
 * Sweden: Not updating case, death, or recovered data on the weekends
 * Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
