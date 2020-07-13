@@ -16,12 +16,32 @@ new$Date <- as.POSIXct(new$Date)
 class(new$Date)
 
 #Deaths per day in U.S.
-complete <- new[complete.cases(new),] 
-complete <- complete[which(complete$Province_State != "Recovered"),] 
-aggregate(complete$Deaths, list(complete$Date), sum) %>%
+
+complete <- new[which(new$Province_State != "Recovered"),]
+
+complete <- aggregate(complete$Deaths, list(complete$Date), sum) 
 ggplot() +
   geom_line(aes(as.POSIXct(Group.1),x)) +
   geom_smooth(aes(as.POSIXct(Group.1),x))
+
+#Deths per day by Region
+complete <- new[which(new$Province_State != "Recovered"),]
+data(state)
+state.name[51] <- "District of Columbia"
+state.region[51] <- "Northeast"
+complete$Country_Region<- sapply(complete$Province_State, function(x) state.region[which(state.name==x)])
+complete$Country_Region <- factor(complete$Country_Region, levels = c(1:4), labels = c("Northeast", "South", "Midwest", "West"))
+complete_region <- data.frame(aggregate(complete$Deaths, list(complete$Date, complete$Country_Region), sum))
+names(complete_region) <- c("Date", "Region", "Deaths")
+complete_region$Region <- as.character(complete_region$Region)
+complete_region$Population[1:80] <- 55982803
+complete_region$Population[81:160] <- 125580448
+complete_region$Population[161:240] <- 68329004
+complete_region$Population[241:320] <- 78347268
+
+ggplot(complete_region) +
+  geom_line(aes(Date,Deaths/Population*1000, col = Region)) +
+  geom_smooth(aes(Date,Deaths/Population*1000, col = Region), method = "loess")
 
 #Pie chart of deaths per state (top 10) so far
 bar <- aggregate(complete$Deaths, list(complete$Province_State), sum)
