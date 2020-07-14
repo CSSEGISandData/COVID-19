@@ -140,7 +140,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,896444
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,5540718
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,65273512
-254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
+254,GF,GUF,254,,,French Guiana,France,3.9339,-53.1258,"French Guiana, France",298682
 258,PF,PYF,258,,,French Polynesia,France,-17.6797,149.4068,"French Polynesia, France",280904
 312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
 474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",375265
