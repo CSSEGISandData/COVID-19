@@ -51,3 +51,21 @@ plotCovidRecoveriesUSCounties <- function(data,state,counties,yLimits=NULL){
          y = "Confirmed Cases", 
          title = paste("COVID-19 Recoveries for Selected Counties in",state,"USA as of",asOfDate) )
 }
+
+plotCovidFatalityRateUSCounties <- function(data,state,counties,yLimits=NULL){
+  require(ggplot2)
+  require(ggeasy)
+  require(lubridate)
+  countyData <- data[data$Admin2 %in% counties & data$Province_State == state & data$date > "06-01-2020",]
+  colnames(countyData) <- sub("Admin2","County",colnames(countyData))
+  countyData$date <- mdy(countyData$date)
+  asOfDate <- max(countyData$date)
+  ggplot(countyData, aes(date,Case_Fatality_Ratio, group = County)) + 
+    geom_line(aes(group = County), color = "grey80") +
+    geom_point(aes(color = County)) + scale_x_date(date_breaks = "2 days") +
+    easy_rotate_x_labels(angle = 45, side = "right")  +
+    scale_y_continuous(limits = yLimits) + 
+    labs(x = "Date",
+         y = "Fatalities per 100,000 Confirmed Cases", 
+         title = paste("COVID-19 Fatality Rates for Selected Counties in",state,"USA as of",asOfDate) )
+}
