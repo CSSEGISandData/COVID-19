@@ -125,7 +125,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,5792203
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",48865
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",56772
-9999,,,,,,,Diamond Princess,0,0,Diamond Princess,
+9999,,,,,,,Diamond Princess,,,Diamond Princess,
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,988002
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,71991
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,10847904
@@ -362,7 +362,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 499,ME,MNE,499,,,,Montenegro,42.708678,19.37439,Montenegro,628062
 504,MA,MAR,504,,,,Morocco,31.7917,-7.0926,Morocco,36910558
 508,MZ,MOZ,508,,,,Mozambique,-18.665695,35.529562,Mozambique,31255435
-8888,,,,,,,MS Zaandam,0,0,MS Zaandam,
+8888,,,,,,,MS Zaandam,,,MS Zaandam,
 516,NA,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2540916
 524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,29136808
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,17134873
@@ -374,6 +374,44 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,6624554
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,24206636
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,206139587
+56601,NG,NGA,566,,,Abia,Nigeria,5.4527,7.5248,"Abia, Nigeria",3727347
+56602,NG,NGA,566,,,Adamawa,Nigeria,9.3265,12.3984,"Adamawa, Nigeria",4248436
+56603,NG,NGA,566,,,Akwa Ibom,Nigeria,4.9057,7.8537,"Akwa Ibom, Nigeria",5482177
+56604,NG,NGA,566,,,Anambra,Nigeria,6.2209,6.937,"Anambra, Nigeria",5527809
+56605,NG,NGA,566,,,Bauchi,Nigeria,10.7761,9.9992,"Bauchi, Nigeria",6537314
+56606,NG,NGA,566,,,Bayelsa,Nigeria,4.7719,6.0699,"Bayelsa, Nigeria",2277961
+56607,NG,NGA,566,,,Benue,Nigeria,7.3369,8.7404,"Benue, Nigeria",5741815
+56608,NG,NGA,566,,,Borno,Nigeria,11.8846,13.152,"Borno, Nigeria",5860183
+56609,NG,NGA,566,,,Cross River,Nigeria,5.8702,8.5988,"Cross River, Nigeria",3866269
+56610,NG,NGA,566,,,Delta,Nigeria,5.704,5.9339,"Delta, Nigeria",5663362
+56611,NG,NGA,566,,,Ebonyi,Nigeria,6.2649,8.0137,"Ebonyi, Nigeria",2880383
+56612,NG,NGA,566,,,Edo,Nigeria,6.6342,5.9304,"Edo, Nigeria",4235595
+56613,NG,NGA,566,,,Ekiti,Nigeria,7.719,5.311,"Ekiti, Nigeria",3270798
+56614,NG,NGA,566,,,Enugu,Nigeria,6.5364,7.4356,"Enugu, Nigeria",4411119
+56615,NG,NGA,566,,,Federal Capital Territory,Nigeria,8.8941,7.186,"Federal Capital Territory, Nigeria",3564126
+56616,NG,NGA,566,,,Gombe,Nigeria,10.3638,11.1928,"Gombe, Nigeria",3256962
+56617,NG,NGA,566,,,Imo,Nigeria,5.572,7.0588,"Imo, Nigeria",5408756
+56618,NG,NGA,566,,,Jigawa,Nigeria,12.228,9.5616,"Jigawa, Nigeria",5828163
+56619,NG,NGA,566,,,Kaduna,Nigeria,10.3764,7.7095,"Kaduna, Nigeria",8252366
+56620,NG,NGA,566,,,Kano,Nigeria,11.7471,8.5247,"Kano, Nigeria",13076892
+56621,NG,NGA,566,,,Katsina,Nigeria,12.3797,7.6306,"Katsina, Nigeria",7831319
+56622,NG,NGA,566,,,Kebbi,Nigeria,11.4942,4.2333,"Kebbi, Nigeria",4440050
+56623,NG,NGA,566,,,Kogi,Nigeria,7.7337,6.6906,"Kogi, Nigeria",4473490
+56624,NG,NGA,566,,,Kwara,Nigeria,8.9669,4.3874,"Kwara, Nigeria",3192893
+56625,NG,NGA,566,,,Lagos,Nigeria,6.5236,3.6006,"Lagos, Nigeria",12550598
+56626,NG,NGA,566,,,Nasarawa,Nigeria,8.4998,8.1997,"Nasarawa, Nigeria",2523395
+56627,NG,NGA,566,,,Niger,Nigeria,9.9309,5.5983,"Niger, Nigeria",5556247
+56628,NG,NGA,566,,,Ogun,Nigeria,6.998,3.4737,"Ogun, Nigeria",5217716
+56629,NG,NGA,566,,,Ondo,Nigeria,6.9149,5.1478,"Ondo, Nigeria",4671695
+56630,NG,NGA,566,,,Osun,Nigeria,7.5629,4.52,"Osun, Nigeria",4705589
+56631,NG,NGA,566,,,Oyo,Nigeria,8.1574,3.6147,"Oyo, Nigeria",7840864
+56632,NG,NGA,566,,,Plateau,Nigeria,9.2182,9.5179,"Plateau, Nigeria",4200442
+56633,NG,NGA,566,,,Rivers,Nigeria,4.8396,6.9112,"Rivers, Nigeria",7303924
+56634,NG,NGA,566,,,Sokoto,Nigeria,13.0533,5.3223,"Sokoto, Nigeria",4998090
+56635,NG,NGA,566,,,Taraba,Nigeria,7.9994,10.774,"Taraba, Nigeria",3066834
+56636,NG,NGA,566,,,Yobe,Nigeria,12.2939,11.439,"Yobe, Nigeria",3294137
+56637,NG,NGA,566,,,Zamfara,Nigeria,12.1222,6.2236,"Zamfara, Nigeria",4515427
+56638,NG,NGA,566,,,Unknown,Nigeria,,,"Unknown, Nigeria",
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2083380
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
