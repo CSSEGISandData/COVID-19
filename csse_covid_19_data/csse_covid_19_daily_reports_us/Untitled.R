@@ -24,7 +24,7 @@ ggplot() +
   geom_line(aes(as.POSIXct(Group.1),x)) +
   geom_smooth(aes(as.POSIXct(Group.1),x))
 
-#Deths per day by Region
+#Deths per day by region
 complete <- new[which(new$Province_State != "Recovered"),]
 data(state)
 state.name[51] <- "District of Columbia"
@@ -42,6 +42,15 @@ complete_region$Population[241:320] <- 78347268
 ggplot(complete_region) +
   geom_line(aes(Date,Deaths/Population*1000, col = Region)) +
   geom_smooth(aes(Date,Deaths/Population*1000, col = Region), method = "loess")
+
+#Incidence rate by region
+aggregate(complete$Incident_Rate, list(complete$Date, complete$Country_Region), sum) %>%
+  ggplot() +
+  geom_line(aes(Group.1, x, col = Group.2)) +
+  geom_smooth(aes(Group.1, x, col = Group.2))
+
+ggplot(complete, aes(x=date)) + 
+  geom_area(aes(y=psavert+uempmed, fill="psavert"))
 
 #Pie chart of deaths per state (top 10) so far
 bar <- aggregate(complete$Deaths, list(complete$Province_State), sum)
@@ -68,6 +77,8 @@ ggplot(bar,(aes(fill=State))) +
   scale_y_continuous(
     breaks=ybreaks,  
     labels=bar$State) 
+
+
   
       
 
