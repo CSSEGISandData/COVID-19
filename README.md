@@ -64,6 +64,8 @@ https://systems.jhu.edu/
   - Utah Department of Health: https://coronavirus-dashboard.utah.gov/#overview
   - Arizona Emergency Support Function (ESF)/Recovery Support Function (RSF) Operations Dashboard: https://tableau.azdhs.gov/views/COVID-19Summary/Overview2
   - Departamento de Salud, Puerto Rico: https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/d7308c1abb4747e584329adf1215125e
+  - Arkansas Department of Health: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
+  - Maine Department of Health and Human Services: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
