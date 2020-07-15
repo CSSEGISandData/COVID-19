@@ -140,7 +140,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,896444
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,5540718
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,65273512
-254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
+254,GF,GUF,254,,,French Guiana,France,3.9339,-53.1258,"French Guiana, France",298682
 258,PF,PYF,258,,,French Polynesia,France,-17.6797,149.4068,"French Polynesia, France",280904
 312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
 474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",375265
@@ -740,6 +740,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",55144
 850,VI,VIR,850,78,,Virgin Islands,US,18.3358,-64.8963,"Virgin Islands, US",107268
 630,PR,PRI,630,72,,Puerto Rico,US,18.2208,-66.5901,"Puerto Rico, US",2933408
+63001,PR,PRI,630,,Arecibo,Puerto Rico,US,18.4442,-66.6464,"Arecibo, Puerto Rico, US",96374
+63002,PR,PRI,630,,Bayamon,Puerto Rico,US,18.3894,-66.1653,"Bayamon, Puerto Rico, US",207960
+63003,PR,PRI,630,,Caguas,Puerto Rico,US,18.2388,-66.0352,"Caguas, Puerto Rico, US",132164
+63004,PR,PRI,630,,Fajardo,Puerto Rico,US,18.3258,-65.6524,"Fajardo, Puerto Rico, US",36499
+63005,PR,PRI,630,,Mayaguez,Puerto Rico,US,18.2013,-67.1452,"Mayaguez, Puerto Rico, US",89028
+63006,PR,PRI,630,,Metro,Puerto Rico,US,18.4255,-66.0632,"Metro, Puerto Rico, US",2617089
+63007,PR,PRI,630,,Ponce,Puerto Rico,US,18.0111,-66.6141,"Ponce, Puerto Rico, US",145278
+63008,PR,PRI,630,,Out of PR,Puerto Rico,US,,,"Out of PR, Puerto Rico, US",
+63009,PR,PRI,630,,Unassigned,Puerto Rico,US,,,"Unassigned, Puerto Rico, US",
 84088888,US,USA,840,88888,,Diamond Princess,US,,,"Diamond Princess, US",
 84099999,US,USA,840,99999,,Grand Princess,US,,,"Grand Princess, US",
 84000001,US,USA,840,01,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185

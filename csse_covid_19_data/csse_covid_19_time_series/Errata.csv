@@ -325,3 +325,9 @@
 7/8/2020,time_series_covid19_deaths_global.csv,Japan,2/13-5/27/2020,,,Update according to covid19japan
 7/9/2020,time_series_covid19_recovered_global.csv,Kazakhstan,7/8/2020,,,Update for Kazakhstan source
 7/9/2020,time_series_covid19_recovered_global.csv,US,7/8/2020,,,Update to Delaware
+7/14/2020,time_series_covid19_confirmed_US.csv,Washington,7/13/2020,,,Update from Washington DOH reporting
+7/14/2020,time_series_covid19_confirmed_global.csv,US,7/13/2020,,,Update from Washington DOH reporting
+7/14/2020,time_series_covid19_deaths_US.csv,Washington,7/13/2020,,,Update from Washington DOH reporting
+7/14/2020,time_series_covid19_deaths_global.csv,US,7/13/2020,,,Update from Washington DOH reporting
+7/14/2020,time_series_covid19_confirmed_global.csv,US,6/2/2020,170039,178165,Update from Peru MDS
+7/14/2020,time_series_covid19_deaths_global.csv,US,6/2/2020,4634,4767,Update from Peru MDS

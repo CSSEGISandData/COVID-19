@@ -62,6 +62,8 @@ https://systems.jhu.edu/
   - New Jersey Department of Health: https://covid19.nj.gov/
   - Delaware Emergency Management Agency: https://coronavirus.delaware.gov/
   - Utah Department of Health: https://coronavirus-dashboard.utah.gov/#overview
+  - Arizona Emergency Support Function (ESF)/Recovery Support Function (RSF) Operations Dashboard: https://tableau.azdhs.gov/views/COVID-19Summary/Overview2
+  - Departamento de Salud, Puerto Rico: https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/d7308c1abb4747e584329adf1215125e
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
