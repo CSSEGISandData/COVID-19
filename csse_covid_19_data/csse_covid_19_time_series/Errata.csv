@@ -329,5 +329,13 @@
 7/14/2020,time_series_covid19_confirmed_global.csv,US,7/13/2020,,,Update from Washington DOH reporting
 7/14/2020,time_series_covid19_deaths_US.csv,Washington,7/13/2020,,,Update from Washington DOH reporting
 7/14/2020,time_series_covid19_deaths_global.csv,US,7/13/2020,,,Update from Washington DOH reporting
-7/14/2020,time_series_covid19_confirmed_global.csv,US,6/2/2020,170039,178165,Update from Peru MDS
-7/14/2020,time_series_covid19_deaths_global.csv,US,6/2/2020,4634,4767,Update from Peru MDS
+7/14/2020,time_series_covid19_confirmed_global.csv,US,6/02/2020,170039,178165,Update from Peru MDS
+7/14/2020,time_series_covid19_deaths_global.csv,US,6/02/2020,4634,4767,Update from Peru MDS
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/01/2020,50273,50335,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/02/2020,50335,50412,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/03/2020,50335,50487,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/04/2020,50335,50548,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/01/2020,6113,6115,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/02/2020,6113,6118,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/03/2020,6113,6120,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/04/2020,6113,6126,Stale data update
