@@ -3,21 +3,22 @@
 
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
-<br>
 
-<b>Visual Dashboard (desktop):</b><br>
+
+<b>Visual Dashboard (desktop):</b>
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-<br><br>
-<b>Visual Dashboard (mobile):</b><br>
+
+<b>Visual Dashboard (mobile):</b>
 http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
-<br><br>
-<b>Lancet Article:</b><br>
+
+<b>Lancet Article:</b>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
-<br><br>
-<b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b><br>
+
+<b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
-<br><br>
-<b>Data Sources:</b><br>
+
+<b>Data Sources:</b>
+
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
@@ -104,16 +105,26 @@ https://systems.jhu.edu/
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
 
-<br>
-<b>Additional Information about the Visual Dashboard:</b><br>
+
+
+<b>Embed our dashboard into your webpage:</b>
+
+```html
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"></iframe></div>
+```
+
+<b>Additional Information about the Visual Dashboard:</b>
 https://systems.jhu.edu/research/public-health/ncov/
-<br><br>
 
-<b>Contact Us: </b><br>
+
+
+<b>Contact Us: </b>
+
 * Email: jhusystems@gmail.com
-<br><br>
+  
+  
 
-<b>Terms of Use:</b><br>
+<b>Terms of Use:</b>
 
 1. This website and its contents herein, including all data, mapping, and analysis (“Website”), copyright 2020 Johns Hopkins University, all rights reserved, is provided solely for non-profit public health, educational, and academic research purposes. You should not rely on this Website for medical advice or guidance.  
 2. Use of the Website by commercial parties and/or in commerce is strictly prohibited.   
