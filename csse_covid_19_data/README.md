@@ -127,6 +127,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * June 30, the count of New Yorkers who have died of COVID-19 increased by 692. ([NYC gov](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)) We distributed these data back to the time series tables according to [nychealth GitHub](https://github.com/nychealth/coronavirus-data/blob/master/deaths/probable-confirmed-dod.csv).
 * July 3rd, on July 2nd, the United Kingdom revised their case count due to double counting of cases in England that had been tested in multiple facilities. In doing so, they revised their historical time series data for England (available [here](https://coronavirus.data.gov.uk/)). This change resulted in the need to revise our time series for the United Kingdom. As our time series data represents collective cases in England, Scotland, Northern Ireland, and Wales and the change only affected England, we gathered historical from each respective country's national dashboard (available [here](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary), [here](https://www.arcgis.com/apps/opsdashboard/index.html#/658feae0ab1d432f9fdb53aa082e4130), and [here](https://app.powerbi.com/view?r=eyJrIjoiZGYxNjYzNmUtOTlmZS00ODAxLWE1YTEtMjA0NjZhMzlmN2JmIiwidCI6IjljOWEzMGRlLWQ4ZDctNGFhNC05NjAwLTRiZTc2MjVmZjZjNSIsImMiOjh9)) to completely rewrite the time series data for cases in the United Kingdom.
 * July 9, Japan's data were updated according to the [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/). Confirmed cases were updated from Feb 5 to May 27, and deaths were updated from Feb 13 to May 27.
+* July 14, United Kingdom death data has historical revisions. Death data was downloaded from [this link](https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv) and the death totals for the UK from 3/25 to 6/22 in time_series_covid19_deaths_global.csv were updated to match the data in the official report.
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -172,7 +173,7 @@ International
   * Italy: UIDs are combined country code (380) with `codice_regione`, which is from [Dati COVID-19 Italia](https://github.com/pcm-dpc/COVID-19). Exceptions: P.A. Bolzano is 38041 and P.A. Trento is 38042.
 3.	The US (most entries with Admin0, Admin1 and Admin2).
   *	US by itself is 840 (UID = code3).
-  *	US dependencies, American Samoa, Guam, Northern Mariana Islands, Virgin Islands and Puerto Rico, UID = code3. Their FIPS codes are different from code3.
+  *	US dependencies, American Samoa, Guam, Northern Mariana Islands, Virgin Islands and Puerto Rico, UID = code3. Their Admin0 FIPS codes are different from code3.
   *	US states: UID = 840 (country code3) + 000XX (state FIPS code). Ranging from 8400001 to 84000056.
   *	Out of [State], US: UID = 840 (country code3) + 800XX (state FIPS code). Ranging from 8408001 to 84080056.
   *	Unassigned, US: UID = 840 (country code3) + 900XX (state FIPS code). Ranging from 8409001 to 84090056.
@@ -180,6 +181,7 @@ International
   *	Exception type 1, such as recovered and Kansas City, ranging from 8407001 to 8407999.
   *	Exception type 2, only the New York City, which is replacing New York County and its FIPS code.
   *	Exception type 3, Diamond Princess, US: 84088888; Grand Princess, US: 84099999.
+  * Exception type 4, municipalities in Puerto Rico are regarded as counties with FIPS codes. The FIPS code for the unassigned category is defined as 72999.
 4. Population data sources.
  * United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Rev. 1. https://population.un.org/wpp/Download/Standard/Population/
  * eurostat: https://ec.europa.eu/eurostat/web/products-datasets/product?code=tgs00096
@@ -188,5 +190,6 @@ International
 * Brazil 2019 projection: ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2019/
 * Peru 2020 projection: https://www.citypopulation.de/en/peru/cities/
 * India 2019 population: http://statisticstimes.com/demographics/population-of-indian-states.php
+* The Admin0 level population could be different from the sum of Admin1 level population since they may be from different sources.
 
 Disclaimer: \*The names of locations included on the Website correspond with the official designations used by the U.S. Department of State. The presentation of material therein does not imply the expression of any opinion whatsoever on the part of JHU concerning the legal status of any country, area or territory or of its authorities. The depiction and use of boundaries, geographic names and related data shown on maps and included in lists, tables, documents, and databases on this website are not warranted to be error free nor do they necessarily imply official endorsement or acceptance by JHU.
