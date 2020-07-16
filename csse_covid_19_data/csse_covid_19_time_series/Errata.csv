@@ -344,3 +344,6 @@
 7/15/2020,time_series_covid19_confirmed_US.csv,"Dent, MO",5/13/2020-6/22/2020,,,Update via Dent County Health Center data
 7/15/2020,time_series_covid19_confirmed_US.csv,"Douglas, MO",5/30/2020-6/11/2020,,,Update via Douglas County Health Department data
 7/15/2020,time_series_covid19_confirmed_global.csv,US,5/13/2020-6/22/2020,,,Corrections in line with Dent and Douglas County updates
+7/16/2020,time_series_covid19_confirmed_global.csv,Honduras,7/14/2020,,,Correction from MOH
+7/16/2020,time_series_covid19_deaths_global.csv,Honduras,7/14/2020,,,Correction from MOH
+7/16/2020,time_series_covid19_recovered_global.csv,Honduras,7/14/2020,,,Correction from MOH
