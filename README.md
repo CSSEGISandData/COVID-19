@@ -62,7 +62,7 @@ https://systems.jhu.edu/
   - New Jersey Department of Health: https://covid19.nj.gov/
   - Delaware Emergency Management Agency: https://coronavirus.delaware.gov/
   - Utah Department of Health: https://coronavirus-dashboard.utah.gov/#overview
-  - Arizona Emergency Support Function (ESF)/Recovery Support Function (RSF) Operations Dashboard: https://tableau.azdhs.gov/views/COVID-19Summary/Overview2
+  - Arizona Emergency Support Function (ESF)/Recovery Support Function (RSF) Operations Dashboard: https://www.arcgis.com/apps/MapSeries/index.html?appid=62e6bfa682a34e6aae9d9255ac865467
   - Departamento de Salud, Puerto Rico: https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/d7308c1abb4747e584329adf1215125e
   - Arkansas Department of Health: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
   - Maine Department of Health and Human Services: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
