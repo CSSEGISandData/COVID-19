@@ -341,3 +341,6 @@
 7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/04/2020,6113,6126,Stale data update
 7/15/2020,time_series_covid19_confirmed_US.csv,"Granville, NC",4/27/2020,240,133,Correction
 7/15/2020,time_series_covid19_confirmed_global.csv,US,4/27/2020,990999,990892,Correction
+7/15/2020,time_series_covid19_confirmed_US.csv,"Dent, MO",5/13/2020-6/22/2020,,,Update via Dent County Health Center data
+7/15/2020,time_series_covid19_confirmed_US.csv,"Douglas, MO",5/30/2020-6/11/2020,,,Update via Douglas County Health Department data
+7/15/2020,time_series_covid19_confirmed_global.csv,US,5/13/2020-6/22/2020,,,Corrections in line with Dent and Douglas County updates
