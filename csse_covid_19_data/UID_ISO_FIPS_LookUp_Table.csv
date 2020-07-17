@@ -366,6 +366,19 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 516,NA,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2540916
 524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,29136808
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,17134873
+52801,NL,NLD,528,,,Drenthe,Netherlands,52.862485,6.618435,"Drenthe, Netherlands",493682
+52802,NL,NLD,528,,,Flevoland,Netherlands,52.550383,5.515162,"Flevoland, Netherlands",423021
+52803,NL,NLD,528,,,Friesland,Netherlands,53.087337,5.7925,"Friesland, Netherlands",649957
+52804,NL,NLD,528,,,Gelderland,Netherlands,52.061738,5.939114,"Gelderland, Netherlands",2085952
+52805,NL,NLD,528,,,Groningen,Netherlands,53.217922,6.741514,"Groningen, Netherlands",585866
+52806,NL,NLD,528,,,Limburg,Netherlands,51.209227,5.93387,"Limburg, Netherlands",1117201
+52807,NL,NLD,528,,,Noord-Brabant,Netherlands,51.561174,5.184942,"Noord-Brabant, Netherlands",2562955
+52808,NL,NLD,528,,,Noord-Holland,Netherlands,52.600906,4.918688,"Noord-Holland, Netherlands",2879527
+52809,NL,NLD,528,,,Overijssel,Netherlands,52.444558,6.441722,"Overijssel, Netherlands",1162406
+52810,NL,NLD,528,,,Utrecht,Netherlands,52.084251,5.163824,"Utrecht, Netherlands",1354834
+52811,NL,NLD,528,,,Zeeland,Netherlands,51.47936,3.861559,"Zeeland, Netherlands",383488
+52812,NL,NLD,528,,,Zuid-Holland,Netherlands,51.937835,4.462114,"Zuid-Holland, Netherlands",3708696
+52813,NL,NLD,528,,,Unknown,Netherlands,,,"Unknown, Netherlands",
 533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",106766
 531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",164100
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
