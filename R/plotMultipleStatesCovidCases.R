@@ -26,3 +26,13 @@ multiplot(p1,p2,cols = 1)
 # plot fatality rates
 gaCounties <- c("Cobb","Fulton","Cherokee","DeKalb","Gwinnett")
 plotCovidFatalityRateUSCounties(data,"Georgia",gaCounties,yLimit=c(0,10))
+
+ilCounties<- c("Cook","Lake","Will","McHenry","DuPage","Kane")
+plotCovidFatalityRateUSCounties(data,"Illinois",ilCounties,yLimit=c(0,10))
+
+coCounties <- c("Denver","Arapahoe","Jefferson","Douglas","Adams")
+plotCovidFatalityRateUSCounties(data,"Colorado",coCounties,yLimit=c(0,10))
+
+# state level fatality rates
+theStates <- c("Georgia","Florida","Texas","New York")
+plotCovidFatalityRateUSStates(data,theStates,yLimit=c(0,10000))
