@@ -28,7 +28,7 @@ MM-DD-YYYY.csv in UTC.
 * <b>Recovered</b>: Recovered cases outside China are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
 * <b>Active:</b> total confirmed - total recovered - total deaths.
 * <b>Incidence_Rate</b>: confirmed cases per 100,000 persons.
-* <b>Case-Fatality Ratio (%)</b>: number recorded deaths / number confirmed cases..
+* <b>Case-Fatality Ratio (%)</b>: number recorded deaths / number confirmed cases.
 
 ### Update frequency
 * Files on and after April 23, once per day between 03:30 and 04:00 UTC.
