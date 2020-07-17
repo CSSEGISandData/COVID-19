@@ -17,7 +17,7 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
-<b>Click here (https://secure.jhu.edu/form/eng) to DONATE to the CSSE dashboard team</b>
+<b>DONATE to the CSSE dashboard team:</b> https://secure.jhu.edu/form/eng
 
 <b>Data Sources:</b>
 
