@@ -11,13 +11,17 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 <b>Visual Dashboard (mobile):</b>
 http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 
-<b>Lancet Article:</b>
+<b>Please cite our Lancet Article for any use of this data in a publication:</b>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
 
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
-<b>Data Sources:</b>
+<b>DONATE to the CSSE dashboard team:</b> https://secure.jhu.edu/form/eng
+
+
+<b>DATA SOURCES:</b>
+This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g., WHO, ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
