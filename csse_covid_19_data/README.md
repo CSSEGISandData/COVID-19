@@ -26,12 +26,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Confirmed</b>: Confirmed cases include presumptive positive cases  and probable cases, in accordance with CDC guidelines as of April 14.
 * <b>Deaths</b>: Death totals in the US include confirmed and probable, in accordance with [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) guidelines as of April 14.
 * <b>Recovered</b>: Recovered cases outside China are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
-* <b>Active:</b> Active cases = total confirmed - total recovered - total deaths.
-* <b>Incidence_Rate</b>: Admin2 + Province_State + Country_Region.
-* <b>Case-Fatality Ratio (%)</b>: = confirmed cases per 100,000 persons.
-* <b>US Testing Rate</b>: = total test results per 100,000 persons. The "total test results" is equal to "Total test results
-(Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
-* <b>US Hospitalization Rate (%)</b>: = Total number hospitalized / Number confirmed cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "hospitalized - Cumulative" data is only presented for those states which provide cumulative hospital data.
+* <b>Active:</b> total confirmed - total recovered - total deaths.
+* <b>Incidence_Rate</b>: confirmed cases per 100,000 persons.
+* <b>Case-Fatality Ratio (%)</b>: number recorded deaths / number confirmed cases.
 
 ### Update frequency
 * Files on and after April 23, once per day between 03:30 and 04:00 UTC.
@@ -71,8 +68,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
-* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons.
-* <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases.
+* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons. The "total test results" is equal to "Total test results
+(Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
+* <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "hospitalized - Cumulative" data is only presented for those states which provide cumulative hospital data.
 
 ### Update frequency
 * Once per day between 03:30 and 04:00 UTC.
@@ -128,6 +126,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * July 3rd, on July 2nd, the United Kingdom revised their case count due to double counting of cases in England that had been tested in multiple facilities. In doing so, they revised their historical time series data for England (available [here](https://coronavirus.data.gov.uk/)). This change resulted in the need to revise our time series for the United Kingdom. As our time series data represents collective cases in England, Scotland, Northern Ireland, and Wales and the change only affected England, we gathered historical from each respective country's national dashboard (available [here](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary), [here](https://www.arcgis.com/apps/opsdashboard/index.html#/658feae0ab1d432f9fdb53aa082e4130), and [here](https://app.powerbi.com/view?r=eyJrIjoiZGYxNjYzNmUtOTlmZS00ODAxLWE1YTEtMjA0NjZhMzlmN2JmIiwidCI6IjljOWEzMGRlLWQ4ZDctNGFhNC05NjAwLTRiZTc2MjVmZjZjNSIsImMiOjh9)) to completely rewrite the time series data for cases in the United Kingdom.
 * July 9, Japan's data were updated according to the [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/). Confirmed cases were updated from Feb 5 to May 27, and deaths were updated from Feb 13 to May 27.
 * July 14, United Kingdom death data has historical revisions. Death data was downloaded from [this link](https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv) and the death totals for the UK from 3/25 to 6/22 in time_series_covid19_deaths_global.csv were updated to match the data in the official report.
+* July 18, we are now providing the confirmed cases for Puerto Rico at the municipality (Admin1) level. The historic Admin1 data ranging from 5/6 to 7/17 are from [nytimes dataset](https://github.com/nytimes/covid-19-data). Confirmed cases before 5/6 are categorized into Unassigned, Puerto Rico in `time_series_covid19_confirmed_US.csv`. Meanwhile, deaths are all grouped into Unassigned, Puerto Rico in `time_series_covid19_deaths_US.csv`. Daily cases are from [Puerto Rico Departamento de Salud](http://www.salud.gov.pr/Pages/coronavirus.aspx).
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
