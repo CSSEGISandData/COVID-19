@@ -26,12 +26,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Confirmed</b>: Confirmed cases include presumptive positive cases  and probable cases, in accordance with CDC guidelines as of April 14.
 * <b>Deaths</b>: Death totals in the US include confirmed and probable, in accordance with [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) guidelines as of April 14.
 * <b>Recovered</b>: Recovered cases outside China are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
-* <b>Active:</b> Active cases = total confirmed - total recovered - total deaths.
-* <b>Incidence_Rate</b>: Admin2 + Province_State + Country_Region.
-* <b>Case-Fatality Ratio (%)</b>: = confirmed cases per 100,000 persons.
-* <b>US Testing Rate</b>: = total test results per 100,000 persons. The "total test results" is equal to "Total test results
-(Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
-* <b>US Hospitalization Rate (%)</b>: = Total number hospitalized / Number confirmed cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "hospitalized - Cumulative" data is only presented for those states which provide cumulative hospital data.
+* <b>Active:</b> total confirmed - total recovered - total deaths.
+* <b>Incidence_Rate</b>: confirmed cases per 100,000 persons.
+* <b>Case-Fatality Ratio (%)</b>: number recorded deaths / number confirmed cases.
 
 ### Update frequency
 * Files on and after April 23, once per day between 03:30 and 04:00 UTC.
@@ -71,8 +68,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
-* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons.
-* <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases.
+* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons. The "total test results" is equal to "Total test results
+(Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
+* <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "hospitalized - Cumulative" data is only presented for those states which provide cumulative hospital data.
 
 ### Update frequency
 * Once per day between 03:30 and 04:00 UTC.

@@ -11,13 +11,17 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 <b>Visual Dashboard (mobile):</b>
 http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 
-<b>Lancet Article:</b>
+<b>Please cite our Lancet Article for any use of this data in a publication:</b>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
 
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
-<b>Data Sources:</b>
+<b>DONATE to the CSSE dashboard team:</b> https://secure.jhu.edu/form/eng
+
+
+<b>DATA SOURCES:</b>
+This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g., WHO, ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
@@ -95,7 +99,7 @@ https://systems.jhu.edu/
   - Gobierono De Mexico:https://covid19.sinave.gob.mx/
   - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
   - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
-  - Colombia: https://antioquia2020-23.maps.arcgis.com/apps/opsdashboard/index.html#/a9194733a8334e27b0eebd7c8f67bd84 and [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx)
+  - Colombia National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
