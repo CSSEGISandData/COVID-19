@@ -119,8 +119,8 @@ This list includes a complete list of all sources ever used in the data set, sin
 
 <b>Acknowledgements:</b>
 We are grateful to the following organizations for supporting our Center’s COVID-19 mapping and modeling efforts:
-Financial Support: Johns Hopkins University, National Science Foundation (NSF), Bloomberg Philanthropies, Stavros Niarchos Foundation
-Resource support: AWS, Slack, Github                                            Technical support: Johns Hopkins Applied Physics Lab (APL), Esri Living Atlas team
+Financial Support: Johns Hopkins University, National Science Foundation (NSF), Bloomberg Philanthropies, Stavros Niarchos Foundation;
+Resource support: AWS, Slack, Github; Technical support: Johns Hopkins Applied Physics Lab (APL), Esri Living Atlas team
 
 <b>Additional Information about the Visual Dashboard:</b>
 https://systems.jhu.edu/research/public-health/ncov/
