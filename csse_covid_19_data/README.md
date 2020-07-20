@@ -31,7 +31,8 @@ MM-DD-YYYY.csv in UTC.
 * <b>Case-Fatality Ratio (%)</b>: number recorded deaths / number confirmed cases.
 
 ### Update frequency
-* Files on and after April 23, once per day between 03:30 and 04:00 UTC.
+* Since June 15, We are moving the update time forward to occur between 04:45 and 05:15 GMT to accommodate daily updates from India's Ministry of Health and Family Welfare.
+* Files on and after April 23, once per day between 03:30 and 04:00 UTC. 
 * Files from February 2 to April 22: once per day around 23:59 UTC.
 * Files on and before February 1: the last updated files before 23:59 UTC. Sources: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data) and dashboard.
 
@@ -73,7 +74,7 @@ MM-DD-YYYY.csv in UTC.
 * <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "hospitalized - Cumulative" data is only presented for those states which provide cumulative hospital data.
 
 ### Update frequency
-* Once per day between 03:30 and 04:00 UTC.
+* Once per day between 04:45 and 05:15 UTC.
 
 ### Data sources
 Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
