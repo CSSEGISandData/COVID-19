@@ -155,6 +155,7 @@ International
 * Sweden: Not updating case, death, or recovered data on the weekends
 * Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
 * Nicaragua: Releasing case, death, and recovered data once per week.
+* UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC))
 
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
