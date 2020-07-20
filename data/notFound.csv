@@ -1,6 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,9353,97.0
-Staff,Federal Bureau of Prisons,US,950,1.0
+Inmates,Federal Bureau of Prisons,US,9681,97.0
+Staff,Federal Bureau of Prisons,US,968,1.0
 Mccone,Montana,US,1,0.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
@@ -31,7 +31,7 @@ Texas,Puerto Rico,US,0,0.0
 Ohio,Puerto Rico,US,0,0.0
 Massachusetts,Puerto Rico,US,0,0.0
 ,Australia,Australia,12070,123.0
-,,World,14768166,611755.0
+,,World,14779017,611035.0
 ,NACIONAL,Mexico,349396,39485.0
 ,Crimea Republic*,Russia,969,13.0
 ,Sevastopol*,Russia,305,6.0
