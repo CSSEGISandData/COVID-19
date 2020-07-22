@@ -76,6 +76,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Lancaster County: https://covid-19-lancastercountypa.hub.arcgis.com/
   - Chester County: https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca
   - Louisiana Department of Health: http://ldh.la.gov/coronavirus/
+  - Government of The District of Columbia: https://coronavirus.dc.gov/page/coronavirus-data 
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
@@ -113,6 +114,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+  - Iceland The Directorate of Health and The Department of Civil Protection and Emergency Management: https://www.covid.is/data
 
 
 
