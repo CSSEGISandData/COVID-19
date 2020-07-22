@@ -140,4 +140,4 @@ https://systems.jhu.edu/research/public-health/ncov/
 
 2. Attribuez les données en tant que «Dépôt de données COVID-19 par le Center for Systems Science and Engineering (CSSE) de l'Université Johns Hopkins» ou «JHU CSSE COVID-19 Data» en abrégé, et l'url: https: // github .com / CSSEGISandData / COVID-19.
 
-3. Pour les publications utilisant les données, veuillez citer la publication suivante: "Dong E, Du H, Gardner L. Un tableau de bord interactif basé sur le Web pour suivre le COVID-19 en temps réel. Lancet Inf Dis. 20 (5): 533 -534. Doi: 10.1016 / S1473-3099 (20) 30120-1 "
+3. Pour les publications utilisant les données, veuillez citer la publication suivante: "Dong E, Du H, Gardner L. Un tableau de bord interactif basé sur le Web pour suivre le COVID-19 en temps réel. Lancet Inf Dis. 20 (5): 533 -534. Doi: 10.1016 / S1473-3099 (20) 30120-1"
