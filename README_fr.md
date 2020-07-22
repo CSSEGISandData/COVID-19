@@ -62,3 +62,82 @@ Cette liste comprend une liste complète de toutes les sources jamais utilisées
   - Département de géographie et de sociologie de l'Université Alabama Samford: https://experience.arcgis.com/experience/e03f87e48a234feebbad27d0ee7ff824
   - Département de la santé de l'État du Mississippi: https://msdh.ms.gov/msdhsite/_static/14,0,420.html
   - Département de la santé et des services sociaux du Nebraska: https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967a
+  - Département de la santé et du contrôle environnemental de Caroline du Sud: https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19
+  - Département de la santé et des services sociaux du Nevada: https://nvhealthresponse.nv.gov/
+  - Département de la santé du New Jersey: https://covid19.nj.gov/
+  - Agence de gestion des urgences du Delaware: https://coronavirus.delaware.gov/
+  - Département de la santé de l'Utah: https://coronavirus-dashboard.utah.gov/#overview
+  - Tableau de bord des opérations de l'Arizona Emergency Support Function (ESF) / Recovery Support Function (RSF): https://www.arcgis.com/apps/MapSeries/index.html?appid=62e6bfa682a34e6aae9d9255ac865467
+  - Departamento de Salud, Porto Rico: https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/d7308c1abb4747e584329adf1215125e
+  - Département de la santé de l'Arkansas: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
+  - Département de la santé et des services sociaux du Maine: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
+  - Département de la santé de Pennsylvanie: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
+  - Département de la santé de la Louisiane: http://ldh.la.gov/coronavirus/
+
+- Sources de données non américaines au niveau du pays / région (Admin0) ou de l'État / province (Admin1):
+  - Commission nationale de la santé de la République populaire de Chine (NHC):
+    http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
+  - CDC de Chine (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
+  - Département de la santé de Hong Kong: https://www.chp.gov.hk/en/features/102465.html
+  - Gouvernement de Macao: https://www.ssm.gov.mo/portal/
+  - CDC de Taïwan: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
+  - Gouvernement du Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
+  - Ministère de la santé du gouvernement australien: https://www.health.gov.au/news/coronavirus-update-at-a-glance
+  - COVID Live (Australie): https://www.covidlive.com.au/
+  - Ministère de la Santé de Singapour (MOH): https://www.moh.gov.sg/covid-19
+  - Ministère italien de la Santé: http://www.salute.gov.it/nuovocoronavirus
+  - Dati COVID-19 Italia (Italie): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
+  - Gouvernement français: https://dashboard.covid19.data.gouv.fr/ et https://github.com/opencovid19-fr/data/blob/master/dist/chiffres-cles.json
+  - OpenCOVID19 France: https://github.com/opencovid19-fr
+  - Palestine (Cisjordanie et Gaza): https://corona.ps/details
+  - Israël: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
+  - Ministère de la Santé, République du Kosovo: https://kosova.health/ et https://covidks.s3.amazonaws.com/data.json
+  - Berliner Morgenpost (Allemagne): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+  - rtve (Espagne): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
+  - Ministère de la Santé, République de Serbie: https://covid19.rs/homepage-english/
+  - Chili: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
+  - Ministère brésilien de la Santé: https://covid.saude.gov.br/
+  - Brésil: https://github.com/wcota/covid19br. Données décrites dans [DOI: 10.1590 / SciELOPreprints.362] (https://doi.org/10.1590/SciELOPreprints.362)
+  - Gobierono De Mexico: https: //covid19.sinave.gob.mx/
+  - Japon COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
+  - Monitoreo del COVID-19 en Perú - Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bbú72f5547c2 et le Ministre du Salud : https://covid19.minsa.gob.pe/sala_situacional.asp
+  - Institut national de la santé de Colombie: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+  - Russie: https: //xn--80aesfpebagmfblc0a.xn--p1ai/information/
+  - Ukraine: https://covid19.rnbo.gov.ua/
+  - Agence de santé publique de Suède: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
+  - Ministère indien de la Santé et du Bien-être familial: https://www.mohfw.gov.in/
+  - Gouvernement du Pakistan: http://covid.gov.pk/stats/pakistan
+  - Le gouvernement britannique: https://coronavirus.data.gov.uk/#category=nations&map=rate
+  - Gouvernement écossais: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
+  - Institut national néerlandais pour la santé et l'environnement: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+
+
+
+<b> Intégrez notre tableau de bord à votre page Web: </b>
+
+```html
+<style> .embed-container {position: relative; rembourrage bas: 80%; hauteur: 0; max-width: 100%;} iframe .embed-container, .embed-container object, .embed-container iframe {position: absolue; haut: 0; gauche: 0; largeur: 100%; hauteur: 100%;} petit {position: absolue; indice z: 40; bas: 0; margin-bottom: -15px;} </style> <div class = "embed-container"> <iframe width = "500" height = "400" frameborder = "0" scrolling = "no" marginheight = "0" marginwidth = "0" title = "COVID-19" src="https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"></iframe></div>
+```
+
+
+<b> Remerciements: </b>
+Nous remercions les organisations suivantes d’avoir soutenu les efforts de cartographie et de modélisation COVID-19 de notre Centre:
+Soutien financier: Université Johns Hopkins, National Science Foundation (NSF), Bloomberg Philanthropies, Stavros Niarchos Foundation;
+Prise en charge des ressources: AWS, Slack, Github; Support technique: Johns Hopkins Applied Physics Lab (APL), équipe Esri Living Atlas
+
+<b> Informations supplémentaires sur le tableau de bord visuel: </b>
+https://systems.jhu.edu/research/public-health/ncov/
+
+<b> Contactez-nous: </b>
+
+* Courriel: jhusystems@gmail.com
+  
+  
+
+<b> Conditions d'utilisation: </b>
+
+1. Cet ensemble de données est concédé sous licence Creative Commons Attribution 4.0 International (CC BY 4.0) par l'Université Johns Hopkins au nom de son Center for Systems Science in Engineering. Copyright Université Johns Hopkins 2020.
+
+2. Attribuez les données en tant que «Dépôt de données COVID-19 par le Center for Systems Science and Engineering (CSSE) de l'Université Johns Hopkins» ou «JHU CSSE COVID-19 Data» en abrégé, et l'url: https: // github .com / CSSEGISandData / COVID-19.
+
+3. Pour les publications utilisant les données, veuillez citer la publication suivante: "Dong E, Du H, Gardner L. Un tableau de bord interactif basé sur le Web pour suivre le COVID-19 en temps réel. Lancet Inf Dis. 20 (5): 533 -534. Doi: 10.1016 / S1473-3099 (20) 30120-1 "
