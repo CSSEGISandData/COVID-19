@@ -360,3 +360,5 @@
 7/16/2020,time_series_covid19_confirmed_global.csv,US,7/20/2020,,,Update from Philadelphia DOH
 7/16/2020,time_series_covid19_deaths_US.csv,"Philadelphia, PA",7/20/2020,,,Update from Philadelphia DOH
 7/16/2020,time_series_covid19_deaths_global.csv,US,7/20/2020,,,Update from Philadelphia DOH
+7/22/2020,time_series_covid19_confirmed_global.csv,Iceland,6/15-7/20,,,Update according to https://www.covid.is/
+7/22/2020,time_series_covid19_recovered_global.csv,Iceland,6/15-7/20,,,Update according to https://www.covid.is/
