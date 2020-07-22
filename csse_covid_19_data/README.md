@@ -144,6 +144,7 @@ This section reports instances where large numbers of historical cases or deaths
 * June 25th, as reported in [Issue #2763](https://github.com/CSSEGISandData/COVID-19/issues/2763), the state of New Jersey released probable deaths. We are actively engaged with stakeholders to determine how to distribute these deaths over time.
 * July 1, the count of New Yorkers who have died of COVID-19 increased by 692 on June 30. ([NYC gov](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)) On July 1 we distributed these data back to the time series tables according to [nychealth GitHub](https://github.com/nychealth/coronavirus-data/blob/master/deaths/probable-confirmed-dod.csv).
 * July 7th, incorporation of probable cases and deaths that are being released by the Illinois Department of Health once per week, starting July 3rd. We anticipate weekly spikes in both of these numbers.
+* July 22nd, updates to Liechtenstein cases and recovered in line with historical data provided on this [government website](https://www.llv.li/inhalt/118863/amtsstellen/situationsbericht) and within this [pdf](https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf)
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
