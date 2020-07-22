@@ -72,6 +72,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Arkansas Department of Health: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
   - Maine Department of Health and Human Services: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
   - Pennsylvania Department of Health: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
+  - City of Philadelphia: https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/
+  - Lancaster County: https://covid-19-lancastercountypa.hub.arcgis.com/
+  - Chester County: https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca
   - Louisiana Department of Health: http://ldh.la.gov/coronavirus/
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
