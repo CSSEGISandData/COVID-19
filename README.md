@@ -77,6 +77,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Chester County: https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca
   - Louisiana Department of Health: http://ldh.la.gov/coronavirus/
   - Government of The District of Columbia: https://coronavirus.dc.gov/page/coronavirus-data 
+  - North Dakota Department of Health: https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
