@@ -356,7 +356,18 @@
 7/17/2020,time_series_covid19_confirmed_global.csv,Guatemala,7/18/2020,33809,38042,Update in line with changed reporting from Ministry of Health and Social Welfare
 7/17/2020,time_series_covid19_deaths_global.csv,Guatemala,7/18/2020,1443,1449,Update in line with changed reporting from Ministry of Health and Social Welfare
 7/17/2020,time_series_covid19_recovered_global.csv,Guatemala,7/18/2020,4989,23365,Update in line with changed reporting from Ministry of Health and Social Welfare
-7/16/2020,time_series_covid19_confirmed_US.csv,"Philadelphia, PA",7/20/2020,,,Update from Philadelphia DOH
-7/16/2020,time_series_covid19_confirmed_global.csv,US,7/20/2020,,,Update from Philadelphia DOH
-7/16/2020,time_series_covid19_deaths_US.csv,"Philadelphia, PA",7/20/2020,,,Update from Philadelphia DOH
-7/16/2020,time_series_covid19_deaths_global.csv,US,7/20/2020,,,Update from Philadelphia DOH
+7/21/2020,time_series_covid19_confirmed_US.csv,"Philadelphia, PA",7/20/2020,,,Update from Philadelphia DOH
+7/21/2020,time_series_covid19_confirmed_global.csv,US,7/20/2020,,,Update from Philadelphia DOH
+7/21/2020,time_series_covid19_deaths_US.csv,"Philadelphia, PA",7/20/2020,,,Update from Philadelphia DOH
+7/21/2020,time_series_covid19_deaths_global.csv,US,7/20/2020,,,Update from Philadelphia DOH
+7/22/2020,time_series_covid19_confirmed_global.csv,Iceland,6/15-7/20,,,Update according to https://www.covid.is/
+7/22/2020,time_series_covid19_recovered_global.csv,Iceland,6/15-7/20,,,Update according to https://www.covid.is/
+7/22/2020,time_series_covid19_confirmed_global.csv,China,7/16-7/21/2020,,,Update from DXY
+7/22/2020,time_series_covid19_deaths_global.csv,China,7/16-7/21/2020,,,Update from DXY
+7/22/2020,time_series_covid19_recovered_global.csv,China,7/16-7/21/2020,,,Update from DXY
+7/22/2020,time_series_covid19_confirmed_global.csv,Chile,7/20/2020,,,Update from Ministerio de Ciencia
+7/22/2020,time_series_covid19_deaths_global.csv,Chile,7/20/2020,,,Update from Ministerio de Ciencia
+7/22/2020,time_series_covid19_recovered_global.csv,Chile,7/20/2020,,,Update from Ministerio de Ciencia
+7/22/2020,time_series_covid19_confirmed_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
+7/22/2020,time_series_covid19_deaths_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
+7/22/2020,time_series_covid19_recovered_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
