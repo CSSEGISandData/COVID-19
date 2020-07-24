@@ -77,6 +77,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Chester County: https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca
   - Louisiana Department of Health: http://ldh.la.gov/coronavirus/
   - Government of The District of Columbia: https://coronavirus.dc.gov/page/coronavirus-data 
+  - North Dakota Department of Health: https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases
+  - Oklahoma State Department of Health: https://looker-dashboards.ok.gov/embed/dashboards/44
+  - Guam Department of Public Health and Social Services: http://dphss.guam.gov/covid-19/ 
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
@@ -100,6 +103,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
+  - Chile: https://www.gob.cl/coronavirus/cifrasoficiales/
   - Brazil Ministry of Health: https://covid.saude.gov.br/
   - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
   - Gobierono De Mexico:https://covid19.sinave.gob.mx/

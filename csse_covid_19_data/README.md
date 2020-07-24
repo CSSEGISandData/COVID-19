@@ -23,12 +23,12 @@ MM-DD-YYYY.csv in UTC.
 * <b>Country_Region</b>: Country, region or sovereignty name. The names of locations included on the Website correspond with the official designations used by the U.S. Department of State.
 * <b>Last Update</b>: MM/DD/YYYY HH:mm:ss  (24 hour format, in UTC).
 * <b>Lat</b> and <b>Long_</b>: Dot locations on the dashboard. All points (except for Australia) shown on the map are based on geographic centroids, and are not representative of a specific address, building or any location at a spatial scale finer than a province/state. Australian dots are located at the centroid of the largest city in each state.
-* <b>Confirmed</b>: Confirmed cases include presumptive positive cases  and probable cases, in accordance with CDC guidelines as of April 14.
-* <b>Deaths</b>: Death totals in the US include confirmed and probable, in accordance with [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) guidelines as of April 14.
-* <b>Recovered</b>: Recovered cases outside China are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
-* <b>Active:</b> total confirmed - total recovered - total deaths.
-* <b>Incidence_Rate</b>: confirmed cases per 100,000 persons.
-* <b>Case-Fatality Ratio (%)</b>: number recorded deaths / number confirmed cases.
+* <b>Confirmed</b>: Counts include confirmed and probable (where reported).
+* <b>Deaths</b>: Counts include confirmed and probable (where reported).
+* <b>Recovered</b>: Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
+* <b>Active:</b> Active cases = total cases - total recovered - total deaths.
+* <b>Incidence_Rate</b>: Incidence Rate = cases per 100,000 persons.
+* <b>Case-Fatality Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
 
 ### Update frequency
 * Since June 15, We are moving the update time forward to occur between 04:45 and 05:15 GMT to accommodate daily updates from India's Ministry of Health and Family Welfare.
@@ -58,20 +58,19 @@ MM-DD-YYYY.csv in UTC.
 * <b>Last_Update</b> - The most recent date the file was pushed.
 * <b>Lat</b> - Latitude.
 * <b>Long_</b> - Longitude.
-* <b>Confirmed</b> - Aggregated confirmed case count for the state.
-* <b>Deaths</b> - Aggregated Death case count for the state.
+* <b>Confirmed</b> - Aggregated case count for the state.
+* <b>Deaths</b> - Aggregated death toll for the state.
 * <b>Recovered</b> - Aggregated Recovered case count for the state.
-* <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active = Confirmed - Recovered - Deaths).
+* <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active cases = total cases - total recovered - total deaths).
 * <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
-* <b>Incident_Rate</b> - confirmed cases per 100,000 persons.
+* <b>Incident_Rate</b> - cases per 100,000 persons.
 * <b>People_Tested</b> - Total number of people who have been tested.
 * <b>People_Hospitalized</b> - Total number of people hospitalized.
 * <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
-* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons. The "total test results" is equal to "Total test results
-(Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
-* <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "hospitalized - Cumulative" data is only presented for those states which provide cumulative hospital data.
+* <b>Testing_Rate</b> - Total test results per 100,000 persons. The "total test results" are equal to "Total test results (Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
+* <b>Hospitalization_Rate</b> - US Hospitalization Rate (%): = Total number hospitalized / Number cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "Total number hospitalized" is only presented for those states which provide cumulative hospital data.
 
 ### Update frequency
 * Once per day between 04:45 and 05:15 UTC.

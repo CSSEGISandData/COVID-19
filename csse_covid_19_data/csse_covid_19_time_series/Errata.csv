@@ -371,3 +371,8 @@
 7/22/2020,time_series_covid19_confirmed_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
 7/22/2020,time_series_covid19_deaths_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
 7/22/2020,time_series_covid19_recovered_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
+7/23/2020,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma",7/22/2020,821,0,OK data correction
+7/23/2020,time_series_covid19_confirmed_global.csv,US,7/22/2020,3970906,3970085,OK data correction
+7/23/2020,time_series_covid19_confirmed_global.csv,Chile,7/22/2020,,,Update from Ministerio de Ciencia
+7/23/2020,time_series_covid19_deaths_global.csv,Chile,7/22/2020,,,Update from Ministerio de Ciencia
+7/23/2020,time_series_covid19_recovered_global.csv,Chile,7/22/2020,,,Update from Ministerio de Ciencia
