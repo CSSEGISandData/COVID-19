@@ -17,7 +17,7 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
-<b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/novel-coronavirus-information/covid-19-map/
+<b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/novel-coronavirus-information/support-covid-19-dashboard-team/
 
 
 <b>DATA SOURCES:</b>
@@ -72,6 +72,14 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Arkansas Department of Health: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
   - Maine Department of Health and Human Services: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
   - Pennsylvania Department of Health: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
+  - City of Philadelphia: https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/
+  - Lancaster County: https://covid-19-lancastercountypa.hub.arcgis.com/
+  - Chester County: https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca
+  - Louisiana Department of Health: http://ldh.la.gov/coronavirus/
+  - Government of The District of Columbia: https://coronavirus.dc.gov/page/coronavirus-data 
+  - North Dakota Department of Health: https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases
+  - Oklahoma State Department of Health: https://looker-dashboards.ok.gov/embed/dashboards/44
+  - Guam Department of Public Health and Social Services: http://dphss.guam.gov/covid-19/ 
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
@@ -95,6 +103,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
+  - Chile: https://www.gob.cl/coronavirus/cifrasoficiales/
   - Brazil Ministry of Health: https://covid.saude.gov.br/
   - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
   - Gobierono De Mexico:https://covid19.sinave.gob.mx/
@@ -109,6 +118,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+  - Iceland The Directorate of Health and The Department of Civil Protection and Emergency Management: https://www.covid.is/data
 
 
 
