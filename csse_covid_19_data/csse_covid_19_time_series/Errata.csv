@@ -380,3 +380,4 @@
 7/24/2020,time_series_covid19_confirmed_global.csv,US,7/22-7/23/2020,,,PA data correction
 7/24/2020,time_series_covid19_deaths_US.csv,"Unassigned, Louisiana",7/20-7/23/2020,,,LA probables data correction
 7/24/2020,time_series_covid19_deaths_global.csv,US,7/20-7/23/2020,,,LA probables data correction
+7/24/2020,time_series_covid19_confirmed_global.csv,Brazil,7/24/2020,,,Correction for stale data
