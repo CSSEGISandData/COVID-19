@@ -151,7 +151,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 
 United States
 * Rhode Island: Not updating case, death, or recovered data on the weekends
-* Conneticut: Not updating case, death, or recovered data on the weekends
+* Connecticut: Not updating case, death, or recovered data on the weekends
 * Illinois: Releasing probable cases once per week.
 
 International
