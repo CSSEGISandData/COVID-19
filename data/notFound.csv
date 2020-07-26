@@ -1,37 +1,38 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,10312,99
-Staff,Federal Bureau of Prisons,US,1079,1
-Mccone,Montana,US,1,0
-Apache(AZ),Navajo Nation,US,889,0
-Bernalillo(NM),Navajo Nation,US,3,0
-Cibola(NM),Navajo Nation,US,37,0
-Coconino(AZ),Navajo Nation,US,335,0
-McKinley(NM),Navajo Nation,US,912,0
-Navajo(AZ),Navajo Nation,US,697,0
-San Juan(NM),Navajo Nation,US,410,0
-San Juan(UT),Navajo Nation,US,57,0
-Sandoval(NM),Navajo Nation,US,21,0
-Socorro(NM),Navajo Nation,US,26,0
-Unassigned,Navajo Nation,US,5450,434
-Countytba,New Hampshire,US,0,0
-Air Force,US Military,US,5087,8
-Army,US Military,US,7833,2
-Marine Corps,US Military,US,2795,0
-Navy,US Military,US,8107,18
-Unassigned,US Military,US,10669,26
-VA Hospitals,Veteran Affair,US,35781,1988
-Unassigned,Wuhan Evacuee,US,4,0
-State,Florida,US,423855,5854
-International,Colorado,US,18,0
-Total,Colorado,US,43789,1794
-De Soto,Mississippi,US,2818,23
-Nueva York,Puerto Rico,US,0,0
-Nueva Jersey,Puerto Rico,US,0,0
-Texas,Puerto Rico,US,0,0
-Ohio,Puerto Rico,US,0,0
-Massachusetts,Puerto Rico,US,0,0
-,Australia,Australia,14403,155
-,,World,16285353,649848.0
+Inmates,Federal Bureau of Prisons,US,10312.0,99.0
+Staff,Federal Bureau of Prisons,US,1079.0,1.0
+Mccone,Montana,US,1.0,0.0
+Apache(AZ),Navajo Nation,US,889.0,0.0
+Bernalillo(NM),Navajo Nation,US,3.0,0.0
+Cibola(NM),Navajo Nation,US,37.0,0.0
+Coconino(AZ),Navajo Nation,US,335.0,0.0
+McKinley(NM),Navajo Nation,US,912.0,0.0
+Navajo(AZ),Navajo Nation,US,697.0,0.0
+San Juan(NM),Navajo Nation,US,410.0,0.0
+San Juan(UT),Navajo Nation,US,57.0,0.0
+Sandoval(NM),Navajo Nation,US,21.0,0.0
+Socorro(NM),Navajo Nation,US,26.0,0.0
+Unassigned,Navajo Nation,US,5450.0,434.0
+Countytba,New Hampshire,US,0.0,0.0
+Air Force,US Military,US,5087.0,8.0
+Army,US Military,US,7833.0,2.0
+Marine Corps,US Military,US,2795.0,0.0
+Navy,US Military,US,8107.0,18.0
+Unassigned,US Military,US,10669.0,26.0
+VA Hospitals,Veteran Affair,US,35840.0,1988.0
+Unassigned,Wuhan Evacuee,US,4.0,0.0
+State,Florida,US,423855.0,5854.0
+International,Colorado,US,18.0,0.0
+Total,Colorado,US,43789.0,1794.0
+De Soto,Mississippi,US,2818.0,23.0
+Nueva York,Puerto Rico,US,0.0,0.0
+Nueva Jersey,Puerto Rico,US,0.0,0.0
+Texas,Puerto Rico,US,0.0,0.0
+Ohio,Puerto Rico,US,0.0,0.0
+Massachusetts,Puerto Rico,US,0.0,0.0
+,Pennsylvania,US,,
+,Australia,Australia,14403.0,155.0
+,,World,16317545,650260.0
 ,NACIONAL,Mexico,385036,42645.0
 ,Crimea Republic*,Russia,1077,14.0
 ,Sevastopol*,Russia,335,6.0
