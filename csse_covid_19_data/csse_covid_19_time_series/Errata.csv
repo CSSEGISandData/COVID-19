@@ -383,3 +383,11 @@
 7/25/2020,time_series_covid19_confirmed_global.csv,Brazil,7/24/2020,,,Correction for stale data
 7/25/2020,time_series_covid19_deaths_US.csv,"Val Verde, Texas",7/21-7/24/2020,,,Update from City of Del Rio
 7/25/2020,time_series_covid19_deaths_global.csv,US,7/21-7/24/2020,,,Update from City of Del Rio
+7/26/2020,time_series_covid19_confirmed_US.csv,Oregon,7/25/2020,,,Update from OR Health Authority
+7/26/2020,time_series_covid19_confirmed_global.csv,US,7/25/2020,,,Update from OR Health Authority
+7/26/2020,time_series_covid19_deaths_US.csv,Oregon,7/25/2020,,,Update from OR Health Authority
+7/26/2020,time_series_covid19_deaths_global.csv,US,7/25/2020,,,Update from OR Health Authority
+7/26/2020,time_series_covid19_confirmed_US.csv,Idaho,7/25/2020,,,Update from ID DOH
+7/26/2020,time_series_covid19_confirmed_global.csv,US,7/25/2020,,,Update from ID DOH
+7/26/2020,time_series_covid19_deaths_US.csv,Idaho,7/25/2020,,,Update from ID DOH
+7/26/2020,time_series_covid19_deaths_global.csv,US,7/25/2020,,,Update from ID DOH
