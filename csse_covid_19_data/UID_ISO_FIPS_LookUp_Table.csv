@@ -125,7 +125,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,5792203
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",48865
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",56772
-9999,,,,,,,Diamond Princess,0,0,Diamond Princess,
+9999,,,,,,,Diamond Princess,,,Diamond Princess,
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,988002
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,71991
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,10847904
@@ -362,10 +362,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 499,ME,MNE,499,,,,Montenegro,42.708678,19.37439,Montenegro,628062
 504,MA,MAR,504,,,,Morocco,31.7917,-7.0926,Morocco,36910558
 508,MZ,MOZ,508,,,,Mozambique,-18.665695,35.529562,Mozambique,31255435
-8888,,,,,,,MS Zaandam,0,0,MS Zaandam,
+8888,,,,,,,MS Zaandam,,,MS Zaandam,
 516,NA,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2540916
 524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,29136808
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,17134873
+52801,NL,NLD,528,,,Drenthe,Netherlands,52.862485,6.618435,"Drenthe, Netherlands",493682
+52802,NL,NLD,528,,,Flevoland,Netherlands,52.550383,5.515162,"Flevoland, Netherlands",423021
+52803,NL,NLD,528,,,Friesland,Netherlands,53.087337,5.7925,"Friesland, Netherlands",649957
+52804,NL,NLD,528,,,Gelderland,Netherlands,52.061738,5.939114,"Gelderland, Netherlands",2085952
+52805,NL,NLD,528,,,Groningen,Netherlands,53.217922,6.741514,"Groningen, Netherlands",585866
+52806,NL,NLD,528,,,Limburg,Netherlands,51.209227,5.93387,"Limburg, Netherlands",1117201
+52807,NL,NLD,528,,,Noord-Brabant,Netherlands,51.561174,5.184942,"Noord-Brabant, Netherlands",2562955
+52808,NL,NLD,528,,,Noord-Holland,Netherlands,52.600906,4.918688,"Noord-Holland, Netherlands",2879527
+52809,NL,NLD,528,,,Overijssel,Netherlands,52.444558,6.441722,"Overijssel, Netherlands",1162406
+52810,NL,NLD,528,,,Utrecht,Netherlands,52.084251,5.163824,"Utrecht, Netherlands",1354834
+52811,NL,NLD,528,,,Zeeland,Netherlands,51.47936,3.861559,"Zeeland, Netherlands",383488
+52812,NL,NLD,528,,,Zuid-Holland,Netherlands,51.937835,4.462114,"Zuid-Holland, Netherlands",3708696
+52813,NL,NLD,528,,,Unknown,Netherlands,,,"Unknown, Netherlands",
 533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",106766
 531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",164100
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
@@ -374,6 +387,44 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,6624554
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,24206636
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,206139587
+56601,NG,NGA,566,,,Abia,Nigeria,5.4527,7.5248,"Abia, Nigeria",3727347
+56602,NG,NGA,566,,,Adamawa,Nigeria,9.3265,12.3984,"Adamawa, Nigeria",4248436
+56603,NG,NGA,566,,,Akwa Ibom,Nigeria,4.9057,7.8537,"Akwa Ibom, Nigeria",5482177
+56604,NG,NGA,566,,,Anambra,Nigeria,6.2209,6.937,"Anambra, Nigeria",5527809
+56605,NG,NGA,566,,,Bauchi,Nigeria,10.7761,9.9992,"Bauchi, Nigeria",6537314
+56606,NG,NGA,566,,,Bayelsa,Nigeria,4.7719,6.0699,"Bayelsa, Nigeria",2277961
+56607,NG,NGA,566,,,Benue,Nigeria,7.3369,8.7404,"Benue, Nigeria",5741815
+56608,NG,NGA,566,,,Borno,Nigeria,11.8846,13.152,"Borno, Nigeria",5860183
+56609,NG,NGA,566,,,Cross River,Nigeria,5.8702,8.5988,"Cross River, Nigeria",3866269
+56610,NG,NGA,566,,,Delta,Nigeria,5.704,5.9339,"Delta, Nigeria",5663362
+56611,NG,NGA,566,,,Ebonyi,Nigeria,6.2649,8.0137,"Ebonyi, Nigeria",2880383
+56612,NG,NGA,566,,,Edo,Nigeria,6.6342,5.9304,"Edo, Nigeria",4235595
+56613,NG,NGA,566,,,Ekiti,Nigeria,7.719,5.311,"Ekiti, Nigeria",3270798
+56614,NG,NGA,566,,,Enugu,Nigeria,6.5364,7.4356,"Enugu, Nigeria",4411119
+56615,NG,NGA,566,,,Federal Capital Territory,Nigeria,8.8941,7.186,"Federal Capital Territory, Nigeria",3564126
+56616,NG,NGA,566,,,Gombe,Nigeria,10.3638,11.1928,"Gombe, Nigeria",3256962
+56617,NG,NGA,566,,,Imo,Nigeria,5.572,7.0588,"Imo, Nigeria",5408756
+56618,NG,NGA,566,,,Jigawa,Nigeria,12.228,9.5616,"Jigawa, Nigeria",5828163
+56619,NG,NGA,566,,,Kaduna,Nigeria,10.3764,7.7095,"Kaduna, Nigeria",8252366
+56620,NG,NGA,566,,,Kano,Nigeria,11.7471,8.5247,"Kano, Nigeria",13076892
+56621,NG,NGA,566,,,Katsina,Nigeria,12.3797,7.6306,"Katsina, Nigeria",7831319
+56622,NG,NGA,566,,,Kebbi,Nigeria,11.4942,4.2333,"Kebbi, Nigeria",4440050
+56623,NG,NGA,566,,,Kogi,Nigeria,7.7337,6.6906,"Kogi, Nigeria",4473490
+56624,NG,NGA,566,,,Kwara,Nigeria,8.9669,4.3874,"Kwara, Nigeria",3192893
+56625,NG,NGA,566,,,Lagos,Nigeria,6.5236,3.6006,"Lagos, Nigeria",12550598
+56626,NG,NGA,566,,,Nasarawa,Nigeria,8.4998,8.1997,"Nasarawa, Nigeria",2523395
+56627,NG,NGA,566,,,Niger,Nigeria,9.9309,5.5983,"Niger, Nigeria",5556247
+56628,NG,NGA,566,,,Ogun,Nigeria,6.998,3.4737,"Ogun, Nigeria",5217716
+56629,NG,NGA,566,,,Ondo,Nigeria,6.9149,5.1478,"Ondo, Nigeria",4671695
+56630,NG,NGA,566,,,Osun,Nigeria,7.5629,4.52,"Osun, Nigeria",4705589
+56631,NG,NGA,566,,,Oyo,Nigeria,8.1574,3.6147,"Oyo, Nigeria",7840864
+56632,NG,NGA,566,,,Plateau,Nigeria,9.2182,9.5179,"Plateau, Nigeria",4200442
+56633,NG,NGA,566,,,Rivers,Nigeria,4.8396,6.9112,"Rivers, Nigeria",7303924
+56634,NG,NGA,566,,,Sokoto,Nigeria,13.0533,5.3223,"Sokoto, Nigeria",4998090
+56635,NG,NGA,566,,,Taraba,Nigeria,7.9994,10.774,"Taraba, Nigeria",3066834
+56636,NG,NGA,566,,,Yobe,Nigeria,12.2939,11.439,"Yobe, Nigeria",3294137
+56637,NG,NGA,566,,,Zamfara,Nigeria,12.1222,6.2236,"Zamfara, Nigeria",4515427
+56638,NG,NGA,566,,,Unknown,Nigeria,,,"Unknown, Nigeria",
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2083380
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
@@ -702,6 +753,86 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",55144
 850,VI,VIR,850,78,,Virgin Islands,US,18.3358,-64.8963,"Virgin Islands, US",107268
 630,PR,PRI,630,72,,Puerto Rico,US,18.2208,-66.5901,"Puerto Rico, US",2933408
+63072001,PR,PRI,630,72001,Adjuntas,Puerto Rico,US,18.180117,-66.754367,"Adjuntas, Puerto Rico, US",19483
+63072003,PR,PRI,630,72003,Aguada,Puerto Rico,US,18.360255,-67.175131,"Aguada, Puerto Rico, US",41959
+63072005,PR,PRI,630,72005,Aguadilla,Puerto Rico,US,18.459681,-67.120815,"Aguadilla, Puerto Rico, US",60949
+63072007,PR,PRI,630,72007,Aguas Buenas,Puerto Rico,US,18.251619,-66.126806,"Aguas Buenas, Puerto Rico, US",28659
+63072009,PR,PRI,630,72009,Aibonito,Puerto Rico,US,18.131361,-66.264131,"Aibonito, Puerto Rico, US",25900
+63072011,PR,PRI,630,72011,Anasco,Puerto Rico,US,18.287985,-67.120611,"Anasco, Puerto Rico, US",29261
+63072013,PR,PRI,630,72013,Arecibo,Puerto Rico,US,18.406631,-66.675077,"Arecibo, Puerto Rico, US",96440
+63072015,PR,PRI,630,72015,Arroyo,Puerto Rico,US,17.998457,-66.056546,"Arroyo, Puerto Rico, US",19575
+63072017,PR,PRI,630,72017,Barceloneta,Puerto Rico,US,18.445533,-66.560531,"Barceloneta, Puerto Rico, US",24816
+63072019,PR,PRI,630,72019,Barranquitas,Puerto Rico,US,18.201592,-66.30963,"Barranquitas, Puerto Rico, US",30318
+63072021,PR,PRI,630,72021,Bayamon,Puerto Rico,US,18.34946,-66.168435,"Bayamon, Puerto Rico, US",208116
+63072023,PR,PRI,630,72023,Cabo Rojo,Puerto Rico,US,18.040993,-67.154391,"Cabo Rojo, Puerto Rico, US",50917
+63072025,PR,PRI,630,72025,Caguas,Puerto Rico,US,18.211615,-66.050779,"Caguas, Puerto Rico, US",142893
+63072027,PR,PRI,630,72027,Camuy,Puerto Rico,US,18.418578,-66.860206,"Camuy, Puerto Rico, US",35159
+63072029,PR,PRI,630,72029,Canovanas,Puerto Rico,US,18.328802,-65.887612,"Canovanas, Puerto Rico, US",47648
+63072031,PR,PRI,630,72031,Carolina,Puerto Rico,US,18.374986,-65.956831,"Carolina, Puerto Rico, US",176762
+63072033,PR,PRI,630,72033,Catano,Puerto Rico,US,18.437269,-66.143306,"Catano, Puerto Rico, US",28140
+63072035,PR,PRI,630,72035,Cayey,Puerto Rico,US,18.102851,-66.14914,"Cayey, Puerto Rico, US",48119
+63072037,PR,PRI,630,72037,Ceiba,Puerto Rico,US,18.251818,-65.666416,"Ceiba, Puerto Rico, US",13631
+63072039,PR,PRI,630,72039,Ciales,Puerto Rico,US,18.28885,-66.516475,"Ciales, Puerto Rico, US",18782
+63072041,PR,PRI,630,72041,Cidra,Puerto Rico,US,18.173559,-66.161179,"Cidra, Puerto Rico, US",43480
+63072043,PR,PRI,630,72043,Coamo,Puerto Rico,US,18.097597,-66.36014,"Coamo, Puerto Rico, US",40512
+63072045,PR,PRI,630,72045,Comerio,Puerto Rico,US,18.224687,-66.221622,"Comerio, Puerto Rico, US",20778
+63072047,PR,PRI,630,72047,Corozal,Puerto Rico,US,18.304264,-66.327738,"Corozal, Puerto Rico, US",37142
+63072049,PR,PRI,630,72049,Culebra,Puerto Rico,US,18.31586,-65.28813,"Culebra, Puerto Rico, US",1818
+63072051,PR,PRI,630,72051,Dorado,Puerto Rico,US,18.436115,-66.278669,"Dorado, Puerto Rico, US",38165
+63072053,PR,PRI,630,72053,Fajardo,Puerto Rico,US,18.318373,-65.666866,"Fajardo, Puerto Rico, US",36993
+63072054,PR,PRI,630,72054,Florida,Puerto Rico,US,18.373715,-66.560488,"Florida, Puerto Rico, US",12680
+63072055,PR,PRI,630,72055,Guanica,Puerto Rico,US,17.982429,-66.919643,"Guanica, Puerto Rico, US",19427
+63072057,PR,PRI,630,72057,Guayama,Puerto Rico,US,18.007516,-66.133908,"Guayama, Puerto Rico, US",45362
+63072059,PR,PRI,630,72059,Guayanilla,Puerto Rico,US,18.039942,-66.79186,"Guayanilla, Puerto Rico, US",21581
+63072061,PR,PRI,630,72061,Guaynabo,Puerto Rico,US,18.345114,-66.114523,"Guaynabo, Puerto Rico, US",97924
+63072063,PR,PRI,630,72063,Gurabo,Puerto Rico,US,18.266461,-65.979705,"Gurabo, Puerto Rico, US",45369
+63072065,PR,PRI,630,72065,Hatillo,Puerto Rico,US,18.410928,-66.796326,"Hatillo, Puerto Rico, US",41953
+63072067,PR,PRI,630,72067,Hormigueros,Puerto Rico,US,18.134532,-67.113972,"Hormigueros, Puerto Rico, US",17250
+63072069,PR,PRI,630,72069,Humacao,Puerto Rico,US,18.145211,-65.810174,"Humacao, Puerto Rico, US",58466
+63072071,PR,PRI,630,72071,Isabela,Puerto Rico,US,18.44981,-67.005093,"Isabela, Puerto Rico, US",45631
+63072073,PR,PRI,630,72073,Jayuya,Puerto Rico,US,18.211446,-66.58878,"Jayuya, Puerto Rico, US",16642
+63072075,PR,PRI,630,72075,Juana Diaz,Puerto Rico,US,18.050764,-66.494581,"Juana Diaz, Puerto Rico, US",79897
+63072077,PR,PRI,630,72077,Juncos,Puerto Rico,US,18.223793,-65.909109,"Juncos, Puerto Rico, US",40290
+63072079,PR,PRI,630,72079,Lajas,Puerto Rico,US,18.011661,-67.040585,"Lajas, Puerto Rico, US",25753
+63072081,PR,PRI,630,72081,Lares,Puerto Rico,US,18.269035,-66.867236,"Lares, Puerto Rico, US",30753
+63072083,PR,PRI,630,72083,Las Marias,Puerto Rico,US,18.23679,-66.98362,"Las Marias, Puerto Rico, US",9881
+63072085,PR,PRI,630,72085,Las Piedras,Puerto Rico,US,18.187527,-65.869468,"Las Piedras, Puerto Rico, US",38675
+63072087,PR,PRI,630,72087,Loiza,Puerto Rico,US,18.425688,-65.89943,"Loiza, Puerto Rico, US",30060
+63072089,PR,PRI,630,72089,Luquillo,Puerto Rico,US,18.342114,-65.725097,"Luquillo, Puerto Rico, US",20068
+63072091,PR,PRI,630,72091,Manati,Puerto Rico,US,18.420473,-66.490461,"Manati, Puerto Rico, US",44113
+63072093,PR,PRI,630,72093,Maricao,Puerto Rico,US,18.171795,-66.942126,"Maricao, Puerto Rico, US",6276
+63072095,PR,PRI,630,72095,Maunabo,Puerto Rico,US,18.017889,-65.922235,"Maunabo, Puerto Rico, US",12225
+63072097,PR,PRI,630,72097,Mayaguez,Puerto Rico,US,18.2013,-67.1452,"Mayaguez, Puerto Rico, US",89080
+63072099,PR,PRI,630,72099,Moca,Puerto Rico,US,18.377805,-67.080952,"Moca, Puerto Rico, US",40109
+63072101,PR,PRI,630,72101,Morovis,Puerto Rico,US,18.316963,-66.420383,"Morovis, Puerto Rico, US",32610
+63072103,PR,PRI,630,72103,Naguabo,Puerto Rico,US,18.230637,-65.753897,"Naguabo, Puerto Rico, US",26720
+63072105,PR,PRI,630,72105,Naranjito,Puerto Rico,US,18.288019,-66.252703,"Naranjito, Puerto Rico, US",30402
+63072107,PR,PRI,630,72107,Orocovis,Puerto Rico,US,18.215046,-66.433604,"Orocovis, Puerto Rico, US",23423
+63072109,PR,PRI,630,72109,Patillas,Puerto Rico,US,18.03174,-66.012242,"Patillas, Puerto Rico, US",19277
+63072111,PR,PRI,630,72111,Penuelas,Puerto Rico,US,18.059645,-66.721572,"Penuelas, Puerto Rico, US",24282
+63072113,PR,PRI,630,72113,Ponce,Puerto Rico,US,18.059498,-66.613748,"Ponce, Puerto Rico, US",166327
+63072115,PR,PRI,630,72115,Quebradillas,Puerto Rico,US,18.439692,-66.926113,"Quebradillas, Puerto Rico, US",25919
+63072117,PR,PRI,630,72117,Rincon,Puerto Rico,US,18.335443,-67.23174,"Rincon, Puerto Rico, US",15200
+63072119,PR,PRI,630,72119,Rio Grande,Puerto Rico,US,18.346329,-65.813742,"Rio Grande, Puerto Rico, US",54304
+63072121,PR,PRI,630,72121,Sabana Grande,Puerto Rico,US,18.08282,-66.943758,"Sabana Grande, Puerto Rico, US",25265
+63072123,PR,PRI,630,72123,Salinas,Puerto Rico,US,18.010387,-66.256592,"Salinas, Puerto Rico, US",31078
+63072125,PR,PRI,630,72125,San German,Puerto Rico,US,18.111484,-67.038581,"San German, Puerto Rico, US",35527
+63072127,PR,PRI,630,72127,San Juan,Puerto Rico,US,18.386933,-66.061128,"San Juan, Puerto Rico, US",395326
+63072129,PR,PRI,630,72129,San Lorenzo,Puerto Rico,US,18.147987,-65.976392,"San Lorenzo, Puerto Rico, US",41058
+63072131,PR,PRI,630,72131,San Sebastian,Puerto Rico,US,18.328646,-66.971214,"San Sebastian, Puerto Rico, US",42430
+63072133,PR,PRI,630,72133,Santa Isabel,Puerto Rico,US,17.994525,-66.388913,"Santa Isabel, Puerto Rico, US",23274
+63072135,PR,PRI,630,72135,Toa Alta,Puerto Rico,US,18.362406,-66.246616,"Toa Alta, Puerto Rico, US",74066
+63072137,PR,PRI,630,72137,Toa Baja,Puerto Rico,US,18.431446,-66.213553,"Toa Baja, Puerto Rico, US",89609
+63072139,PR,PRI,630,72139,Trujillo Alto,Puerto Rico,US,18.336159,-65.998884,"Trujillo Alto, Puerto Rico, US",74842
+63072141,PR,PRI,630,72141,Utuado,Puerto Rico,US,18.271214,-66.702984,"Utuado, Puerto Rico, US",33149
+63072143,PR,PRI,630,72143,Vega Alta,Puerto Rico,US,18.409346,-66.33725,"Vega Alta, Puerto Rico, US",39951
+63072145,PR,PRI,630,72145,Vega Baja,Puerto Rico,US,18.428262,-66.397924,"Vega Baja, Puerto Rico, US",59662
+63072147,PR,PRI,630,72147,Vieques,Puerto Rico,US,18.123276,-65.440971,"Vieques, Puerto Rico, US",9301
+63072149,PR,PRI,630,72149,Villalba,Puerto Rico,US,18.127951,-66.473115,"Villalba, Puerto Rico, US",26073
+63072151,PR,PRI,630,72151,Yabucoa,Puerto Rico,US,18.070399,-65.896289,"Yabucoa, Puerto Rico, US",37941
+63072153,PR,PRI,630,72153,Yauco,Puerto Rico,US,18.080374,-66.858814,"Yauco, Puerto Rico, US",42043
+63072888,PR,PRI,630,72888,Out of PR,Puerto Rico,US,,,"Out of PR, Puerto Rico, US",
+63072999,PR,PRI,630,72999,Unassigned,Puerto Rico,US,,,"Unassigned, Puerto Rico, US",
 84088888,US,USA,840,88888,,Diamond Princess,US,,,"Diamond Princess, US",
 84099999,US,USA,840,99999,,Grand Princess,US,,,"Grand Princess, US",
 84000001,US,USA,840,01,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185

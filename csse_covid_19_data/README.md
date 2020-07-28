@@ -23,18 +23,16 @@ MM-DD-YYYY.csv in UTC.
 * <b>Country_Region</b>: Country, region or sovereignty name. The names of locations included on the Website correspond with the official designations used by the U.S. Department of State.
 * <b>Last Update</b>: MM/DD/YYYY HH:mm:ss  (24 hour format, in UTC).
 * <b>Lat</b> and <b>Long_</b>: Dot locations on the dashboard. All points (except for Australia) shown on the map are based on geographic centroids, and are not representative of a specific address, building or any location at a spatial scale finer than a province/state. Australian dots are located at the centroid of the largest city in each state.
-* <b>Confirmed</b>: Confirmed cases include presumptive positive cases  and probable cases, in accordance with CDC guidelines as of April 14.
-* <b>Deaths</b>: Death totals in the US include confirmed and probable, in accordance with [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) guidelines as of April 14.
-* <b>Recovered</b>: Recovered cases outside China are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
-* <b>Active:</b> Active cases = total confirmed - total recovered - total deaths.
-* <b>Incidence_Rate</b>: Admin2 + Province_State + Country_Region.
-* <b>Case-Fatality Ratio (%)</b>: = confirmed cases per 100,000 persons.
-* <b>US Testing Rate</b>: = total test results per 100,000 persons. The "total test results" is equal to "Total test results
-(Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
-* <b>US Hospitalization Rate (%)</b>: = Total number hospitalized / Number confirmed cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "hospitalized - Cumulative" data is only presented for those states which provide cumulative hospital data.
+* <b>Confirmed</b>: Counts include confirmed and probable (where reported).
+* <b>Deaths</b>: Counts include confirmed and probable (where reported).
+* <b>Recovered</b>: Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
+* <b>Active:</b> Active cases = total cases - total recovered - total deaths.
+* <b>Incidence_Rate</b>: Incidence Rate = cases per 100,000 persons.
+* <b>Case-Fatality Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
 
 ### Update frequency
-* Files on and after April 23, once per day between 03:30 and 04:00 UTC.
+* Since June 15, We are moving the update time forward to occur between 04:45 and 05:15 GMT to accommodate daily updates from India's Ministry of Health and Family Welfare.
+* Files on and after April 23, once per day between 03:30 and 04:00 UTC. 
 * Files from February 2 to April 22: once per day around 23:59 UTC.
 * Files on and before February 1: the last updated files before 23:59 UTC. Sources: [archived_data](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data) and dashboard.
 
@@ -60,22 +58,22 @@ MM-DD-YYYY.csv in UTC.
 * <b>Last_Update</b> - The most recent date the file was pushed.
 * <b>Lat</b> - Latitude.
 * <b>Long_</b> - Longitude.
-* <b>Confirmed</b> - Aggregated confirmed case count for the state.
-* <b>Deaths</b> - Aggregated Death case count for the state.
+* <b>Confirmed</b> - Aggregated case count for the state.
+* <b>Deaths</b> - Aggregated death toll for the state.
 * <b>Recovered</b> - Aggregated Recovered case count for the state.
-* <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active = Confirmed - Recovered - Deaths).
+* <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active cases = total cases - total recovered - total deaths).
 * <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
-* <b>Incident_Rate</b> - confirmed cases per 100,000 persons.
+* <b>Incident_Rate</b> - cases per 100,000 persons.
 * <b>People_Tested</b> - Total number of people who have been tested.
 * <b>People_Hospitalized</b> - Total number of people hospitalized.
 * <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
-* <b>Testing_Rate</b> - Total number of people tested per 100,000 persons.
-* <b>Hospitalization_Rate</b> - Total number of people hospitalized * 100/ Number of confirmed cases.
+* <b>Testing_Rate</b> - Total test results per 100,000 persons. The "total test results" are equal to "Total test results (Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
+* <b>Hospitalization_Rate</b> - US Hospitalization Rate (%): = Total number hospitalized / Number cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "Total number hospitalized" is only presented for those states which provide cumulative hospital data.
 
 ### Update frequency
-* Once per day between 03:30 and 04:00 UTC.
+* Once per day between 04:45 and 05:15 UTC.
 
 ### Data sources
 Refer to the [mainpage](https://github.com/CSSEGISandData/COVID-19).
@@ -127,6 +125,12 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * June 30, the count of New Yorkers who have died of COVID-19 increased by 692. ([NYC gov](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)) We distributed these data back to the time series tables according to [nychealth GitHub](https://github.com/nychealth/coronavirus-data/blob/master/deaths/probable-confirmed-dod.csv).
 * July 3rd, on July 2nd, the United Kingdom revised their case count due to double counting of cases in England that had been tested in multiple facilities. In doing so, they revised their historical time series data for England (available [here](https://coronavirus.data.gov.uk/)). This change resulted in the need to revise our time series for the United Kingdom. As our time series data represents collective cases in England, Scotland, Northern Ireland, and Wales and the change only affected England, we gathered historical from each respective country's national dashboard (available [here](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary), [here](https://www.arcgis.com/apps/opsdashboard/index.html#/658feae0ab1d432f9fdb53aa082e4130), and [here](https://app.powerbi.com/view?r=eyJrIjoiZGYxNjYzNmUtOTlmZS00ODAxLWE1YTEtMjA0NjZhMzlmN2JmIiwidCI6IjljOWEzMGRlLWQ4ZDctNGFhNC05NjAwLTRiZTc2MjVmZjZjNSIsImMiOjh9)) to completely rewrite the time series data for cases in the United Kingdom.
 * July 9, Japan's data were updated according to the [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/). Confirmed cases were updated from Feb 5 to May 27, and deaths were updated from Feb 13 to May 27.
+* July 14, United Kingdom death data has historical revisions. Death data was downloaded from [this link](https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv) and the death totals for the UK from 3/25 to 6/22 in time_series_covid19_deaths_global.csv were updated to match the data in the official report.
+* July 18, we are now providing the confirmed cases for Puerto Rico at the municipality (Admin1) level. The historic Admin1 data ranging from 5/6 to 7/17 are from [nytimes dataset](https://github.com/nytimes/covid-19-data). Confirmed cases before 5/6 are categorized into Unassigned, Puerto Rico in `time_series_covid19_confirmed_US.csv`. Meanwhile, deaths are all grouped into Unassigned, Puerto Rico in `time_series_covid19_deaths_US.csv`. Daily cases are from [Puerto Rico Departamento de Salud](http://www.salud.gov.pr/Pages/coronavirus.aspx).
+* July 20, the negative active cases in Uganda is due to different criteria. According to a tweet mentioned by Uganda Ministry of Health, the recovered cases include Ugandans, non Ugandans and refugees while confirmed cases capture only Ugandans. ([source](https://twitter.com/gbkatatumba/status/1285150623692926976))
+* July 22nd, updates to Liechtenstein cases and recovered in line with historical data provided on this [government website](https://www.llv.li/inhalt/118863/amtsstellen/situationsbericht) and within this [pdf](https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf)
+* July 22, update Iceland confirmed cases and recovered cases (June 15 to July 20) according to the Directorate of Health and the Department of Civil Protection and Emergency Management of Iceland (https://www.covid.is/data). The positive with antibodies instances no longer figured into the number of total cases.
+* July 26, overwrite Chile time series data to distribute probable and non-notified cases occuring prior to June 17th. Data from [this repository] (https://github.com/MinCiencia/Datos-COVID19) managed by the Ministry of Science was used for the correction. Specifically, data from [product 45] CasosConfirmadosPorComunaHistorico_std.csv and CasosNoNotificadosPorComunaHistorico_std.csv was accessed on July 26 and the most current version of the documents at that time were used for the correction. For CasosConfirmadosPorComunaHistorico_std.csv, this was July 22nd. Cases were added to the day at the end of their respective epidemiological week. 
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -136,12 +140,28 @@ This section reports instances where large numbers of historical cases or deaths
 * April 29th, United Kingdom updated death counts to reflect deaths outside of hospitals ([source](https://metro.co.uk/2020/04/29/uk-death-toll-rises-26097-care-homes-included-12628454/)). Corrections were made to match time series on official website.
 * June 5th, as reported in [Issue #2704](https://github.com/CSSEGISandData/COVID-19/issues/2704), the state of Michigan released probable cases and probable deaths. The probable cases and deaths have been distributed over March 12th and June 10th as advised by the Michigan Department of Health and Human Services.
 * June 12th, probable cases in Massachusetts redistributed over time series. File source is [here](https://www.mass.gov/info-details/covid-19-response-reporting).
-* June 17th, as reported in [Issue #2722](https://github.com/CSSEGISandData/COVID-19/issues/2722), the country of Chile released 31k cases that had previously been absent from their national counts. We are monitoring their data source to see any retrospective corrections to this data.
+* June 17th, as reported in [Issue #2722](https://github.com/CSSEGISandData/COVID-19/issues/2722), the country of Chile released 31k cases that had previously been absent from their national counts. This data has been corrected as noted above in the Data Modification records.
 * June 22nd, The spike in cases (and deaths) in Mississippi on June 22 is due to a lack of reporting by the state for the four days prior due to a reported technical issue (https://msdh.ms.gov/msdhsite/_static/resources/8675.pdf).
 * June 23rd, as reported in [Issue #2789](https://github.com/CSSEGISandData/COVID-19/issues/2789), the state of Delaware released some probable deaths and identified historical confirmed deaths. We are actively engaged with stakeholders to determine how to distribute these deaths over time.
 * June 25th, as reported in [Issue #2763](https://github.com/CSSEGISandData/COVID-19/issues/2763), the state of New Jersey released probable deaths. We are actively engaged with stakeholders to determine how to distribute these deaths over time.
 * July 1, the count of New Yorkers who have died of COVID-19 increased by 692 on June 30. ([NYC gov](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)) On July 1 we distributed these data back to the time series tables according to [nychealth GitHub](https://github.com/nychealth/coronavirus-data/blob/master/deaths/probable-confirmed-dod.csv).
 * July 7th, incorporation of probable cases and deaths that are being released by the Illinois Department of Health once per week, starting July 3rd. We anticipate weekly spikes in both of these numbers.
+* July 27, The state of Texas' Department of State Health Services changed their reporting methodology for COVID-19 deaths, resulting in a roughly 13% increase in reported fatalities from the 26th to the 27th.  Details can be found in the press release from the state [here](https://www.dshs.texas.gov/news/releases/2020/20200727.aspx).
+
+## Irregular Update Schedules
+As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
+
+United States
+* Rhode Island: Not updating case, death, or recovered data on the weekends
+* Conneticut: Not updating case, death, or recovered data on the weekends
+* Illinois: Releasing probable cases once per week.
+
+International
+* Sweden: Not updating case, death, or recovered data on the weekends
+* Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
+* Nicaragua: Releasing case, death, and recovered data once per week.
+* UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC))
+* France: No longer releasing case, hospitalization, or death data on the weekends. Please see [Tableau dashboard](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA). We have corresponded with the French Health Ministry to ensure that this is a new practice and not a one-off reporting pause.
 
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
@@ -159,7 +179,7 @@ This section reports instances where large numbers of historical cases or deaths
   * Italy: UIDs are combined country code (380) with `codice_regione`, which is from [Dati COVID-19 Italia](https://github.com/pcm-dpc/COVID-19). Exceptions: P.A. Bolzano is 38041 and P.A. Trento is 38042.
 3.	The US (most entries with Admin0, Admin1 and Admin2).
   *	US by itself is 840 (UID = code3).
-  *	US dependencies, American Samoa, Guam, Northern Mariana Islands, Virgin Islands and Puerto Rico, UID = code3. Their FIPS codes are different from code3.
+  *	US dependencies, American Samoa, Guam, Northern Mariana Islands, Virgin Islands and Puerto Rico, UID = code3. Their Admin0 FIPS codes are different from code3.
   *	US states: UID = 840 (country code3) + 000XX (state FIPS code). Ranging from 8400001 to 84000056.
   *	Out of [State], US: UID = 840 (country code3) + 800XX (state FIPS code). Ranging from 8408001 to 84080056.
   *	Unassigned, US: UID = 840 (country code3) + 900XX (state FIPS code). Ranging from 8409001 to 84090056.
@@ -167,6 +187,7 @@ This section reports instances where large numbers of historical cases or deaths
   *	Exception type 1, such as recovered and Kansas City, ranging from 8407001 to 8407999.
   *	Exception type 2, only the New York City, which is replacing New York County and its FIPS code.
   *	Exception type 3, Diamond Princess, US: 84088888; Grand Princess, US: 84099999.
+  * Exception type 4, municipalities in Puerto Rico are regarded as counties with FIPS codes. The FIPS code for the unassigned category is defined as 72999.
 4. Population data sources.
  * United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Rev. 1. https://population.un.org/wpp/Download/Standard/Population/
  * eurostat: https://ec.europa.eu/eurostat/web/products-datasets/product?code=tgs00096
@@ -175,5 +196,6 @@ This section reports instances where large numbers of historical cases or deaths
 * Brazil 2019 projection: ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2019/
 * Peru 2020 projection: https://www.citypopulation.de/en/peru/cities/
 * India 2019 population: http://statisticstimes.com/demographics/population-of-indian-states.php
+* The Admin0 level population could be different from the sum of Admin1 level population since they may be from different sources.
 
 Disclaimer: \*The names of locations included on the Website correspond with the official designations used by the U.S. Department of State. The presentation of material therein does not imply the expression of any opinion whatsoever on the part of JHU concerning the legal status of any country, area or territory or of its authorities. The depiction and use of boundaries, geographic names and related data shown on maps and included in lists, tables, documents, and databases on this website are not warranted to be error free nor do they necessarily imply official endorsement or acceptance by JHU.

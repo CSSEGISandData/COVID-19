@@ -2,7 +2,7 @@
 # @Author: lily
 # @Date:   2020-04-04 17:09:18
 # @Last Modified by:   lily
-# @Last Modified time: 2020-06-22 12:05:24
+# @Last Modified time: 2020-06-23 23:30:30
 import io, os, sys, types, pickle, warnings
 from datetime import datetime, timedelta
 
@@ -432,7 +432,10 @@ def plot_region(df_region, region_name, **kwargs):
 	ax = fig.add_subplot(gs[0, 1])
 	df_difs = df_region.loc[:,plotting_params['time_series_cols']].diff()
 	if('rolling' in plotting_params.keys()):
-		df_plot = df_difs.rolling(window = plotting_params['rolling']).mean()
+		if(plotting_params['rolling'] != 0):
+			df_plot = df_difs.rolling(window = plotting_params['rolling']).mean()
+		else:
+			df_plot = df_difs
 	else:
 		df_plot = df_difs
 
@@ -488,7 +491,7 @@ def plot_region(df_region, region_name, **kwargs):
 	
 	ax.legend(['Confirmed', 'Deaths', 'y=1'])
 	ax.set_title(f'{region_name} Growth Factor: {df_region.GFc_rolling[-1]:.2f}/{df_region.GFd_rolling[-1]:.2f} at {time_datetime[-1].date()}')
-	ax.set_ylim([0, min(2.5, max(np.max(df_region.GFc_rolling) + 0.5, np.max(df_region.GFd_rolling) + 0.5))])
+	ax.set_ylim([1-0.25, 1+0.25])
 	
 	ax.set_xlim([time_datetime[0], time_datetime[-1] + timedelta(days=2)])
 	
