@@ -147,6 +147,7 @@ This section reports instances where large numbers of historical cases or deaths
 * June 25th, as reported in [Issue #2763](https://github.com/CSSEGISandData/COVID-19/issues/2763), the state of New Jersey released probable deaths. We are actively engaged with stakeholders to determine how to distribute these deaths over time.
 * July 1, the count of New Yorkers who have died of COVID-19 increased by 692 on June 30. ([NYC gov](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)) On July 1 we distributed these data back to the time series tables according to [nychealth GitHub](https://github.com/nychealth/coronavirus-data/blob/master/deaths/probable-confirmed-dod.csv).
 * July 7th, incorporation of probable cases and deaths that are being released by the Illinois Department of Health once per week, starting July 3rd. We anticipate weekly spikes in both of these numbers.
+* July 22, Peru added an additional 3688 deaths from analyzing historical death records. It is unclear if these are probable deaths or retroactively diagnosed. [Source](https://www.gob.pe/institucion/minsa/noticias/214828-minsa-casos-confirmados-por-coronavirus-covid-19-ascienden-a-366-550-en-el-peru-comunicado-n-180)
 * July 27, The state of Texas' Department of State Health Services changed their reporting methodology for COVID-19 deaths, resulting in a roughly 13% increase in reported fatalities from the 26th to the 27th.  Details can be found in the press release from the state [here](https://www.dshs.texas.gov/news/releases/2020/20200727.aspx).
 
 ## Irregular Update Schedules
