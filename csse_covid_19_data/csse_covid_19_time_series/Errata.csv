@@ -391,3 +391,16 @@
 7/26/2020,time_series_covid19_confirmed_global.csv,US,7/25/2020,,,Update from ID DOH
 7/26/2020,time_series_covid19_deaths_US.csv,Idaho,7/25/2020,,,Update from ID DOH
 7/26/2020,time_series_covid19_deaths_global.csv,US,7/25/2020,,,Update from ID DOH
+7/28/2020,time_series_covid19_confirmed_global.csv,Netherlands,7/26/2020,52732,53005,data from the end of the day
+7/28/2020,time_series_covid19_deaths_global.csv,Netherlands,7/26/2020,6140,6159,data from the end of the day
+7/28/2020,time_series_covid19_confirmed_global.csv,Spain,7/27/2020,,,Update from Ministerio de Sanidad
+7/28/2020,time_series_covid19_deaths_global.csv,Spain,7/27/2020,,,Update from Ministerio de Sanidad
+7/28/2020,time_series_covid19_confirmed_US.csv,District of Columbia,7/27/2020,,,Update DC from DC gov
+7/28/2020,time_series_covid19_deaths_US.csv,District of Columbia,7/27/2020,,,Update DC from DC gov
+7/28/2020,time_series_covid19_confirmed_global.csv,US,7/27/2020,,,Update DC from DC gov
+7/28/2020,time_series_covid19_deaths_global.csv,US,7/27/2020,,,Update DC from DC gov
+7/28/2020,time_series_covid19_confirmed_global.csv,Kosovo,3/14-7/26/2020,,,Update Kosovo from IKSHPK and other sources
+7/28/2020,time_series_covid19_deaths_global.csv,Kosovo,3/14-7/26/2020,,,Update Kosovo from IKSHPK and other sources
+7/28/2020,time_series_covid19_recovered_global.csv,Kosovo,3/14-7/26/2020,,,Update Kosovo from IKSHPK and other sources
+7/29/2020,time_series_covid19_confirmed_global.csv,Peru,3/14-7/26/2020,,,Update Peru from MINSA
+7/29/2020,time_series_covid19_deaths_global.csv,Peru,3/14-7/26/2020,,,Update Peru from MINSA
