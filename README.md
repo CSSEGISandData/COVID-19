@@ -81,6 +81,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Oklahoma State Department of Health: https://looker-dashboards.ok.gov/embed/dashboards/44
   - Guam Department of Public Health and Social Services: http://dphss.guam.gov/covid-19/ 
   - New Mexico Department of Health: https://cvprovider.nmhealth.org/public-dashboard.html
+  - Kentucky Department of Public Health: https://kygeonet.maps.arcgis.com/apps/opsdashboard/index.html#/543ac64bc40445918cf8bc34dc40e334
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
