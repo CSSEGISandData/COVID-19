@@ -426,4 +426,7 @@
 8/2/2020,time_series_covid19_deaths_global.csv,"Victoria, Australia",8/1/2020,,,Update Victoria from DOH
 8/3/2020,time_series_covid19_confirmed_global.csv,"Victoria, Australia",8/2/2020,,,Update Victoria from DOH
 8/3/2020,time_series_covid19_deaths_global.csv,"Victoria, Australia",8/2/2020,,,Update Victoria from DOH
-8/3/2020,time_series_covid19_deaths_global.csv,"Victoria, Australia",8/2/2020,,,Update Victoria from DOH
+8/3/2020,time_series_covid19_recovered_global.csv,"Victoria, Australia",8/2/2020,,,Update Victoria from DOH
+8/3/2020,time_series_covid19_confirmed_global.csv,Colombia,7/26/2020,,,Update Colombia from MS
+8/3/2020,time_series_covid19_deaths_global.csv,Colombia,7/26/2020,,,Update Colombia from DOH
+8/3/2020,time_series_covid19_recovered_global.csv,Colombia,7/26/2020,,,Update Colombia from DOH
