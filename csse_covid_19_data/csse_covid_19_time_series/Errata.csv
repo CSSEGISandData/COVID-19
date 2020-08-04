@@ -329,16 +329,16 @@
 7/14/2020,time_series_covid19_confirmed_global.csv,US,7/13/2020,,,Update from Washington DOH reporting
 7/14/2020,time_series_covid19_deaths_US.csv,Washington,7/13/2020,,,Update from Washington DOH reporting
 7/14/2020,time_series_covid19_deaths_global.csv,US,7/13/2020,,,Update from Washington DOH reporting
-7/14/2020,time_series_covid19_confirmed_global.csv,US,6/02/2020,170039,178165,Update from Peru MDS
-7/14/2020,time_series_covid19_deaths_global.csv,US,6/02/2020,4634,4767,Update from Peru MDS
-7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/01/2020,50273,50335,Stale data update
-7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/02/2020,50335,50412,Stale data update
-7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/03/2020,50335,50487,Stale data update
-7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/04/2020,50335,50548,Stale data update
-7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/01/2020,6113,6115,Stale data update
-7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/02/2020,6113,6118,Stale data update
-7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/03/2020,6113,6120,Stale data update
-7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/04/2020,6113,6126,Stale data update
+7/14/2020,time_series_covid19_confirmed_global.csv,US,6/2/2020,170039,178165,Update from Peru MDS
+7/14/2020,time_series_covid19_deaths_global.csv,US,6/2/2020,4634,4767,Update from Peru MDS
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/1/2020,50273,50335,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/2/2020,50335,50412,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/3/2020,50335,50487,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/4/2020,50335,50548,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/1/2020,6113,6115,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/2/2020,6113,6118,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/3/2020,6113,6120,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/4/2020,6113,6126,Stale data update
 7/15/2020,time_series_covid19_confirmed_US.csv,"Granville, NC",4/27/2020,240,133,Correction
 7/15/2020,time_series_covid19_confirmed_global.csv,US,4/27/2020,990999,990892,Correction
 7/15/2020,time_series_covid19_confirmed_US.csv,"Dent, MO",5/13/2020-6/22/2020,,,Update via Dent County Health Center data
@@ -434,3 +434,14 @@
 8/4/2020,time_series_covid19_deaths_US.csv,Georgia,7/31-8/2/2020,,,Update from DC
 8/4/2020,time_series_covid19_confirmed_global.csv,US,7/31-8/2/2020,,,Update from DC
 8/4/2020,time_series_covid19_deaths_global.csv,US,7/31-8/2/2020,,,Update from DC
+8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/2/2020,1115,1229,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/3/2020,1132,1246,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/4/2020,1151,1264,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/5/2020,1211,1326,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,New Hampshire,5/15/2020,151,159,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,New Mexico,5/23/2020,302,308,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,5/21/2020,728,734,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,6/21/2020,1223,1245,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/3/2020,501,518,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/4/2020,501,525,New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/6/2020,539,545,New York Times
