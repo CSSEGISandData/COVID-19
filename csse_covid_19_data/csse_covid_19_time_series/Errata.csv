@@ -434,15 +434,10 @@
 8/4/2020,time_series_covid19_deaths_US.csv,Georgia,7/31-8/2/2020,,,Update from DC
 8/4/2020,time_series_covid19_confirmed_global.csv,US,7/31-8/2/2020,,,Update from DC
 8/4/2020,time_series_covid19_deaths_global.csv,US,7/31-8/2/2020,,,Update from DC
-8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/2/2020,1115,1229,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/3/2020,1132,1246,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/4/2020,1151,1264,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/5/2020,1211,1326,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,New Hampshire,5/15/2020,151,159,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,New Mexico,5/23/2020,302,308,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,5/21/2020,728,734,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,6/21/2020,1223,1245,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/3/2020,501,518,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/4/2020,501,525,New York Times
-8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/6/2020,539,545,New York Times
-8/5/2020,time_series_covid19_deaths_Global.csv,US,3/17-6/24/2020,,,match US time series
+8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/2-5/5/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,New Hampshire,5/15/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,New Mexico,5/23/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,5/21/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,6/21/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/3-6/6/2020,,,Retrospective from New York Times
+8/5/2020,time_series_covid19_deaths_Global.csv,US,3/17-6/24/2020,,,Internal consistency for US
