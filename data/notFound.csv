@@ -1,6 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,10846,108.0
-Staff,Federal Bureau of Prisons,US,1283,1.0
+Inmates,Federal Bureau of Prisons,US,10903,110.0
+Staff,Federal Bureau of Prisons,US,1305,1.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
 Cibola(NM),Navajo Nation,US,37,0.0
@@ -31,7 +31,7 @@ Texas,Puerto Rico,US,0,0.0
 Ohio,Puerto Rico,US,0,0.0
 Massachusetts,Puerto Rico,US,0,0.0
 ,Australia,Australia,19863,255.0
-,,World,19135675,714210.0
+,,World,19143367,714335.0
 ,NACIONAL,Mexico,456100,49698.0
 ,Crimea Republic*,Russia,1347,16.0
 ,Sevastopol*,Russia,360,11.0
