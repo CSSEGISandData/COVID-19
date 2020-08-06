@@ -440,4 +440,6 @@
 8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,5/21/2020,,,Retrospective from New York Times
 8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,6/21/2020,,,Retrospective from New York Times
 8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/3-6/6/2020,,,Retrospective from New York Times
-8/5/2020,time_series_covid19_deaths_Global.csv,US,3/17-6/24/2020,,,Internal consistency for US
+8/5/2020,time_series_covid19_deaths_global.csv,US,3/17-6/24/2020,,,Internal consistency for US
+8/4/2020,time_series_covid19_deaths_US.csv,"Webb, Texas",7/26-8/4/2020,,,Update from City of Laredo 
+8/5/2020,time_series_covid19_deaths_global.csv,US,7/26-8/4/2020,,,Update from City of Laredo
