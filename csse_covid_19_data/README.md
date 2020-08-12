@@ -160,6 +160,7 @@ This section reports instances where large numbers of historical cases or deaths
 * July 29, Connecticut cases rise by 463 cases. 384 cases of the cases are from lab tests "performed during April-June (which) were newly reported to DPH in connection with a transition to electronic reporting by an out of state regional laboratory and for surveillance purposes have been added to the total case and test counts" ([source](https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary7292020.pdf)). The 463 spike is consistent with the ct.gov data ([source](https://data.ct.gov/Health-and-Human-Services/COVID-19-Tests-Cases-Hospitalizations-and-Deaths-S/rf3k-f8fg/data)).
 * August 6, In line with the changes to Texas' reporting methods described on July 27th, the time series for coronavirus deaths in Harris County has been updated from 3/7 to 8/5/2020. 
 * August 8, spikes in Virginia cases are associated with the release of a backlog of testing. ([Source](https://wtop.com/virginia/2020/08/recent-surge-in-virginia-covid-19-numbers-due-to-data-backlog))
+* August 11, cases in California are likely to be erratic for the next several days/weeks as a systematic issue with underreporting is being addressed. See the disclaimer posted [here](https://covid19.ca.gov/data-and-tools/): "Note: Due to issues with the state’s electronic laboratory reporting system, these data represent an underreporting of actual positive cases in one single day."
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
@@ -178,6 +179,8 @@ International
 * UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC))
 * France: No longer releasing case, hospitalization, or death data on the weekends. Please see [Tableau dashboard](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA). 
 * Denmark: Not updating case, death, or recovered data on the weekends.
+* France: No update to deaths or recoveries for the weekend of August 8 and 9.
+* UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21)
 
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
