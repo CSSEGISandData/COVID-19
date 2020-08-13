@@ -141,7 +141,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,5540718
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,65273512
 254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
-258,PF,PYF,258,,,French Polynesia,France,-17.6797,149.4068,"French Polynesia, France",280904
+258,PF,PYF,258,,,French Polynesia,France,-17.6797,-149.4068,"French Polynesia, France",280904
 312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
 474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",375265
 175,YT,MYT,175,,,Mayotte,France,-12.8275,45.166244,"Mayotte, France",272813
