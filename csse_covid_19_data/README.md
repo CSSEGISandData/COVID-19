@@ -161,6 +161,7 @@ This section reports instances where large numbers of historical cases or deaths
 * August 6, In line with the changes to Texas' reporting methods described on July 27th, the time series for coronavirus deaths in Harris County has been updated from 3/7 to 8/5/2020. 
 * August 8, spikes in Virginia cases are associated with the release of a backlog of testing. ([Source](https://wtop.com/virginia/2020/08/recent-surge-in-virginia-covid-19-numbers-due-to-data-backlog))
 * August 11, cases in California are likely to be erratic for the next several days/weeks as a systematic issue with underreporting is being addressed. See the disclaimer posted [here](https://covid19.ca.gov/data-and-tools/): "Note: Due to issues with the state’s electronic laboratory reporting system, these data represent an underreporting of actual positive cases in one single day."
+* August 12, The Massachusetts Department of Public Health changed their reporting methodology. The state is no longer reporting county level total cases and deaths daily. Massachusetts is now reporting state level confirmed cases and deaths daily, and are updating state level probable cases and county level confirmed cases weekly. In light of this change by the state, new cases and deaths are being aggregated in "Unassigned, Massachusetts".
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
@@ -171,6 +172,7 @@ United States
 * Illinois: Releasing probable cases once per week.
 * District of Columbia: No weekend update for the first week of August.
 * Louisiana: No weekend update for the first week of August.
+* Massachusetts: Not updating county level data daily.  Probable cases only updated weekly.
 
 International
 * Sweden: Not updating case, death, or recovered data on the weekends
