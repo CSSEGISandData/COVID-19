@@ -449,3 +449,24 @@
 8/6/2020,time_series_covid19_deaths_global.csv,US,8/4-8/5/2020,,,Update United Kingdom from GOV.UK
 8/7/2020,time_series_covid19_confirmed_global.csv,US,8/6/2020,,,Update Peru from MINSA
 8/7/2020,time_series_covid19_deaths_global.csv,US,8/6/2020,,,Update Peru from MINSA
+8/12/2020,time_series_covid19_confirmed_global.csv,Netherlands,8/11/2020,-1,59424,Update from error in product generation
+8/12/2020,time_series_covid19_deaths_global.csv,Netherlands,8/11/2020,-1,6141,Update from error in product generation
+8/12/2020,time_series_covid19_recovered_global.csv,Netherlands,8/11/2020,-1,0,Update from error in product generation
+8/12/2020,time_series_covid19_confirmed_global.csv,Macau,8/11/2020,-1,46,Update from error in product generation
+8/12/2020,time_series_covid19_deaths_global.csv,Macau,8/11/2020,-1,0,Update from error in product generation
+8/12/2020,time_series_covid19_recovered_global.csv,Macau,8/11/2020,-1,46,Update from error in product generation
+8/12/2020,time_series_covid19_confirmed_global.csv,Hong Kong,8/11/2020,-1,4181,Update from error in product generation
+8/12/2020,time_series_covid19_deaths_global.csv,Hong Kong,8/11/2020,-1,59,Update from error in product generation
+8/12/2020,time_series_covid19_recovered_global.csv,Hong Kong,8/11/2020,-1,3052,Update from error in product generation
+8/12/2020,time_series_covid19_confirmed_global.csv,Brazil,8/11/2020,,,Update from Secretarias Estaduais de Saude
+8/12/2020,time_series_covid19_deaths_global.csv,Brazil,8/11/2020,,,Update from Secretarias Estaduais de Saude
+8/12/2020,time_series_covid19_confirmed_global.csv,Peru,8/11/2020,,,Update Peru from MINSA
+8/12/2020,time_series_covid19_deaths_global.csv,Peru,8/11/2020,,,Update Peru from MINSA
+8/12/2020,time_series_covid19_deaths_US.csv,"Orange, North Carolina",8/11/2020,,,Update from NCDHHS 
+8/12/2020,time_series_covid19_deaths_global.csv,US,8/11/2020,,,Update from NCDHHS
+8/13/2020,time_series_covid19_confirmed_US.csv,"Unassigned,Massachusetts",8/12/2020,,,Update from MA Dashboard & Weekly
+8/13/2020,time_series_covid19_deaths_US.csv,"Unassigned,Massachusetts",8/12/2020,,,Update from MA Dashboard & Weekly
+8/13/2020,time_series_covid19_confirmed_global.csv,US,8/12/2020,,,Update from MA Dashboard & Weekly
+8/13/2020,time_series_covid19_deaths_global.csv,US,8/12/2020,,,Update from MA Dashboard & Weekly
+8/12/2020,time_series_covid19_deaths_US.csv,"Orange, North Carolina",8/12/2020,,,Update from NCDHHS 
+8/12/2020,time_series_covid19_deaths_global.csv,US,8/12/2020,,,Update from NCDHHS
