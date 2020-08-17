@@ -474,3 +474,5 @@
 8/15/2020,time_series_covid19_deaths_US.csv,"Unassigned,Massachusetts",8/13-8/14/2020,,,Update from MA Dashboard Raw Data
 8/15/2020,time_series_covid19_confirmed_global.csv,US,8/13-8/14/2020,,,Update from MA Dashboard Raw Data
 8/15/2020,time_series_covid19_deaths_global.csv,US,8/13-8/14/2020,,,Update from MA Dashboard Raw Data
+8/17/2020,time_series_covid19_confirmed_global.csv,Brazil,8/14/2020,3226443,3275520,Match up with the official report
+8/17/2020,time_series_covid19_deaths_global.csv,Brazil,8/14/2020,105490,106523,Match up with the official report
