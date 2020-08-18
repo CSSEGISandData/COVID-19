@@ -84,6 +84,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Kentucky Department of Public Health: https://kygeonet.maps.arcgis.com/apps/opsdashboard/index.html#/543ac64bc40445918cf8bc34dc40e334
   - Georgia Department of Public Health: https://dph.georgia.gov/covid-19-daily-status-report
   - State of Hawai'i Department of Health: https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/
+  - Reno County Health Department: http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994
   - Texas Department of State Health Services: https://dshs.texas.gov/coronavirus/
   - Texas: City of San Antonio: https://covid19.sanantonio.gov/Home
   - Texas: Brazioria County: https://www.brazoriacountytx.gov/departments/health-department/brazoria-county-coronavirus-map
