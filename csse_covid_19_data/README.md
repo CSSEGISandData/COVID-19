@@ -29,6 +29,7 @@ MM-DD-YYYY.csv in UTC.
 * <b>Active:</b> Active cases = total cases - total recovered - total deaths.
 * <b>Incidence_Rate</b>: Incidence Rate = cases per 100,000 persons.
 * <b>Case-Fatality Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
+* All cases, deaths, and recoveries reported are based on the date of initial report. Exceptions to this are noted in the "Data Modification" and "Retrospective reporting of (probable) cases and deaths" subsections below.  
 
 ### Update frequency
 * Since June 15, We are moving the update time forward to occur between 04:45 and 05:15 GMT to accommodate daily updates from India's Ministry of Health and Family Welfare.
