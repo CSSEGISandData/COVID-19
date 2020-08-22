@@ -179,6 +179,7 @@ United States
 * District of Columbia: No weekend update for the first week of August.
 * Louisiana: No weekend update for the first week of August.
 * Massachusetts: Not updating county level data daily.  Probable cases only updated weekly.
+* Michigan: No case data provided for August 21. 
 
 International
 * Sweden: Not updating case, death, or recovered data on the weekends
