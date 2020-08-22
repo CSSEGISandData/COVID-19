@@ -32,6 +32,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
   - 1Point3Arces: https://coronavirus.1point3acres.com/en  
   - COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
+  - Los Angeles Times: https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/
+  - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:  
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
@@ -112,7 +114,36 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Texas: Travis County: https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information
   - Texas: City of Laredo: https://www.cityoflaredo.com/coronavirus/
   - Texas: Williamson County & Cities Health District: http://www.wcchd.org/COVID-19/dashboard.php
-
+  - California Department of Publich Health: https://www.cdph.ca.gov/covid19
+  - California: Mariposa County: https://www.mariposacounty.org/1592/COVID-19-Information
+  - California: Alameda County Public Health Department: https://covid-19.acgov.org/
+  - California: City of Fresno: https://www.fresno.gov/coronavirus
+  - California: Humboldt County: https://humboldtgov.org/
+  - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
+  - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
+  - California: Orange County Health Care Agency: https://occovid19.ochealthinfo.com/coronavirus-in-oc
+  - California: Placer County: https://www.placer.ca.gov/coronavirus
+  - California: Riverside County: https://www.rivcoph.org/coronavirus
+  - California: Sacramento County: https://www.saccounty.net/COVID-19/
+  - California: San Francisco Department of Public Helath: https://www.sfdph.org/dph/alerts/coronavirus.asp
+  - California: San Benito County Health & Human Services: https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/
+  - California: San Joaquin County Public Health Services: http://www.sjcphs.org/coronavirus.aspx
+  - California: San Mateo County: https://www.smchealth.org/coronavirus
+  - California: Santa Cruz County Health Services Agency: http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome.aspx
+  - California: Shasta County: https://www.co.shasta.ca.us/covid-19/overview
+  - California: Solano County: https://www.co.shasta.ca.us/covid-19/overview
+  - California: Sonoma County: https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/
+  - California: Stanislaus County Health Services Agency: http://schsa.org/publichealth/pages/corona-virus/
+  - California: Ventura County: https://www.venturacountyrecovers.org/
+  - California: Yolo County: https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/
+  - California: Los Angeles County: http://publichealth.lacounty.gov/media/coronavirus/
+  - California: San Diego County: https://www.sandiegocounty.gov/coronavirus.html
+  - California: Santa Clara County: https://www.sccgov.org/sites/covid19/
+  - California: Imperial County Public Health Department: http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/
+  - California: San Bernardino County: https://sbcovid19.com/
+  - Montana Department of Public Health and Human Services: https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt
+  - South Dakota Department of Health: https://doh.sd.gov/news/coronavirus.aspx
+  
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
     http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
