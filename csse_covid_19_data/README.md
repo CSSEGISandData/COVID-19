@@ -173,13 +173,15 @@ This section reports instances where large numbers of historical cases or deaths
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Rhode Island: Not updating case, death, or recovered data on the weekends
-* Conneticut: Not updating case, death, or recovered data on the weekends
+* Rhode Island: Not updating case, death, or recovered data on the weekends.
+* Conneticut: Not updating case, death, or recovered data on the weekends.
 * Illinois: Releasing probable cases once per week.
-* District of Columbia: No weekend update for the first week of August.
-* Louisiana: No weekend update for the first week of August.
+* District of Columbia: Not updating on the weekends.
+* Louisiana: Not updating on the weekends.
 * Massachusetts: Not updating county level data daily.  Probable cases only updated weekly.
 * Michigan: No case data provided for August 21. 
+* Kansas: No data for the weekend of August 22-23.
+* Guam: No data for the weekend of August 22-23.
 
 International
 * Sweden: Not updating case, death, or recovered data on the weekends
