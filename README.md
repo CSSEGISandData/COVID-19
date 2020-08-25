@@ -32,6 +32,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
   - 1Point3Arces: https://coronavirus.1point3acres.com/en  
   - COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
+  - Los Angeles Times: https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/
+  - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:  
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
@@ -84,7 +86,64 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Kentucky Department of Public Health: https://kygeonet.maps.arcgis.com/apps/opsdashboard/index.html#/543ac64bc40445918cf8bc34dc40e334
   - Georgia Department of Public Health: https://dph.georgia.gov/covid-19-daily-status-report
   - State of Hawai'i Department of Health: https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/
-
+  - Reno County Health Department: http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994
+  - Texas Department of State Health Services: https://dshs.texas.gov/coronavirus/
+  - Texas: City of San Antonio: https://covid19.sanantonio.gov/Home
+  - Texas: Brazioria County: https://www.brazoriacountytx.gov/departments/health-department/brazoria-county-coronavirus-map
+  - Texas: Brazos County Health District: http://www.brazoshealth.org
+  - Texas: Cameron County Public Health: https://www.cameroncounty.us/publichealth/index.php/coronavirus/
+  - Texas: Collin County: https://www.collincountytx.gov/healthcare_services/Pages/news.aspx
+  - Texas: Dallas County: https://www.dallascounty.org/departments/dchhs/2019-novel-coronavirus.php
+  - Texas: Denton County: https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases
+  - Texas: Ector County:  http://www.co.ector.tx.us/page/ector.CoronavirusCOVID19
+  - Texas: City of El Paso: http://epstrong.org/results.php
+  - Texas: Fayette County: https://www.co.fayette.tx.us/
+  - Texas: Fort Bend County Health & Human Services: https://www.fbchealth.org/ncov/
+  - Texas: Galveston County Health District: https://www.gchd.org/about-us/news-and-events/coronavirus-disease-2019-covid-19/galveston-county-confirmed-covid-19-cases
+  - Texas: Harris County: https://publichealth.harriscountytx.gov/Resources/2019-Novel-Coronavirus
+  - Texas: Hays County: https://hayscountytx.com/covid-19-information-for-hays-county-residents/
+  - Texas: Hidalgo County Health and Human Services: https://www.hidalgocounty.us/2630/Coronavirus-Updates
+  - Texas: Midland County: https://www.midlandtexas.gov/955/Coronavirus-COVID-19
+  - Texas: Montgomery County: https://coronavirus-response-moco.hub.arcgis.com/
+  - Texas: City of Corpus Christi: https://www.cctexas.com/coronavirus
+  - Texas: Amarillo Public Health Department: https://covid-data-amarillo.hub.arcgis.com/
+  - Texas: Tarrant County Public Health: https://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html
+  - Texas: City of Mount Pleasant: https://www.mpcity.net/632/COVID-19-UPDATES
+  - Texas: City of San Angelo: https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0
+  - Texas: San Angelo Standard-Times: https://www.gosanangelo.com/
+  - Texas: Travis County: https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information
+  - Texas: City of Laredo: https://www.cityoflaredo.com/coronavirus/
+  - Texas: Williamson County & Cities Health District: http://www.wcchd.org/COVID-19/dashboard.php
+  - California Department of Publich Health: https://www.cdph.ca.gov/covid19
+  - California: Mariposa County: https://www.mariposacounty.org/1592/COVID-19-Information
+  - California: Alameda County Public Health Department: https://covid-19.acgov.org/
+  - California: City of Fresno: https://www.fresno.gov/coronavirus
+  - California: Humboldt County: https://humboldtgov.org/
+  - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
+  - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
+  - California: Orange County Health Care Agency: https://occovid19.ochealthinfo.com/coronavirus-in-oc
+  - California: Placer County: https://www.placer.ca.gov/coronavirus
+  - California: Riverside County: https://www.rivcoph.org/coronavirus
+  - California: Sacramento County: https://www.saccounty.net/COVID-19/
+  - California: San Francisco Department of Public Helath: https://www.sfdph.org/dph/alerts/coronavirus.asp
+  - California: San Benito County Health & Human Services: https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/
+  - California: San Joaquin County Public Health Services: http://www.sjcphs.org/coronavirus.aspx
+  - California: San Mateo County: https://www.smchealth.org/coronavirus
+  - California: Santa Cruz County Health Services Agency: http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome.aspx
+  - California: Shasta County: https://www.co.shasta.ca.us/covid-19/overview
+  - California: Solano County: https://www.co.shasta.ca.us/covid-19/overview
+  - California: Sonoma County: https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/
+  - California: Stanislaus County Health Services Agency: http://schsa.org/publichealth/pages/corona-virus/
+  - California: Ventura County: https://www.venturacountyrecovers.org/
+  - California: Yolo County: https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/
+  - California: Los Angeles County: http://publichealth.lacounty.gov/media/coronavirus/
+  - California: San Diego County: https://www.sandiegocounty.gov/coronavirus.html
+  - California: Santa Clara County: https://www.sccgov.org/sites/covid19/
+  - California: Imperial County Public Health Department: http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/
+  - California: San Bernardino County: https://sbcovid19.com/
+  - Montana Department of Public Health and Human Services: https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt
+  - South Dakota Department of Health: https://doh.sd.gov/news/coronavirus.aspx
+  
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
     http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
