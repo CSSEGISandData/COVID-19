@@ -176,7 +176,7 @@ United States
 * Rhode Island: Not updating case, death, or recovered data on the weekends.
 * Conneticut: Not updating case, death, or recovered data on the weekends.
 * Illinois: Releasing probable cases once per week.
-* District of Columbia: Not updating on the weekends.
+* District of Columbia: Not updating on the weekends. Periodically updated using data available [here](https://coronavirus.dc.gov/data).
 * Louisiana: Not updating on the weekends.
 * Massachusetts: Not updating county level data daily.  Probable cases only updated weekly.
 * Michigan: No case data provided for August 21. 
