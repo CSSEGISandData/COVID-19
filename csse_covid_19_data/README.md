@@ -179,7 +179,6 @@ United States
 * Illinois: Releasing probable cases once per week.
 * District of Columbia: Not updating on the weekends. Periodically updated using data available [here](https://coronavirus.dc.gov/data).
 * Louisiana: Not updating on the weekends.
-* Massachusetts: Not updating county level data daily.  Probable cases only updated weekly.
 * Michigan: No case data provided for August 21. 
 * Kansas: No data for the weekend of August 22-23.
 * Guam: No data for the weekend of August 22-23.
