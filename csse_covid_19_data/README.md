@@ -135,6 +135,8 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * July 28, Data for Kosovo was revised based on reporting from the [Kosovo National Institute of Public Health](https://www.facebook.com/IKSHPK), the [Kosovo Corona Tracker](https://corona-ks.info/?lang=en), and coincident reporting from local news sources: [Koha Ditore](https://www.koha.net/) and [Telegrafi](https://telegrafi.com/).  Data was updated from 3/14 to 7/26.
 * August 17, Due to the change in reporting of deaths in the United Kingdom, we have revised the historical death data following the new definition of death within 28 days. Data accessed from the [official webpage](https://coronavirus.data.gov.uk/deaths) on August 17 was used to recreate the time series file. The change in definition results in a loss of around 5000 deaths from the official tally.
 * August 17, A backlog of laborartory reporting has been identified in the state of Texas which is causing spikes in reporting at the county level (for reference, see the [Aug 16 press release from Dallas County](https://www.dallascounty.org/Assets/uploads/docs/covid-19/press-releases/august/081620-PressRelease-DallasCountyReports5361AdditionalPositiveCOVID-19Cases.pdf) and local reporting (e.g. [KENS5's reporting in San Antonio](https://www.kens5.com/article/news/local/the-texas-department-of-state-health-services-told-3news-that-walgreens-pharmacy-reported-experiencing-a-coding-error-which-they-have-now-corrected/503-ff7a0eb5-9ce9-4127-82a6-8120175a0d67)).  Data is not currently available that would allow for these positive cases to be appropriately back distributed.
+* August 25, improper accession of US Virgin Islands data resulted in stale cases and deaths for August 22 and 23. These were corrected using the data available [here](https://www.covid19usvi.com/covid19-report).
+* August 25, Collin County, Texas case data reset to state level data for August 21-25. The source from the Collin County health department has been removed from the public eye. These adaptations are to align with our new source.
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -173,13 +175,14 @@ This section reports instances where large numbers of historical cases or deaths
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Rhode Island: Not updating case, death, or recovered data on the weekends
-* Conneticut: Not updating case, death, or recovered data on the weekends
+* Rhode Island: Not updating case, death, or recovered data on the weekends. Releasing county level cases and deaths once per week.
+* Conneticut: Not updating case, death, or recovered data on the weekends.
 * Illinois: Releasing probable cases once per week.
-* District of Columbia: No weekend update for the first week of August.
-* Louisiana: No weekend update for the first week of August.
-* Massachusetts: Not updating county level data daily.  Probable cases only updated weekly.
+* District of Columbia: Not updating on the weekends. Periodically updated using data available [here](https://coronavirus.dc.gov/data).
+* Louisiana: Not updating on the weekends.
 * Michigan: No case data provided for August 21. 
+* Kansas: No data for the weekend of August 22-23.
+* Guam: No data for the weekend of August 22-23.
 
 International
 * Sweden: Not updating case, death, or recovered data on the weekends
