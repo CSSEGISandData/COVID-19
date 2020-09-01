@@ -138,6 +138,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * August 25, improper accession of US Virgin Islands data resulted in stale cases and deaths for August 22 and 23. These were corrected using the data available [here](https://www.covid19usvi.com/covid19-report).
 * August 25, Collin County, Texas case data reset to state level data for August 21-25. The source from the Collin County health department has been removed from the public eye. These adaptations are to align with our new source.
 * August 27, Sweden's Public Health Agency published an [official release](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/allman-information-om-testning/felaktiga-provsvar-i-ca-3-700-covid-19-tester) indicating that approximately 3700 of their cases had been improperly identified with a faulty kit that gave false positive results. The agency cleaned the data on [their dashboard](https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa/page/page_0/) was corrected to remove these cases over time (with slight changes to deaths as well). We have accessed this data and used it to recreate our cases and deaths time series files.
+* August 31, borough level data for New York City added to the dashboard. Historical cases and deaths backfilled into the time series files. For description of the approach, please see issue #3084.
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -218,7 +219,7 @@ International
   *	Unassigned, US: UID = 840 (country code3) + 900XX (state FIPS code). Ranging from 8409001 to 84090056.
   *	US counties: UID = 840 (country code3) + XXXXX (5-digit FIPS code).
   *	Exception type 1, such as recovered and Kansas City, ranging from 8407001 to 8407999.
-  *	Exception type 2, New York City replaces New York County and its FIPS code. New York City popluation is calculated as Bronx (1,418,207) + Kings (2,559,903) + New York (1,628,706) + Queens (2,253,858) + Richmond (476,143) = NYC (8,336,817). Bristol Bay plus Lake Peninsula replaces Bristol Bay and its FIPS code. Population is 836 (Bristol Bay) + 1,592 (Lake and Peninsula) = 2,428 (Bristol Bay plus Lake Peninsula).
+  *	Exception type 2, Bristol Bay plus Lake Peninsula replaces Bristol Bay and its FIPS code. Population is 836 (Bristol Bay) + 1,592 (Lake and Peninsula) = 2,428 (Bristol Bay plus Lake Peninsula). ~~New York City replaces New York County and its FIPS code. New York City popluation is calculated as Bronx (1,418,207) + Kings (2,559,903) + New York (1,628,706) + Queens (2,253,858) + Richmond (476,143) = NYC (8,336,817). (updated on Aug 31)~~ 
   *	Exception type 3, Diamond Princess, US: 84088888; Grand Princess, US: 84099999.
   * Exception type 4, municipalities in Puerto Rico are regarded as counties with FIPS codes. The FIPS code for the unassigned category is defined as 72999.
 4. Population data sources.
