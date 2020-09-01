@@ -66,12 +66,12 @@ MM-DD-YYYY.csv in UTC.
 * <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
 * <b>Incident_Rate</b> - cases per 100,000 persons.
 * <b>People_Tested</b> - Total number of people who have been tested.
-* <b>People_Hospitalized</b> - Total number of people hospitalized.
+* <b>People_Hospitalized</b> - Total number of people hospitalized. (Nullified on Aug 31, see [Issue #3083](https://github.com/CSSEGISandData/COVID-19/issues/3083))
 * <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
 * <b>Testing_Rate</b> - Total test results per 100,000 persons. The "total test results" are equal to "Total test results (Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
-* <b>Hospitalization_Rate</b> - US Hospitalization Rate (%): = Total number hospitalized / Number cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "Total number hospitalized" is only presented for those states which provide cumulative hospital data.
+* <b>Hospitalization_Rate</b> - US Hospitalization Rate (%): = Total number hospitalized / Number cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "Total number hospitalized" is only presented for those states which provide cumulative hospital data. (Nullified on Aug 31, see [Issue #3083](https://github.com/CSSEGISandData/COVID-19/issues/3083))
 
 ### Update frequency
 * Once per day between 04:45 and 05:15 UTC.
