@@ -66,12 +66,12 @@ MM-DD-YYYY.csv in UTC.
 * <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
 * <b>Incident_Rate</b> - cases per 100,000 persons.
 * <b>People_Tested</b> - Total number of people who have been tested.
-* <b>People_Hospitalized</b> - Total number of people hospitalized.
+* <b>People_Hospitalized</b> - Total number of people hospitalized. (Nullified on Aug 31, see [Issue #3083](https://github.com/CSSEGISandData/COVID-19/issues/3083))
 * <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
 * <b>Testing_Rate</b> - Total test results per 100,000 persons. The "total test results" are equal to "Total test results (Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
-* <b>Hospitalization_Rate</b> - US Hospitalization Rate (%): = Total number hospitalized / Number cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "Total number hospitalized" is only presented for those states which provide cumulative hospital data.
+* <b>Hospitalization_Rate</b> - US Hospitalization Rate (%): = Total number hospitalized / Number cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from [COVID Tracking Project](https://covidtracking.com/). The "hospitalization rate" and "Total number hospitalized" is only presented for those states which provide cumulative hospital data. (Nullified on Aug 31, see [Issue #3083](https://github.com/CSSEGISandData/COVID-19/issues/3083))
 
 ### Update frequency
 * Once per day between 04:45 and 05:15 UTC.
@@ -139,6 +139,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * August 25, Collin County, Texas case data reset to state level data for August 21-25. The source from the Collin County health department has been removed from the public eye. These adaptations are to align with our new source.
 * August 27, Sweden's Public Health Agency published an [official release](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/allman-information-om-testning/felaktiga-provsvar-i-ca-3-700-covid-19-tester) indicating that approximately 3700 of their cases had been improperly identified with a faulty kit that gave false positive results. The agency cleaned the data on [their dashboard](https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa/page/page_0/) was corrected to remove these cases over time (with slight changes to deaths as well). We have accessed this data and used it to recreate our cases and deaths time series files.
 * August 31, borough level data for New York City added to the dashboard. Historical cases and deaths backfilled into the time series files. For description of the approach, please see issue #3084.
+* September 2, adjust recovered time series files to match Luxembourg reported. On August 27, Luxembourg removed non-resident cases and recoveries from their national reporting, resulting in a negative delta in our cases and recoveries files. We have chosen to not correct our historical time series cases.
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
