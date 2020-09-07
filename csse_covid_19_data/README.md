@@ -188,6 +188,7 @@ United States
 * Michigan: No case data provided for August 21. 
 * Kansas: No data for the weekend of August 22-23.
 * Guam: No data for the weekend of August 22-23.
+* Michigan: Not providing death data on Sundays.
 
 International
 * Sweden: Not updating case, death, or recovered data on the weekends
@@ -198,6 +199,7 @@ International
 * Denmark: Not updating case, death, or recovered data on the weekends.
 * France: No update to deaths or recoveries for the weekend of August 8 and 9.
 * UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
+* Luxembourg: Only providing death data on the weekends.
 
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
