@@ -39,6 +39,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
   - Maryland Department of Health: https://coronavirus.maryland.gov/
   - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
+  - New York City Health Department: https://www1.nyc.gov/site/doh/covid/covid-19-data.page
   - NYC Department of Health and Mental Hygiene: https://www1.nyc.gov/site/doh/covid/covid-19-data.page and https://github.com/nychealth/coronavirus-data
   - Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
@@ -46,6 +47,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Virginia: https://www.vdh.virginia.gov/coronavirus/
   - Northern Mariana Islands CNMI Department of Public Health: https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5
   - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
+  - Missouri: Nodaway County: https://www.nodawaypublichealth.org/
   - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
   - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
   - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
@@ -143,6 +145,11 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California: San Bernardino County: https://sbcovid19.com/
   - Montana Department of Public Health and Human Services: https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt
   - South Dakota Department of Health: https://doh.sd.gov/news/coronavirus.aspx
+  - Wyoming Department of Health: https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/
+  - New Hampshire Department of Health and Human Services: https://www.nh.gov/covid19/dashboard/summary.htm
+  - Idaho Government: https://coronavirus.idaho.gov/
+  - Virgin Islands Department of Health: https://www.covid19usvi.com/
+
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
