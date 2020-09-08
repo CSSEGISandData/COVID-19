@@ -187,7 +187,7 @@ United States
 * Louisiana: Not updating on the weekends.
 * Michigan: No case data provided for August 21. 
 * Kansas: No data for the weekend of August 22-23.
-* Guam: No data for the weekend of August 22-23.
+* Guam: Not reporting data on weekends.
 * Michigan: Not providing death data on Sundays.
 
 International
