@@ -32,11 +32,14 @@ This list includes a complete list of all sources ever used in the data set, sin
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
   - 1Point3Arces: https://coronavirus.1point3acres.com/en  
   - COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
+  - Los Angeles Times: https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/
+  - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:  
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
   - Maryland Department of Health: https://coronavirus.maryland.gov/
   - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
+  - New York City Health Department: https://www1.nyc.gov/site/doh/covid/covid-19-data.page
   - NYC Department of Health and Mental Hygiene: https://www1.nyc.gov/site/doh/covid/covid-19-data.page and https://github.com/nychealth/coronavirus-data
   - Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
@@ -44,6 +47,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Virginia: https://www.vdh.virginia.gov/coronavirus/
   - Northern Mariana Islands CNMI Department of Public Health: https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5
   - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
+  - Missouri: Nodaway County: https://www.nodawaypublichealth.org/
   - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
   - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
   - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
@@ -112,7 +116,41 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Texas: Travis County: https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information
   - Texas: City of Laredo: https://www.cityoflaredo.com/coronavirus/
   - Texas: Williamson County & Cities Health District: http://www.wcchd.org/COVID-19/dashboard.php
+  - California Department of Publich Health: https://www.cdph.ca.gov/covid19
+  - California: Mariposa County: https://www.mariposacounty.org/1592/COVID-19-Information
+  - California: Alameda County Public Health Department: https://covid-19.acgov.org/
+  - California: City of Fresno: https://www.fresno.gov/coronavirus
+  - California: Humboldt County: https://humboldtgov.org/
+  - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
+  - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
+  - California: Orange County Health Care Agency: https://occovid19.ochealthinfo.com/coronavirus-in-oc
+  - California: Placer County: https://www.placer.ca.gov/coronavirus
+  - California: Riverside County: https://www.rivcoph.org/coronavirus
+  - California: Sacramento County: https://www.saccounty.net/COVID-19/
+  - California: San Francisco Department of Public Helath: https://www.sfdph.org/dph/alerts/coronavirus.asp
+  - California: San Benito County Health & Human Services: https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/
+  - California: San Joaquin County Public Health Services: http://www.sjcphs.org/coronavirus.aspx
+  - California: San Mateo County: https://www.smchealth.org/coronavirus
+  - California: Santa Cruz County Health Services Agency: http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome.aspx
+  - California: Shasta County: https://www.co.shasta.ca.us/covid-19/overview
+  - California: Solano County: https://www.co.shasta.ca.us/covid-19/overview
+  - California: Sonoma County: https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/
+  - California: Stanislaus County Health Services Agency: http://schsa.org/publichealth/pages/corona-virus/
+  - California: Ventura County: https://www.venturacountyrecovers.org/
+  - California: Yolo County: https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/
+  - California: Los Angeles County: http://publichealth.lacounty.gov/media/coronavirus/
+  - California: San Diego County: https://www.sandiegocounty.gov/coronavirus.html
+  - California: Santa Clara County: https://www.sccgov.org/sites/covid19/
+  - California: Imperial County Public Health Department: http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/
+  - California: San Bernardino County: https://sbcovid19.com/
+  - Montana Department of Public Health and Human Services: https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt
+  - South Dakota Department of Health: https://doh.sd.gov/news/coronavirus.aspx
+  - Wyoming Department of Health: https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/
+  - New Hampshire Department of Health and Human Services: https://www.nh.gov/covid19/dashboard/summary.htm
+  - Idaho Government: https://coronavirus.idaho.gov/
+  - Virgin Islands Department of Health: https://www.covid19usvi.com/
 
+  
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
     http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
