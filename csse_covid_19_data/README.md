@@ -141,7 +141,8 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * August 31, borough level data for New York City added to the dashboard. Historical cases and deaths backfilled into the time series files. For description of the approach, please see issue #3084.
 * September 2, adjust recovered time series files to match Luxembourg reported. On August 27, Luxembourg removed non-resident cases and recoveries from their national reporting, resulting in a negative delta in our cases and recoveries files. We have chosen to not correct our historical time series cases.
 * September 10, Walker County, Texas removed 453 cases from their case totals associated with cases in the Texsa Department of Criminal Justice. It does not appear that a historical correction is available.
-* September 13, Texas Department of Health notifies that Colorado, Texas was subject to data entry error on September 12 that resulted in 545 cases being reported rather than 454.
+* September 13, Texas Department of Health notifies that Colorado, Texas was subject to data entry error on September 12 that resulted in 545 cases being reported rather than 454. Time series adjusted to correct this mistake.
+* September 14, Daily product generation occured before Indian Ministry of Health and Family Welfare provided daily update. Time series files (but not daily reports) updated to correct this error with the numbers that should have been reported.
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
