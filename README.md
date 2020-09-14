@@ -189,6 +189,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - Iceland Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
+  - Luxembourg Government Ministry of Health: https://msan.gouvernement.lu/en/graphiques-evolution.html
 
 
 
