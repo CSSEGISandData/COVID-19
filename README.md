@@ -63,7 +63,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - North Carolina City of Greenville GIS: https://www.arcgis.com/apps/opsdashboard/index.html#/7aeac695cafa4065ba1505b1cfa72747
   - Iowa State Government: https://coronavirus.iowa.gov/
   - Minnesota Department of Health: https://www.health.state.mn.us/diseases/coronavirus/situation.html
-  - Alabama Samford University's Department of Geography and Sociology: https://experience.arcgis.com/experience/e03f87e48a234feebbad27d0ee7ff824
+  - Alabama Public Health: https://www.alabamapublichealth.gov/covid19/
   - Mississippi State Department of Health: https://msdh.ms.gov/msdhsite/_static/14,0,420.html
   - Nebraska Department of Health and Human Services: https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd
   - South Carolina Department of Health and Environmental Control: https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19
@@ -149,6 +149,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - New Hampshire Department of Health and Human Services: https://www.nh.gov/covid19/dashboard/summary.htm
   - Idaho Government: https://coronavirus.idaho.gov/
   - Virgin Islands Department of Health: https://www.covid19usvi.com/
+  - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
@@ -183,7 +184,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
-  - India Ministry of Health and Family Welfare: https://www.mohfw.gov.in/
+  - Government of India: https://www.mygov.in/covid-19
   - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
