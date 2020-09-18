@@ -149,6 +149,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - New Hampshire Department of Health and Human Services: https://www.nh.gov/covid19/dashboard/summary.htm
   - Idaho Government: https://coronavirus.idaho.gov/
   - Virgin Islands Department of Health: https://www.covid19usvi.com/
+  - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
@@ -183,7 +184,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
-  - India Ministry of Health and Family Welfare: https://www.mohfw.gov.in/
+  - Government of India: https://www.mygov.in/covid-19
   - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
