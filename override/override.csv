@@ -82,23 +82,23 @@ Del Norte,California,US,Del Norte,California,US,41.74228275,-123.8974063,,,,,060
 ,Vaupes,Colombia,,Vaupes,Colombia,,,646,5,446,,
 ,Vichada,Colombia,,Vichada,Colombia,,,340,4,213,,
 ,Unknown,Colombia,,Unknown,Colombia,,,0,185,6064,,
-Apache,Arizona,US,Apache,Arizona,US,,,3440,161,,,
-Cochise,Arizona,US,Cochise,Arizona,US,,,1873,69,,,
-Coconino,Arizona,US,Coconino,Arizona,US,,,3738,133,,,
-Gila,Arizona,US,Gila,Arizona,US,,,1217,51,,,
-Graham,Arizona,US,Graham,Arizona,US,,,787,24,,,
-Greenlee,Arizona,US,Greenlee,Arizona,US,,,58,0,,,
-La Paz,Arizona,US,La Paz,Arizona,US,,,534,15,,,
-Maricopa,Arizona,US,Maricopa,Arizona,US,,,139245,3245,,,
-Mohave,Arizona,US,Mohave,Arizona,US,,,3886,222,,,
-Navajo,Arizona,US,Navajo,Arizona,US,,,5740,231,,,
-Out of AZ,Arizona,US,Out of AZ,Arizona,US,,,0,0,,,
-Pima,Arizona,US,Pima,Arizona,US,,,24313,613,,,
-Pinal,Arizona,US,Pinal,Arizona,US,,,10337,202,,,
-Santa Cruz,Arizona,US,Santa Cruz,Arizona,US,,,2815,62,,,
-Unassigned,Arizona,US,Unassigned,Arizona,US,,,4,2,,,
-Yavapai,Arizona,US,Yavapai,Arizona,US,,,2457,79,,,
-Yuma,Arizona,US,Yuma,Arizona,US,,,12498,342,,,
+Apache,Arizona,US,Apache,Arizona,US,,,,,,,
+Cochise,Arizona,US,Cochise,Arizona,US,,,,,,,
+Coconino,Arizona,US,Coconino,Arizona,US,,,,,,,
+Gila,Arizona,US,Gila,Arizona,US,,,,,,,
+Graham,Arizona,US,Graham,Arizona,US,,,,,,,
+Greenlee,Arizona,US,Greenlee,Arizona,US,,,,,,,
+La Paz,Arizona,US,La Paz,Arizona,US,,,,,,,
+Maricopa,Arizona,US,Maricopa,Arizona,US,,,,,,,
+Mohave,Arizona,US,Mohave,Arizona,US,,,,,,,
+Navajo,Arizona,US,Navajo,Arizona,US,,,,,,,
+Out of AZ,Arizona,US,Out of AZ,Arizona,US,,,,,,,
+Pima,Arizona,US,Pima,Arizona,US,,,,,,,
+Pinal,Arizona,US,Pinal,Arizona,US,,,,,,,
+Santa Cruz,Arizona,US,Santa Cruz,Arizona,US,,,,,,,
+Unassigned,Arizona,US,Unassigned,Arizona,US,,,,,,,
+Yavapai,Arizona,US,Yavapai,Arizona,US,,,,,,,
+Yuma,Arizona,US,Yuma,Arizona,US,,,,,,,
 Hillsborough-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-Other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
@@ -458,42 +458,42 @@ Twin Falls,Idaho,US,Twin Falls,Idaho,US,,,,,,,
 Unassigned,Idaho,US,Unassigned,Idaho,US,,,,,,,
 Valley,Idaho,US,Valley,Idaho,US,,,,,,,
 Washington,Idaho,US,Washington,Idaho,US,,,,,,,
-Baker,Oregon,US,Baker,Oregon,US,,,,,,,
-Benton,Oregon,US,Benton,Oregon,US,,,,,,,
-Clackamas,Oregon,US,Clackamas,Oregon,US,,,,,,,
-Clatsop,Oregon,US,Clatsop,Oregon,US,,,,,,,
-Columbia,Oregon,US,Columbia,Oregon,US,,,,,,,
-Coos,Oregon,US,Coos,Oregon,US,,,,,,,
-Crook,Oregon,US,Crook,Oregon,US,,,,,,,
-Curry,Oregon,US,Curry,Oregon,US,,,,,,,
-Deschutes,Oregon,US,Deschutes,Oregon,US,,,,,,,
-Douglas,Oregon,US,Douglas,Oregon,US,,,,,,,
-Gilliam,Oregon,US,Gilliam,Oregon,US,,,,,,,
-Grant,Oregon,US,Grant,Oregon,US,,,,,,,
-Harney,Oregon,US,Harney,Oregon,US,,,,,,,
-Hood River,Oregon,US,Hood River,Oregon,US,,,,,,,
-Jackson,Oregon,US,Jackson,Oregon,US,,,,,,,
-Jefferson,Oregon,US,Jefferson,Oregon,US,,,,,,,
-Josephine,Oregon,US,Josephine,Oregon,US,,,,,,,
-Klamath,Oregon,US,Klamath,Oregon,US,,,,,,,
-Lake,Oregon,US,Lake,Oregon,US,,,,,,,
-Lane,Oregon,US,Lane,Oregon,US,,,,,,,
-Lincoln,Oregon,US,Lincoln,Oregon,US,,,,,,,
-Linn,Oregon,US,Linn,Oregon,US,,,,,,,
-Malheur,Oregon,US,Malheur,Oregon,US,,,,,,,
-Marion,Oregon,US,Marion,Oregon,US,,,,,,,
-Morrow,Oregon,US,Morrow,Oregon,US,,,,,,,
-Multnomah,Oregon,US,Multnomah,Oregon,US,,,,,,,
-Polk,Oregon,US,Polk,Oregon,US,,,,,,,
-Sherman,Oregon,US,Sherman,Oregon,US,,,,,,,
-Tillamook,Oregon,US,Tillamook,Oregon,US,,,,,,,
-Umatilla,Oregon,US,Umatilla,Oregon,US,,,,,,,
-Union,Oregon,US,Union,Oregon,US,,,,,,,
-Wallowa,Oregon,US,Wallowa,Oregon,US,,,,,,,
-Wasco,Oregon,US,Wasco,Oregon,US,,,,,,,
-Washington,Oregon,US,Washington,Oregon,US,,,,,,,
-Wheeler,Oregon,US,Wheeler,Oregon,US,,,,,,,
-Yamhill,Oregon,US,Yamhill,Oregon,US,,,,,,,
+Baker,Oregon,US,Baker,Oregon,US,,,90,2,,,
+Benton,Oregon,US,Benton,Oregon,US,,,279,6,,,
+Clackamas,Oregon,US,Clackamas,Oregon,US,,,2237,61,,,
+Clatsop,Oregon,US,Clatsop,Oregon,US,,,113,0,,,
+Columbia,Oregon,US,Columbia,Oregon,US,,,150,1,,,
+Coos,Oregon,US,Coos,Oregon,US,,,136,0,,,
+Crook,Oregon,US,Crook,Oregon,US,,,60,1,,,
+Curry,Oregon,US,Curry,Oregon,US,,,27,0,,,
+Deschutes,Oregon,US,Deschutes,Oregon,US,,,760,12,,,
+Douglas,Oregon,US,Douglas,Oregon,US,,,206,3,,,
+Gilliam,Oregon,US,Gilliam,Oregon,US,,,7,0,,,
+Grant,Oregon,US,Grant,Oregon,US,,,8,0,,,
+Harney,Oregon,US,Harney,Oregon,US,,,12,0,,,
+Hood River,Oregon,US,Hood River,Oregon,US,,,241,0,,,
+Jackson,Oregon,US,Jackson,Oregon,US,,,1034,4,,,
+Jefferson,Oregon,US,Jefferson,Oregon,US,,,511,8,,,
+Josephine,Oregon,US,Josephine,Oregon,US,,,183,2,,,
+Klamath,Oregon,US,Klamath,Oregon,US,,,272,2,,,
+Lake,Oregon,US,Lake,Oregon,US,,,28,0,,,
+Lane,Oregon,US,Lane,Oregon,US,,,944,15,,,
+Lincoln,Oregon,US,Lincoln,Oregon,US,,,472,13,,,
+Linn,Oregon,US,Linn,Oregon,US,,,458,13,,,
+Malheur,Oregon,US,Malheur,Oregon,US,,,1512,23,,,
+Marion,Oregon,US,Marion,Oregon,US,,,4427,89,,,
+Morrow,Oregon,US,Morrow,Oregon,US,,,485,6,,,
+Multnomah,Oregon,US,Multnomah,Oregon,US,,,6779,130,,,
+Polk,Oregon,US,Polk,Oregon,US,,,501,15,,,
+Sherman,Oregon,US,Sherman,Oregon,US,,,18,0,,,
+Tillamook,Oregon,US,Tillamook,Oregon,US,,,48,0,,,
+Umatilla,Oregon,US,Umatilla,Oregon,US,,,2905,41,,,
+Union,Oregon,US,Union,Oregon,US,,,435,2,,,
+Wallowa,Oregon,US,Wallowa,Oregon,US,,,28,1,,,
+Wasco,Oregon,US,Wasco,Oregon,US,,,234,3,,,
+Washington,Oregon,US,Washington,Oregon,US,,,4264,58,,,
+Wheeler,Oregon,US,Wheeler,Oregon,US,,,0,0,,,
+Yamhill,Oregon,US,Yamhill,Oregon,US,,,735,14,,,
 Unassigned,Oregon,US,Unassigned,Oregon,US,,,,,,,
 Adams,Washington,US,Adams,Washington,US,,,,,,,
 Asotin,Washington,US,Asotin,Washington,US,,,,,,,
@@ -591,82 +591,82 @@ Wetzel,West Virginia,US,Wetzel,West Virginia,US,39.6065771,-80.6401654,,,,,54103
 Wirt,West Virginia,US,Wirt,West Virginia,US,39.02775007,-81.37473928,,,,,54105
 Wood,West Virginia,US,Wood,West Virginia,US,39.20967886,-81.5162836,,,,,54107
 Wyoming,West Virginia,US,Wyoming,West Virginia,US,37.612327,-81.54511071,,,,,54109
-Unassigned,Louisiana,US,Unassigned,Louisiana,US,,,,170,,,
+Unassigned,Louisiana,US,Unassigned,Louisiana,US,,,,168,,,
 Unassigned,Alabama,US,Unassigned,Alabama,US,,,,,,,90001
 Out of AL,Alabama,US,Out of AL,Alabama,US,,,,,,,80001
 ,,Greece,,,Greece,,,,,1347,,
 ,,Switzerland,,,Switzerland,,,,,,,
-Adams,Wisconsin,US,Adams,Wisconsin,US,"","",183,3,"","",""
-Ashland,Wisconsin,US,Ashland,Wisconsin,US,"","",49,2,"","",""
-Barron,Wisconsin,US,Barron,Wisconsin,US,"","",407,4,"","",""
-Bayfield,Wisconsin,US,Bayfield,Wisconsin,US,"","",76,1,"","",""
-Brown,Wisconsin,US,Brown,Wisconsin,US,"","",7183,59,"","",""
-Buffalo,Wisconsin,US,Buffalo,Wisconsin,US,"","",119,2,"","",""
-Burnett,Wisconsin,US,Burnett,Wisconsin,US,"","",101,3,"","",""
-Calumet,Wisconsin,US,Calumet,Wisconsin,US,"","",819,2,"","",""
-Chippewa,Wisconsin,US,Chippewa,Wisconsin,US,"","",456,0,"","",""
-Clark,Wisconsin,US,Clark,Wisconsin,US,"","",313,8,"","",""
-Columbia,Wisconsin,US,Columbia,Wisconsin,US,"","",478,2,"","",""
-Crawford,Wisconsin,US,Crawford,Wisconsin,US,"","",135,0,"","",""
-Dane,Wisconsin,US,Dane,Wisconsin,US,"","",8455,41,"","",""
-Dodge,Wisconsin,US,Dodge,Wisconsin,US,"","",1538,9,"","",""
-Door,Wisconsin,US,Door,Wisconsin,US,"","",220,3,"","",""
-Douglas,Wisconsin,US,Douglas,Wisconsin,US,"","",359,0,"","",""
-Dunn,Wisconsin,US,Dunn,Wisconsin,US,"","",319,0,"","",""
-Eau Claire,Wisconsin,US,Eau Claire,Wisconsin,US,"","",1476,6,"","",""
-Florence,Wisconsin,US,Florence,Wisconsin,US,"","",53,0,"","",""
-Fond du Lac,Wisconsin,US,Fond du Lac,Wisconsin,US,"","",1655,12,"","",""
-Forest,Wisconsin,US,Forest,Wisconsin,US,"","",195,4,"","",""
-Grant,Wisconsin,US,Grant,Wisconsin,US,"","",703,19,"","",""
-Green,Wisconsin,US,Green,Wisconsin,US,"","",395,2,"","",""
-Green Lake,Wisconsin,US,Green Lake,Wisconsin,US,"","",169,0,"","",""
-Iowa,Wisconsin,US,Iowa,Wisconsin,US,"","",142,0,"","",""
-Iron,Wisconsin,US,Iron,Wisconsin,US,"","",136,1,"","",""
-Jackson,Wisconsin,US,Jackson,Wisconsin,US,"","",99,1,"","",""
-Jefferson,Wisconsin,US,Jefferson,Wisconsin,US,"","",1166,7,"","",""
-Juneau,Wisconsin,US,Juneau,Wisconsin,US,"","",302,1,"","",""
-Kenosha,Wisconsin,US,Kenosha,Wisconsin,US,"","",3216,65,"","",""
-Kewaunee,Wisconsin,US,Kewaunee,Wisconsin,US,"","",350,2,"","",""
-La Crosse,Wisconsin,US,La Crosse,Wisconsin,US,"","",2375,2,"","",""
-Lafayette,Wisconsin,US,Lafayette,Wisconsin,US,"","",204,0,"","",""
-Langlade,Wisconsin,US,Langlade,Wisconsin,US,"","",120,2,"","",""
-Lincoln,Wisconsin,US,Lincoln,Wisconsin,US,"","",127,1,"","",""
-Manitowoc,Wisconsin,US,Manitowoc,Wisconsin,US,"","",806,2,"","",""
-Marathon,Wisconsin,US,Marathon,Wisconsin,US,"","",976,14,"","",""
-Marinette,Wisconsin,US,Marinette,Wisconsin,US,"","",707,7,"","",""
-Marquette,Wisconsin,US,Marquette,Wisconsin,US,"","",169,1,"","",""
-Menominee,Wisconsin,US,Menominee,Wisconsin,US,"","",42,0,"","",""
-Milwaukee,Wisconsin,US,Milwaukee,Wisconsin,US,"","",26402,521,"","",""
-Monroe,Wisconsin,US,Monroe,Wisconsin,US,"","",361,2,"","",""
-Oconto,Wisconsin,US,Oconto,Wisconsin,US,"","",623,4,"","",""
-Oneida,Wisconsin,US,Oneida,Wisconsin,US,"","",312,2,"","",""
-Out of WI,Wisconsin,US,Out of WI,Wisconsin,US,"","",0,0,"","",""
-Outagamie,Wisconsin,US,Outagamie,Wisconsin,US,"","",3277,27,"","",""
-Ozaukee,Wisconsin,US,Ozaukee,Wisconsin,US,"","",1173,19,"","",""
-Pepin,Wisconsin,US,Pepin,Wisconsin,US,"","",54,0,"","",""
-Pierce,Wisconsin,US,Pierce,Wisconsin,US,"","",364,6,"","",""
-Polk,Wisconsin,US,Polk,Wisconsin,US,"","",214,2,"","",""
-Portage,Wisconsin,US,Portage,Wisconsin,US,"","",1086,3,"","",""
-Price,Wisconsin,US,Price,Wisconsin,US,"","",43,0,"","",""
-Racine,Wisconsin,US,Racine,Wisconsin,US,"","",4377,94,"","",""
-Richland,Wisconsin,US,Richland,Wisconsin,US,"","",85,4,"","",""
-Rock,Wisconsin,US,Rock,Wisconsin,US,"","",2162,32,"","",""
-Rusk,Wisconsin,US,Rusk,Wisconsin,US,"","",46,1,"","",""
-Sauk,Wisconsin,US,Sauk,Wisconsin,US,"","",777,3,"","",""
-Sawyer,Wisconsin,US,Sawyer,Wisconsin,US,"","",192,1,"","",""
-Shawano,Wisconsin,US,Shawano,Wisconsin,US,"","",470,1,"","",""
-Sheboygan,Wisconsin,US,Sheboygan,Wisconsin,US,"","",1415,14,"","",""
-St. Croix,Wisconsin,US,St. Croix,Wisconsin,US,"","",773,8,"","",""
-Taylor,Wisconsin,US,Taylor,Wisconsin,US,"","",144,3,"","",""
-Trempealeau,Wisconsin,US,Trempealeau,Wisconsin,US,"","",512,2,"","",""
-Unassigned,Wisconsin,US,Unassigned,Wisconsin,US,"","",0,0,"","",""
-Vernon,Wisconsin,US,Vernon,Wisconsin,US,"","",164,0,"","",""
-Vilas,Wisconsin,US,Vilas,Wisconsin,US,"","",157,1,"","",""
-Walworth,Wisconsin,US,Walworth,Wisconsin,US,"","",2374,34,"","",""
-Washburn,Wisconsin,US,Washburn,Wisconsin,US,"","",87,1,"","",""
-Washington,Wisconsin,US,Washington,Wisconsin,US,"","",2156,32,"","",""
-Waukesha,Wisconsin,US,Waukesha,Wisconsin,US,"","",6452,85,"","",""
-Waupaca,Wisconsin,US,Waupaca,Wisconsin,US,"","",864,20,"","",""
-Waushara,Wisconsin,US,Waushara,Wisconsin,US,"","",258,2,"","",""
-Winnebago,Wisconsin,US,Winnebago,Wisconsin,US,"","",2459,23,"","",""
-Wood,Wisconsin,US,Wood,Wisconsin,US,"","",653,3,"","",""
+Adams,Wisconsin,US,Adams,Wisconsin,US,,,192,3,,,
+Ashland,Wisconsin,US,Ashland,Wisconsin,US,,,53,2,,,
+Barron,Wisconsin,US,Barron,Wisconsin,US,,,411,4,,,
+Bayfield,Wisconsin,US,Bayfield,Wisconsin,US,,,78,1,,,
+Brown,Wisconsin,US,Brown,Wisconsin,US,,,7400,59,,,
+Buffalo,Wisconsin,US,Buffalo,Wisconsin,US,,,118,2,,,
+Burnett,Wisconsin,US,Burnett,Wisconsin,US,,,114,3,,,
+Calumet,Wisconsin,US,Calumet,Wisconsin,US,,,854,2,,,
+Chippewa,Wisconsin,US,Chippewa,Wisconsin,US,,,466,0,,,
+Clark,Wisconsin,US,Clark,Wisconsin,US,,,320,8,,,
+Columbia,Wisconsin,US,Columbia,Wisconsin,US,,,493,2,,,
+Crawford,Wisconsin,US,Crawford,Wisconsin,US,,,139,0,,,
+Dane,Wisconsin,US,Dane,Wisconsin,US,,,8635,41,,,
+Dodge,Wisconsin,US,Dodge,Wisconsin,US,,,1573,9,,,
+Door,Wisconsin,US,Door,Wisconsin,US,,,234,3,,,
+Douglas,Wisconsin,US,Douglas,Wisconsin,US,,,376,0,,,
+Dunn,Wisconsin,US,Dunn,Wisconsin,US,,,351,0,,,
+Eau Claire,Wisconsin,US,Eau Claire,Wisconsin,US,,,1527,6,,,
+Florence,Wisconsin,US,Florence,Wisconsin,US,,,58,0,,,
+Fond du Lac,Wisconsin,US,Fond du Lac,Wisconsin,US,,,1706,13,,,
+Forest,Wisconsin,US,Forest,Wisconsin,US,,,207,4,,,
+Grant,Wisconsin,US,Grant,Wisconsin,US,,,782,19,,,
+Green,Wisconsin,US,Green,Wisconsin,US,,,429,2,,,
+Green Lake,Wisconsin,US,Green Lake,Wisconsin,US,,,186,0,,,
+Iowa,Wisconsin,US,Iowa,Wisconsin,US,,,144,0,,,
+Iron,Wisconsin,US,Iron,Wisconsin,US,,,136,1,,,
+Jackson,Wisconsin,US,Jackson,Wisconsin,US,,,107,1,,,
+Jefferson,Wisconsin,US,Jefferson,Wisconsin,US,,,1192,7,,,
+Juneau,Wisconsin,US,Juneau,Wisconsin,US,,,315,2,,,
+Kenosha,Wisconsin,US,Kenosha,Wisconsin,US,,,3257,65,,,
+Kewaunee,Wisconsin,US,Kewaunee,Wisconsin,US,,,366,2,,,
+La Crosse,Wisconsin,US,La Crosse,Wisconsin,US,,,2475,2,,,
+Lafayette,Wisconsin,US,Lafayette,Wisconsin,US,,,211,0,,,
+Langlade,Wisconsin,US,Langlade,Wisconsin,US,,,122,2,,,
+Lincoln,Wisconsin,US,Lincoln,Wisconsin,US,,,132,1,,,
+Manitowoc,Wisconsin,US,Manitowoc,Wisconsin,US,,,842,2,,,
+Marathon,Wisconsin,US,Marathon,Wisconsin,US,,,1008,14,,,
+Marinette,Wisconsin,US,Marinette,Wisconsin,US,,,724,7,,,
+Marquette,Wisconsin,US,Marquette,Wisconsin,US,,,176,1,,,
+Menominee,Wisconsin,US,Menominee,Wisconsin,US,,,43,0,,,
+Milwaukee,Wisconsin,US,Milwaukee,Wisconsin,US,,,26652,521,,,
+Monroe,Wisconsin,US,Monroe,Wisconsin,US,,,378,2,,,
+Oconto,Wisconsin,US,Oconto,Wisconsin,US,,,645,4,,,
+Oneida,Wisconsin,US,Oneida,Wisconsin,US,,,325,2,,,
+Out of WI,Wisconsin,US,Out of WI,Wisconsin,US,,,0,0,,,
+Outagamie,Wisconsin,US,Outagamie,Wisconsin,US,,,3414,27,,,
+Ozaukee,Wisconsin,US,Ozaukee,Wisconsin,US,,,1186,19,,,
+Pepin,Wisconsin,US,Pepin,Wisconsin,US,,,55,0,,,
+Pierce,Wisconsin,US,Pierce,Wisconsin,US,,,379,6,,,
+Polk,Wisconsin,US,Polk,Wisconsin,US,,,219,2,,,
+Portage,Wisconsin,US,Portage,Wisconsin,US,,,1127,4,,,
+Price,Wisconsin,US,Price,Wisconsin,US,,,50,0,,,
+Racine,Wisconsin,US,Racine,Wisconsin,US,,,4419,94,,,
+Richland,Wisconsin,US,Richland,Wisconsin,US,,,86,4,,,
+Rock,Wisconsin,US,Rock,Wisconsin,US,,,2207,32,,,
+Rusk,Wisconsin,US,Rusk,Wisconsin,US,,,48,1,,,
+Sauk,Wisconsin,US,Sauk,Wisconsin,US,,,785,3,,,
+Sawyer,Wisconsin,US,Sawyer,Wisconsin,US,,,195,1,,,
+Shawano,Wisconsin,US,Shawano,Wisconsin,US,,,513,1,,,
+Sheboygan,Wisconsin,US,Sheboygan,Wisconsin,US,,,1434,14,,,
+St. Croix,Wisconsin,US,St. Croix,Wisconsin,US,,,798,8,,,
+Taylor,Wisconsin,US,Taylor,Wisconsin,US,,,147,3,,,
+Trempealeau,Wisconsin,US,Trempealeau,Wisconsin,US,,,526,2,,,
+Unassigned,Wisconsin,US,Unassigned,Wisconsin,US,,,0,0,,,
+Vernon,Wisconsin,US,Vernon,Wisconsin,US,,,167,0,,,
+Vilas,Wisconsin,US,Vilas,Wisconsin,US,,,166,1,,,
+Walworth,Wisconsin,US,Walworth,Wisconsin,US,,,2421,34,,,
+Washburn,Wisconsin,US,Washburn,Wisconsin,US,,,91,1,,,
+Washington,Wisconsin,US,Washington,Wisconsin,US,,,2212,32,,,
+Waukesha,Wisconsin,US,Waukesha,Wisconsin,US,,,6545,85,,,
+Waupaca,Wisconsin,US,Waupaca,Wisconsin,US,,,894,20,,,
+Waushara,Wisconsin,US,Waushara,Wisconsin,US,,,265,2,,,
+Winnebago,Wisconsin,US,Winnebago,Wisconsin,US,,,2596,23,,,
+Wood,Wisconsin,US,Wood,Wisconsin,US,,,665,3,,,
