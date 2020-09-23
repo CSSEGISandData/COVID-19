@@ -1,6 +1,6 @@
 old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
 Tarrant,Texas,US,Tarrant,Texas,US,32.77143818,-97.29101614,,,,,48439
-Del Norte,California,US,Del Norte,California,US,41.74228275,-123.8974063,,,,,6015
+Del Norte,California,US,Del Norte,California,US,41.74228275,-123.8974063,,,,,06015
 ,,Myanmar,,,Burma,,,,,,,
 ,,Belize,,,Belize,17.1899,-88.4976,,,,,
 ,Northwest Territories,Canada,,Northwest Territories,Canada,64.8255,-124.8457,,,,,
@@ -691,4 +691,4 @@ Waupaca,Wisconsin,US,Waupaca,Wisconsin,US,,,,,,,
 Waushara,Wisconsin,US,Waushara,Wisconsin,US,,,,,,,
 Winnebago,Wisconsin,US,Winnebago,Wisconsin,US,,,,,,,
 Wood,Wisconsin,US,Wood,Wisconsin,US,,,,,,,
-Webb,Texas,US,Webb,Texas,US,,,13171,282,,,
+Webb,Texas,US,Webb,Texas,US,,,13201,284,,,
