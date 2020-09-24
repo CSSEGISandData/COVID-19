@@ -47,7 +47,6 @@ Del Norte,California,US,Del Norte,California,US,41.74228275,-123.8974063,,,,,060
 ,,Isle of Man,,Isle of Man,United Kingdom,,,,,,,
 ,,Montserrat,,Montserrat,United Kingdom,,,,,,,
 ,,Turks and Caicos,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,,,,,
-<<<<<<< HEAD,,,,,,,,,,,,
 ,,UK,,,United Kingdom,,,,,,,
 ,Amazonas,Colombia,,Amazonas,Colombia,,,,,,,
 ,Antioquia,Colombia,,Antioquia,Colombia,,,,,,,
@@ -100,7 +99,6 @@ Santa Cruz,Arizona,US,Santa Cruz,Arizona,US,,,,,,,
 Unassigned,Arizona,US,Unassigned,Arizona,US,,,,,,,
 Yavapai,Arizona,US,Yavapai,Arizona,US,,,,,,,
 Yuma,Arizona,US,Yuma,Arizona,US,,,,,,,
-=======,,,,,,,,,,,,
 ,,UK,,,United Kingdom,,,,,,,
 Apache,Arizona,US,Apache,Arizona,US,,,,,,,
 Cochise,Arizona,US,Cochise,Arizona,US,,,,,,,
@@ -119,7 +117,6 @@ Santa Cruz,Arizona,US,Santa Cruz,Arizona,US,,,,,,,
 Unassigned,Arizona,US,Unassigned,Arizona,US,,,,,,,
 Yavapai,Arizona,US,Yavapai,Arizona,US,,,,,,,
 Yuma,Arizona,US,Yuma,Arizona,US,,,,,,,
->>>>>>> 54135dcd3cdac4ece01fec73b3da59ac76383ca7,,,,,,,,,,,,
 Hillsborough-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-Other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
@@ -692,3 +689,4 @@ Waushara,Wisconsin,US,Waushara,Wisconsin,US,,,,,,,
 Winnebago,Wisconsin,US,Winnebago,Wisconsin,US,,,,,,,
 Wood,Wisconsin,US,Wood,Wisconsin,US,,,,,,,
 Webb,Texas,US,Webb,Texas,US,,,13369,288,,,
+Unassigned,Alaska,US,Unassigned,Alaska,US,"","",2,0,"","",""
