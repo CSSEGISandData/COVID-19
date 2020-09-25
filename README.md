@@ -119,7 +119,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California Department of Publich Health: https://www.cdph.ca.gov/covid19
   - California: Mariposa County: https://www.mariposacounty.org/1592/COVID-19-Information
   - California: Alameda County Public Health Department: https://covid-19.acgov.org/
-  - California: City of Fresno: https://www.fresno.gov/coronavirus
+  - California: Fresno County Public Health Department: https://www.co.fresno.ca.us/departments/public-health/covid-19
   - California: Humboldt County: https://humboldtgov.org/
   - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
   - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/

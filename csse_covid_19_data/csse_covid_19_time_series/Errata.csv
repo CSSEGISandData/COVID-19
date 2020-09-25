@@ -101,7 +101,7 @@
 4/23/2020,time_series_covid19_confirmed_global.csv,US,4/21/2020,812036,811865,"adjust for Benton and Franklin, WA"
 4/23/2020,time_series_covid19_confirmed_global.csv,US,4/22/2020,839675,840351,"adjust for Benton and Franklin, WA"
 4/23/2020,time_series_covid19_deaths_global.csv,US,4/22/2020,46583,46622,"adjust for Benton and Franklin, WA"
-4/24/2020,time_series_covid19_deaths_us.csv,"New York City, NY", 03/12/20-04/24/20,,,Adjust to back-distribute probable deaths
+4/24/2020,time_series_covid19_deaths_us.csv,"New York City, NY"," 03/12/20-04/24/20",,,Adjust to back-distribute probable deaths
 4/24/2020,time_series_covid19_confirmed_us.csv,"New York City, NY",04/18/20;04/19/20;04/20/20;04/21/20;04/22/20,,,Adjust to remove probable deaths from case count
 4/25/2020,time_series_covid19_confirmed_global.csv,Ukraine,4/24/2020,8125,7647,adjust 5 min ahead
 4/26/2020,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20,,,Replace recovered cases
@@ -213,13 +213,13 @@
 6/10/2020,time_series_covid19_confirmed_US.csv,Michigan,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated all Michigan counties
 6/10/2020,time_series_covid19_deaths_US.csv,Michigan,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated all Michigan counties
 6/10/2020,time_series_covid19_confirmed_global.csv,US,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated for Michigan
-6/10/2020,time_series_covid19_deaths_global.csv,US,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated for Michigan 
+6/10/2020,time_series_covid19_deaths_global.csv,US,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,"Updated for Michigan "
 6/10/2020,time_series_covid19_deaths_global.csv,Peru,6/9/2020,203736,5738,Correction for deaths in Peru
 6/10/2020,time_series_covid19_deaths_US.csv,Michigan,6/9/2020,111694,111989,Fixed MI
 6/10/2020,time_series_covid19_confirmed_global.csv,Pakistan,6/7/2020,N/A,103671,Added data for date
 6/10/2020,time_series_covid19_deaths_global.csv,Pakistan,6/7/2020,N/A,2067,Added data for date
 6/10/2020,time_series_covid19_recovered_global.csv,Pakistan,6/7/2020,N/A,34355,Added data for date
-6/11/2020,time_series_covid19_confirmed_global.csv,US,6/9/2020,1973230,1979489,Resolved discrepancy 
+6/11/2020,time_series_covid19_confirmed_global.csv,US,6/9/2020,1973230,1979489,"Resolved discrepancy "
 6/11/2020,time_series_covid19_deaths_global.csv,US,6/9/2020,111989,111994,Resolved discrepancy
 6/12/2020,time_series_covid19_confirmed_global.csv,India,6/10/2020,276583,286605,Replace with the data at the end of the day
 6/12/2020,time_series_covid19_deaths_global.csv,India,6/10/2020,7745,8498,Replace with the data at the end of the day
@@ -288,7 +288,7 @@
 6/25/2020,time_series_covid19_deaths_US.csv,NV,6/23/2020,,,Corrections for Nevada duplication
 6/25/2020,time_series_covid19_confirmed_global.csv,US,6/23/2020,,,Corrections for Nevada duplication
 6/25/2020,time_series_covid19_deaths_global.csv,US,6/23/2020,,,Corrections for Nevada duplication
-6/28/2020,time_series_covi19_confirmed_global.csv,France,06/1/20-06/27/20,185952;184980;188836;185986;186538;187067;187360;187458;187599;187996;188354;188918;189311;189602;189670;189595;189906;190107;190676;191112;191117;191442;191730;191543;191288;192624;192430, 185952;185112;185440;186118;186670;187199;187492;187590;187925;188322;188680;189244;189637;189928;189996;190223;190534;190735;191304;191740;191745;192070;192452;192265;192010;193346;193152, issue with calculation of probable cases - see data modification records
+6/28/2020,time_series_covi19_confirmed_global.csv,France,06/1/20-06/27/20,185952;184980;188836;185986;186538;187067;187360;187458;187599;187996;188354;188918;189311;189602;189670;189595;189906;190107;190676;191112;191117;191442;191730;191543;191288;192624;192430," 185952;185112;185440;186118;186670;187199;187492;187590;187925;188322;188680;189244;189637;189928;189996;190223;190534;190735;191304;191740;191745;192070;192452;192265;192010;193346;193152"," issue with calculation of probable cases - see data modification records"
 6/30/2020,time_series_covid19_confirmed_US.csv,"New York City, New York",6/29/2020,,,Update for stale NYC data
 6/30/2020,time_series_covid19_confirmed_global.csv,US,6/29/2020,,,Update for stale NYC data
 6/30/2020,time_series_covid19_confirmed_US.csv,"Franklin, New York",6/29/2020,,,Update for revised Franklin reporting
@@ -430,7 +430,7 @@
 8/3/2020,time_series_covid19_confirmed_global.csv,Colombia,7/26/2020,,,Update Colombia from MS
 8/3/2020,time_series_covid19_deaths_global.csv,Colombia,7/26/2020,,,Update Colombia from DOH
 8/3/2020,time_series_covid19_recovered_global.csv,Colombia,7/26/2020,,,Update Colombia from DOH
-8/4/2020,time_series_covid19_confirmed_US.csv,Georgia,7/31-8/2/2020,,,Update from DC 
+8/4/2020,time_series_covid19_confirmed_US.csv,Georgia,7/31-8/2/2020,,,"Update from DC "
 8/4/2020,time_series_covid19_deaths_US.csv,Georgia,7/31-8/2/2020,,,Update from DC
 8/4/2020,time_series_covid19_confirmed_global.csv,US,7/31-8/2/2020,,,Update from DC
 8/4/2020,time_series_covid19_deaths_global.csv,US,7/31-8/2/2020,,,Update from DC
@@ -441,9 +441,9 @@
 8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,6/21/2020,,,Retrospective from New York Times
 8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/3-6/6/2020,,,Retrospective from New York Times
 8/5/2020,time_series_covid19_deaths_global.csv,US,3/17-6/24/2020,,,Internal consistency for US
-8/5/2020,time_series_covid19_deaths_US.csv,"Webb, Texas",7/26-8/4/2020,,,Update from City of Laredo 
+8/5/2020,time_series_covid19_deaths_US.csv,"Webb, Texas",7/26-8/4/2020,,,"Update from City of Laredo "
 8/5/2020,time_series_covid19_deaths_global.csv,US,7/26-8/4/2020,,,Update from City of Laredo
-8/6/2020,time_series_covid19_deaths_US.csv,"Harris, Texas",3/7-8/5/2020,,,Alignment of Harris County to state 
+8/6/2020,time_series_covid19_deaths_US.csv,"Harris, Texas",3/7-8/5/2020,,,"Alignment of Harris County to state "
 8/6/2020,time_series_covid19_deaths_global.csv,US,3/7-8/5/2020,,,Alignment of Harris County to state
 8/6/2020,time_series_covid19_confirmed_global.csv,US,8/4-8/5/2020,,,Update United Kingdom from GOV.UK
 8/6/2020,time_series_covid19_deaths_global.csv,US,8/4-8/5/2020,,,Update United Kingdom from GOV.UK
@@ -462,13 +462,13 @@
 8/12/2020,time_series_covid19_deaths_global.csv,Brazil,8/11/2020,,,Update from Secretarias Estaduais de Saude
 8/12/2020,time_series_covid19_confirmed_global.csv,Peru,8/11/2020,,,Update Peru from MINSA
 8/12/2020,time_series_covid19_deaths_global.csv,Peru,8/11/2020,,,Update Peru from MINSA
-8/12/2020,time_series_covid19_deaths_US.csv,"Orange, North Carolina",8/11/2020,,,Update from NCDHHS 
+8/12/2020,time_series_covid19_deaths_US.csv,"Orange, North Carolina",8/11/2020,,,"Update from NCDHHS "
 8/12/2020,time_series_covid19_deaths_global.csv,US,8/11/2020,,,Update from NCDHHS
 8/13/2020,time_series_covid19_confirmed_US.csv,"Unassigned,Massachusetts",8/12/2020,,,Update from MA Dashboard & Weekly
 8/13/2020,time_series_covid19_deaths_US.csv,"Unassigned,Massachusetts",8/12/2020,,,Update from MA Dashboard & Weekly
 8/13/2020,time_series_covid19_confirmed_global.csv,US,8/12/2020,,,Update from MA Dashboard & Weekly
 8/13/2020,time_series_covid19_deaths_global.csv,US,8/12/2020,,,Update from MA Dashboard & Weekly
-8/13/2020,time_series_covid19_deaths_US.csv,"Orange, North Carolina",8/12/2020,,,Update from NCDHHS 
+8/13/2020,time_series_covid19_deaths_US.csv,"Orange, North Carolina",8/12/2020,,,"Update from NCDHHS "
 8/13/2020,time_series_covid19_deaths_global.csv,US,8/12/2020,,,Update from NCDHHS
 8/15/2020,time_series_covid19_confirmed_US.csv,"Unassigned,Massachusetts",8/13-8/14/2020,,,Update from MA Dashboard Raw Data
 8/15/2020,time_series_covid19_deaths_US.csv,"Unassigned,Massachusetts",8/13-8/14/2020,,,Update from MA Dashboard Raw Data
@@ -506,3 +506,7 @@
 9/08/2020,time_series_covid19_recovered_global.csv,Colombia,9/04/2020,489151,498221,Update from Colombia news source
 9/08/2020,time_series_covid19_recovered_global.csv,Colombia,9/05/2020,498219,507770,Update from Colombia news source
 9/08/2020,time_series_covid19_recovered_global.csv,Colombia,9/07/2020,518229,529279,Update from Colombia news source
+09/25/2020,time_series_covid19_confirmed_US.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020","","",""
+09/25/2020,time_series_covid19_deaths_US.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020","","",""
+09/25/2020,time_series_covid19_confirmed_global.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020","","",""
+09/25/2020,time_series_covid19_deaths_global.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020","","",""
