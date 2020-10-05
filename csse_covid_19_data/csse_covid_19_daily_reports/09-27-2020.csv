@@ -7,7 +7,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antigua and Barbuda,2020-09-28 04:23:00,17.0608,-61.7964,101,3,92,6,Antigua and Barbuda,103.1369986,2.97029703
 ,,,Argentina,2020-09-28 04:23:00,-38.4161,-63.6167,711325,15749,565935,129641,Argentina,1573.874922,2.214037184
 ,,,Armenia,2020-09-28 04:23:00,40.0691,45.0382,49400,951,43613,4836,Armenia,1667.097502,1.925101215
-,,Australian Capital Territory,Australia,2020-09-28 04:23:00,-35.4735,149.0124,113,3,110,0,"Australian Capital Territory, Australia",26.39570194,2.654867257
+,,Australian Capital Territory,Australia,2020-09-28 04:23:00,-35.4735,149.0124,113,3,110,0,"Australian Capneital Territory, Australia",26.39570194,2.654867257
 ,,New South Wales,Australia,2020-09-28 04:23:00,-33.8688,151.2093,4218,53,3118,1047,"New South Wales, Australia",51.9586105,1.256519678
 ,,Northern Territory,Australia,2020-09-28 04:23:00,-12.4634,130.8456,33,0,31,2,"Northern Territory, Australia",13.43648208,0.0
 ,,Queensland,Australia,2020-09-28 04:23:00,-27.4698,153.0251,1157,6,1141,10,"Queensland, Australia",22.61753494,0.518582541
@@ -424,7 +424,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Noord-Holland,Netherlands,2020-09-28 04:23:00,52.600906,4.918688,22828,856,0,21972,"Noord-Holland, Netherlands",792.7690902,3.749780971
 ,,Overijssel,Netherlands,2020-09-28 04:23:00,52.444558,6.441722,4724,342,0,4382,"Overijssel, Netherlands",406.3984529,7.239627434
 ,,Sint Maarten,Netherlands,2020-09-28 04:23:00,18.0425,-63.0548,644,22,532,90,"Sint Maarten, Netherlands",1501.795625,3.416149068
-,,Unknown,Netherlands,2020-09-28 04:23:00,,,0,10,0,0,"Unknown, Netherlands",,-0.490196078
+,,Unknown,Netherlands,2020-09-28 04:23:00,,,3265,18,0,0,"Unknown, Netherlands",,-0.490196078
 ,,Utrecht,Netherlands,2020-09-28 04:23:00,52.084251,5.163824,8837,442,0,8395,"Utrecht, Netherlands",652.2570293,5.001697409
 ,,Zeeland,Netherlands,2020-09-28 04:23:00,51.47936,3.861559,1335,72,0,1263,"Zeeland, Netherlands",348.1204105,5.393258427
 ,,Zuid-Holland,Netherlands,2020-09-28 04:23:00,51.937835,4.462114,33110,1394,0,31716,"Zuid-Holland, Netherlands",892.766622,4.210208396
