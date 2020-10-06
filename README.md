@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
-# COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
->>>>>>> 3377100d88de45783be0fa2696e787851c8ef27e
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Visualization of COVID-19 world-wide data based on JHU CCSE data repository.
 =======
@@ -262,3 +259,5 @@ This GitHub repo and its contents herein, including all data, mapping, and analy
 =======
 3. For publications that use the data, please cite the following publication: "Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Inf Dis. 20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1"
 >>>>>>> 06c656384919530591f70cca929b35e781fdc6f7
+=======
+>>>>>>> 217a09b616f53d0806827f223ec87c5a73cccd8a
