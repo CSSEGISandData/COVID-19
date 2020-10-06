@@ -141,7 +141,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,5540718
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,65273512
 254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
-258,PF,PYF,258,,,French Polynesia,France,-17.6797,149.4068,"French Polynesia, France",280904
+258,PF,PYF,258,,,French Polynesia,France,-17.6797,-149.4068,"French Polynesia, France",280904
 312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
 474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",375265
 175,YT,MYT,175,,,Mayotte,France,-12.8275,45.166244,"Mayotte, France",272813
@@ -746,8 +746,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",24870000
 15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",48300000
 15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",57370000
-344,HK,HKG,344,,,Hong Kong SAR,China,22.3,114.2,"Hong Kong, China",7496988
-446,MO,MAC,446,,,Macau SAR,China,22.1667,113.55,"Macau, China",649342
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",7496988
+446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",649342
 840,US,USA,840,,,,US,40,-100,US,329466283
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",55641
 316,GU,GUM,316,66,,Guam,US,13.4443,144.7937,"Guam, US",164229
@@ -1081,7 +1081,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84002016,US,USA,840,02016,Aleutians West,Alaska,US,52.3233,-174.1596,"Aleutians West, Alaska, US",5634
 84002020,US,USA,840,02020,Anchorage,Alaska,US,61.14998174,-149.1426986,"Anchorage, Alaska, US",288000
 84002050,US,USA,840,02050,Bethel,Alaska,US,60.90980451,-159.8561831,"Bethel, Alaska, US",18386
-84002060,US,USA,840,02060,Bristol Bay,Alaska,US,58.74513976,-156.701064,"Bristol Bay, Alaska, US",836
+84002060,US,USA,840,02060,Bristol Bay plus Lake Peninsula,Alaska,US,58.74513976,-156.701064,"Bristol Bay plus Lake Peninsula, Alaska, US",2428
 84002068,US,USA,840,02068,Denali,Alaska,US,63.67264044,-150.0076108,"Denali, Alaska, US",2097
 84002070,US,USA,840,02070,Dillingham,Alaska,US,59.79603738,-158.2381942,"Dillingham, Alaska, US",4916
 84002090,US,USA,840,02090,Fairbanks North Star,Alaska,US,64.80726247,-146.5692662,"Fairbanks North Star, Alaska, US",96849
@@ -2868,7 +2868,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84036055,US,USA,840,36055,Monroe,New York,US,43.14638895,-77.69322942,"Monroe, New York, US",741770
 84036057,US,USA,840,36057,Montgomery,New York,US,42.90123494,-74.44011632,"Montgomery, New York, US",49221
 84036059,US,USA,840,36059,Nassau,New York,US,40.74066522,-73.58941873,"Nassau, New York, US",1356924
-84036061,US,USA,840,36061,New York City,New York,US,40.7672726,-73.97152637,"New York City, New York, US",8336817
+84036061,US,USA,840,36061,New York,New York,US,40.7672726,-73.97152637,"New York, New York, US",1628706
 84036063,US,USA,840,36063,Niagara,New York,US,43.19898042,-78.74777412,"Niagara, New York, US",209281
 84036065,US,USA,840,36065,Oneida,New York,US,43.24375382,-75.43710392,"Oneida, New York, US",228671
 84036067,US,USA,840,36067,Onondaga,New York,US,43.00491923,-76.19971155,"Onondaga, New York, US",460528

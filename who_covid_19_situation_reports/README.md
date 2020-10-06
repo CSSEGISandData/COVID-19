@@ -6,3 +6,10 @@ infection, irrespective of clinical signs and symptoms. " ([Source](https://www.
 ### Notes
 * Time Zone: We assume that WHO reports in Geneva, Switzerland time (GMT+1). All date in this folder is in GMT+1.
 * Update Frequency: We maintain this dataset at least twice a week.
+
+## Updates (8/18/2020):
+
+WHO provides time series data based on their situational reports linked below. 
+* WHO Dashboard: https://covid19.who.int/table
+* WHO Situational Reports: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+* WHO Time Series CSV: https://covid19.who.int/WHO-COVID-19-global-data.csv
