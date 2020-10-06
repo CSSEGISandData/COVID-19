@@ -1,1 +1,5 @@
+# Ignore computer caches
 .DS_Store
+
+# Ignore Readme file from CSSEGISandData/COVID-19
+README.md
