@@ -510,8 +510,9 @@
 09/25/2020,time_series_covid19_deaths_US.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020","","",""
 09/25/2020,time_series_covid19_confirmed_global.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020","","",""
 09/25/2020,time_series_covid19_deaths_global.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020","","",""
-10/05/2020,time_series_covid19_confirmed_global.csv,Czechia,09/30/2020,68919,70763,
+10/05/2020,time_series_covid19_confirmed_global.csv,Czechia,09/30/2020,68919,70763,Update from mzcr website
 10/05/2020,time_series_covid19_confirmed_global.csv,Netherlands,9/27/2020,108361,111626,Update via Netherlands dashboard
 10/05/2020,time_series_covid19_confirmed_global.csv,Netherlands,9/28/2020,110671,114540,Update via Netherlands dashboard
 10/05/2020,time_series_covid19_deaths_global.csv,Netherlands,9/27/2020,6366,6374,Update via Netherlands dashboard
 10/05/2020,time_series_covid19_deaths_global.csv,Netherlands,9/28/2020,6366,6380,Update via Netherlands dashboard
+10/06/2020,time_series_covid19_deaths_global.csv,Liechtenstein,06/30/2020,2,1,correction
