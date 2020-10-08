@@ -169,7 +169,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - OpenCOVID19 France: https://github.com/opencovid19-fr
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
-  - Ministry of Health, Republic of Kosovo: https://kosova.health/ and https://covidks.s3.amazonaws.com/data.json
+  - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
