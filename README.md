@@ -119,7 +119,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California Department of Publich Health: https://www.cdph.ca.gov/covid19
   - California: Mariposa County: https://www.mariposacounty.org/1592/COVID-19-Information
   - California: Alameda County Public Health Department: https://covid-19.acgov.org/
-  - California: City of Fresno: https://www.fresno.gov/coronavirus
+  - California: Fresno County Public Health Department: https://www.co.fresno.ca.us/departments/public-health/covid-19
   - California: Humboldt County: https://humboldtgov.org/
   - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
   - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
@@ -169,7 +169,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - OpenCOVID19 France: https://github.com/opencovid19-fr
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
-  - Ministry of Health, Republic of Kosovo: https://kosova.health/ and https://covidks.s3.amazonaws.com/data.json
+  - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
