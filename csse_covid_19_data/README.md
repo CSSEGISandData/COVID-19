@@ -86,10 +86,11 @@ See [here](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_
 
 ---
 ## Data modification records
-We are also monitoring the curve change. Any errors made by us will be corrected in the dataset. Any possible errors from the original data sources will be listed here as a reference.
-* NHC 2/14: Hubei Province deducted 108 prior deaths from the death toll due to double counting.
-* For Hubei Province: from Feb 13 (GMT +8), we report both clinically diagnosed and lab-confirmed cases. For lab-confirmed cases only (Before Feb 17), please refer to [who_covid_19_situation_reports](https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports). 
-* On Feb 27 Italy made a change in their testing protocols, to limit coronavirus testing to at-risk people showing symptoms of COVID-19. ([Source](https://apnews.com/6c7e40fbec09858a3b4dbd65fe0f14f5))
+This section will contain any modifications to our datasets as well as the reason for the change. If the error results from an issue on our collection of the data, the error will be listed in the errata.csv in the csse_covid19_time_series folder. If the error results due to a change from the source, the change and reasoning will  be listed below.
+Generalized Format: Date: Location; Change; Files affected; Reason; Other notes; Source
+* February 14: Hubei Province, China; Reduction of 108 deaths; Time_series_confirmed_global
+* February 13: Hubei Province, China; Inclusion of probable cases (clinical symptoms);Time_series_confirmed global;For lab-confirmed cases only (Before Feb 17), please refer to [who_covid_19_situation_reports](https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports). 
+* February 27: Italy; Limit of testing to at-risk people showing symptoms of COVID-19; N/A; [Source](https://apnews.com/6c7e40fbec09858a3b4dbd65fe0f14f5)
 * About DP 3/1: All cases of COVID-19 in repatriated US citizens from the Diamond Princess are grouped together, and their location is currently designated at the ship’s port location off the coast of Japan. These individuals have been assigned to various quarantine locations (in military bases and hospitals) around the US. This grouping is consistent with the CDC.
 * Hainan Province active cases update (4/13): We responded to the error from 3/24 to 4/1 we had incorrect data for Hainan Province.  We had -6 active cases (168 6 168 -6). We applied the correction (168 6 162 0) that was applied on 4/2 for this period (3/24 to 4/1).
 * Florida in the daily report US (4/13): Source data error. Correction 123,019 -> 21,019.
