@@ -196,6 +196,9 @@ This section reports instances where large numbers of historical cases or deaths
 * October 5, Mexico changes definition of cases to include those epidemiologically linked via symptoms and known contact but lacking test confirmation. The result of this change is an increase of 24,698 historical cases and 2609 historical deaths, both going back to the beginning of the pandemic. ([News source with official press conference embedded](https://www.eluniversal.com.mx/nacion/coronavirus-5-de-octubre-mexico-suma-789-mil-casos-de-covid-y-81-mil-muertes)).
 * October 7, Fayette County, Kentucky releases 1472 historical cases stretching over the previous month and a half. These are a portion of 1900 backlogged cases for the county, and it is likely this will be included in the proceeding days. ([County source](https://www.facebook.com/LFCHD/posts/10159412744354739), [News source with Governor's press conference](https://www.wkyt.com/2020/10/07/watch-live-gov-beshear-gives-update-on-covid-19/))
 
+## Large scale back distributions
+This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
+
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
