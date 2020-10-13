@@ -208,6 +208,7 @@ United States
 * Kansas: No data for the weekend of August 22-23.
 * Guam: Not reporting data on weekends.
 * Michigan: Not providing death data on Sundays.
+* Florida: Did not update on weekend for October 10-11.
 
 International
 * Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays and Fridays.
