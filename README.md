@@ -17,7 +17,7 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
-<b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/novel-coronavirus-information/support-covid-19-dashboard-team/
+<b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/covid-19/support-the-csse-covid-19-dashboard-team/
 
 
 <b>DATA SOURCES:</b>
@@ -150,6 +150,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Idaho Government: https://coronavirus.idaho.gov/
   - Virgin Islands Department of Health: https://www.covid19usvi.com/
   - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
+  - Kansas: Reno County Health Department: https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/
+  - Kansas: Kansas Department Of Health And Environment: https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
