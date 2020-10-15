@@ -48,8 +48,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Northern Mariana Islands CNMI Department of Public Health: https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5
   - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
   - Missouri: Nodaway County: https://www.nodawaypublichealth.org/
-  - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
-  - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
+  - Missouri: St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
+  - Missouri: St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
   - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
   - Michigan: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html 
   - Illinois Department of Public Health: https://dph.illinois.gov/covid19
