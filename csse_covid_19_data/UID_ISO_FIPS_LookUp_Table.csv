@@ -1082,7 +1082,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84002016,US,USA,840,02016,Aleutians West,Alaska,US,52.3233,-174.1596,"Aleutians West, Alaska, US",5634
 84002020,US,USA,840,02020,Anchorage,Alaska,US,61.14998174,-149.1426986,"Anchorage, Alaska, US",288000
 84002050,US,USA,840,02050,Bethel,Alaska,US,60.90980451,-159.8561831,"Bethel, Alaska, US",18386
-84002060,US,USA,840,02060,Bristol Bay,Alaska,US,58.74513976,-156.701064,"Bristol Bay, Alaska, US",2428
+84002060,US,USA,840,02060,Bristol Bay,Alaska,US,58.74513976,-156.701064,"Bristol Bay, Alaska, US",836
 84002068,US,USA,840,02068,Denali,Alaska,US,63.67264044,-150.0076108,"Denali, Alaska, US",2097
 84002070,US,USA,840,02070,Dillingham,Alaska,US,59.79603738,-158.2381942,"Dillingham, Alaska, US",4916
 84002090,US,USA,840,02090,Fairbanks North Star,Alaska,US,64.80726247,-146.5692662,"Fairbanks North Star, Alaska, US",96849
@@ -1093,7 +1093,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84002130,US,USA,840,02130,Ketchikan Gateway,Alaska,US,55.57445008,-130.975561,"Ketchikan Gateway, Alaska, US",13901
 84002150,US,USA,840,02150,Kodiak Island,Alaska,US,57.65529415,-153.7493579,"Kodiak Island, Alaska, US",12998
 84002158,US,USA,840,02158,Kusilvak,Alaska,US,62.1542916,-163.3967883,"Kusilvak, Alaska, US",8314
-84002164,US,USA,840,02164,Bristol Bay plus Lake and Peninsula,Alaska,US,58.62403337,-156.2140589,"Bristol Bay plus Lake and Peninsula, Alaska, US",4020
+84002164,US,USA,840,02164,Bristol Bay plus Lake and Peninsula,Alaska,US,58.62403337,-156.2140589,"Bristol Bay plus Lake and Peninsula, Alaska, US",2428
 84002170,US,USA,840,02170,Matanuska-Susitna,Alaska,US,62.31305045,-149.5741743,"Matanuska-Susitna, Alaska, US",108317
 84002180,US,USA,840,02180,Nome,Alaska,US,64.90320724,-164.0353804,"Nome, Alaska, US",10004
 84002185,US,USA,840,02185,North Slope,Alaska,US,69.31479216,-153.4836093,"North Slope, Alaska, US",9832
