@@ -146,6 +146,7 @@ We are also monitoring the curve change. Any errors made by us will be corrected
 * September 16, Pennsylvania released county level data for September 13 after generation of daily reports. We have used [this report](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID-19%20County%20Data/County%20Case%20Counts_9-13-2020.pdf) to assign county level data. Of note, the cases for Philadelphia appear to be anomalous in the official report (significant drop of cases) so we have chosen to maintain our previously reported number for this location.
 * October 5, we have noted irregularities with the rpeorting for Missouri from September 29-October 1 due to changes in reporting by the Missouri Department of Health. We are working to correct our time series data.
 * October 13; Rhode Island, US; in collaboration with the Rhode Island Department of Health, we have been able to recreate the county level death time series for Rhode Island. Moving forward, we will be reporting deaths at the county level; time_series_deaths_us.csv & time_series_deaths_global.csv. Rhode Island will be publishing county level cases and deaths once per week. Please see issue #3229 for more details. 
+* October 15: Luxembourg | Update for stale data October 8 through 14 | All time series files and daily reports | Updated via [daily report pdfs](https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_) from national source
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -196,6 +197,7 @@ This section reports instances where large numbers of historical cases or deaths
 * October 5, Mexico changes definition of cases to include those epidemiologically linked via symptoms and known contact but lacking test confirmation. The result of this change is an increase of 24,698 historical cases and 2609 historical deaths, both going back to the beginning of the pandemic. ([News source with official press conference embedded](https://www.eluniversal.com.mx/nacion/coronavirus-5-de-octubre-mexico-suma-789-mil-casos-de-covid-y-81-mil-muertes)).
 * October 7, Fayette County, Kentucky releases 1472 historical cases stretching over the previous month and a half. These are a portion of 1900 backlogged cases for the county, and it is likely this will be included in the proceeding days. ([County source](https://www.facebook.com/LFCHD/posts/10159412744354739), [News source with Governor's press conference](https://www.wkyt.com/2020/10/07/watch-live-gov-beshear-gives-update-on-covid-19/))
 * October 12, spike in cases in the State of Missouri is due to a database error. We are monitoring the dashboard and will redistribute if the error is fixed. [News report](https://www.stltoday.com/lifestyles/health-med-fit/health/missouri-health-department-says-5-000-case-increase-was-reporting-error/article_0021cc3b-21a4-5c6f-8887-48aa6e2087bd.html)
+* October 18, Navajo County, Arizona | Reduction of -52 cases | Reconciliation of database entry errors | [Source](https://twitter.com/NavajoCountyAZ/status/1317506622281850881)
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
@@ -222,7 +224,7 @@ International
 * Denmark: Not updating case, death, or recovered data on the weekends.
 * France: No update to deaths or recoveries for the weekend of August 8 and 9.
 * UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
-* Luxembourg: Only providing death data on the weekends.
+* Luxembourg: Not updating on weekends.
 
 ---
 ## [UID Lookup Table Logic](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
@@ -246,7 +248,7 @@ International
   *	Unassigned, US: UID = 840 (country code3) + 900XX (state FIPS code). Ranging from 8409001 to 84090056.
   *	US counties: UID = 840 (country code3) + XXXXX (5-digit FIPS code).
   *	Exception type 1, such as recovered and Kansas City, ranging from 8407001 to 8407999.
-  *	Exception type 2, Bristol Bay plus Lake Peninsula replaces Bristol Bay and its FIPS code. Population is 836 (Bristol Bay) + 1,592 (Lake and Peninsula) = 2,428 (Bristol Bay plus Lake Peninsula). ~~New York City replaces New York County and its FIPS code. New York City popluation is calculated as Bronx (1,418,207) + Kings (2,559,903) + New York (1,628,706) + Queens (2,253,858) + Richmond (476,143) = NYC (8,336,817). (updated on Aug 31)~~ 
+  *	Exception type 2, Bristol Bay plus Lake Peninsula replaces Lake and Peninsula ~~Bristol Bay~~ and its FIPS code (UID=84002164). Population is 836 (Bristol Bay) + 1,592 (Lake and Peninsula) = 2,428 (Bristol Bay plus Lake Peninsula). ~~New York City replaces New York County and its FIPS code. New York City popluation is calculated as Bronx (1,418,207) + Kings (2,559,903) + New York (1,628,706) + Queens (2,253,858) + Richmond (476,143) = NYC (8,336,817). (updated on Aug 31)~~ 
   *	Exception type 3, Diamond Princess, US: 84088888; Grand Princess, US: 84099999.
   * Exception type 4, municipalities in Puerto Rico are regarded as counties with FIPS codes. The FIPS code for the unassigned category is defined as 72999.
 4. Population data sources.
