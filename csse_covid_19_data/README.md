@@ -138,6 +138,8 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * September 13: Colorado, Texas | Texas Department of Health notifies that Colorado, Texas was subject to data entry error on September 12 that resulted in 545 cases being reported rather than 454. Time series adjusted to correct this mistake. | time_series_covid19_confirmed_US.csv | N/A | N/A
 * September 16: Pennsylvania | Pennsylvania released county level data for September 13 after generation of daily reports. We have used [this report](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID-19%20County%20Data/County%20Case%20Counts_9-13-2020.pdf) to assign county level data. Of note, the cases for Philadelphia appear to be anomalous in the official report (significant drop of cases) so we have chosen to maintain our previously reported number for this location.
 * October 5: Missouri | We have noted irregularities with the reporting for Missouri from September 29-October 1 due to changes in reporting by the Missouri Department of Health. We are working to correct our time series data.
+* October 13: Rhode Island, US | in collaboration with the Rhode Island Department of Health, we have been able to recreate the county level death time series for Rhode Island. Moving forward, we will be reporting deaths at the county level | time_series_deaths_us.csv & time_series_deaths_global.csv. Rhode Island will be publishing county level cases and deaths once per week. Please see issue #3229 for more details. 
+* October 15: Luxembourg | Update for stale data October 8 through 14 | All time series files and daily reports | Updated via [daily report pdfs](https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_) from national source
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -190,6 +192,9 @@ Date: Location | Change | Reason/Other notes | Source
 * October 3-4: United Kingdom | Notice on United Kingdom's dashboard states "Due to a technical issue, which has now been resolved, there has been a delay in publishing a number of COVID-19 cases to the dashboard in England. This means the total reported over the coming days will include some additional cases from the period between 24 September and 1 October, increasing the number of cases reported." We anticipate this will lead to significantly higher case numbers being reported. ([Data source](https://coronavirus.data.gov.uk/)). On October 4, the United Kingdom released the following statement on their dashboard: "The cases by publish date for 3 and 4 October include 15,841 additional cases with specimen dates between 25 September and 2 October — they are therefore artificially high for England and the UK."
 * October 5: Mexico | Alteration of case definition to include those epidemiologically linked and symptomatic but lacking test confirmation. The result of this change is an increase of 24,698 historical cases and 2609 historical deaths, both going back to the beginning of the pandemic | [News source with official press conference embedded](https://www.eluniversal.com.mx/nacion/coronavirus-5-de-octubre-mexico-suma-789-mil-casos-de-covid-y-81-mil-muertes)
 * October 7: Fayette County, Kentucky | Release of 1472 historical cases stretching over the previous month and a half. These are a portion of 1900 backlogged cases for the county, and it is likely this will be included in the proceeding days | [County source](https://www.facebook.com/LFCHD/posts/10159412744354739), [News source with Governor's press conference](https://www.wkyt.com/2020/10/07/watch-live-gov-beshear-gives-update-on-covid-19/)
+* October 12: Missouri } spike in cases is due to a database error. We are monitoring the dashboard and will redistribute if the error is fixed | [News report](https://www.stltoday.com/lifestyles/health-med-fit/health/missouri-health-department-says-5-000-case-increase-was-reporting-error/article_0021cc3b-21a4-5c6f-8887-48aa6e2087bd.html)
+* October 18: Navajo County, Arizona | Reduction of -52 cases | Reconciliation of database entry errors | [Source](https://twitter.com/NavajoCountyAZ/status/1317506622281850881)
+* October 23: Alabama, US | Inclusion of 2565 backlogged antigen positives in Mobile and 1182 backlogged antigen and PCR tests from around the state | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7) "The Alabama Department of Public Health processed a backlog of 2565 positive antigen results from a facility in Mobile on October 22. These will be classified as “probable” COVID-19 cases reported on 10/22/20 even though the tests were performed during June through October 18, 2020. The Alabama Department of Public Health processed a backlog of 1182 positive results from a variety of facilities all over Alabama. A majority of these will be classified as “probable” COVID-19 cases reported on 10/23/20 even though the tests were performed during April through September."
 
 ## Large scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -220,6 +225,7 @@ United States
 * Guam: Not reporting data on weekends.
 * Michigan: Not providing death data on Sundays.
 * Florida: Did not update on weekend for October 10-11.
+* Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available.
 
 International
 * Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays and Fridays.
@@ -230,7 +236,7 @@ International
 * Denmark: Not updating case, death, or recovered data on the weekends.
 * France: No update to deaths or recoveries for the weekend of August 8 and 9.
 * UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
-* Luxembourg: Only providing death data on the weekends.
+* Luxembourg: Not providing actionable data on weekends.
 
 
 ---
