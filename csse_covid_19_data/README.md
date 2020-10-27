@@ -195,8 +195,9 @@ Date: Location | Change | Reason/Other notes | Source
 * October 12: Missouri } spike in cases is due to a database error. We are monitoring the dashboard and will redistribute if the error is fixed | [News report](https://www.stltoday.com/lifestyles/health-med-fit/health/missouri-health-department-says-5-000-case-increase-was-reporting-error/article_0021cc3b-21a4-5c6f-8887-48aa6e2087bd.html)
 * October 18: Navajo County, Arizona | Reduction of -52 cases | Reconciliation of database entry errors | [Source](https://twitter.com/NavajoCountyAZ/status/1317506622281850881)
 * October 23: Alabama, US | Inclusion of 2565 backlogged antigen positives in Mobile and 1182 backlogged antigen and PCR tests from around the state | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7) "The Alabama Department of Public Health processed a backlog of 2565 positive antigen results from a facility in Mobile on October 22. These will be classified as “probable” COVID-19 cases reported on 10/22/20 even though the tests were performed during June through October 18, 2020. The Alabama Department of Public Health processed a backlog of 1182 positive results from a variety of facilities all over Alabama. A majority of these will be classified as “probable” COVID-19 cases reported on 10/23/20 even though the tests were performed during April through September."
+* October 23: Los Angeles County, California, US | Estimated 2000 backlogged cases included in daily report | [Source](https://github.com/CSSEGISandData/COVID-19/issues/3267)
 
-## Large scale back distributions
+## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
 Generalized format:
 Date: Location | File | Change | Data source for change

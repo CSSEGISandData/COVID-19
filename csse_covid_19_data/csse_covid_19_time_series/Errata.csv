@@ -530,3 +530,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/21/20,time_series_covid19_confirmed_global.csv,Kosovo,"10/20/2020, 10/17/2021, 10/9/2020, 10/8/2020",,,Updated via https://corona-ks.info/?lang=en
 10/21/20,time_series_covid19_recovered_global.csv,Kosovo,"10/20/2020, 10/17/2021, 10/9/2020, 10/8/2020",,,Updated via https://corona-ks.info/?lang=en
 10/21/20,time_series_covid19_deaths_global.csv,Kosovo,"10/20/2020, 10/17/2021, 10/9/2020, 10/8/2020",,,Updated via https://corona-ks.info/?lang=en
+10/26/20,time_series_covid19_deaths_global.csv,Kosovo,"10/25/2020 - 10/21/2021",,,Updated via https://corona-ks.info/?lang=en
+10/26/20,time_series_covid19_confirmed_global.csv,Kosovo,"10/25/2020 - 10/21/2021",,,Updated via https://corona-ks.info/?lang=en
+10/26/20,time_series_covid19_recovered_global.csv,Kosovo,"10/25/2020 - 10/21/2021",,,Updated via https://corona-ks.info/?lang=en
