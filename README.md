@@ -17,7 +17,7 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
-<b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/novel-coronavirus-information/support-covid-19-dashboard-team/
+<b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/covid-19/support-the-csse-covid-19-dashboard-team/
 
 
 <b>DATA SOURCES:</b>
@@ -48,8 +48,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Northern Mariana Islands CNMI Department of Public Health: https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5
   - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
   - Missouri: Nodaway County: https://www.nodawaypublichealth.org/
-  - St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
-  - St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
+  - Missouri: St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
+  - Missouri: St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
   - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
   - Michigan: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html 
   - Illinois Department of Public Health: https://dph.illinois.gov/covid19
@@ -63,7 +63,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - North Carolina City of Greenville GIS: https://www.arcgis.com/apps/opsdashboard/index.html#/7aeac695cafa4065ba1505b1cfa72747
   - Iowa State Government: https://coronavirus.iowa.gov/
   - Minnesota Department of Health: https://www.health.state.mn.us/diseases/coronavirus/situation.html
-  - Alabama Samford University's Department of Geography and Sociology: https://experience.arcgis.com/experience/e03f87e48a234feebbad27d0ee7ff824
+  - Alabama Public Health: https://www.alabamapublichealth.gov/covid19/
   - Mississippi State Department of Health: https://msdh.ms.gov/msdhsite/_static/14,0,420.html
   - Nebraska Department of Health and Human Services: https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd
   - South Carolina Department of Health and Environmental Control: https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19
@@ -119,7 +119,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California Department of Publich Health: https://www.cdph.ca.gov/covid19
   - California: Mariposa County: https://www.mariposacounty.org/1592/COVID-19-Information
   - California: Alameda County Public Health Department: https://covid-19.acgov.org/
-  - California: City of Fresno: https://www.fresno.gov/coronavirus
+  - California: Fresno County Public Health Department: https://www.co.fresno.ca.us/departments/public-health/covid-19
   - California: Humboldt County: https://humboldtgov.org/
   - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
   - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
@@ -149,6 +149,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - New Hampshire Department of Health and Human Services: https://www.nh.gov/covid19/dashboard/summary.htm
   - Idaho Government: https://coronavirus.idaho.gov/
   - Virgin Islands Department of Health: https://www.covid19usvi.com/
+  - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
+  - Kansas: Reno County Health Department: https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/
+  - Kansas: Kansas Department Of Health And Environment: https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
@@ -168,7 +171,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - OpenCOVID19 France: https://github.com/opencovid19-fr
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
-  - Ministry of Health, Republic of Kosovo: https://kosova.health/ and https://covidks.s3.amazonaws.com/data.json
+  - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
@@ -183,13 +186,14 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
-  - India Ministry of Health and Family Welfare: https://www.mohfw.gov.in/
+  - Government of India: https://www.mygov.in/covid-19
   - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - Iceland Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
-
+  - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+    
 
 
 <b>Embed our dashboard into your webpage:</b>
