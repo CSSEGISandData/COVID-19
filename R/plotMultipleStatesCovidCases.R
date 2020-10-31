@@ -9,8 +9,8 @@ source("./R/readDailyReportsData.R")
 source("./R/plotCovidUSCounties.R")
 source("./R/multiplot.R")
 # GA
-gaCounties <- c("Cobb","Fulton","Cherokee","DeKalb","Gwinnett")
-p1 <- plotCovidUSCounties(data,"Georgia",gaCounties,yLimit=c(0,20000))
+gaCounties <- c("Cobb","Fulton","Cherokee","DeKalb","Gwinnett","Carroll")
+p1 <- plotCovidUSCounties(data,"Georgia",gaCounties,yLimit=c(0,35000))
 
 # IL
 ilCounties<- c("Cook","Lake","Will","McHenry","DuPage","Kane")
