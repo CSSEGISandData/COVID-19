@@ -2775,6 +2775,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90004,Unassigned,Arizona,US,2020-06-30 04:33:48,,,0,1,0,-1,"Unassigned, Arizona, US",,0.0
 90005,Unassigned,Arkansas,US,2020-06-30 04:33:48,,,731,0,0,731,"Unassigned, Arkansas, US",,0.0
 90006,Unassigned,California,US,2020-06-30 04:33:48,,,0,0,0,0,"Unassigned, California, US",,0.0
+90008,Unassigned,Colorado,US,2020-06-30 04:33:48,,,17,0,0,0,"Unassigned, Colorado, US",,
 90009,Unassigned,Connecticut,US,2020-06-30 04:33:48,,,205,0,0,205,"Unassigned, Connecticut, US",,0.0
 90010,Unassigned,Delaware,US,2020-06-30 04:33:48,,,36,0,0,36,"Unassigned, Delaware, US",,0.0
 90012,Unassigned,Florida,US,2020-06-30 04:33:48,,,138,0,0,138,"Unassigned, Florida, US",,0.0
@@ -3288,7 +3289,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Ingushetia Republic,Russia,2020-06-30 04:33:48,43.11542075,45.01713552,3020,68,2449,503,"Ingushetia Republic, Russia",618.7979337886211,2.251655629
 ,,Inner Mongolia,China,2020-06-30 04:33:48,44.0935,113.9448,238,1,237,0,"Inner Mongolia, China",0.9392265193370166,0.4201680672
 ,,Irkutsk Oblast,Russia,2020-06-30 04:33:48,56.6370122,104.71922099999999,7043,56,2534,4453,"Irkutsk Oblast, Russia",292.94628763473844,0.7951157177
-,,Ishikawa,Japan,2020-06-30 04:33:48,36.769464,136.771027,300,27,252,21,"Ishikawa, Japan",26.370172170854104,9
+,,Ishikawa,Japan,2020-06-30 04:33:48,36.769464,136.771027,300,27,252,21,"Ishikawa, Japan",26.370172170854104,9.0
 ,,Islamabad,Pakistan,2020-06-30 04:33:48,33.665087,73.121219,12775,128,7261,5386,"Islamabad, Pakistan",636.6579420025795,1.001956947
 ,,Isle of Man,United Kingdom,2020-06-30 04:33:48,54.2361,-4.5481,336,24,312,0,"Isle of Man, United Kingdom",395.14535704205474,7.142857143
 ,,Ivano-Frankivsk Oblast,Ukraine,2020-06-30 04:33:48,48.9226,24.7111,2350,101,1096,1153,"Ivano-Frankivsk Oblast, Ukraine",171.12663953884646,4.29787234
