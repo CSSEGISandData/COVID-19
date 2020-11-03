@@ -232,29 +232,29 @@ Washington,Maine,US,Washington,Maine,US,45.01607142,-67.62813524,,,,,23029
 York,Maine,US,York,Maine,US,43.47808377,-70.71052375,,,,,23031
 Out of ME,Maine,US,Out of ME,Maine,US,,,,,,,80023
 unassigned,Wyoming,US,Unassigned,Wyoming,US,,,,,,,90056
-Albany,Wyoming,US,Albany,Wyoming,US,41.65498705,-105.7235415,1616,5,,,56001
-Big Horn,Wyoming,US,Big Horn,Wyoming,US,44.52405055,-107.9960365,263,7,,,56003
-Campbell,Wyoming,US,Campbell,Wyoming,US,44.24886082,-105.5474404,1265,3,,,56005
-Carbon,Wyoming,US,Carbon,Wyoming,US,41.69357844,-106.9326084,346,2,,,56007
-Converse,Wyoming,US,Converse,Wyoming,US,42.97272268,-105.5081848,345,1,,,56009
-Crook,Wyoming,US,Crook,Wyoming,US,44.58855102,-104.5697705,123,1,,,56011
-Fremont,Wyoming,US,Fremont,Wyoming,US,43.04183996,-108.6296893,1538,16,,,56013
-Goshen,Wyoming,US,Goshen,Wyoming,US,42.08798185,-104.3534743,192,6,,,56015
-Hot Springs,Wyoming,US,Hot Springs,Wyoming,US,43.71930657,-108.4423174,55,0,,,56017
-Johnson,Wyoming,US,Johnson,Wyoming,US,44.04057166,-106.5845174,133,2,,,56019
-Laramie,Wyoming,US,Laramie,Wyoming,US,41.3070252,-104.6887497,1942,7,,,56021
-Lincoln,Wyoming,US,Lincoln,Wyoming,US,42.26376367,-110.6563997,375,3,,,56023
-Natrona,Wyoming,US,Natrona,Wyoming,US,42.96180148,-106.797885,1767,10,,,56025
-Niobrara,Wyoming,US,Niobrara,Wyoming,US,43.05607708,-104.4758896,17,0,,,56027
-Park,Wyoming,US,Park,Wyoming,US,44.52157546,-109.5852825,721,3,,,56029
-Platte,Wyoming,US,Platte,Wyoming,US,42.13299116,-104.966331,159,2,,,56031
-Sheridan,Wyoming,US,Sheridan,Wyoming,US,44.79048913,-106.8862389,854,5,,,56033
-Sublette,Wyoming,US,Sublette,Wyoming,US,42.76558279,-109.9130922,187,1,,,56035
-Sweetwater,Wyoming,US,Sweetwater,Wyoming,US,41.65943896,-108.8827882,601,2,,,56037
-Teton,Wyoming,US,Teton,Wyoming,US,43.93522482,-110.5890801,847,1,,,56039
-Uinta,Wyoming,US,Uinta,Wyoming,US,41.2878183,-110.5475782,492,3,,,56041
-Washakie,Wyoming,US,Washakie,Wyoming,US,43.90451606,-107.680187,160,7,,,56043
-Weston,Wyoming,US,Weston,Wyoming,US,43.83961191,-104.5674881,169,0,,,56045
+Albany,Wyoming,US,Albany,Wyoming,US,41.65498705,-105.7235415,,,,,56001
+Big Horn,Wyoming,US,Big Horn,Wyoming,US,44.52405055,-107.9960365,,,,,56003
+Campbell,Wyoming,US,Campbell,Wyoming,US,44.24886082,-105.5474404,,,,,56005
+Carbon,Wyoming,US,Carbon,Wyoming,US,41.69357844,-106.9326084,,,,,56007
+Converse,Wyoming,US,Converse,Wyoming,US,42.97272268,-105.5081848,,,,,56009
+Crook,Wyoming,US,Crook,Wyoming,US,44.58855102,-104.5697705,,,,,56011
+Fremont,Wyoming,US,Fremont,Wyoming,US,43.04183996,-108.6296893,,,,,56013
+Goshen,Wyoming,US,Goshen,Wyoming,US,42.08798185,-104.3534743,,,,,56015
+Hot Springs,Wyoming,US,Hot Springs,Wyoming,US,43.71930657,-108.4423174,,,,,56017
+Johnson,Wyoming,US,Johnson,Wyoming,US,44.04057166,-106.5845174,,,,,56019
+Laramie,Wyoming,US,Laramie,Wyoming,US,41.3070252,-104.6887497,,,,,56021
+Lincoln,Wyoming,US,Lincoln,Wyoming,US,42.26376367,-110.6563997,,,,,56023
+Natrona,Wyoming,US,Natrona,Wyoming,US,42.96180148,-106.797885,,,,,56025
+Niobrara,Wyoming,US,Niobrara,Wyoming,US,43.05607708,-104.4758896,,,,,56027
+Park,Wyoming,US,Park,Wyoming,US,44.52157546,-109.5852825,,,,,56029
+Platte,Wyoming,US,Platte,Wyoming,US,42.13299116,-104.966331,,,,,56031
+Sheridan,Wyoming,US,Sheridan,Wyoming,US,44.79048913,-106.8862389,,,,,56033
+Sublette,Wyoming,US,Sublette,Wyoming,US,42.76558279,-109.9130922,,,,,56035
+Sweetwater,Wyoming,US,Sweetwater,Wyoming,US,41.65943896,-108.8827882,,,,,56037
+Teton,Wyoming,US,Teton,Wyoming,US,43.93522482,-110.5890801,,,,,56039
+Uinta,Wyoming,US,Uinta,Wyoming,US,41.2878183,-110.5475782,,,,,56041
+Washakie,Wyoming,US,Washakie,Wyoming,US,43.90451606,-107.680187,,,,,56043
+Weston,Wyoming,US,Weston,Wyoming,US,43.83961191,-104.5674881,,,,,56045
 ,,Palestine,,,West Bank and Gaza,31.9522,35.2332,,,,,
 ,,Western Sahara,,,Western Sahara,24.2155,-12.8858,,,,,
 Wayne--Non Detroit,Michigan,US,Wayne,Michigan,US,42.28098405,-83.281255,,,,,26163
@@ -923,57 +923,57 @@ Kauai,Hawaii,US,Kauai,Hawaii,US,,,,,,,
 Maui,Hawaii,US,Maui,Hawaii,US,,,,,,,
 Out of HI,Hawaii,US,Out of HI,Hawaii,US,,,,,,,
 Unassigned,Hawaii,US,Unassigned,Hawaii,US,,,,,,,
-Adams,North Dakota,US,Adams,North Dakota,US,,,95,0,,,
-Barnes,North Dakota,US,Barnes,North Dakota,US,,,416,1,,,
-Benson,North Dakota,US,Benson,North Dakota,US,,,559,10,,,
-Billings,North Dakota,US,Billings,North Dakota,US,,,34,0,,,
-Bottineau,North Dakota,US,Bottineau,North Dakota,US,,,356,17,,,
-Bowman,North Dakota,US,Bowman,North Dakota,US,,,150,2,,,
-Burke,North Dakota,US,Burke,North Dakota,US,,,88,1,,,
-Burleigh,North Dakota,US,Burleigh,North Dakota,US,,,7591,80,,,
-Cass,North Dakota,US,Cass,North Dakota,US,,,10160,87,,,
-Cavalier,North Dakota,US,Cavalier,North Dakota,US,,,128,1,,,
-Dickey,North Dakota,US,Dickey,North Dakota,US,,,338,8,,,
-Divide,North Dakota,US,Divide,North Dakota,US,,,71,1,,,
-Dunn,North Dakota,US,Dunn,North Dakota,US,,,217,6,,,
-Eddy,North Dakota,US,Eddy,North Dakota,US,,,219,3,,,
-Emmons,North Dakota,US,Emmons,North Dakota,US,,,294,9,,,
-Foster,North Dakota,US,Foster,North Dakota,US,,,209,2,,,
-Golden Valley,North Dakota,US,Golden Valley,North Dakota,US,,,124,0,,,
-Grand Forks,North Dakota,US,Grand Forks,North Dakota,US,,,4780,22,,,
-Grant,North Dakota,US,Grant,North Dakota,US,,,85,4,,,
-Griggs,North Dakota,US,Griggs,North Dakota,US,,,116,1,,,
-Hettinger,North Dakota,US,Hettinger,North Dakota,US,,,143,2,,,
-Kidder,North Dakota,US,Kidder,North Dakota,US,,,116,2,,,
-LaMoure,North Dakota,US,LaMoure,North Dakota,US,,,226,11,,,
-Logan,North Dakota,US,Logan,North Dakota,US,,,133,3,,,
-McHenry,North Dakota,US,McHenry,North Dakota,US,,,244,14,,,
-McIntosh,North Dakota,US,McIntosh,North Dakota,US,,,179,5,,,
-McKenzie,North Dakota,US,McKenzie,North Dakota,US,,,601,4,,,
-McLean,North Dakota,US,McLean,North Dakota,US,,,666,11,,,
-Mercer,North Dakota,US,Mercer,North Dakota,US,,,534,3,,,
-Morton,North Dakota,US,Morton,North Dakota,US,,,2599,55,,,
-Mountrail,North Dakota,US,Mountrail,North Dakota,US,,,588,9,,,
-Nelson,North Dakota,US,Nelson,North Dakota,US,,,179,3,,,
-Oliver,North Dakota,US,Oliver,North Dakota,US,,,90,2,,,
-Pembina,North Dakota,US,Pembina,North Dakota,US,,,264,0,,,
-Pierce,North Dakota,US,Pierce,North Dakota,US,,,153,1,,,
-Ramsey,North Dakota,US,Ramsey,North Dakota,US,,,620,4,,,
-Ransom,North Dakota,US,Ransom,North Dakota,US,,,227,3,,,
-Renville,North Dakota,US,Renville,North Dakota,US,,,122,2,,,
-Richland,North Dakota,US,Richland,North Dakota,US,,,559,4,,,
-Rolette,North Dakota,US,Rolette,North Dakota,US,,,519,9,,,
-Sargent,North Dakota,US,Sargent,North Dakota,US,,,142,3,,,
-Sheridan,North Dakota,US,Sheridan,North Dakota,US,,,61,1,,,
-Sioux,North Dakota,US,Sioux,North Dakota,US,,,277,5,,,
-Slope,North Dakota,US,Slope,North Dakota,US,,,15,0,,,
-Stark,North Dakota,US,Stark,North Dakota,US,,,2498,34,,,
-Steele,North Dakota,US,Steele,North Dakota,US,,,65,1,,,
-Stutsman,North Dakota,US,Stutsman,North Dakota,US,,,1068,10,,,
-Towner,North Dakota,US,Towner,North Dakota,US,,,126,5,,,
-Traill,North Dakota,US,Traill,North Dakota,US,,,380,5,,,
-Walsh,North Dakota,US,Walsh,North Dakota,US,,,659,2,,,
-Ward,North Dakota,US,Ward,North Dakota,US,,,3707,54,,,
-Wells,North Dakota,US,Wells,North Dakota,US,,,208,0,,,
-Williams,North Dakota,US,Williams,North Dakota,US,,,2017,18,,,
+Adams,North Dakota,US,Adams,North Dakota,US,,,,,,,
+Barnes,North Dakota,US,Barnes,North Dakota,US,,,,,,,
+Benson,North Dakota,US,Benson,North Dakota,US,,,,,,,
+Billings,North Dakota,US,Billings,North Dakota,US,,,,,,,
+Bottineau,North Dakota,US,Bottineau,North Dakota,US,,,,,,,
+Bowman,North Dakota,US,Bowman,North Dakota,US,,,,,,,
+Burke,North Dakota,US,Burke,North Dakota,US,,,,,,,
+Burleigh,North Dakota,US,Burleigh,North Dakota,US,,,,,,,
+Cass,North Dakota,US,Cass,North Dakota,US,,,,,,,
+Cavalier,North Dakota,US,Cavalier,North Dakota,US,,,,,,,
+Dickey,North Dakota,US,Dickey,North Dakota,US,,,,,,,
+Divide,North Dakota,US,Divide,North Dakota,US,,,,,,,
+Dunn,North Dakota,US,Dunn,North Dakota,US,,,,,,,
+Eddy,North Dakota,US,Eddy,North Dakota,US,,,,,,,
+Emmons,North Dakota,US,Emmons,North Dakota,US,,,,,,,
+Foster,North Dakota,US,Foster,North Dakota,US,,,,,,,
+Golden Valley,North Dakota,US,Golden Valley,North Dakota,US,,,,,,,
+Grand Forks,North Dakota,US,Grand Forks,North Dakota,US,,,,,,,
+Grant,North Dakota,US,Grant,North Dakota,US,,,,,,,
+Griggs,North Dakota,US,Griggs,North Dakota,US,,,,,,,
+Hettinger,North Dakota,US,Hettinger,North Dakota,US,,,,,,,
+Kidder,North Dakota,US,Kidder,North Dakota,US,,,,,,,
+LaMoure,North Dakota,US,LaMoure,North Dakota,US,,,,,,,
+Logan,North Dakota,US,Logan,North Dakota,US,,,,,,,
+McHenry,North Dakota,US,McHenry,North Dakota,US,,,,,,,
+McIntosh,North Dakota,US,McIntosh,North Dakota,US,,,,,,,
+McKenzie,North Dakota,US,McKenzie,North Dakota,US,,,,,,,
+McLean,North Dakota,US,McLean,North Dakota,US,,,,,,,
+Mercer,North Dakota,US,Mercer,North Dakota,US,,,,,,,
+Morton,North Dakota,US,Morton,North Dakota,US,,,,,,,
+Mountrail,North Dakota,US,Mountrail,North Dakota,US,,,,,,,
+Nelson,North Dakota,US,Nelson,North Dakota,US,,,,,,,
+Oliver,North Dakota,US,Oliver,North Dakota,US,,,,,,,
+Pembina,North Dakota,US,Pembina,North Dakota,US,,,,,,,
+Pierce,North Dakota,US,Pierce,North Dakota,US,,,,,,,
+Ramsey,North Dakota,US,Ramsey,North Dakota,US,,,,,,,
+Ransom,North Dakota,US,Ransom,North Dakota,US,,,,,,,
+Renville,North Dakota,US,Renville,North Dakota,US,,,,,,,
+Richland,North Dakota,US,Richland,North Dakota,US,,,,,,,
+Rolette,North Dakota,US,Rolette,North Dakota,US,,,,,,,
+Sargent,North Dakota,US,Sargent,North Dakota,US,,,,,,,
+Sheridan,North Dakota,US,Sheridan,North Dakota,US,,,,,,,
+Sioux,North Dakota,US,Sioux,North Dakota,US,,,,,,,
+Slope,North Dakota,US,Slope,North Dakota,US,,,,,,,
+Stark,North Dakota,US,Stark,North Dakota,US,,,,,,,
+Steele,North Dakota,US,Steele,North Dakota,US,,,,,,,
+Stutsman,North Dakota,US,Stutsman,North Dakota,US,,,,,,,
+Towner,North Dakota,US,Towner,North Dakota,US,,,,,,,
+Traill,North Dakota,US,Traill,North Dakota,US,,,,,,,
+Walsh,North Dakota,US,Walsh,North Dakota,US,,,,,,,
+Ward,North Dakota,US,Ward,North Dakota,US,,,,,,,
+Wells,North Dakota,US,Wells,North Dakota,US,,,,,,,
+Williams,North Dakota,US,Williams,North Dakota,US,,,,,,,
 Lander,Nevada,US,Lander,Nevada,US,,,,4,,,
