@@ -940,7 +940,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 8115,Sedgwick,Colorado,US,2020-09-23 04:23:00,40.87595412,-102.3519227,12,1,0,11,"Sedgwick, Colorado, US",533.8078292,8.333333333
 8117,Summit,Colorado,US,2020-09-23 04:23:00,39.63803232,-106.1150762,422,4,0,418,"Summit, Colorado, US",1360.807455,0.947867299
 8119,Teller,Colorado,US,2020-09-23 04:23:00,38.88133511,-105.1614893,174,4,0,170,"Teller, Colorado, US",685.3631637,2.298850575
-90008,Unassigned,Colorado,US,2020-09-23 04:23:00,,,0,0,0,0,"Unassigned, Colorado, US",,
+90008,Unassigned,Colorado,US,2020-09-23 04:23:00,,,20,0,0,0,"Unassigned, Colorado, US",,
 8121,Washington,Colorado,US,2020-09-23 04:23:00,39.97015535,-103.202587,59,0,0,59,"Washington, Colorado, US",1202.118989,0.0
 8123,Weld,Colorado,US,2020-09-23 04:23:00,40.55499405,-104.3929621,4576,149,0,4427,"Weld, Colorado, US",1410.204258,3.256118881
 8125,Yuma,Colorado,US,2020-09-23 04:23:00,40.00346839,-102.4258673,91,0,0,91,"Yuma, Colorado, US",908.2742789,0.0

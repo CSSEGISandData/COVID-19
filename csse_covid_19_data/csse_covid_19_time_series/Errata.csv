@@ -553,3 +553,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/02/2020,time_series_covid19_deaths_global.csv,Colombia,11/01/2020,31796,31515,Update using official source
 11/02/2020,time_series_covid19_recovered_global.csv,Colombia,10/31/2020,968927,977371,Update using official source
 11/02/2020,time_series_covid19_recovered_global.csv,Colombia,11/01/2020,969230,977804,Update using official source
+11/03/2020,time_series_covid19_recovered_global.csv,Iceland,11/01/2020,4890,3948,Update to official source
+11/03/2020,time_series_covid19_recovered_global.csv,Iceland,11/02/2020,4931,4010,Update to official source
+11/03/2020,time_series_covid19_cases_global.csv,Colombia,11/02/2020,1004308,1093256,Update using official data
