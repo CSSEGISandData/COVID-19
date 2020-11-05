@@ -556,3 +556,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/03/2020,time_series_covid19_recovered_global.csv,Iceland,11/01/2020,4890,3948,Update to official source
 11/03/2020,time_series_covid19_recovered_global.csv,Iceland,11/02/2020,4931,4010,Update to official source
 11/03/2020,time_series_covid19_cases_global.csv,Colombia,11/02/2020,1004308,1093256,Update using official data
+11/04/2020,time_series_covid19_cases_global.csv,Germany,10/23/24/28 and 11/1,,,Adjust update time
+11/04/2020,time_series_covid19_deaths_global.csv,Germany,10/23/28 and 11/1,,,Adjust update time
