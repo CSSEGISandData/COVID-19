@@ -558,3 +558,17 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/03/2020,time_series_covid19_cases_global.csv,Colombia,11/02/2020,1004308,1093256,Update using official data
 11/04/2020,time_series_covid19_cases_global.csv,Germany,10/23/24/28 and 11/1,,,Adjust update time
 11/04/2020,time_series_covid19_deaths_global.csv,Germany,10/23/28 and 11/1,,,Adjust update time
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/24/20,5933,5934,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/25/20,5933,5941,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/26/20,5933,5951,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/27/20,5918,5959,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/28/20,5927,5963,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/29/20,5934,5966,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/30/20,5938,5972,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/31/20,5938,5977,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/01/20,5938,5980,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/02/20,5938,5987,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/03/20,5969,5989,Update to official data
+11/05/2020,time_series_covid19_confirmed_global.csv,France,11/02/2020,1419295,1471091,Scrapper source failed to update recreated using media reporting
+11/05/2020,time_series_covid19_confirmed_global.csv,France,11/03/2020,1419295,1507078,Scrapper source failed to update recreated using media reporting
+11/05/2020,time_series_covid19_deaths_global.csv,France,11/03/2020,37141,37564,Scrapper source failed to update recreated using media reporting
