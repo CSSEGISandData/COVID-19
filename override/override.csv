@@ -554,61 +554,61 @@ Whatcom,Washington,US,Whatcom,Washington,US,,,,,,,
 Whitman,Washington,US,Whitman,Washington,US,,,,,,,
 Yakima,Washington,US,Yakima,Washington,US,,,,,,,
 Unassigned,Washington,US,Unassigned,Washington,US,,,,,,,
-Barbour,West Virginia,US,Barbour,West Virginia,US,39.1307219,-80.00350858,,,,,54001
-Berkeley,West Virginia,US,Berkeley,West Virginia,US,39.46704621,-78.02414609,,,,,54003
-Boone,West Virginia,US,Boone,West Virginia,US,38.01974191,-81.69888019,,,,,54005
-Braxton,West Virginia,US,Braxton,West Virginia,US,38.70036159,-80.72011184,,,,,54007
-Brooke,West Virginia,US,Brooke,West Virginia,US,40.27367263,-80.57915332,,,,,54009
-Cabell,West Virginia,US,Cabell,West Virginia,US,38.42424062,-82.23855912,,,,,54011
-Calhoun,West Virginia,US,Calhoun,West Virginia,US,38.84315422,-81.11934872,,,,,54013
-Clay,West Virginia,US,Clay,West Virginia,US,38.46231092,-81.07652217,,,,,54015
-Doddridge,West Virginia,US,Doddridge,West Virginia,US,39.27057157,-80.70671527,,,,,54017
-Fayette,West Virginia,US,Fayette,West Virginia,US,38.02974928,-81.08286634,,,,,54019
-Gilmer,West Virginia,US,Gilmer,West Virginia,US,38.9251277,-80.85952723,,,,,54021
-Grant,West Virginia,US,Grant,West Virginia,US,39.10314817,-79.19440518,,,,,54023
-Greenbrier,West Virginia,US,Greenbrier,West Virginia,US,37.9463652,-80.45335881,,,,,54025
-Hampshire,West Virginia,US,Hampshire,West Virginia,US,39.32103553,-78.60826476,,,,,54027
-Hancock,West Virginia,US,Hancock,West Virginia,US,40.51943859,-80.57461608,,,,,54029
-Hardy,West Virginia,US,Hardy,West Virginia,US,39.00683177,-78.85855301,,,,,54031
-Harrison,West Virginia,US,Harrison,West Virginia,US,39.2853852,-80.37919577,,,,,54033
-Jackson,West Virginia,US,Jackson,West Virginia,US,38.84263974,-81.68148753,,,,,54035
-Jefferson,West Virginia,US,Jefferson,West Virginia,US,39.30776166,-77.86014147,,,,,54037
-Kanawha,West Virginia,US,Kanawha,West Virginia,US,38.33860077,-81.52857054,,,,,54039
-Lewis,West Virginia,US,Lewis,West Virginia,US,38.9947249,-80.49988181,,,,,54041
-Lincoln,West Virginia,US,Lincoln,West Virginia,US,38.172154,-82.07017953,,,,,54043
-Logan,West Virginia,US,Logan,West Virginia,US,37.8299889,-81.93528571,,,,,54045
-McDowell,West Virginia,US,McDowell,West Virginia,US,37.38002939,-81.65083669,,,,,54047
-Marion,West Virginia,US,Marion,West Virginia,US,39.50984542,-80.24244659,,,,,54049
-Marshall,West Virginia,US,Marshall,West Virginia,US,39.86064362,-80.66591062,,,,,54051
-Mason,West Virginia,US,Mason,West Virginia,US,38.77071799,-82.02524219,,,,,54053
-Mercer,West Virginia,US,Mercer,West Virginia,US,37.40481169,-81.11023142,,,,,54055
-Mineral,West Virginia,US,Mineral,West Virginia,US,39.41561583,-78.94104895,,,,,54057
-Mingo,West Virginia,US,Mingo,West Virginia,US,37.73048351,-82.13338365,,,,,54059
-Monongalia,West Virginia,US,Monongalia,West Virginia,US,39.63218457,-80.04766838,,,,,54061
-Monroe,West Virginia,US,Monroe,West Virginia,US,37.56274716,-80.54577965,,,,,54063
-Morgan,West Virginia,US,Morgan,West Virginia,US,39.55439028,-78.26311676,,,,,54065
-Nicholas,West Virginia,US,Nicholas,West Virginia,US,38.29617706,-80.79759588,,,,,54067
-Ohio,West Virginia,US,Ohio,West Virginia,US,40.0955451,-80.62203992,,,,,54069
-Pendleton,West Virginia,US,Pendleton,West Virginia,US,38.68314479,-79.35084086,,,,,54071
-Pleasants,West Virginia,US,Pleasants,West Virginia,US,39.37091679,-81.16771771,,,,,54073
-Pocahontas,West Virginia,US,Pocahontas,West Virginia,US,38.32758728,-80.00993811,,,,,54075
-Preston,West Virginia,US,Preston,West Virginia,US,39.46770987,-79.66712803,,,,,54077
-Putnam,West Virginia,US,Putnam,West Virginia,US,38.50782345,-81.9082131,,,,,54079
-Raleigh,West Virginia,US,Raleigh,West Virginia,US,37.76936795,-81.2456041,,,,,54081
-Randolph,West Virginia,US,Randolph,West Virginia,US,38.769899,-79.87919615,,,,,54083
-Ritchie,West Virginia,US,Ritchie,West Virginia,US,39.18094587,-81.06356878,,,,,54085
-Roane,West Virginia,US,Roane,West Virginia,US,38.71622686,-81.35243568,,,,,54087
-Summers,West Virginia,US,Summers,West Virginia,US,37.65390597,-80.86009693,,,,,54089
-Taylor,West Virginia,US,Taylor,West Virginia,US,39.33602617,-80.0421439,,,,,54091
-Tucker,West Virginia,US,Tucker,West Virginia,US,39.11240885,-79.57053576,,,,,54093
-Tyler,West Virginia,US,Tyler,West Virginia,US,39.46811972,-80.88772676,,,,,54095
-Upshur,West Virginia,US,Upshur,West Virginia,US,38.89285061,-80.23689136,,,,,54097
-Wayne,West Virginia,US,Wayne,West Virginia,US,38.14901357,-82.42287994,,,,,54099
-Webster,West Virginia,US,Webster,West Virginia,US,38.49370949,-80.4202023,,,,,54101
-Wetzel,West Virginia,US,Wetzel,West Virginia,US,39.6065771,-80.6401654,,,,,54103
-Wirt,West Virginia,US,Wirt,West Virginia,US,39.02775007,-81.37473928,,,,,54105
-Wood,West Virginia,US,Wood,West Virginia,US,39.20967886,-81.5162836,,,,,54107
-Wyoming,West Virginia,US,Wyoming,West Virginia,US,37.612327,-81.54511071,,,,,54109
+Barbour,West Virginia,US,Barbour,West Virginia,US,39.1307219,-80.00350858,223,2,,,54001
+Berkeley,West Virginia,US,Berkeley,West Virginia,US,39.46704621,-78.02414609,1948,19,,,54003
+Boone,West Virginia,US,Boone,West Virginia,US,38.01974191,-81.69888019,458,8,,,54005
+Braxton,West Virginia,US,Braxton,West Virginia,US,38.70036159,-80.72011184,89,0,,,54007
+Brooke,West Virginia,US,Brooke,West Virginia,US,40.27367263,-80.57915332,294,6,,,54009
+Cabell,West Virginia,US,Cabell,West Virginia,US,38.42424062,-82.23855912,1838,37,,,54011
+Calhoun,West Virginia,US,Calhoun,West Virginia,US,38.84315422,-81.11934872,38,0,,,54013
+Clay,West Virginia,US,Clay,West Virginia,US,38.46231092,-81.07652217,75,3,,,54015
+Doddridge,West Virginia,US,Doddridge,West Virginia,US,39.27057157,-80.70671527,78,1,,,54017
+Fayette,West Virginia,US,Fayette,West Virginia,US,38.02974928,-81.08286634,851,29,,,54019
+Gilmer,West Virginia,US,Gilmer,West Virginia,US,38.9251277,-80.85952723,118,0,,,54021
+Grant,West Virginia,US,Grant,West Virginia,US,39.10314817,-79.19440518,212,9,,,54023
+Greenbrier,West Virginia,US,Greenbrier,West Virginia,US,37.9463652,-80.45335881,258,5,,,54025
+Hampshire,West Virginia,US,Hampshire,West Virginia,US,39.32103553,-78.60826476,176,1,,,54027
+Hancock,West Virginia,US,Hancock,West Virginia,US,40.51943859,-80.57461608,284,1,,,54029
+Hardy,West Virginia,US,Hardy,West Virginia,US,39.00683177,-78.85855301,120,1,,,54031
+Harrison,West Virginia,US,Harrison,West Virginia,US,39.2853852,-80.37919577,763,14,,,54033
+Jackson,West Virginia,US,Jackson,West Virginia,US,38.84263974,-81.68148753,462,24,,,54035
+Jefferson,West Virginia,US,Jefferson,West Virginia,US,39.30776166,-77.86014147,761,11,,,54037
+Kanawha,West Virginia,US,Kanawha,West Virginia,US,38.33860077,-81.52857054,4194,116,,,54039
+Lewis,West Virginia,US,Lewis,West Virginia,US,38.9947249,-80.49988181,155,2,,,54041
+Lincoln,West Virginia,US,Lincoln,West Virginia,US,38.172154,-82.07017953,306,2,,,54043
+Logan,West Virginia,US,Logan,West Virginia,US,37.8299889,-81.93528571,843,47,,,54045
+McDowell,West Virginia,US,McDowell,West Virginia,US,37.38002939,-81.65083669,503,5,,,54047
+Marion,West Virginia,US,Marion,West Virginia,US,39.50984542,-80.24244659,596,5,,,54049
+Marshall,West Virginia,US,Marshall,West Virginia,US,39.86064362,-80.66591062,200,6,,,54051
+Mason,West Virginia,US,Mason,West Virginia,US,38.77071799,-82.02524219,176,0,,,54053
+Mercer,West Virginia,US,Mercer,West Virginia,US,37.40481169,-81.11023142,922,35,,,54055
+Mineral,West Virginia,US,Mineral,West Virginia,US,39.41561583,-78.94104895,365,4,,,54057
+Mingo,West Virginia,US,Mingo,West Virginia,US,37.73048351,-82.13338365,749,11,,,54059
+Monongalia,West Virginia,US,Monongalia,West Virginia,US,39.63218457,-80.04766838,2532,8,,,54061
+Monroe,West Virginia,US,Monroe,West Virginia,US,37.56274716,-80.54577965,282,8,,,54063
+Morgan,West Virginia,US,Morgan,West Virginia,US,39.55439028,-78.26311676,182,0,,,54065
+Nicholas,West Virginia,US,Nicholas,West Virginia,US,38.29617706,-80.79759588,219,3,,,54067
+Ohio,West Virginia,US,Ohio,West Virginia,US,40.0955451,-80.62203992,803,9,,,54069
+Pendleton,West Virginia,US,Pendleton,West Virginia,US,38.68314479,-79.35084086,80,1,,,54071
+Pleasants,West Virginia,US,Pleasants,West Virginia,US,39.37091679,-81.16771771,45,3,,,54073
+Pocahontas,West Virginia,US,Pocahontas,West Virginia,US,38.32758728,-80.00993811,77,0,,,54075
+Preston,West Virginia,US,Preston,West Virginia,US,39.46770987,-79.66712803,279,6,,,54077
+Putnam,West Virginia,US,Putnam,West Virginia,US,38.50782345,-81.9082131,1157,20,,,54079
+Raleigh,West Virginia,US,Raleigh,West Virginia,US,37.76936795,-81.2456041,993,13,,,54081
+Randolph,West Virginia,US,Randolph,West Virginia,US,38.769899,-79.87919615,487,2,,,54083
+Ritchie,West Virginia,US,Ritchie,West Virginia,US,39.18094587,-81.06356878,73,0,,,54085
+Roane,West Virginia,US,Roane,West Virginia,US,38.71622686,-81.35243568,120,2,,,54087
+Summers,West Virginia,US,Summers,West Virginia,US,37.65390597,-80.86009693,173,3,,,54089
+Taylor,West Virginia,US,Taylor,West Virginia,US,39.33602617,-80.0421439,184,8,,,54091
+Tucker,West Virginia,US,Tucker,West Virginia,US,39.11240885,-79.57053576,70,0,,,54093
+Tyler,West Virginia,US,Tyler,West Virginia,US,39.46811972,-80.88772676,84,0,,,54095
+Upshur,West Virginia,US,Upshur,West Virginia,US,38.89285061,-80.23689136,311,4,,,54097
+Wayne,West Virginia,US,Wayne,West Virginia,US,38.14901357,-82.42287994,688,12,,,54099
+Webster,West Virginia,US,Webster,West Virginia,US,38.49370949,-80.4202023,42,0,,,54101
+Wetzel,West Virginia,US,Wetzel,West Virginia,US,39.6065771,-80.6401654,274,9,,,54103
+Wirt,West Virginia,US,Wirt,West Virginia,US,39.02775007,-81.37473928,59,1,,,54105
+Wood,West Virginia,US,Wood,West Virginia,US,39.20967886,-81.5162836,1102,9,,,54107
+Wyoming,West Virginia,US,Wyoming,West Virginia,US,37.612327,-81.54511071,434,5,,,54109
 Unassigned,Louisiana,US,Unassigned,Louisiana,US,,,,229,,,
 Unassigned,Alabama,US,Unassigned,Alabama,US,,,,,,,90001
 Out of AL,Alabama,US,Out of AL,Alabama,US,,,,,,,80001
@@ -688,7 +688,7 @@ Waupaca,Wisconsin,US,Waupaca,Wisconsin,US,,,,,,,
 Waushara,Wisconsin,US,Waushara,Wisconsin,US,,,,,,,
 Winnebago,Wisconsin,US,Winnebago,Wisconsin,US,,,,,,,
 Wood,Wisconsin,US,Wood,Wisconsin,US,,,,,,,
-Webb,Texas,US,Webb,Texas,US,,,15809,361,,,
+Webb,Texas,US,Webb,Texas,US,,,16161,363,,,
 Unassigned,North Carolina,US,Unassigned,North Carolina,US,,,,,,,
 Allen,Kansas,US,Allen,Kansas,US,,,,,,,
 Anderson,Kansas,US,Anderson,Kansas,US,,,,,,,
