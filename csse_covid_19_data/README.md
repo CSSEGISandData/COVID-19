@@ -30,8 +30,8 @@ MM-DD-YYYY.csv in UTC.
 * <b>Deaths</b>: Counts include confirmed and probable (where reported).
 * <b>Recovered</b>: Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
 * <b>Active:</b> Active cases = total cases - total recovered - total deaths.
-* <b>Incidence_Rate</b>: Incidence Rate = cases per 100,000 persons.
-* <b>Case-Fatality Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
+* <b>Incident_Rate</b>: Incidence Rate = cases per 100,000 persons.
+* <b>Case_Fatality_Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
 * All cases, deaths, and recoveries reported are based on the date of initial report. Exceptions to this are noted in the "Data Modification" and "Retrospective reporting of (probable) cases and deaths" subsections below.  
 
 ### Update frequency
@@ -68,9 +68,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active cases = total cases - total recovered - total deaths).
 * <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
 * <b>Incident_Rate</b> - cases per 100,000 persons.
-* <b>People_Tested</b> - Total number of people who have been tested.
+* <b>Total_Test_Results</b> - Total number of people who have been tested.
 * <b>People_Hospitalized</b> - Total number of people hospitalized. (Nullified on Aug 31, see [Issue #3083](https://github.com/CSSEGISandData/COVID-19/issues/3083))
-* <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
+* <b>Case_Fatality_Ratio</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
 * <b>Testing_Rate</b> - Total test results per 100,000 persons. The "total test results" are equal to "Total test results (Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
@@ -147,6 +147,10 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * October 30: Franklin County, VA | Rewrite time series 8/22 to 10/28 with appropriate data | All time series files and us daily reports for 8/22 through 10/28 | Internal mapping error had lead to cases in Franklin City, VA replacing values for Franklin County, VA as well as the source for Franklin City going stale
 * October 31: Greece | Edit recoveries August 4 to present | time_series_covid19_recovered_global.csv | Update recovery data using government press releases | [Source](https://eody.gov.gr/category/deltia-typoy/)
 * Unassigned, Colorado | Addition of historical "international" entry to unassigned cateogry | time_series_covid19_confirmed_us.csv, time_series_covid19_confirmed_global.csv | Addition of missing cases from an international entry - cases moving forward will include these cases in unassigned | Data used from the csv file hosted [here](https://data-cdphe.opendata.arcgis.com/datasets/222c9d85e93540dba523939cfb718d76_0)
+* November 9: Puerto Rico, US | Revision of historical data in line with clarification from the Puerto Rican health department regarding suspected versus probable cases | time_series_covid19_cases_US.csv, time_series_covid19_cases_global.csv | Prior to November 7, Puerto Rico suspected cases were serology test results, which are incongruent with our working definition of probable cases. The breakdown is now indicated and we have used historical reporting to alter our previous reported totals. This change brings reporting for the territory in line with national reporting for the rest of the US. [Source](http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/COVID-19.aspx)
+* November 9: Georgia, US | Revision of data from November 3-8 in line with newly published antigen data, taken from coincident reporting with the state dashboard | All time series files and daily reports | [Source](https://dph.georgia.gov/covid-19-daily-status-report)
+* November 9: Kansas, US | Revision of data from September 20 to November 8 to deconflict differences in reporting between state and county sources. Max of source used as ground truth. | All time files and daily reports | [State source](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas), [County source](https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/)
+* November 9: Wisconsin, US | Revision of data beginning October 19th to include probable cases. | All time files and daily reports
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -189,7 +193,6 @@ Date: Location | Change | Reason/Other notes | Source
 * September 7: Ecuador | Inclusion of 3758 probable deaths | The first date where the probable cases are delineated is [September 8](https://twitter.com/Salud_Ec/status/1303463345056616450/photo/1)
 * September 15: Alabama | Distributino of probable cases to the county level (previously aggregated at the state level, in unassigned, AL). This resulted in significant increase in cases in nearly all counties. We are working to get the historical distribution of these probable cases from the State, and will update the timeseries accordingly when we do.
 * September 15: Arkansas | Addition of 139 probable deaths | [News source](https://katv.com/news/local/arkansas-gov-asa-hutchinson-to-give-covid-19-briefing-09-15-2020).
-
 * September 15-21: Virginia | Progressive inclusion of backlogged deaths into the state total throughout the week | [News source](https://www.wtkr.com/news/coronavirus/local-area-reports-zero-covid-19-deaths-from-sunday-virginia-continues-to-see-steady-decrease-in-test-percent-positivity)
 * September 21: Texas, US | Release of large swath of historical cases affecting 25 counties. Please see pinned issue #3143 for full statement from Texas dashboard.
 * September 25: North Carolina | Spike of 6000 cases due to inclusion of positive antigen tests as probable cases | **Back Distributed**
@@ -204,6 +207,7 @@ Date: Location | Change | Reason/Other notes | Source
 * October 23: Alabama, US | Inclusion of 2565 backlogged antigen positives in Mobile and 1182 backlogged antigen and PCR tests from around the state | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7) "The Alabama Department of Public Health processed a backlog of 2565 positive antigen results from a facility in Mobile on October 22. These will be classified as “probable” COVID-19 cases reported on 10/22/20 even though the tests were performed during June through October 18, 2020. The Alabama Department of Public Health processed a backlog of 1182 positive results from a variety of facilities all over Alabama. A majority of these will be classified as “probable” COVID-19 cases reported on 10/23/20 even though the tests were performed during April through September."
 * October 23: Los Angeles County, California, US | Estimated 2000 backlogged cases included in daily report | [Source](https://github.com/CSSEGISandData/COVID-19/issues/3267)
 * November 4: Spain | Inclusion of 5,105 cases and 1,326 deaths that occurred prior to May 11 | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_243_COVID-19.pdf)
+* November 3: Georgia | Inclusion of 29,937 antigen tests distributed over unknown period of days | We have contacted the state health department to obtain a back distribution [Media source](https://www.wrbl.com/news/georgia-news/update-georgia-reports-364589-confirmed-covid-19-cases-statewide-with-6440-in-columbus/) 
 
 
 ## Large-scale back distributions
