@@ -251,6 +251,7 @@ International
 * France: No update to deaths or recoveries for the weekend of August 8 and 9.
 * UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
 * Luxembourg: Not providing actionable data on weekends.
+* Mexico: Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
 
 
 ---
