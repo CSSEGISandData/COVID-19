@@ -2,6 +2,7 @@
 # read JHU covid-19 data
 #
 # 2020-04-17 lgreski 
+# 2020-11-10 updated for 2 corrections of column names after 5/29/2020
 
 # edit this line to reflect where data is stored on local machine 
 directory <- "./csse_covid_19_data/csse_covid_19_daily_reports/"
@@ -33,7 +34,7 @@ dataList <- lapply(1:length(theFiles),function(x){
     y$FIPS <- NA 
     y$Combined_Key <- NA 
     y$Case_Fatality_Ratio <- NA
-    y$Incidence_Rate <- NA 
+    y$Incident_Rate <- NA 
   } else if (fileDate < mdy("03/01/2020")){
     # cleaning specific to first wave of files
     y$Lat <- NA
@@ -43,19 +44,28 @@ dataList <- lapply(1:length(theFiles),function(x){
     y$FIPS <- NA 
     y$Combined_Key <- NA     
     y$Case_Fatality_Ratio <- NA
-    y$Incidence_Rate <- NA 
+    y$Incident_Rate <- NA 
   } else if(fileDate < mdy("03/22/2020")) {
        colnames(y) <- sub("Latitude","Lat",colnames(y))
+       colnames(y) <- sub("Longitude","Long_",colnames(y))
+       
+       colnames(y) <- sub("Last.Update","Last_Update",colnames(y))
+       colnames(y) <- sub("Province.State","Province_State",colnames(y))
        colnames(y) <- sub("Longitude","Long_",colnames(y))
        y$Active <- NA
        y$Admin2 <- NA 
        y$FIPS <- NA
        y$Combined_Key <- NA 
        y$Case_Fatality_Ratio <- NA
-       y$Incidence_Rate <- NA 
+       y$Incident_Rate <- NA 
   } else if(fileDate < mdy("05/29/2020")){
     y$Case_Fatality_Ratio <- NA
-    y$Incidence_Rate <- NA 
+    y$Incident_Rate <- NA 
+  }
+  else if (fileDate <= mdy("11/09/2020")){
+    colnames(y) <- sub("Case.Fatality_Ratio","Case_Fatality_Ratio",colnames(y))
+    colnames(y) <- sub("Incidence_Rate","Incident_Rate",colnames(y))
+    
   }
   # extract date from file name, assign to date column because
   # Last_Update field format varies day by day and a good programmer is 
@@ -64,7 +74,7 @@ dataList <- lapply(1:length(theFiles),function(x){
   y
   })
 
-# check number of columns, should be 13 for all files 
+# check number of columns, should be 15 for all files 
 table(unlist(lapply(1:length(theFiles),function(x) length(names(dataList[[x]])))))
 
 data <- do.call(rbind,dataList)
