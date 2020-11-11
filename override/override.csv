@@ -609,7 +609,7 @@ Wetzel,West Virginia,US,Wetzel,West Virginia,US,39.6065771,-80.6401654,274,9,,,5
 Wirt,West Virginia,US,Wirt,West Virginia,US,39.02775007,-81.37473928,59,1,,,54105
 Wood,West Virginia,US,Wood,West Virginia,US,39.20967886,-81.5162836,1102,9,,,54107
 Wyoming,West Virginia,US,Wyoming,West Virginia,US,37.612327,-81.54511071,434,5,,,54109
-Unassigned,Louisiana,US,Unassigned,Louisiana,US,,,,229,,,
+Unassigned,Louisiana,US,Unassigned,Louisiana,US,,,5325,229,,,
 Unassigned,Alabama,US,Unassigned,Alabama,US,,,,,,,90001
 Out of AL,Alabama,US,Out of AL,Alabama,US,,,,,,,80001
 ,,Greece,,,Greece,,,,,23074,,
@@ -1010,4 +1010,36 @@ Washtenaw,Michigan,US,Washtenaw,Michigan,US,,,,,,,
 Wayne,Michigan,US,Wayne,Michigan,US,,,,,,,
 Wexford,Michigan,US,Wexford,Michigan,US,,,,,,,
 Unassigned,Puerto Rico,US,Unassigned,Puerto Rico,US,,,,,,,
-St. Louis City,Missouri,US,St. Louis City,Missouri,US,,,9612,,,,
+St. Louis City,Missouri,US,St. Louis City,Missouri,US,,,9917,,,,
+"",Aguascalientes,Mexico,"",Aguascalientes,Mexico,"","",10866,902,"","",""
+"",Baja California,Mexico,"",Baja California,Mexico,"","",24022,4010,"","",""
+"",Baja California Sur,Mexico,"",Baja California Sur,Mexico,"","",13242,622,"","",""
+"",Campeche,Mexico,"",Campeche,Mexico,"","",6587,858,"","",""
+"",Chiapas,Mexico,"",Chiapas,Mexico,"","",7598,1170,"","",""
+"",Chihuahua,Mexico,"",Chihuahua,Mexico,"","",22421,2473,"","",""
+"",Ciudad de Mexico,Mexico,"",Ciudad de Mexico,Mexico,"","",172403,12070,"","",""
+"",Coahuila,Mexico,"",Coahuila,Mexico,"","",36643,2665,"","",""
+"",Colima,Mexico,"",Colima,Mexico,"","",6851,721,"","",""
+"",Durango,Mexico,"",Durango,Mexico,"","",16723,913,"","",""
+"",Guanajuato,Mexico,"",Guanajuato,Mexico,"","",52404,3569,"","",""
+"",Guerrero,Mexico,"",Guerrero,Mexico,"","",22719,2335,"","",""
+"",Hidalgo,Mexico,"",Hidalgo,Mexico,"","",16739,2426,"","",""
+"",Jalisco,Mexico,"",Jalisco,Mexico,"","",36648,4359,"","",""
+"",Mexico,Mexico,"",Mexico,Mexico,"","",101705,14404,"","",""
+"",Michoacan,Mexico,"",Michoacan,Mexico,"","",26236,2130,"","",""
+"",Morelos,Mexico,"",Morelos,Mexico,"","",7184,1238,"","",""
+"",Nayarit,Mexico,"",Nayarit,Mexico,"","",6873,884,"","",""
+"",Nuevo Leon,Mexico,"",Nuevo Leon,Mexico,"","",58213,4133,"","",""
+"",Oaxaca,Mexico,"",Oaxaca,Mexico,"","",22308,1774,"","",""
+"",Puebla,Mexico,"",Puebla,Mexico,"","",36848,4883,"","",""
+"",Queretaro,Mexico,"",Queretaro,Mexico,"","",16306,1228,"","",""
+"",Quintana Roo,Mexico,"",Quintana Roo,Mexico,"","",13763,1862,"","",""
+"",San Luis Potosi,Mexico,"",San Luis Potosi,Mexico,"","",30691,2202,"","",""
+"",Sinaloa,Mexico,"",Sinaloa,Mexico,"","",22648,3716,"","",""
+"",Sonora,Mexico,"",Sonora,Mexico,"","",39635,3211,"","",""
+"",Tabasco,Mexico,"",Tabasco,Mexico,"","",35207,3002,"","",""
+"",Tamaulipas,Mexico,"",Tamaulipas,Mexico,"","",33281,2767,"","",""
+"",Tlaxcala,Mexico,"",Tlaxcala,Mexico,"","",8702,1249,"","",""
+"",Veracruz,Mexico,"",Veracruz,Mexico,"","",38042,5114,"","",""
+"",Yucatan,Mexico,"",Yucatan,Mexico,"","",22246,1875,"","",""
+"",Zacatecas,Mexico,"",Zacatecas,Mexico,"","",12777,1077,"","",""
