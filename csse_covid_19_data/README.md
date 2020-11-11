@@ -30,8 +30,8 @@ MM-DD-YYYY.csv in UTC.
 * <b>Deaths</b>: Counts include confirmed and probable (where reported).
 * <b>Recovered</b>: Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
 * <b>Active:</b> Active cases = total cases - total recovered - total deaths.
-* <b>Incidence_Rate</b>: Incidence Rate = cases per 100,000 persons.
-* <b>Case-Fatality Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
+* <b>Incident_Rate</b>: Incidence Rate = cases per 100,000 persons.
+* <b>Case_Fatality_Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
 * All cases, deaths, and recoveries reported are based on the date of initial report. Exceptions to this are noted in the "Data Modification" and "Retrospective reporting of (probable) cases and deaths" subsections below.  
 
 ### Update frequency
@@ -68,9 +68,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active cases = total cases - total recovered - total deaths).
 * <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
 * <b>Incident_Rate</b> - cases per 100,000 persons.
-* <b>People_Tested</b> - Total number of people who have been tested.
+* <b>Total_Test_Results</b> - Total number of people who have been tested.
 * <b>People_Hospitalized</b> - Total number of people hospitalized. (Nullified on Aug 31, see [Issue #3083](https://github.com/CSSEGISandData/COVID-19/issues/3083))
-* <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
+* <b>Case_Fatality_Ratio</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
 * <b>Testing_Rate</b> - Total test results per 100,000 persons. The "total test results" are equal to "Total test results (Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
@@ -251,6 +251,7 @@ International
 * France: No update to deaths or recoveries for the weekend of August 8 and 9.
 * UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
 * Luxembourg: Not providing actionable data on weekends.
+* Mexico: Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
 
 
 ---
