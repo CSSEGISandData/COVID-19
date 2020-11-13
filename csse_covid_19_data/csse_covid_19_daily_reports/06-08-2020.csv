@@ -2714,6 +2714,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90004,Unassigned,Arizona,US,2020-06-09 03:33:03,,,0,2,0,-2,"Unassigned, Arizona, US",,
 90005,Unassigned,Arkansas,US,2020-06-09 03:33:03,,,300,0,0,300,"Unassigned, Arkansas, US",,0.0
 90006,Unassigned,California,US,2020-06-09 03:33:03,,,0,0,0,0,"Unassigned, California, US",,
+90008,Unassigned,Colorado,US,2020-06-09 03:33:03,,,14,0,0,0,"Unassigned, Colorado, US",,
 90009,Unassigned,Connecticut,US,2020-06-09 03:33:03,,,272,0,0,272,"Unassigned, Connecticut, US",,0.0
 90010,Unassigned,Delaware,US,2020-06-09 03:33:03,,,11,0,0,11,"Unassigned, Delaware, US",,0.0
 90012,Unassigned,Florida,US,2020-06-09 03:33:03,,,93,0,0,93,"Unassigned, Florida, US",,0.0
