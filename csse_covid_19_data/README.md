@@ -223,7 +223,8 @@ Date: Location | File | Change | Data source for change
 * August 2: New Jersey, US (June 25) | time_series_covid19_deaths_US.csv | Redistribution of probable deaths into Unassigned, New Jersey
 * August 6: Harris County, Texas (Texas July 27) | In line with alteration to reporting standards, time series for coronavirus deaths in Harris County has been updated from 3/7 to 8/5/2020 | Details can be found in the press release from the state [here](https://www.dshs.texas.gov/news/releases/2020/20200727.aspx).
 * September 22: Massachusetts (September 3) | Reconciliation of changes to probable cases | Detailed [here](https://github.com/CSSEGISandData/COVID-19/issues/3146)
-* October 1: North Carolina | Back distribution of probable cases | See [Issue #3183](https://github.com/CSSEGISandData/COVID-19/issues/3183#ref-commit-663bcf9)
+* October 1: North Carolina, US | Back distribution of probable cases | See [Issue #3183](https://github.com/CSSEGISandData/COVID-19/issues/3183#ref-commit-663bcf9)
+* November 9: Wisconsin, US | Back distribution of probable cases and deaths through October 19
 * November 13: Georgia, US | Probable deaths back distributed to November 3
 
 ## Irregular Update Schedules
