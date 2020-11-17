@@ -2201,7 +2201,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47181,Wayne,Tennessee,US,4/2/20 23:25,35.23868267,-87.78644456,2,0,0,0,"Wayne, Tennessee, US"
 51820,Waynesboro,Virginia,US,4/2/20 23:25,38.06451466,-78.90293905,2,0,0,0,"Waynesboro, Virginia, US"
 47183,Weakley,Tennessee,US,4/2/20 23:25,36.29896232,-88.71990865,1,0,0,0,"Weakley, Tennessee, US"
-48479,Webb,Texas,US,4/2/20 23:25,27.7610369,-99.33237355,63,4,0,0,"Webb, Texas, US"
+48479,Webb,Texas,US,4/2/20 23:25,27.7610369,-99.33237355,63,5,0,0,"Webb, Texas, US"
 ,Weber,Utah,US,4/2/20 23:25,41.27116049,-111.9145117,53,1,0,0,"Weber,Utah,US"
 13307,Webster,Georgia,US,4/2/20 23:25,32.04066113,-84.54742852,1,0,0,0,"Webster, Georgia, US"
 19187,Webster,Iowa,US,4/2/20 23:25,42.42853483,-94.17987389,1,0,0,0,"Webster, Iowa, US"
@@ -2320,7 +2320,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Diamond Princess,Canada,4/2/20 23:31,,,0,1,0,0,"Diamond Princess, Canada"
 88888,,Diamond Princess,US,4/2/20 23:25,,,49,0,0,0,"Diamond Princess, US"
 ,,Faroe Islands,Denmark,4/2/20 23:25,61.8926,-6.9118,177,0,81,96,"Faroe Islands, Denmark"
-,,French Guiana,France,4/2/20 23:25,4,-53,51,0,15,36,"French Guiana, France"
+,,French Guiana,France,4/2/20 23:25,4.0,-53.0,51,0,15,36,"French Guiana, France"
 ,,French Polynesia,France,4/2/20 23:25,-17.6797,-149.4068,37,0,0,37,"French Polynesia, France"
 ,,Fujian,China,4/2/20 1:38,26.0789,117.9874,345,1,299,45,"Fujian, China"
 ,,Gansu,China,4/1/20 14:00,37.8099,101.0583,138,2,127,9,"Gansu, China"
@@ -2387,7 +2387,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 78,,Virgin Islands,US,4/2/20 23:25,18.3358,-64.8963,30,0,0,0,",Virgin Islands,US"
 ,,Western Australia,Australia,4/2/20 23:32,-31.9505,115.8605,400,2,64,334,"Western Australia, Australia"
 ,,Xinjiang,China,3/8/20 5:31,41.1129,85.2401,76,3,73,0,"Xinjiang, China"
-,,Yukon,Canada,4/2/20 23:31,64.2823,-135,6,0,0,0,",Yukon,Canada"
+,,Yukon,Canada,4/2/20 23:31,64.2823,-135.0,6,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,4/1/20 23:43,24.974,101.487,183,2,172,9,"Yunnan, China"
 ,,Zhejiang,China,4/2/20 1:20,29.1832,120.0934,1258,1,1228,29,"Zhejiang, China"
 ,,,Afghanistan,4/2/20 23:25,33.93911,67.709953,273,6,10,257,Afghanistan
@@ -2548,7 +2548,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sweden,4/2/20 23:25,60.128161,18.643501,5568,308,103,5157,Sweden
 ,,,Switzerland,4/2/20 23:25,46.8182,8.2275,18827,536,4013,14278,Switzerland
 ,,,Syria,4/2/20 23:25,34.802075,38.996815,16,2,0,14,Syria
-,,,Taiwan*,4/2/20 11:09,23.7,121,339,5,45,289,Taiwan*
+,,,Taiwan*,4/2/20 11:09,23.7,121.0,339,5,45,289,Taiwan*
 ,,,Tanzania,4/2/20 23:25,-6.369028,34.888822,20,1,2,17,Tanzania
 ,,,Thailand,4/2/20 23:25,15.870032,100.992541,1875,15,505,1355,Thailand
 ,,,Timor-Leste,4/2/20 23:25,-8.874217,125.727539,1,0,0,1,Timor-Leste
