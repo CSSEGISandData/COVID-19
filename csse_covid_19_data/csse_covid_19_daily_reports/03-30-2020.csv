@@ -2176,9 +2176,9 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 5103,Ouachita,Arkansas,US,3/30/20 22:52,33.58839816,-92.87795984,0,0,0,0,"Ouachita, Arkansas, US"
 22073,Ouachita,Louisiana,US,3/30/20 22:52,32.47645559,-92.15704172,44,1,0,0,"Ouachita, Louisiana, US"
 8091,Ouray,Colorado,US,3/30/20 22:52,38.14717457,-107.7675136,0,0,0,0,"Ouray, Colorado, US"
-,Out of MI,Michigan,US,3/30/20 22:52,0,0,17,0,0,0,"Out of MI,Michigan,US"
-,Out of TN,Tennessee,US,3/30/20 22:52,0,0,150,0,0,0,"Out of TN,Tennessee,US"
-,Out of UT,Utah,US,3/30/20 22:52,0,0,19,0,0,0,"Out of UT,Utah,US"
+,Out of MI,Michigan,US,3/30/20 22:52,0.0,0.0,17,0,0,0,"Out of MI,Michigan,US"
+,Out of TN,Tennessee,US,3/30/20 22:52,0.0,0.0,150,0,0,0,"Out of TN,Tennessee,US"
+,Out of UT,Utah,US,3/30/20 22:52,0.0,0.0,19,0,0,0,"Out of UT,Utah,US"
 55087,Outagamie,Wisconsin,US,3/30/20 22:52,44.41578887,-88.46565023,9,0,0,0,"Outagamie, Wisconsin, US"
 47133,Overton,Tennessee,US,3/30/20 22:52,36.34117832,-85.28989535,2,0,0,0,"Overton, Tennessee, US"
 18119,Owen,Indiana,US,3/30/20 22:52,39.31145587,-86.83900724,10,0,0,0,"Owen, Indiana, US"
@@ -2854,36 +2854,36 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 49047,Uintah,Utah,US,3/30/20 22:52,40.12491499,-109.5174415,0,0,0,0,"Uintah, Utah, US"
 36111,Ulster,New York,US,3/30/20 22:52,41.89027881,-74.26252104,190,0,0,0,"Ulster, New York, US"
 41059,Umatilla,Oregon,US,3/30/20 22:52,45.59073056,-118.7353826,4,0,0,0,"Umatilla, Oregon, US"
-,Unassigned,Alaska,US,3/30/20 22:52,0,0,0,2,0,0,"Unassigned, Alaska, US"
-,Unassigned,Arizona,US,3/30/20 22:52,0,0,0,9,0,0,"Unassigned, Arizona, US"
-,Unassigned,Arkansas,US,3/30/20 22:52,0,0,49,2,0,0,"Unassigned, Arkansas, US"
-,Unassigned,California,US,3/30/20 22:52,0,0,0,0,0,0,"Unassigned, California, US"
-,Unassigned,Colorado,US,3/30/20 22:52,0,0,186,1,0,0,"Unassigned, Colorado, US"
-,Unassigned,Connecticut,US,3/30/20 22:52,0,0,176,0,0,0,"Unassigned, Connecticut, US"
-,Unassigned,Florida,US,3/30/20 22:52,0,0,1,4,0,0,"Unassigned, Florida, US"
-,Unassigned,Georgia,US,3/30/20 22:52,0,0,164,1,0,0,"Unassigned, Georgia, US"
-,Unassigned,Hawaii,US,3/30/20 22:52,0,0,8,0,0,0,"Unassigned, Hawaii, US"
-,Unassigned,Illinois,US,3/30/20 22:52,0,0,13,0,0,0,"Unassigned, Illinois, US"
-,Unassigned,Kentucky,US,3/30/20 22:52,0,0,53,2,0,0,"Unassigned, Kentucky, US"
-,Unassigned,Louisiana,US,3/30/20 22:52,0,0,14,0,0,0,"Unassigned, Louisiana, US"
-,Unassigned,Maine,US,3/30/20 22:52,0,0,5,0,0,0,"Unassigned, Maine, US"
-,Unassigned,Maryland,US,3/30/20 22:52,0,0,0,1,0,0,"Unassigned, Maryland, US"
-,Unassigned,Massachusetts,US,3/30/20 22:52,0,0,489,9,0,0,"Unassigned, Massachusetts, US"
-,Unassigned,Michigan,US,3/30/20 22:52,0,0,78,0,0,0,"Unassigned,Michigan,US"
-,Unassigned,Minnesota,US,3/30/20 22:52,0,0,0,1,0,0,"Unassigned, Minnesota, US"
-,Unassigned,Mississippi,US,3/30/20 22:52,0,0,89,2,0,0,"Unassigned, Mississippi, US"
-,Unassigned,Nebraska,US,3/30/20 22:52,0,0,2,0,0,0,"Unassigned, Nebraska, US"
-,Unassigned,Nevada,US,3/30/20 22:52,0,0,132,0,0,0,"Unassigned, Nevada, US"
-,Unassigned,New Hampshire,US,3/30/20 22:52,0,0,56,0,0,0,"Unassigned, New Hampshire, US"
-,Unassigned,New Jersey,US,3/30/20 22:52,0,0,3847,91,0,0,"Unassigned, New Jersey, US"
-,Unassigned,New York,US,3/30/20 22:52,0,0,0,298,0,0,"Unassigned, New York, US"
-,Unassigned,North Carolina,US,3/30/20 22:52,0,0,0,1,0,0,"Unassigned, North Carolina, US"
-,Unassigned,North Dakota,US,3/30/20 22:52,0,0,0,1,0,0,"Unassigned, North Dakota, US"
-,Unassigned,Rhode Island,US,3/30/20 22:52,0,0,171,4,0,0,"Unassigned, Rhode Island, US"
-,Unassigned,Tennessee,US,3/30/20 22:52,0,0,197,4,0,0,"Unassigned, Tennessee, US"
-,Unassigned,Vermont,US,3/30/20 22:52,0,0,28,7,0,0,"Unassigned, Vermont, US"
-,Unassigned,Washington,US,3/30/20 22:52,0,0,274,0,0,0,"Unassigned, Washington, US"
-,Unassigned,Wisconsin,US,3/30/20 22:52,0,0,0,0,0,0,"Unassigned, Wisconsin, US"
+,Unassigned,Alaska,US,3/30/20 22:52,0.0,0.0,0,2,0,0,"Unassigned, Alaska, US"
+,Unassigned,Arizona,US,3/30/20 22:52,0.0,0.0,0,9,0,0,"Unassigned, Arizona, US"
+,Unassigned,Arkansas,US,3/30/20 22:52,0.0,0.0,49,2,0,0,"Unassigned, Arkansas, US"
+,Unassigned,California,US,3/30/20 22:52,0.0,0.0,0,0,0,0,"Unassigned, California, US"
+,Unassigned,Colorado,US,3/30/20 22:52,0.0,0.0,186,1,0,0,"Unassigned, Colorado, US"
+,Unassigned,Connecticut,US,3/30/20 22:52,0.0,0.0,176,0,0,0,"Unassigned, Connecticut, US"
+,Unassigned,Florida,US,3/30/20 22:52,0.0,0.0,1,4,0,0,"Unassigned, Florida, US"
+,Unassigned,Georgia,US,3/30/20 22:52,0.0,0.0,164,1,0,0,"Unassigned, Georgia, US"
+,Unassigned,Hawaii,US,3/30/20 22:52,0.0,0.0,8,0,0,0,"Unassigned, Hawaii, US"
+,Unassigned,Illinois,US,3/30/20 22:52,0.0,0.0,13,0,0,0,"Unassigned, Illinois, US"
+,Unassigned,Kentucky,US,3/30/20 22:52,0.0,0.0,53,2,0,0,"Unassigned, Kentucky, US"
+,Unassigned,Louisiana,US,3/30/20 22:52,0.0,0.0,14,0,0,0,"Unassigned, Louisiana, US"
+,Unassigned,Maine,US,3/30/20 22:52,0.0,0.0,5,0,0,0,"Unassigned, Maine, US"
+,Unassigned,Maryland,US,3/30/20 22:52,0.0,0.0,0,1,0,0,"Unassigned, Maryland, US"
+,Unassigned,Massachusetts,US,3/30/20 22:52,0.0,0.0,489,9,0,0,"Unassigned, Massachusetts, US"
+,Unassigned,Michigan,US,3/30/20 22:52,0.0,0.0,78,0,0,0,"Unassigned,Michigan,US"
+,Unassigned,Minnesota,US,3/30/20 22:52,0.0,0.0,0,1,0,0,"Unassigned, Minnesota, US"
+,Unassigned,Mississippi,US,3/30/20 22:52,0.0,0.0,89,2,0,0,"Unassigned, Mississippi, US"
+,Unassigned,Nebraska,US,3/30/20 22:52,0.0,0.0,2,0,0,0,"Unassigned, Nebraska, US"
+,Unassigned,Nevada,US,3/30/20 22:52,0.0,0.0,132,0,0,0,"Unassigned, Nevada, US"
+,Unassigned,New Hampshire,US,3/30/20 22:52,0.0,0.0,56,0,0,0,"Unassigned, New Hampshire, US"
+,Unassigned,New Jersey,US,3/30/20 22:52,0.0,0.0,3847,91,0,0,"Unassigned, New Jersey, US"
+,Unassigned,New York,US,3/30/20 22:52,0.0,0.0,0,298,0,0,"Unassigned, New York, US"
+,Unassigned,North Carolina,US,3/30/20 22:52,0.0,0.0,0,1,0,0,"Unassigned, North Carolina, US"
+,Unassigned,North Dakota,US,3/30/20 22:52,0.0,0.0,0,1,0,0,"Unassigned, North Dakota, US"
+,Unassigned,Rhode Island,US,3/30/20 22:52,0.0,0.0,171,4,0,0,"Unassigned, Rhode Island, US"
+,Unassigned,Tennessee,US,3/30/20 22:52,0.0,0.0,197,4,0,0,"Unassigned, Tennessee, US"
+,Unassigned,Vermont,US,3/30/20 22:52,0.0,0.0,28,7,0,0,"Unassigned, Vermont, US"
+,Unassigned,Washington,US,3/30/20 22:52,0.0,0.0,274,0,0,0,"Unassigned, Washington, US"
+,Unassigned,Wisconsin,US,3/30/20 22:52,0.0,0.0,0,0,0,0,"Unassigned, Wisconsin, US"
 47171,Unicoi,Tennessee,US,3/30/20 22:52,36.10890856,-82.43709629,1,0,0,0,"Unicoi, Tennessee, US"
 5139,Union,Arkansas,US,3/30/20 22:52,33.16887091,-92.59746952,7,0,0,0,"Union, Arkansas, US"
 12125,Union,Florida,US,3/30/20 22:52,30.04412971,-82.37497443,0,0,0,0,"Union, Florida, US"
@@ -3041,7 +3041,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 54099,Wayne,West Virginia,US,3/30/20 22:52,38.14901357,-82.42287994,0,0,0,0,"Wayne, West Virginia, US"
 51820,Waynesboro,Virginia,US,3/30/20 22:52,38.06451466,-78.90293905,0,0,0,0,"Waynesboro, Virginia, US"
 47183,Weakley,Tennessee,US,3/30/20 22:52,36.29896232,-88.71990865,1,0,0,0,"Weakley, Tennessee, US"
-48479,Webb,Texas,US,3/30/20 22:52,27.7610369,-99.33237355,35,1,0,0,"Webb, Texas, US"
+48479,Webb,Texas,US,3/30/20 22:52,27.7610369,-99.33237355,35,2,0,0,"Webb, Texas, US"
 49057,Weber,Utah,US,3/30/20 22:52,41.27116049,-111.9145117,39,0,0,0,"Weber,Utah,US"
 13307,Webster,Georgia,US,3/30/20 22:52,32.04066113,-84.54742852,0,0,0,0,"Webster, Georgia, US"
 19187,Webster,Iowa,US,3/30/20 22:52,42.42853483,-94.17987389,1,0,0,0,"Webster, Iowa, US"
@@ -3191,16 +3191,16 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Channel Islands,United Kingdom,3/30/20 22:52,49.3723,-2.3644,141,2,0,139,"Channel Islands, United Kingdom"
 ,,Chongqing,China,3/29/20 0:14,30.0572,107.874,579,6,570,3,"Chongqing, China"
 ,,Curacao,Netherlands,3/30/20 22:52,12.1696,-68.99,11,1,2,8,"Curacao, Netherlands"
-,,Diamond Princess,Canada,3/30/20 22:58,0,0,0,1,0,0,"Diamond Princess, Canada"
-88888,,Diamond Princess,US,3/30/20 22:52,0,0,49,0,0,0,"Diamond Princess, US"
+,,Diamond Princess,Canada,3/30/20 22:58,0.0,0.0,0,1,0,0,"Diamond Princess, Canada"
+88888,,Diamond Princess,US,3/30/20 22:52,0.0,0.0,49,0,0,0,"Diamond Princess, US"
 ,,Faroe Islands,Denmark,3/30/20 22:52,61.8926,-6.9118,168,0,70,98,"Faroe Islands, Denmark"
-,,French Guiana,France,3/30/20 22:52,4,-53,43,0,6,37,"French Guiana, France"
+,,French Guiana,France,3/30/20 22:52,4.0,-53.0,43,0,6,37,"French Guiana, France"
 ,,French Polynesia,France,3/30/20 22:52,-17.6797,149.4068,36,0,0,36,"French Polynesia, France"
 ,,Fujian,China,3/30/20 0:32,26.0789,117.9874,340,1,295,44,"Fujian, China"
 ,,Gansu,China,3/29/20 14:25,37.8099,101.0583,138,2,125,11,"Gansu, China"
 ,,Gibraltar,United Kingdom,3/30/20 22:52,36.1408,-5.3536,69,0,34,35,"Gibraltar, United Kingdom"
-,,Grand Princess,Canada,3/30/20 22:58,0,0,13,0,0,0,"Grand Princess, Canada"
-99999,,Grand Princess,US,3/30/20 22:52,0,0,103,3,0,0,"Grand Princess, US"
+,,Grand Princess,Canada,3/30/20 22:58,0.0,0.0,13,0,0,0,"Grand Princess, Canada"
+99999,,Grand Princess,US,3/30/20 22:52,0.0,0.0,103,3,0,0,"Grand Princess, US"
 ,,Greenland,Denmark,3/30/20 22:52,71.7069,-42.6043,10,0,2,8,"Greenland, Denmark"
 ,,Guadeloupe,France,3/30/20 22:52,16.265,-61.551,106,4,17,85,"Guadeloupe, France"
 66000,,Guam,US,3/30/20 22:52,13.4443,144.7937,58,1,0,0,"Guam, US"
@@ -3240,8 +3240,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Qinghai,China,2/23/20 11:19,35.7452,95.9956,18,0,18,0,"Qinghai, China"
 ,,Quebec,Canada,3/30/20 22:58,52.9399,-73.5491,3430,22,0,0,"Quebec, Canada"
 ,,Queensland,Australia,3/30/20 22:58,-27.4698,153.0251,689,2,8,679,"Queensland, Australia"
-,,Recovered,Canada,3/30/20 22:58,0,0,0,0,466,0,"Recovered, Canada"
-,,Recovered,US,3/30/20 22:52,0,0,0,0,5644,0,"Recovered, US"
+,,Recovered,Canada,3/30/20 22:58,0.0,0.0,0,0,466,0,"Recovered, Canada"
+,,Recovered,US,3/30/20 22:52,0.0,0.0,0,0,5644,0,"Recovered, US"
 ,,Reunion,France,3/30/20 22:52,-21.1151,55.5364,224,0,1,223,"Reunion, France"
 ,,Saint Barthelemy,France,3/30/20 22:52,17.9,-62.8333,6,0,1,5,"Saint Barthelemy, France"
 ,,Saskatchewan,Canada,3/30/20 22:58,52.9399,-106.4509,156,2,0,0,"Saskatchewan, Canada"
@@ -3261,7 +3261,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 78000,,Virgin Islands,US,3/30/20 22:52,18.3358,-64.8963,30,0,0,0,"Virgin Islands, US"
 ,,Western Australia,Australia,3/30/20 22:58,-31.9505,115.8605,355,2,41,312,"Western Australia, Australia"
 ,,Xinjiang,China,3/8/20 5:31,41.1129,85.2401,76,3,73,0,"Xinjiang, China"
-,,Yukon,Canada,3/30/20 22:58,64.2823,-135,4,0,0,0,",Yukon,Canada"
+,,Yukon,Canada,3/30/20 22:58,64.2823,-135.0,4,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,3/26/20 23:16,24.974,101.487,180,2,172,6,"Yunnan, China"
 ,,Zhejiang,China,3/30/20 1:32,29.1832,120.0934,1255,1,1225,29,"Zhejiang, China"
 ,,,Afghanistan,3/30/20 22:52,33.93911,67.709953,170,4,2,164,Afghanistan
@@ -3307,7 +3307,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Cyprus,3/30/20 22:52,35.1264,33.4299,230,7,22,201,Cyprus
 ,,,Czechia,3/30/20 22:52,49.8175,15.473,3001,23,25,2953,Czechia
 ,,,Denmark,3/30/20 22:52,56.2639,9.5018,2577,77,1,2499,Denmark
-,,,Diamond Princess,3/30/20 22:52,0,0,712,10,603,99,Diamond Princess
+,,,Diamond Princess,3/30/20 22:52,0.0,0.0,712,10,603,99,Diamond Princess
 ,,,Djibouti,3/30/20 22:52,11.8251,42.5903,18,0,0,18,Djibouti
 ,,,Dominica,3/30/20 22:52,15.415,-61.371,11,0,0,11,Dominica
 ,,,Dominican Republic,3/30/20 22:52,18.7357,-70.1627,901,42,4,855,Dominican Republic
@@ -3362,7 +3362,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liechtenstein,3/30/20 22:52,47.14,9.55,62,0,0,62,Liechtenstein
 ,,,Lithuania,3/30/20 22:52,55.1694,23.8813,491,7,7,477,Lithuania
 ,,,Luxembourg,3/30/20 22:52,49.8153,6.1296,1988,22,40,1926,Luxembourg
-,,,MS Zaandam,3/30/20 22:52,0,0,2,0,0,2,",,MS Zaandam"
+,,,MS Zaandam,3/30/20 22:52,0.0,0.0,2,0,0,2,",,MS Zaandam"
 ,,,Madagascar,3/30/20 22:52,-18.766947,46.869107,43,0,0,43,Madagascar
 ,,,Malaysia,3/30/20 22:52,4.210484,101.975766,2626,37,479,2110,Malaysia
 ,,,Maldives,3/30/20 22:52,3.2028,73.2207,17,0,13,4,Maldives
@@ -3419,7 +3419,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sweden,3/30/20 22:52,60.128161,18.643501,4028,146,16,3866,Sweden
 ,,,Switzerland,3/30/20 22:52,46.8182,8.2275,15922,359,1823,13740,Switzerland
 ,,,Syria,3/30/20 22:52,34.802075,38.996815,10,2,0,8,Syria
-,,,Taiwan*,3/30/20 7:11,23.7,121,306,5,39,262,Taiwan*
+,,,Taiwan*,3/30/20 7:11,23.7,121.0,306,5,39,262,Taiwan*
 ,,,Tanzania,3/30/20 22:52,-6.369028,34.888822,19,0,1,18,Tanzania
 ,,,Thailand,3/30/20 22:52,15.870032,100.992541,1524,9,229,1286,Thailand
 ,,,Timor-Leste,3/30/20 22:52,-8.874217,125.727539,1,0,0,1,Timor-Leste
