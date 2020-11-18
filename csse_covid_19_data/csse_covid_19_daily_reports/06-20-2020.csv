@@ -2741,7 +2741,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 56041,Uinta,Wyoming,US,2020-06-21 04:33:19,41.2878183,-110.54757820000002,130,0,0,130,"Uinta, Wyoming, US",642.7370710966084,0.0
 36111,Ulster,New York,US,2020-06-21 04:33:19,41.89027881,-74.26252104,1750,85,0,1665,"Ulster, New York, US",985.5101845438214,4.857142857142857
 41059,Umatilla,Oregon,US,2020-06-21 04:33:19,45.59073056,-118.7353826,230,4,0,226,"Umatilla, Oregon, US",295.060936497755,1.7391304347826086
-90001,Unassigned,Alabama,US,2020-06-21 04:33:19,,,423,10,0,413,"Unassigned, Alabama, US",,2.3640661938534278
+90001,Unassigned,Alabama,US,2020-06-21 04:33:19,,,0,10,0,413,"Unassigned, Alabama, US",,2.3640661938534278
 90002,Unassigned,Alaska,US,2020-06-21 04:33:19,,,0,0,0,0,"Unassigned, Alaska, US",,
 90004,Unassigned,Arizona,US,2020-06-21 04:33:19,,,0,1,0,-1,"Unassigned, Arizona, US",,
 90005,Unassigned,Arkansas,US,2020-06-21 04:33:19,,,560,0,0,560,"Unassigned, Arkansas, US",,0.0
