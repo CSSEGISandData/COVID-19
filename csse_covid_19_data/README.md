@@ -152,6 +152,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * November 9: Kansas, US | Revision of data from September 20 to November 8 to deconflict differences in reporting between state and county sources. Max of source used as ground truth. | All time files and daily reports | [State source](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas), [County source](https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/)
 * November 9: Wisconsin, US | Revision of data beginning October 19th to include probable cases *and deaths*. | All time files and daily reports
 * November 18: Alabama, US | In collaboration with the Alabama Department of Health, we have received a file with a proper back distribution of all cumulative and probable cases at the county level from January 22 to November 10. These cases are being used to back-distribute the September 15 case spike and are also overwriting all data in the time series and daily reports for consistencies sake | time_series_covid19_confirmed_us.csv, time_series_covid19_global_us.csv, all daily reports
+* November 18: Guyana | Revision of confirmed cases data on November 16 from 4894 to 4874 due to a type on the national dashboard | time_series_covid19_confirmed_global.csv, 11-16-2020.csv | [Ministry source](https://www.facebook.com/mohguyana/posts/2485156248454573)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -227,7 +228,7 @@ Date: Location | File | Change | Data source for change
 * October 1: North Carolina, US | Back distribution of probable cases | See [Issue #3183](https://github.com/CSSEGISandData/COVID-19/issues/3183#ref-commit-663bcf9)
 * November 9: Wisconsin, US | Back distribution of probable cases and deaths through October 19
 * November 13: Georgia, US | Probable deaths back distributed to November 3
-* November 18: ALabama, US | Back distribution of probable case spike on September 15
+* November 18: Alabama, US | Back distribution of probable case spike on September 15
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
