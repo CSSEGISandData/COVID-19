@@ -209,8 +209,7 @@ Date: Location | Change | Reason/Other notes | Source
 * October 23: Alabama, US | Inclusion of 2565 backlogged antigen positives in Mobile and 1182 backlogged antigen and PCR tests from around the state | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7) "The Alabama Department of Public Health processed a backlog of 2565 positive antigen results from a facility in Mobile on October 22. These will be classified as “probable” COVID-19 cases reported on 10/22/20 even though the tests were performed during June through October 18, 2020. The Alabama Department of Public Health processed a backlog of 1182 positive results from a variety of facilities all over Alabama. A majority of these will be classified as “probable” COVID-19 cases reported on 10/23/20 even though the tests were performed during April through September."
 * October 23: Los Angeles County, California, US | Estimated 2000 backlogged cases included in daily report | [Source](https://github.com/CSSEGISandData/COVID-19/issues/3267)
 * November 4: Spain | Inclusion of 5,105 cases and 1,326 deaths that occurred prior to May 11 | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_243_COVID-19.pdf)
-* November 3: Georgia | Inclusion of 29,937 antigen tests distributed over unknown period of days. This includes 450 probable deaths. | We have contacted the state health department to obtain a back distribution [Media source](https://www.wrbl.com/news/georgia-news/update-georgia-reports-364589-confirmed-covid-19-cases-statewide-with-6440-in-columbus/) 
-
+* November 3: Georgia | Inclusion of 29,937 antigen tests distributed over unknown period of days. This includes 450 probable deaths. | We have contacted the state health department to obtain a back distribution [Media source](https://www.wrbl.com/news/georgia-news/update-georgia-reports-364589-confirmed-covid-19-cases-statewide-with-6440-in-columbus/)  
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -229,6 +228,7 @@ Date: Location | File | Change | Data source for change
 * November 9: Wisconsin, US | Back distribution of probable cases and deaths through October 19
 * November 13: Georgia, US | Probable deaths back distributed to November 3
 * November 18: Alabama, US | Back distribution of probable case spike on September 15
+* November 22: Texas,US | Introduction of probable cases for Brazos, Denton, and Dallas counties | Data was back distributed based on historical reporting from local government sources
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
