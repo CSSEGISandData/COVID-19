@@ -211,8 +211,8 @@ Date: Location | Change | Reason/Other notes | Source
 * October 23: Los Angeles County, California, US | Estimated 2000 backlogged cases included in daily report | [Source](https://github.com/CSSEGISandData/COVID-19/issues/3267)
 * November 4: Spain | Inclusion of 5,105 cases and 1,326 deaths that occurred prior to May 11 | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_243_COVID-19.pdf)
 * November 3: Georgia, US | Inclusion of 29,937 antigen tests distributed over unknown period of days. This includes 450 probable deaths. | We have contacted the state health department to obtain a back distribution [Media source](https://www.wrbl.com/news/georgia-news/update-georgia-reports-364589-confirmed-covid-19-cases-statewide-with-6440-in-columbus/)  
-* November 10: Louisiana, US | Inclusion of probable cases from August 26 through November 9 and ongoing inclusion of probable cases
-* November 16: Louisiana, US | Disbursement of probable cases from Unassigned, Louisiana to the county level
+* November 10: Louisiana, US | Inclusion of probable cases from August 26 through November 9 and ongoing inclusion of probable cases. Probables are aggregated in the Unassigned, Louisiana entry
+* November 16: Louisiana, US | Disbursement of probable cases from Unassigned, Louisiana to the county level. Probables will be at the county level moving forward.
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -229,6 +229,7 @@ Date: Location | File | Change | Data source for change
 * September 22: Massachusetts (September 3) | Reconciliation of changes to probable cases | Detailed [here](https://github.com/CSSEGISandData/COVID-19/issues/3146)
 * October 1: North Carolina, US | Back distribution of probable cases | See [Issue #3183](https://github.com/CSSEGISandData/COVID-19/issues/3183#ref-commit-663bcf9)
 * November 9: Wisconsin, US | Back distribution of probable cases and deaths through October 19
+* November 10: Louisiana, US | Back distribution of probable cases from August 26 to November 9
 * November 13: Georgia, US | Probable deaths back distributed to November 3
 * November 18: Alabama, US | Back distribution of probable case spike on September 15
 * November 22: Texas,US | Introduction of probable cases for Brazos, Denton, and Dallas counties | Data was back distributed based on historical reporting from local government sources
