@@ -2849,7 +2849,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18159,Tipton,Indiana,US,2020-08-11 04:35:08,40.31123252,-86.05234925,143,11,0,132,"Tipton, Indiana, US",944.0190124108792,7.6923076923076925
 47167,Tipton,Tennessee,US,2020-08-11 04:35:08,35.501942,-89.73694895,1211,10,0,1201,"Tipton, Tennessee, US",1965.9410055358042,0.8257638315441783
 28141,Tishomingo,Mississippi,US,2020-08-11 04:35:08,34.74023475,-88.23917219,421,6,0,415,"Tishomingo, Mississippi, US",2172.00639735851,1.4251781472684086
-48449,Titus,Texas,US,2020-08-11 04:35:08,33.21339719,-94.96797273,1289,15,0,1274,"Titus, Texas, US",3935.8778625954205,1.1636927851047323
+48449,Titus,Texas,US,2020-08-11 04:35:08,33.21339719,-94.96797273,1212,15,0,1274,"Titus, Texas, US",3935.8778625954205,1.1636927851047323
 72135,Toa Alta,Puerto Rico,US,2020-08-11 04:35:08,18.362406,-66.246616,595,0,0,595,"Toa Alta, Puerto Rico, US",803.3375637944536,0.0
 72137,Toa Baja,Puerto Rico,US,2020-08-11 04:35:08,18.431445999999998,-66.213553,543,0,0,543,"Toa Baja, Puerto Rico, US",605.9659186019261,0.0
 21219,Todd,Kentucky,US,2020-08-11 04:35:08,36.8381152,-87.17878374,35,0,0,35,"Todd, Kentucky, US",284.691719537986,0.0
@@ -2915,7 +2915,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90017,Unassigned,Illinois,US,2020-08-11 04:35:08,,,1358,209,0,1149,"Unassigned, Illinois, US",,15.390279823269514
 90018,Unassigned,Indiana,US,2020-08-11 04:35:08,,,0,206,0,-206,"Unassigned, Indiana, US",,
 90019,Unassigned,Iowa,US,2020-08-11 04:35:08,,,3,0,0,3,"Unassigned, Iowa, US",,0.0
-90020,Unassigned,Kansas,US,2020-08-11 04:35:08,,,0,1,0,,"Unassigned, Kansas, US",,
+90020,Unassigned,Kansas,US,2020-08-11 04:35:08,,,0,2,0,,"Unassigned, Kansas, US",,
 90021,Unassigned,Kentucky,US,2020-08-11 04:35:08,,,0,0,0,0,"Unassigned, Kentucky, US",,
 90022,Unassigned,Louisiana,US,2020-08-11 04:35:08,,,254,118,0,136,"Unassigned, Louisiana, US",,46.45669291338583
 90024,Unassigned,Maryland,US,2020-08-11 04:35:08,,,0,18,0,-18,"Unassigned, Maryland, US",,

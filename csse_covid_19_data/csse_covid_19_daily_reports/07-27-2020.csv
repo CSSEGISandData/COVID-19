@@ -2838,7 +2838,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18159,Tipton,Indiana,US,2020-07-28 04:58:43,40.31123252,-86.05234925,82,2,0,80,"Tipton, Indiana, US",541.3255875363084,2.4390243902439024
 47167,Tipton,Tennessee,US,2020-07-28 04:58:43,35.501942,-89.73694895,966,8,0,958,"Tipton, Tennessee, US",1568.2072760921444,0.8281573498964804
 28141,Tishomingo,Mississippi,US,2020-07-28 04:58:43,34.74023475,-88.23917219,230,3,0,227,"Tishomingo, Mississippi, US",1186.6068204096373,1.3043478260869565
-48449,Titus,Texas,US,2020-07-28 04:58:43,33.21339719,-94.96797273,1224,10,0,1214,"Titus, Texas, US",3737.404580152672,0.8169934640522876
+48449,Titus,Texas,US,2020-07-28 04:58:43,33.21339719,-94.96797273,1080,10,0,1214,"Titus, Texas, US",3737.404580152672,0.8169934640522876
 72135,Toa Alta,Puerto Rico,US,2020-07-28 04:58:43,18.362406,-66.246616,363,0,0,363,"Toa Alta, Puerto Rico, US",490.10342127291875,0.0
 72137,Toa Baja,Puerto Rico,US,2020-07-28 04:58:43,18.431445999999998,-66.213553,344,0,0,344,"Toa Baja, Puerto Rico, US",383.89001104799735,0.0
 21219,Todd,Kentucky,US,2020-07-28 04:58:43,36.8381152,-87.17878374,31,0,0,31,"Todd, Kentucky, US",252.155523019359,0.0
@@ -2904,7 +2904,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90017,Unassigned,Illinois,US,2020-07-28 04:58:43,,,1312,192,0,1120,"Unassigned, Illinois, US",,14.634146341463415
 90018,Unassigned,Indiana,US,2020-07-28 04:58:43,,,0,197,0,-197,"Unassigned, Indiana, US",,
 90019,Unassigned,Iowa,US,2020-07-28 04:58:43,,,2,0,0,2,"Unassigned, Iowa, US",,0.0
-90020,Unassigned,Kansas,US,2020-07-28 04:58:43,,,0,1,0,,"Unassigned, Kansas, US",,
+90020,Unassigned,Kansas,US,2020-07-28 04:58:43,,,0,3,0,,"Unassigned, Kansas, US",,
 90021,Unassigned,Kentucky,US,2020-07-28 04:58:43,,,3,0,0,3,"Unassigned, Kentucky, US",,0.0
 90022,Unassigned,Louisiana,US,2020-07-28 04:58:43,,,10,112,0,-102,"Unassigned, Louisiana, US",,1120.0
 90023,Unassigned,Maine,US,2020-07-28 04:58:43,,,1,0,0,1,"Unassigned, Maine, US",,0.0

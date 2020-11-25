@@ -2714,7 +2714,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18159,Tipton,Indiana,US,2020-06-25 05:26:54,40.31123252,-86.05234925,28,1,0,27,"Tipton, Indiana, US",184.84288354898342,3.5714285714285716
 47167,Tipton,Tennessee,US,2020-06-25 05:26:54,35.501942,-89.73694895,571,4,0,567,"Tipton, Tennessee, US",926.9631000503256,0.7005253940455342
 28141,Tishomingo,Mississippi,US,2020-06-25 05:26:54,34.74023475,-88.23917219,55,1,0,54,"Tishomingo, Mississippi, US",283.75380488056544,1.8181818181818181
-48449,Titus,Texas,US,2020-06-25 05:26:54,33.21339719,-94.96797273,752,5,0,747,"Titus, Texas, US",2296.1832061068703,0.6648936170212766
+48449,Titus,Texas,US,2020-06-25 05:26:54,33.21339719,-94.96797273,665,5,0,747,"Titus, Texas, US",2296.1832061068703,0.6648936170212766
 21219,Todd,Kentucky,US,2020-06-25 05:26:54,36.8381152,-87.17878374,24,0,0,24,"Todd, Kentucky, US",195.21717911176185,0.0
 27153,Todd,Minnesota,US,2020-06-25 05:26:54,46.06996226,-94.89785296,394,2,0,392,"Todd, Minnesota, US",1597.4699967564059,0.5076142131979695
 46121,Todd,South Dakota,US,2020-06-25 05:26:54,43.19338568,-100.7195503,51,1,0,50,"Todd, South Dakota, US",501.1299990173922,1.9607843137254901
@@ -2776,7 +2776,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90017,Unassigned,Illinois,US,2020-06-25 05:26:54,,,45,0,0,45,"Unassigned, Illinois, US",,0.0
 90018,Unassigned,Indiana,US,2020-06-25 05:26:54,,,0,192,0,-192,"Unassigned, Indiana, US",,
 90019,Unassigned,Iowa,US,2020-06-25 05:26:54,,,5,0,0,5,"Unassigned, Iowa, US",,0.0
-90020,Unassigned,Kansas,US,2020-06-25 05:26:54,,,0,1,0,-1,"Unassigned, Kansas, US",,
+90020,Unassigned,Kansas,US,2020-06-25 05:26:54,,,0,2,0,-1,"Unassigned, Kansas, US",,
 90021,Unassigned,Kentucky,US,2020-06-25 05:26:54,,,14,0,0,14,"Unassigned, Kentucky, US",,0.0
 90022,Unassigned,Louisiana,US,2020-06-25 05:26:54,,,8,113,0,-105,"Unassigned, Louisiana, US",,1412.5
 90023,Unassigned,Maine,US,2020-06-25 05:26:54,,,2,0,0,2,"Unassigned, Maine, US",,0.0

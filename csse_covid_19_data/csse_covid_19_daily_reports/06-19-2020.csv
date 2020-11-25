@@ -2691,7 +2691,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18159,Tipton,Indiana,US,2020-06-20 04:33:19,40.31123252,-86.05234925,28,1,0,27,"Tipton, Indiana, US",184.84288354898337,3.5714285714285716
 47167,Tipton,Tennessee,US,2020-06-20 04:33:19,35.501942,-89.73694895,551,4,0,547,"Tipton, Tennessee, US",894.4950405039043,0.7259528130671506
 28141,Tishomingo,Mississippi,US,2020-06-20 04:33:19,34.74023475,-88.23917219,47,1,0,46,"Tishomingo, Mississippi, US",242.480524170665,2.127659574468085
-48449,Titus,Texas,US,2020-06-20 04:33:19,33.21339719,-94.96797273,729,5,0,724,"Titus, Texas, US",2225.9541984732823,0.6858710562414266
+48449,Titus,Texas,US,2020-06-20 04:33:19,33.21339719,-94.96797273,645,5,0,724,"Titus, Texas, US",2225.9541984732823,0.6858710562414266
 21219,Todd,Kentucky,US,2020-06-20 04:33:19,36.8381152,-87.17878374,23,0,0,23,"Todd, Kentucky, US",187.08312998210508,0.0
 27153,Todd,Minnesota,US,2020-06-20 04:33:19,46.06996226,-94.89785296,386,2,0,384,"Todd, Minnesota, US",1565.0340577359714,0.5181347150259067
 46121,Todd,South Dakota,US,2020-06-20 04:33:19,43.19338568,-100.71955030000001,50,1,0,49,"Todd, South Dakota, US",491.3039206052864,2.0
@@ -2752,7 +2752,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90017,Unassigned,Illinois,US,2020-06-20 04:33:19,,,46,0,0,46,"Unassigned, Illinois, US",,0.0
 90018,Unassigned,Indiana,US,2020-06-20 04:33:19,,,0,189,0,-189,"Unassigned, Indiana, US",,
 90019,Unassigned,Iowa,US,2020-06-20 04:33:19,,,9,0,0,9,"Unassigned, Iowa, US",,0.0
-90020,Unassigned,Kansas,US,2020-06-20 04:33:19,,,0,0,0,0,"Unassigned, Kansas, US",,
+90020,Unassigned,Kansas,US,2020-06-20 04:33:19,,,0,1,0,0,"Unassigned, Kansas, US",,
 90021,Unassigned,Kentucky,US,2020-06-20 04:33:19,,,21,0,0,21,"Unassigned, Kentucky, US",,0.0
 90022,Unassigned,Louisiana,US,2020-06-20 04:33:19,,,3,112,0,-109,"Unassigned, Louisiana, US",,3733.3333333333335
 90023,Unassigned,Maine,US,2020-06-20 04:33:19,,,1,0,0,1,"Unassigned, Maine, US",,0.0

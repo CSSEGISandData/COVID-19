@@ -2849,7 +2849,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18159,Tipton,Indiana,US,2020-08-08 04:34:53,40.31123252,-86.05234925,133,6,0,127,"Tipton, Indiana, US",878.003696857671,4.511278195488722
 47167,Tipton,Tennessee,US,2020-08-08 04:34:53,35.501942,-89.73694895,1183,9,0,1174,"Tipton, Tennessee, US",1920.4857221708146,0.760777683854607
 28141,Tishomingo,Mississippi,US,2020-08-08 04:34:53,34.74023475,-88.23917219,363,5,0,358,"Tishomingo, Mississippi, US",1872.7751122117318,1.3774104683195592
-48449,Titus,Texas,US,2020-08-08 04:34:53,33.21339719,-94.96797273,1289,15,0,1274,"Titus, Texas, US",3935.8778625954205,1.1636927851047323
+48449,Titus,Texas,US,2020-08-08 04:34:53,33.21339719,-94.96797273,1196,15,0,1274,"Titus, Texas, US",3935.8778625954205,1.1636927851047323
 72135,Toa Alta,Puerto Rico,US,2020-08-08 04:34:53,18.362406,-66.246616,540,0,0,540,"Toa Alta, Puerto Rico, US",729.0794696621933,0.0
 72137,Toa Baja,Puerto Rico,US,2020-08-08 04:34:53,18.431445999999998,-66.213553,494,0,0,494,"Toa Baja, Puerto Rico, US",551.2839112142752,0.0
 21219,Todd,Kentucky,US,2020-08-08 04:34:53,36.8381152,-87.17878374,34,0,0,34,"Todd, Kentucky, US",276.55767040832933,0.0
@@ -2915,7 +2915,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90017,Unassigned,Illinois,US,2020-08-08 04:34:53,,,1365,209,0,1156,"Unassigned, Illinois, US",,15.311355311355312
 90018,Unassigned,Indiana,US,2020-08-08 04:34:53,,,0,202,0,-202,"Unassigned, Indiana, US",,
 90019,Unassigned,Iowa,US,2020-08-08 04:34:53,,,1,0,0,1,"Unassigned, Iowa, US",,0.0
-90020,Unassigned,Kansas,US,2020-08-08 04:34:53,,,0,1,0,,"Unassigned, Kansas, US",,
+90020,Unassigned,Kansas,US,2020-08-08 04:34:53,,,0,2,0,,"Unassigned, Kansas, US",,
 90021,Unassigned,Kentucky,US,2020-08-08 04:34:53,,,0,0,0,0,"Unassigned, Kentucky, US",,
 90022,Unassigned,Louisiana,US,2020-08-08 04:34:53,,,213,118,0,95,"Unassigned, Louisiana, US",,55.39906103286385
 90024,Unassigned,Maryland,US,2020-08-08 04:34:53,,,0,19,0,-19,"Unassigned, Maryland, US",,
