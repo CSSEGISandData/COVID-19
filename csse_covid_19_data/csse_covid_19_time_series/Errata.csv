@@ -541,3 +541,63 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/27/2020,time_series_covid19_confirmed_global.csv,Brazil,10/25/2020,,,Updated via https://github.com/wcota/covid19br/blob/e3b244d291c31e7ae5a9a0e7dd29b6ba5085bfce/cases-brazil-total.csv
 10/27/2020,time_series_covid19_confirmed_US.csv,Alaska,3/13-10/26/2020,,,Add Alaska non-resident cases adjusted by the collection date
 10/27/2020,time_series_covid19_confirmed_global.csv,US,3/13-10/26/2020,,,Add Alaska non-resident cases
+10/31/2020,time_series_covid19_recovered_global.csv,Colombia,10/30/2020,95870,959433,Update national recoveries using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,10/28/2020,1041936,1041935,Update using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,10/29/2020,1048055,1053122,Update using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,10/30/2020,1053122,1063151,Update using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,10/31/2020,1073809,1074184,Update using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,11/01/2020,1082767,1083321,Update using official source
+11/02/2020,time_series_covid19_deaths_global.csv,Colombia,10/25/2020,30000,30154,Update using official source
+11/02/2020,time_series_covid19_deaths_global.csv,Colombia,10/30/2020,31421,31135,Update using official source
+11/02/2020,time_series_covid19_deaths_global.csv,Colombia,10/31/2020,31598,31314,Update using official source
+11/02/2020,time_series_covid19_deaths_global.csv,Colombia,11/01/2020,31796,31515,Update using official source
+11/02/2020,time_series_covid19_recovered_global.csv,Colombia,10/31/2020,968927,977371,Update using official source
+11/02/2020,time_series_covid19_recovered_global.csv,Colombia,11/01/2020,969230,977804,Update using official source
+11/03/2020,time_series_covid19_recovered_global.csv,Iceland,11/01/2020,4890,3948,Update to official source
+11/03/2020,time_series_covid19_recovered_global.csv,Iceland,11/02/2020,4931,4010,Update to official source
+11/03/2020,time_series_covid19_cases_global.csv,Colombia,11/02/2020,1004308,1093256,Update using official data
+11/04/2020,time_series_covid19_cases_global.csv,Germany,10/23/24/28 and 11/1,,,Adjust update time
+11/04/2020,time_series_covid19_deaths_global.csv,Germany,10/23/28 and 11/1,,,Adjust update time
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/24/20,5933,5934,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/25/20,5933,5941,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/26/20,5933,5951,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/27/20,5918,5959,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/28/20,5927,5963,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/29/20,5934,5966,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/30/20,5938,5972,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/31/20,5938,5977,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/01/20,5938,5980,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/02/20,5938,5987,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/03/20,5969,5989,Update to official data
+11/05/2020,time_series_covid19_confirmed_global.csv,France,11/02/2020,1419295,1471091,Scrapper source failed to update recreated using media reporting
+11/05/2020,time_series_covid19_confirmed_global.csv,France,11/03/2020,1419295,1507078,Scrapper source failed to update recreated using media reporting
+11/05/2020,time_series_covid19_deaths_global.csv,France,11/03/2020,37141,37564,Scrapper source failed to update recreated using media reporting
+11/09/2020,time_series_covid19_confirmed_US.csv,Puerto Rico,3/16/2020 - 11/8/2020,,,Revised Municipal reporting based on new updates from PR DS
+11/09/2020,time_series_covid19_confirmed_global.csv,US,3/16/2020 - 11/8/2020,,,Updated based on PR revisions
+11/10/2020,time_series_covid19_confirmed_US.csv,Hawaii,9/11/2020 - 11/9/2020,,,Revised reporting based on probable cases
+11/10/2020,time_series_covid19_confirmed_global.csv,US,9/11/2020 - 11/9/2020,,,Updated based on Hawaii revisions
+11/10/2020,time_series_covid19_confirmed_US.csv,Louisiana,8/26/2020 - 11/9/2020,,,Revised reporting based on probable cases
+11/10/2020,time_series_covid19_confirmed_global.csv,US,8/26/2020 - 11/9/2020,,,Updated based on Louisiana revisions
+11/11/2020,time_series_covid19_deaths_global.csv,US,11/9/2020,238256,238251,Corrects US deaths
+11/12/2020,time_series_covid19_deaths_global.csv,Mexico,11/9/2020,95027,95225,Corrects Mexico deaths
+11/12/2020,time_series_covid19_confirmed_global.csv,Mexico,11/9/2020,967825,972785,Corrects Mexico cases
+11/12/2020,time_series_covid19_deaths_US.csv,Wisconsin,3/19/2020 - 11/11/2020,,,Revised probable deaths from Wisconsin DHS
+11/12/2020,time_series_covid19_deaths_global.csv,US,3/19/2020 - 11/11/2020,,,Updated based on Wisconsin revisions
+11/13/2020,time_series_covi19_confirmed_global,India,,,,Updated from India MOHW
+11/13/2020,time_series_covid19_deaths_global,India,,,,Updated from India MOHW
+11/13/2020,time_series_covid19_recovered_global,India,,,,Updated from India MOHW
+11/16/2020,time_series_covid19_confirmed_global,France,,,,Updated from Open Covid France
+11/16/2020,time_series_covid19_deaths_global,France,,,,Updated from Open Covid France
+11/16/2020,time_series_covid19_recovered_global,France,,,,Updated from Open Covid France
+11/17/2020,time_series_covid19_confirmed_us.csv,"Unassigned, Louisiana",11/16/2020,7915,323,Scrapper double counted probable cases
+11/18/2020,time_series_covid19_confirmed_global.csv,India,11/16/2020,8873541,8874290,Missed one regional update
+11/18/2020,time_series_covid19_deaths_global.csv,India,11/16/2020,130503,130519,Missed one regional update
+11/18/2020,time_series_covid19_recovered_global.csv,India,11/16/2020,8289073,8290370,Missed one regional update
+11/23/2020,time_series_covid19_confirmed_global.csv,Mexico,11/21/2020,1025969,1032688,Missed update from gov of Mexico
+11/23/2020,time_series_covid19_deaths_global.csv,Mexico,11/21/2020,100823,101373,Missed update from gov of Mexico
+11/24/2020,time_series_covid19_confirmed_US.csv,"Bexar, Texas",11/23/2020,73882,74591,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Dallas, Texas",11/23/2020,130186,130727,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Galveston, Texas",11/23/2020,14126,14259,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Midland, Texas",11/23/2020,6576,7027,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Nueces, Texas",11/23/2020,23268,23388,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Travis, Texas", 11/23/2020,36436,36754,Daily update from county source
