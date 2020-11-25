@@ -155,6 +155,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * November 18: Guyana | Revision of confirmed cases data on November 16 from 4894 to 4874 due to a type on the national dashboard | time_series_covid19_confirmed_global.csv, 11-16-2020.csv | [Ministry source](https://www.facebook.com/mohguyana/posts/2485156248454573)
 * November 23: Nunavut, Canada | Add Nunavut cases from November 6-22 | All time files and daily reports | [Government of Nunavut News](https://www.gov.nu.ca/news/345?page=1)
 * November 24: Kansas, US | Revision of deaths for Kansas from April 4 to November 23 | All time files and daily reports | [Kansas State Dashboard](https://www.coronavirus.kdheks.gov/DocumentCenter/View/1529/Nov-23-case-summary?bidId=)
+* November 24: Texas, US | Revision of cases for Titus, Texas from May 22 to November 23 | All time files and daily reports | [Texas State Dashboard](https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
