@@ -1637,7 +1637,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20191,Sumner,Kansas,US,2020-09-24 04:23:00,37.23682549,-97.47721621,186,3,0,180,"Sumner, Kansas, US",801.3662638,1.639344262
 20193,Thomas,Kansas,US,2020-09-24 04:23:00,39.35107575,-101.0553705,126,0,0,126,"Thomas, Kansas, US",1620.162016,0.0
 20195,Trego,Kansas,US,2020-09-24 04:23:00,38.91467218,-99.87284448,53,3,0,50,"Trego, Kansas, US",1890.831252,5.660377358
-90020,Unassigned,Kansas,US,2020-09-24 04:23:00,,,0,0,0,0,"Unassigned, Kansas, US",,
+90020,Unassigned,Kansas,US,2020-09-24 04:23:00,,,0,1,0,0,"Unassigned, Kansas, US",,
 20197,Wabaunsee,Kansas,US,2020-09-24 04:23:00,38.95471985,-96.20350509,67,1,0,66,"Wabaunsee, Kansas, US",966.671476,1.492537313
 20199,Wallace,Kansas,US,2020-09-24 04:23:00,38.91686134,-101.7638876,17,0,0,17,"Wallace, Kansas, US",1119.894598,0.0
 20201,Washington,Kansas,US,2020-09-24 04:23:00,39.78420784,-97.0875323,17,0,0,17,"Washington, Kansas, US",314.4654088,0.0
