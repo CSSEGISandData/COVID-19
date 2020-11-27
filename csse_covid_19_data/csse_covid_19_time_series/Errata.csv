@@ -601,3 +601,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/24/2020,time_series_covid19_confirmed_US.csv,"Midland, Texas",11/23/2020,6576,7027,Daily update from county source
 11/24/2020,time_series_covid19_confirmed_US.csv,"Nueces, Texas",11/23/2020,23268,23388,Daily update from county source
 11/24/2020,time_series_covid19_confirmed_US.csv,"Travis, Texas", 11/23/2020,36436,36754,Daily update from county source
+11/27/2020,time_series_covid19_confirmed_global.csv,Laos,11/23/2020,25,39,Update via national report
+11/27/2020,time_series_covid19_confirmed_global.csv,Laos,11/24/2020,25,39,Update via national report
+11/27/2020,time_series_covid19_confirmed_global.csv,Laos,11/25/2020,25,39,Update via national report
+11/27/2020,time_series_covid19_confirmed_global.csv,Laos,11/26/2020,25,39,Update via national report
