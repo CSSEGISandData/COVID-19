@@ -121,17 +121,17 @@ Hillsborough-Manchester,New Hampshire,US,Hillsborough,New Hampshire,US,42.915377
 Hillsborough-other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-Other,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
 Hillsborough-Nashua,New Hampshire,US,Hillsborough,New Hampshire,US,42.91537785,-71.7200253,,,,,33011
-Belknap,New Hampshire,US,Belknap,New Hampshire,US,,,640,10,,,
-Carroll,New Hampshire,US,Carroll,New Hampshire,US,,,323,2,,,
-Cheshire,New Hampshire,US,Cheshire,New Hampshire,US,,,471,3,,,
-Coos,New Hampshire,US,Coos,New Hampshire,US,,,281,6,,,
-Grafton,New Hampshire,US,Grafton,New Hampshire,US,,,496,2,,,
-Hillsborough,New Hampshire,US,Hillsborough,New Hampshire,US,,,8213,332,,,
-Merrimack,New Hampshire,US,Merrimack,New Hampshire,US,,,1645,34,,,
-Rockingham,New Hampshire,US,Rockingham,New Hampshire,US,,,4470,105,,,
-Strafford,New Hampshire,US,Strafford,New Hampshire,US,,,1483,15,,,
-Sullivan,New Hampshire,US,Sullivan,New Hampshire,US,,,203,5,,,
-Unassigned,New Hampshire,US,Unassigned,New Hampshire,US,,,621,0,,,
+Belknap,New Hampshire,US,Belknap,New Hampshire,US,,,660,9,,,
+Carroll,New Hampshire,US,Carroll,New Hampshire,US,,,346,2,,,
+Cheshire,New Hampshire,US,Cheshire,New Hampshire,US,,,485,3,,,
+Coos,New Hampshire,US,Coos,New Hampshire,US,,,302,6,,,
+Grafton,New Hampshire,US,Grafton,New Hampshire,US,,,508,2,,,
+Hillsborough,New Hampshire,US,Hillsborough,New Hampshire,US,,,8647,331,,,
+Merrimack,New Hampshire,US,Merrimack,New Hampshire,US,,,1695,34,,,
+Rockingham,New Hampshire,US,Rockingham,New Hampshire,US,,,4599,106,,,
+Strafford,New Hampshire,US,Strafford,New Hampshire,US,,,1523,15,,,
+Sullivan,New Hampshire,US,Sullivan,New Hampshire,US,,,211,5,,,
+Unassigned,New Hampshire,US,Unassigned,New Hampshire,US,,,347,4,,,
 Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
 Gridwood,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
 Anchorage--Eagle River,Alaska,US,Anchorage,Alaska,US,61.14998174,-149.1426986,,,,,2020
@@ -158,7 +158,7 @@ Mcduffie,Georgia,US,McDuffie,Georgia,US,33.47851918,-82.48252774,,,,,13189
 Mcintosh,Georgia,US,McIntosh,Georgia,US,31.49683595,-81.40163426,,,,,13191
 Non-Georgia Resident,Georgia,US,Out of GA,Georgia,US,,,,,,,80013
 Unknown,Georgia,US,Unassigned,Georgia,US,,,,,,,90013
-,,Guam,,Guam,US,13.4443,144.7937,6705,109,,,66
+,,Guam,,Guam,US,13.4443,144.7937,,,,,66
 Hawaii Island,Hawaii,US,Hawaii,Hawaii,US,19.60121157,-155.5210167,,,,,15001
 Residents diagnosed Outside of HI,Hawaii,US,Out of HI,Hawaii,US,,,,,,,80015
 Adam,Idaho,US,Adams,Idaho,US,44.89333571,-116.4545247,,,,,16003
