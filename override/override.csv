@@ -1,6 +1,6 @@
 old_county,old_province_state,old_counrty_region,County,Province_State,Country_Region,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS
 Tarrant,Texas,US,Tarrant,Texas,US,32.77143818,-97.29101614,,,,,48439
-Del Norte,California,US,Del Norte,California,US,41.74228275,-123.8974063,,,,,06015
+Del Norte,California,US,Del Norte,California,US,41.74228275,-123.8974063,,,,,6015
 ,,Myanmar,,,Burma,,,,,,,
 ,,Belize,,,Belize,17.1899,-88.4976,,,,,
 ,Northwest Territories,Canada,,Northwest Territories,Canada,64.8255,-124.8457,,,,,
@@ -256,7 +256,7 @@ Data not available,Maryland,US,Unassigned,Maryland,US,,,,,,,90024
 Out of state,Illinois,US,Out of IL,Illinois,US,,,,,,,80017
 Mcpherson,Nebraska,US,McPherson,Nebraska,US,41.56797682,-101.0599362,,,,,31117
 Henderon,North Carolina,US,Henderson,North Carolina,US,35.33788927,-82.4766782,,,,,37089
-Siskiyou,California,US,Siskiyou,California,US,41.59198861,-122.5407434,,,,,06093
+Siskiyou,California,US,Siskiyou,California,US,41.59198861,-122.5407434,,,,,6093
 ,La Libertad,Peru,,La Libertad,Peru,-7.92139,-78.370238,,,,,
 ,Piura,Peru,,Piura,Peru,-5.133361,-80.335861,,,,,
 ,Piaui,Brazil,,Piaui,Brazil,-7.7183,-42.7289,,,,,
@@ -293,7 +293,7 @@ Greene,Pennsylvania,US,Greene,Pennsylvania,US,39.85746531,-80.22357106,,,,,42059
 Huntingdon,Pennsylvania,US,Huntingdon,Pennsylvania,US,40.42162652,-77.97673273,,,,,42061
 Indiana,Pennsylvania,US,Indiana,Pennsylvania,US,40.65241041,-79.08963285,,,,,42063
 Jefferson,Pennsylvania,US,Jefferson,Pennsylvania,US,41.12913106,-78.9986361,,,,,42065
-Juniata,Pennsylvania,US,Juniata,Pennsylvania,US,40.53358749,-77.39975129999998,,,,,42067
+Juniata,Pennsylvania,US,Juniata,Pennsylvania,US,40.53358749,-77.3997513,,,,,42067
 Lackawanna,Pennsylvania,US,Lackawanna,Pennsylvania,US,41.43564672,-75.60379201,,,,,42069
 Lancaster,Pennsylvania,US,Lancaster,Pennsylvania,US,40.03904563,-76.24770128,,,,,42071
 Lawrence,Pennsylvania,US,Lawrence,Pennsylvania,US,40.99206278,-80.33393706,,,,,42073
@@ -325,7 +325,7 @@ Venango,Pennsylvania,US,Venango,Pennsylvania,US,41.40323442,-79.75845449,,,,,421
 Warren,Pennsylvania,US,Warren,Pennsylvania,US,41.81304978,-79.26969577,,,,,42123
 Washington,Pennsylvania,US,Washington,Pennsylvania,US,40.19208869,-80.24582867,,,,,42125
 Wayne,Pennsylvania,US,Wayne,Pennsylvania,US,41.64938475,-75.29956506,,,,,42127
-Westmoreland,Pennsylvania,US,Westmoreland,Pennsylvania,US,40.31377979999999,-79.46615476,,,,,42129
+Westmoreland,Pennsylvania,US,Westmoreland,Pennsylvania,US,40.3137798,-79.46615476,,,,,42129
 Wyoming,Pennsylvania,US,Wyoming,Pennsylvania,US,41.51955538,-76.01074915,,,,,42131
 York,Pennsylvania,US,York,Pennsylvania,US,39.9210089,-76.73040131,,,,,42133
 Adams,Indiana,US,Adams,Indiana,US,40.7457653,-84.93671406,,,,,18001
@@ -1090,3 +1090,36 @@ Wasco,Oregon,US,Wasco,Oregon,US,,,524,19,,,
 Washington,Oregon,US,Washington,Oregon,US,,,10135,99,,,
 Wheeler,Oregon,US,Wheeler,Oregon,US,,,3,0,,,
 Yamhill,Oregon,US,Yamhill,Oregon,US,,,1696,16,,,
+,Ciudad de Mexico,Mexico,,Ciudad de Mexico,Mexico,,,204448,17484,,,
+,Mexico,Mexico,,Mexico,Mexico,,,110779,11867,,,
+,Nuevo Leon,Mexico,,Nuevo Leon,Mexico,,,66875,4560,,,
+,Guanajuato,Mexico,,Guanajuato,Mexico,,,61473,3930,,,
+,Sonora,Mexico,,Sonora,Mexico,,,42780,3444,,,
+,Coahuila,Mexico,,Coahuila,Mexico,,,41524,3286,,,
+,Jalisco,Mexico,,Jalisco,Mexico,,,40572,4708,,,
+,Veracruz,Mexico,,Veracruz,Mexico,,,39686,5535,,,
+,Puebla,Mexico,,Puebla,Mexico,,,39657,5151,,,
+,Tabasco,Mexico,,Tabasco,Mexico,,,36996,3128,,,
+,Tamaulipas,Mexico,,Tamaulipas,Mexico,,,35506,2994,,,
+,San Luis Potosi,Mexico,,San Luis Potosi,Mexico,,,34290,2488,,,
+,Chihuahua,Mexico,,Chihuahua,Mexico,,,29793,3552,,,
+,Michoacan,Mexico,,Michoacan,Mexico,,,28913,2279,,,
+,Baja California,Mexico,,Baja California,Mexico,,,26595,4258,,,
+,Sinaloa,Mexico,,Sinaloa,Mexico,,,24337,3965,,,
+,Oaxaca,Mexico,,Oaxaca,Mexico,,,24362,1848,,,
+,Guerrero,Mexico,,Guerrero,Mexico,,,23608,2378,,,
+,Yucatan,Mexico,,Yucatan,Mexico,,,23775,2048,,,
+,Queretaro,Mexico,,Queretaro,Mexico,,,21354,1494,,,
+,Durango,Mexico,,Durango,Mexico,,,20834,1121,,,
+,Hidalgo,Mexico,,Hidalgo,Mexico,,,18925,2674,,,
+,Zacatecas,Mexico,,Zacatecas,Mexico,,,16513,1286,,,
+,Quintana Roo,Mexico,,Quintana Roo,Mexico,,,14373,1924,,,
+,Baja California Sur,Mexico,,Baja California Sur,Mexico,,,14344,665,,,
+,Aguascalientes,Mexico,,Aguascalientes,Mexico,,,13082,1113,,,
+,Tlaxcala,Mexico,,Tlaxcala,Mexico,,,9373,1203,,,
+,Morelos,Mexico,,Morelos,Mexico,,,7834,1287,,,
+,Chiapas,Mexico,,Chiapas,Mexico,,,7732,1089,,,
+,Nayarit,Mexico,,Nayarit,Mexico,,,7157,978,,,
+,Colima,Mexico,,Colima,Mexico,,,7145,802,,,
+,Campeche,Mexico,,Campeche,Mexico,,,6768,920,,,
+,Unknown,Mexico,,Unknown,Mexico,,,0,0,,,
