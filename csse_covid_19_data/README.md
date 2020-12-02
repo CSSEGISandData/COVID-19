@@ -215,6 +215,7 @@ Date: Location | Change | Reason/Other notes | Source
 * November 3: Georgia, US | Inclusion of 29,937 antigen tests distributed over unknown period of days. This includes 450 probable deaths. | We have contacted the state health department to obtain a back distribution [Media source](https://www.wrbl.com/news/georgia-news/update-georgia-reports-364589-confirmed-covid-19-cases-statewide-with-6440-in-columbus/)  
 * November 10: Louisiana, US | Inclusion of probable cases from August 26 through November 9 and ongoing inclusion of probable cases. Probables are aggregated in the Unassigned, Louisiana entry
 * November 16: Louisiana, US | Disbursement of probable cases from Unassigned, Louisiana to the county level. Probables will be at the county level moving forward.
+* December 2: Kazakhstan | Back-distrubution of probable cases, deaths, and recoveries from official sources and coincident reporting including the Ministry of Health of the Repulbic of Kazakhstan, the European Commission Joint Research Center, the European Centre for Disease Prevention and Control, and Tengrinews
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -235,6 +236,7 @@ Date: Location | File | Change | Data source for change
 * November 13: Georgia, US | Probable deaths back distributed to November 3
 * November 18: Alabama, US | Back distribution of probable case spike on September 15
 * November 22: Texas,US | Introduction of probable cases for Brazos, Denton, and Dallas counties | Data was back distributed based on historical reporting from local government sources
+* December 2: Kazakhstan | Reporting in Kazahkstan has been modified to include probable cases, deaths, and recoveries.  
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
