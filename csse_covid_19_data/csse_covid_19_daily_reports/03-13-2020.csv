@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
 Hubei,China,2020-03-13T11:09:03,67786,3062,51553,30.9756,112.2707
 Guangdong,China,2020-03-13T11:09:03,1356,8,1296,23.3417,113.4244
 Henan,China,2020-03-11T08:13:09,1273,22,1249,33.882,113.614
@@ -224,8 +224,8 @@ Wyoming,US,2020-03-11T20:00:00,1,0,0,42.755966,-107.30249
 ,Vietnam,2020-03-11T20:00:00,47,0,16,14.0583,108.2772
 ,Mongolia,2020-03-11T20:00:00,1,0,0,46.8625,103.8467
 ,Jamaica,2020-03-11T20:00:00,8,0,0,18.1096,-77.2975
-,Afghanistan,2020-03-11T20:00:00,7,0,0,33,65
+,Afghanistan,2020-03-11T20:00:00,13,0,0,33.0,65.0
 ,Monaco,2020-03-11T20:00:00,2,0,0,43.7333,7.4167
 ,Liechtenstein,2020-03-11T20:00:00,1,0,0,47.14,9.55
-,Guyana,2020-03-11T20:00:00,1,1,0,5,-58.75
-,Taiwan*,2020-03-11T20:00:00,50,1,20,23.7,121
+,Guyana,2020-03-11T20:00:00,1,1,0,5.0,-58.75
+,Taiwan*,2020-03-11T20:00:00,50,1,20,23.7,121.0
