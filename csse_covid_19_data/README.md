@@ -259,7 +259,7 @@ United States
 * Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available.
 
 International
-* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays and Fridays.
+* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
 * Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
 * Nicaragua: Releasing case, death, and recovered data once per week.
 * UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC))
