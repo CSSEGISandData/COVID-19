@@ -157,6 +157,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * November 24: Kansas, US | Revision of deaths for Kansas from April 4 to November 23 | All time files and daily reports | [Kansas State Dashboard](https://www.coronavirus.kdheks.gov/DocumentCenter/View/1529/Nov-23-case-summary?bidId=)
 * November 24: Texas, US | Revision of cases for Titus, Texas from May 22 to November 23 | All time files and daily reports | [Texas State Dashboard](https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83)
 * December 2: Afghanistan | Revision of cases for Afghanistan from March 1 to November 30 | All time files and daily reports | [Afghanistan Ministry of Public Health](http://covid.moph-dw.org)
+* December 4: Israel | Revision of cases for Israel from February 27 to December 3 | All time files and daily reports | [Ministry of Health of Israel](https://datadashboard.health.gov.il/COVID-19/general)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -217,6 +218,8 @@ Date: Location | Change | Reason/Other notes | Source
 * November 10: Louisiana, US | Inclusion of probable cases from August 26 through November 9 and ongoing inclusion of probable cases. Probables are aggregated in the Unassigned, Louisiana entry
 * November 16: Louisiana, US | Disbursement of probable cases from Unassigned, Louisiana to the county level. Probables will be at the county level moving forward.
 * December 2: Kazakhstan | Back-distrubution of probable cases, deaths, and recoveries from official sources and coincident reporting including the Ministry of Health of the Repulbic of Kazakhstan, the European Commission Joint Research Center, the European Centre for Disease Prevention and Control, and Tengrinews
+* December 4: Massachusetts, US | Addition of historical cases from December 1 | "Today’s case numbers include 680 positive cases tested by one Massachusetts-based laboratory prior to December 1. The delay in reporting was caused by a technical issue with the software used by that laboratory’s reporting vendor." | [Massachusetts dashboard](https://www.mass.gov/info-details/covid-19-response-reporting).
+* December 4: Guam, US | Back-distribution of probable cases and deaths from official sources | | [Guam Dashboard](https://dphss.guam.gov/covid-19/)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -256,7 +259,7 @@ United States
 * Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available.
 
 International
-* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays and Fridays.
+* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
 * Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
 * Nicaragua: Releasing case, death, and recovered data once per week.
 * UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC))
