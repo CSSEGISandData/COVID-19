@@ -158,6 +158,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * November 24: Texas, US | Revision of cases for Titus, Texas from May 22 to November 23 | All time files and daily reports | [Texas State Dashboard](https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83)
 * December 2: Afghanistan | Revision of cases for Afghanistan from March 1 to November 30 | All time files and daily reports | [Afghanistan Ministry of Public Health](http://covid.moph-dw.org)
 * December 4: Israel | Revision of cases for Israel from February 27 to December 3 | All time files and daily reports | [Ministry of Health of Israel](https://datadashboard.health.gov.il/COVID-19/general)
+* December 7: Samoa | Addition of cases, deaths, and recovered for Samoa | All time files and daily reports | [Ministry of Samoa](https://www.facebook.com/samoagovt)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
