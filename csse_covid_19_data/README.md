@@ -159,6 +159,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * December 2: Afghanistan | Revision of cases for Afghanistan from March 1 to November 30 | All time files and daily reports | [Afghanistan Ministry of Public Health](http://covid.moph-dw.org)
 * December 4: Israel | Revision of cases for Israel from February 27 to December 3 | All time files and daily reports | [Ministry of Health of Israel](https://datadashboard.health.gov.il/COVID-19/general)
 * December 7: Samoa | Addition of cases, deaths, and recovered for Samoa | All time files and daily reports | [Ministry of Samoa](https://www.facebook.com/samoagovt)
+* December 8: New Hampshire, US | Correction of cases and deaths from November 29 to December 6 | All time files and daily reports | [New Hampshire DHHS](https://www.nh.gov/covid19/news/updates.htm)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
