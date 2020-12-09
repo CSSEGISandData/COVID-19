@@ -2627,7 +2627,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,4/6/20 23:28,64.2823,-135.0,6,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,4/2/20 23:33,24.974,101.487,184,2,172,10,"Yunnan, China"
 ,,Zhejiang,China,4/6/20 2:17,29.1832,120.0934,1264,1,1230,33,"Zhejiang, China"
-,,,Afghanistan,4/6/20 23:21,33.93911,67.709953,367,11,18,338,Afghanistan
+,,,Afghanistan,4/6/20 23:21,33.93911,67.709953,368,15,18,338,Afghanistan
 ,,,Albania,4/6/20 23:21,41.1533,20.1683,377,21,116,240,Albania
 ,,,Algeria,4/6/20 23:21,28.0339,1.6596,1423,173,90,1160,Algeria
 ,,,Andorra,4/6/20 23:21,42.5063,1.5218,525,21,31,473,Andorra
@@ -2707,7 +2707,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,4/6/20 23:21,32.427908,53.688046,60500,3739,24236,32525,Iran
 ,,,Iraq,4/6/20 23:21,33.223191,43.679291,1031,64,344,623,Iraq
 ,,,Ireland,4/6/20 23:21,53.1424,-7.6921,5364,174,25,5165,Ireland
-,,,Israel,4/6/20 23:21,31.046051,34.851612,8904,57,585,8262,Israel
+,,,Israel,4/6/20 23:21,31.046051,34.851612,9191,64,939,8262,Israel
 ,,,Italy,4/6/20 23:21,41.87194,12.56738,132547,16523,22837,93187,Italy
 ,,,Jamaica,4/6/20 23:21,18.1096,-77.2975,58,3,8,47,Jamaica
 ,,,Japan,4/6/20 23:21,36.204824,138.252924,3654,85,575,2994,Japan
@@ -2767,6 +2767,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,4/6/20 23:21,17.357822,-62.782998,10,0,0,10,Saint Kitts and Nevis
 ,,,Saint Lucia,4/6/20 23:21,13.9094,-60.9789,14,0,1,13,Saint Lucia
 ,,,Saint Vincent and the Grenadines,4/6/20 23:21,12.9843,-61.2872,7,0,1,6,Saint Vincent and the Grenadines
+,,,Samoa,4/6/20 23:28,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,4/6/20 23:21,43.9424,12.4578,266,32,35,199,San Marino
 ,,,Sao Tome and Principe,4/6/20 23:21,0.18636,6.613081,4,0,0,4,Sao Tome and Principe
 ,,,Saudi Arabia,4/6/20 23:21,23.885942,45.079162,2605,38,551,2016,Saudi Arabia
@@ -2804,7 +2805,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Venezuela,4/6/20 23:21,6.4238,-66.5897,165,7,65,93,Venezuela
 ,,,Vietnam,4/6/20 23:21,14.058324,108.277199,245,0,95,150,Vietnam
 ,,,West Bank and Gaza,4/6/20 23:21,31.9522,35.2332,254,1,24,229,West Bank and Gaza
-,,,Western Sahara,4/6/20 23:21,24.2155,-12.8858,4,0,0,4,",,Western Sahara"
 ,,,Zambia,4/6/20 23:21,-13.133897,27.849332,39,1,5,33,Zambia
 ,,,Zimbabwe,4/6/20 23:21,-19.015438,29.154857,10,1,0,9,Zimbabwe
 ,unassigned,Wyoming,US,4/6/20 23:22,,,0,0,0,0,"unassigned, Wyoming, US"

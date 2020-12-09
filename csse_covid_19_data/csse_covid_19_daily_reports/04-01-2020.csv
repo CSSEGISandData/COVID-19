@@ -2307,7 +2307,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,2020-04-01 22:04:44,64.2823,-135.0,5,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,2020-03-31 23:31:54,24.974,101.48700000000001,182,2,172,8,"Yunnan, China"
 ,,Zhejiang,China,2020-03-31 01:23:49,29.1832,120.0934,1257,1,1226,30,"Zhejiang, China"
-,,,Afghanistan,2020-04-01 21:58:34,33.93911,67.709953,237,4,5,228,Afghanistan
+,,,Afghanistan,2020-04-01 21:58:34,33.93911,67.709953,197,4,5,228,Afghanistan
 ,,,Albania,2020-04-01 21:58:34,41.1533,20.1683,259,15,67,177,Albania
 ,,,Algeria,2020-04-01 21:58:34,28.0339,1.6596,847,58,61,728,Algeria
 ,,,Andorra,2020-04-01 21:58:34,42.5063,1.5218,390,14,10,366,Andorra
@@ -2387,7 +2387,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,2020-04-01 21:58:34,32.427908,53.68804599999999,47593,3036,15473,29084,Iran
 ,,,Iraq,2020-04-01 21:58:34,33.223191,43.679291,728,52,182,494,Iraq
 ,,,Ireland,2020-04-01 21:58:34,53.1424,-7.6921,3447,85,5,3357,Ireland
-,,,Israel,2020-04-01 21:58:34,31.046051000000002,34.851612,6092,26,241,5825,Israel
+,,,Israel,2020-04-01 21:58:34,31.046051000000002,34.851612,6413,29,495,5825,Israel
 ,,,Italy,2020-04-01 21:58:34,41.87194,12.56738,110574,13155,16847,80572,Italy
 ,,,Jamaica,2020-04-01 21:58:34,18.1096,-77.2975,44,3,2,39,Jamaica
 ,,,Japan,2020-04-01 21:58:34,36.204824,138.252924,2178,57,472,1649,Japan
@@ -2446,6 +2446,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,2020-04-01 21:58:34,17.357822,-62.782998,8,0,0,8,Saint Kitts and Nevis
 ,,,Saint Lucia,2020-04-01 21:58:34,13.9094,-60.9789,13,0,1,12,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-04-01 21:58:34,12.9843,-61.2872,1,0,1,0,Saint Vincent and the Grenadines
+,,,Samoa,2020-04-01 22:04:44,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,2020-04-01 21:58:34,43.9424,12.4578,236,26,13,197,San Marino
 ,,,Saudi Arabia,2020-04-01 21:58:34,23.885942,45.079162,1720,16,264,1440,Saudi Arabia
 ,,,Senegal,2020-04-01 21:58:34,14.4974,-14.4524,190,1,45,144,Senegal

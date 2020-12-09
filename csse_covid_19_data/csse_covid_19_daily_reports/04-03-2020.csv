@@ -2446,7 +2446,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,2020-04-03 22:52:30,64.2823,-135.0,6,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,2020-04-02 23:33:43,24.974,101.48700000000001,184,2,172,10,"Yunnan, China"
 ,,Zhejiang,China,2020-04-03 03:12:20,29.1832,120.0934,1260,1,1228,31,"Zhejiang, China"
-,,,Afghanistan,2020-04-03 22:46:20,33.93911,67.709953,281,6,10,265,Afghanistan
+,,,Afghanistan,2020-04-03 22:46:20,33.93911,67.709953,275,8,10,265,Afghanistan
 ,,,Albania,2020-04-03 22:46:20,41.1533,20.1683,304,17,89,198,Albania
 ,,,Algeria,2020-04-03 22:46:20,28.0339,1.6596,1171,105,62,1004,Algeria
 ,,,Andorra,2020-04-03 22:46:20,42.5063,1.5218,439,16,16,407,Andorra
@@ -2526,7 +2526,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,2020-04-03 22:46:20,32.427908,53.68804599999999,53183,3294,17935,31954,Iran
 ,,,Iraq,2020-04-03 22:46:20,33.223191,43.679291,820,54,226,540,Iraq
 ,,,Ireland,2020-04-03 22:46:20,53.1424,-7.6921,4273,120,5,4148,Ireland
-,,,Israel,2020-04-03 22:46:20,31.046051000000002,34.851612,7428,40,403,6985,Israel
+,,,Israel,2020-04-03 22:46:20,31.046051000000002,34.851612,7729,43,667,6985,Israel
 ,,,Italy,2020-04-03 22:46:20,41.87194,12.56738,119827,14681,19758,85388,Italy
 ,,,Jamaica,2020-04-03 22:46:20,18.1096,-77.2975,47,3,2,42,Jamaica
 ,,,Japan,2020-04-03 22:46:20,36.204824,138.252924,2617,63,514,2040,Japan
@@ -2586,6 +2586,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,2020-04-03 22:46:20,17.357822,-62.782998,9,0,0,9,Saint Kitts and Nevis
 ,,,Saint Lucia,2020-04-03 22:46:20,13.9094,-60.9789,13,0,1,12,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-04-03 22:46:20,12.9843,-61.2872,3,0,1,2,Saint Vincent and the Grenadines
+,,,Samoa,2020-04-03 22:52:30,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,2020-04-03 22:46:20,43.9424,12.4578,245,30,21,194,San Marino
 ,,,Saudi Arabia,2020-04-03 22:46:20,23.885942,45.079162,2039,25,351,1663,Saudi Arabia
 ,,,Senegal,2020-04-03 22:46:20,14.4974,-14.4524,207,1,66,140,Senegal

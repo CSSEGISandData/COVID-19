@@ -3251,7 +3251,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Xinjiang,China,2020-03-08 05:31:02,41.1129,85.2401,76,3,73,0,"Xinjiang, China"
 ,,Yunnan,China,2020-03-16 23:37:18,24.974,101.487,176,2,172,2,"Yunnan, China"
 ,,Zhejiang,China,2020-03-24 03:30:55,29.1832,120.0934,1240,1,1221,18,"Zhejiang, China"
-,,,Afghanistan,2020-03-24 23:37:15,33.93911,67.709953,74,1,1,72,Afghanistan
+,,,Afghanistan,2020-03-24 23:37:15,33.93911,67.709953,43,1,1,72,Afghanistan
 ,,,Albania,2020-03-24 23:37:15,41.1533,20.1683,123,5,10,108,Albania
 ,,,Algeria,2020-03-24 23:37:15,28.0339,1.6596,264,19,24,221,Algeria
 ,,,Andorra,2020-03-24 23:37:15,42.5063,1.5218,164,1,1,162,Andorra
@@ -3326,7 +3326,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,2020-03-24 23:37:15,32.427908,53.68804599999999,24811,1934,8913,13964,Iran
 ,,,Iraq,2020-03-24 23:37:15,33.223191,43.679291,316,27,75,214,Iraq
 ,,,Ireland,2020-03-24 23:37:15,53.1424,-7.6921,1329,7,5,1317,Ireland
-,,,Israel,2020-03-24 23:37:15,31.046051000000002,34.851612,1930,3,53,1874,Israel
+,,,Israel,2020-03-24 23:37:15,31.046051000000002,34.851612,2043,4,31,1874,Israel
 ,,,Italy,2020-03-24 23:37:15,41.87194,12.56738,69176,6820,8326,54030,Italy
 ,,,Jamaica,2020-03-24 23:37:15,18.1096,-77.2975,21,1,2,18,Jamaica
 ,,,Japan,2020-03-24 23:37:15,36.204824,138.252924,1193,43,285,865,Japan
@@ -3381,6 +3381,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Rwanda,2020-03-24 23:37:15,-1.9403,29.8739,40,0,0,40,Rwanda
 ,,,Saint Lucia,2020-03-24 23:37:15,13.9094,-60.9789,3,0,0,3,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-03-24 23:37:15,12.9843,-61.2872,1,0,0,1,Saint Vincent and the Grenadines
+,,,Samoa,2020-03-24 23:41:36,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,2020-03-24 23:37:15,43.9424,12.4578,187,21,4,162,San Marino
 ,,,Saudi Arabia,2020-03-24 23:37:15,23.885942,45.079162,767,1,28,738,Saudi Arabia
 ,,,Senegal,2020-03-24 23:37:15,14.4974,-14.4524,86,0,8,78,Senegal

@@ -2702,7 +2702,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,2020-04-08 22:58:44,64.2823,-135.0,7,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,2020-04-07 00:20:57,24.974,101.487,184,2,173,9,"Yunnan, China"
 ,,Zhejiang,China,2020-04-08 02:01:44,29.1832,120.0934,1266,1,1232,33,"Zhejiang, China"
-,,,Afghanistan,2020-04-08 22:51:39,33.93911,67.709953,444,14,29,401,Afghanistan
+,,,Afghanistan,2020-04-08 22:51:39,33.93911,67.709953,445,16,29,401,Afghanistan
 ,,,Albania,2020-04-08 22:51:39,41.1533,20.1683,400,22,154,224,Albania
 ,,,Algeria,2020-04-08 22:51:39,28.0339,1.6596,1572,205,237,1130,Algeria
 ,,,Andorra,2020-04-08 22:51:39,42.5063,1.5218,564,23,52,489,Andorra
@@ -2782,7 +2782,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,2020-04-08 22:51:39,32.427908,53.68804599999999,64586,3993,29812,30781,Iran
 ,,,Iraq,2020-04-08 22:51:39,33.223191,43.679291,1202,69,452,681,Iraq
 ,,,Ireland,2020-04-08 22:51:39,53.1424,-7.6921,6074,235,25,5814,Ireland
-,,,Israel,2020-04-08 22:51:39,31.046051000000002,34.851612,9404,73,801,8530,Israel
+,,,Israel,2020-04-08 22:51:39,31.046051000000002,34.851612,9906,80,1191,8530,Israel
 ,,,Italy,2020-04-08 22:51:39,41.87194,12.56738,139422,17669,26491,95262,Italy
 ,,,Jamaica,2020-04-08 22:51:39,18.1096,-77.2975,63,4,10,49,Jamaica
 ,,,Japan,2020-04-08 22:51:39,36.204824,138.252924,4257,93,622,3542,Japan
@@ -2842,6 +2842,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,2020-04-08 22:51:39,17.357822,-62.782998,11,0,0,11,Saint Kitts and Nevis
 ,,,Saint Lucia,2020-04-08 22:51:39,13.9094,-60.9789,14,0,1,13,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-04-08 22:51:39,12.9843,-61.2872,8,0,1,7,Saint Vincent and the Grenadines
+,,,Samoa,2020-04-08 22:58:44,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,2020-04-08 22:51:39,43.9424,12.4578,279,34,40,205,San Marino
 ,,,Sao Tome and Principe,2020-04-08 22:51:39,0.18636,6.613081,4,0,0,4,Sao Tome and Principe
 ,,,Saudi Arabia,2020-04-08 22:51:39,23.885942,45.079162,2932,41,631,2260,Saudi Arabia
@@ -2879,6 +2880,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Venezuela,2020-04-08 22:51:39,6.4238,-66.5897,167,9,65,93,Venezuela
 ,,,Vietnam,2020-04-08 22:51:39,14.058323999999999,108.277199,251,0,126,125,Vietnam
 ,,,West Bank and Gaza,2020-04-08 22:51:39,31.9522,35.2332,263,1,44,218,West Bank and Gaza
-,,,Western Sahara,2020-04-08 22:51:39,24.2155,-12.8858,4,0,0,4,",,Western Sahara"
 ,,,Zambia,2020-04-08 22:51:39,-13.133897,27.849332,39,1,7,31,Zambia
 ,,,Zimbabwe,2020-04-08 22:51:39,-19.015438,29.154857,11,3,0,8,Zimbabwe

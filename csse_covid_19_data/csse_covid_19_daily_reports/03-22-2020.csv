@@ -3253,7 +3253,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Turkey,3/22/20 23:45,38.9637,35.2433,1236,30,0,1206,Turkey
 ,,,Czechia,3/22/20 23:45,49.8175,15.473,1120,1,6,1113,Czechia
 ,,,Japan,3/22/20 23:45,36.204824,138.252924,1086,36,235,815,Japan
-,,,Israel,3/22/20 23:45,31.046051,34.851612,1071,1,37,1033,Israel
+,,,Israel,3/22/20 23:45,31.046051,34.851612,1268,1,19,1033,Israel
 ,,,Ireland,3/22/20 23:45,53.1424,-7.6921,906,4,5,897,Ireland
 ,,,Luxembourg,3/22/20 23:45,49.8153,6.1296,798,8,6,784,Luxembourg
 ,,,Ecuador,3/22/20 23:45,-1.8312,-78.1834,789,14,3,772,Ecuador
@@ -3322,14 +3322,14 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Venezuela,3/22/20 23:45,6.4238,-66.5897,70,0,15,55,Venezuela
 ,,,Senegal,3/22/20 23:45,14.4974,-14.4524,67,0,5,62,Senegal
 ,,,Azerbaijan,3/22/20 23:45,40.1431,47.5769,65,1,11,53,Azerbaijan
-,,,Kazakhstan,3/22/20 23:45,48.0196,66.9237,59,0,0,59,Kazakhstan
+,,,Kazakhstan,3/22/20 23:45,48.0196,66.9237,60,0,0,59,Kazakhstan
 ,,Guadeloupe,France,3/22/20 23:45,16.265,-61.551,56,1,0,55,"Guadeloupe, France"
 ,,,Oman,3/22/20 23:45,21.512583,55.923255,55,0,17,38,Oman
 ,,,Georgia,3/22/20 23:45,42.3154,43.3569,54,0,1,53,Georgia
 ,,,Trinidad and Tobago,3/22/20 23:45,10.6918,-61.2225,50,0,0,50,Trinidad and Tobago
 ,,Reunion,France,3/22/20 23:45,-21.1151,55.5364,47,0,1,46,"Reunion, France"
 ,,,Uzbekistan,3/22/20 23:45,41.377491,64.585262,43,0,0,43,Uzbekistan
-,,,Afghanistan,3/22/20 23:45,33.93911,67.709953,40,1,1,38,Afghanistan
+,,,Afghanistan,3/22/20 23:45,33.93911,67.709953,34,1,1,38,Afghanistan
 ,,,Cameroon,3/22/20 23:45,3.848,11.5021,40,0,2,38,Cameroon
 ,,Martinique,France,3/22/20 23:45,14.6415,-61.0242,37,1,0,36,"Martinique, France"
 ,,,Liechtenstein,3/22/20 23:45,47.14,9.55,37,0,0,37,Liechtenstein
@@ -3410,6 +3410,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Mozambique,3/22/20 23:45,-18.665695,35.529562,1,0,0,1,Mozambique
 ,,,Papua New Guinea,3/22/20 23:45,-6.314993,143.95555,1,0,0,1,Papua New Guinea
 ,,,Saint Vincent and the Grenadines,3/22/20 23:45,12.9843,-61.2872,1,0,0,1,Saint Vincent and the Grenadines
+,,,Samoa,3/22/20 23:48,-13.759,-172.1046,0,0,0,0,Samoa
 ,,Sint Maarten,Netherlands,3/22/20 23:45,18.0425,-63.0548,1,0,0,1,"Sint Maarten, Netherlands"
 ,,,Somalia,3/22/20 23:45,5.152149,46.199616,1,0,0,1,Somalia
 ,,,Syria,3/22/20 23:45,34.802075,38.996815,1,0,0,1,Syria

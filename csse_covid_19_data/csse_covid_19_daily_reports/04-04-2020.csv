@@ -2500,7 +2500,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,4/4/20 23:40,64.2823,-135.0,6,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,4/2/20 23:33,24.974,101.487,184,2,172,10,"Yunnan, China"
 ,,Zhejiang,China,4/4/20 1:23,29.1832,120.0934,1262,1,1229,32,"Zhejiang, China"
-,,,Afghanistan,4/4/20 23:34,33.93911,67.709953,299,7,10,282,Afghanistan
+,,,Afghanistan,4/4/20 23:34,33.93911,67.709953,300,10,10,282,Afghanistan
 ,,,Albania,4/4/20 23:34,41.1533,20.1683,333,20,99,214,Albania
 ,,,Algeria,4/4/20 23:34,28.0339,1.6596,1251,130,90,1031,Algeria
 ,,,Andorra,4/4/20 23:34,42.5063,1.5218,466,17,21,428,Andorra
@@ -2580,7 +2580,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,4/4/20 23:34,32.427908,53.688046,55743,3452,19736,32555,Iran
 ,,,Iraq,4/4/20 23:34,33.223191,43.679291,878,56,259,563,Iraq
 ,,,Ireland,4/4/20 23:34,53.1424,-7.6921,4604,137,25,4442,Ireland
-,,,Israel,4/4/20 23:34,31.046051,34.851612,7851,44,427,7380,Israel
+,,,Israel,4/4/20 23:34,31.046051,34.851612,8157,49,717,7380,Israel
 ,,,Italy,4/4/20 23:34,41.87194,12.56738,124632,15362,20996,88274,Italy
 ,,,Jamaica,4/4/20 23:34,18.1096,-77.2975,53,3,7,43,Jamaica
 ,,,Japan,4/4/20 23:34,36.204824,138.252924,3139,77,514,2548,Japan
@@ -2640,6 +2640,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,4/4/20 23:34,17.357822,-62.782998,9,0,0,9,Saint Kitts and Nevis
 ,,,Saint Lucia,4/4/20 23:34,13.9094,-60.9789,14,0,1,13,Saint Lucia
 ,,,Saint Vincent and the Grenadines,4/4/20 23:34,12.9843,-61.2872,7,0,1,6,Saint Vincent and the Grenadines
+,,,Samoa,4/4/20 23:40,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,4/4/20 23:34,43.9424,12.4578,259,32,27,200,San Marino
 ,,,Saudi Arabia,4/4/20 23:34,23.885942,45.079162,2179,29,420,1730,Saudi Arabia
 ,,,Senegal,4/4/20 23:34,14.4974,-14.4524,219,2,72,145,Senegal

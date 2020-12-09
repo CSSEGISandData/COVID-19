@@ -25,7 +25,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6001,Alameda,California,US,2020-05-16 02:32:19,37.64629437,-121.8929271,2367,83,0,2284,"Alameda, California, US"
 8003,Alamosa,Colorado,US,2020-05-16 02:32:19,37.57250606,-105.7885451,38,2,0,36,"Alamosa, Colorado, US"
 36001,Albany,New York,US,2020-05-16 02:32:19,42.60060306,-73.97723916,1538,67,0,1471,"Albany, New York, US"
-56001,Albany,Wyoming,US,2020-05-16 02:32:19,41.65498705,-105.7235415,8,0,0,8,"Albany, Wyoming, US"
+56001,Albany,Wyoming,US,2020-05-16 02:32:19,41.65498705,-105.7235415,9,0,0,8,"Albany, Wyoming, US"
 51003,Albemarle,Virginia,US,2020-05-16 02:32:19,38.02080697,-78.55481085,133,4,0,129,"Albemarle, Virginia, US"
 26001,Alcona,Michigan,US,2020-05-16 02:32:19,44.6846864,-83.59507875,6,1,0,5,"Alcona, Michigan, US"
 28003,Alcorn,Mississippi,US,2020-05-16 02:32:19,34.88084463,-88.57996173,12,1,0,11,"Alcorn, Mississippi, US"
@@ -3119,7 +3119,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,2020-05-16 02:32:19,64.2823,-135.0,11,0,11,0,"Yukon, Canada"
 ,,Yunnan,China,2020-05-16 02:32:19,24.974,101.48700000000001,185,2,183,0,"Yunnan, China"
 ,,Zhejiang,China,2020-05-16 02:32:19,29.1832,120.0934,1268,1,1267,0,"Zhejiang, China"
-,,,Afghanistan,2020-05-16 02:32:19,33.93911,67.709953,6053,153,745,5155,Afghanistan
+,,,Afghanistan,2020-05-16 02:32:19,33.93911,67.709953,6054,153,745,5155,Afghanistan
 ,,,Albania,2020-05-16 02:32:19,41.1533,20.1683,916,31,705,180,Albania
 ,,,Algeria,2020-05-16 02:32:19,28.0339,1.6596,6629,536,3271,2822,Algeria
 ,,,Andorra,2020-05-16 02:32:19,42.5063,1.5218,761,49,604,108,Andorra
@@ -3199,7 +3199,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,2020-05-16 02:32:19,32.427908,53.68804599999999,116635,6902,91836,17897,Iran
 ,,,Iraq,2020-05-16 02:32:19,33.223191,43.679291,3193,117,2089,987,Iraq
 ,,,Ireland,2020-05-16 02:32:19,53.1424,-7.6921,23956,1518,19470,2968,Ireland
-,,,Israel,2020-05-16 02:32:19,31.046051000000002,34.851612,16589,266,12587,3736,Israel
+,,,Israel,2020-05-16 02:32:19,31.046051000000002,34.851612,16523,268,12793,3736,Israel
 ,,,Jamaica,2020-05-16 02:32:19,18.1096,-77.2975,511,9,121,381,Jamaica
 ,,,Japan,2020-05-16 02:32:19,36.204824,138.252924,16203,713,10338,5152,Japan
 ,,,Jordan,2020-05-16 02:32:19,31.24,36.51,596,9,401,186,Jordan
@@ -3259,6 +3259,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,2020-05-16 02:32:19,17.357822,-62.782998,15,0,14,1,Saint Kitts and Nevis
 ,,,Saint Lucia,2020-05-16 02:32:19,13.9094,-60.9789,18,0,18,0,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-05-16 02:32:19,12.9843,-61.2872,17,0,14,3,Saint Vincent and the Grenadines
+,,,Samoa,2020-05-16 02:32:19,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,2020-05-16 02:32:19,43.9424,12.4578,652,41,189,422,San Marino
 ,,,Sao Tome and Principe,2020-05-16 02:32:19,0.18636,6.613081,235,7,4,224,Sao Tome and Principe
 ,,,Saudi Arabia,2020-05-16 02:32:19,23.885942,45.079162,49176,292,21869,27015,Saudi Arabia
@@ -3296,7 +3297,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Venezuela,2020-05-16 02:32:19,6.4238,-66.5897,459,10,229,220,Venezuela
 ,,,Vietnam,2020-05-16 02:32:19,14.058323999999999,108.277199,314,0,260,54,Vietnam
 ,,,West Bank and Gaza,2020-05-16 02:32:19,31.9522,35.2332,375,2,315,58,West Bank and Gaza
-,,,Western Sahara,2020-05-16 02:32:19,24.2155,-12.8858,6,0,6,0,Western Sahara
 ,,,Yemen,2020-05-16 02:32:19,15.552726999999999,48.516388,106,15,1,90,Yemen
 ,,,Zambia,2020-05-16 02:32:19,-13.133897,27.849332,654,7,124,523,Zambia
 ,,,Zimbabwe,2020-05-16 02:32:19,-19.015438,29.154857,42,4,13,25,Zimbabwe

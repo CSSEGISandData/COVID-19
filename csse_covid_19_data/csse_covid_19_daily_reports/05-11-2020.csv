@@ -3132,7 +3132,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,2020-05-12 03:32:27,32.427908,53.68804599999999,109286,6685,87422,15179,Iran
 ,,,Iraq,2020-05-12 03:32:27,33.223191,43.679291,2818,110,1790,918,Iraq
 ,,,Ireland,2020-05-12 03:32:27,53.1424,-7.6921,23135,1467,17110,4558,Ireland
-,,,Israel,2020-05-12 03:32:27,31.046051,34.851612,16506,258,11843,4405,Israel
+,,,Israel,2020-05-12 03:32:27,31.046051,34.851612,16427,260,11940,4405,Israel
 ,,,Italy,2020-05-12 03:32:27,41.87194,12.56738,219814,30739,106587,82488,Italy
 ,,,Jamaica,2020-05-12 03:32:27,18.1096,-77.2975,505,9,90,406,Jamaica
 ,,,Japan,2020-05-12 03:32:27,36.204824,138.252924,15847,633,8293,6921,Japan
@@ -3192,6 +3192,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,2020-05-12 03:32:27,17.357822,-62.782998,15,0,14,1,Saint Kitts and Nevis
 ,,,Saint Lucia,2020-05-12 03:32:27,13.9094,-60.9789,18,0,17,1,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-05-12 03:32:27,12.9843,-61.2872,17,0,9,8,Saint Vincent and the Grenadines
+,,,Samoa,2020-05-12 03:32:27,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,2020-05-12 03:32:27,43.9424,12.4578,628,41,130,457,San Marino
 ,,,Sao Tome and Principe,2020-05-12 03:32:27,0.18636,6.613081,208,5,4,199,Sao Tome and Principe
 ,,,Saudi Arabia,2020-05-12 03:32:27,23.885942,45.079162,41014,255,12737,28022,Saudi Arabia
@@ -3230,7 +3231,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Venezuela,2020-05-12 03:32:27,6.4238,-66.5897,422,10,205,207,Venezuela
 ,,,Vietnam,2020-05-12 03:32:27,14.058324,108.277199,288,0,249,39,Vietnam
 ,,,West Bank and Gaza,2020-05-12 03:32:27,31.9522,35.2332,375,2,301,72,West Bank and Gaza
-,,,Western Sahara,2020-05-12 03:32:27,24.2155,-12.8858,6,0,6,0,Western Sahara
 ,,,Yemen,2020-05-12 03:32:27,15.552727,48.516388,56,9,1,46,Yemen
 ,,,Zambia,2020-05-12 03:32:27,-13.133897,27.849332,267,7,117,143,Zambia
 ,,,Zimbabwe,2020-05-12 03:32:27,-19.015438,29.154857,36,4,9,23,Zimbabwe

@@ -3257,7 +3257,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,2020-03-27 23:27:32,64.2823,-135.0,3,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,2020-03-26 23:16:51,24.974,101.487,180,2,172,6,"Yunnan, China"
 ,,Zhejiang,China,2020-03-27 02:35:02,29.1832,120.0934,1247,1,1222,24,"Zhejiang, China"
-,,,Afghanistan,2020-03-27 23:23:03,33.93911,67.709953,110,4,2,104,Afghanistan
+,,,Afghanistan,2020-03-27 23:23:03,33.93911,67.709953,91,3,2,104,Afghanistan
 ,,,Albania,2020-03-27 23:23:03,41.1533,20.1683,186,8,31,147,Albania
 ,,,Algeria,2020-03-27 23:23:03,28.0339,1.6596,409,26,29,354,Algeria
 ,,,Andorra,2020-03-27 23:23:03,42.5063,1.5218,267,3,1,263,Andorra
@@ -3335,7 +3335,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,2020-03-27 23:23:03,32.427908,53.68804599999999,32332,2378,11133,18821,Iran
 ,,,Iraq,2020-03-27 23:23:03,33.223191,43.679291,458,40,122,296,Iraq
 ,,,Ireland,2020-03-27 23:23:03,53.1424,-7.6921,2121,22,5,2094,Ireland
-,,,Israel,2020-03-27 23:23:03,31.046051000000002,34.851612,3035,12,79,2944,Israel
+,,,Israel,2020-03-27 23:23:03,31.046051000000002,34.851612,3421,12,69,2944,Israel
 ,,,Italy,2020-03-27 23:23:03,41.87194,12.56738,86498,9134,10950,66414,Italy
 ,,,Jamaica,2020-03-27 23:23:03,18.1096,-77.2975,26,1,2,23,Jamaica
 ,,,Japan,2020-03-27 23:23:03,36.204824,138.252924,1468,49,372,1047,Japan
@@ -3393,6 +3393,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,2020-03-27 23:23:03,17.357822,-62.782998,2,0,0,2,Saint Kitts and Nevis
 ,,,Saint Lucia,2020-03-27 23:23:03,13.9094,-60.9789,3,0,1,2,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-03-27 23:23:03,12.9843,-61.2872,1,0,0,1,Saint Vincent and the Grenadines
+,,,Samoa,2020-03-27 23:27:32,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,2020-03-27 23:23:03,43.9424,12.4578,223,21,4,198,San Marino
 ,,,Saudi Arabia,2020-03-27 23:23:03,23.885942,45.079162,1104,3,35,1066,Saudi Arabia
 ,,,Senegal,2020-03-27 23:23:03,14.4974,-14.4524,119,0,11,108,Senegal

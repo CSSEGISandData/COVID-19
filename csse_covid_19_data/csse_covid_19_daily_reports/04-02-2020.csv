@@ -22,7 +22,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6001,Alameda,California,US,4/2/20 23:25,37.64629437,-121.8929271,359,8,0,0,"Alameda, California, US"
 8003,Alamosa,Colorado,US,4/2/20 23:25,37.57250606,-105.7885451,4,0,0,0,"Alamosa, Colorado, US"
 36001,Albany,New York,US,4/2/20 23:25,42.60060306,-73.97723916,253,2,0,0,"Albany, New York, US"
-56001,Albany,Wyoming,US,4/2/20 23:25,41.65498705,-105.7235415,3,0,0,0,"Albany, Wyoming, US"
+56001,Albany,Wyoming,US,4/2/20 23:25,41.65498705,-105.7235415,4,0,0,0,"Albany, Wyoming, US"
 51003,Albemarle,Virginia,US,4/2/20 23:25,38.02080697,-78.55481085,23,0,0,0,"Albemarle, Virginia, US"
 28003,Alcorn,Mississippi,US,4/2/20 23:25,34.88084463,-88.57996173,3,0,0,0,"Alcorn, Mississippi, US"
 37003,Alexander,North Carolina,US,4/2/20 23:25,35.9223796,-81.17751948,2,0,0,0,"Alexander, North Carolina, US"
@@ -2391,7 +2391,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,4/2/20 23:31,64.2823,-135.0,6,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,4/1/20 23:43,24.974,101.487,183,2,172,9,"Yunnan, China"
 ,,Zhejiang,China,4/2/20 1:20,29.1832,120.0934,1258,1,1228,29,"Zhejiang, China"
-,,,Afghanistan,4/2/20 23:25,33.93911,67.709953,273,6,10,257,Afghanistan
+,,,Afghanistan,4/2/20 23:25,33.93911,67.709953,240,4,10,257,Afghanistan
 ,,,Albania,4/2/20 23:25,41.1533,20.1683,277,16,76,185,Albania
 ,,,Algeria,4/2/20 23:25,28.0339,1.6596,986,86,61,839,Algeria
 ,,,Andorra,4/2/20 23:25,42.5063,1.5218,428,15,10,403,Andorra
@@ -2471,7 +2471,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,4/2/20 23:25,32.427908,53.688046,50468,3160,16711,30597,Iran
 ,,,Iraq,4/2/20 23:25,33.223191,43.679291,772,54,202,516,Iraq
 ,,,Ireland,4/2/20 23:25,53.1424,-7.6921,3849,98,5,3746,Ireland
-,,,Israel,4/2/20 23:25,31.046051,34.851612,6857,36,338,6483,Israel
+,,,Israel,4/2/20 23:25,31.046051,34.851612,7132,38,597,6483,Israel
 ,,,Italy,4/2/20 23:25,41.87194,12.56738,115242,13915,18278,83049,Italy
 ,,,Jamaica,4/2/20 23:25,18.1096,-77.2975,47,3,2,42,Jamaica
 ,,,Japan,4/2/20 23:25,36.204824,138.252924,2495,62,472,1961,Japan
@@ -2531,6 +2531,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Kitts and Nevis,4/2/20 23:25,17.357822,-62.782998,9,0,0,9,Saint Kitts and Nevis
 ,,,Saint Lucia,4/2/20 23:25,13.9094,-60.9789,13,0,1,12,Saint Lucia
 ,,,Saint Vincent and the Grenadines,4/2/20 23:25,12.9843,-61.2872,2,0,1,1,Saint Vincent and the Grenadines
+,,,Samoa,4/2/20 23:31,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,4/2/20 23:25,43.9424,12.4578,245,30,21,194,San Marino
 ,,,Saudi Arabia,4/2/20 23:25,23.885942,45.079162,1885,21,328,1536,Saudi Arabia
 ,,,Senegal,4/2/20 23:25,14.4974,-14.4524,195,1,55,139,Senegal
