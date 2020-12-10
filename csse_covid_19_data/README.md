@@ -220,8 +220,10 @@ Date: Location | Change | Reason/Other notes | Source
 * November 10: Louisiana, US | Inclusion of probable cases from August 26 through November 9 and ongoing inclusion of probable cases. Probables are aggregated in the Unassigned, Louisiana entry
 * November 16: Louisiana, US | Disbursement of probable cases from Unassigned, Louisiana to the county level. Probables will be at the county level moving forward.
 * December 2: Kazakhstan | Back-distrubution of probable cases, deaths, and recoveries from official sources and coincident reporting including the Ministry of Health of the Repulbic of Kazakhstan, the European Commission Joint Research Center, the European Centre for Disease Prevention and Control, and Tengrinews
+* December 2: Alabama, US | Addition of backlog of 706 PCR results from November 23 to 29 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
 * December 4: Massachusetts, US | Addition of historical cases from December 1 | "Today’s case numbers include 680 positive cases tested by one Massachusetts-based laboratory prior to December 1. The delay in reporting was caused by a technical issue with the software used by that laboratory’s reporting vendor." | [Massachusetts dashboard](https://www.mass.gov/info-details/covid-19-response-reporting).
-* December 4: Guam, US | Back-distribution of probable cases and deaths from official sources | | [Guam Dashboard](https://dphss.guam.gov/covid-19/)
+* December 9: Ohio, US | Addition of nearly 13000 backlogged antigen tests | [News source](https://www.cleveland.com/open/2020/12/ohio-reports-25721-new-coronavirus-cases-an-expected-one-day-record-due-to-clearing-backlog-tuesday-update.html)
+* December 9: Alabama, US | Addition of backlog of 1038 PCR and 473 probable cases from November 30 - December 5 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -243,6 +245,7 @@ Date: Location | File | Change | Data source for change
 * November 18: Alabama, US | Back distribution of probable case spike on September 15
 * November 22: Texas,US | Introduction of probable cases for Brazos, Denton, and Dallas counties | Data was back distributed based on historical reporting from local government sources
 * December 2: Kazakhstan | Reporting in Kazahkstan has been modified to include probable cases, deaths, and recoveries.  
+* December 4: Guam, US | Back-distribution of probable cases and deaths from official sources | | [Guam Dashboard](https://dphss.guam.gov/covid-19/)
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
