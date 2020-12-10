@@ -25,7 +25,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6001,Alameda,California,US,2020-04-28 02:30:51,37.64629437,-121.8929271,1500,52,0,1448,"Alameda, California, US"
 8003,Alamosa,Colorado,US,2020-04-28 02:30:51,37.57250606,-105.7885451,10,2,0,8,"Alamosa, Colorado, US"
 36001,Albany,New York,US,2020-04-26 00:00:00,42.60060306,-73.97723916,979,36,0,943,"Albany, New York, US"
-56001,Albany,Wyoming,US,2020-04-28 02:30:51,41.65498705,-105.7235415,8,0,0,7,"Albany, Wyoming, US"
+56001,Albany,Wyoming,US,2020-04-28 02:30:51,41.65498705,-105.7235415,7,0,0,7,"Albany, Wyoming, US"
 51003,Albemarle,Virginia,US,2020-04-28 02:30:51,38.02080697,-78.55481085,77,3,0,74,"Albemarle, Virginia, US"
 26001,Alcona,Michigan,US,2020-04-28 02:30:51,44.6846864,-83.59507875,4,0,0,4,"Alcona, Michigan, US"
 28003,Alcorn,Mississippi,US,2020-04-28 02:30:51,34.88084463,-88.57996173,8,0,0,8,"Alcorn, Mississippi, US"
