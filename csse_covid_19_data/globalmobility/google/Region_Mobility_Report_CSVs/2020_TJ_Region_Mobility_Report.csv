@@ -1,0 +1,593 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+TJ,Tajikistan,,,,,,2020-02-15,-1,-3,-11,-1,14,0
+TJ,Tajikistan,,,,,,2020-02-16,2,-1,-2,2,2,-2
+TJ,Tajikistan,,,,,,2020-02-17,2,1,-2,1,15,-2
+TJ,Tajikistan,,,,,,2020-02-18,-7,-5,-10,-3,14,-1
+TJ,Tajikistan,,,,,,2020-02-19,-3,0,-5,-1,17,-1
+TJ,Tajikistan,,,,,,2020-02-20,3,1,0,3,18,-2
+TJ,Tajikistan,,,,,,2020-02-21,5,5,-1,4,17,-3
+TJ,Tajikistan,,,,,,2020-02-22,5,5,-1,6,17,-3
+TJ,Tajikistan,,,,,,2020-02-23,9,5,8,6,5,-4
+TJ,Tajikistan,,,,,,2020-02-24,1,0,-2,1,15,-2
+TJ,Tajikistan,,,,,,2020-02-25,1,2,-1,0,17,-3
+TJ,Tajikistan,,,,,,2020-02-26,-3,1,-4,-1,17,-2
+TJ,Tajikistan,,,,,,2020-02-27,-9,-8,-15,-3,15,0
+TJ,Tajikistan,,,,,,2020-02-28,-2,1,-9,2,18,-1
+TJ,Tajikistan,,,,,,2020-02-29,2,3,-4,6,19,-3
+TJ,Tajikistan,,,,,,2020-03-01,1,-4,6,6,5,-5
+TJ,Tajikistan,,,,,,2020-03-02,4,5,0,3,17,-6
+TJ,Tajikistan,,,,,,2020-03-03,3,6,-2,3,20,-5
+TJ,Tajikistan,,,,,,2020-03-04,-1,10,-10,3,21,-3
+TJ,Tajikistan,,,,,,2020-03-05,0,8,-11,2,19,-2
+TJ,Tajikistan,,,,,,2020-03-06,8,14,-1,7,24,-3
+TJ,Tajikistan,,,,,,2020-03-07,3,9,-10,4,17,-1
+TJ,Tajikistan,,,,,,2020-03-08,9,8,2,5,8,-2
+TJ,Tajikistan,,,,,,2020-03-09,-9,-4,-9,-10,-29,5
+TJ,Tajikistan,,,,,,2020-03-10,-2,3,-8,1,19,-3
+TJ,Tajikistan,,,,,,2020-03-11,-3,4,-7,2,22,-2
+TJ,Tajikistan,,,,,,2020-03-12,0,0,-5,3,22,-2
+TJ,Tajikistan,,,,,,2020-03-13,3,4,0,7,22,-3
+TJ,Tajikistan,,,,,,2020-03-14,2,3,4,9,21,-3
+TJ,Tajikistan,,,,,,2020-03-15,1,4,6,5,10,-3
+TJ,Tajikistan,,,,,,2020-03-16,2,7,1,9,19,-4
+TJ,Tajikistan,,,,,,2020-03-17,-1,5,1,6,19,-4
+TJ,Tajikistan,,,,,,2020-03-18,-1,8,2,2,19,-4
+TJ,Tajikistan,,,,,,2020-03-19,1,4,1,-1,17,-4
+TJ,Tajikistan,,,,,,2020-03-20,2,7,4,0,9,-5
+TJ,Tajikistan,,,,,,2020-03-21,-19,-15,-3,-12,-26,4
+TJ,Tajikistan,,,,,,2020-03-22,-9,-17,14,-11,-4,-3
+TJ,Tajikistan,,,,,,2020-03-23,-21,-16,-11,-26,-33,4
+TJ,Tajikistan,,,,,,2020-03-24,-21,-17,-13,-25,-30,3
+TJ,Tajikistan,,,,,,2020-03-25,-20,-13,-17,-24,-26,4
+TJ,Tajikistan,,,,,,2020-03-26,-12,-11,-8,-20,-9,1
+TJ,Tajikistan,,,,,,2020-03-27,-9,-5,-6,-16,8,1
+TJ,Tajikistan,,,,,,2020-03-28,-8,-6,-5,-17,13,-1
+TJ,Tajikistan,,,,,,2020-03-29,-8,-8,4,-17,10,-3
+TJ,Tajikistan,,,,,,2020-03-30,-8,-4,-3,-16,10,-2
+TJ,Tajikistan,,,,,,2020-03-31,-13,-7,-15,-20,9,-2
+TJ,Tajikistan,,,,,,2020-04-01,-16,-11,-21,-22,10,0
+TJ,Tajikistan,,,,,,2020-04-02,-4,-4,-5,-16,13,-3
+TJ,Tajikistan,,,,,,2020-04-03,-2,-2,-4,-10,15,-3
+TJ,Tajikistan,,,,,,2020-04-04,-5,-3,-4,-12,15,-2
+TJ,Tajikistan,,,,,,2020-04-05,-6,-6,0,-15,6,-2
+TJ,Tajikistan,,,,,,2020-04-06,-5,-4,-7,-16,14,-2
+TJ,Tajikistan,,,,,,2020-04-07,-7,-7,-11,-17,12,-2
+TJ,Tajikistan,,,,,,2020-04-08,-17,-12,-21,-20,13,1
+TJ,Tajikistan,,,,,,2020-04-09,-16,-20,-18,-20,6,2
+TJ,Tajikistan,,,,,,2020-04-10,-3,-4,-5,-12,15,-1
+TJ,Tajikistan,,,,,,2020-04-11,-9,-8,-14,-15,15,0
+TJ,Tajikistan,,,,,,2020-04-12,-13,-13,-15,-21,-1,1
+TJ,Tajikistan,,,,,,2020-04-13,-12,-10,-17,-21,13,0
+TJ,Tajikistan,,,,,,2020-04-14,-12,-10,-14,-18,12,-1
+TJ,Tajikistan,,,,,,2020-04-15,-17,-13,-17,-21,11,2
+TJ,Tajikistan,,,,,,2020-04-16,-3,-5,-5,-14,13,-2
+TJ,Tajikistan,,,,,,2020-04-17,-3,-3,-2,-13,14,-2
+TJ,Tajikistan,,,,,,2020-04-18,-6,-5,-4,-18,9,-2
+TJ,Tajikistan,,,,,,2020-04-19,-7,-9,0,-23,-2,-2
+TJ,Tajikistan,,,,,,2020-04-20,-8,-7,-3,-22,10,-2
+TJ,Tajikistan,,,,,,2020-04-21,-11,-9,-8,-21,9,-3
+TJ,Tajikistan,,,,,,2020-04-22,-11,-9,-10,-21,8,-1
+TJ,Tajikistan,,,,,,2020-04-23,-12,-6,-12,-21,7,0
+TJ,Tajikistan,,,,,,2020-04-24,-26,-16,-20,-28,3,6
+TJ,Tajikistan,,,,,,2020-04-25,-27,-17,-23,-31,1,7
+TJ,Tajikistan,,,,,,2020-04-26,-29,-22,-21,-32,-5,6
+TJ,Tajikistan,,,,,,2020-04-27,-29,-22,-20,-35,-9,7
+TJ,Tajikistan,,,,,,2020-04-28,-32,-23,-23,-35,-12,6
+TJ,Tajikistan,,,,,,2020-04-29,-32,-20,-22,-37,-12,8
+TJ,Tajikistan,,,,,,2020-04-30,-31,-23,-21,-38,-18,7
+TJ,Tajikistan,,,,,,2020-05-01,-38,-26,-30,-40,-29,11
+TJ,Tajikistan,,,,,,2020-05-02,-44,-36,-33,-47,-32,14
+TJ,Tajikistan,,,,,,2020-05-03,-46,-43,-32,-50,-27,12
+TJ,Tajikistan,,,,,,2020-05-04,-47,-38,-31,-51,-37,16
+TJ,Tajikistan,,,,,,2020-05-05,-48,-38,-32,-52,-40,16
+TJ,Tajikistan,,,,,,2020-05-06,-47,-35,-31,-48,-39,17
+TJ,Tajikistan,,,,,,2020-05-07,-45,-37,-32,-48,-40,16
+TJ,Tajikistan,,,,,,2020-05-08,-45,-36,-33,-48,-39,17
+TJ,Tajikistan,,,,,,2020-05-09,-49,-40,-34,-51,-40,17
+TJ,Tajikistan,,,,,,2020-05-10,-47,-41,-30,-47,-26,12
+TJ,Tajikistan,,,,,,2020-05-11,-46,-36,-32,-52,-47,17
+TJ,Tajikistan,,,,,,2020-05-12,-44,-35,-32,-47,-38,14
+TJ,Tajikistan,,,,,,2020-05-13,-48,-35,-35,-53,-39,16
+TJ,Tajikistan,,,,,,2020-05-14,-50,-42,-36,-54,-42,17
+TJ,Tajikistan,,,,,,2020-05-15,-43,-33,-28,-46,-37,16
+TJ,Tajikistan,,,,,,2020-05-16,-47,-38,-35,-48,-34,16
+TJ,Tajikistan,,,,,,2020-05-17,-44,-40,-23,-43,-20,11
+TJ,Tajikistan,,,,,,2020-05-18,-47,-39,-35,-50,-37,16
+TJ,Tajikistan,,,,,,2020-05-19,-42,-34,-30,-46,-35,14
+TJ,Tajikistan,,,,,,2020-05-20,-44,-34,-33,-46,-36,15
+TJ,Tajikistan,,,,,,2020-05-21,-40,-33,-30,-45,-36,15
+TJ,Tajikistan,,,,,,2020-05-22,-37,-28,-30,-43,-33,15
+TJ,Tajikistan,,,,,,2020-05-23,-37,-26,-31,-40,-32,13
+TJ,Tajikistan,,,,,,2020-05-24,-48,-49,-22,-46,-34,6
+TJ,Tajikistan,,,,,,2020-05-25,-48,-41,-26,-50,-52,14
+TJ,Tajikistan,,,,,,2020-05-26,-39,-34,-26,-44,-34,9
+TJ,Tajikistan,,,,,,2020-05-27,-38,-32,-27,-45,-33,10
+TJ,Tajikistan,,,,,,2020-05-28,-36,-35,-27,-41,-33,10
+TJ,Tajikistan,,,,,,2020-05-29,-35,-30,-26,-42,-30,10
+TJ,Tajikistan,,,,,,2020-05-30,-37,-34,-28,-44,-26,9
+TJ,Tajikistan,,,,,,2020-05-31,-33,-34,-22,-37,-13,4
+TJ,Tajikistan,,,,,,2020-06-01,-28,-23,-19,-39,-25,5
+TJ,Tajikistan,,,,,,2020-06-02,-30,-26,-22,-40,-25,5
+TJ,Tajikistan,,,,,,2020-06-03,-29,-22,-21,-37,-24,7
+TJ,Tajikistan,,,,,,2020-06-04,-28,-25,-21,-36,-23,7
+TJ,Tajikistan,,,,,,2020-06-05,-26,-21,-19,-34,-23,7
+TJ,Tajikistan,,,,,,2020-06-06,-29,-25,-20,-33,-19,6
+TJ,Tajikistan,,,,,,2020-06-07,-27,-27,-14,-32,-7,3
+TJ,Tajikistan,,,,,,2020-06-08,-24,-19,-19,-32,-22,5
+TJ,Tajikistan,,,,,,2020-06-09,-27,-23,-20,-31,-21,4
+TJ,Tajikistan,,,,,,2020-06-10,-28,-21,-22,-32,-21,5
+TJ,Tajikistan,,,,,,2020-06-11,-26,-23,-20,-35,-21,5
+TJ,Tajikistan,,,,,,2020-06-12,-24,-19,-18,-32,-20,6
+TJ,Tajikistan,,,,,,2020-06-13,-27,-23,-19,-32,-16,5
+TJ,Tajikistan,,,,,,2020-06-14,-26,-25,-14,-30,-8,1
+TJ,Tajikistan,,,,,,2020-06-15,-19,-14,-14,-31,-16,3
+TJ,Tajikistan,,,,,,2020-06-16,-19,-12,-16,-29,-15,2
+TJ,Tajikistan,,,,,,2020-06-17,-20,-10,-18,-31,-15,3
+TJ,Tajikistan,,,,,,2020-06-18,-20,-15,-15,-33,-15,2
+TJ,Tajikistan,,,,,,2020-06-19,-17,-11,-16,-29,-13,3
+TJ,Tajikistan,,,,,,2020-06-20,-20,-14,-17,-30,-10,2
+TJ,Tajikistan,,,,,,2020-06-21,-18,-16,-9,-25,-2,-2
+TJ,Tajikistan,,,,,,2020-06-22,-17,-11,-14,-28,-15,1
+TJ,Tajikistan,,,,,,2020-06-23,-19,-11,-16,-29,-15,0
+TJ,Tajikistan,,,,,,2020-06-24,-19,-11,-17,-30,-14,2
+TJ,Tajikistan,,,,,,2020-06-25,-17,-15,-17,-26,-14,1
+TJ,Tajikistan,,,,,,2020-06-26,-17,-11,-15,-26,-14,1
+TJ,Tajikistan,,,,,,2020-06-27,-21,-14,-16,-29,-18,2
+TJ,Tajikistan,,,,,,2020-06-28,-19,-16,-11,-23,-2,-1
+TJ,Tajikistan,,,,,,2020-06-29,-21,-13,-18,-30,-28,4
+TJ,Tajikistan,,,,,,2020-06-30,-17,-12,-15,-25,-16,-1
+TJ,Tajikistan,,,,,,2020-07-01,-19,-10,-13,-24,-14,0
+TJ,Tajikistan,,,,,,2020-07-02,-16,-12,-13,-26,-15,-1
+TJ,Tajikistan,,,,,,2020-07-03,-13,-10,-11,-20,-13,1
+TJ,Tajikistan,,,,,,2020-07-04,-15,-9,-11,-22,-9,0
+TJ,Tajikistan,,,,,,2020-07-05,-11,-10,-5,-15,1,-3
+TJ,Tajikistan,,,,,,2020-07-06,-11,-6,-9,-21,-13,-1
+TJ,Tajikistan,,,,,,2020-07-07,-13,-6,-9,-18,-12,-2
+TJ,Tajikistan,,,,,,2020-07-08,-15,-7,-12,-23,-11,0
+TJ,Tajikistan,,,,,,2020-07-09,-14,-10,-11,-24,-11,0
+TJ,Tajikistan,,,,,,2020-07-10,-12,-11,-9,-21,-12,0
+TJ,Tajikistan,,,,,,2020-07-11,-14,-10,-15,-23,-9,-1
+TJ,Tajikistan,,,,,,2020-07-12,-12,-12,-5,-21,3,-4
+TJ,Tajikistan,,,,,,2020-07-13,-11,-8,-9,-25,-11,-1
+TJ,Tajikistan,,,,,,2020-07-14,-13,-10,-10,-24,-12,-1
+TJ,Tajikistan,,,,,,2020-07-15,-15,-9,-15,-25,-12,0
+TJ,Tajikistan,,,,,,2020-07-16,-13,-12,-14,-24,-12,-1
+TJ,Tajikistan,,,,,,2020-07-17,-12,-12,-12,-23,-12,0
+TJ,Tajikistan,,,,,,2020-07-18,-15,-11,-13,-25,-9,0
+TJ,Tajikistan,,,,,,2020-07-19,-13,-12,-4,-20,3,-3
+TJ,Tajikistan,,,,,,2020-07-20,-10,-10,-9,-26,-14,-1
+TJ,Tajikistan,,,,,,2020-07-21,-14,-11,-11,-22,-14,-2
+TJ,Tajikistan,,,,,,2020-07-22,-15,-10,-15,-27,-13,0
+TJ,Tajikistan,,,,,,2020-07-23,-13,-12,-16,-26,-12,-1
+TJ,Tajikistan,,,,,,2020-07-24,-12,-12,-12,-26,-14,0
+TJ,Tajikistan,,,,,,2020-07-25,-13,-10,-13,-27,-9,0
+TJ,Tajikistan,,,,,,2020-07-26,-13,-13,-9,-24,1,-3
+TJ,Tajikistan,,,,,,2020-07-27,-11,-6,-12,-25,-14,-1
+TJ,Tajikistan,,,,,,2020-07-28,-12,-6,-13,-24,-15,-2
+TJ,Tajikistan,,,,,,2020-07-29,-10,0,-17,-24,-15,-2
+TJ,Tajikistan,,,,,,2020-07-30,-9,4,-16,-23,-20,-2
+TJ,Tajikistan,,,,,,2020-07-31,-40,-40,-14,-43,-60,3
+TJ,Tajikistan,,,,,,2020-08-01,-29,-22,-13,-34,-31,-2
+TJ,Tajikistan,,,,,,2020-08-02,-15,-15,-5,-23,-3,-5
+TJ,Tajikistan,,,,,,2020-08-03,-8,-6,-8,-26,-16,-3
+TJ,Tajikistan,,,,,,2020-08-04,-7,-4,-11,-23,-14,-4
+TJ,Tajikistan,,,,,,2020-08-05,-9,-2,-14,-26,-12,-2
+TJ,Tajikistan,,,,,,2020-08-06,-8,-5,-12,-25,-13,-2
+TJ,Tajikistan,,,,,,2020-08-07,-7,-7,-8,-24,-12,-2
+TJ,Tajikistan,,,,,,2020-08-08,-8,-4,-9,-23,-8,-3
+TJ,Tajikistan,,,,,,2020-08-09,-5,-4,-2,-22,2,-5
+TJ,Tajikistan,,,,,,2020-08-10,-3,1,-7,-22,-13,-4
+TJ,Tajikistan,,,,,,2020-08-11,-5,1,-9,-21,-13,-5
+TJ,Tajikistan,,,,,,2020-08-12,-6,3,-11,-23,-12,-3
+TJ,Tajikistan,,,,,,2020-08-13,-4,1,-9,-21,-13,-3
+TJ,Tajikistan,,,,,,2020-08-14,-2,0,-6,-19,-13,-3
+TJ,Tajikistan,,,,,,2020-08-15,0,6,-6,-15,-9,-4
+TJ,Tajikistan,,,,,,2020-08-16,7,9,2,-7,1,-5
+TJ,Tajikistan,,,,,,2020-08-17,3,4,-2,-15,-15,-4
+TJ,Tajikistan,,,,,,2020-08-18,0,3,-6,-17,-12,-4
+TJ,Tajikistan,,,,,,2020-08-19,-3,3,-8,-16,-13,-3
+TJ,Tajikistan,,,,,,2020-08-20,-2,-4,-8,-19,-14,-2
+TJ,Tajikistan,,,,,,2020-08-21,-2,-5,-7,-20,-14,-2
+TJ,Tajikistan,,,,,,2020-08-22,-5,-4,-7,-21,-9,-2
+TJ,Tajikistan,,,,,,2020-08-23,-3,-4,-2,-19,-3,-3
+TJ,Tajikistan,,,,,,2020-08-24,0,-1,-5,-18,-13,-3
+TJ,Tajikistan,,,,,,2020-08-25,-2,-2,-8,-17,-13,-4
+TJ,Tajikistan,,,,,,2020-08-26,-5,-2,-13,-20,-12,-2
+TJ,Tajikistan,,,,,,2020-08-27,-3,-3,-10,-21,-12,-2
+TJ,Tajikistan,,,,,,2020-08-28,-3,-5,-9,-20,-13,-2
+TJ,Tajikistan,,,,,,2020-08-29,-4,-4,-11,-23,-9,-2
+TJ,Tajikistan,,,,,,2020-08-30,-3,-5,-9,-17,-4,-3
+TJ,Tajikistan,,,,,,2020-08-31,1,-1,-9,-19,-13,-3
+TJ,Tajikistan,,,,,,2020-09-01,-1,0,-8,-16,-14,-4
+TJ,Tajikistan,,,,,,2020-09-02,-4,-1,-10,-19,-12,-2
+TJ,Tajikistan,,,,,,2020-09-03,-2,-4,-11,-22,-14,-2
+TJ,Tajikistan,,,,,,2020-09-04,-1,-4,-9,-20,-13,-1
+TJ,Tajikistan,,,,,,2020-09-05,0,-2,-10,-22,-8,-2
+TJ,Tajikistan,,,,,,2020-09-06,0,-2,-9,-22,-6,-2
+TJ,Tajikistan,,,,,,2020-09-07,1,0,-7,-21,-13,-2
+TJ,Tajikistan,,,,,,2020-09-08,3,2,-6,-19,-11,-4
+TJ,Tajikistan,,,,,,2020-09-09,-14,-7,-15,-31,-39,8
+TJ,Tajikistan,,,,,,2020-09-10,1,-2,-10,-18,-12,0
+TJ,Tajikistan,,,,,,2020-09-11,3,-3,-10,-21,-12,1
+TJ,Tajikistan,,,,,,2020-09-12,1,-2,-11,-25,-8,1
+TJ,Tajikistan,,,,,,2020-09-13,1,-5,-9,-24,-9,0
+TJ,Tajikistan,,,,,,2020-09-14,2,-1,-5,-24,-5,0
+TJ,Tajikistan,,,,,,2020-09-15,1,-2,-7,-21,-5,0
+TJ,Tajikistan,,,,,,2020-09-16,-3,-5,-12,-28,-9,1
+TJ,Tajikistan,,,,,,2020-09-17,-2,-4,-14,-25,-7,1
+TJ,Tajikistan,,,,,,2020-09-18,-3,-8,-16,-26,-8,3
+TJ,Tajikistan,,,,,,2020-09-19,1,-2,-13,-25,-5,2
+TJ,Tajikistan,,,,,,2020-09-20,-1,-5,-13,-22,-10,2
+TJ,Tajikistan,,,,,,2020-09-21,0,-1,-8,-25,-7,1
+TJ,Tajikistan,,,,,,2020-09-22,-4,-5,-13,-25,-8,1
+TJ,Tajikistan,,,,,,2020-09-23,-10,-5,-21,-27,-9,2
+TJ,Tajikistan,,,,,,2020-09-24,-10,-8,-22,-26,-11,2
+TJ,Tajikistan,,,,,,2020-09-25,-10,-10,-22,-23,-10,3
+TJ,Tajikistan,,,,,,2020-09-26,-8,-7,-19,-26,-8,2
+TJ,Tajikistan,,,,,,2020-09-27,-10,-9,-20,-27,-18,2
+TJ,Tajikistan,,,,,,2020-09-28,-9,-7,-19,-28,-7,2
+TJ,Tajikistan,,,,,,2020-09-29,-11,-8,-24,-26,-9,1
+TJ,Tajikistan,,,,,,2020-09-30,-12,-7,-29,-27,-11,0
+TJ,Tajikistan,,,,,,2020-10-01,-11,-9,-30,-25,-12,-5
+TJ,Tajikistan,,,,,,2020-10-02,-10,-10,-30,-24,-11,-4
+TJ,Tajikistan,,,,,,2020-10-03,-8,-7,-28,-26,-12,-4
+TJ,Tajikistan,,,,,,2020-10-04,-9,-7,-26,-26,-25,-2
+TJ,Tajikistan,,,,,,2020-10-05,-9,-7,-25,-24,-11,-4
+TJ,Tajikistan,,,,,,2020-10-06,-11,-8,-28,-25,-10,-4
+TJ,Tajikistan,,,,,,2020-10-07,-12,-7,-28,-25,-7,-3
+TJ,Tajikistan,,,,,,2020-10-08,-11,-9,-27,-26,-6,-1
+TJ,Tajikistan,,,,,,2020-10-09,-11,-14,-29,-29,-4,2
+TJ,Tajikistan,,,,,,2020-10-10,-10,-8,-29,-29,-2,4
+TJ,Tajikistan,,,,,,2020-10-11,-11,-10,-26,-28,-15,4
+TJ,Tajikistan,,,,,,2020-10-12,-8,-5,-24,-26,-4,2
+TJ,Tajikistan,,,,,,2020-10-13,-9,-7,-24,-24,-3,1
+TJ,Tajikistan,,,,,,2020-10-14,-12,-5,-28,-23,-3,1
+TJ,Tajikistan,,,,,,2020-10-15,-12,-8,-26,-22,-7,2
+TJ,Tajikistan,,,,,,2020-10-16,-11,-10,-28,-19,-7,2
+TJ,Tajikistan,,,,,,2020-10-17,-12,-8,-24,-22,-7,2
+TJ,Tajikistan,,,,,,2020-10-18,-10,-8,-21,-22,-20,2
+TJ,Tajikistan,,,,,,2020-10-19,-10,-7,-24,-23,-3,0
+TJ,Tajikistan,,,,,,2020-10-20,-10,-7,-25,-23,-1,1
+TJ,Tajikistan,,,,,,2020-10-21,-12,-5,-24,-26,-1,3
+TJ,Tajikistan,,,,,,2020-10-22,-11,-6,-22,-28,-3,3
+TJ,Tajikistan,,,,,,2020-10-23,-10,-8,-23,-28,-2,4
+TJ,Tajikistan,,,,,,2020-10-24,-7,-3,-21,-26,-2,3
+TJ,Tajikistan,,,,,,2020-10-25,-9,-5,-21,-30,-18,2
+TJ,Tajikistan,,,,,,2020-10-26,-9,-3,-19,-29,-1,2
+TJ,Tajikistan,,,,,,2020-10-27,-9,-5,-20,-28,-1,1
+TJ,Tajikistan,,,,,,2020-10-28,-14,-9,-28,-29,-1,3
+TJ,Tajikistan,,,,,,2020-10-29,-12,-10,-33,-28,-4,3
+TJ,Tajikistan,,,,,,2020-10-30,-14,-14,-31,-25,-7,4
+TJ,Tajikistan,,,,,,2020-10-31,-12,-11,-29,-28,-7,3
+TJ,Tajikistan,,,,,,2020-11-01,-13,-12,-27,-28,-25,2
+TJ,Tajikistan,,,,,,2020-11-02,-11,-8,-27,-28,-7,1
+TJ,Tajikistan,,,,,,2020-11-03,-9,-6,-25,-23,-6,0
+TJ,Tajikistan,,,,,,2020-11-04,-11,-6,-28,-23,-5,1
+TJ,Tajikistan,,,,,,2020-11-05,-8,-7,-27,-19,-8,1
+TJ,Tajikistan,,,,,,2020-11-06,-19,-16,-32,-29,-44,10
+TJ,Tajikistan,,,,,,2020-11-07,-11,-10,-29,-25,-12,4
+TJ,Tajikistan,,,,,,2020-11-08,-10,-10,-25,-23,-20,3
+TJ,Tajikistan,,,,,,2020-11-09,-11,-7,-25,-24,-5,2
+TJ,Tajikistan,,,,,,2020-11-10,-10,-6,-27,-23,-4,2
+TJ,Tajikistan,,,,,,2020-11-11,-12,-6,-29,-24,-1,3
+TJ,Tajikistan,,,,,,2020-11-12,-15,-12,-33,-26,-3,4
+TJ,Tajikistan,,,,,,2020-11-13,-13,-13,-30,-24,-2,4
+TJ,Tajikistan,,,,,,2020-11-14,-16,-13,-35,-29,-4,6
+TJ,Tajikistan,,,,,,2020-11-15,-8,-4,-28,-23,-20,5
+TJ,Tajikistan,,,,,,2020-11-16,-9,-6,-24,-25,0,2
+TJ,Tajikistan,,,,,,2020-11-17,-9,-5,-26,-20,1,1
+TJ,Tajikistan,,,,,,2020-11-18,-14,-7,-31,-26,1,4
+TJ,Tajikistan,,,,,,2020-11-19,-15,-12,-32,-30,-3,5
+TJ,Tajikistan,,,,,,2020-11-20,-12,-11,-33,-22,-1,5
+TJ,Tajikistan,,,,,,2020-11-21,-7,-6,-30,-23,0,4
+TJ,Tajikistan,,,,,,2020-11-22,-10,-8,-30,-22,-20,5
+TJ,Tajikistan,,,,,,2020-11-23,-11,-10,-26,-25,1,3
+TJ,Tajikistan,,,,,,2020-11-24,-12,-10,-27,-25,2,3
+TJ,Tajikistan,,,,,,2020-11-25,-16,-10,-32,-25,1,5
+TJ,Tajikistan,,,,,,2020-11-26,-10,-10,-29,-25,0,3
+TJ,Tajikistan,,,,,,2020-11-27,-11,-12,-28,-23,0,4
+TJ,Tajikistan,,,,,,2020-11-28,-9,-10,-30,-27,0,5
+TJ,Tajikistan,,,,,,2020-11-29,-6,-9,-26,-23,-19,5
+TJ,Tajikistan,,,,,,2020-11-30,-10,-7,-25,-25,2,3
+TJ,Tajikistan,,,,,,2020-12-01,-8,-6,-26,-22,3,2
+TJ,Tajikistan,,,,,,2020-12-02,-8,-2,-28,-23,5,3
+TJ,Tajikistan,,,,,,2020-12-03,-7,-5,-27,-23,3,3
+TJ,Tajikistan,,,,,,2020-12-04,-8,-9,-30,-22,3,4
+TJ,Tajikistan,,,,,,2020-12-05,-5,-3,-28,-24,1,4
+TJ,Tajikistan,,,,,,2020-12-06,-5,-6,-25,-22,-18,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-15,-1,0,-4,-16,17,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-16,8,5,14,-5,0,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-17,7,6,12,-9,17,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-18,-4,-4,-8,-14,17,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-19,1,1,6,-6,19,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-20,8,6,15,-3,18,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-21,11,10,9,-4,17,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-22,10,10,13,-6,20,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-23,16,9,26,-4,2,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-24,7,4,7,-9,15,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-25,8,4,12,-7,19,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-26,2,2,13,-6,18,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-27,-5,-5,-7,-16,17,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-28,2,5,0,-9,18,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-02-29,8,10,12,-7,21,-4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-01,5,-5,24,-6,-2,-4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-02,12,12,18,-8,16,-6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-03,11,12,16,-4,22,-5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-04,6,15,3,-3,22,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-05,6,12,-1,-8,17,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-06,15,20,11,-4,23,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-07,8,10,-1,-10,16,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-08,12,8,10,-5,2,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-09,-4,3,0,-25,-39,8
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-10,2,3,-5,-2,18,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-11,1,4,4,-11,21,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-12,5,5,5,-11,21,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-13,9,11,17,-7,22,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-14,8,11,24,-6,24,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-15,9,10,25,-8,7,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-16,9,13,19,-2,19,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-17,5,7,15,-4,19,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-18,5,11,23,-6,17,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-19,5,8,19,-13,13,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-20,4,10,11,-17,4,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-21,-28,-27,-8,-38,-42,8
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-22,-15,-23,20,-31,-15,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-23,-23,-17,-12,-48,-44,8
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-24,-19,-16,-14,-39,-39,6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-25,-19,-13,-16,-39,-35,8
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-26,-8,-5,2,-38,-13,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-27,-6,-4,4,-33,3,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-28,-6,-3,7,-35,11,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-29,-4,-5,19,-36,6,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-30,-2,2,11,-34,10,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-03-31,-9,-3,-11,-28,8,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-01,-13,-8,-16,-29,8,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-02,3,4,14,-24,10,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-03,2,5,10,-20,12,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-04,-1,4,13,-24,17,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-05,-1,0,13,-24,1,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-06,1,1,7,-23,12,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-07,-2,1,2,-30,12,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-08,-14,-7,-13,-33,11,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-09,-13,-13,-11,-41,2,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-10,2,4,10,-27,12,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-11,-8,-1,-8,-30,14,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-12,-11,-7,-12,-34,-7,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-13,-7,-4,-9,-37,12,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-14,-7,-4,-6,-32,12,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-15,-14,-11,-12,-36,9,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-16,4,3,13,-29,10,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-17,3,5,12,-26,10,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-18,-2,5,6,-29,8,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-19,-3,-2,9,-31,-5,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-20,-2,1,12,-33,8,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-21,-4,-2,5,-32,9,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-22,-6,-7,5,-30,5,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-23,-7,2,-1,-31,3,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-24,-24,-12,-20,-40,-3,9
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-25,-29,-14,-23,-42,-4,10
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-26,-32,-21,-26,-44,-13,9
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-27,-28,-18,-20,-47,-14,11
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-28,-32,-21,-25,-45,-16,12
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-29,-31,-17,-21,-45,-17,12
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-04-30,-31,-21,-20,-47,-24,12
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-01,-40,-24,-34,-49,-37,17
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-02,-46,-33,-38,-58,-38,17
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-03,-50,-41,-41,-59,-33,15
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-04,-48,-36,-41,-62,-44,19
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-05,-50,-38,-40,-58,-47,20
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-06,-49,-36,-38,-57,-48,21
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-07,-49,-36,-40,-61,-49,22
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-08,-49,-35,-44,-58,-49,23
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-09,-56,-41,-47,-64,-51,22
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-10,-52,-43,-41,-60,-35,15
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-11,-50,-35,-44,-64,-58,23
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-12,-48,-35,-41,-57,-47,20
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-13,-53,-40,-46,-63,-49,22
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-14,-56,-45,-51,-64,-53,24
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-15,-49,-37,-42,-58,-48,23
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-16,-53,-42,-52,-60,-45,21
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-17,-47,-41,-25,-55,-29,14
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-18,-50,-41,-48,-60,-47,22
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-19,-44,-36,-40,-52,-44,19
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-20,-46,-36,-42,-53,-45,20
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-21,-42,-35,-39,-54,-46,20
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-22,-40,-30,-40,-51,-44,20
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-23,-42,-28,-43,-51,-44,17
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-24,-54,-55,-34,-60,-44,9
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-25,-54,-45,-39,-64,-63,20
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-26,-41,-37,-35,-53,-43,15
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-27,-39,-35,-32,-51,-41,15
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-28,-37,-34,-30,-52,-42,16
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-29,-36,-31,-30,-53,-38,16
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-30,-40,-36,-36,-53,-34,14
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-05-31,-34,-37,-30,-49,-19,7
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-01,-29,-24,-20,-52,-35,10
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-02,-30,-28,-23,-50,-34,10
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-03,-30,-25,-21,-46,-34,11
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-04,-28,-26,-23,-48,-33,11
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-05,-27,-22,-25,-45,-32,12
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-06,-31,-28,-26,-43,-29,10
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-07,-28,-30,-17,-45,-15,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-08,-23,-18,-17,-43,-31,9
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-09,-27,-26,-20,-42,-30,9
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-10,-29,-24,-21,-40,-30,9
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-11,-26,-25,-19,-46,-31,10
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-12,-26,-21,-21,-40,-30,10
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-13,-30,-27,-26,-46,-25,8
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-14,-30,-29,-18,-43,-15,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-15,-19,-11,-12,-42,-25,6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-16,-19,-11,-16,-39,-23,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-17,-20,-11,-16,-40,-23,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-18,-20,-13,-15,-45,-24,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-19,-18,-7,-18,-42,-23,6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-20,-23,-11,-17,-44,-18,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-21,-19,-14,-10,-41,-9,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-22,-18,-8,-14,-42,-23,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-23,-20,-12,-16,-41,-23,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-24,-20,-9,-13,-42,-23,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-25,-18,-13,-18,-40,-24,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-26,-18,-8,-16,-38,-23,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-27,-25,-13,-20,-44,-26,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-28,-21,-15,-11,-40,-9,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-29,-22,-10,-15,-44,-37,7
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-06-30,-15,-9,-14,-34,-22,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-01,-17,-8,-10,-32,-22,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-02,-15,-8,-9,-38,-23,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-03,-13,-12,-12,-33,-23,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-04,-18,-8,-14,-38,-18,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-05,-14,-11,-7,-31,-9,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-06,-10,-4,-8,-35,-22,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-07,-13,-5,-9,-34,-22,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-08,-15,-8,-7,-35,-21,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-09,-14,-10,-10,-39,-22,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-10,-12,-14,-8,-37,-24,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-11,-15,-10,-22,-44,-19,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-12,-13,-14,-8,-40,-6,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-13,-11,-7,-10,-42,-20,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-14,-13,-10,-10,-40,-21,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-15,-15,-10,-11,-37,-21,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-16,-12,-11,-11,-39,-21,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-17,-12,-15,-11,-39,-25,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-18,-16,-11,-13,-43,-18,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-19,-14,-12,-7,-37,-7,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-20,-9,-8,-10,-42,-23,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-21,-13,-10,-10,-37,-22,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-22,-14,-10,-11,-38,-22,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-23,-12,-9,-15,-42,-22,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-24,-12,-15,-15,-41,-25,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-25,-13,-8,-13,-44,-18,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-26,-12,-13,-11,-39,-5,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-27,-9,-3,-14,-42,-23,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-28,-10,-4,-15,-35,-23,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-29,-9,0,-17,-34,-24,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-30,-8,6,-22,-37,-31,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-07-31,-48,-42,-25,-58,-73,8
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-01,-38,-30,-25,-57,-49,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-02,-16,-18,-9,-45,-15,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-03,-5,-3,-6,-47,-25,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-04,-5,-3,-7,-41,-23,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-05,-8,-1,-5,-42,-22,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-06,-7,-2,-9,-45,-23,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-07,-9,-8,-6,-43,-25,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-08,-11,-1,-10,-45,-19,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-09,-8,-4,-1,-43,-9,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-10,-4,4,-2,-44,-23,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-11,-5,3,-5,-40,-23,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-12,-6,5,-3,-39,-22,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-13,-4,5,-3,-41,-23,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-14,-5,-3,-4,-37,-26,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-15,-1,10,-2,-38,-19,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-16,7,12,9,-30,-11,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-17,6,12,,-37,-25,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-18,3,8,,-38,-21,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-19,-2,7,,-34,-23,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-20,1,3,3,-36,-23,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-21,-2,-2,1,-35,-24,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-22,-6,2,0,-40,-18,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-23,-3,0,,-36,-13,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-24,2,7,,-35,-21,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-25,-1,4,1,-34,-21,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-26,-4,3,-4,-34,-20,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-27,-2,4,-4,-38,-20,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-28,-1,-1,-5,-34,-21,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-29,-3,3,-3,-39,-16,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-30,-1,1,-3,-30,-14,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-08-31,5,6,,-34,-20,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-01,2,5,2,-33,-21,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-02,0,4,0,-32,-21,-2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-03,0,4,0,-37,-22,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-04,2,-2,-1,-35,-21,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-05,1,2,-4,-38,-16,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-06,1,1,-2,-36,-16,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-07,3,6,,-38,-21,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-08,5,5,2,-32,-18,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-09,-15,-2,-10,-41,-53,10
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-10,2,7,-3,-32,-18,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-11,6,-1,-2,-35,-17,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-12,3,5,-5,-38,-11,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-13,3,-1,-1,-39,-17,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-14,6,7,4,-38,-10,-1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-15,5,3,1,-36,-10,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-16,1,4,-4,-37,-16,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-17,1,5,-5,-40,-12,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-18,0,-7,-11,-39,-13,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-19,1,3,-10,-38,-10,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-20,0,-4,-9,-35,-18,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-21,2,5,-3,-41,-12,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-22,-1,0,-9,-39,-11,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-23,-6,0,-14,-39,-15,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-24,-8,0,-19,-41,-13,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-25,-8,-8,-20,-37,-11,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-26,-5,-1,-17,-40,-7,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-27,-6,-4,-18,-42,-20,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-28,-4,0,-16,-44,-8,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-29,-7,-4,-23,-40,-9,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-09-30,-9,-2,-23,-38,-14,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-01,-7,-1,-21,-41,-12,-4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-02,-7,-9,-22,-39,-9,-4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-03,-5,-2,-21,-41,-9,-4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-04,-5,-3,-17,-38,-25,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-05,-4,-1,-15,-44,-10,-4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-06,-6,-4,-20,-38,-9,-4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-07,-8,-3,-18,-36,-9,-3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-08,-8,-1,-19,-39,-6,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-09,-7,-14,-24,-38,-2,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-10,-8,-5,-26,-42,-1,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-11,-8,-9,-21,-43,-17,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-12,-3,1,-17,-42,-4,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-13,-5,-5,-19,-37,-3,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-14,-7,1,-21,-34,-5,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-15,-6,1,-22,-36,-5,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-16,-6,-7,-26,-31,-5,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-17,-4,-1,-18,-34,-2,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-18,-4,-3,-15,-34,-18,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-19,-4,-3,-19,-38,-3,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-20,-5,-3,-20,-35,1,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-21,-8,-1,-18,-38,-3,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-22,-8,0,-15,-41,-1,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-23,-7,-9,-21,-41,0,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-24,-5,0,-18,-39,2,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-25,-6,-4,-18,-42,-18,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-26,-6,-1,-13,-44,-1,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-27,-6,-4,-16,-40,0,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-28,-11,-6,-22,-40,-2,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-29,-8,-4,-28,-45,-2,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-30,-11,-16,-29,-40,-6,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-10-31,-8,-8,-27,-42,-1,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-01,-8,-9,-23,-39,-25,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-02,-7,-4,-24,-44,-7,0
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-03,-6,-4,-23,-33,-5,1
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-04,-7,-3,-23,-31,-6,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-05,-5,-2,-24,-29,-7,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-06,-19,-19,-32,-34,-50,13
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-07,-7,-8,-27,-33,-8,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-08,-7,-9,-22,-28,-20,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-09,-6,-5,-24,-34,-4,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-10,-6,-6,-27,-31,-2,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-11,-9,-5,-23,-30,-2,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-12,-12,-8,-35,-35,-1,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-13,-9,-18,-32,-31,0,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-14,-13,-12,-40,-38,1,7
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-15,-3,-3,-30,-27,-21,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-16,-4,-3,-22,-33,2,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-17,-4,-4,-26,-26,4,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-18,-9,-6,-30,-29,1,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-19,-10,-8,-33,-39,0,6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-20,-8,-16,-34,-31,4,6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-21,-1,-3,-32,-32,7,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-22,-4,-7,-30,-27,-19,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-23,-6,-7,-26,-35,4,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-24,-7,-9,-28,-33,5,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-25,-12,-11,-35,-31,1,6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-26,-5,-5,-28,-32,3,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-27,-6,-16,-27,-29,4,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-28,-4,-8,-31,-34,6,6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-29,1,-8,-24,-29,-19,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-11-30,-4,-5,-23,-34,4,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-12-01,-3,-8,-26,-30,5,2
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-12-02,-3,-2,-24,-33,4,3
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-12-03,-2,-2,-26,-34,4,4
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-12-04,-5,-16,-34,-33,6,6
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-12-05,1,-2,-29,-34,7,5
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,2020-12-06,2,-7,-25,-30,-16,5

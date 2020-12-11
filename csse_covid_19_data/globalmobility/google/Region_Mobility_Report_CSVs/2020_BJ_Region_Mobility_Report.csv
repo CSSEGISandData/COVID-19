@@ -1,0 +1,1509 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BJ,Benin,,,,,,2020-02-15,4,4,-1,1,2,-1
+BJ,Benin,,,,,,2020-02-16,-1,2,-2,-4,0,0
+BJ,Benin,,,,,,2020-02-17,-2,1,-2,-2,1,1
+BJ,Benin,,,,,,2020-02-18,-2,0,-12,-1,1,0
+BJ,Benin,,,,,,2020-02-19,-4,0,-2,-9,2,1
+BJ,Benin,,,,,,2020-02-20,-3,2,-2,-6,1,0
+BJ,Benin,,,,,,2020-02-21,1,6,0,-2,1,0
+BJ,Benin,,,,,,2020-02-22,1,6,5,-1,0,0
+BJ,Benin,,,,,,2020-02-23,0,4,2,4,-1,-1
+BJ,Benin,,,,,,2020-02-24,0,5,-3,0,-3,1
+BJ,Benin,,,,,,2020-02-25,1,6,-12,0,-3,0
+BJ,Benin,,,,,,2020-02-26,-1,4,-3,1,-3,1
+BJ,Benin,,,,,,2020-02-27,-2,5,2,1,-4,1
+BJ,Benin,,,,,,2020-02-28,-1,6,0,1,-3,2
+BJ,Benin,,,,,,2020-02-29,0,4,2,9,-2,0
+BJ,Benin,,,,,,2020-03-01,-1,4,0,7,1,-1
+BJ,Benin,,,,,,2020-03-02,-3,3,6,6,1,0
+BJ,Benin,,,,,,2020-03-03,1,2,-1,3,1,0
+BJ,Benin,,,,,,2020-03-04,1,4,5,6,3,0
+BJ,Benin,,,,,,2020-03-05,1,4,4,4,2,0
+BJ,Benin,,,,,,2020-03-06,-7,-2,-2,-2,2,1
+BJ,Benin,,,,,,2020-03-07,1,6,8,7,2,-1
+BJ,Benin,,,,,,2020-03-08,3,2,7,10,3,-1
+BJ,Benin,,,,,,2020-03-09,-3,3,-2,5,3,0
+BJ,Benin,,,,,,2020-03-10,-3,3,1,8,4,-1
+BJ,Benin,,,,,,2020-03-11,-2,3,1,4,4,-1
+BJ,Benin,,,,,,2020-03-12,-2,2,4,3,4,-1
+BJ,Benin,,,,,,2020-03-13,1,2,-1,4,5,-1
+BJ,Benin,,,,,,2020-03-14,-2,1,0,7,1,0
+BJ,Benin,,,,,,2020-03-15,-3,0,1,2,2,0
+BJ,Benin,,,,,,2020-03-16,-6,1,1,5,4,-1
+BJ,Benin,,,,,,2020-03-17,-6,5,11,4,4,-1
+BJ,Benin,,,,,,2020-03-18,-7,6,20,5,4,0
+BJ,Benin,,,,,,2020-03-19,-10,3,17,4,2,1
+BJ,Benin,,,,,,2020-03-20,-6,4,15,0,2,0
+BJ,Benin,,,,,,2020-03-21,-9,1,15,0,2,2
+BJ,Benin,,,,,,2020-03-22,-14,-1,10,-9,0,3
+BJ,Benin,,,,,,2020-03-23,-13,2,18,0,-1,2
+BJ,Benin,,,,,,2020-03-24,-18,-6,-1,-14,-6,6
+BJ,Benin,,,,,,2020-03-25,-12,3,11,-9,-2,3
+BJ,Benin,,,,,,2020-03-26,-12,3,10,-5,-3,3
+BJ,Benin,,,,,,2020-03-27,-8,6,15,-13,-4,2
+BJ,Benin,,,,,,2020-03-28,-11,7,13,-2,0,3
+BJ,Benin,,,,,,2020-03-29,-16,0,10,-14,2,5
+BJ,Benin,,,,,,2020-03-30,-18,-9,4,-18,-17,10
+BJ,Benin,,,,,,2020-03-31,-18,-9,2,-21,-16,9
+BJ,Benin,,,,,,2020-04-01,-18,-9,0,-21,-14,9
+BJ,Benin,,,,,,2020-04-02,-19,-5,2,-16,-14,10
+BJ,Benin,,,,,,2020-04-03,-18,-5,1,-23,-13,9
+BJ,Benin,,,,,,2020-04-04,-23,-8,-6,-19,-6,10
+BJ,Benin,,,,,,2020-04-05,-23,-6,2,-18,1,8
+BJ,Benin,,,,,,2020-04-06,-17,-3,5,-16,-15,9
+BJ,Benin,,,,,,2020-04-07,-17,-4,-3,-19,-17,10
+BJ,Benin,,,,,,2020-04-08,-21,-11,-8,-26,-15,12
+BJ,Benin,,,,,,2020-04-09,-23,-12,-8,-24,-17,14
+BJ,Benin,,,,,,2020-04-10,-23,-11,-9,-30,-16,14
+BJ,Benin,,,,,,2020-04-11,-23,-12,-13,-25,-4,11
+BJ,Benin,,,,,,2020-04-12,-25,-13,-11,-29,-1,11
+BJ,Benin,,,,,,2020-04-13,-29,-21,-9,-35,-50,20
+BJ,Benin,,,,,,2020-04-14,-19,-9,-4,-18,-15,10
+BJ,Benin,,,,,,2020-04-15,-18,-7,-1,-19,-15,10
+BJ,Benin,,,,,,2020-04-16,-18,-5,-4,-16,-16,10
+BJ,Benin,,,,,,2020-04-17,-18,-9,-8,-24,-14,11
+BJ,Benin,,,,,,2020-04-18,-19,-9,-6,-17,-1,9
+BJ,Benin,,,,,,2020-04-19,-23,-13,-7,-23,0,9
+BJ,Benin,,,,,,2020-04-20,-16,-6,-3,-13,-15,9
+BJ,Benin,,,,,,2020-04-21,-14,-6,-1,-15,-15,8
+BJ,Benin,,,,,,2020-04-22,-20,-10,-8,-25,-15,10
+BJ,Benin,,,,,,2020-04-23,-17,-6,-6,-19,-14,10
+BJ,Benin,,,,,,2020-04-24,-20,-9,-5,-28,-13,12
+BJ,Benin,,,,,,2020-04-25,-22,-10,-11,-24,0,10
+BJ,Benin,,,,,,2020-04-26,-30,-20,-11,-37,-1,12
+BJ,Benin,,,,,,2020-04-27,-19,-9,-7,-21,-14,10
+BJ,Benin,,,,,,2020-04-28,-19,-9,-11,-25,-15,9
+BJ,Benin,,,,,,2020-04-29,-19,-11,-5,-25,-14,13
+BJ,Benin,,,,,,2020-04-30,-15,-4,-1,-18,-13,10
+BJ,Benin,,,,,,2020-05-01,-25,-15,-13,-44,-41,18
+BJ,Benin,,,,,,2020-05-02,-20,-9,-8,-25,-1,9
+BJ,Benin,,,,,,2020-05-03,-29,-20,-13,-33,0,12
+BJ,Benin,,,,,,2020-05-04,-16,-6,-2,-17,-13,9
+BJ,Benin,,,,,,2020-05-05,-15,-6,-2,-22,-12,9
+BJ,Benin,,,,,,2020-05-06,-15,-2,2,-19,-10,9
+BJ,Benin,,,,,,2020-05-07,-14,-2,-1,-18,-10,9
+BJ,Benin,,,,,,2020-05-08,-13,-2,0,-24,-9,9
+BJ,Benin,,,,,,2020-05-09,-13,-3,-3,-17,4,6
+BJ,Benin,,,,,,2020-05-10,-26,-14,-9,-26,2,11
+BJ,Benin,,,,,,2020-05-11,-10,0,2,-13,-7,6
+BJ,Benin,,,,,,2020-05-12,-13,-2,-1,-15,-7,5
+BJ,Benin,,,,,,2020-05-13,-13,1,8,-17,-7,5
+BJ,Benin,,,,,,2020-05-14,-11,5,7,-9,-7,4
+BJ,Benin,,,,,,2020-05-15,-10,5,12,-15,-6,5
+BJ,Benin,,,,,,2020-05-16,-11,5,9,-5,8,4
+BJ,Benin,,,,,,2020-05-17,-18,-3,6,-13,8,5
+BJ,Benin,,,,,,2020-05-18,-13,4,5,-9,-7,4
+BJ,Benin,,,,,,2020-05-19,-14,-3,-4,-15,-6,5
+BJ,Benin,,,,,,2020-05-20,-9,1,3,-15,-5,5
+BJ,Benin,,,,,,2020-05-21,-18,-6,-5,-28,-38,14
+BJ,Benin,,,,,,2020-05-22,-12,-1,-4,-19,-5,6
+BJ,Benin,,,,,,2020-05-23,-11,-2,-8,-14,3,6
+BJ,Benin,,,,,,2020-05-24,-14,-4,-5,-20,5,6
+BJ,Benin,,,,,,2020-05-25,-12,-6,-1,-20,-10,9
+BJ,Benin,,,,,,2020-05-26,-12,-2,-3,-18,-5,5
+BJ,Benin,,,,,,2020-05-27,-11,-1,-2,-17,-3,5
+BJ,Benin,,,,,,2020-05-28,-18,-10,-7,-24,-6,8
+BJ,Benin,,,,,,2020-05-29,-5,4,3,-16,-3,5
+BJ,Benin,,,,,,2020-05-30,-10,-1,-3,-17,5,5
+BJ,Benin,,,,,,2020-05-31,-11,-3,1,-19,6,5
+BJ,Benin,,,,,,2020-06-01,-19,-9,-8,-33,-42,15
+BJ,Benin,,,,,,2020-06-02,-12,-4,-6,-16,-6,6
+BJ,Benin,,,,,,2020-06-03,-7,3,1,-13,-2,3
+BJ,Benin,,,,,,2020-06-04,-10,0,0,-12,-5,3
+BJ,Benin,,,,,,2020-06-05,-4,3,5,-14,-4,2
+BJ,Benin,,,,,,2020-06-06,-4,4,3,-8,6,2
+BJ,Benin,,,,,,2020-06-07,-6,1,2,-13,10,2
+BJ,Benin,,,,,,2020-06-08,-7,0,4,-8,-2,3
+BJ,Benin,,,,,,2020-06-09,-9,-4,-3,-21,-4,5
+BJ,Benin,,,,,,2020-06-10,-6,-2,11,-16,-1,5
+BJ,Benin,,,,,,2020-06-11,-9,0,8,-17,-3,5
+BJ,Benin,,,,,,2020-06-12,-3,3,7,-16,-2,4
+BJ,Benin,,,,,,2020-06-13,-3,1,2,-10,6,3
+BJ,Benin,,,,,,2020-06-14,-5,0,3,-11,9,3
+BJ,Benin,,,,,,2020-06-15,-8,-2,5,-10,-4,4
+BJ,Benin,,,,,,2020-06-16,-7,-1,2,-15,-3,3
+BJ,Benin,,,,,,2020-06-17,-13,-7,-2,-19,-4,6
+BJ,Benin,,,,,,2020-06-18,-26,-22,-7,-36,-16,14
+BJ,Benin,,,,,,2020-06-19,-3,3,7,-15,-3,3
+BJ,Benin,,,,,,2020-06-20,-13,-3,-2,-17,2,5
+BJ,Benin,,,,,,2020-06-21,-10,-4,0,-14,7,3
+BJ,Benin,,,,,,2020-06-22,-26,-22,-10,-33,-16,13
+BJ,Benin,,,,,,2020-06-23,-6,-1,-1,-15,-8,3
+BJ,Benin,,,,,,2020-06-24,-7,-2,5,-15,-6,4
+BJ,Benin,,,,,,2020-06-25,-8,-1,1,-16,-7,4
+BJ,Benin,,,,,,2020-06-26,-7,-3,0,-18,-7,4
+BJ,Benin,,,,,,2020-06-27,-5,0,1,-12,1,3
+BJ,Benin,,,,,,2020-06-28,-16,-11,-9,-22,-1,6
+BJ,Benin,,,,,,2020-06-29,-11,-5,-2,-15,-9,6
+BJ,Benin,,,,,,2020-06-30,-10,-3,-3,-15,-8,6
+BJ,Benin,,,,,,2020-07-01,-9,-1,7,-14,-6,5
+BJ,Benin,,,,,,2020-07-02,-6,2,11,-9,-8,5
+BJ,Benin,,,,,,2020-07-03,-4,3,9,-11,-8,4
+BJ,Benin,,,,,,2020-07-04,-20,-15,-9,-22,-4,11
+BJ,Benin,,,,,,2020-07-05,-5,3,2,-7,6,4
+BJ,Benin,,,,,,2020-07-06,-4,3,8,-7,-9,4
+BJ,Benin,,,,,,2020-07-07,-5,3,3,-13,-10,4
+BJ,Benin,,,,,,2020-07-08,-8,1,4,-15,-6,5
+BJ,Benin,,,,,,2020-07-09,-10,2,0,-13,-9,5
+BJ,Benin,,,,,,2020-07-10,-5,3,2,-10,-7,6
+BJ,Benin,,,,,,2020-07-11,-5,4,2,-9,2,4
+BJ,Benin,,,,,,2020-07-12,-7,2,1,-18,4,3
+BJ,Benin,,,,,,2020-07-13,-5,4,3,-8,-10,5
+BJ,Benin,,,,,,2020-07-14,-6,1,-1,-20,-9,5
+BJ,Benin,,,,,,2020-07-15,-4,2,3,-16,-7,6
+BJ,Benin,,,,,,2020-07-16,-6,3,3,-14,-9,6
+BJ,Benin,,,,,,2020-07-17,-3,5,5,-13,-7,6
+BJ,Benin,,,,,,2020-07-18,-4,5,3,-12,1,4
+BJ,Benin,,,,,,2020-07-19,-5,2,3,-15,7,3
+BJ,Benin,,,,,,2020-07-20,-4,4,3,-5,-11,5
+BJ,Benin,,,,,,2020-07-21,-4,2,1,-13,-11,5
+BJ,Benin,,,,,,2020-07-22,-4,4,6,-14,-8,5
+BJ,Benin,,,,,,2020-07-23,-3,6,4,-11,-8,5
+BJ,Benin,,,,,,2020-07-24,-2,5,10,-9,-8,5
+BJ,Benin,,,,,,2020-07-25,-2,5,8,-12,0,2
+BJ,Benin,,,,,,2020-07-26,-6,4,4,-12,4,3
+BJ,Benin,,,,,,2020-07-27,-2,5,9,-7,-11,5
+BJ,Benin,,,,,,2020-07-28,-3,5,8,-14,-11,5
+BJ,Benin,,,,,,2020-07-29,-2,7,11,-9,-10,4
+BJ,Benin,,,,,,2020-07-30,0,13,12,-5,-11,3
+BJ,Benin,,,,,,2020-07-31,-13,-6,6,-32,-48,12
+BJ,Benin,,,,,,2020-08-01,-9,-4,7,-20,-16,6
+BJ,Benin,,,,,,2020-08-02,-3,6,12,-11,5,2
+BJ,Benin,,,,,,2020-08-03,-1,7,12,-3,-12,5
+BJ,Benin,,,,,,2020-08-04,0,9,10,-12,-12,4
+BJ,Benin,,,,,,2020-08-05,0,7,15,-8,-10,5
+BJ,Benin,,,,,,2020-08-06,0,11,14,-4,-11,3
+BJ,Benin,,,,,,2020-08-07,5,12,17,-2,-8,1
+BJ,Benin,,,,,,2020-08-08,5,11,16,4,2,0
+BJ,Benin,,,,,,2020-08-09,1,10,20,-4,9,0
+BJ,Benin,,,,,,2020-08-10,2,12,20,5,-9,3
+BJ,Benin,,,,,,2020-08-11,4,11,16,-9,-9,2
+BJ,Benin,,,,,,2020-08-12,4,10,25,-4,-7,2
+BJ,Benin,,,,,,2020-08-13,1,10,20,-4,-9,2
+BJ,Benin,,,,,,2020-08-14,3,12,21,-5,-9,2
+BJ,Benin,,,,,,2020-08-15,1,9,19,1,-4,0
+BJ,Benin,,,,,,2020-08-16,1,9,20,-1,8,-1
+BJ,Benin,,,,,,2020-08-17,,15,,,-8,1
+BJ,Benin,,,,,,2020-08-18,,12,,,-6,2
+BJ,Benin,,,,,,2020-08-19,2,12,,,-6,3
+BJ,Benin,,,,,,2020-08-20,1,13,,,-7,3
+BJ,Benin,,,,,,2020-08-21,3,13,,,-6,3
+BJ,Benin,,,,,,2020-08-22,4,11,,,2,2
+BJ,Benin,,,,,,2020-08-23,,12,,,12,1
+BJ,Benin,,,,,,2020-08-24,,15,,,-6,3
+BJ,Benin,,,,,,2020-08-25,,14,,,-6,3
+BJ,Benin,,,,,,2020-08-26,,14,,,-4,4
+BJ,Benin,,,,,,2020-08-27,2,15,,,-6,4
+BJ,Benin,,,,,,2020-08-28,4,13,,,-5,3
+BJ,Benin,,,,,,2020-08-29,3,15,,,1,1
+BJ,Benin,,,,,,2020-08-30,,9,,,9,1
+BJ,Benin,,,,,,2020-08-31,,15,,,-5,4
+BJ,Benin,,,,,,2020-09-01,,12,,,-5,4
+BJ,Benin,,,,,,2020-09-02,,12,,,-4,5
+BJ,Benin,,,,,,2020-09-03,4,12,,,-5,6
+BJ,Benin,,,,,,2020-09-04,4,9,,,-4,5
+BJ,Benin,,,,,,2020-09-05,3,8,,,0,4
+BJ,Benin,,,,,,2020-09-06,,7,,,8,3
+BJ,Benin,,,,,,2020-09-07,,13,,,-6,5
+BJ,Benin,,,,,,2020-09-08,,15,,,-4,5
+BJ,Benin,,,,,,2020-09-09,-11,-6,,,-7,13
+BJ,Benin,,,,,,2020-09-10,6,11,,,-7,8
+BJ,Benin,,,,,,2020-09-11,4,12,34,8,-5,7
+BJ,Benin,,,,,,2020-09-12,5,14,35,6,2,6
+BJ,Benin,,,,,,2020-09-13,5,5,31,1,5,6
+BJ,Benin,,,,,,2020-09-14,8,13,37,9,-4,8
+BJ,Benin,,,,,,2020-09-15,0,2,23,-2,-5,12
+BJ,Benin,,,,,,2020-09-16,6,9,36,0,-3,10
+BJ,Benin,,,,,,2020-09-17,6,9,33,3,-3,9
+BJ,Benin,,,,,,2020-09-18,4,12,34,4,-2,9
+BJ,Benin,,,,,,2020-09-19,5,16,42,8,3,7
+BJ,Benin,,,,,,2020-09-20,5,6,34,5,6,7
+BJ,Benin,,,,,,2020-09-21,10,20,44,13,-5,7
+BJ,Benin,,,,,,2020-09-22,3,24,25,1,-8,7
+BJ,Benin,,,,,,2020-09-23,-4,31,25,0,-8,8
+BJ,Benin,,,,,,2020-09-24,-11,24,14,-4,-12,12
+BJ,Benin,,,,,,2020-09-25,-8,37,23,7,-8,7
+BJ,Benin,,,,,,2020-09-26,-10,30,20,3,-6,7
+BJ,Benin,,,,,,2020-09-27,-5,35,20,16,-3,6
+BJ,Benin,,,,,,2020-09-28,-8,35,21,11,-8,7
+BJ,Benin,,,,,,2020-09-29,-8,30,8,0,-10,5
+BJ,Benin,,,,,,2020-09-30,-12,27,8,-3,-15,2
+BJ,Benin,,,,,,2020-10-01,-15,24,4,-4,-17,-3
+BJ,Benin,,,,,,2020-10-02,-17,28,7,-2,-16,-5
+BJ,Benin,,,,,,2020-10-03,-16,32,4,1,-18,-4
+BJ,Benin,,,,,,2020-10-04,-14,28,2,-1,-22,-4
+BJ,Benin,,,,,,2020-10-05,-15,29,5,1,-19,-4
+BJ,Benin,,,,,,2020-10-06,-13,26,-3,-6,-17,-5
+BJ,Benin,,,,,,2020-10-07,-15,24,1,-4,-13,0
+BJ,Benin,,,,,,2020-10-08,-11,28,6,-2,-10,1
+BJ,Benin,,,,,,2020-10-09,-17,22,2,-10,-8,4
+BJ,Benin,,,,,,2020-10-10,-12,32,1,-3,-5,3
+BJ,Benin,,,,,,2020-10-11,-11,24,0,-7,-10,4
+BJ,Benin,,,,,,2020-10-12,-10,30,4,3,-9,2
+BJ,Benin,,,,,,2020-10-13,-10,28,-1,-9,-8,2
+BJ,Benin,,,,,,2020-10-14,-9,33,9,-3,-7,3
+BJ,Benin,,,,,,2020-10-15,-11,38,5,-5,-7,4
+BJ,Benin,,,,,,2020-10-16,-14,40,10,0,-6,4
+BJ,Benin,,,,,,2020-10-17,-15,39,7,2,-7,5
+BJ,Benin,,,,,,2020-10-18,-13,33,8,5,-10,4
+BJ,Benin,,,,,,2020-10-19,-12,38,9,2,-7,5
+BJ,Benin,,,,,,2020-10-20,-9,33,7,-3,-5,4
+BJ,Benin,,,,,,2020-10-21,-6,41,20,5,-4,5
+BJ,Benin,,,,,,2020-10-22,-6,43,15,8,-5,3
+BJ,Benin,,,,,,2020-10-23,-8,46,18,5,-4,2
+BJ,Benin,,,,,,2020-10-24,-6,48,20,10,-5,2
+BJ,Benin,,,,,,2020-10-25,-10,38,9,6,-11,4
+BJ,Benin,,,,,,2020-10-26,-5,44,11,9,-5,2
+BJ,Benin,,,,,,2020-10-27,-6,43,6,2,-5,2
+BJ,Benin,,,,,,2020-10-28,-6,36,10,4,-5,3
+BJ,Benin,,,,,,2020-10-29,-15,26,-1,-14,-44,12
+BJ,Benin,,,,,,2020-10-30,-9,36,9,7,-5,1
+BJ,Benin,,,,,,2020-10-31,-9,39,15,3,-6,4
+BJ,Benin,,,,,,2020-11-01,-8,33,13,4,-13,4
+BJ,Benin,,,,,,2020-11-02,-5,41,10,8,-7,4
+BJ,Benin,,,,,,2020-11-03,-5,40,5,-2,-6,2
+BJ,Benin,,,,,,2020-11-04,-7,42,11,3,-4,2
+BJ,Benin,,,,,,2020-11-05,-12,39,7,-5,-6,1
+BJ,Benin,,,,,,2020-11-06,-13,38,10,1,-3,1
+BJ,Benin,,,,,,2020-11-07,-14,38,7,-3,-5,2
+BJ,Benin,,,,,,2020-11-08,-11,36,-1,0,-11,2
+BJ,Benin,,,,,,2020-11-09,-12,40,4,3,-5,2
+BJ,Benin,,,,,,2020-11-10,-11,36,2,-6,-5,1
+BJ,Benin,,,,,,2020-11-11,-11,35,12,-4,-4,3
+BJ,Benin,,,,,,2020-11-12,-12,35,7,-3,-5,1
+BJ,Benin,,,,,,2020-11-13,-13,40,11,1,-3,0
+BJ,Benin,,,,,,2020-11-14,-10,39,11,0,-5,1
+BJ,Benin,,,,,,2020-11-15,-12,34,10,5,-11,1
+BJ,Benin,,,,,,2020-11-16,-12,38,13,2,-4,2
+BJ,Benin,,,,,,2020-11-17,-12,33,4,-5,-4,1
+BJ,Benin,,,,,,2020-11-18,-12,36,12,-6,-3,1
+BJ,Benin,,,,,,2020-11-19,-12,38,10,-16,-4,1
+BJ,Benin,,,,,,2020-11-20,-12,44,17,-13,-3,0
+BJ,Benin,,,,,,2020-11-21,-10,44,18,-13,-5,1
+BJ,Benin,,,,,,2020-11-22,-12,35,8,-13,-12,1
+BJ,Benin,,,,,,2020-11-23,-11,37,9,-10,-4,1
+BJ,Benin,,,,,,2020-11-24,-10,37,9,-20,-5,1
+BJ,Benin,,,,,,2020-11-25,-11,38,16,-11,-3,2
+BJ,Benin,,,,,,2020-11-26,-11,39,14,-13,-3,1
+BJ,Benin,,,,,,2020-11-27,-12,44,19,-8,0,0
+BJ,Benin,,,,,,2020-11-28,-11,45,15,-13,-4,1
+BJ,Benin,,,,,,2020-11-29,-12,41,11,-10,-10,1
+BJ,Benin,,,,,,2020-11-30,-11,43,14,-5,-2,1
+BJ,Benin,,,,,,2020-12-01,-9,44,14,-13,-2,1
+BJ,Benin,,,,,,2020-12-02,-7,47,20,-7,0,2
+BJ,Benin,,,,,,2020-12-03,-9,50,22,-12,0,1
+BJ,Benin,,,,,,2020-12-04,-9,48,21,-9,1,0
+BJ,Benin,,,,,,2020-12-05,-7,50,26,-11,-2,0
+BJ,Benin,,,,,,2020-12-06,-9,45,16,-10,-9,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-15,0,2,,,-1,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-16,0,0,,,1,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-17,-7,0,,,1,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-18,-6,-5,,,1,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-19,-8,-4,,,1,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-20,-6,1,,,-1,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-21,-3,2,,,1,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-22,-5,3,,,-3,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-23,-2,0,,,1,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-24,-2,2,,,-1,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-25,-4,3,,,-3,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-26,-5,-2,,,-2,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-27,-6,-1,,,-5,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-28,-2,0,,,-3,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-29,-4,-2,,,-4,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-01,-2,-2,,,4,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-02,-5,0,,,3,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-03,-4,0,,,1,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-04,-2,2,,,2,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-05,1,0,,,2,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-06,-12,-5,,,3,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-07,0,3,,,0,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-08,3,3,,,5,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-09,-7,7,,,3,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-10,-5,4,,,5,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-11,-2,3,,,4,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-12,0,2,,,2,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-13,-1,2,,,3,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-14,-1,3,,,-2,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-15,-2,4,,,1,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-16,-6,4,,,4,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-17,-6,8,,,4,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-18,-6,7,,,3,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-19,-4,7,,,2,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-20,-5,10,,,2,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-21,-6,6,,,0,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-22,-7,3,,,1,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-23,-7,9,,,0,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-24,-12,3,,,-8,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-25,-8,8,,,-5,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-26,-8,8,,,-7,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-27,-4,10,,,-6,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-28,-8,10,,,-5,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-29,-10,3,,,3,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-30,-13,2,,,-18,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-03-31,-13,2,,,-18,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-01,-17,-2,,,-17,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-02,-14,2,,,-18,11
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-03,-16,1,,,-15,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-04,-19,-1,,,-11,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-05,-18,2,,,0,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-06,-15,6,,,-15,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-07,-8,0,,,-19,11
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-08,-12,-5,,,-17,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-09,-12,-8,,,-21,16
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-10,-11,-5,,,-18,16
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-11,-14,-9,,,-8,13
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-12,-14,-9,,,1,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-13,-6,-6,,,-56,23
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-14,-10,-7,,,-18,11
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-15,-7,-4,,,-18,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-16,-2,-3,,,-19,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-17,-4,-8,,,-17,13
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-18,-4,-3,,,-5,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-19,-6,-7,,,-2,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-20,-3,2,,,-17,11
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-21,-2,-2,,,-17,9
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-22,-10,-8,,,-19,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-23,-4,-7,,,-16,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-24,-8,-6,,,-15,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-25,-11,-9,,,-3,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-26,-20,-16,,,0,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-27,-9,-2,,,-15,11
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-28,-9,-6,,,-16,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-29,-12,-12,,,-17,13
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-04-30,-8,-5,,,-17,11
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-01,-5,1,,,-47,19
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-02,-12,-7,,,-5,8
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-03,-21,-15,,,-2,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-04,-5,-5,,,-16,9
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-05,-4,0,,,-13,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-06,-4,4,,,-13,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-07,-5,0,,,-14,11
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-08,-4,0,,,-12,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-09,-5,0,,,-1,8
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-10,-18,-11,,,1,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-11,-3,4,,,-9,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-12,-7,3,,,-8,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-13,-5,2,,,-11,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-14,3,7,,,-12,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-15,0,8,,,-9,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-16,-1,7,,,3,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-17,-6,-1,,,7,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-18,-2,6,,,-9,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-19,-3,0,,,-9,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-20,-2,2,,,-8,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-21,4,10,,,-45,17
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-22,-6,-3,,,-6,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-23,0,2,,,0,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-24,-4,-2,,,10,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-25,-5,-3,,,-11,9
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-26,-1,-3,,,-4,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-27,-4,-2,,,-5,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-28,-11,-9,,,-8,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-29,2,0,,,-5,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-30,-1,1,,,1,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-05-31,2,-1,,,6,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-01,6,10,,,-48,18
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-02,-8,-1,,,-8,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-03,-2,4,,,-4,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-04,1,1,,,-7,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-05,5,1,,,-5,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-06,5,8,,,2,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-07,6,5,,,12,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-08,1,4,,,-4,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-09,3,3,,,-4,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-10,6,3,,,-1,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-11,6,5,,,-5,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-12,12,7,,,-3,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-13,7,8,,,5,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-14,7,10,,,11,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-15,2,7,,,-5,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-16,3,6,,,-3,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-17,-2,0,,,-6,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-18,-13,-14,,,-19,18
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-19,4,7,,,-5,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-20,-6,-1,,,-3,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-21,2,-2,,,8,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-22,-19,-19,,,-20,17
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-23,0,1,,,-10,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-24,3,1,,,-8,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-25,5,0,,,-9,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-26,1,0,,,-7,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-27,6,5,,,-3,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-28,-4,-5,,,2,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-29,1,0,,,-9,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-06-30,-2,0,,,-8,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-01,1,4,,,-7,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-02,5,8,,,-9,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-03,3,8,,,-8,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-04,-14,-10,,,-8,13
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-05,4,10,,,8,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-06,5,9,,,-9,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-07,8,7,,,-11,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-08,1,4,,,-8,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-09,-3,1,,,-13,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-10,6,7,,,-9,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-11,4,7,,,0,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-12,6,5,,,5,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-13,5,11,,,-10,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-14,4,7,,,-9,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-15,2,9,,,-7,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-16,3,10,,,-10,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-17,7,12,,,-7,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-18,7,10,,,1,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-19,10,10,,,11,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-20,9,10,,,-10,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-21,4,11,,,-10,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-22,5,10,,,-8,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-23,7,12,,,-8,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-24,6,11,,,-7,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-25,10,17,,,0,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-26,4,16,,,8,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-27,4,10,,,-10,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-28,5,10,,,-10,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-29,3,15,,,-10,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-30,8,19,,,-12,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-07-31,16,26,,,-48,13
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-01,3,15,,,-14,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-02,11,19,,,12,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-03,5,17,,,-11,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-04,6,19,,,-11,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-05,4,14,,,-10,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-06,6,22,,,-12,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-07,12,19,,,-9,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-08,14,25,,,-1,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-09,14,22,,,11,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-10,8,24,,,-9,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-11,10,19,,,-8,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-12,12,19,,,-8,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-13,9,21,,,-11,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-14,12,22,,,-10,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-15,11,24,,,-8,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-16,12,17,,,11,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-17,,,,,-8,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-18,,,,,-5,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-19,,,,,-7,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-20,,,,,-10,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-21,,,,,-7,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-22,,,,,,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-24,,,,,-7,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-25,,,,,-9,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-26,,,,,-7,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-27,,,,,-8,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-28,,,,,-7,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-29,,,,,,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-08-31,,,,,-6,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-01,,,,,-7,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-02,,,,,-6,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-03,,,,,-7,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-04,,,,,-6,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-05,,,,,,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-07,,,,,-7,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-08,,,,,-6,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-09,,,,,-8,14
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-10,,,,,-10,9
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-11,9,17,,,-8,8
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-12,11,17,,,-4,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-13,11,9,,,1,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-14,5,16,,,-6,9
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-15,-1,6,,,-8,13
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-16,1,5,,,-5,9
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-17,5,13,,,-7,11
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-18,7,16,,,-6,10
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-19,11,21,,,-3,8
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-20,8,10,,,4,
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-21,4,25,,,-6,8
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-22,-6,30,,,-10,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-23,-15,40,,,-10,9
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-24,-18,32,,,-16,14
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-25,-8,43,,,-10,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-26,-9,43,,,-9,9
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-27,-5,45,,,-2,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-28,-15,41,,,-8,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-29,-16,39,,,-11,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-09-30,-18,31,,,-16,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-01,-20,32,,,-17,-4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-02,-20,27,,,-17,-7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-03,-16,36,,,-23,-6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-04,-11,39,,,-24,-7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-05,-22,32,,,-18,-6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-06,-19,33,,,-16,-7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-07,-21,29,,,-15,-2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-08,-14,38,,,-12,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-09,-17,32,,,-11,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-10,-11,45,,,-9,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-11,-10,34,,,-9,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-12,-16,39,,,-10,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-13,-17,30,,,-10,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-14,-16,31,,,-9,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-15,-16,44,,,-10,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-16,-12,42,,,-8,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-17,-13,48,,,-11,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-18,-12,38,,,-10,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-19,-20,39,,,-7,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-20,-18,36,,,-7,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-21,-13,39,,,-5,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-22,-11,43,,,-7,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-23,-8,49,,,-7,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-24,-3,55,,,-9,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-25,-9,47,,,-13,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-26,-12,44,,,-5,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-27,-15,43,,,-7,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-28,-13,34,,,-6,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-29,-5,48,,,-49,13
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-30,-10,37,,,-7,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-10-31,-4,52,,,-10,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-01,-6,47,,,-15,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-02,-13,54,,,-6,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-03,-11,51,,,-6,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-04,-14,45,,,-6,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-05,-19,48,,,-7,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-06,-15,45,,,-5,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-07,-12,55,,,-8,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-08,-9,50,,,-11,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-09,-19,51,,,-4,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-10,-21,53,,,-5,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-11,-18,44,,,-6,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-12,-20,44,,,-7,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-13,-15,52,,,-5,-2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-14,-10,55,,,-10,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-15,-12,49,,,-13,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-16,-20,46,,,-4,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-17,-22,44,,,-6,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-18,-21,47,,,-5,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-19,-18,49,,,-6,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-20,-17,57,,,-5,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-21,-11,57,,,-11,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-22,-14,53,,,-12,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-23,-21,51,,,-4,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-24,-18,53,,,-9,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-25,-19,42,,,-7,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-26,-14,51,,,-6,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-27,-14,57,,,-2,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-28,-10,66,,,-9,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-29,-13,59,,,-11,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-11-30,-17,61,,,-1,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-12-01,-17,66,,,-5,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-12-02,-13,61,,,-3,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-12-03,-13,63,,,-1,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-12-04,-10,61,,,0,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-12-05,-4,61,,,-7,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-12-06,-9,71,,,-10,-1
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-15,,,,,12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-16,,,,,7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-17,,,,,3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-18,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-19,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-20,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-21,,,,,-3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-22,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-23,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-24,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-25,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-26,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-27,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-28,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-29,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-01,,,,,-2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-02,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-03,,,,,-2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-04,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-05,,,,,5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-06,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-07,,,,,5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-08,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-09,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-10,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-11,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-12,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-13,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-14,,,,,5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-15,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-16,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-17,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-18,,,,,7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-19,,,,,3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-20,,,,,-2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-21,,,,,8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-22,,,,,5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-23,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-24,,,,,-3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-25,,,,,3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-26,,,,,8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-27,,,,,3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-28,,,,,8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-29,,,,,9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-30,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-03-31,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-01,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-02,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-03,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-04,,,,,-3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-05,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-06,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-07,,,,,-15,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-08,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-09,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-10,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-11,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-12,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-13,,,,,-35,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-14,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-15,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-16,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-17,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-18,,,,,-4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-19,,,,,7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-20,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-21,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-22,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-23,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-24,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-25,,,,,6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-26,,,,,10,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-27,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-28,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-29,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-04-30,,,,,-7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-01,,,,,-26,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-02,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-03,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-04,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-05,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-06,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-07,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-08,,,,,-4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-09,,,,,10,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-10,,,,,6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-11,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-12,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-13,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-14,,,,,3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-15,,,,,5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-16,,,,,20,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-17,,,,,10,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-18,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-19,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-20,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-21,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-22,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-23,,,,,14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-24,,,,,11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-25,,,,,-3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-26,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-27,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-28,,,,,5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-29,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-30,,,,,17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-05-31,,,,,18,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-01,,,,,-20,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-02,,,,,6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-03,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-04,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-05,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-06,,,,,14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-07,,,,,22,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-08,,,,,7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-09,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-10,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-11,,,,,3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-12,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-13,,,,,9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-14,,,,,17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-15,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-16,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-17,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-18,,,,,-4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-19,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-20,,,,,13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-21,,,,,17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-22,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-23,,,,,-2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-24,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-25,,,,,-4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-26,,,,,-7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-27,,,,,8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-28,,,,,5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-29,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-06-30,,,,,-4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-01,,,,,-3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-02,,,,,-3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-03,,,,,-4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-04,,,,,13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-05,,,,,17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-06,,,,,-3,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-07,,,,,-7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-08,,,,,-1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-09,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-10,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-11,,,,,8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-12,,,,,6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-13,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-14,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-15,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-16,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-17,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-18,,,,,6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-19,,,,,4,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-20,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-21,,,,,-15,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-22,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-23,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-24,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-25,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-26,,,,,9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-27,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-28,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-29,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-30,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-07-31,,,,,-40,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-01,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-02,,,,,9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-03,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-04,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-05,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-06,,,,,-5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-07,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-08,,,,,5,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-09,,,,,7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-10,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-11,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-12,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-13,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-14,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-15,,,,,2,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-08-16,,,,,8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-11,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-12,,,,,6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-13,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-14,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-15,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-16,,,,,-7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-17,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-18,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-19,,,,,1,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-20,,,,,0,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-21,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-22,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-23,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-24,,,,,-15,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-25,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-26,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-27,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-28,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-29,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-09-30,,,,,-28,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-01,,,,,-35,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-02,,,,,-31,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-03,,,,,-28,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-04,,,,,-37,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-05,,,,,-34,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-06,,,,,-33,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-07,,,,,-24,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-08,,,,,-25,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-09,,,,,-24,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-10,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-11,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-12,,,,,-21,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-13,,,,,-24,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-14,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-15,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-16,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-17,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-18,,,,,-22,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-19,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-20,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-21,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-22,,,,,-15,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-23,,,,,-15,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-24,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-25,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-26,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-27,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-28,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-29,,,,,-39,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-30,,,,,-21,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-10-31,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-01,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-02,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-03,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-04,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-05,,,,,-20,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-06,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-07,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-08,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-09,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-10,,,,,-21,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-11,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-12,,,,,-15,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-13,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-14,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-15,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-16,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-17,,,,,-15,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-18,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-19,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-20,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-21,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-22,,,,,-18,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-23,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-24,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-25,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-26,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-27,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-28,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-29,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-11-30,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-12-01,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-12-02,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-12-03,,,,,-7,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-12-04,,,,,-9,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-12-05,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2020-12-06,,,,,-20,
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-15,4,1,1,3,1,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-16,1,-1,4,-3,-1,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-17,1,-2,,2,0,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-18,0,-1,-10,1,2,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-19,-2,-2,,-6,2,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-20,0,0,-11,-2,0,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-21,0,5,-3,0,2,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-22,1,6,2,1,1,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-23,0,4,15,5,-2,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-24,0,7,,3,-3,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-25,1,6,-3,3,-2,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-26,1,3,1,5,-3,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-27,0,6,5,2,-3,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-28,0,6,15,5,-1,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-29,1,6,20,8,-2,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-01,0,5,12,7,-1,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-02,-1,5,,7,-1,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-03,3,3,,4,1,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-04,4,4,,6,2,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-05,2,6,9,3,1,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-06,-8,-1,7,0,3,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-07,1,8,21,8,0,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-08,5,1,18,11,2,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-09,-1,4,,6,4,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-10,-2,4,,9,4,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-11,-1,1,,5,4,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-12,-2,0,12,1,3,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-13,3,-1,17,1,5,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-14,-2,-2,18,5,-1,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-15,-4,-5,14,1,1,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-16,-7,-2,,2,3,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-17,-7,1,,2,4,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-18,-7,0,,6,1,1
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-19,-15,-3,,3,1,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-20,-9,-3,,-2,2,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-21,-15,-5,,-3,0,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-22,-20,-11,29,-10,-4,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-23,-16,-5,,-2,-3,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-24,-23,-13,,-18,-7,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-25,-15,-4,,-9,-4,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-26,-16,-5,,-5,-6,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-27,-13,-2,,-13,-7,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-28,-17,0,,-4,-2,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-29,-25,-12,25,-17,-2,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-30,-25,-19,,-21,-18,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-03-31,-25,-19,,-22,-16,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-01,-23,-20,,-23,-16,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-02,-24,-15,4,-19,-15,13
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-03,-24,-15,16,-24,-13,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-04,-29,-16,6,-21,-6,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-05,-31,-18,2,-21,-3,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-06,-22,-12,,-18,-17,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-07,-25,-12,1,-21,-19,13
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-08,-30,-18,-5,-29,-18,15
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-09,-32,-18,-9,-26,-19,16
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-10,-31,-17,-7,-32,-18,17
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-11,-31,-16,-5,-28,-7,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-12,-35,-19,-11,-33,-7,
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-13,-43,-33,,-41,-55,25
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-14,-27,-16,,-20,-17,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-15,-25,-17,,-16,-17,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-16,-28,-13,10,-16,-18,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-17,-28,-19,14,-26,-16,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-18,-28,-17,27,-19,-1,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-19,-35,-22,19,-21,-2,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-20,-24,-14,,-15,-16,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-21,-22,-13,,-20,-17,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-22,-26,-16,,-27,-17,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-23,-27,-10,-4,-23,-16,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-24,-29,-15,6,-31,-15,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-25,-30,-13,-1,-25,-3,13
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-26,-40,-25,-7,-37,-6,
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-27,-27,-14,,-24,-17,13
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-28,-28,-14,-3,-32,-17,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-29,-28,-17,,-30,-17,15
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-04-30,-23,-9,8,-24,-15,13
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-01,-37,-25,-12,-47,-45,21
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-02,-27,-12,8,-26,-5,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-03,-37,-26,0,-34,-6,
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-04,-23,-10,,-23,-16,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-05,-24,-11,,-27,-15,13
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-06,-22,-8,,-24,-13,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-07,-24,-8,12,-24,-13,12
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-08,-23,-8,12,-30,-11,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-09,-24,-6,15,-21,-1,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-10,-36,-18,5,-31,-4,
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-11,-20,-5,,-18,-11,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-12,-20,-6,,-20,-11,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-13,-21,-7,,-19,-11,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-14,-21,-4,17,-13,-11,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-15,-20,-4,19,-18,-9,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-16,-21,-1,22,-9,2,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-17,-30,-13,10,-17,2,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-18,-22,-5,,-13,-11,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-19,-22,-6,4,-19,-10,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-20,-16,-6,,-20,-10,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-21,-31,-17,-14,-36,-44,19
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-22,-20,-6,2,-26,-9,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-23,-20,-7,-3,-20,-3,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-24,-23,-11,8,-26,-2,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-25,-20,-12,,-25,-15,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-26,-19,-5,,-25,-8,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-27,-17,-7,,-22,-7,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-28,-26,-15,-7,-30,-10,11
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-29,-14,0,16,-22,-7,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-30,-18,-5,3,-24,1,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-05-31,-21,-10,2,-27,-3,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-01,-32,-20,,-41,-47,18
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-02,-19,-9,,-22,-10,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-03,-11,-2,,-17,-6,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-04,-19,-5,7,-18,-9,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-05,-12,-3,12,-19,-7,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-06,-12,-2,14,-14,0,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-07,-14,-8,9,-22,2,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-08,-15,-7,,-17,-7,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-09,-17,-9,,-26,-8,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-10,-13,-9,,-20,-7,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-11,-18,-6,20,-22,-7,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-12,-12,-4,,-23,-6,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-13,-11,-4,23,-17,0,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-14,-13,-10,8,-18,0,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-15,-15,-9,,-21,-8,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-16,-13,-6,,-22,-6,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-17,-20,-15,,-24,-8,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-18,-37,-31,-11,-43,-22,18
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-19,-12,-3,22,-21,-5,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-20,-21,-8,9,-24,-1,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-21,-19,-12,6,-20,1,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-22,-38,-30,,-42,-18,16
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-23,-12,-5,,-19,-10,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-24,-13,-8,,-18,-8,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-25,-17,-5,9,-21,-9,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-26,-15,-9,7,-24,-9,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-27,-13,-6,11,-19,-2,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-28,-26,-18,-2,-28,-10,
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-29,-20,-11,,-22,-14,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-06-30,-16,-8,,-22,-12,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-01,-16,-8,,-19,-11,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-02,-13,-4,18,-15,-12,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-03,-10,-4,26,-17,-11,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-04,-29,-22,-2,-31,-10,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-05,-13,-7,9,-15,-2,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-06,-10,-3,,-13,-13,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-07,-11,-2,,-19,-13,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-08,-13,-6,,-18,-11,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-09,-15,-4,14,-18,-12,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-10,-12,-4,13,-14,-10,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-11,-12,-1,13,-15,-2,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-12,-14,-6,9,-24,-2,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-13,-11,-4,,-14,-13,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-14,-12,-6,,-24,-12,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-15,-9,-8,,-20,-11,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-16,-12,-4,12,-18,-13,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-17,-10,-5,15,-19,-11,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-18,-11,-3,14,-19,-4,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-19,-12,-12,6,-23,-3,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-20,-11,-4,,-12,-15,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-21,-10,-5,,-18,-14,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-22,-9,-7,,-18,-12,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-23,-9,-3,18,-18,-12,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-24,-8,-5,22,-16,-10,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-25,-9,-3,20,-18,-4,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-26,-14,-9,16,-20,-3,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-27,-8,-4,,-13,-14,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-28,-9,-2,,-20,-14,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-29,-7,-4,,-12,-14,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-30,-5,4,23,-12,-15,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-07-31,-25,-24,17,-37,-54,15
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-01,-17,-17,21,-23,-25,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-02,-12,-9,14,-18,-4,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-03,-5,-1,,-9,-16,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-04,-4,1,,-17,-15,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-05,-6,-2,,-11,-14,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-06,-8,0,16,-10,-15,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-07,-4,3,22,-8,-11,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-08,-2,0,19,-3,-5,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-09,-8,-4,25,-8,2,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-10,-5,2,,-1,-14,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-11,-4,2,,-16,-13,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-12,-2,0,,-9,-11,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-13,-7,-1,21,-8,-14,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-14,-6,1,25,-10,-12,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-15,-9,-4,24,-3,-10,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-16,-9,-6,16,-8,0,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-17,,,,,-13,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-18,,,,,-10,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-19,,,,,-10,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-20,,,,,-11,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-21,,8,,,-10,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-22,,,,,-3,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-23,,,,,,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-24,,,,,-10,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-25,,,,,-10,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-26,,,,,-8,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-27,,,,,-9,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-28,,7,,,-7,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-29,,,,,-3,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-30,,,,,,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-08-31,,,,,-9,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-01,,,,,-8,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-02,,,,,-7,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-03,,,,,-7,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-04,,2,,,-7,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-05,,,,,-1,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-06,,,,,,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-07,,,,,-8,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-08,,,,,-7,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-09,,-16,,,-11,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-10,,,,,-8,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-11,9,7,,7,-6,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-12,8,10,,4,-1,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-13,-1,-5,,-1,-1,
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-14,5,7,,7,-5,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-15,-2,0,,-5,-7,13
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-16,5,5,,0,-6,10
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-17,4,6,,1,-5,10
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-18,6,4,,2,-4,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-19,6,11,,7,1,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-20,-2,-2,,3,4,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-21,8,16,,11,-6,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-22,2,20,,3,-7,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-23,-2,22,,3,-6,9
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-24,-11,17,,-6,-10,14
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-25,-1,29,,7,-6,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-26,-4,20,,1,-2,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-27,-6,27,,17,0,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-28,-4,28,,9,-6,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-29,-6,23,,-1,-8,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-09-30,-7,24,,0,-10,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-01,-12,22,,-6,-10,0
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-02,-7,26,,-4,-10,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-03,-5,33,,-1,-8,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-04,-12,24,,-2,-12,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-05,-10,29,,-2,-13,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-06,-9,23,,-10,-12,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-07,-11,19,,-4,-8,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-08,-9,24,,-4,-6,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-09,-13,14,,-11,-3,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-10,-4,28,,-2,3,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-11,-12,16,26,-8,-4,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-12,-7,25,,0,-3,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-13,-6,27,,-11,-4,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-14,-6,28,,-1,-3,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-15,-9,34,,-6,-2,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-16,-7,36,,-3,-1,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-17,-8,35,,1,0,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-18,-12,30,,7,-5,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-19,-10,35,,1,-3,8
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-20,-5,30,,-4,-1,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-21,-4,35,,4,0,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-22,-6,38,,5,-1,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-23,-4,41,,2,0,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-24,-1,40,,6,3,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-25,-12,29,,3,-5,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-26,-6,40,,5,-1,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-27,-5,39,,0,-1,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-28,-2,30,,2,0,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-29,-19,15,,-18,-41,15
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-30,-2,30,,3,0,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-10-31,-3,32,,0,3,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-01,-9,22,,0,-5,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-02,-2,34,,4,-3,6
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-03,-2,36,,-7,-2,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-04,-4,36,,2,2,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-05,-9,34,,-6,1,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-06,-5,34,,-2,3,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-07,-5,33,,-7,3,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-08,-10,29,,-3,-4,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-09,-8,35,,1,1,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-10,-6,31,,-9,0,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-11,-6,28,,-4,0,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-12,-8,28,,-6,0,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-13,-5,33,,-3,2,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-14,0,31,,-5,3,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-15,-9,27,,1,-5,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-16,-8,34,,0,2,5
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-17,-8,29,,-7,1,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-18,-7,28,,-7,2,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-19,-10,30,,-23,1,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-20,-2,36,,-18,3,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-21,0,36,,-19,2,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-22,-11,24,,-18,-6,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-23,-7,30,,-16,3,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-24,-7,31,,-27,2,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-25,-7,34,,-13,3,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-26,-9,34,,-18,3,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-27,-3,37,,-15,7,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-28,-1,34,,-20,5,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-29,-8,29,,-14,-4,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-11-30,-5,34,,-11,4,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-12-01,-4,37,,-21,4,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-12-02,-2,38,,-11,5,3
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-12-03,-5,43,,-17,7,4
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-12-04,0,40,,-14,7,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-12-05,5,44,,-20,7,2
+BJ,Benin,Littoral Department,,,BJ-LI,,2020-12-06,-5,31,,-15,-2,3
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-15,,4,,,3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-16,,8,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-17,,7,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-18,,2,,,3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-19,,-2,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-20,,3,,,8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-21,,5,,,2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-22,,0,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-23,,5,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-24,,3,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-25,,11,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-26,,4,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-27,,3,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-28,,2,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-29,,-3,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-01,,5,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-02,,-5,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-03,,3,,,6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-04,,2,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-05,,7,,,7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-06,,-5,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-07,,3,,,3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-08,,5,,,8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-09,,3,,,7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-10,,2,,,8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-11,,7,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-12,,7,,,9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-13,,2,,,9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-14,,3,,,6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-15,,5,,,10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-16,,4,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-17,,17,,,7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-18,,24,,,7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-19,,24,,,8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-20,,27,,,6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-21,,19,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-22,,24,,,7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-23,,21,,,2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-24,-27,11,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-25,,25,,,2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-26,,27,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-27,,29,,,2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-28,,23,,,2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-29,,22,,,12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-30,-28,12,,,-18,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-03-31,,19,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-01,-24,9,,,-17,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-02,-24,18,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-03,-24,12,,,-14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-04,,0,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-05,,13,,,11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-06,,17,,,-15,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-07,,19,,,-17,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-08,-22,0,,,-15,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-09,-26,-5,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-10,-24,-7,,,-13,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-11,,-14,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-12,,-8,,,12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-13,-40,-11,,,-46,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-14,,14,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-15,,15,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-16,,18,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-17,-20,11,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-18,,7,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-19,,12,,,8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-20,,20,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-21,,23,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-22,-24,2,,,-14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-23,,5,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-24,,-6,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-25,,-14,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-26,,-21,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-27,,-7,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-28,,-7,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-29,-22,-7,,,-14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-04-30,,0,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-01,-30,-12,,,-37,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-02,,-14,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-03,,-16,,,9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-04,,-3,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-05,,0,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-06,-22,4,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-07,,5,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-08,,4,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-09,,-5,,,7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-10,,-9,,,15,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-11,,6,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-12,,2,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-13,,26,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-14,-19,39,,,2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-15,,35,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-16,,31,,,19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-17,,29,,,26,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-18,,31,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-19,,8,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-20,-19,14,,,3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-21,-34,10,,,-27,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-22,,5,,,3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-23,,4,,,14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-24,,6,,,20,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-25,,3,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-26,,6,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-27,-20,4,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-28,-32,-3,,,3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-29,,7,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-30,,0,,,12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-05-31,,4,,,25,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-01,-38,-3,,,-35,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-02,,0,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-03,,8,,,3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-04,,6,,,2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-05,,10,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-06,,0,,,16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-07,,10,,,26,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-08,,8,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-09,,5,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-10,,5,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-11,,7,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-12,,8,,,3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-13,,2,,,14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-14,,4,,,25,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-15,,1,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-16,,8,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-17,-21,-1,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-18,-41,-19,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-19,,12,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-20,,-3,,,9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-21,,1,,,26,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-22,-38,-22,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-23,,10,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-24,,6,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-25,,7,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-26,,5,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-27,,1,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-28,,-7,,,8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-29,,1,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-06-30,,9,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-01,-21,5,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-02,,11,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-03,,12,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-04,,-10,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-05,,15,,,12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-06,,11,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-07,,13,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-08,,11,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-09,,20,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-10,,17,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-11,,13,,,11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-12,,14,,,21,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-13,,17,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-14,,20,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-15,,16,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-16,,18,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-17,,16,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-18,,6,,,9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-19,,12,,,28,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-20,,11,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-21,,15,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-22,,16,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-23,,27,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-24,,21,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-25,,11,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-26,,20,,,19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-27,,18,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-28,,19,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-29,,14,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-30,,29,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-07-31,-30,6,,,-46,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-01,,1,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-02,,21,,,20,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-03,,14,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-04,,19,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-05,,22,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-06,,24,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-07,,23,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-08,,15,,,14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-09,,24,,,18,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-10,,23,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-11,,28,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-12,,22,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-13,,27,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-14,,28,,,-1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-15,,17,,,7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-08-16,,25,,,22,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-11,,35,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-12,,36,,,13,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-13,,30,,,27,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-14,,34,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-15,,14,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-16,,30,,,1,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-17,,29,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-18,,42,,,5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-19,,31,,,13,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-20,,21,,,19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-21,,42,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-22,,50,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-23,,53,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-24,-21,47,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-25,,61,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-26,,49,,,0,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-27,,59,,,4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-28,,57,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-29,-24,62,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-09-30,-25,50,,,-17,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-01,-30,37,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-02,-28,42,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-03,,42,,,-20,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-04,,38,,,-21,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-05,-37,34,,,-23,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-06,-31,44,,,-21,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-07,-34,42,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-08,-25,43,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-09,-25,41,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-10,,38,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-11,,37,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-12,,41,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-13,-27,44,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-14,-27,54,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-15,-25,53,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-16,-26,48,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-17,,42,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-18,,42,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-19,-28,50,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-20,-27,46,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-21,,59,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-22,,66,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-23,,59,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-24,,56,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-25,,43,,,-2,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-26,,60,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-27,,58,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-28,-24,55,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-29,-44,42,,,-41,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-30,,58,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-10-31,,51,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-01,,45,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-02,,48,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-03,,57,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-04,-23,54,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-05,-22,53,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-06,,50,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-07,,38,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-08,,52,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-09,,51,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-10,,56,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-11,-23,50,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-12,-24,51,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-13,-26,53,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-14,,53,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-15,,40,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-16,,51,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-17,-26,42,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-18,-30,49,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-19,-27,58,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-20,-23,48,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-21,,51,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-22,,51,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-23,-30,45,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-24,-30,44,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-25,-26,41,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-26,-27,48,,,-3,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-27,-20,55,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-28,,51,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-29,,48,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-11-30,,59,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-12-01,,51,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-12-02,-22,56,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-12-03,-26,65,,,-4,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-12-04,,59,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-12-05,,58,,,-6,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2020-12-06,,54,,,-10,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-02-17,,,,,2,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-02-24,,,,,-7,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-02-27,,,,,-2,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-03-02,,,,,-7,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-03-09,,,,,4,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-03-16,,,,,9,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-03-30,,,,,-4,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-04-02,,,,,-5,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-04-06,,,,,-4,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-04-09,,,,,-5,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-04-13,,,,,-30,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-04-16,,,,,-9,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-04-20,,,,,-8,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-04-27,,,,,2,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-05-04,,,,,1,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-05-11,,,,,2,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-05-18,,,,,1,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-05-21,,,,,-17,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-05-25,,,,,3,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-06-01,,,,,-25,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-06-08,,,,,7,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-06-15,,,,,3,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-06-22,,,,,3,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-06-29,,,,,5,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-07-06,,,,,2,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-07-13,,,,,-6,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-07-16,,,,,-4,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-07-20,,,,,-6,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-07-23,,,,,-3,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-07-27,,,,,-4,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-07-30,,,,,-1,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-08-03,,,,,-5,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-08-06,,,,,-4,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-08-10,,,,,-5,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-14,,,,,0,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-17,,,,,-1,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-21,,,,,-2,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-22,,,,,-7,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-23,,,,,-11,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-24,,,,,-20,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-28,,,,,-20,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-29,,,,,-21,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-09-30,,,,,-23,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-01,,,,,-32,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-02,,,,,-24,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-05,,,,,-32,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-06,,,,,-29,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-07,,,,,-22,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-08,,,,,-21,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-12,,,,,-23,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-13,,,,,-16,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-14,,,,,-10,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-15,,,,,-12,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-19,,,,,-22,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-20,,,,,-8,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-21,,,,,-13,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-22,,,,,-17,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-26,,,,,-11,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-27,,,,,-10,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-28,,,,,-16,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-10-29,,,,,-43,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-02,,,,,-23,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-03,,,,,-11,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-04,,,,,-14,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-05,,,,,-17,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-09,,,,,-24,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-10,,,,,-17,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-11,,,,,-20,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-12,,,,,-20,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-16,,,,,-21,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-17,,,,,-15,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-18,,,,,-18,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-19,,,,,-17,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-23,,,,,-23,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-24,,,,,-9,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-25,,,,,-18,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-26,,,,,-15,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-11-30,,,,,-18,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-12-01,,,,,-6,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-12-02,,,,,-9,
+BJ,Benin,Zou Department,,,BJ-ZO,,2020-12-03,,,,,-10,

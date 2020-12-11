@@ -1,0 +1,889 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+MM,Myanmar (Burma),,,,,,2020-02-15,0,0,-2,-1,4,2
+MM,Myanmar (Burma),,,,,,2020-02-16,-1,-1,-1,0,0,2
+MM,Myanmar (Burma),,,,,,2020-02-17,-1,2,0,1,5,1
+MM,Myanmar (Burma),,,,,,2020-02-18,0,2,-1,0,4,1
+MM,Myanmar (Burma),,,,,,2020-02-19,-3,-1,-2,-3,5,1
+MM,Myanmar (Burma),,,,,,2020-02-20,-1,1,-1,0,5,2
+MM,Myanmar (Burma),,,,,,2020-02-21,-2,0,-3,-1,7,2
+MM,Myanmar (Burma),,,,,,2020-02-22,1,-4,-2,-1,2,2
+MM,Myanmar (Burma),,,,,,2020-02-23,-2,0,-2,-1,5,2
+MM,Myanmar (Burma),,,,,,2020-02-24,-1,0,-2,0,6,2
+MM,Myanmar (Burma),,,,,,2020-02-25,0,2,-1,-1,5,2
+MM,Myanmar (Burma),,,,,,2020-02-26,-3,-1,-1,-3,5,2
+MM,Myanmar (Burma),,,,,,2020-02-27,0,-1,-3,-2,6,2
+MM,Myanmar (Burma),,,,,,2020-02-28,3,4,-3,2,10,1
+MM,Myanmar (Burma),,,,,,2020-02-29,5,6,0,5,7,0
+MM,Myanmar (Burma),,,,,,2020-03-01,5,3,4,2,3,1
+MM,Myanmar (Burma),,,,,,2020-03-02,6,6,6,-1,-40,7
+MM,Myanmar (Burma),,,,,,2020-03-03,4,8,3,4,6,0
+MM,Myanmar (Burma),,,,,,2020-03-04,3,6,2,2,7,1
+MM,Myanmar (Burma),,,,,,2020-03-05,4,6,2,4,7,1
+MM,Myanmar (Burma),,,,,,2020-03-06,4,7,0,6,9,1
+MM,Myanmar (Burma),,,,,,2020-03-07,5,6,3,4,7,1
+MM,Myanmar (Burma),,,,,,2020-03-08,4,-3,11,0,-5,1
+MM,Myanmar (Burma),,,,,,2020-03-09,5,9,8,0,-35,7
+MM,Myanmar (Burma),,,,,,2020-03-10,4,8,5,4,5,1
+MM,Myanmar (Burma),,,,,,2020-03-11,3,7,4,2,4,2
+MM,Myanmar (Burma),,,,,,2020-03-12,3,7,2,2,4,2
+MM,Myanmar (Burma),,,,,,2020-03-13,0,9,-1,1,6,3
+MM,Myanmar (Burma),,,,,,2020-03-14,-4,1,-4,-3,9,3
+MM,Myanmar (Burma),,,,,,2020-03-15,-6,0,-3,-4,8,3
+MM,Myanmar (Burma),,,,,,2020-03-16,0,2,1,2,1,3
+MM,Myanmar (Burma),,,,,,2020-03-17,-1,4,1,-2,2,3
+MM,Myanmar (Burma),,,,,,2020-03-18,-1,4,1,-3,3,3
+MM,Myanmar (Burma),,,,,,2020-03-19,-4,2,-1,-4,3,4
+MM,Myanmar (Burma),,,,,,2020-03-20,-5,2,-4,-4,5,4
+MM,Myanmar (Burma),,,,,,2020-03-21,-8,-2,-7,-7,7,4
+MM,Myanmar (Burma),,,,,,2020-03-22,-12,-5,-7,-10,6,5
+MM,Myanmar (Burma),,,,,,2020-03-23,-6,-3,0,-6,-1,4
+MM,Myanmar (Burma),,,,,,2020-03-24,-8,14,-2,-2,-5,4
+MM,Myanmar (Burma),,,,,,2020-03-25,-19,-4,-4,-12,-11,7
+MM,Myanmar (Burma),,,,,,2020-03-26,-22,-10,-5,-16,-13,8
+MM,Myanmar (Burma),,,,,,2020-03-27,-36,-21,-13,-30,-43,17
+MM,Myanmar (Burma),,,,,,2020-03-28,-40,-23,-17,-31,-13,12
+MM,Myanmar (Burma),,,,,,2020-03-29,-46,-29,-19,-35,-10,12
+MM,Myanmar (Burma),,,,,,2020-03-30,-39,-20,-11,-30,-21,11
+MM,Myanmar (Burma),,,,,,2020-03-31,-39,-19,-11,-30,-24,11
+MM,Myanmar (Burma),,,,,,2020-04-01,-44,-23,-12,-35,-29,13
+MM,Myanmar (Burma),,,,,,2020-04-02,-44,-25,-13,-36,-29,14
+MM,Myanmar (Burma),,,,,,2020-04-03,-47,-27,-15,-39,-28,15
+MM,Myanmar (Burma),,,,,,2020-04-04,-49,-29,-19,-40,-22,14
+MM,Myanmar (Burma),,,,,,2020-04-05,-51,-29,-20,-41,-19,13
+MM,Myanmar (Burma),,,,,,2020-04-06,-44,-21,-10,-37,-33,14
+MM,Myanmar (Burma),,,,,,2020-04-07,-46,-24,-10,-40,-37,15
+MM,Myanmar (Burma),,,,,,2020-04-08,-48,-21,-11,-41,-37,15
+MM,Myanmar (Burma),,,,,,2020-04-09,-47,-18,-11,-40,-41,16
+MM,Myanmar (Burma),,,,,,2020-04-10,-65,-46,-21,-63,-60,25
+MM,Myanmar (Burma),,,,,,2020-04-11,-66,-49,-24,-64,-48,22
+MM,Myanmar (Burma),,,,,,2020-04-12,-70,-58,-27,-67,-37,19
+MM,Myanmar (Burma),,,,,,2020-04-13,-71,-61,-20,-69,-67,27
+MM,Myanmar (Burma),,,,,,2020-04-14,-73,-64,-22,-72,-68,28
+MM,Myanmar (Burma),,,,,,2020-04-15,-74,-65,-24,-73,-68,28
+MM,Myanmar (Burma),,,,,,2020-04-16,-73,-64,-23,-72,-68,29
+MM,Myanmar (Burma),,,,,,2020-04-17,-74,-64,-26,-72,-67,31
+MM,Myanmar (Burma),,,,,,2020-04-18,-71,-58,-31,-69,-50,23
+MM,Myanmar (Burma),,,,,,2020-04-19,-69,-56,-30,-67,-33,20
+MM,Myanmar (Burma),,,,,,2020-04-20,-60,-43,-19,-57,-42,21
+MM,Myanmar (Burma),,,,,,2020-04-21,-60,-45,-20,-58,-45,21
+MM,Myanmar (Burma),,,,,,2020-04-22,-60,-45,-20,-58,-44,20
+MM,Myanmar (Burma),,,,,,2020-04-23,-60,-45,-21,-57,-44,21
+MM,Myanmar (Burma),,,,,,2020-04-24,-61,-45,-22,-57,-42,22
+MM,Myanmar (Burma),,,,,,2020-04-25,-63,-49,-27,-60,-34,20
+MM,Myanmar (Burma),,,,,,2020-04-26,-65,-51,-28,-61,-25,19
+MM,Myanmar (Burma),,,,,,2020-04-27,-59,-43,-19,-55,-41,20
+MM,Myanmar (Burma),,,,,,2020-04-28,-57,-41,-17,-54,-40,19
+MM,Myanmar (Burma),,,,,,2020-04-29,-56,-39,-16,-52,-39,19
+MM,Myanmar (Burma),,,,,,2020-04-30,-52,-34,-13,-48,-36,18
+MM,Myanmar (Burma),,,,,,2020-05-01,-58,-41,-22,-55,-53,23
+MM,Myanmar (Burma),,,,,,2020-05-02,-57,-41,-23,-52,-26,17
+MM,Myanmar (Burma),,,,,,2020-05-03,-59,-44,-25,-54,-18,15
+MM,Myanmar (Burma),,,,,,2020-05-04,-51,-33,-14,-45,-31,16
+MM,Myanmar (Burma),,,,,,2020-05-05,-49,-31,-15,-44,-31,15
+MM,Myanmar (Burma),,,,,,2020-05-06,-54,-38,-16,-51,-54,21
+MM,Myanmar (Burma),,,,,,2020-05-07,-47,-29,-13,-41,-28,16
+MM,Myanmar (Burma),,,,,,2020-05-08,-48,-31,-19,-43,-26,18
+MM,Myanmar (Burma),,,,,,2020-05-09,-51,-35,-22,-44,-17,15
+MM,Myanmar (Burma),,,,,,2020-05-10,-52,-36,-23,-46,-12,14
+MM,Myanmar (Burma),,,,,,2020-05-11,-46,-29,-14,-40,-26,15
+MM,Myanmar (Burma),,,,,,2020-05-12,-45,-28,-14,-40,-27,15
+MM,Myanmar (Burma),,,,,,2020-05-13,-47,-30,-14,-42,-27,15
+MM,Myanmar (Burma),,,,,,2020-05-14,-45,-30,-15,-40,-27,15
+MM,Myanmar (Burma),,,,,,2020-05-15,-44,-27,-14,-38,-22,16
+MM,Myanmar (Burma),,,,,,2020-05-16,-44,-28,-18,-37,-10,14
+MM,Myanmar (Burma),,,,,,2020-05-17,-46,-31,-22,-41,-9,13
+MM,Myanmar (Burma),,,,,,2020-05-18,-39,-23,-13,-34,-21,14
+MM,Myanmar (Burma),,,,,,2020-05-19,-42,-28,-16,-37,-24,14
+MM,Myanmar (Burma),,,,,,2020-05-20,-42,-26,-16,-38,-23,15
+MM,Myanmar (Burma),,,,,,2020-05-21,-41,-28,-16,-37,-25,15
+MM,Myanmar (Burma),,,,,,2020-05-22,-39,-22,-18,-34,-19,15
+MM,Myanmar (Burma),,,,,,2020-05-23,-40,-25,-20,-35,-9,13
+MM,Myanmar (Burma),,,,,,2020-05-24,-41,-25,-20,-37,-6,12
+MM,Myanmar (Burma),,,,,,2020-05-25,-35,-18,-12,-31,-19,13
+MM,Myanmar (Burma),,,,,,2020-05-26,-35,-20,-13,-32,-19,12
+MM,Myanmar (Burma),,,,,,2020-05-27,-38,-24,-14,-35,-20,13
+MM,Myanmar (Burma),,,,,,2020-05-28,-36,-21,-16,-33,-19,14
+MM,Myanmar (Burma),,,,,,2020-05-29,-33,-17,-16,-30,-16,14
+MM,Myanmar (Burma),,,,,,2020-05-30,-32,-15,-20,-29,-5,10
+MM,Myanmar (Burma),,,,,,2020-05-31,-34,-17,-19,-30,-2,10
+MM,Myanmar (Burma),,,,,,2020-06-01,-26,-12,-12,-24,-12,10
+MM,Myanmar (Burma),,,,,,2020-06-02,-25,-12,-12,-23,-14,10
+MM,Myanmar (Burma),,,,,,2020-06-03,-26,-13,-11,-25,-14,11
+MM,Myanmar (Burma),,,,,,2020-06-04,-26,-14,-12,-24,-13,11
+MM,Myanmar (Burma),,,,,,2020-06-05,-25,-16,-13,-24,-13,12
+MM,Myanmar (Burma),,,,,,2020-06-06,-25,-13,-17,-23,-3,9
+MM,Myanmar (Burma),,,,,,2020-06-07,-26,-14,-17,-24,-2,10
+MM,Myanmar (Burma),,,,,,2020-06-08,-22,-9,-11,-19,-11,10
+MM,Myanmar (Burma),,,,,,2020-06-09,-22,-12,-12,-22,-12,10
+MM,Myanmar (Burma),,,,,,2020-06-10,-23,-13,-13,-24,-12,11
+MM,Myanmar (Burma),,,,,,2020-06-11,-22,-13,-14,-23,-12,11
+MM,Myanmar (Burma),,,,,,2020-06-12,-21,-12,-14,-22,-9,11
+MM,Myanmar (Burma),,,,,,2020-06-13,-22,-14,-16,-22,-3,9
+MM,Myanmar (Burma),,,,,,2020-06-14,-26,-16,-18,-27,0,10
+MM,Myanmar (Burma),,,,,,2020-06-15,-19,-10,-11,-20,-10,9
+MM,Myanmar (Burma),,,,,,2020-06-16,-16,-7,-10,-18,-10,9
+MM,Myanmar (Burma),,,,,,2020-06-17,-20,-11,-13,-22,-10,10
+MM,Myanmar (Burma),,,,,,2020-06-18,-22,-14,-14,-24,-12,10
+MM,Myanmar (Burma),,,,,,2020-06-19,-20,-15,-13,-23,-11,11
+MM,Myanmar (Burma),,,,,,2020-06-20,-20,-12,-17,-22,0,9
+MM,Myanmar (Burma),,,,,,2020-06-21,-21,-11,-15,-23,2,9
+MM,Myanmar (Burma),,,,,,2020-06-22,-16,-7,-7,-18,-10,9
+MM,Myanmar (Burma),,,,,,2020-06-23,-16,-7,-10,-19,-12,9
+MM,Myanmar (Burma),,,,,,2020-06-24,-18,-9,-11,-21,-11,9
+MM,Myanmar (Burma),,,,,,2020-06-25,-19,-11,-13,-20,-11,10
+MM,Myanmar (Burma),,,,,,2020-06-26,-20,-12,-14,-23,-9,10
+MM,Myanmar (Burma),,,,,,2020-06-27,-20,-14,-17,-23,-4,9
+MM,Myanmar (Burma),,,,,,2020-06-28,-24,-16,-20,-28,-1,9
+MM,Myanmar (Burma),,,,,,2020-06-29,-14,-5,-11,-18,-10,9
+MM,Myanmar (Burma),,,,,,2020-06-30,-8,1,-9,-14,-9,8
+MM,Myanmar (Burma),,,,,,2020-07-01,-14,-5,-12,-18,-10,9
+MM,Myanmar (Burma),,,,,,2020-07-02,-11,-2,-11,-15,-11,9
+MM,Myanmar (Burma),,,,,,2020-07-03,-12,-4,-13,-16,-9,10
+MM,Myanmar (Burma),,,,,,2020-07-04,-15,-12,-18,-21,-7,9
+MM,Myanmar (Burma),,,,,,2020-07-05,-11,-1,-13,-14,-2,8
+MM,Myanmar (Burma),,,,,,2020-07-06,-11,-2,-9,-14,-12,9
+MM,Myanmar (Burma),,,,,,2020-07-07,-9,0,-9,-13,-12,9
+MM,Myanmar (Burma),,,,,,2020-07-08,-13,-5,-11,-17,-11,9
+MM,Myanmar (Burma),,,,,,2020-07-09,-12,-4,-11,-15,-11,9
+MM,Myanmar (Burma),,,,,,2020-07-10,-13,-6,-12,-17,-9,10
+MM,Myanmar (Burma),,,,,,2020-07-11,-13,-6,-15,-16,-1,8
+MM,Myanmar (Burma),,,,,,2020-07-12,-17,-11,-15,-21,-4,9
+MM,Myanmar (Burma),,,,,,2020-07-13,-13,-3,-10,-15,-10,9
+MM,Myanmar (Burma),,,,,,2020-07-14,-10,-2,-9,-15,-11,9
+MM,Myanmar (Burma),,,,,,2020-07-15,-12,-4,-11,-16,-10,9
+MM,Myanmar (Burma),,,,,,2020-07-16,-13,-7,-12,-16,-10,10
+MM,Myanmar (Burma),,,,,,2020-07-17,-12,-5,-12,-14,-8,10
+MM,Myanmar (Burma),,,,,,2020-07-18,-12,-4,-14,-14,-2,8
+MM,Myanmar (Burma),,,,,,2020-07-19,-11,-9,-8,-18,-9,8
+MM,Myanmar (Burma),,,,,,2020-07-20,-9,1,-6,-17,-41,14
+MM,Myanmar (Burma),,,,,,2020-07-21,-11,-3,-10,-13,-11,9
+MM,Myanmar (Burma),,,,,,2020-07-22,-13,-5,-10,-16,-9,9
+MM,Myanmar (Burma),,,,,,2020-07-23,-12,-5,-11,-15,-9,10
+MM,Myanmar (Burma),,,,,,2020-07-24,-11,-3,-9,-13,-6,9
+MM,Myanmar (Burma),,,,,,2020-07-25,-13,-6,-13,-15,0,8
+MM,Myanmar (Burma),,,,,,2020-07-26,-14,-6,-12,-18,0,9
+MM,Myanmar (Burma),,,,,,2020-07-27,-11,-3,-7,-12,-12,9
+MM,Myanmar (Burma),,,,,,2020-07-28,-11,-3,-9,-14,-11,9
+MM,Myanmar (Burma),,,,,,2020-07-29,-10,-2,-10,-14,-11,9
+MM,Myanmar (Burma),,,,,,2020-07-30,-2,6,-8,-5,-10,7
+MM,Myanmar (Burma),,,,,,2020-07-31,-2,8,-7,-8,-35,12
+MM,Myanmar (Burma),,,,,,2020-08-01,-6,2,-7,-13,-20,9
+MM,Myanmar (Burma),,,,,,2020-08-02,-7,4,-6,-12,-6,6
+MM,Myanmar (Burma),,,,,,2020-08-03,-12,-10,-2,-21,-56,14
+MM,Myanmar (Burma),,,,,,2020-08-04,-8,1,-9,-10,-13,8
+MM,Myanmar (Burma),,,,,,2020-08-05,-6,5,-9,-9,-10,9
+MM,Myanmar (Burma),,,,,,2020-08-06,-8,2,-10,-9,-10,9
+MM,Myanmar (Burma),,,,,,2020-08-07,-9,0,-9,-12,-7,9
+MM,Myanmar (Burma),,,,,,2020-08-08,-7,1,-10,-10,2,8
+MM,Myanmar (Burma),,,,,,2020-08-09,-5,6,-7,-9,3,7
+MM,Myanmar (Burma),,,,,,2020-08-10,-5,5,-4,-8,-9,8
+MM,Myanmar (Burma),,,,,,2020-08-11,-6,-1,-6,-11,-12,8
+MM,Myanmar (Burma),,,,,,2020-08-12,-6,4,-6,-11,-10,8
+MM,Myanmar (Burma),,,,,,2020-08-13,-7,1,-9,-12,-10,9
+MM,Myanmar (Burma),,,,,,2020-08-14,-8,1,-10,-11,-7,9
+MM,Myanmar (Burma),,,,,,2020-08-15,-8,0,-13,-12,0,8
+MM,Myanmar (Burma),,,,,,2020-08-16,-9,2,-12,-14,1,8
+MM,Myanmar (Burma),,,,,,2020-08-17,-8,4,-5,-8,-8,8
+MM,Myanmar (Burma),,,,,,2020-08-18,-8,-4,-6,-13,-11,8
+MM,Myanmar (Burma),,,,,,2020-08-19,-8,3,-7,-10,-8,8
+MM,Myanmar (Burma),,,,,,2020-08-20,-10,0,-9,-11,-8,9
+MM,Myanmar (Burma),,,,,,2020-08-21,-12,-3,-12,-13,-6,10
+MM,Myanmar (Burma),,,,,,2020-08-22,-17,-7,-18,-17,1,10
+MM,Myanmar (Burma),,,,,,2020-08-23,-15,-3,-14,-15,2,10
+MM,Myanmar (Burma),,,,,,2020-08-24,-12,-3,-10,-12,-7,10
+MM,Myanmar (Burma),,,,,,2020-08-25,-8,1,-7,-11,-7,9
+MM,Myanmar (Burma),,,,,,2020-08-26,-16,-8,-11,-19,-9,10
+MM,Myanmar (Burma),,,,,,2020-08-27,-14,-4,-9,-15,-8,11
+MM,Myanmar (Burma),,,,,,2020-08-28,-17,-8,-12,-19,-6,12
+MM,Myanmar (Burma),,,,,,2020-08-29,-19,-8,-16,-20,1,11
+MM,Myanmar (Burma),,,,,,2020-08-30,-22,-11,-16,-25,1,12
+MM,Myanmar (Burma),,,,,,2020-08-31,-13,-2,-7,-15,-8,11
+MM,Myanmar (Burma),,,,,,2020-09-01,-12,-1,-8,-18,-10,11
+MM,Myanmar (Burma),,,,,,2020-09-02,-18,-11,-11,-25,-17,13
+MM,Myanmar (Burma),,,,,,2020-09-03,-20,-8,-12,-24,-14,14
+MM,Myanmar (Burma),,,,,,2020-09-04,-23,-10,-15,-26,-13,15
+MM,Myanmar (Burma),,,,,,2020-09-05,-27,-14,-19,-29,-6,15
+MM,Myanmar (Burma),,,,,,2020-09-06,-30,-17,-20,-33,-6,15
+MM,Myanmar (Burma),,,,,,2020-09-07,-26,-13,-13,-29,-18,16
+MM,Myanmar (Burma),,,,,,2020-09-08,-29,-14,-13,-31,-20,16
+MM,Myanmar (Burma),,,,,,2020-09-09,-32,-19,-15,-36,-21,17
+MM,Myanmar (Burma),,,,,,2020-09-10,-33,-23,-16,-37,-26,19
+MM,Myanmar (Burma),,,,,,2020-09-11,-36,-19,-19,-39,-23,21
+MM,Myanmar (Burma),,,,,,2020-09-12,-42,-28,-26,-46,-18,21
+MM,Myanmar (Burma),,,,,,2020-09-13,-47,-33,-26,-51,-17,21
+MM,Myanmar (Burma),,,,,,2020-09-14,-42,-28,-20,-45,-28,22
+MM,Myanmar (Burma),,,,,,2020-09-15,-42,-27,-21,-47,-30,23
+MM,Myanmar (Burma),,,,,,2020-09-16,-45,-34,-22,-50,-34,24
+MM,Myanmar (Burma),,,,,,2020-09-17,-46,-33,-23,-48,-33,25
+MM,Myanmar (Burma),,,,,,2020-09-18,-49,-34,-25,-50,-32,27
+MM,Myanmar (Burma),,,,,,2020-09-19,-54,-40,-32,-56,-27,26
+MM,Myanmar (Burma),,,,,,2020-09-20,-57,-44,-34,-59,-24,26
+MM,Myanmar (Burma),,,,,,2020-09-21,-52,-36,-26,-54,-41,28
+MM,Myanmar (Burma),,,,,,2020-09-22,-54,-37,-25,-56,-44,28
+MM,Myanmar (Burma),,,,,,2020-09-23,-56,-37,-26,-55,-45,29
+MM,Myanmar (Burma),,,,,,2020-09-24,-61,-47,-29,-62,-53,32
+MM,Myanmar (Burma),,,,,,2020-09-25,-62,-46,-32,-63,-50,34
+MM,Myanmar (Burma),,,,,,2020-09-26,-63,-48,-34,-64,-44,31
+MM,Myanmar (Burma),,,,,,2020-09-27,-65,-50,-33,-65,-36,29
+MM,Myanmar (Burma),,,,,,2020-09-28,-64,-48,-32,-65,-54,34
+MM,Myanmar (Burma),,,,,,2020-09-29,-64,-48,-33,-65,-55,33
+MM,Myanmar (Burma),,,,,,2020-09-30,-61,-41,-37,-63,-54,30
+MM,Myanmar (Burma),,,,,,2020-10-01,-64,-48,-43,-66,-60,30
+MM,Myanmar (Burma),,,,,,2020-10-02,-63,-40,-44,-63,-56,31
+MM,Myanmar (Burma),,,,,,2020-10-03,-65,-44,-48,-66,-52,28
+MM,Myanmar (Burma),,,,,,2020-10-04,-66,-45,-46,-66,-44,26
+MM,Myanmar (Burma),,,,,,2020-10-05,-61,-39,-43,-61,-57,29
+MM,Myanmar (Burma),,,,,,2020-10-06,-61,-39,-42,-62,-57,28
+MM,Myanmar (Burma),,,,,,2020-10-07,-61,-39,-42,-61,-54,28
+MM,Myanmar (Burma),,,,,,2020-10-08,-59,-39,-41,-61,-51,29
+MM,Myanmar (Burma),,,,,,2020-10-09,-61,-41,-42,-61,-51,31
+MM,Myanmar (Burma),,,,,,2020-10-10,-62,-42,-45,-62,-43,29
+MM,Myanmar (Burma),,,,,,2020-10-11,-63,-43,-43,-63,-33,27
+MM,Myanmar (Burma),,,,,,2020-10-12,-58,-37,-40,-58,-49,30
+MM,Myanmar (Burma),,,,,,2020-10-13,-57,-36,-40,-58,-49,29
+MM,Myanmar (Burma),,,,,,2020-10-14,-57,-35,-39,-57,-46,28
+MM,Myanmar (Burma),,,,,,2020-10-15,-56,-34,-36,-55,-45,29
+MM,Myanmar (Burma),,,,,,2020-10-16,-59,-38,-40,-57,-46,31
+MM,Myanmar (Burma),,,,,,2020-10-17,-61,-37,-43,-56,-37,27
+MM,Myanmar (Burma),,,,,,2020-10-18,-60,-38,-39,-57,-30,25
+MM,Myanmar (Burma),,,,,,2020-10-19,-56,-33,-37,-52,-43,28
+MM,Myanmar (Burma),,,,,,2020-10-20,-57,-35,-39,-56,-44,28
+MM,Myanmar (Burma),,,,,,2020-10-21,-55,-31,-38,-53,-43,28
+MM,Myanmar (Burma),,,,,,2020-10-22,-54,-31,-37,-52,-42,27
+MM,Myanmar (Burma),,,,,,2020-10-23,-54,-29,-38,-52,-39,28
+MM,Myanmar (Burma),,,,,,2020-10-24,-55,-32,-39,-52,-33,25
+MM,Myanmar (Burma),,,,,,2020-10-25,-54,-30,-37,-52,-26,23
+MM,Myanmar (Burma),,,,,,2020-10-26,-50,-24,-34,-47,-38,25
+MM,Myanmar (Burma),,,,,,2020-10-27,-48,-23,-34,-46,-39,24
+MM,Myanmar (Burma),,,,,,2020-10-28,-46,-17,-35,-43,-36,23
+MM,Myanmar (Burma),,,,,,2020-10-29,-47,-18,-36,-46,-54,26
+MM,Myanmar (Burma),,,,,,2020-10-30,-47,-14,-36,-46,-54,27
+MM,Myanmar (Burma),,,,,,2020-10-31,-54,-31,-35,-52,-52,25
+MM,Myanmar (Burma),,,,,,2020-11-01,-50,-25,-33,-46,-28,21
+MM,Myanmar (Burma),,,,,,2020-11-02,-51,-27,-36,-48,-57,28
+MM,Myanmar (Burma),,,,,,2020-11-03,-44,-20,-33,-42,-36,23
+MM,Myanmar (Burma),,,,,,2020-11-04,-48,-24,-35,-44,-36,24
+MM,Myanmar (Burma),,,,,,2020-11-05,-46,-22,-30,-42,-35,23
+MM,Myanmar (Burma),,,,,,2020-11-06,-49,-24,-31,-43,-33,24
+MM,Myanmar (Burma),,,,,,2020-11-07,-50,-26,-34,-44,-24,22
+MM,Myanmar (Burma),,,,,,2020-11-08,-48,-27,-29,-43,-28,20
+MM,Myanmar (Burma),,,,,,2020-11-09,-46,-23,-28,-41,-34,23
+MM,Myanmar (Burma),,,,,,2020-11-10,-44,-21,-27,-40,-34,23
+MM,Myanmar (Burma),,,,,,2020-11-11,-45,-21,-28,-41,-33,23
+MM,Myanmar (Burma),,,,,,2020-11-12,-45,-22,-27,-40,-33,23
+MM,Myanmar (Burma),,,,,,2020-11-13,-47,-22,-28,-44,-47,27
+MM,Myanmar (Burma),,,,,,2020-11-14,-49,-30,-31,-45,-37,23
+MM,Myanmar (Burma),,,,,,2020-11-15,-49,-25,-28,-44,-21,20
+MM,Myanmar (Burma),,,,,,2020-11-16,-44,-22,-25,-39,-32,22
+MM,Myanmar (Burma),,,,,,2020-11-17,-44,-21,-25,-39,-33,22
+MM,Myanmar (Burma),,,,,,2020-11-18,-45,-22,-26,-40,-32,22
+MM,Myanmar (Burma),,,,,,2020-11-19,-44,-20,-25,-38,-32,22
+MM,Myanmar (Burma),,,,,,2020-11-20,-44,-17,-24,-36,-30,22
+MM,Myanmar (Burma),,,,,,2020-11-21,-49,-25,-30,-42,-21,21
+MM,Myanmar (Burma),,,,,,2020-11-22,-50,-28,-28,-45,-22,21
+MM,Myanmar (Burma),,,,,,2020-11-23,-46,-23,-26,-40,-32,22
+MM,Myanmar (Burma),,,,,,2020-11-24,-45,-23,-26,-40,-32,22
+MM,Myanmar (Burma),,,,,,2020-11-25,-45,-22,-26,-40,-30,22
+MM,Myanmar (Burma),,,,,,2020-11-26,-41,-16,-24,-36,-29,21
+MM,Myanmar (Burma),,,,,,2020-11-27,-45,-17,-24,-41,-47,25
+MM,Myanmar (Burma),,,,,,2020-11-28,-46,-19,-27,-40,-32,21
+MM,Myanmar (Burma),,,,,,2020-11-29,-46,-24,-19,-40,-28,18
+MM,Myanmar (Burma),,,,,,2020-11-30,-44,-18,-23,-40,-52,25
+MM,Myanmar (Burma),,,,,,2020-12-01,-41,-18,-24,-37,-30,21
+MM,Myanmar (Burma),,,,,,2020-12-02,-42,-17,-25,-36,-28,21
+MM,Myanmar (Burma),,,,,,2020-12-03,-42,-18,-25,-36,-29,22
+MM,Myanmar (Burma),,,,,,2020-12-04,-42,-17,-26,-36,-26,22
+MM,Myanmar (Burma),,,,,,2020-12-05,-47,-22,-30,-36,-21,20
+MM,Myanmar (Burma),,,,,,2020-12-06,-47,-22,-26,-37,-20,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-15,0,10,6,-3,13,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-16,0,3,9,1,-10,2
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-17,-3,9,4,-3,4,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-18,-2,6,-2,-5,4,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-19,-1,4,-4,-5,4,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-20,-3,8,10,-6,3,2
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-21,-5,7,2,-6,13,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-22,-2,-1,2,-4,-7,2
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-23,-1,11,0,2,2,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-24,-2,8,-1,-4,5,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-25,-2,8,-1,-9,6,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-26,-4,5,-2,-5,5,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-27,-5,8,-2,-9,6,2
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-28,-4,14,-8,-4,17,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-02-29,3,16,-12,4,15,0
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-01,5,14,4,1,-9,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-02,3,18,-2,4,-28,5
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-03,1,17,-7,1,7,0
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-04,2,15,-7,-1,7,0
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-05,0,18,-6,-5,7,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-06,-2,18,-9,4,16,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-07,3,15,-3,8,15,0
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-08,0,2,0,-9,-23,1
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-09,4,20,1,6,-26,4
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-10,3,20,-1,3,5,0
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-11,4,18,-6,3,3,0
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-12,-1,20,1,0,2,2
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-13,-5,18,2,4,12,3
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-14,-7,9,-9,4,15,2
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-15,-7,10,-3,-6,6,2
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-16,-3,9,2,-5,-10,3
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-17,-4,15,-4,0,-2,3
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-18,-4,17,-1,2,-2,2
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-19,-7,14,-2,-1,0,4
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-20,-12,10,3,-5,9,5
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-21,-10,4,-2,-6,16,4
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-22,-12,5,-6,-7,3,4
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-23,-10,-1,-4,-10,-13,5
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-24,-10,22,-13,11,-9,5
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-25,-32,-6,-17,14,-16,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-26,-40,-13,-14,-8,-17,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-27,-51,-27,-32,-28,-34,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-28,-55,-34,-44,-30,-14,14
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-29,-59,-44,-45,-39,-25,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-30,-53,-34,-37,-36,-31,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-03-31,-53,-35,-36,-39,-38,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-01,-55,-39,-36,-43,-39,16
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-02,-56,-37,-37,-45,-40,18
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-03,-59,-41,-37,-52,-35,19
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-04,-59,-41,-46,-47,-29,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-05,-60,-41,-44,-48,-35,16
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-06,-56,-33,-37,-49,-45,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-07,-67,-50,-45,-67,-56,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-08,-67,-51,-48,-70,-56,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-09,-68,-47,-46,-70,-56,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-10,-72,-53,-50,-75,-61,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-11,-72,-55,-56,-75,-54,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-12,-76,-65,-55,-77,-54,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-13,-77,-67,-58,-79,-70,29
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-14,-79,-71,-61,-80,-72,30
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-15,-79,-71,-60,-78,-72,30
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-16,-79,-69,-58,-80,-71,32
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-17,-81,-73,-62,-80,-69,33
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-18,-78,-67,-62,-77,-56,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-19,-76,-63,-59,-79,-50,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-20,-71,-54,-56,-72,-54,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-21,-71,-56,-54,-73,-54,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-22,-68,-53,-55,-71,-51,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-23,-69,-52,-51,-71,-51,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-24,-71,-55,-55,-74,-46,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-25,-72,-58,-58,-72,-41,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-26,-72,-59,-58,-75,-42,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-27,-71,-55,-54,-73,-52,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-28,-67,-49,-47,-67,-48,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-29,-67,-50,-49,-70,-49,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-04-30,-64,-45,-50,-67,-46,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-01,-66,-48,-49,-70,-53,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-02,-68,-52,-57,-71,-33,21
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-03,-66,-50,-50,-70,-36,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-04,-62,-42,-50,-66,-42,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-05,-61,-42,-39,-63,-42,19
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-06,-66,-50,-48,-67,-59,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-07,-58,-35,-36,-62,-39,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-08,-60,-38,-46,-62,-32,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-09,-62,-43,-44,-65,-26,19
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-10,-63,-44,-49,-68,-30,18
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-11,-59,-38,-42,-62,-39,18
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-12,-56,-37,-38,-57,-38,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-13,-57,-39,-39,-59,-38,18
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-14,-58,-38,-39,-62,-40,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-15,-57,-34,-38,-58,-28,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-16,-54,-33,-42,-54,-16,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-17,-53,-33,-44,-55,-23,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-18,-49,-28,-40,-51,-30,16
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-19,-52,-34,-41,-51,-31,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-20,-46,-26,-37,-51,-30,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-21,-49,-26,-30,-53,-36,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-22,-48,-21,-34,-52,-20,16
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-23,-48,-24,-39,-53,-12,14
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-24,-48,-28,-39,-57,-20,14
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-25,-45,-19,-37,-49,-26,14
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-26,-44,-19,-31,-48,-24,14
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-27,-46,-23,-37,-53,-25,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-28,-45,-19,-35,-51,-26,16
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-29,-47,-24,-37,-55,-23,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-30,-42,-13,-36,-46,-5,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-05-31,-41,-15,-36,-50,-12,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-01,-33,-7,-35,-38,-18,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-02,-31,-11,-31,-32,-19,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-03,-29,-9,-29,-32,-20,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-04,-29,-8,-27,-30,-19,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-05,-34,-19,-31,-38,-26,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-06,-30,-10,-33,-31,-4,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-07,-29,-8,-29,-35,-12,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-08,-26,-5,-27,-30,-17,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-09,-24,-7,-20,-29,-18,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-10,-23,-5,-24,-25,-19,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-11,-24,-3,-16,-29,-19,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-12,-26,-7,-21,-30,-10,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-13,-25,-13,-21,-30,-13,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-14,-25,-8,-25,-30,-11,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-15,-20,-2,-19,-26,-17,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-16,-19,0,-17,-23,-15,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-17,-21,-3,-16,-26,-16,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-18,-20,0,-13,-27,-18,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-19,-23,-8,-11,-32,-20,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-20,-22,-6,-19,-28,-2,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-21,-23,-7,-17,-34,-11,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-22,-19,-1,-16,-24,-18,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-23,-18,0,-12,-28,-18,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-24,-18,-2,-11,-26,-18,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-25,-24,-7,-19,-29,-19,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-26,-20,-1,-10,-28,-10,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-27,-21,-9,-20,-28,-13,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-28,-21,-4,-18,-26,-10,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-29,-16,3,-15,-25,-16,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-06-30,-13,7,-9,-19,-15,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-01,-18,0,-19,-23,-18,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-02,-12,10,-10,-19,-18,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-03,-15,5,-13,-19,-10,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-04,-17,-5,-15,-25,-20,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-05,-14,5,-16,-22,-15,7
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-06,-11,8,-13,-17,-17,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-07,-13,7,-11,-18,-18,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-08,-14,5,-10,-16,-17,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-09,-15,5,-9,-19,-17,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-10,-17,4,-15,-20,-10,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-11,-14,4,-14,-19,-2,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-12,-15,-3,-12,-26,-22,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-13,-12,9,-12,-17,-16,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-14,-13,6,-10,-19,-16,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-15,-10,6,-13,-17,-16,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-16,-14,8,-9,-25,-16,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-17,-17,6,-13,-21,-8,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-18,-13,5,-11,-14,-2,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-19,-15,-4,4,-24,-32,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-20,-10,6,0,-7,-36,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-21,-10,10,-5,-8,-14,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-22,-10,9,-8,-12,-15,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-23,-13,10,-1,-17,-15,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-24,-15,6,-8,-18,-6,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-25,-17,-1,-16,-17,0,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-26,-17,-3,-12,-23,-16,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-27,-14,0,-15,-19,-25,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-28,-11,7,-10,-17,-17,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-29,-8,12,-8,-14,-16,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-30,-5,19,-4,-9,-16,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-07-31,-6,15,0,-6,-26,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-01,-8,8,-3,-14,-16,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-02,-6,14,-1,-14,-15,6
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-03,-19,-11,-2,-22,-62,14
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-04,-7,9,-12,-10,-21,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-05,-3,21,-9,-11,-16,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-06,-7,15,-6,-17,-16,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-07,-11,10,-8,-19,-6,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-08,-9,10,-12,-14,1,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-09,-8,11,-10,-17,-8,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-10,-6,16,-13,-15,-16,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-11,-7,9,-6,-16,-25,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-12,-5,16,-11,-11,-17,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-13,-7,16,-8,-15,-16,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-14,-10,13,-13,-13,-6,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-15,-8,9,-13,-16,1,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-16,-8,14,-4,-15,-8,7
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-17,-7,15,,,-14,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-18,-7,4,,,-25,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-19,-6,15,,,-14,8
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-20,-13,7,,-21,-15,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-21,-13,8,,-18,-6,10
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-22,-19,-3,,-20,1,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-23,-21,-7,,-24,-9,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-24,-15,3,,,-17,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-25,-10,10,,,-14,9
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-26,-14,1,,,-22,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-27,-13,6,,,-14,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-28,-19,-3,,-17,-6,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-29,-21,-6,,-21,3,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-30,-22,-10,,-27,-10,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-08-31,-15,1,,,-14,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-01,-13,4,,,-15,11
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-02,-16,-7,,,-29,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-03,-16,-1,,-24,-18,12
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-04,-21,-4,,-27,-11,14
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-05,-24,-9,,-27,-4,13
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-06,-27,-15,,-38,-15,14
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-07,-19,-4,,-30,-19,13
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-08,-26,-15,,-34,-21,15
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-09,-20,-9,,-31,-20,13
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-10,-24,-16,,-35,-29,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-11,-28,-15,1,-42,-16,17
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-12,-32,-19,-10,-47,-10,16
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-13,-47,-33,-15,-53,-25,19
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-14,-42,-27,-7,-49,-29,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-15,-43,-30,-9,-48,-30,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-16,-47,-33,-15,-53,-41,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-17,-46,-33,-11,-51,-34,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-18,-51,-38,-20,-56,-28,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-19,-53,-38,-30,-54,-22,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-20,-54,-40,-31,-60,-31,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-21,-50,-35,-18,-53,-37,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-22,-50,-36,-19,-51,-38,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-23,-51,-35,-17,-54,-38,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-24,-54,-38,-20,-57,-44,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-25,-55,-39,-25,-57,-33,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-26,-60,-43,-31,-59,-31,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-27,-62,-46,-35,-63,-40,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-28,-59,-41,-29,-58,-45,29
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-29,-64,-48,-30,-62,-49,30
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-09-30,-58,-38,-34,-56,-48,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-01,-63,-43,-29,-63,-56,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-02,-61,-37,-36,-62,-46,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-03,-64,-42,-38,-60,-44,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-04,-65,-46,-45,-66,-51,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-05,-59,-37,-34,-58,-51,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-06,-59,-38,-29,-59,-52,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-07,-60,-39,-33,-59,-50,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-08,-59,-37,-32,-62,-48,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-09,-63,-43,-37,-63,-46,29
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-10,-63,-41,-42,-59,-36,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-11,-62,-42,-39,-63,-40,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-12,-58,-35,-34,-57,-46,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-13,-58,-35,-35,-57,-47,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-14,-57,-33,-27,-56,-45,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-15,-56,-32,-24,-56,-44,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-16,-60,-35,-24,-57,-45,29
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-17,-61,-35,-37,-55,-35,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-18,-60,-37,-35,-59,-39,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-19,-57,-31,-30,-53,-45,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-20,-57,-33,-25,-55,-45,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-21,-57,-31,-20,-53,-44,26
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-22,-58,-33,-21,-59,-45,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-23,-58,-32,-22,-56,-39,27
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-24,-60,-34,-19,-59,-38,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-25,-57,-31,-20,-57,-36,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-26,-54,-25,-18,-52,-42,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-27,-53,-24,-14,-50,-42,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-28,-49,-23,-16,-45,-40,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-29,-51,-23,-16,-48,-53,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-30,-52,-23,-19,-50,-50,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-10-31,-60,-35,-21,-61,-55,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-01,-55,-34,-20,-57,-41,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-02,-62,-46,-42,-61,-58,29
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-03,-48,-25,-16,-47,-41,21
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-04,-55,-37,-34,-53,-44,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-05,-51,-26,-15,-49,-41,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-06,-55,-34,-19,-51,-34,24
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-07,-55,-32,-20,-52,-28,21
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-08,-52,-35,-15,-62,-46,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-09,-51,-30,-10,-53,-41,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-10,-50,-28,-11,-49,-40,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-11,-49,-26,-12,-48,-39,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-12,-50,-26,-12,-50,-39,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-13,-53,-32,-17,-54,-44,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-14,-57,-37,-21,-53,-43,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-15,-52,-31,-19,-52,-33,20
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-16,-51,-28,-16,-49,-39,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-17,-51,-29,-12,-51,-39,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-18,-51,-29,-16,-48,-39,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-19,-49,-22,-17,-46,-38,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-20,-52,-27,-17,-46,-32,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-21,-56,-35,-25,-52,-26,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-22,-57,-37,-27,-60,-40,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-23,-52,-31,-20,-54,-38,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-24,-52,-31,-18,-52,-39,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-25,-51,-30,-15,-52,-37,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-26,-50,-26,-12,-51,-36,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-27,-55,-31,-20,-56,-44,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-28,-54,-29,-17,-53,-35,21
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-29,-57,-34,-10,-61,-50,19
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-11-30,-54,-34,-24,-59,-57,25
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-12-01,-49,-26,-11,-52,-38,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-12-02,-49,-26,-10,-50,-37,22
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-12-03,-48,-20,-12,-49,-37,23
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-12-04,-47,-14,-10,-41,-31,21
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-12-05,-78,-64,-57,-71,-56,33
+MM,Myanmar (Burma),,,Mandalay Metropolitan Area,,,2020-12-06,-78,-62,-59,-73,-60,32
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-15,-2,-1,-3,-1,4,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-16,-4,-1,-4,-1,2,3
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-17,-1,0,1,0,5,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-18,-1,1,-4,0,4,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-19,-4,-1,-6,-3,5,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-20,-2,2,-3,0,5,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-21,-3,-1,-4,-2,7,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-22,-2,-2,-3,-1,4,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-23,-5,-1,-4,-2,4,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-24,-2,-1,-1,-1,6,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-25,-2,0,-3,-1,5,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-26,-5,0,-6,-3,5,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-27,-1,0,-6,-1,6,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-28,3,4,-2,2,8,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-02-29,3,6,0,4,6,0
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-01,0,3,-2,2,4,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-02,4,5,10,-5,-55,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-03,1,6,4,3,6,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-04,1,6,2,2,6,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-05,3,8,0,4,7,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-06,4,5,0,5,9,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-07,-1,2,-4,1,6,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-08,-3,-4,2,-3,-4,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-09,0,6,5,-5,-49,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-10,-1,3,0,1,5,1
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-11,0,4,-1,0,5,2
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-12,0,6,-3,1,4,3
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-13,-2,8,-6,-1,6,3
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-14,-7,-1,-9,-3,9,3
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-15,-9,-3,-9,-4,7,4
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-16,-3,0,2,1,3,3
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-17,-5,1,-1,-2,2,4
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-18,-6,1,-6,-4,3,4
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-19,-9,-2,-8,-5,2,5
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-20,-9,-3,-13,-6,4,5
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-21,-15,-7,-17,-9,6,5
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-22,-20,-10,-21,-13,3,6
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-23,-11,-5,-9,-8,0,5
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-24,-18,7,-18,-7,-8,8
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-25,-28,-10,-27,-18,-14,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-26,-29,-15,-26,-21,-17,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-27,-44,-28,-42,-36,-58,24
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-28,-48,-29,-43,-36,-21,16
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-29,-55,-36,-52,-41,-16,16
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-30,-44,-23,-32,-34,-25,15
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-03-31,-44,-23,-36,-34,-30,16
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-01,-50,-27,-41,-39,-36,18
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-02,-51,-30,-45,-40,-37,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-03,-53,-32,-45,-43,-36,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-04,-57,-35,-52,-44,-31,18
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-05,-61,-35,-55,-46,-29,17
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-06,-51,-26,-41,-42,-42,19
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-07,-52,-26,-44,-43,-45,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-08,-53,-22,-46,-43,-47,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-09,-52,-17,-48,-43,-52,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-10,-81,-64,-71,-72,-79,37
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-11,-81,-66,-72,-73,-71,32
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-12,-84,-74,-74,-75,-57,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-13,-84,-75,-71,-77,-82,40
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-14,-85,-77,-74,-78,-83,41
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-15,-86,-77,-74,-79,-83,41
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-16,-85,-76,-74,-78,-83,42
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-17,-86,-76,-75,-79,-82,43
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-18,-83,-67,-74,-76,-71,33
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-19,-81,-65,-75,-73,-53,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-20,-68,-47,-57,-62,-55,29
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-21,-69,-50,-61,-63,-58,30
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-22,-69,-50,-61,-63,-59,30
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-23,-69,-50,-61,-62,-59,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-24,-69,-51,-60,-62,-57,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-25,-73,-55,-66,-65,-51,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-26,-76,-58,-69,-67,-41,25
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-27,-66,-48,-56,-60,-54,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-28,-66,-47,-58,-60,-54,29
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-29,-65,-45,-57,-58,-52,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-04-30,-62,-41,-54,-54,-49,25
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-01,-68,-47,-61,-60,-70,33
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-02,-65,-45,-58,-56,-41,23
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-03,-68,-49,-61,-58,-31,21
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-04,-56,-37,-44,-49,-41,22
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-05,-56,-33,-47,-48,-42,22
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-06,-63,-40,-54,-55,-69,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-07,-54,-33,-46,-46,-39,22
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-08,-55,-36,-52,-47,-38,24
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-09,-59,-39,-56,-49,-29,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-10,-61,-41,-59,-50,-26,19
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-11,-52,-32,-44,-45,-36,21
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-12,-52,-32,-50,-44,-38,22
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-13,-54,-34,-50,-46,-38,22
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-14,-53,-33,-50,-45,-38,23
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-15,-53,-33,-49,-44,-34,23
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-16,-54,-34,-54,-43,-24,19
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-17,-56,-35,-55,-45,-23,18
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-18,-45,-27,-43,-38,-32,19
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-19,-49,-32,-51,-42,-35,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-20,-48,-29,-51,-42,-34,21
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-21,-48,-31,-51,-41,-35,21
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-22,-45,-25,-48,-38,-30,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-23,-47,-27,-50,-38,-21,17
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-24,-49,-28,-51,-41,-21,16
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-25,-40,-22,-39,-35,-30,18
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-26,-41,-22,-43,-35,-30,18
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-27,-44,-26,-45,-38,-31,18
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-28,-41,-22,-46,-35,-30,19
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-29,-37,-18,-44,-33,-26,18
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-30,-38,-17,-47,-31,-17,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-05-31,-40,-18,-49,-32,-17,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-01,-32,-16,-39,-28,-23,15
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-02,-30,-14,-40,-25,-24,15
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-03,-32,-16,-41,-28,-25,15
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-04,-34,-18,-42,-28,-24,16
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-05,-31,-18,-42,-26,-22,15
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-06,-30,-15,-41,-25,-15,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-07,-33,-16,-46,-27,-15,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-08,-26,-11,-31,-21,-20,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-09,-27,-15,-37,-24,-22,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-10,-30,-17,-39,-27,-23,15
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-11,-29,-17,-42,-26,-23,15
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-12,-26,-14,-38,-25,-19,15
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-13,-29,-16,-41,-25,-13,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-14,-35,-21,-48,-31,-13,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-15,-25,-14,-33,-23,-19,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-16,-21,-9,-33,-20,-20,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-17,-26,-14,-38,-24,-21,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-18,-30,-18,-40,-26,-22,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-19,-26,-18,-36,-26,-19,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-20,-28,-15,-41,-24,-12,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-21,-29,-15,-41,-26,-11,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-22,-23,-12,-28,-22,-20,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-23,-23,-12,-32,-22,-22,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-24,-25,-13,-33,-23,-20,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-25,-24,-13,-34,-22,-20,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-26,-27,-18,-36,-26,-19,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-27,-27,-17,-41,-26,-14,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-28,-34,-23,-49,-32,-14,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-29,-19,-8,-27,-21,-18,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-06-30,-12,-1,-27,-16,-18,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-01,-18,-7,-31,-19,-19,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-02,-16,-4,-28,-17,-20,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-03,-17,-7,-30,-18,-18,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-04,-22,-15,-41,-23,-15,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-05,-16,-2,-32,-15,-13,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-06,-17,-7,-26,-18,-20,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-07,-14,-3,-27,-15,-21,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-08,-18,-8,-31,-20,-19,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-09,-17,-6,-27,-17,-19,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-10,-18,-10,-29,-20,-17,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-11,-19,-9,-32,-18,-11,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-12,-25,-16,-38,-24,-14,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-13,-17,-8,-25,-18,-18,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-14,-15,-6,-28,-17,-19,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-15,-18,-9,-30,-18,-18,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-16,-19,-11,-31,-19,-17,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-17,-17,-9,-29,-16,-16,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-18,-19,-8,-32,-16,-11,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-19,-20,-13,-30,-20,-19,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-20,-16,-5,-22,-22,-56,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-21,-16,-7,-27,-15,-16,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-22,-18,-8,-26,-17,-17,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-23,-17,-8,-27,-17,-16,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-24,-13,-6,-24,-15,-14,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-25,-18,-8,-29,-16,-8,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-26,-19,-9,-31,-19,-9,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-27,-13,-6,-18,-14,-17,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-28,-16,-7,-25,-15,-18,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-29,-15,-6,-27,-15,-17,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-30,-6,2,-18,-6,-17,9
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-07-31,-10,4,-30,-12,-50,16
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-01,-18,-5,-29,-16,-38,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-02,-18,-3,-32,-16,-16,8
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-03,-17,-8,-16,-24,-69,19
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-04,-13,-3,-26,-11,-18,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-05,-11,2,-24,-9,-17,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-06,-12,-2,-27,-10,-17,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-07,-12,-4,-25,-12,-15,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-08,-10,0,-25,-9,-7,9
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-09,-10,4,-24,-9,-8,9
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-10,-8,0,-16,-9,-15,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-11,-10,-3,-23,-11,-17,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-12,-12,-1,-23,-12,-16,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-13,-14,-4,-27,-13,-17,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-14,-11,-3,-28,-11,-15,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-15,-13,-3,-30,-12,-8,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-16,-16,-4,-36,-15,-10,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-17,-12,-3,-19,-9,-15,10
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-18,-13,-5,-27,-12,-15,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-19,-13,-1,-26,-11,-14,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-20,-14,-3,-28,-12,-15,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-21,-17,-9,-29,-14,-14,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-22,-21,-11,-38,-17,-8,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-23,-18,-5,-31,-14,-8,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-24,-15,-9,-24,-12,-14,12
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-25,-12,-4,-22,-10,-14,11
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-26,-22,-13,-31,-19,-14,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-27,-21,-9,-31,-16,-15,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-28,-24,-13,-32,-20,-14,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-29,-24,-12,-35,-21,-8,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-30,-29,-14,-41,-26,-11,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-08-31,-16,-6,-20,-15,-16,13
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-01,-19,-8,-30,-19,-19,14
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-02,-26,-15,-35,-26,-23,16
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-03,-28,-14,-35,-25,-23,17
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-04,-31,-16,-37,-28,-22,19
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-05,-36,-20,-43,-30,-17,18
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-06,-41,-23,-47,-35,-21,19
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-07,-35,-23,-34,-31,-28,20
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-08,-41,-22,-35,-33,-32,21
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-09,-46,-27,-42,-39,-33,22
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-10,-48,-30,-43,-40,-36,24
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-11,-50,-25,-44,-43,-36,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-12,-57,-38,-54,-50,-35,26
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-13,-62,-43,-58,-56,-38,26
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-14,-53,-38,-42,-48,-41,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-15,-55,-38,-47,-50,-45,30
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-16,-58,-41,-51,-53,-47,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-17,-58,-41,-52,-52,-48,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-18,-59,-40,-51,-54,-46,33
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-19,-66,-51,-60,-60,-46,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-20,-70,-52,-65,-63,-46,30
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-21,-64,-45,-56,-58,-57,35
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-22,-68,-47,-58,-60,-62,37
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-23,-69,-44,-60,-59,-63,37
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-24,-75,-56,-67,-67,-73,43
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-25,-76,-56,-66,-68,-73,44
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-26,-77,-59,-69,-69,-70,38
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-27,-79,-61,-71,-70,-60,34
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-28,-78,-62,-67,-71,-75,44
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-29,-77,-60,-68,-71,-76,44
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-09-30,-76,-55,-69,-69,-74,41
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-01,-77,-56,-71,-71,-76,42
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-02,-76,-52,-69,-69,-74,42
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-03,-78,-56,-73,-71,-72,36
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-04,-78,-58,-72,-71,-62,32
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-05,-73,-51,-63,-66,-73,39
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-06,-73,-52,-65,-66,-74,39
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-07,-73,-52,-66,-66,-72,38
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-08,-72,-50,-66,-65,-70,39
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-09,-72,-47,-64,-65,-69,41
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-10,-74,-53,-67,-67,-65,36
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-11,-75,-54,-67,-67,-54,32
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-12,-69,-48,-59,-62,-66,38
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-13,-68,-46,-60,-61,-65,38
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-14,-69,-46,-62,-61,-63,37
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-15,-68,-44,-63,-59,-62,38
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-16,-69,-44,-64,-60,-60,39
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-17,-71,-49,-67,-60,-54,33
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-18,-71,-47,-64,-61,-48,30
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-19,-65,-43,-58,-55,-57,36
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-20,-68,-47,-64,-59,-59,36
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-21,-65,-40,-60,-56,-57,35
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-22,-63,-38,-57,-54,-55,34
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-23,-63,-35,-57,-54,-52,35
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-24,-64,-40,-58,-54,-44,29
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-25,-65,-41,-58,-55,-41,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-26,-58,-34,-51,-48,-50,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-27,-57,-32,-51,-48,-51,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-28,-55,-26,-52,-46,-48,29
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-29,-56,-26,-55,-49,-67,34
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-30,-56,-22,-56,-49,-68,35
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-10-31,-62,-36,-57,-54,-65,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-01,-58,-31,-52,-48,-38,25
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-02,-56,-32,-47,-49,-68,35
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-03,-52,-27,-46,-42,-46,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-04,-54,-29,-51,-45,-46,29
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-05,-53,-27,-49,-42,-45,29
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-06,-53,-26,-48,-44,-43,30
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-07,-55,-31,-51,-44,-34,25
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-08,-54,-28,-48,-43,-39,23
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-09,-51,-30,-44,-41,-43,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-10,-50,-27,-43,-40,-44,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-11,-52,-27,-46,-42,-42,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-12,-51,-27,-46,-41,-42,28
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-13,-53,-24,-44,-45,-60,34
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-14,-55,-32,-46,-45,-49,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-15,-55,-30,-44,-44,-32,23
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-16,-48,-27,-36,-38,-40,26
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-17,-49,-26,-38,-38,-42,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-18,-51,-27,-41,-41,-41,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-19,-50,-25,-43,-39,-40,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-20,-49,-19,-37,-36,-38,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-21,-54,-30,-44,-42,-29,24
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-22,-55,-31,-44,-45,-29,23
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-23,-49,-28,-38,-39,-39,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-24,-50,-28,-39,-39,-40,27
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-25,-50,-26,-41,-40,-39,26
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-26,-46,-20,-41,-36,-37,25
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-27,-49,-18,-38,-41,-58,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-28,-50,-23,-41,-40,-46,25
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-29,-51,-25,-35,-39,-33,21
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-11-30,-48,-22,-32,-40,-63,31
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-12-01,-46,-22,-37,-35,-38,25
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-12-02,-47,-21,-38,-35,-36,25
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-12-03,-47,-22,-40,-35,-36,26
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-12-04,-47,-17,-38,-35,-34,26
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-12-05,-47,-21,-40,-34,-24,22
+MM,Myanmar (Burma),,,Yangon Metropolitan Area,,,2020-12-06,-48,-19,-37,-35,-23,20
