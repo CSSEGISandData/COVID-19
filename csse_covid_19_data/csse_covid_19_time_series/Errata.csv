@@ -618,4 +618,9 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/08/2020,time_series_covid19_confirmed_global.csv,US,11/29/2020-12/06/2020,,,Update based on New Hampshire source
 12/08/2020,time_series_covid19_deaths_US.csv,"New Hampshire, US",11/29/2020-12/06/2020,,,Update based on New Hampshire source
 12/09/2020,time_series_covid19_confirmed_us.csv,"Wyoming, US",04/02/2020-12/08/2020,,,Update based on Wyoming source
-12/09/2020,time_series_covid19_global_us.csv,US,04/02/2020-12/08/2020,,,Update based on Wyoming source
+12/09/2020,time_series_covid19_confirmed_us.csv,US,04/02/2020-12/08/2020,,,Update based on Wyoming source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/03/2020,17513,17341,Update from Madagascar news source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/04/2020,17513,17341,Update from Madagascar news source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/05/2020,17513,17473,Update from Madagascar news source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/06/2020,17513,17473,Update from Madagascar news source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/07/2020,17513,17473,Update from Madagascar news source
