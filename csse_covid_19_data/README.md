@@ -225,6 +225,7 @@ Date: Location | Change | Reason/Other notes | Source
 * December 9: Ohio, US | Addition of nearly 13000 backlogged antigen tests | [News source](https://www.cleveland.com/open/2020/12/ohio-reports-25721-new-coronavirus-cases-an-expected-one-day-record-due-to-clearing-backlog-tuesday-update.html)
 * December 9: Alabama, US | Addition of backlog of 1038 PCR and 473 probable cases from November 30 - December 5 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
 * December 10: Turkey | Addition of 792,831 cases asymptomatic cases | [Source](https://covid19.saglik.gov.tr/) | We note that this heavily distorst all of our products and we are attempting to find an official back distribution of this data
+* December 13: Alabama, US | Inclusion of 298 backlogged antigen tests from July 7 through December 9 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
