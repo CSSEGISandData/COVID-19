@@ -534,7 +534,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 1045,Dale,Alabama,US,4/2/20 23:25,31.43037123,-85.61095742,1,0,0,0,"Dale, Alabama, US"
 1047,Dallas,Alabama,US,4/2/20 23:25,32.32688101,-87.1086671,4,0,0,0,"Dallas, Alabama, US"
 19049,Dallas,Iowa,US,4/2/20 23:25,41.68560356,-94.04127625,31,0,0,0,"Dallas, Iowa, US"
-48113,Dallas,Texas,US,4/2/20 23:25,32.76670599,-96.7779605,831,17,0,0,"Dallas, Texas, US"
+48113,Dallas,Texas,US,4/2/20 23:25,32.76670599,-96.7779605,831,24,0,0,"Dallas, Texas, US"
 55025,Dane,Wisconsin,US,4/2/20 23:25,43.06601594,-89.41733797,238,3,0,0,"Dane, Wisconsin, US"
 51590,Danville,Virginia,US,4/2/20 23:25,36.58022376,-79.40395668,7,0,0,0,"Danville, Virginia, US"
 37055,Dare,North Carolina,US,4/2/20 23:25,35.66520691,-75.71767334,3,0,0,0,"Dare, North Carolina, US"
@@ -2449,7 +2449,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Ethiopia,4/2/20 23:25,9.145,40.4897,29,0,3,26,Ethiopia
 ,,,Fiji,4/2/20 23:25,-17.7134,178.065,7,0,0,7,Fiji
 ,,,Finland,4/2/20 23:25,61.92411,25.748151,1518,19,300,1199,Finland
-,,,France,4/2/20 23:25,46.2276,2.2137,59105,5387,12428,41290,France
+,,,France,4/2/20 23:25,46.2276,2.2137,58404,5376,12428,41290,France
 ,,,Gabon,4/2/20 23:25,-0.8037,11.6094,21,1,0,20,Gabon
 ,,,Gambia,4/2/20 23:25,13.4432,-15.3101,4,1,2,1,Gambia
 ,,,Georgia,4/2/20 23:25,42.3154,43.3569,134,0,26,108,Georgia
