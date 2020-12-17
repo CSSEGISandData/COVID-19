@@ -231,6 +231,8 @@ Date: Location | Change | Reason/Other notes | Source
 * December 9: Alabama, US | Addition of backlog of 1038 PCR and 473 probable cases from November 30 - December 5 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
 * December 10: Turkey | Addition of 792,801 cases asymptomatic cases | [Source](https://covid19.saglik.gov.tr/) | We note that this heavily distorst all of our products and we are attempting to find an official back distribution of this data
 * December 13: Alabama, US | Inclusion of 298 backlogged antigen tests from July 7 through December 9 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* December 16: Washington, US | Inclusion of 7,671 probable cases from June to present | [Source](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard) | We are working a back distribution
+* December 16: California, US | California dashboard inclused 15,337 historical cases in their December 16 update | We pull from several sources including the California State Daashboard so it is unclear how these historical cases are distributed within our data | [Source](https://covid19.ca.gov/state-dashboard/)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
