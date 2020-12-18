@@ -163,6 +163,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * December 15: New York, US | Correction of cases and deaths from November 2 to December 14 for Orange and Rockland counties | All time files and daily reports | [Orange County Dashboard](https://ocnygis.maps.arcgis.com/apps/opsdashboard/index.html#/21de1fb5ce0c480f95dc0cf2b8b83b71) [Rockland County Dashboard](https://rockland-covid-19-portal-rockland.hub.arcgis.com/)
 * December 15: France | Correction of cases and deaths from March 3 to December 14 for in accordance with the Ministry of Solidarity and Health | All time files and daily reports | [Ministry of Solidarity and Health](https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/#_)
 * December 15: French Overseas Territories | Correction of cases and deaths from December 6 to December 14 for Guadeloupe, French Guiana, Martinique, Mayotte, and Reunion in accordance to WHO | All time files and daily reports | [WHO](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
+* December 17: Washington, US | Correction of deaths from April 1 to December 15 and inclusion of probable cases from June 1 to December 15 for Washington in accordance to Washington Department of Health | All time files and daily reports | [Washington Department of Health](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -231,6 +232,8 @@ Date: Location | Change | Reason/Other notes | Source
 * December 9: Alabama, US | Addition of backlog of 1038 PCR and 473 probable cases from November 30 - December 5 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
 * December 10: Turkey | Addition of 792,801 cases asymptomatic cases | [Source](https://covid19.saglik.gov.tr/) | We note that this heavily distorst all of our products and we are attempting to find an official back distribution of this data
 * December 13: Alabama, US | Inclusion of 298 backlogged antigen tests from July 7 through December 9 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* December 16: Washington, US | Inclusion of 7,671 probable cases from June to present | [Source](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard) | We are working a back distribution
+* December 16: California, US | California dashboard included 15,337 historical cases in their December 16 update | We pull from several sources including the California State Daashboard so it is unclear how these historical cases are distributed within our data | [Source](https://covid19.ca.gov/state-dashboard/)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
