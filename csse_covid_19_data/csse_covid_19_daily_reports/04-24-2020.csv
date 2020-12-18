@@ -167,7 +167,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29015,Benton,Missouri,US,2020-04-25 06:30:53,38.29503305,-93.28756116,4,0,0,4,"Benton, Missouri, US"
 41003,Benton,Oregon,US,2020-04-25 06:30:53,44.49167306,-123.4316987,27,5,0,22,"Benton, Oregon, US"
 47005,Benton,Tennessee,US,2020-04-25 06:30:53,36.07110411,-88.06849355,5,2,0,3,"Benton, Tennessee, US"
-53005,Benton,Washington,US,2020-04-24 00:00:00,46.23946995,-119.5120834,383,36,0,347,"Benton, Washington, US"
+53005,Benton,Washington,US,2020-04-24 00:00:00,46.23946995,-119.5120834,383,39,0,347,"Benton, Washington, US"
 26019,Benzie,Michigan,US,2020-04-25 06:30:53,44.63899297,-86.01608482,4,0,0,4,"Benzie, Michigan, US"
 34003,Bergen,New Jersey,US,2020-04-25 06:30:53,40.96010917,-74.07164325,14363,934,0,13429,"Bergen, New Jersey, US"
 45015,Berkeley,South Carolina,US,2020-04-25 06:30:53,33.20222596,-79.94654523,162,6,0,156,"Berkeley, South Carolina, US"
@@ -476,7 +476,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 32003,Clark,Nevada,US,2020-04-25 06:30:53,36.21458855,-115.0130241,3443,168,0,3275,"Clark, Nevada, US"
 39023,Clark,Ohio,US,2020-04-25 06:30:53,39.91592258,-83.78498252,30,1,0,29,"Clark, Ohio, US"
 46025,Clark,South Dakota,US,2020-04-25 06:30:53,44.85834507,-97.72925109,1,0,0,1,"Clark, South Dakota, US"
-53011,Clark,Washington,US,2020-04-24 00:00:00,45.77568046,-122.4829204,293,16,0,277,"Clark, Washington, US"
+53011,Clark,Washington,US,2020-04-24 00:00:00,45.77568046,-122.4829204,293,20,0,277,"Clark, Washington, US"
 55019,Clark,Wisconsin,US,2020-04-25 06:30:53,44.73483377,-90.61207486,19,1,0,18,"Clark, Wisconsin, US"
 1025,Clarke,Alabama,US,2020-04-25 06:30:53,31.68099859,-87.83548597,23,1,0,23,"Clarke, Alabama, US"
 13059,Clarke,Georgia,US,2020-04-25 06:30:53,33.95436462,-83.37124007,127,13,0,114,"Clarke, Georgia, US"
@@ -643,7 +643,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 5039,Dallas,Arkansas,US,2020-04-25 06:30:53,33.97042763,-92.65167437,1,0,0,1,"Dallas, Arkansas, US"
 19049,Dallas,Iowa,US,2020-04-25 06:30:53,41.68560356,-94.04127625,99,0,0,99,"Dallas, Iowa, US"
 29059,Dallas,Missouri,US,2020-04-25 06:30:53,37.6811355,-93.02127031,2,0,0,2,"Dallas, Missouri, US"
-48113,Dallas,Texas,US,2020-04-25 06:30:53,32.76670599,-96.7779605,2834,77,0,2757,"Dallas, Texas, US"
+48113,Dallas,Texas,US,2020-04-25 06:30:53,32.76670599,-96.7779605,2834,103,0,2757,"Dallas, Texas, US"
 55025,Dane,Wisconsin,US,2020-04-25 06:30:53,43.06601594,-89.41733797,395,21,0,374,"Dane, Wisconsin, US"
 51590,Danville,Virginia,US,2020-04-25 06:30:53,36.58022376,-79.40395668,31,1,0,30,"Danville, Virginia, US"
 37055,Dare,North Carolina,US,2020-04-25 06:30:53,35.66520691,-75.71767334,15,1,0,14,"Dare, North Carolina, US"
@@ -965,7 +965,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 38037,Grant,North Dakota,US,2020-04-25 06:30:53,46.35821257,-101.6390013,1,0,0,1,"Grant, North Dakota, US"
 40053,Grant,Oklahoma,US,2020-04-25 06:30:53,36.796297,-97.78638765,2,0,0,2,"Grant, Oklahoma, US"
 41023,Grant,Oregon,US,2020-04-25 06:30:53,44.49024544,-119.0068631,1,0,0,1,"Grant, Oregon, US"
-53025,Grant,Washington,US,2020-04-24 00:00:00,47.20753737,-119.4500749,149,2,0,147,"Grant, Washington, US"
+53025,Grant,Washington,US,2020-04-24 00:00:00,47.20753737,-119.4500749,149,3,0,147,"Grant, Washington, US"
 54023,Grant,West Virginia,US,2020-04-25 06:30:53,39.10314817,-79.19440518,1,0,0,1,"Grant, West Virginia, US"
 55043,Grant,Wisconsin,US,2020-04-25 06:30:53,42.8671731,-90.7063218,27,3,0,24,"Grant, Wisconsin, US"
 37077,Granville,North Carolina,US,2020-04-25 06:30:53,36.30337451,-78.65184241,123,5,0,118,"Granville, North Carolina, US"
@@ -1196,7 +1196,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 13155,Irwin,Georgia,US,2020-04-25 06:30:53,31.60213036,-83.27501387,15,1,0,14,"Irwin, Georgia, US"
 26073,Isabella,Michigan,US,2020-04-25 06:30:53,43.64060976,-84.84664923,55,7,0,48,"Isabella, Michigan, US"
 27059,Isanti,Minnesota,US,2020-04-25 06:30:53,45.56181234,-93.29487636,6,0,0,6,"Isanti, Minnesota, US"
-53029,Island,Washington,US,2020-04-24 00:00:00,48.14713305,-122.5216407,160,9,0,151,"Island, Washington, US"
+53029,Island,Washington,US,2020-04-24 00:00:00,48.14713305,-122.5216407,160,8,0,151,"Island, Washington, US"
 51093,Isle of Wight,Virginia,US,2020-04-25 06:30:53,36.90579348,-76.70842863,91,2,0,89,"Isle of Wight, Virginia, US"
 27061,Itasca,Minnesota,US,2020-04-25 06:30:53,47.51009045,-93.63092229,2,0,0,2,"Itasca, Minnesota, US"
 28057,Itawamba,Mississippi,US,2020-04-25 06:30:53,34.27993475,-88.3606733,32,1,0,31,"Itawamba, Mississippi, US"
@@ -1326,7 +1326,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 2130,Ketchikan Gateway,Alaska,US,2020-04-25 06:30:53,55.57445008,-130.975561,16,0,0,16,"Ketchikan Gateway, Alaska, US"
 55061,Kewaunee,Wisconsin,US,2020-04-25 06:30:53,44.51727459,-87.61468386,9,1,0,8,"Kewaunee, Wisconsin, US"
 31105,Kimball,Nebraska,US,2020-04-25 06:30:53,41.19774275,-103.7148131,9,0,0,9,"Kimball, Nebraska, US"
-53033,King,Washington,US,2020-04-24 00:00:00,47.49137892,-121.8346131,5637,393,0,5244,"King, Washington, US"
+53033,King,Washington,US,2020-04-24 00:00:00,47.49137892,-121.8346131,5637,418,0,5244,"King, Washington, US"
 51099,King George,Virginia,US,2020-04-25 06:30:53,38.26818502,-77.15852768,23,4,0,19,"King George, Virginia, US"
 51101,King William,Virginia,US,2020-04-25 06:30:53,37.70965316,-77.09384941,3,0,0,3,"King William, Virginia, US"
 51097,King and Queen,Virginia,US,2020-04-25 06:30:53,37.71044922,-76.88689628,2,0,0,2,"King and Queen, Virginia, US"
@@ -1341,7 +1341,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27069,Kittson,Minnesota,US,2020-04-25 06:30:53,48.77754106,-96.78317184,1,0,0,1,"Kittson, Minnesota, US"
 41035,Klamath,Oregon,US,2020-04-25 06:30:53,42.68762984,-121.64964609999998,36,0,0,36,"Klamath, Oregon, US"
 48273,Kleberg,Texas,US,2020-04-25 06:30:53,27.42435506,-97.69894948,7,1,0,6,"Kleberg, Texas, US"
-53039,Klickitat,Washington,US,2020-04-24 00:00:00,45.87325839,-120.7913598,16,3,0,13,"Klickitat, Washington, US"
+53039,Klickitat,Washington,US,2020-04-24 00:00:00,45.87325839,-120.7913598,16,2,0,13,"Klickitat, Washington, US"
 21119,Knott,Kentucky,US,2020-04-25 06:30:53,37.35388197,-82.94981134,3,0,0,3,"Knott, Kentucky, US"
 17095,Knox,Illinois,US,2020-04-25 06:30:53,40.93148779,-90.21330340000002,24,0,0,24,"Knox, Illinois, US"
 18083,Knox,Indiana,US,2020-04-25 06:30:53,38.68861576,-87.4194665,19,0,0,19,"Knox, Indiana, US"
@@ -1893,7 +1893,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21183,Ohio,Kentucky,US,2020-04-25 06:30:53,37.47751843,-86.85368087,34,0,0,34,"Ohio, Kentucky, US"
 54069,Ohio,West Virginia,US,2020-04-25 06:30:53,40.0955451,-80.62203992,25,1,0,24,"Ohio, West Virginia, US"
 12091,Okaloosa,Florida,US,2020-04-25 06:30:53,30.69143028,-86.59267105,145,3,0,142,"Okaloosa, Florida, US"
-53047,Okanogan,Washington,US,2020-04-24 00:00:00,48.54855019,-119.7387224,16,0,0,16,"Okanogan, Washington, US"
+53047,Okanogan,Washington,US,2020-04-24 00:00:00,48.54855019,-119.7387224,16,1,0,16,"Okanogan, Washington, US"
 12093,Okeechobee,Florida,US,2020-04-25 06:30:53,27.386336199999995,-80.88944347,9,0,0,9,"Okeechobee, Florida, US"
 40107,Okfuskee,Oklahoma,US,2020-04-25 06:30:53,35.46485198,-96.32639984,1,0,0,1,"Okfuskee, Oklahoma, US"
 40109,Oklahoma,Oklahoma,US,2020-04-25 06:30:53,35.55140095,-97.40716948,670,27,0,643,"Oklahoma, Oklahoma, US"
@@ -2023,7 +2023,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 13229,Pierce,Georgia,US,2020-04-25 06:30:53,31.35928155,-82.21598442,52,2,0,50,"Pierce, Georgia, US"
 31139,Pierce,Nebraska,US,2020-04-25 06:30:53,42.26434853,-97.60122773,1,0,0,1,"Pierce, Nebraska, US"
 38069,Pierce,North Dakota,US,2020-04-25 06:30:53,48.24977025,-99.96407787,2,0,0,2,"Pierce, North Dakota, US"
-53053,Pierce,Washington,US,2020-04-24 00:00:00,47.03892768,-122.1405958,1212,43,0,1169,"Pierce, Washington, US"
+53053,Pierce,Washington,US,2020-04-24 00:00:00,47.03892768,-122.1405958,1212,51,0,1169,"Pierce, Washington, US"
 55093,Pierce,Wisconsin,US,2020-04-25 06:30:53,44.71850291,-92.4224416,8,0,0,8,"Pierce, Wisconsin, US"
 1109,Pike,Alabama,US,2020-04-25 06:30:53,31.80396383,-85.9408295,57,0,0,58,"Pike, Alabama, US"
 5109,Pike,Arkansas,US,2020-04-25 06:30:53,34.16250414,-93.65789349,3,0,0,3,"Pike, Arkansas, US"
@@ -2996,7 +2996,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Ethiopia,2020-04-25 06:30:33,9.145,40.4897,117,3,25,89,Ethiopia
 ,,,Fiji,2020-04-25 06:30:33,-17.7134,178.065,18,0,10,8,Fiji
 ,,,Finland,2020-04-25 06:30:33,61.92411,25.748151,4395,177,2500,1718,Finland
-,,,France,2020-04-25 06:30:33,46.2276,2.2137,158636,22245,43493,92898,France
+,,,France,2020-04-25 06:30:33,46.2276,2.2137,158653,22216,43493,92898,France
 ,,,Gabon,2020-04-25 06:30:33,-0.8037,11.6094,172,3,26,143,Gabon
 ,,,Gambia,2020-04-25 06:30:33,13.4432,-15.3101,10,1,8,1,Gambia
 ,,,Georgia,2020-04-25 06:30:33,42.3154,43.3569,444,5,132,307,Georgia
