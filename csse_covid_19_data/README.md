@@ -166,6 +166,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * December 17: Washington, US | Correction of deaths from April 1 to December 15 and inclusion of probable cases from June 1 to December 15 for Washington in accordance to Washington Department of Health | All time files and daily reports | [Washington Department of Health](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard)
 
 
+
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
 Generalized Format: 
@@ -234,6 +235,7 @@ Date: Location | Change | Reason/Other notes | Source
 * December 13: Alabama, US | Inclusion of 298 backlogged antigen tests from July 7 through December 9 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
 * December 16: Washington, US | Inclusion of 7,671 probable cases from June to present | [Source](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard) | We are working a back distribution
 * December 16: California, US | California dashboard included 15,337 historical cases in their December 16 update | We pull from several sources including the California State Daashboard so it is unclear how these historical cases are distributed within our data | [Source](https://covid19.ca.gov/state-dashboard/)
+* December 17: Hidalgo, Texas, US | Reduction in cases due to double counting probable and confirmed cases | [Source 1](https://www.hidalgocounty.us/DocumentCenter/View/43316/12162020---Eight-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-377-positive-cases), [Source 2](https://www.hidalgocounty.us/DocumentCenter/View/43374/12172020---Four-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-522-positive-cases)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
