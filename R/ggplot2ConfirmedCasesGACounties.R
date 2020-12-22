@@ -17,7 +17,7 @@ asOfDate <- max(gaCounties$date)
 message("data as of ", asOfDate)
 ggplot(gaCounties, aes(date,Confirmed, group = County)) + 
   geom_line(aes(group = County), color = "grey80") +
-  geom_point(aes(color = County)) + scale_x_date(date_breaks = "2 days") +
+  geom_point(aes(color = County)) + scale_x_date(date_breaks = "2 weeks") +
   labs(x = "Date",
        y = "Confirmed Cases", 
        title = paste("COVID-19 Cases for Selected Counties in Georgia, USA as of",asOfDate)) +

@@ -78,4 +78,3 @@ dataList <- lapply(1:length(theFiles),function(x){
 table(unlist(lapply(1:length(theFiles),function(x) length(names(dataList[[x]])))))
 
 data <- do.call(rbind,dataList)
-
