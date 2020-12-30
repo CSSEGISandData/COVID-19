@@ -164,6 +164,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * December 15: France | Correction of cases and deaths from March 3 to December 14 for in accordance with the Ministry of Solidarity and Health | All time files and daily reports | [Ministry of Solidarity and Health](https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/#_)
 * December 15: French Overseas Territories | Correction of cases and deaths from December 6 to December 14 for Guadeloupe, French Guiana, Martinique, Mayotte, and Reunion in accordance to WHO | All time files and daily reports | [WHO](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
 * December 17: Washington, US | Correction of deaths from April 1 to December 15 and inclusion of probable cases from June 1 to December 15 for Washington in accordance to Washington Department of Health | All time files and daily reports | [Washington Department of Health](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard)
+* December 29: New York, US | Correction of probable cases from August 31 to December 28 for New York City in accordance to NYC Health | All time files and daily reports | [NYC Health](https://www1.nyc.gov/site/doh/covid/covid-19-data-totals.page)
 
 
 
