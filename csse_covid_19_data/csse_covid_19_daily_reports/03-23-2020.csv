@@ -3251,7 +3251,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Xinjiang,China,2020-03-08 05:31:02,41.1129,85.2401,76,3,73,0,"Xinjiang, China"
 ,,Yunnan,China,2020-03-16 23:37:18,24.974,101.48700000000001,176,2,172,2,"Yunnan, China"
 ,,Zhejiang,China,2020-03-23 01:08:15,29.1832,120.0934,1238,1,1221,16,"Zhejiang, China"
-,,,Afghanistan,2020-03-23 23:19:21,33.93911,67.709953,40,1,1,38,Afghanistan
+,,,Afghanistan,2020-03-23 23:19:21,33.93911,67.709953,41,1,1,38,Afghanistan
 ,,,Albania,2020-03-23 23:19:21,41.1533,20.1683,104,4,2,98,Albania
 ,,,Algeria,2020-03-23 23:19:21,28.0339,1.6596,230,17,65,148,Algeria
 ,,,Andorra,2020-03-23 23:19:21,42.5063,1.5218,133,1,1,131,Andorra
@@ -3325,7 +3325,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,2020-03-23 23:19:21,32.427908,53.68804599999999,23049,1812,8376,12861,Iran
 ,,,Iraq,2020-03-23 23:19:21,33.223191,43.679291,266,23,62,181,Iraq
 ,,,Ireland,2020-03-23 23:19:21,53.1424,-7.6921,1125,6,5,1114,Ireland
-,,,Israel,2020-03-23 23:19:21,31.046051000000002,34.851612,1442,1,41,1400,Israel
+,,,Israel,2020-03-23 23:19:21,31.046051000000002,34.851612,1620,1,26,1400,Israel
 ,,,Italy,2020-03-23 23:19:21,41.87194,12.56738,63927,6077,7432,50418,Italy
 ,,,Jamaica,2020-03-23 23:19:21,18.1096,-77.2975,19,1,2,16,Jamaica
 ,,,Japan,2020-03-23 23:19:21,36.204824,138.252924,1128,42,235,851,Japan
@@ -3378,6 +3378,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Rwanda,2020-03-23 23:19:21,-1.9403,29.8739,36,0,0,36,Rwanda
 ,,,Saint Lucia,2020-03-23 23:19:21,13.9094,-60.9789,3,0,0,3,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-03-23 23:19:21,12.9843,-61.2872,1,0,0,1,Saint Vincent and the Grenadines
+,,,Samoa,2020-03-23 23:23:10,-13.759,-172.1046,0,0,0,0,Samoa
 ,,,San Marino,2020-03-23 23:19:21,43.9424,12.4578,187,20,4,163,San Marino
 ,,,Saudi Arabia,2020-03-23 23:19:21,23.885942,45.079162,562,0,19,543,Saudi Arabia
 ,,,Senegal,2020-03-23 23:19:21,14.4974,-14.4524,79,0,8,71,Senegal

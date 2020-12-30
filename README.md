@@ -123,6 +123,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California: Humboldt County: https://humboldtgov.org/
   - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
   - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
+  - California: Mendocino County: https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data
   - California: Orange County Health Care Agency: https://occovid19.ochealthinfo.com/coronavirus-in-oc
   - California: Placer County: https://www.placer.ca.gov/coronavirus
   - California: Riverside County: https://www.rivcoph.org/coronavirus
@@ -189,10 +190,11 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
   - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
   - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
-  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://github.com/opencovid19-fr/data/blob/master/dist/chiffres-cles.json
+  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
   - OpenCOVID19 France: https://github.com/opencovid19-fr
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
+  - Israel: https://datadashboard.health.gov.il/COVID-19/general
   - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
@@ -216,6 +218,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - Iceland Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+  - Afghanistan: http://covid.moph-dw.org/#/
+  - Kazakhstan: https://www.coronavirus2020.kz/
+  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html 
     
 
 
