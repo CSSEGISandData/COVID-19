@@ -1,4 +1,4 @@
-﻿FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
+FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
 36061,New York City,New York,US,3/22/20 23:45,40.7672726,-73.97152637,9654,63,0,0,"New York City, New York, US"
 36059,Nassau,New York,US,3/22/20 23:45,40.74066522,-73.58941873,1900,4,0,0,"Nassau, New York, US"
 36119,Westchester,New York,US,3/22/20 23:45,41.16278376,-73.75741653,1873,0,0,0,"Westchester, New York, US"
@@ -13,7 +13,7 @@
 36091,Saratoga,New York,US,3/22/20 23:45,43.10904162,-73.86653895,35,0,0,0,"Saratoga, New York, US"
 36093,Schenectady,New York,US,3/22/20 23:45,42.81668777,-74.05278291,32,0,0,0,"Schenectady, New York, US"
 36079,Putnam,New York,US,3/22/20 23:45,41.42630093,-73.74965532,31,0,0,0,"Putnam, New York, US"
-,Unassigned,New York,US,3/22/20 23:45,0,0,23,38,0,0,"Unassigned, New York, US"
+,Unassigned,New York,US,3/22/20 23:45,0.0,0.0,23,38,0,0,"Unassigned, New York, US"
 36083,Rensselaer,New York,US,3/22/20 23:45,42.71348136,-73.51089874,20,0,0,0,"Rensselaer, New York, US"
 36111,Ulster,New York,US,3/22/20 23:45,41.89027881,-74.26252104,18,0,0,0,"Ulster, New York, US"
 36021,Columbia,New York,US,3/22/20 23:45,42.24819348,-73.63089095,17,0,0,0,"Columbia, New York, US"
@@ -46,7 +46,7 @@
 36045,Jefferson,New York,US,3/22/20 23:45,44.04200959,-75.94653457,1,0,0,0,"Jefferson, New York, US"
 53033,King,Washington,US,3/22/20 23:45,47.49137892,-121.8346131,1040,75,0,0,"King, Washington, US"
 53061,Snohomish,Washington,US,3/22/20 23:45,48.04615983,-121.7170703,480,10,0,0,"Snohomish, Washington, US"
-,Unassigned,Washington,US,3/22/20 23:45,0,0,164,0,0,0,"Unassigned, Washington, US"
+,Unassigned,Washington,US,3/22/20 23:45,0.0,0.0,164,0,0,0,"Unassigned, Washington, US"
 53053,Pierce,Washington,US,3/22/20 23:45,47.03892768,-122.1405958,107,1,0,0,"Pierce, Washington, US"
 53057,Skagit,Washington,US,3/22/20 23:45,48.48171488,-121.766131,33,0,0,0,"Skagit, Washington, US"
 53029,Island,Washington,US,3/22/20 23:45,48.14713305,-122.5216407,21,1,0,0,"Island, Washington, US"
@@ -75,7 +75,7 @@
 53055,San Juan,Washington,US,3/22/20 23:45,48.60182783,-122.96745,1,0,0,0,"San Juan, Washington, US"
 53075,Whitman,Washington,US,3/22/20 23:45,46.90022523,-117.5241763,1,0,0,0,"Whitman, Washington, US"
 34003,Bergen,New Jersey,US,3/22/20 23:45,40.96010917,-74.07164325,457,6,0,0,"Bergen, New Jersey, US"
-,Unassigned,New Jersey,US,3/22/20 23:45,0,0,221,4,0,0,"Unassigned, New Jersey, US"
+,Unassigned,New Jersey,US,3/22/20 23:45,0.0,0.0,221,4,0,0,"Unassigned, New Jersey, US"
 34013,Essex,New Jersey,US,3/22/20 23:45,40.78681335,-74.24657979,172,4,0,0,"Essex, New Jersey, US"
 34025,Monmouth,New Jersey,US,3/22/20 23:45,40.26549699,-74.22240686,158,3,0,0,"Monmouth, New Jersey, US"
 34023,Middlesex,New Jersey,US,3/22/20 23:45,40.43629879,-74.41426991,147,0,0,0,"Middlesex, New Jersey, US"
@@ -152,7 +152,7 @@
 17203,Woodford,Illinois,US,3/22/20 23:45,40.78579374,-89.20973757,2,0,0,0,"Woodford, Illinois, US"
 17119,Madison,Illinois,US,3/22/20 23:45,38.83042506,-89.90422563,2,0,0,0,"Madison, Illinois, US"
 17091,Kankakee,Illinois,US,3/22/20 23:45,41.13746989,-87.86205334,2,0,0,0,"Kankakee, Illinois, US"
-,Unassigned,Illinois,US,3/22/20 23:45,0,0,2,3,0,0,"Unassigned, Illinois, US"
+,Unassigned,Illinois,US,3/22/20 23:45,0.0,0.0,2,3,0,0,"Unassigned, Illinois, US"
 17019,Champaign,Illinois,US,3/22/20 23:45,40.13919438,-88.20046615,2,0,0,0,"Champaign, Illinois, US"
 17035,Cumberland,Illinois,US,3/22/20 23:45,39.27432424,-88.2401158,1,0,0,0,"Cumberland, Illinois, US"
 17195,Whiteside,Illinois,US,3/22/20 23:45,41.75509713,-89.91556058,1,0,0,0,"Whiteside, Illinois, US"
@@ -242,13 +242,13 @@
 12087,Monroe,Florida,US,3/22/20 23:45,25.20904673,-81.07812416,1,0,0,0,"Monroe, Florida, US"
 12005,Bay,Florida,US,3/22/20 23:45,30.26548745,-85.62122584,1,0,0,0,"Bay, Florida, US"
 12055,Highlands,Florida,US,3/22/20 23:45,27.34254618,-81.34071957,1,0,0,0,"Highlands, Florida, US"
-,Unassigned,Florida,US,3/22/20 23:45,0,0,1,0,0,0,"Unassigned, Florida, US"
+,Unassigned,Florida,US,3/22/20 23:45,0.0,0.0,1,0,0,0,"Unassigned, Florida, US"
 12007,Bradford,Florida,US,3/22/20 23:45,29.95079741,-82.16611613,1,0,0,0,"Bradford, Florida, US"
 ,Desoto,Florida,US,3/22/20 23:45,,,1,0,0,0,"Desoto, Florida, US"
 12035,Flagler,Florida,US,3/22/20 23:45,29.45933576,-81.31508595,1,0,0,0,"Flagler, Florida, US"
 22071,Orleans,Louisiana,US,3/22/20 23:45,30.06971951,-89.92660315,451,15,0,0,"Orleans, Louisiana, US"
 22051,Jefferson,Louisiana,US,3/22/20 23:45,29.74075478,-90.11115756,166,3,0,0,"Jefferson, Louisiana, US"
-,Unassigned,Louisiana,US,3/22/20 23:45,0,0,50,0,0,0,"Unassigned, Louisiana, US"
+,Unassigned,Louisiana,US,3/22/20 23:45,0.0,0.0,50,0,0,0,"Unassigned, Louisiana, US"
 22103,St. Tammany,Louisiana,US,3/22/20 23:45,30.40942847,-89.95642711,22,0,0,0,"St. Tammany, Louisiana, US"
 22033,East Baton Rouge,Louisiana,US,3/22/20 23:45,30.53842039,-91.09777565,18,0,0,0,"East Baton Rouge, Louisiana, US"
 22017,Caddo,Louisiana,US,3/22/20 23:45,32.57991587,-93.88375652,15,0,0,0,"Caddo, Louisiana, US"
@@ -291,7 +291,7 @@
 25023,Plymouth,Massachusetts,US,3/22/20 23:45,41.94070556,-70.80802823,25,0,0,0,"Plymouth, Massachusetts, US"
 25001,Barnstable,Massachusetts,US,3/22/20 23:45,41.72980578,-70.28854339,24,0,0,0,"Barnstable, Massachusetts, US"
 25005,Bristol,Massachusetts,US,3/22/20 23:45,41.79228404,-71.10872211,24,0,0,0,"Bristol, Massachusetts, US"
-,Unassigned,Massachusetts,US,3/22/20 23:45,0,0,24,3,0,0,"Unassigned, Massachusetts, US"
+,Unassigned,Massachusetts,US,3/22/20 23:45,0.0,0.0,24,3,0,0,"Unassigned, Massachusetts, US"
 25003,Berkshire,Massachusetts,US,3/22/20 23:45,42.37428441,-73.20524838,23,0,0,0,"Berkshire, Massachusetts, US"
 25013,Hampden,Massachusetts,US,3/22/20 23:45,42.13440424,-72.63235561,12,0,0,0,"Hampden, Massachusetts, US"
 25011,Franklin,Massachusetts,US,3/22/20 23:45,42.58119713,-72.58602547,6,0,0,0,"Franklin, Massachusetts, US"
@@ -362,7 +362,7 @@
 13015,Bartow,Georgia,US,3/22/20 23:45,34.23732119,-84.83887523,56,1,0,0,"Bartow, Georgia, US"
 13089,DeKalb,Georgia,US,3/22/20 23:45,33.76944049,-84.22396017,53,0,0,0,"DeKalb, Georgia, US"
 13095,Dougherty,Georgia,US,3/22/20 23:45,31.53328528,-84.21722377,52,6,0,0,"Dougherty, Georgia, US"
-,Unassigned,Georgia,US,3/22/20 23:45,0,0,36,10,0,0,"Unassigned, Georgia, US"
+,Unassigned,Georgia,US,3/22/20 23:45,0.0,0.0,36,10,0,0,"Unassigned, Georgia, US"
 13135,Gwinnett,Georgia,US,3/22/20 23:45,33.96044201,-84.02137802,27,1,0,0,"Gwinnett, Georgia, US"
 13057,Cherokee,Georgia,US,3/22/20 23:45,34.24393976,-84.47431861,18,0,0,0,"Cherokee, Georgia, US"
 13177,Lee,Georgia,US,3/22/20 23:45,31.7793306,-84.14324253,16,0,0,0,"Lee, Georgia, US"
@@ -444,7 +444,7 @@
 8014,Broomfield,Colorado,US,3/22/20 23:45,39.95998787,-105.0566324,1,0,0,0,"Broomfield, Colorado, US"
 8093,Park,Colorado,US,3/22/20 23:45,39.120926,-105.7182065,1,0,0,0,"Park, Colorado, US"
 8125,Yuma,Colorado,US,3/22/20 23:45,40.00346839,-102.4258673,1,0,0,0,"Yuma, Colorado, US"
-,Unassigned,Colorado,US,3/22/20 23:45,0,0,1,0,0,0,"Unassigned, Colorado, US"
+,Unassigned,Colorado,US,3/22/20 23:45,0.0,0.0,1,0,0,0,"Unassigned, Colorado, US"
 8053,Hinsdale,Colorado,US,3/22/20 23:45,37.82247444,-107.3004345,1,0,0,0,"Hinsdale, Colorado, US"
 8085,Montrose,Colorado,US,3/22/20 23:45,38.40214114,-108.2639022,1,0,0,0,"Montrose, Colorado, US"
 8113,San Miguel,Colorado,US,3/22/20 23:45,38.00450883,-108.4020725,1,0,0,0,"San Miguel, Colorado, US"
@@ -833,7 +833,7 @@
 45049,Hampton,South Carolina,US,3/22/20 23:45,32.77419582,-81.13845571,1,0,0,0,"Hampton, South Carolina, US"
 45053,Jasper,South Carolina,US,3/22/20 23:45,32.43171982,-81.02487495,1,0,0,0,"Jasper, South Carolina, US"
 32003,Clark,Nevada,US,3/22/20 23:45,36.21458855,-115.0130241,126,2,0,0,"Clark, Nevada, US"
-,Unassigned,Nevada,US,3/22/20 23:45,0,0,36,0,0,0,"Unassigned, Nevada, US"
+,Unassigned,Nevada,US,3/22/20 23:45,0.0,0.0,36,0,0,0,"Unassigned, Nevada, US"
 32031,Washoe,Nevada,US,3/22/20 23:45,40.66562265,-119.6631594,25,0,0,0,"Washoe, Nevada, US"
 32510,Carson City,Nevada,US,3/22/20 23:45,39.15509045,-119.7480219,2,0,0,0,"Carson City, Nevada, US"
 32007,Elko County,Nevada,US,3/22/20 23:45,41.14531606,-115.3577619,1,0,0,0,"Elko County, Nevada, US"
@@ -872,7 +872,7 @@
 27137,St. Louis,Minnesota,US,3/22/20 23:45,47.6048407,-92.46879855,1,0,0,0,"St. Louis, Minnesota, US"
 27021,Cass,Minnesota,US,3/22/20 23:45,46.95043611,-94.32603968,1,0,0,0,"Cass, Minnesota, US"
 ,LeSeur,Minnesota,US,3/22/20 23:45,,,1,0,0,0,"LeSeur, Minnesota, US"
-,Unassigned,Arkansas,US,3/22/20 23:45,0,0,121,0,0,0,"Unassigned, Arkansas, US"
+,Unassigned,Arkansas,US,3/22/20 23:45,0.0,0.0,121,0,0,0,"Unassigned, Arkansas, US"
 5069,Jefferson,Arkansas,US,3/22/20 23:45,34.26767081,-91.92619839,9,0,0,0,"Jefferson, Arkansas, US"
 5119,Pulaski,Arkansas,US,3/22/20 23:45,34.77054088,-92.31355101,4,0,0,0,"Pulaski, Arkansas, US"
 5051,Garland,Arkansas,US,3/22/20 23:45,34.57692074,-93.14921604,3,0,0,0,"Garland, Arkansas, US"
@@ -917,19 +917,19 @@
 41023,Grant,Oregon,US,3/22/20 23:45,44.49024544,-119.0068631,1,0,0,0,"Grant, Oregon, US"
 41061,Union,Oregon,US,3/22/20 23:45,45.30915495,-118.0068979,1,0,0,0,"Union, Oregon, US"
 41033,Josephine,Oregon,US,3/22/20 23:45,42.3665549,-123.5561938,1,0,0,0,"Josephine, Oregon, US"
-1073,Jefferson,Alabama,US,3/22/20 23:45,33.55554728,-86.895063,71,0,0,0,"Jefferson, Alabama, US"
-1117,Shelby,Alabama,US,3/22/20 23:45,33.26879845,-86.66232561,17,0,0,0,"Shelby, Alabama, US"
+1073,Jefferson,Alabama,US,3/22/20 23:45,33.55554728,-86.895063,78,0,0,0,"Jefferson, Alabama, US"
+1117,Shelby,Alabama,US,3/22/20 23:45,33.26879845,-86.66232561,21,0,0,0,"Shelby, Alabama, US"
 1081,Lee,Alabama,US,3/22/20 23:45,32.60154883,-85.35132246,16,0,0,0,"Lee, Alabama, US"
-1089,Madison,Alabama,US,3/22/20 23:45,34.76327133,-86.55069633,16,0,0,0,"Madison, Alabama, US"
-1125,Tuscaloosa,Alabama,US,3/22/20 23:45,33.28726072,-87.52556818,7,0,0,0,"Tuscaloosa, Alabama, US"
+1089,Madison,Alabama,US,3/22/20 23:45,34.76327133,-86.55069633,22,0,0,0,"Madison, Alabama, US"
+1125,Tuscaloosa,Alabama,US,3/22/20 23:45,33.28726072,-87.52556818,9,0,0,0,"Tuscaloosa, Alabama, US"
 1051,Elmore,Alabama,US,3/22/20 23:45,32.59785413,-86.14415284,6,0,0,0,"Elmore, Alabama, US"
 1101,Montgomery,Alabama,US,3/22/20 23:45,32.2206831,-86.20969272,3,0,0,0,"Montgomery, Alabama, US"
-1115,St. Clair,Alabama,US,3/22/20 23:45,33.71902176,-86.31029372,3,0,0,0,"St. Clair, Alabama, US"
+1115,St. Clair,Alabama,US,3/22/20 23:45,33.71902176,-86.31029372,4,0,0,0,"St. Clair, Alabama, US"
 1003,Baldwin,Alabama,US,3/22/20 23:45,30.72774991,-87.72207058,2,0,0,0,"Baldwin, Alabama, US"
 1017,Chambers,Alabama,US,3/22/20 23:45,32.91360079,-85.39072749,2,0,0,0,"Chambers, Alabama, US"
-1097,Mobile,Alabama,US,3/22/20 23:45,30.78472347,-88.20842409,2,0,0,0,"Mobile, Alabama, US"
+1097,Mobile,Alabama,US,3/22/20 23:45,30.78472347,-88.20842409,3,0,0,0,"Mobile, Alabama, US"
 1077,Lauderdale,Alabama,US,3/22/20 23:45,34.90171875,-87.65624729,2,0,0,0,"Lauderdale, Alabama, US"
-1043,Cullman,Alabama,US,3/22/20 23:45,34.13020303,-86.86888037,2,0,0,0,"Cullman, Alabama, US"
+1043,Cullman,Alabama,US,3/22/20 23:45,34.13020303,-86.86888037,3,0,0,0,"Cullman, Alabama, US"
 1083,Limestone,Alabama,US,3/22/20 23:45,34.81185586,-86.98310072,1,0,0,0,"Limestone, Alabama, US"
 1015,Calhoun,Alabama,US,3/22/20 23:45,33.77483727,-85.82630386,1,0,0,0,"Calhoun, Alabama, US"
 1121,Talladega,Alabama,US,3/22/20 23:45,33.37823223,-86.16886178,1,0,0,0,"Talladega, Alabama, US"
@@ -949,7 +949,7 @@
 4023,Santa Cruz,Arizona,US,3/22/20 23:45,31.52508998,-110.8479088,1,0,0,0,"Santa Cruz, Arizona, US"
 4027,Yuma,Arizona,US,3/22/20 23:45,32.76895712,-113.9066674,1,0,0,0,"Yuma, Arizona, US"
 4003,Cochise,Arizona,US,3/22/20 23:45,31.87934684,-109.7516088,1,0,0,0,"Cochise, Arizona, US"
-,Unassigned,Kentucky,US,3/22/20 23:45,0,0,39,0,0,0,"Unassigned, Kentucky, US"
+,Unassigned,Kentucky,US,3/22/20 23:45,0.0,0.0,39,0,0,0,"Unassigned, Kentucky, US"
 21111,Jefferson,Kentucky,US,3/22/20 23:45,38.18664655,-85.65931031,25,1,0,0,"Jefferson, Kentucky, US"
 21067,Fayette,Kentucky,US,3/22/20 23:45,38.0368225,-84.45576892,10,0,0,0,"Fayette, Kentucky, US"
 21097,Harrison,Kentucky,US,3/22/20 23:45,38.44188174,-84.32869741,7,0,0,0,"Harrison, Kentucky, US"
@@ -1012,7 +1012,7 @@
 19157,Poweshiek,Iowa,US,3/22/20 23:45,41.68625425,-92.53155731,1,0,0,0,"Poweshiek, Iowa, US"
 23005,Cumberland,Maine,US,3/22/20 23:45,43.8370751,-70.37226999,53,0,0,0,"Cumberland, Maine, US"
 23031,York,Maine,US,3/22/20 23:45,43.47808377,-70.71052375,8,0,0,0,"York, Maine, US"
-,Unassigned,Maine,US,3/22/20 23:45,0,0,8,0,0,0,"Unassigned, Maine, US"
+,Unassigned,Maine,US,3/22/20 23:45,0.0,0.0,8,0,0,0,"Unassigned, Maine, US"
 23015,Lincoln,Maine,US,3/22/20 23:45,44.05996956,-69.54227124,4,0,0,0,"Lincoln, Maine, US"
 23017,Oxford,Maine,US,3/22/20 23:45,44.49952995,-70.75682123,4,0,0,0,"Oxford, Maine, US"
 23011,Kennebec,Maine,US,3/22/20 23:45,44.40759555,-69.76738544,4,0,0,0,"Kennebec, Maine, US"
@@ -1023,7 +1023,7 @@
 44001,Bristol,Rhode Island,US,3/22/20 23:45,41.71018079,-71.28652315,14,0,0,0,"Bristol, Rhode Island, US"
 44009,Washington,Rhode Island,US,3/22/20 23:45,41.45961631,-71.61435303,9,0,0,0,"Washington, Rhode Island, US"
 44005,Newport,Rhode Island,US,3/22/20 23:45,41.5642026,-71.26569799,8,0,0,0,"Newport, Rhode Island, US"
-,Unassigned,Rhode Island,US,3/22/20 23:45,0,0,8,0,0,0,"Unassigned, Rhode Island, US"
+,Unassigned,Rhode Island,US,3/22/20 23:45,0.0,0.0,8,0,0,0,"Unassigned, Rhode Island, US"
 44003,Kent,Rhode Island,US,3/22/20 23:45,41.67106337,-71.57641596,7,0,0,0,"Kent, Rhode Island, US"
 33015,Rockingham,New Hampshire,US,3/22/20 23:45,42.98499744,-71.12883377,28,0,0,0,"Rockingham, New Hampshire, US"
 33009,Grafton,New Hampshire,US,3/22/20 23:45,43.93779815,-71.82057197,15,0,0,0,"Grafton, New Hampshire, US"
@@ -1098,7 +1098,7 @@
 31025,Cass,Nebraska,US,3/22/20 23:45,40.90899107,-96.13971217,1,0,0,0,"Cass, Nebraska, US"
 31001,Adams,Nebraska,US,3/22/20 23:45,40.5244942,-98.50117804,1,0,0,0,"Adams, Nebraska, US"
 31127,Nemaha,Nebraska,US,3/22/20 23:45,40.38514847,-95.85433992,1,0,0,0,"Nemaha, Nebraska, US"
-88888,,Diamond Princess,US,3/22/20 23:45,0,0,49,0,0,0,"Diamond Princess, US"
+88888,,Diamond Princess,US,3/22/20 23:45,0.0,0.0,49,0,0,0,"Diamond Princess, US"
 16013,Blaine,Idaho,US,3/22/20 23:45,43.4085812,-113.9752658,21,0,0,0,"Blaine, Idaho, US"
 16001,Ada,Idaho,US,3/22/20 23:45,43.4526575,-116.2415516,11,0,0,0,"Ada, Idaho, US"
 16055,Kootenai,Idaho,US,3/22/20 23:45,47.67282258,-116.7020872,3,0,0,0,"Kootenai, Idaho, US"
@@ -1114,12 +1114,12 @@
 30013,Cascade,Montana,US,3/22/20 23:45,47.30797024,-111.3467922,3,0,0,0,"Cascade, Montana, US"
 30093,Silver Bow,Montana,US,3/22/20 23:45,45.90018933,-112.6620092,2,0,0,0,"Silver Bow, Montana, US"
 30029,Flathead,Montana,US,3/22/20 23:45,48.29575866,-114.0520569,2,0,0,0,"Flathead, Montana, US"
-,Unassigned,Montana,US,3/22/20 23:45,0,0,1,0,0,0,"Unassigned, Montana, US"
+,Unassigned,Montana,US,3/22/20 23:45,0.0,0.0,1,0,0,0,"Unassigned, Montana, US"
 30007,Broadwater,Montana,US,3/22/20 23:45,46.33277565,-111.4955813,1,0,0,0,"Broadwater, Montana, US"
 30085,Roosevelt,Montana,US,3/22/20 23:45,48.29607488,-105.0079268,1,0,0,0,"Roosevelt, Montana, US"
 30057,Madison,Montana,US,3/22/20 23:45,45.30080065,-111.9173017,1,0,0,0,"Madison, Montana, US"
 30081,Ravalli,Montana,US,3/22/20 23:45,46.08520862,-114.1189164,1,0,0,0,"Ravalli, Montana, US"
-99999,,Grand Princess,US,3/22/20 23:45,0,0,30,1,0,0,"Grand Princess, US"
+99999,,Grand Princess,US,3/22/20 23:45,0.0,0.0,30,1,0,0,"Grand Princess, US"
 38015,Burleigh,North Dakota,US,3/22/20 23:45,46.97847375,-100.4645214,15,0,0,0,"Burleigh, North Dakota, US"
 38059,Morton,North Dakota,US,3/22/20 23:45,46.71681782,-101.2822377,7,0,0,0,"Morton, North Dakota, US"
 38101,Ward,North Dakota,US,3/22/20 23:45,48.22390169,-101.5436763,3,0,0,0,"Ward, North Dakota, US"
@@ -1158,7 +1158,7 @@
 54035,Jackson,West Virginia,US,3/22/20 23:45,38.84263974,-81.68148753,1,0,0,0,"Jackson, West Virginia, US"
 54079,Putnam,West Virginia,US,3/22/20 23:45,38.50782345,-81.9082131,1,0,0,0,"Putnam, West Virginia, US"
 78000,,Virgin Islands,US,3/22/20 23:45,18.3358,-64.8963,6,0,0,0,"Virgin Islands, US"
-,Unassigned,Wuhan Evacuee,US,3/22/20 23:45,0,0,4,0,0,0,"Unassigned, Wuhan Evacuee, US"
+,Unassigned,Wuhan Evacuee,US,3/22/20 23:45,0.0,0.0,4,0,0,0,"Unassigned, Wuhan Evacuee, US"
 1001,Autauga,Alabama,US,3/22/20 23:45,32.53952745,-86.64408227,0,0,0,0,"Autauga, Alabama, US"
 1005,Barbour,Alabama,US,3/22/20 23:45,31.868263,-85.3871286,0,0,0,0,"Barbour, Alabama, US"
 1007,Bibb,Alabama,US,3/22/20 23:45,32.99642064,-87.1251146,0,0,0,0,"Bibb, Alabama, US"
@@ -1200,7 +1200,7 @@
 1107,Pickens,Alabama,US,3/22/20 23:45,33.28094866,-88.08818103,0,0,0,0,"Pickens, Alabama, US"
 1109,Pike,Alabama,US,3/22/20 23:45,31.80396383,-85.9408295,0,0,0,0,"Pike, Alabama, US"
 1111,Randolph,Alabama,US,3/22/20 23:45,33.29526734,-85.45708831,0,0,0,0,"Randolph, Alabama, US"
-1113,Russell,Alabama,US,3/22/20 23:45,32.28725256,-85.18415324,0,0,0,0,"Russell, Alabama, US"
+1113,Russell,Alabama,US,3/22/20 23:45,32.28725256,-85.18415324,1,0,0,0,"Russell, Alabama, US"
 1119,Sumter,Alabama,US,3/22/20 23:45,32.59117397,-88.19916205,0,0,0,0,"Sumter, Alabama, US"
 1123,Tallapoosa,Alabama,US,3/22/20 23:45,32.86698258,-85.79833053,0,0,0,0,"Tallapoosa, Alabama, US"
 1131,Wilcox,Alabama,US,3/22/20 23:45,31.98773215,-87.30891118,0,0,0,0,"Wilcox, Alabama, US"
@@ -3181,13 +3181,14 @@
 ,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,219,4,0,0,"Quebec, Canada"
 ,,Saskatchewan,Canada,3/22/20 23:48,52.9399,-106.4509,52,0,0,0,"Saskatchewan, Canada"
 ,,Nova Scotia,Canada,3/22/20 23:48,44.682,-63.7443,28,0,0,0,"Nova Scotia, Canada"
+,,Nunavut,Canada,3/22/20 23:48,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
 ,,Manitoba,Canada,3/22/20 23:48,53.7609,-98.8139,20,0,0,0,"Manitoba, Canada"
 ,,New Brunswick,Canada,3/22/20 23:48,46.5653,-66.4619,17,0,0,0,"New Brunswick, Canada"
-,,Grand Princess,Canada,3/22/20 23:48,0,0,13,0,0,0,"Grand Princess, Canada"
+,,Grand Princess,Canada,3/22/20 23:48,0.0,0.0,13,0,0,0,"Grand Princess, Canada"
 ,,Newfoundland and Labrador,Canada,3/22/20 23:48,53.1355,-57.6604,9,0,0,0,"Newfoundland and Labrador, Canada"
 ,,Prince Edward Island,Canada,3/22/20 23:48,46.5107,-63.4168,3,0,0,0,"Prince Edward Island, Canada"
 ,,Northwest Territories,Canada,3/22/20 23:48,,,1,0,0,0,"Northwest Territories, Canada"
-,,Diamond Princess,Canada,3/22/20 23:48,0,0,0,1,0,0,"Diamond Princess, Canada"
+,,Diamond Princess,Canada,3/22/20 23:48,0.0,0.0,0,1,0,0,"Diamond Princess, Canada"
 ,,New South Wales,Australia,3/22/20 23:48,-33.8688,151.2093,669,6,4,659,"New South Wales, Australia"
 ,,Victoria,Australia,3/22/20 23:48,-37.8136,144.9631,296,0,70,226,"Victoria, Australia"
 ,,Queensland,Australia,3/22/20 23:48,-27.4698,153.0251,259,0,8,251,"Queensland, Australia"
@@ -3203,7 +3204,7 @@
 ,,Chongqing,China,3/22/20 10:52,30.0572,107.874,577,6,570,1,"Chongqing, China"
 ,,Hubei,China,3/22/20 9:33,30.9756,112.2707,67800,3144,59433,5223,"Hubei, China"
 ,,Hong Kong,China,3/22/20 9:33,22.3,114.2,317,4,100,213,"Hong Kong, China"
-,,,Taiwan*,3/22/20 8:11,23.7,121,169,2,28,139,Taiwan*
+,,,Taiwan*,3/22/20 8:11,23.7,121.0,169,2,28,139,Taiwan*
 ,,Shandong,China,3/22/20 8:10,36.3427,118.1498,766,7,750,9,"Shandong, China"
 ,,Beijing,China,3/22/20 7:20,40.1824,116.4142,514,8,400,106,"Beijing, China"
 ,,Shanghai,China,3/22/20 7:20,31.202,121.4491,394,4,328,62,"Shanghai, China"
@@ -3236,7 +3237,7 @@
 ,,,Spain,3/22/20 23:45,40.463667,-3.74922,28603,1756,2125,24722,Spain
 ,,,Germany,3/22/20 23:45,51.165691,10.451526,24873,94,266,24513,Germany
 ,,,Iran,3/22/20 23:45,32.427908,53.688046,21638,1685,7635,12318,Iran
-,,,France,3/22/20 23:45,46.2276,2.2137,16018,674,2200,13144,France
+,,,France,3/22/20 23:45,46.2276,2.2137,16533,674,2200,13144,France
 ,,,"Korea, South",3/22/20 23:45,35.907757,127.766922,8897,104,2909,5884,"Korea, South"
 ,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,98,131,7245,Switzerland
 ,,,United Kingdom,3/22/20 23:45,55.3781,-3.436,5683,281,93,5309,United Kingdom
@@ -3252,12 +3253,12 @@
 ,,,Turkey,3/22/20 23:45,38.9637,35.2433,1236,30,0,1206,Turkey
 ,,,Czechia,3/22/20 23:45,49.8175,15.473,1120,1,6,1113,Czechia
 ,,,Japan,3/22/20 23:45,36.204824,138.252924,1086,36,235,815,Japan
-,,,Israel,3/22/20 23:45,31.046051,34.851612,1071,1,37,1033,Israel
+,,,Israel,3/22/20 23:45,31.046051,34.851612,1268,1,19,1033,Israel
 ,,,Ireland,3/22/20 23:45,53.1424,-7.6921,906,4,5,897,Ireland
 ,,,Luxembourg,3/22/20 23:45,49.8153,6.1296,798,8,6,784,Luxembourg
 ,,,Ecuador,3/22/20 23:45,-1.8312,-78.1834,789,14,3,772,Ecuador
 ,,,Pakistan,3/22/20 23:45,30.3753,69.3451,776,4,13,759,Pakistan
-,,Diamond Princess,Cruise Ship,3/22/20 23:45,0,0,712,8,567,137,"Diamond Princess, Cruise Ship"
+,,Diamond Princess,Cruise Ship,3/22/20 23:45,0.0,0.0,712,8,567,137,"Diamond Princess, Cruise Ship"
 ,,,Poland,3/22/20 23:45,51.9194,19.1451,634,7,13,614,Poland
 ,,,Chile,3/22/20 23:45,-35.6751,-71.543,632,1,8,623,Chile
 ,,,Finland,3/22/20 23:45,61.92411,25.748151,626,1,10,615,Finland
@@ -3321,14 +3322,14 @@
 ,,,Venezuela,3/22/20 23:45,6.4238,-66.5897,70,0,15,55,Venezuela
 ,,,Senegal,3/22/20 23:45,14.4974,-14.4524,67,0,5,62,Senegal
 ,,,Azerbaijan,3/22/20 23:45,40.1431,47.5769,65,1,11,53,Azerbaijan
-,,,Kazakhstan,3/22/20 23:45,48.0196,66.9237,59,0,0,59,Kazakhstan
+,,,Kazakhstan,3/22/20 23:45,48.0196,66.9237,60,0,0,59,Kazakhstan
 ,,Guadeloupe,France,3/22/20 23:45,16.265,-61.551,56,1,0,55,"Guadeloupe, France"
 ,,,Oman,3/22/20 23:45,21.512583,55.923255,55,0,17,38,Oman
 ,,,Georgia,3/22/20 23:45,42.3154,43.3569,54,0,1,53,Georgia
 ,,,Trinidad and Tobago,3/22/20 23:45,10.6918,-61.2225,50,0,0,50,Trinidad and Tobago
 ,,Reunion,France,3/22/20 23:45,-21.1151,55.5364,47,0,1,46,"Reunion, France"
 ,,,Uzbekistan,3/22/20 23:45,41.377491,64.585262,43,0,0,43,Uzbekistan
-,,,Afghanistan,3/22/20 23:45,33.93911,67.709953,40,1,1,38,Afghanistan
+,,,Afghanistan,3/22/20 23:45,33.93911,67.709953,34,1,1,38,Afghanistan
 ,,,Cameroon,3/22/20 23:45,3.848,11.5021,40,0,2,38,Cameroon
 ,,Martinique,France,3/22/20 23:45,14.6415,-61.0242,37,1,0,36,"Martinique, France"
 ,,,Liechtenstein,3/22/20 23:45,47.14,9.55,37,0,0,37,Liechtenstein
@@ -3348,7 +3349,7 @@
 ,,,Jamaica,3/22/20 23:45,18.1096,-77.2975,19,1,2,16,Jamaica
 ,,,Rwanda,3/22/20 23:45,-1.9403,29.8739,19,0,0,19,Rwanda
 ,,,Guyana,3/22/20 23:45,4.860416,-58.93018,18,1,0,17,Guyana
-,,French Guiana,France,3/22/20 23:45,4,-53,18,0,0,18,"French Guiana, France"
+,,French Guiana,France,3/22/20 23:45,4.0,-53.0,18,0,0,18,"French Guiana, France"
 ,,,Togo,3/22/20 23:45,8.6195,0.8248,16,0,0,16,Togo
 ,,French Polynesia,France,3/22/20 23:45,-17.6797,149.4068,15,0,0,15,"French Polynesia, France"
 ,,Gibraltar,United Kingdom,3/22/20 23:45,36.1408,-5.3536,15,0,2,13,"Gibraltar, United Kingdom"
@@ -3409,6 +3410,7 @@
 ,,,Mozambique,3/22/20 23:45,-18.665695,35.529562,1,0,0,1,Mozambique
 ,,,Papua New Guinea,3/22/20 23:45,-6.314993,143.95555,1,0,0,1,Papua New Guinea
 ,,,Saint Vincent and the Grenadines,3/22/20 23:45,12.9843,-61.2872,1,0,0,1,Saint Vincent and the Grenadines
+,,,Samoa,3/22/20 23:48,-13.759,-172.1046,0,0,0,0,Samoa
 ,,Sint Maarten,Netherlands,3/22/20 23:45,18.0425,-63.0548,1,0,0,1,"Sint Maarten, Netherlands"
 ,,,Somalia,3/22/20 23:45,5.152149,46.199616,1,0,0,1,Somalia
 ,,,Syria,3/22/20 23:45,34.802075,38.996815,1,0,0,1,Syria

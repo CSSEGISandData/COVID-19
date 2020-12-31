@@ -30,8 +30,8 @@ MM-DD-YYYY.csv in UTC.
 * <b>Deaths</b>: Counts include confirmed and probable (where reported).
 * <b>Recovered</b>: Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
 * <b>Active:</b> Active cases = total cases - total recovered - total deaths.
-* <b>Incidence_Rate</b>: Incidence Rate = cases per 100,000 persons.
-* <b>Case-Fatality Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
+* <b>Incident_Rate</b>: Incidence Rate = cases per 100,000 persons.
+* <b>Case_Fatality_Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
 * All cases, deaths, and recoveries reported are based on the date of initial report. Exceptions to this are noted in the "Data Modification" and "Retrospective reporting of (probable) cases and deaths" subsections below.  
 
 ### Update frequency
@@ -68,9 +68,9 @@ MM-DD-YYYY.csv in UTC.
 * <b>Active</b> - Aggregated confirmed cases that have not been resolved (Active cases = total cases - total recovered - total deaths).
 * <b>FIPS</b> - Federal Information Processing Standards code that uniquely identifies counties within the USA.
 * <b>Incident_Rate</b> - cases per 100,000 persons.
-* <b>People_Tested</b> - Total number of people who have been tested.
+* <b>Total_Test_Results</b> - Total number of people who have been tested.
 * <b>People_Hospitalized</b> - Total number of people hospitalized. (Nullified on Aug 31, see [Issue #3083](https://github.com/CSSEGISandData/COVID-19/issues/3083))
-* <b>Mortality_Rate</b> - Number recorded deaths * 100/ Number confirmed cases.
+* <b>Case_Fatality_Ratio</b> - Number recorded deaths * 100/ Number confirmed cases.
 * <b>UID</b> - Unique Identifier for each row entry. 
 * <b>ISO3</b> - Officialy assigned country code identifiers.
 * <b>Testing_Rate</b> - Total test results per 100,000 persons. The "total test results" are equal to "Total test results (Positive + Negative)" from [COVID Tracking Project](https://covidtracking.com/).
@@ -147,6 +147,26 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * October 30: Franklin County, VA | Rewrite time series 8/22 to 10/28 with appropriate data | All time series files and us daily reports for 8/22 through 10/28 | Internal mapping error had lead to cases in Franklin City, VA replacing values for Franklin County, VA as well as the source for Franklin City going stale
 * October 31: Greece | Edit recoveries August 4 to present | time_series_covid19_recovered_global.csv | Update recovery data using government press releases | [Source](https://eody.gov.gr/category/deltia-typoy/)
 * Unassigned, Colorado | Addition of historical "international" entry to unassigned cateogry | time_series_covid19_confirmed_us.csv, time_series_covid19_confirmed_global.csv | Addition of missing cases from an international entry - cases moving forward will include these cases in unassigned | Data used from the csv file hosted [here](https://data-cdphe.opendata.arcgis.com/datasets/222c9d85e93540dba523939cfb718d76_0)
+* November 9: Puerto Rico, US | Revision of historical data in line with clarification from the Puerto Rican health department regarding suspected versus probable cases | time_series_covid19_cases_US.csv, time_series_covid19_cases_global.csv | Prior to November 7, Puerto Rico suspected cases were serology test results, which are incongruent with our working definition of probable cases. The breakdown is now indicated and we have used historical reporting to alter our previous reported totals. This change brings reporting for the territory in line with national reporting for the rest of the US. [Source](http://www.salud.gov.pr/Estadisticas-Registros-y-Publicaciones/Pages/COVID-19.aspx)
+* November 9: Georgia, US | Revision of data from November 3-8 in line with newly published antigen data, taken from coincident reporting with the state dashboard | All time series files and daily reports | [Source](https://dph.georgia.gov/covid-19-daily-status-report)
+* November 9: Kansas, US | Revision of data from September 20 to November 8 to deconflict differences in reporting between state and county sources. Max of source used as ground truth. | All time files and daily reports | [State source](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas), [County source](https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/)
+* November 9: Wisconsin, US | Revision of data beginning October 19th to include probable cases *and deaths*. | All time files and daily reports
+* November 18: Alabama, US | In collaboration with the Alabama Department of Health, we have received a file with a proper back distribution of all cumulative and probable cases at the county level from January 22 to November 10. These cases are being used to back-distribute the September 15 case spike and are also overwriting all data in the time series and daily reports for consistencies sake | time_series_covid19_confirmed_us.csv, time_series_covid19_global_us.csv, all daily reports
+* November 18: Guyana | Revision of confirmed cases data on November 16 from 4894 to 4874 due to a type on the national dashboard | time_series_covid19_confirmed_global.csv, 11-16-2020.csv | [Ministry source](https://www.facebook.com/mohguyana/posts/2485156248454573)
+* November 23: Nunavut, Canada | Add Nunavut cases from November 6-22 | All time files and daily reports | [Government of Nunavut News](https://www.gov.nu.ca/news/345?page=1)
+* November 24: Kansas, US | Revision of deaths for Kansas from April 4 to November 23 | All time files and daily reports | [Kansas State Dashboard](https://www.coronavirus.kdheks.gov/DocumentCenter/View/1529/Nov-23-case-summary?bidId=)
+* November 24: Texas, US | Revision of cases for Titus, Texas from May 22 to November 23 | All time files and daily reports | [Texas State Dashboard](https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83)
+* December 2: Afghanistan | Revision of cases for Afghanistan from March 1 to November 30 | All time files and daily reports | [Afghanistan Ministry of Public Health](http://covid.moph-dw.org)
+* December 4: Israel | Revision of cases for Israel from February 27 to December 3 | All time files and daily reports | [Ministry of Health of Israel](https://datadashboard.health.gov.il/COVID-19/general)
+* December 7: Samoa | Addition of cases, deaths, and recovered for Samoa | All time files and daily reports | [Ministry of Samoa](https://www.facebook.com/samoagovt)
+* December 8: New Hampshire, US | Correction of cases and deaths from November 29 to December 6 | All time files and daily reports | [New Hampshire DHHS](https://www.nh.gov/covid19/news/updates.htm)
+* December 15: New York, US | Correction of cases and deaths from November 2 to December 14 for Orange and Rockland counties | All time files and daily reports | [Orange County Dashboard](https://ocnygis.maps.arcgis.com/apps/opsdashboard/index.html#/21de1fb5ce0c480f95dc0cf2b8b83b71) [Rockland County Dashboard](https://rockland-covid-19-portal-rockland.hub.arcgis.com/)
+* December 15: France | Correction of cases and deaths from March 3 to December 14 for in accordance with the Ministry of Solidarity and Health | All time files and daily reports | [Ministry of Solidarity and Health](https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/#_)
+* December 15: French Overseas Territories | Correction of cases and deaths from December 6 to December 14 for Guadeloupe, French Guiana, Martinique, Mayotte, and Reunion in accordance to WHO | All time files and daily reports | [WHO](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
+* December 17: Washington, US | Correction of deaths from April 1 to December 15 and inclusion of probable cases from June 1 to December 15 for Washington in accordance to Washington Department of Health | All time files and daily reports | [Washington Department of Health](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard)
+* December 29: New York, US | Correction of probable cases from August 31 to December 28 for New York City in accordance to NYC Health | All time files and daily reports | [NYC Health](https://www1.nyc.gov/site/doh/covid/covid-19-data-totals.page)
+
+
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -187,9 +207,8 @@ Date: Location | Change | Reason/Other notes | Source
 * September 4: Illinois | Spike of 5,368 cases | Test backlog | [Source](https://www.nbcchicago.com/news/coronavirus/illinois-reports-5368-new-coronavirus-cases-after-test-backlog-29-additional-deaths/2334290/).
 * September 6: Ecuador | Drop of 7953 cases | Definition of confirmed cases from PCR+rapid tests to only PCR tests | [Source](https://www.salud.gob.ec/msp-presenta-actualizacion-de-indicadores-en-infografia-nacional-covid-19/).
 * September 7: Ecuador | Inclusion of 3758 probable deaths | The first date where the probable cases are delineated is [September 8](https://twitter.com/Salud_Ec/status/1303463345056616450/photo/1)
-* September 15: Alabama | Distributino of probable cases to the county level (previously aggregated at the state level, in unassigned, AL). This resulted in significant increase in cases in nearly all counties. We are working to get the historical distribution of these probable cases from the State, and will update the timeseries accordingly when we do.
+* September 15: Alabama | Distributino of probable cases to the county level (previously aggregated at the state level, in unassigned, AL). This resulted in significant increase in cases in nearly all counties. We are working to get the historical distribution of these probable cases from the State, and will update the timeseries accordingly when we do. | **Back Distributed**
 * September 15: Arkansas | Addition of 139 probable deaths | [News source](https://katv.com/news/local/arkansas-gov-asa-hutchinson-to-give-covid-19-briefing-09-15-2020).
-
 * September 15-21: Virginia | Progressive inclusion of backlogged deaths into the state total throughout the week | [News source](https://www.wtkr.com/news/coronavirus/local-area-reports-zero-covid-19-deaths-from-sunday-virginia-continues-to-see-steady-decrease-in-test-percent-positivity)
 * September 21: Texas, US | Release of large swath of historical cases affecting 25 counties. Please see pinned issue #3143 for full statement from Texas dashboard.
 * September 25: North Carolina | Spike of 6000 cases due to inclusion of positive antigen tests as probable cases | **Back Distributed**
@@ -204,7 +223,20 @@ Date: Location | Change | Reason/Other notes | Source
 * October 23: Alabama, US | Inclusion of 2565 backlogged antigen positives in Mobile and 1182 backlogged antigen and PCR tests from around the state | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7) "The Alabama Department of Public Health processed a backlog of 2565 positive antigen results from a facility in Mobile on October 22. These will be classified as “probable” COVID-19 cases reported on 10/22/20 even though the tests were performed during June through October 18, 2020. The Alabama Department of Public Health processed a backlog of 1182 positive results from a variety of facilities all over Alabama. A majority of these will be classified as “probable” COVID-19 cases reported on 10/23/20 even though the tests were performed during April through September."
 * October 23: Los Angeles County, California, US | Estimated 2000 backlogged cases included in daily report | [Source](https://github.com/CSSEGISandData/COVID-19/issues/3267)
 * November 4: Spain | Inclusion of 5,105 cases and 1,326 deaths that occurred prior to May 11 | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_243_COVID-19.pdf)
-
+* November 3: Georgia, US | Inclusion of 29,937 antigen tests distributed over unknown period of days. This includes 450 probable deaths. | We have contacted the state health department to obtain a back distribution [Media source](https://www.wrbl.com/news/georgia-news/update-georgia-reports-364589-confirmed-covid-19-cases-statewide-with-6440-in-columbus/)  
+* November 10: Louisiana, US | Inclusion of probable cases from August 26 through November 9 and ongoing inclusion of probable cases. Probables are aggregated in the Unassigned, Louisiana entry
+* November 16: Louisiana, US | Disbursement of probable cases from Unassigned, Louisiana to the county level. Probables will be at the county level moving forward.
+* December 2: Kazakhstan | Back-distrubution of probable cases, deaths, and recoveries from official sources and coincident reporting including the Ministry of Health of the Repulbic of Kazakhstan, the European Commission Joint Research Center, the European Centre for Disease Prevention and Control, and Tengrinews
+* December 2: Alabama, US | Addition of backlog of 706 PCR results from November 23 to 29 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* December 4: Massachusetts, US | Addition of historical cases from December 1 | "Today’s case numbers include 680 positive cases tested by one Massachusetts-based laboratory prior to December 1. The delay in reporting was caused by a technical issue with the software used by that laboratory’s reporting vendor." | [Massachusetts dashboard](https://www.mass.gov/info-details/covid-19-response-reporting).
+* December 7: Iowa, US | Alteration of death definition to include COVID-19 probable deaths without positive PCR or antigen tests | This change resulted in an increase of 469 deaths on December 11 | [Government source, including methodology definitions](https://idph.iowa.gov/News/ArtMID/646/ArticleID/158384)
+* December 9: Ohio, US | Addition of nearly 13000 backlogged antigen tests | [News source](https://www.cleveland.com/open/2020/12/ohio-reports-25721-new-coronavirus-cases-an-expected-one-day-record-due-to-clearing-backlog-tuesday-update.html)
+* December 9: Alabama, US | Addition of backlog of 1038 PCR and 473 probable cases from November 30 - December 5 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* December 10: Turkey | Addition of 792,801 cases asymptomatic cases | [Source](https://covid19.saglik.gov.tr/) | We note that this heavily distorst all of our products and we are attempting to find an official back distribution of this data
+* December 13: Alabama, US | Inclusion of 298 backlogged antigen tests from July 7 through December 9 | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* December 16: Washington, US | Inclusion of 7,671 probable cases from June to present | [Source](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard) | We are working a back distribution
+* December 16: California, US | California dashboard included 15,337 historical cases in their December 16 update | We pull from several sources including the California State Daashboard so it is unclear how these historical cases are distributed within our data | [Source](https://covid19.ca.gov/state-dashboard/)
+* December 17: Hidalgo, Texas, US | Reduction in cases due to double counting probable and confirmed cases | [Source 1](https://www.hidalgocounty.us/DocumentCenter/View/43316/12162020---Eight-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-377-positive-cases), [Source 2](https://www.hidalgocounty.us/DocumentCenter/View/43374/12172020---Four-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-522-positive-cases)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -219,7 +251,16 @@ Date: Location | File | Change | Data source for change
 * August 2: New Jersey, US (June 25) | time_series_covid19_deaths_US.csv | Redistribution of probable deaths into Unassigned, New Jersey
 * August 6: Harris County, Texas (Texas July 27) | In line with alteration to reporting standards, time series for coronavirus deaths in Harris County has been updated from 3/7 to 8/5/2020 | Details can be found in the press release from the state [here](https://www.dshs.texas.gov/news/releases/2020/20200727.aspx).
 * September 22: Massachusetts (September 3) | Reconciliation of changes to probable cases | Detailed [here](https://github.com/CSSEGISandData/COVID-19/issues/3146)
-* October 1: North Carolina | Back distribution of probable cases | See [Issue #3183](https://github.com/CSSEGISandData/COVID-19/issues/3183#ref-commit-663bcf9)
+* October 1: North Carolina, US | Back distribution of probable cases | See [Issue #3183](https://github.com/CSSEGISandData/COVID-19/issues/3183#ref-commit-663bcf9)
+* November 9: Wisconsin, US | Back distribution of probable cases and deaths through October 19
+* November 10: Louisiana, US | Back distribution of probable cases from August 26 to November 9
+* November 13: Georgia, US | Probable deaths back distributed to November 3
+* November 18: Alabama, US | Back distribution of probable case spike on September 15
+* November 22: Texas,US | Introduction of probable cases for Brazos, Denton, and Dallas counties | Data was back distributed based on historical reporting from local government sources
+* December 2: Kazakhstan | Reporting in Kazahkstan has been modified to include probable cases, deaths, and recoveries.  
+* December 4: Guam, US | Back-distribution of probable cases and deaths from official sources | | [Guam Dashboard](https://dphss.guam.gov/covid-19/)
+* December 14: Texas, US | Back-distribution of county level probable cases as provided by the Texas Department of State Health Services | [Source](https://dshs.texas.gov/coronavirus/AdditionalData.aspx)
+* December 17: Washington, US | Back-distribution of 7,671 probable cases from present to June | Back distribution used the [Washington COVID-19 dashboard](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard)
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
@@ -235,10 +276,10 @@ United States
 * Guam: Not reporting data on weekends.
 * Michigan: Not providing death data on Sundays.
 * Florida: Did not update on weekend for October 10-11.
-* Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available.
+* Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available. As of December 20, no longer providing updates on Sundays.
 
 International
-* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays and Fridays.
+* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
 * Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
 * Nicaragua: Releasing case, death, and recovered data once per week.
 * UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC))
@@ -247,6 +288,7 @@ International
 * France: No update to deaths or recoveries for the weekend of August 8 and 9.
 * UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
 * Luxembourg: Not providing actionable data on weekends.
+* Mexico: Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
 
 
 ---

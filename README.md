@@ -123,6 +123,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California: Humboldt County: https://humboldtgov.org/
   - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
   - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
+  - California: Mendocino County: https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data
   - California: Orange County Health Care Agency: https://occovid19.ochealthinfo.com/coronavirus-in-oc
   - California: Placer County: https://www.placer.ca.gov/coronavirus
   - California: Riverside County: https://www.rivcoph.org/coronavirus
@@ -161,16 +162,39 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Hong Kong Department of Health: https://www.chp.gov.hk/en/features/102465.html
   - Macau Government: https://www.ssm.gov.mo/portal/
   - Taiwan CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
-  - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
+  - Canada: Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
+  - Canada: Government of Alberta: https://www.alberta.ca/covid-19-alberta-data.aspx
+  - Canada: Government of British Columbia Centre for Disease Control: https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded
+  - Canada: Government of Manitoba: https://www.gov.mb.ca/covid19/updates/cases.html
+  - Canada: Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
+  - Canada: Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
+  - Canada: Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
+  - Canada: Government of Nova Scotia: https://novascotia.ca/coronavirus/data/
+  - Canada: Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
+  - Canada: Government of Ontario: https://covid-19.ontario.ca/data
+  - Canada: Grey Bruce Health Unit: https://www.publichealthgreybruce.on.ca/
+  - Canada: Eastern Ontario Health Unit: https://eohu.ca/en/covid/covid-19-status-update-for-eohu-region
+  - Canada: Windsor-Essex County Health Unit: https://www.wechu.org/cv/local-updates
+  - Canada: Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx
+  - Canada: York Region: https://www.york.ca/wps/portal/yorkhome/health/yr/covid-19/covid19inyorkregion/!ut/p/z1/tZPNcpswFIWfJQuWWBcJjOhOpa6BxNhN4j82HowxKAXkYMXUb1-R0pm20zjtJLAASZx7dPRxQRFaoaiKTzyLJRdVXKj5OhpufDb2Pe8agqlJXWAwZQG2KYwcAy2fBfDCxQBF_1J_QRBdtl-gCEWHhO_Q2qIWdYhj6U6Md7qJnVSnceLoO8PZOhhi9XbfqpNKHmSO1ud6k4hKppXU4Czqr2pylFw-PS_kokzVPY0LmWuQiBPf6YbTjQyHV21FnWYKEwpeO6SiiOuJO8lU1FjmOq_2Aq1-mnajP0xVDX94fIyYCtym_CbR6t0SL1sOv2Ye31ET_EVgs4UxBdMnnQBjc-gZLgTgTSn4n-2Z9Yl6BlzjTnDh0ygsWSG2P7qIVVtC1fnrdJ_WaT14qtVyLuXh-EEDDZqmGWRCZEU6SESpwd9KcnFUDH5XorXqH_tF9rcYLU88bdC8EnWpktz9Z7t40O1gU5d5bAwzuJ_b8GVkm3R4M5nd3Bpv3OGVA_RsT3q1t6Ffe9yv_fvACXxwDdb-Y2REgGHfpR9JQMOwX_Zhv-zDftmH_fb94q1wDuV8XlJiFQ9nAnxWLqmkzf0-z8rNZESsyw92dfUd1P5kcA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#.X8UQBqpKi3U
+  - Canada: City of Toronto: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
+  - Canada: Region of Peel: https://peelregion.ca/coronavirus/case-status/
+  - Canada: Halton Region: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus
+  - Canada: Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
+  - Canada: Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
+  - Canada: Government of Saskatchewan: https://dashboard.saskatchewan.ca/health-wellness
+  - Canada: Government of Yukon: https://yukon.ca/en/case-counts-covid-19
   - Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
   - COVID Live (Australia): https://www.covidlive.com.au/
   - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
   - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
   - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
-  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://github.com/opencovid19-fr/data/blob/master/dist/chiffres-cles.json
+  - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
+  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
   - OpenCOVID19 France: https://github.com/opencovid19-fr
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
+  - Israel: https://datadashboard.health.gov.il/COVID-19/general
   - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
@@ -179,7 +203,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Chile: https://www.gob.cl/coronavirus/cifrasoficiales/
   - Brazil Ministry of Health: https://covid.saude.gov.br/
   - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
-  - Gobierono De Mexico:https://covid19.sinave.gob.mx/
+  - Belgium Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
+  - Gobierono De Mexico:https://datos.covid-19.conacyt.mx/#DOView
   - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
   - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
   - Colombia National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
@@ -193,6 +218,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - Iceland Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+  - Afghanistan: http://covid.moph-dw.org/#/
+  - Kazakhstan: https://www.coronavirus2020.kz/
+  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html 
     
 
 
