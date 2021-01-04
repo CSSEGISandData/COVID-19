@@ -123,6 +123,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California: Humboldt County: https://humboldtgov.org/
   - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
   - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
+  - California: Mendocino County: https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data
   - California: Orange County Health Care Agency: https://occovid19.ochealthinfo.com/coronavirus-in-oc
   - California: Placer County: https://www.placer.ca.gov/coronavirus
   - California: Riverside County: https://www.rivcoph.org/coronavirus
@@ -189,7 +190,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
   - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
   - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
-  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://github.com/opencovid19-fr/data/blob/master/dist/chiffres-cles.json
+  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
   - OpenCOVID19 France: https://github.com/opencovid19-fr
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
