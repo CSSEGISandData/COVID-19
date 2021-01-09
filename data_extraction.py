@@ -41,15 +41,36 @@ for day in range(delta.days + 1):
     rows_to_delete = []
 
     counter = 0
+    current_state = ""
+    unassigned_array = []
+    # assigned_array = numpy.empty([1000, 3]) #1000 is just to be safe, used to store things to calculate center of mass
+    assigned_array = []
     for i in np_raw_data:
         if i[2] != "US":  # hardcoded index for checking state
             rows_to_delete.append(counter)
         else:
+            # save row numbers of
             if delete_unassigned:  # delete unassigned row if need be
+                print("deleting unassigned")
                 if i[0] == "Unassigned":  # hardcoded index for checking county
+                    print("deleting unassigned")
                     rows_to_delete.append(counter)
                 elif "Out of" in str(i[0]):
+                    print("deleting unassigned")
                     rows_to_delete.append(counter)
+            else:  # i.e. assign unassigned to center of mass
+                if current_state != i[1]:  # i[1] is hardcoded index for state
+                    current_state = i[1]
+                    # center of mass calculation + attach to unassigned array
+                    unassigned_array.clear()
+                else:
+                    # hardcoded index for slicing to get lat, long, cases
+                    assigned_array.append(i[3:6])
+
+                # save row numbers of those in a state with no coordinates in array
+                # after getting thru the state, attach center of mass coordinates to those
+                # clear array
+
         counter = counter + 1
 
     if day == 0:
@@ -61,14 +82,21 @@ for day in range(delta.days + 1):
         final_array = np.vstack((final_array, selected_data))
 
 
+# with open('yaydata.txt', 'w') as f:
+#     for item in final_array:
+#         f.write("%s\n" % item)
+
+
 if delete_location:
     selected_data1 = np.delete(final_array, [0, 1, 2], 1)  # deleting locations
 
     if normalize_data:
         normed_matrix = normalize(selected_data1, axis=1, norm='l1')
-        with open('yaydata.txt', 'w') as f:
-            for item in normed_matrix:
-                f.write("%s\n" % item)
+        #normed_matrix1 = normed_matrix.tolist()
+        # with open('yaydata.csv', 'w') as f:
+        #     for item in normed_matrix:
+        #         f.write("%s\n" % item)
+        np.savetxt("yaydata.csv", normed_matrix, delimiter=",")
     else:
         with open('yaydata.txt', 'w') as f:
             for item in selected_data1:
