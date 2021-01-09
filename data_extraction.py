@@ -82,6 +82,8 @@ for day in range(delta.days + 1):
         final_array = np.vstack((final_array, selected_data))
 
 
+# np.savetxt("yaydata.csv", final_array, delimiter=",") #problematic bc different dtypes
+
 # with open('yaydata.txt', 'w') as f:
 #     for item in final_array:
 #         f.write("%s\n" % item)
@@ -102,10 +104,10 @@ if delete_location:
             for item in selected_data1:
                 f.write("%s\n" % item)
 
-else:
-    with open('yaydata.txt', 'w') as f:
-        for item in final_array:
-            f.write("%s\n" % item)
+# else:
+#     with open('yaydata.txt', 'w') as f:
+#         for item in final_array:
+# f.write("%s\n" % item)
 
 # convert array back into floats
 #convertedArray = r.astype(np.float)
