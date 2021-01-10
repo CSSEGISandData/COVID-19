@@ -4,6 +4,7 @@ from pathlib import Path
 import pandas as pd
 from datetime import date, timedelta, datetime
 from sklearn.preprocessing import normalize
+import operator
 
 data_folder = Path("csse_covid_19_data/csse_covid_19_daily_reports/")
 
@@ -14,9 +15,9 @@ pandemic_start = date(2020, 1, 22)
 start_date = date(2020, 3, 22)
 end_date = date(2020, 4, 20)
 
-delete_location = True
+delete_location = False
 delete_unassigned = True
-normalize_data = True
+normalize_data = False
 
 delta = end_date - start_date
 
@@ -35,7 +36,11 @@ for day in range(delta.days + 1):
 
     # adding another column with days since covid hit the US
     raw_data['Days since start'] = days_since_start.days  # number of days
-    raw_data = raw_data.dropna()  # be careful b/c maybe too early
+    # raw_data = raw_data.dropna()  # be careful b/c maybe too early
+    raw_data = raw_data[raw_data['Lat'].notna()]
+    raw_data = raw_data[raw_data['Long_'].notna()]
+    raw_data = raw_data.fillna(value="N/A")
+    raw_data.sort_values(['Province_State', 'Admin2'])
     np_raw_data = raw_data.to_numpy()
 
     rows_to_delete = []
@@ -46,7 +51,7 @@ for day in range(delta.days + 1):
     # assigned_array = numpy.empty([1000, 3]) #1000 is just to be safe, used to store things to calculate center of mass
     assigned_array = []
     for i in np_raw_data:
-        if i[2] != "US":  # hardcoded index for checking state
+        if i[2] != "US":  # hardcoded index for checking state/country
             rows_to_delete.append(counter)
         else:
             # save row numbers of
@@ -98,16 +103,17 @@ if delete_location:
         # with open('yaydata.csv', 'w') as f:
         #     for item in normed_matrix:
         #         f.write("%s\n" % item)
-        np.savetxt("yaydata.csv", normed_matrix, delimiter=",")
+        np.savetxt("yaydata.txt", normed_matrix, delimiter=",")
     else:
         with open('yaydata.txt', 'w') as f:
             for item in selected_data1:
                 f.write("%s\n" % item)
 
-# else:
-#     with open('yaydata.txt', 'w') as f:
-#         for item in final_array:
-# f.write("%s\n" % item)
+else:
+    # final_array.sort(order=[1, 0])
+    with open('yaydata1.txt', 'w') as f:
+        for item in final_array:
+            f.write("%s\n" % item)
 
 # convert array back into floats
 #convertedArray = r.astype(np.float)
