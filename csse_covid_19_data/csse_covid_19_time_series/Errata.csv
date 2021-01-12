@@ -655,3 +655,58 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/10/2021,time_series_covid19_deaths_US.csv,"Texas, US",01/08/2021,,,Correct based on TX Dashboard
 01/10/2021,time_series_covid19_confirmed_global.csv,"Texas, US",01/08/2021,,,Correct based on TX Dashboard
 01/10/2021,time_series_covid19_deaths_global.csv,"Texas, US",01/08/2021,,,Correct based on TX Dashboard
+01/11/2021,time_series_covid19_deaths_global.csv,Mexico,11/27/2020,,,Correct based on Mexico dashboard
+01/11/2021,time_series_covid19_confirmed_global.csv,Mexico,11/27/2020,,,Correct based on Mexico dashboard
+01/11/2021,time_series_covid19_recovered_global.csv,Mexico,11/27/2020-11/28/2020,,,Correct based on Mexico dashboard
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,12/31/2020,1252,1320,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/31/2020,275,256,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/01/2021,1252,1320,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/01/2021,275,256,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/02/2021,1252,1320,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/03/2021,1252,1320,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/04/2021,1252,1363,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/04/2021,313,322,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/05/2021,1252,1363,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/05/2021,313,354,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/06/2021,1252,1445,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/06/2021,313,373,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/07/2021,313,373,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Bhutan,01/08/2021,767,771,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/08/2021,1445,1556,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/08/2021,313,451,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Bhutan,01/09/2021,767,810,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/09/2021,1445,1556,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Saint Vincent and the Grenadines,01/09/2021,149,225,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/09/2021,313,508,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Bhutan,01/10/2021,767,813,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/10/2021,1445,1556,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Saint Vincent and the Grenadines,01/10/2021,149,249,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/10/2021,313,531,Correct old confirmed data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,12/31/2020,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/01/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/02/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/03/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/03/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/04/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/04/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/04/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/05/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/05/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/05/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/06/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/06/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/06/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/07/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/07/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Bhutan,01/08/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/08/2021,3,6,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/08/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/08/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Bhutan,01/09/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/09/2021,3,6,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/09/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/09/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Bhutan,01/10/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/10/2021,3,6,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/10/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/10/2021,0,1,Correct old deaths data
