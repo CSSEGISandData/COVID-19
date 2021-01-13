@@ -710,3 +710,40 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/10/2021,3,6,Correct old deaths data
 01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/10/2021,0,1,Correct old deaths data
 01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/10/2021,0,1,Correct old deaths data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Barnstable, Massachusetts, US",01/11/2021,6454,6569,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Berkshire, Massachusetts, US",01/11/2021,3543,3614,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Bristol, Massachusetts, US",01/11/2021,40820,41297,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Dukes and Nantucket,Massachusetts,US",01/11/2021,1539,1549,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Essex, Massachusetts, US",01/11/2021,66326,66977,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Franklin, Massachusetts, US",01/11/2021,1458,1472,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Hampden, Massachusetts, US",01/11/2021,30270,30559,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Hampshire, Massachusetts, US",01/11/2021,4553,4600,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Middlesex, Massachusetts, US",01/11/2021,86020,86826,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Norfolk, Massachusetts, US",01/11/2021,31860,32299,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Plymouth, Massachusetts, US",01/11/2021,28588,28975,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Suffolk, Massachusetts, US",01/11/2021,61178,61722,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Massachusetts, US",01/11/2021,20712,20703,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Worcester, Massachusetts, US",01/11/2021,49482,49880,Correct old confirmed data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",12/31/2020,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/01/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/02/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/03/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/04/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/05/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/06/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/07/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/08/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/09/2021,0,8,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/10/2021,0,8,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Barnstable, Massachusetts, US",01/11/2021,276,277,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Berkshire, Massachusetts, US",01/11/2021,163,164,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Bristol, Massachusetts, US",01/11/2021,1164,1168,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Essex, Massachusetts, US",01/11/2021,1797,1805,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Hampden, Massachusetts, US",01/11/2021,1101,1105,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Hampshire, Massachusetts, US",01/11/2021,209,211,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Middlesex, Massachusetts, US",01/11/2021,2851,2863,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Norfolk, Massachusetts, US",01/11/2021,1363,1367,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Plymouth, Massachusetts, US",01/11/2021,1058,1064,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Suffolk, Massachusetts, US",01/11/2021,1426,1430,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Worcester, Massachusetts, US",01/11/2021,1640,1649,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/11/2021,0,8,Correct old deaths data
