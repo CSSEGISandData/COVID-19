@@ -888,3 +888,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/14/2021,time_series_covid19_recovered_global.csv,Thailand,12/30/2020,4212,4240,Correct Thailand recovered data
 01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/08/2021,5255,5546,Correct Thailand recovered data
 01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/09/2021,5546,6428,Correct Thailand recovered data
+01/14/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Utah, US",01/13/2021,0,599,Correct Utah confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,US,01/13/2021,23077247,23077846,Correct US confirmed data
