@@ -216,9 +216,9 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 6/10/2020,time_series_covid19_deaths_global.csv,US,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated for Michigan 
 6/10/2020,time_series_covid19_deaths_global.csv,Peru,6/9/2020,203736,5738,Correction for deaths in Peru
 6/10/2020,time_series_covid19_deaths_US.csv,Michigan,6/9/2020,111694,111989,Fixed MI
-6/10/2020,time_series_covid19_confirmed_global.csv,Pakistan,6/7/2020,N/A,103671,Added data for date
-6/10/2020,time_series_covid19_deaths_global.csv,Pakistan,6/7/2020,N/A,2067,Added data for date
-6/10/2020,time_series_covid19_recovered_global.csv,Pakistan,6/7/2020,N/A,34355,Added data for date
+6/10/2020,time_series_covid19_confirmed_global.csv,Pakistan,6/7/2020,,103671,Added data for date
+6/10/2020,time_series_covid19_deaths_global.csv,Pakistan,6/7/2020,,2067,Added data for date
+6/10/2020,time_series_covid19_recovered_global.csv,Pakistan,6/7/2020,,34355,Added data for date
 6/11/2020,time_series_covid19_confirmed_global.csv,US,6/9/2020,1973230,1979489,Resolved discrepancy 
 6/11/2020,time_series_covid19_deaths_global.csv,US,6/9/2020,111989,111994,Resolved discrepancy
 6/12/2020,time_series_covid19_confirmed_global.csv,India,6/10/2020,276583,286605,Replace with the data at the end of the day
@@ -890,3 +890,90 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/09/2021,5546,6428,Correct Thailand recovered data
 01/14/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Utah, US",01/13/2021,0,599,Correct Utah confirmed data
 01/14/2021,time_series_covid19_confirmed_global.csv,US,01/13/2021,23077247,23077846,Correct US confirmed data
+01/19/2021,time_series_covid19_deaths_global.csv,US,01/07/2021,365324,365232,Correct US deaths data
+01/19/2021,time_series_covid19_deaths_US.csv,"Douglas, Nebraska, US",01/07/2021,617,525,Correct US deaths data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Baker, Oregon, US",01/19/2021,568,573,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Benton, Oregon, US",01/19/2021,1705,1720,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Clackamas, Oregon, US",01/19/2021,11698,11760,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Clatsop, Oregon, US",01/19/2021,686,687,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Columbia, Oregon, US",01/19/2021,1049,1054,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Coos, Oregon, US",01/19/2021,938,941,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Crook, Oregon, US",01/19/2021,621,623,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Deschutes, Oregon, US",01/19/2021,4999,5036,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Douglas, Oregon, US",01/19/2021,1687,1692,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Hood River, Oregon, US",01/19/2021,954,955,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Jackson, Oregon, US",01/19/2021,6930,6970,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Jefferson, Oregon, US",01/19/2021,1705,1707,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Josephine, Oregon, US",01/19/2021,1743,1770,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Klamath, Oregon, US",01/19/2021,2428,2453,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lake, Oregon, US",01/19/2021,230,232,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lane, Oregon, US",01/19/2021,8353,8418,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lincoln, Oregon, US",01/19/2021,996,1001,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Linn, Oregon, US",01/19/2021,3116,3123,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Marion, Oregon, US",01/19/2021,16247,16312,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Morrow, Oregon, US",01/19/2021,938,942,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Multnomah, Oregon, US",01/19/2021,28467,28586,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Polk, Oregon, US",01/19/2021,2455,2469,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Tillamook, Oregon, US",01/19/2021,365,367,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Umatilla, Oregon, US",01/19/2021,6793,6803,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Union, Oregon, US",01/19/2021,1114,1118,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Wasco, Oregon, US",01/19/2021,1081,1085,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Washington, Oregon, US",01/19/2021,18734,18808,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Yamhill, Oregon, US",01/19/2021,3190,3202,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Adams, Washington, US",01/19/2021,1719,1721,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Asotin, Washington, US",01/19/2021,1143,1147,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Benton, Washington, US",01/19/2021,13465,13529,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Chelan, Washington, US",01/19/2021,5433,5467,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Clallam, Washington, US",01/19/2021,832,840,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Clark, Washington, US",01/19/2021,16125,16300,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Cowlitz, Washington, US",01/19/2021,3164,3203,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Douglas, Washington, US",01/19/2021,2893,2916,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Franklin, Washington, US",01/19/2021,9711,9753,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Grant, Washington, US",01/19/2021,6724,6773,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Grays Harbor, Washington, US",01/19/2021,2709,2737,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Island, Washington, US",01/19/2021,1087,1095,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"King, Washington, US",01/19/2021,73015,73667,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Kitsap, Washington, US",01/19/2021,4701,4748,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Kittitas, Washington, US",01/19/2021,1953,1976,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lewis, Washington, US",01/19/2021,2978,2996,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lincoln, Washington, US",01/19/2021,294,293,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Mason, Washington, US",01/19/2021,1950,1969,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Okanogan, Washington, US",01/19/2021,1938,1939,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Pacific, Washington, US",01/19/2021,599,604,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Pend Oreille, Washington, US",01/19/2021,526,527,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Pierce, Washington, US",01/19/2021,30912,31164,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"San Juan, Washington, US",01/19/2021,90,89,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Skagit, Washington, US",01/19/2021,3801,3812,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Skamania, Washington, US",01/19/2021,223,229,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Snohomish, Washington, US",01/19/2021,26267,26363,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Spokane, Washington, US",01/19/2021,30756,31031,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Stevens, Washington, US",01/19/2021,1364,1358,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Thurston, Washington, US",01/19/2021,5760,5805,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Washington, US",01/19/2021,1549,1459,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Wahkiakum, Washington, US",01/19/2021,62,63,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Walla Walla, Washington, US",01/19/2021,4102,4126,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Whatcom, Washington, US",01/19/2021,4885,4894,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Whitman, Washington, US",01/19/2021,2989,3019,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Yakima, Washington, US",01/19/2021,22988,23145,Correct stale confirmed data
+01/20/2021,time_series_covid19_deaths_US.csv,"Deschutes, Oregon, US",01/19/2021,36,37,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Josephine, Oregon, US",01/19/2021,33,34,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Lane, Oregon, US",01/19/2021,109,110,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Washington, Oregon, US",01/19/2021,171,173,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Adams, Washington, US",01/19/2021,17,18,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Benton, Washington, US",01/19/2021,178,179,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Chelan, Washington, US",01/19/2021,42,43,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Clallam, Washington, US",01/19/2021,4,5,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Clark, Washington, US",01/19/2021,165,166,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Cowlitz, Washington, US",01/19/2021,34,35,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"King, Washington, US",01/19/2021,1152,1166,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Kitsap, Washington, US",01/19/2021,52,54,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Lewis, Washington, US",01/19/2021,36,32,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Okanogan, Washington, US",01/19/2021,30,32,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Pierce, Washington, US",01/19/2021,415,421,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Snohomish, Washington, US",01/19/2021,442,444,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Spokane, Washington, US",01/19/2021,415,420,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Thurston, Washington, US",01/19/2021,60,62,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Walla Walla, Washington, US",01/19/2021,44,45,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Whitman, Washington, US",01/19/2021,35,36,Correct stale deaths data
+01/20/2021,time_series_covid19_confirmed_global.csv,US,01/19/2021,24253361,24256028,Correct US stale confirmed data
+01/20/2021,time_series_covid19_deaths_global.csv,US,01/19/2021,401730,401772,Correct US stale deaths data
