@@ -177,6 +177,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 19, 2021: Douglas, Nebraska, US | The original death data on 1/07 (617) was due to a data entry error from the county health department, which was corrected on 1/08. However, the state health department has been unable to provide a proper death total for this day. To remove the artificial spike, we have held the death total from 1/06 stale (525). | time_series_covid19_deaths_US.csv, time_series_covid19_deaths_global.csv, 01-07-2021.csv | 
 
 
+
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
 Generalized Format: 
