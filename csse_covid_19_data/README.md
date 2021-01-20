@@ -172,6 +172,8 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 15, 2021: Kansas, US | Adjustment of time series to use data from Douglas County Coronavirus Response and Recovery Hub | All time files and daily reports | [Douglas Dashboard](https://coronavirus-response-dgco.hub.arcgis.com/)
 * January 15, 2021: Kansas, US | Adjustment of time series to use data from Finney County COVID-19 Resource Hub | All time files and daily reports | [Finney Dashboard](https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/)
 * January 15, 2021: Kansas, US | Adjustment of time series to use data from Riley County Corona Virus Response | All time files and daily reports | [Riley Dashboard](https://coronavirus-response-rcitgis.hub.arcgis.com/)
+* January 19, 2021: California, US | Adjustment of time series to shift data for later sampling time from California State Government | All time files and daily reports | [California State Government](https://covid19.ca.gov/state-dashboard/)
+* January 19, 2021: California, US | Adjustment of time series to shift data for later sampling time from California State Government | All time files and daily reports | [California State Government](https://covid19.ca.gov/state-dashboard/)
 
 
 
