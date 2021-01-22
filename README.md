@@ -153,6 +153,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
   - Kansas: Reno County Health Department: https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/
   - Kansas: Kansas Department Of Health And Environment: https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas
+  - Kansas: Douglas County Coronavirus Response and Recovery Hub: https://coronavirus-response-dgco.hub.arcgis.com/
+  - Kansas: Finney County COVID-19 Resource Hub: https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/
+  - Kansas: Riley County Corona Virus Response: https://coronavirus-response-rcitgis.hub.arcgis.com/
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
