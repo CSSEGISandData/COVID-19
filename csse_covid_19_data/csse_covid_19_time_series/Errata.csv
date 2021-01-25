@@ -977,3 +977,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/20/2021,time_series_covid19_deaths_US.csv,"Whitman, Washington, US",01/19/2021,35,36,Correct stale deaths data
 01/20/2021,time_series_covid19_confirmed_global.csv,US,01/19/2021,24253361,24256028,Correct US stale confirmed data
 01/20/2021,time_series_covid19_deaths_global.csv,US,01/19/2021,401730,401772,Correct US stale deaths data
+01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/05/2021,8985,8727,Correct stale data
+01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/06/2021,8985,8727,Correct stale data
+01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/07/2021,9262,8727,Correct stale data
