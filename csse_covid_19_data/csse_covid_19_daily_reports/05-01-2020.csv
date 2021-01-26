@@ -1947,7 +1947,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37133,Onslow,North Carolina,US,2020-05-02 02:32:27,34.72607366,-77.42908179,46,1,0,45,"Onslow, North Carolina, US"
 36069,Ontario,New York,US,2020-05-02 02:32:27,42.85145728,-77.30874425,91,9,0,82,"Ontario, New York, US"
 26131,Ontonagon,Michigan,US,2020-05-02 02:32:27,46.665226200000006,-89.31390481,0,0,0,0,"Ontonagon, Michigan, US"
-6059,Orange,California,US,2020-05-02 02:32:27,33.70147516,-117.76459979999998,2537,50,0,2487,"Orange, California, US"
+6059,Orange,California,US,2020-05-02 02:32:27,33.70147516,-117.76459979999998,3047,50,0,2487,"Orange, California, US"
 12095,Orange,Florida,US,2020-05-02 02:32:27,28.51367621,-81.31799498,1413,34,0,1379,"Orange, Florida, US"
 18117,Orange,Indiana,US,2020-05-02 02:32:27,38.54118920000001,-86.49523093,101,9,0,92,"Orange, Indiana, US"
 36071,Orange,New York,US,2020-05-02 02:32:27,41.40337468,-74.30240757,8751,329,0,8422,"Orange, New York, US"
@@ -3076,7 +3076,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guinea,2020-05-02 02:32:27,9.9456,-9.6966,1537,7,342,1188,Guinea
 ,,,Guinea-Bissau,2020-05-02 02:32:27,11.8037,-15.1804,257,1,19,237,Guinea-Bissau
 ,,,Guyana,2020-05-02 02:32:27,4.860416000000002,-58.93018000000001,82,9,22,51,Guyana
-,,,Haiti,2020-05-02 02:32:27,18.9712,-72.2852,85,8,10,67,Haiti
+,,,Haiti,2020-05-02 02:32:27,18.9712,-72.2852,76,7,10,67,Haiti
 ,,,Holy See,2020-05-02 02:32:27,41.9029,12.4534,11,0,2,9,Holy See
 ,,,Honduras,2020-05-02 02:32:27,15.2,-86.2419,804,75,112,617,Honduras
 ,,,Hungary,2020-05-02 02:32:27,47.1625,19.5033,2863,323,609,1931,Hungary

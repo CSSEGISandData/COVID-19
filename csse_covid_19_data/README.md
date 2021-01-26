@@ -176,6 +176,9 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 19, 2021: California, US | Adjustment of time series to shift data for later sampling time from California State Government | All time files and daily reports | [California State Government](https://covid19.ca.gov/state-dashboard/)
 * January 19, 2021: Douglas, Nebraska, US | The original death data on 1/07 (617) was due to a data entry error from the county health department, which was corrected on 1/08. However, the state health department has been unable to provide a proper death total for this day. To remove the artificial spike, we have held the death total from 1/06 stale (525). | time_series_covid19_deaths_US.csv, time_series_covid19_deaths_global.csv, 01-07-2021.csv | No source needed
 * January 21, 2021: Sweden | See issue #3594, the deaths have been altered to be consistently "deaths by date of report" | time_series_covid19_deaths_global.csv | [Source](https://www.svt.se/special/articledata/2322/fohm_timeline.json)
+* January 25, 2021: Haiti | Adjustment of time series to use data from Haiti Ministry of Health | All time series files and daily reports | [Source](https://www.mspp.gouv.ht/)
+* January 25, 2021: California, US | Revision of cases for Orange County, CA to include probable cases from 2020-04-01 to 2021-01-24 | All time series files and daily reports | [Source](https://ochca.maps.arcgis.com/apps/opsdashboard/index.html#/cc4859c8c522496b9f21c451de2fedae)
+* January 25, 2021: California, US | Revision of cases for Stanislaus County, CA to include probable cases from 2020-04-17 to 2021-01-24 | All time series files and daily reports | [Source](https://experience.arcgis.com/experience/c29aa0c6a84844ceab6601da4b124c0b)
 
 
 

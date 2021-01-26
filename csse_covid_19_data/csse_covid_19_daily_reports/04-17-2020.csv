@@ -1854,7 +1854,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37133,Onslow,North Carolina,US,2020-04-17 23:30:52,34.72607366,-77.42908179,37,1,0,36,"Onslow, North Carolina, US"
 36069,Ontario,New York,US,2020-04-17 23:30:52,42.85145728,-77.30874425,67,0,0,67,"Ontario, New York, US"
 26131,Ontonagon,Michigan,US,2020-04-17 23:30:52,46.665226200000006,-89.31390481,0,0,0,0,"Ontonagon, Michigan, US"
-6059,Orange,California,US,2020-04-17 23:30:52,33.70147516,-117.76459979999998,1501,28,0,1473,"Orange, California, US"
+6059,Orange,California,US,2020-04-17 23:30:52,33.70147516,-117.76459979999998,1795,28,0,1473,"Orange, California, US"
 12095,Orange,Florida,US,2020-04-17 23:30:52,28.51367621,-81.31799498,1158,23,0,1135,"Orange, Florida, US"
 18117,Orange,Indiana,US,2020-04-17 23:30:52,38.54118920000001,-86.49523093,24,4,0,20,"Orange, Indiana, US"
 36071,Orange,New York,US,2020-04-17 23:30:52,41.40337468,-74.30240757,6514,204,0,6310,"Orange, New York, US"
@@ -2321,7 +2321,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22103,St. Tammany,Louisiana,US,2020-04-17 23:30:52,30.40942847,-89.95642711,961,66,0,895,"St. Tammany, Louisiana, US"
 20185,Stafford,Kansas,US,2020-04-17 23:30:52,38.03100851,-98.71762001,1,0,0,1,"Stafford, Kansas, US"
 51179,Stafford,Virginia,US,2020-04-17 23:30:52,38.41758738,-77.45917053,128,0,0,128,"Stafford, Virginia, US"
-6099,Stanislaus,California,US,2020-04-17 23:30:52,37.55862499,-120.9970722,187,4,0,183,"Stanislaus, California, US"
+6099,Stanislaus,California,US,2020-04-17 23:30:52,37.55862499,-120.9970722,206,4,0,183,"Stanislaus, California, US"
 37167,Stanly,North Carolina,US,2020-04-17 23:30:52,35.31647813,-80.25093221,20,2,0,18,"Stanly, North Carolina, US"
 20187,Stanton,Kansas,US,2020-04-17 23:30:52,37.56304714,-101.78435340000001,3,0,0,3,"Stanton, Kansas, US"
 31167,Stanton,Nebraska,US,2020-04-17 23:30:52,41.9169835,-97.19394708,1,0,0,1,"Stanton, Nebraska, US"
@@ -2934,7 +2934,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guinea,2020-04-17 23:30:32,9.9456,-9.6966,477,3,59,415,Guinea
 ,,,Guinea-Bissau,2020-04-17 23:30:32,11.8037,-15.1804,43,0,0,43,Guinea-Bissau
 ,,,Guyana,2020-04-17 23:30:32,4.860416000000002,-58.93018000000001,63,6,9,48,Guyana
-,,,Haiti,2020-04-17 23:30:32,18.9712,-72.2852,43,3,0,40,Haiti
+,,,Haiti,2020-04-17 23:30:32,18.9712,-72.2852,41,3,0,40,Haiti
 ,,,Holy See,2020-04-17 23:30:32,41.9029,12.4534,8,0,2,6,Holy See
 ,,,Honduras,2020-04-17 23:30:32,15.2,-86.2419,442,41,10,391,Honduras
 ,,,Hungary,2020-04-17 23:30:32,47.1625,19.5033,1763,156,207,1400,Hungary
