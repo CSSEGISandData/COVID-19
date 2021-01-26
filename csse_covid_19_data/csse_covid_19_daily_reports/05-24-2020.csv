@@ -2012,7 +2012,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37133,Onslow,North Carolina,US,2020-05-25 02:32:44,34.72607366,-77.42908179,97,2,0,95,"Onslow, North Carolina, US"
 36069,Ontario,New York,US,2020-05-25 02:32:44,42.85145728,-77.30874425,184,9,0,175,"Ontario, New York, US"
 26131,Ontonagon,Michigan,US,2020-05-25 02:32:44,46.665226200000006,-89.31390481,0,0,0,0,"Ontonagon, Michigan, US"
-6059,Orange,California,US,2020-05-25 02:32:44,33.70147516,-117.76459979999998,5336,131,0,5205,"Orange, California, US"
+6059,Orange,California,US,2020-05-25 02:32:44,33.70147516,-117.76459979999998,6068,131,0,5205,"Orange, California, US"
 12095,Orange,Florida,US,2020-05-25 02:32:44,28.51367621,-81.31799498,1808,39,0,1769,"Orange, Florida, US"
 18117,Orange,Indiana,US,2020-05-25 02:32:44,38.54118920000001,-86.49523093,124,22,0,102,"Orange, Indiana, US"
 36071,Orange,New York,US,2020-05-25 02:32:44,41.40337468,-74.30240757,10225,429,0,9796,"Orange, New York, US"
@@ -2515,7 +2515,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22103,St. Tammany,Louisiana,US,2020-05-25 02:32:44,30.40942847,-89.95642711,1618,156,0,1462,"St. Tammany, Louisiana, US"
 20185,Stafford,Kansas,US,2020-05-25 02:32:44,38.03100851,-98.71762001,1,0,0,1,"Stafford, Kansas, US"
 51179,Stafford,Virginia,US,2020-05-25 02:32:44,38.41758738,-77.45917053,581,4,0,577,"Stafford, Virginia, US"
-6099,Stanislaus,California,US,2020-05-25 02:32:44,37.55862499,-120.9970722,629,28,0,601,"Stanislaus, California, US"
+6099,Stanislaus,California,US,2020-05-25 02:32:44,37.55862499,-120.9970722,646,28,0,601,"Stanislaus, California, US"
 46117,Stanley,South Dakota,US,2020-05-25 02:32:44,44.41381872,-100.7349153,9,0,0,9,"Stanley, South Dakota, US"
 37167,Stanly,North Carolina,US,2020-05-25 02:32:44,35.31647813,-80.25093221,45,4,0,41,"Stanly, North Carolina, US"
 20187,Stanton,Kansas,US,2020-05-25 02:32:44,37.56304714,-101.7843534,9,0,0,9,"Stanton, Kansas, US"
@@ -3299,7 +3299,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guinea,2020-05-25 02:32:44,9.9456,-9.6966,3275,20,1673,1582,Guinea
 ,,,Guinea-Bissau,2020-05-25 02:32:44,11.8037,-15.1804,1114,6,42,1066,Guinea-Bissau
 ,,,Guyana,2020-05-25 02:32:44,4.860416000000002,-58.93018000000001,135,10,62,63,Guyana
-,,,Haiti,2020-05-25 02:32:44,18.9712,-72.2852,865,26,22,817,Haiti
+,,,Haiti,2020-05-25 02:32:44,18.9712,-72.2852,812,25,22,817,Haiti
 ,,,Holy See,2020-05-25 02:32:44,41.9029,12.4534,12,0,2,10,Holy See
 ,,,Honduras,2020-05-25 02:32:44,15.2,-86.2419,3950,180,468,3302,Honduras
 ,,,Hungary,2020-05-25 02:32:44,47.1625,19.5033,3741,486,1690,1565,Hungary

@@ -2011,7 +2011,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22103,St. Tammany,Louisiana,US,4/4/20 23:34,30.40942847,-89.95642711,532,14,0,0,"St. Tammany, Louisiana, US"
 20185,Stafford,Kansas,US,4/4/20 23:34,38.03100851,-98.71762001,1,0,0,0,"Stafford, Kansas, US"
 51179,Stafford,Virginia,US,4/4/20 23:34,38.41758738,-77.45917053,38,0,0,0,"Stafford, Virginia, US"
-6099,Stanislaus,California,US,4/4/20 23:34,37.55862499,-120.9970722,58,0,0,0,"Stanislaus, California, US"
+6099,Stanislaus,California,US,4/4/20 23:34,37.55862499,-120.9970722,65,0,0,0,"Stanislaus, California, US"
 37167,Stanly,North Carolina,US,4/4/20 23:34,35.31647813,-80.25093221,7,0,0,0,"Stanly, North Carolina, US"
 38089,Stark,North Dakota,US,4/4/20 23:34,46.80851182,-102.6576326,22,0,0,0,"Stark, North Dakota, US"
 39151,Stark,Ohio,US,4/4/20 23:34,40.81482476,-81.36437305,92,5,0,0,"Stark, Ohio, US"
@@ -2570,7 +2570,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guinea,4/4/20 23:34,9.9456,-9.6966,111,0,5,106,Guinea
 ,,,Guinea-Bissau,4/4/20 23:34,11.8037,-15.1804,18,0,0,18,Guinea-Bissau
 ,,,Guyana,4/4/20 23:34,4.860416,-58.93018,23,4,0,19,Guyana
-,,,Haiti,4/4/20 23:34,18.9712,-72.2852,20,0,1,19,Haiti
+,,,Haiti,4/4/20 23:34,18.9712,-72.2852,18,0,1,19,Haiti
 ,,,Holy See,4/4/20 23:34,41.9029,12.4534,7,0,0,7,Holy See
 ,,,Honduras,4/4/20 23:34,15.2,-86.2419,264,15,3,246,Honduras
 ,,,Hungary,4/4/20 23:34,47.1625,19.5033,678,32,58,588,Hungary
