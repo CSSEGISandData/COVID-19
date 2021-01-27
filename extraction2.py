@@ -16,9 +16,9 @@ start_date = date(2020, 3, 22)
 end_date = date(2020, 4, 20)
 
 delete_location = False
-delete_unassigned = True
+delete_unassigned = False
 normalize_data = True
-sort_by_location = True
+sort_by_location = False
 
 delta = end_date - start_date
 
@@ -39,8 +39,13 @@ for day in range(delta.days + 1):
     raw_data['Days since start'] = days_since_start.days  # number of days
     raw_data['Date'] = date.strftime("%m-%d-%Y")
 
-    raw_data = raw_data[raw_data['Lat'].notna()]
-    raw_data = raw_data[raw_data['Long_'].notna()]
+    if delete_unassigned:
+        raw_data = raw_data[raw_data['Lat'].notna()]
+        raw_data = raw_data[raw_data['Long_'].notna()]
+    #else:
+        # fill in center of mass for unassigned, out of
+        # take all rows of a state with lat/long values that aren't 0.0 or nan and calculate
+
     raw_data = raw_data.fillna(value="N/A")
 
     if day == 0:
