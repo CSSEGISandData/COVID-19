@@ -2293,7 +2293,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22103,St. Tammany,Louisiana,US,2020-04-14 23:33:31,30.40942847,-89.95642711,898,55,0,843,"St. Tammany, Louisiana, US"
 20185,Stafford,Kansas,US,2020-04-14 23:33:31,38.03100851,-98.71762001,1,0,0,1,"Stafford, Kansas, US"
 51179,Stafford,Virginia,US,2020-04-14 23:33:31,38.41758738,-77.45917053,95,0,0,95,"Stafford, Virginia, US"
-6099,Stanislaus,California,US,2020-04-14 23:33:31,37.55862499,-120.9970722,146,2,0,144,"Stanislaus, California, US"
+6099,Stanislaus,California,US,2020-04-14 23:33:31,37.55862499,-120.9970722,163,2,0,144,"Stanislaus, California, US"
 37167,Stanly,North Carolina,US,2020-04-14 23:33:31,35.31647813,-80.25093221,17,2,0,15,"Stanly, North Carolina, US"
 20187,Stanton,Kansas,US,2020-04-14 23:33:31,37.56304714,-101.78435340000001,2,0,0,2,"Stanton, Kansas, US"
 31167,Stanton,Nebraska,US,2020-04-14 23:33:31,41.9169835,-97.19394708,1,0,0,1,"Stanton, Nebraska, US"
@@ -2988,7 +2988,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,South Sudan,2020-04-14 23:33:12,6.8770000000000024,31.307,4,0,0,4,South Sudan
 ,,,Spain,2020-04-14 23:33:12,40.463667,-3.7492199999999998,172541,18056,67504,86981,Spain
 ,,,Sri Lanka,2020-04-14 23:33:12,7.873054,80.77179699999998,233,7,61,165,Sri Lanka
-,,,Sudan,2020-04-14 23:33:12,12.8628,30.2176,32,5,4,23,Sudan
+,,,Sudan,2020-04-14 23:33:12,12.8628,30.2176,29,5,4,23,Sudan
 ,,,Suriname,2020-04-14 23:33:12,3.9193,-56.0278,10,1,6,3,Suriname
 ,,,Sweden,2020-04-14 23:33:12,60.128161,18.643501,11445,1033,381,10031,Sweden
 ,,,Switzerland,2020-04-14 23:33:12,46.8182,8.2275,25936,1174,13700,11062,Switzerland
