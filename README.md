@@ -191,6 +191,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - COVID Live (Australia): https://www.covidlive.com.au/
   - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
   - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+  - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
   - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
   - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
   - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
