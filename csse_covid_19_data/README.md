@@ -180,6 +180,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 25, 2021: California, US | Revision of cases for Orange County, CA to include probable cases from 2020-04-01 to 2021-01-24 | All time series files and daily reports | [Source](https://ochca.maps.arcgis.com/apps/opsdashboard/index.html#/cc4859c8c522496b9f21c451de2fedae)
 * January 25, 2021: California, US | Revision of cases for Stanislaus County, CA to include probable cases from 2020-04-17 to 2021-01-24 | All time series files and daily reports | [Source](https://experience.arcgis.com/experience/c29aa0c6a84844ceab6601da4b124c0b)
 * January 26, 2021: Sudan | Adjustment of cases for Sudan to World Health Organization data from 2020-3-13 to 2021-01-25 | All time series files and daily reports | [Source](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
+* January 27, 2021: Missouri, US | Adjustment of St. Louis City, MO cases and deaths from 2020-03-03 to 2021-01-26 | All time series files and daily reports | [Source](https://www.stlouis-mo.gov/covid-19/data/)
 
 
 
