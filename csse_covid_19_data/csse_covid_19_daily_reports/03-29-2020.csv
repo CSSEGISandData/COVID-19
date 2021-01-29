@@ -3235,7 +3235,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,3/29/20 23:13,46.5107,-63.4168,11,0,0,0,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,3/29/20 23:08,18.2208,-66.5901,127,3,0,0,"Puerto Rico, US"
 ,,Qinghai,China,2/23/20 11:19,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,3/29/20 23:13,52.9399,-73.5491,2840,22,0,0,"Quebec, Canada"
+,,Quebec,Canada,3/29/20 23:13,52.9399,-73.5491,2840,54,0,0,"Quebec, Canada"
 ,,Queensland,Australia,3/29/20 23:14,-27.4698,153.0251,656,2,8,646,"Queensland, Australia"
 ,,Recovered,Canada,3/29/20 23:13,0.0,0.0,0,0,466,0,"Recovered, Canada"
 ,,Recovered,US,3/29/20 23:08,0.0,0.0,0,0,2665,0,"Recovered, US"
