@@ -2504,7 +2504,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,2020-05-24 02:32:43,44.4976179,-75.06550039,196,2,0,194,"St. Lawrence, New York, US"
 27137,St. Louis,Minnesota,US,2020-05-24 02:32:43,47.6048407,-92.46879855,110,13,0,97,"St. Louis, Minnesota, US"
 29189,St. Louis,Missouri,US,2020-05-24 02:32:43,38.63770039999999,-90.4458375,4472,384,0,4088,"St. Louis, Missouri, US"
-29510,St. Louis City,Missouri,US,2020-05-24 02:32:43,38.63555736,-90.24349225,1789,110,0,1679,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,2020-05-24 02:32:43,38.63555736,-90.24349225,1814,110,0,1679,"St. Louis City, Missouri, US"
 12111,St. Lucie,Florida,US,2020-05-24 02:32:43,27.37763908,-80.47106649,386,28,0,358,"St. Lucie, Florida, US"
 22099,St. Martin,Louisiana,US,2020-05-24 02:32:43,30.13112107,-91.61403569,288,22,0,266,"St. Martin, Louisiana, US"
 22101,St. Mary,Louisiana,US,2020-05-24 02:32:43,29.69262097,-91.44702164,294,29,0,265,"St. Mary, Louisiana, US"
@@ -3163,7 +3163,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 72,,Puerto Rico,US,2020-05-24 02:32:43,18.2208,-66.5901,3100,127,0,2973,"Puerto Rico, US"
 ,,Puglia,Italy,2020-05-24 02:32:43,41.12559576,16.86736689,4448,486,2157,1805,"Puglia, Italy"
 ,,Qinghai,China,2020-05-24 02:32:43,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-05-24 02:32:43,52.9399,-73.5491,46847,3941,14044,28862,"Quebec, Canada"
+,,Quebec,Canada,2020-05-24 02:32:43,52.9399,-73.5491,46847,4713,14044,28862,"Quebec, Canada"
 ,,Queensland,Australia,2020-05-24 02:32:43,-27.4698,153.0251,1061,6,1041,14,"Queensland, Australia"
 ,,Queretaro,Mexico,2020-05-24 02:32:43,20.5888,-100.3899,669,69,298,302,"Queretaro, Mexico"
 ,,Quintana Roo,Mexico,2020-05-24 02:32:43,19.1817,-88.4791,1580,288,1066,226,"Quintana Roo, Mexico"
@@ -3379,7 +3379,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,South Africa,2020-05-24 02:32:43,-30.5595,22.9375,21343,407,10104,10832,South Africa
 ,,,South Sudan,2020-05-24 02:32:43,6.877000000000002,31.307,655,8,6,641,South Sudan
 ,,,Sri Lanka,2020-05-24 02:32:43,7.873054,80.77179699999998,1089,9,660,420,Sri Lanka
-,,,Sudan,2020-05-24 02:32:43,12.8628,30.2176,3628,146,424,3058,Sudan
+,,,Sudan,2020-05-24 02:32:43,12.8628,30.2176,3378,146,424,3058,Sudan
 ,,,Suriname,2020-05-24 02:32:43,3.9193,-56.0278,11,1,9,1,Suriname
 ,,,Sweden,2020-05-24 02:32:43,60.128161,18.643501,33188,3992,4971,24225,Sweden
 ,,,Switzerland,2020-05-24 02:32:43,46.8182,8.2275,30725,1905,28000,820,Switzerland

@@ -2430,7 +2430,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,2020-05-02 02:32:27,44.4976179,-75.06550039,176,0,0,176,"St. Lawrence, New York, US"
 27137,St. Louis,Minnesota,US,2020-05-02 02:32:27,47.604840700000004,-92.46879855,73,11,0,62,"St. Louis, Minnesota, US"
 29189,St. Louis,Missouri,US,2020-05-02 02:32:27,38.63770039999999,-90.4458375,3253,168,0,3085,"St. Louis, Missouri, US"
-29510,St. Louis City,Missouri,US,2020-05-02 02:32:27,38.63555736,-90.24349225,1150,65,0,1085,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,2020-05-02 02:32:27,38.63555736,-90.24349225,1366,65,0,1085,"St. Louis City, Missouri, US"
 12111,St. Lucie,Florida,US,2020-05-02 02:32:27,27.37763908,-80.47106649,249,23,0,226,"St. Lucie, Florida, US"
 22099,St. Martin,Louisiana,US,2020-05-02 02:32:27,30.13112107,-91.61403569,241,17,0,224,"St. Martin, Louisiana, US"
 22101,St. Mary,Louisiana,US,2020-05-02 02:32:27,29.69262097,-91.44702164,193,23,0,170,"St. Mary, Louisiana, US"
@@ -2978,7 +2978,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2020-05-02 02:32:27,46.5107,-63.4168,27,0,0,27,"Prince Edward Island, Canada"
 72,,Puerto Rico,US,2020-05-02 02:32:27,18.2208,-66.5901,1575,94,0,1481,"Puerto Rico, US"
 ,,Qinghai,China,2020-05-02 02:32:27,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-05-02 02:32:27,52.9399,-73.5491,28656,2022,0,26634,"Quebec, Canada"
+,,Quebec,Canada,2020-05-02 02:32:27,52.9399,-73.5491,28656,2866,0,26634,"Quebec, Canada"
 ,,Queensland,Australia,2020-05-02 02:32:27,-27.4698,153.0251,1034,6,965,63,"Queensland, Australia"
 ,,Recovered,Canada,2020-05-02 02:32:27,,,0,0,22764,-22764,"Recovered, Canada"
 ,,Recovered,US,2020-05-02 02:32:27,,,0,0,164015,-135340,"Recovered, US"
@@ -3162,7 +3162,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,South Sudan,2020-05-02 02:32:27,6.8770000000000024,31.307,45,0,0,45,South Sudan
 ,,,Spain,2020-05-02 02:32:27,40.463667,-3.74922,213435,24543,112050,76842,Spain
 ,,,Sri Lanka,2020-05-02 02:32:27,7.873054,80.77179699999998,690,7,162,521,Sri Lanka
-,,,Sudan,2020-05-02 02:32:27,12.8628,30.2176,533,36,46,451,Sudan
+,,,Sudan,2020-05-02 02:32:27,12.8628,30.2176,442,36,46,451,Sudan
 ,,,Suriname,2020-05-02 02:32:27,3.9193,-56.0278,10,1,8,1,Suriname
 ,,,Sweden,2020-05-02 02:32:27,60.128161,18.643501,21520,2653,1005,17862,Sweden
 ,,,Switzerland,2020-05-02 02:32:27,46.8182,8.2275,29705,1754,23900,4051,Switzerland
