@@ -183,6 +183,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 27, 2021: Missouri, US | Adjustment of St. Louis City, MO cases and deaths from 2020-03-03 to 2021-01-26 | All time series files and daily reports | [Source](https://www.stlouis-mo.gov/covid-19/data/)
 * January 28, 2021: Quebec, Canada | Adjustment of Quebec deaths from 2020-03-17 to 2021-01-27 | All time series files and daily reports | [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/)
 * February 01, 2021: Illinois, US | Adjustment of Illinois probable deaths from 2020-11-07 to 2021-01-31 | All time series files and daily reports | [Source](https://www.dph.illinois.gov/covid19)
+* February 02, 2021: Lithuania | Adjustment of Lithuania cases, deaths, and recovered from 2020-02-28 to 2021-02-01 based on Lithuania dashboard | All time series files and daily reports | [Dashboard](https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa)
 
 
 
