@@ -1911,7 +1911,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,4/2/20 23:25,44.4976179,-75.06550039,39,0,0,0,"St. Lawrence, New York, US"
 27137,St. Louis,Minnesota,US,4/2/20 23:25,47.6048407,-92.46879855,13,0,0,0,"St. Louis, Minnesota, US"
 29189,St. Louis,Missouri,US,4/2/20 23:25,38.6377004,-90.4458375,712,4,0,0,"St. Louis, Missouri, US"
-29510,St. Louis City,Missouri,US,4/2/20 23:25,38.63555736,-90.24349225,239,1,0,0,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,4/2/20 23:25,38.63555736,-90.24349225,407,1,0,0,"St. Louis City, Missouri, US"
 12111,St. Lucie,Florida,US,4/2/20 23:25,27.37763908,-80.47106649,48,3,0,0,"St. Lucie, Florida, US"
 22099,St. Martin,Louisiana,US,4/2/20 23:25,30.13112107,-91.61403569,58,3,0,0,"St. Martin, Louisiana, US"
 22101,St. Mary,Louisiana,US,4/2/20 23:25,29.69262097,-91.44702164,42,0,0,0,"St. Mary, Louisiana, US"
@@ -2365,7 +2365,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,4/2/20 23:31,46.5107,-63.4168,22,0,0,0,"Prince Edward Island, Canada"
 72,,Puerto Rico,US,4/2/20 23:25,18.2208,-66.5901,316,12,0,0,"Puerto Rico, US"
 ,,Qinghai,China,2/23/20 11:19,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,4/2/20 23:31,52.9399,-73.5491,5518,36,0,0,"Quebec, Canada"
+,,Quebec,Canada,4/2/20 23:31,52.9399,-73.5491,5518,121,0,0,"Quebec, Canada"
 ,,Queensland,Australia,4/2/20 23:32,-27.4698,153.0251,835,4,8,823,"Queensland, Australia"
 ,,Recovered,Canada,4/2/20 23:31,,,0,0,1735,0,"Recovered, Canada"
 ,,Recovered,US,4/2/20 23:25,,,0,0,9001,0,"Recovered, US"
@@ -2488,7 +2488,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,4/2/20 23:25,6.428055,-9.429499,6,0,0,6,Liberia
 ,,,Libya,4/2/20 23:25,26.3351,17.228331,11,1,0,10,Libya
 ,,,Liechtenstein,4/2/20 23:25,47.14,9.55,75,0,0,75,Liechtenstein
-,,,Lithuania,4/2/20 23:25,55.1694,23.8813,649,9,7,633,Lithuania
+,,,Lithuania,4/2/20 23:25,55.1694,23.8813,579,6,24,633,Lithuania
 ,,,Luxembourg,4/2/20 23:25,49.8153,6.1296,2487,30,80,2377,Luxembourg
 ,,,MS Zaandam,4/2/20 23:25,,,9,2,0,7,",,MS Zaandam"
 ,,,Madagascar,4/2/20 23:25,-18.766947,46.869107,59,0,0,59,Madagascar

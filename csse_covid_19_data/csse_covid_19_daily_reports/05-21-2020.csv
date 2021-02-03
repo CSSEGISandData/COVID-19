@@ -2496,7 +2496,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,2020-05-22 02:36:51,44.4976179,-75.06550039,195,2,0,193,"St. Lawrence, New York, US"
 27137,St. Louis,Minnesota,US,2020-05-22 02:36:51,47.6048407,-92.46879855,109,13,0,96,"St. Louis, Minnesota, US"
 29189,St. Louis,Missouri,US,2020-05-22 02:36:51,38.63770039999999,-90.4458375,4472,376,0,4096,"St. Louis, Missouri, US"
-29510,St. Louis City,Missouri,US,2020-05-22 02:36:51,38.63555736,-90.24349225,1744,109,0,1635,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,2020-05-22 02:36:51,38.63555736,-90.24349225,1780,109,0,1635,"St. Louis City, Missouri, US"
 12111,St. Lucie,Florida,US,2020-05-22 02:36:51,27.37763908,-80.47106649,349,28,0,321,"St. Lucie, Florida, US"
 22099,St. Martin,Louisiana,US,2020-05-22 02:36:51,30.13112107,-91.61403569,287,22,0,265,"St. Martin, Louisiana, US"
 22101,St. Mary,Louisiana,US,2020-05-22 02:36:51,29.69262097,-91.44702164,288,29,0,259,"St. Mary, Louisiana, US"
@@ -3154,7 +3154,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 72,,Puerto Rico,US,2020-05-22 02:36:51,18.2208,-66.5901,2913,126,0,2787,"Puerto Rico, US"
 ,,Puglia,Italy,2020-05-22 02:36:51,41.12559576,16.86736689,4413,478,2096,1839,"Puglia, Italy"
 ,,Qinghai,China,2020-05-22 02:36:51,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-05-22 02:36:51,52.9399,-73.5491,45504,3801,13327,28376,"Quebec, Canada"
+,,Quebec,Canada,2020-05-22 02:36:51,52.9399,-73.5491,45504,4580,13327,28376,"Quebec, Canada"
 ,,Queensland,Australia,2020-05-22 02:36:51,-27.4698,153.0251,1058,6,1040,12,"Queensland, Australia"
 ,,Queretaro,Mexico,2020-05-22 02:36:51,20.5888,-100.3899,592,61,247,284,"Queretaro, Mexico"
 ,,Quintana Roo,Mexico,2020-05-22 02:36:51,19.1817,-88.4791,1450,280,949,221,"Quintana Roo, Mexico"
@@ -3313,7 +3313,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-05-22 02:36:51,6.4280550000000005,-9.429499,240,23,131,86,Liberia
 ,,,Libya,2020-05-22 02:36:51,26.3351,17.228331,71,3,35,33,Libya
 ,,,Liechtenstein,2020-05-22 02:36:51,47.14,9.55,82,1,55,26,Liechtenstein
-,,,Lithuania,2020-05-22 02:36:51,55.1694,23.8813,1593,61,1049,483,Lithuania
+,,,Lithuania,2020-05-22 02:36:51,55.1694,23.8813,1592,46,1126,483,Lithuania
 ,,,Luxembourg,2020-05-22 02:36:51,49.8153,6.1296,3980,109,3741,130,Luxembourg
 ,,,MS Zaandam,2020-05-22 02:36:51,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-22 02:36:51,-18.766947,46.869107,405,2,131,272,Madagascar

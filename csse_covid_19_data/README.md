@@ -180,6 +180,10 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 25, 2021: California, US | Revision of cases for Orange County, CA to include probable cases from 2020-04-01 to 2021-01-24 | All time series files and daily reports | [Source](https://ochca.maps.arcgis.com/apps/opsdashboard/index.html#/cc4859c8c522496b9f21c451de2fedae)
 * January 25, 2021: California, US | Revision of cases for Stanislaus County, CA to include probable cases from 2020-04-17 to 2021-01-24 | All time series files and daily reports | [Source](https://experience.arcgis.com/experience/c29aa0c6a84844ceab6601da4b124c0b)
 * January 26, 2021: Sudan | Adjustment of cases for Sudan to World Health Organization data from 2020-3-13 to 2021-01-25 | All time series files and daily reports | [Source](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
+* January 27, 2021: Missouri, US | Adjustment of St. Louis City, MO cases and deaths from 2020-03-03 to 2021-01-26 | All time series files and daily reports | [Source](https://www.stlouis-mo.gov/covid-19/data/)
+* January 28, 2021: Quebec, Canada | Adjustment of Quebec deaths from 2020-03-17 to 2021-01-27 | All time series files and daily reports | [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/)
+* February 01, 2021: Illinois, US | Adjustment of Illinois probable deaths from 2020-11-07 to 2021-01-31 | All time series files and daily reports | [Source](https://www.dph.illinois.gov/covid19)
+* February 02, 2021: Lithuania | Adjustment of Lithuania cases, deaths, and recovered from 2020-02-28 to 2021-02-01 based on Lithuania dashboard | All time series files and daily reports | [Dashboard](https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa)
 
 
 
@@ -253,6 +257,7 @@ Date: Location | Change | Reason/Other notes | Source
 * December 16: California, US | California dashboard included 15,337 historical cases in their December 16 update | We pull from several sources including the California State Daashboard so it is unclear how these historical cases are distributed within our data | [Source](https://covid19.ca.gov/state-dashboard/)
 * December 17: Hidalgo, Texas, US | Reduction in cases due to double counting probable and confirmed cases | [Source 1](https://www.hidalgocounty.us/DocumentCenter/View/43316/12162020---Eight-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-377-positive-cases), [Source 2](https://www.hidalgocounty.us/DocumentCenter/View/43374/12172020---Four-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-522-positive-cases)
 * January 5: Alabama, US | Backlog of cases from the holiday period resulted in daily record of cases | Quote from source: "Case counts reported on today's update are high. Today's increase represents a delay in testing and reporting to the Alabama Department of Public Health (ADPH) due to the holiday weekends." | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* January 25: Hawaii, US | Identification of unreported COVID-19 deaths results in a statewide spike of 60 deaths | [Source](https://www.kitv.com/story/43230995/60-covid19-related-deaths-went-unreported-doh-finds)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
