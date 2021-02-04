@@ -980,3 +980,13 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/05/2021,8985,8727,Correct stale data
 01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/06/2021,8985,8727,Correct stale data
 01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/07/2021,9262,8727,Correct stale data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/24/2021,1570,1571,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/25/2021,1570,1571,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/26/2021,1570,1572,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/27/2021,1570,1576,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/28/2021,1570,1576,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/29/2021,1570,1577,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/30/2021,1570,1580,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/31/2021,1570,1580,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,02/01/2021,1570,1581,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,02/02/2021,1570,1582,Correct Nova Scotia stale confirmed data
