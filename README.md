@@ -153,6 +153,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
   - Kansas: Reno County Health Department: https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/
   - Kansas: Kansas Department Of Health And Environment: https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas
+  - Kansas: Douglas County Coronavirus Response and Recovery Hub: https://coronavirus-response-dgco.hub.arcgis.com/
+  - Kansas: Finney County COVID-19 Resource Hub: https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/
+  - Kansas: Riley County Corona Virus Response: https://coronavirus-response-rcitgis.hub.arcgis.com/
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
@@ -188,6 +191,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - COVID Live (Australia): https://www.covidlive.com.au/
   - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
   - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+  - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
   - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
   - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
   - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
@@ -212,13 +216,14 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
   - Government of India: https://www.mygov.in/covid-19
+  - Lithuania: https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa
   - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - Iceland Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
-  - Afghanistan: http://covid.moph-dw.org/#/
+  - Afghanistan: http://covid.moph-dw.org/#/ and http://www.afghanistantimes.af/
   - Kazakhstan: https://www.coronavirus2020.kz/
   - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html 
     

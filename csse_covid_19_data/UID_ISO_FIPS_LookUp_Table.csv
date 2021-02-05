@@ -371,6 +371,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 48431,MX,MEX,484,,,Yucatan,Mexico,20.7099,-89.0943,"Yucatan, Mexico",2259098
 48432,MX,MEX,484,,,Zacatecas,Mexico,22.7709,-102.5832,"Zacatecas, Mexico",1666426
 48433,MX,MEX,484,,,Unknown,Mexico,,,"Unknown, Mexico",
+583,FM,FSM,583,,,,Micronesia,7.4256,150.5508,Micronesia,113815
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4033963
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,39244
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,3278292
@@ -452,6 +453,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 58606,PK,PAK,586,,,Punjab,Pakistan,30.811346,72.139132,"Punjab, Pakistan",110012442
 58607,PK,PAK,586,,,Sindh,Pakistan,26.009446,68.776807,"Sindh, Pakistan",47886051
 58608,PK,PAK,586,,,Unknown,Pakistan,,,"Unknown, Pakistan",
+585,PW,PLW,8,,,,Palau,7.5150,134.5825,Palau,18008
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,4314768
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,7132530
@@ -732,7 +734,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12414,CA,CAN,124,,,Grand Princess,Canada,,,"Grand Princess, Canada",
 12415,CA,CAN,124,,,Recovered,Canada,,,"Recovered, Canada",
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",38780
-156,CN,CHN,156,,,,China,30.5928,114.3055,China,1404676330
+156,CN,CHN,156,,,,China,35.8617,104.19545,China,1404676330
 15601,CN,CHN,156,,,Anhui,China,31.8257,117.2264,"Anhui, China",63240000
 15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
 15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
@@ -854,13 +856,13 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 63072999,PR,PRI,630,72999,Unassigned,Puerto Rico,US,,,"Unassigned, Puerto Rico, US",
 84088888,US,USA,840,88888,,Diamond Princess,US,,,"Diamond Princess, US",
 84099999,US,USA,840,99999,,Grand Princess,US,,,"Grand Princess, US",
-84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185
-84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",731545
-84000004,US,USA,840,4,,Arizona,US,33.7298,-111.4312,"Arizona, US",7278717
-84000005,US,USA,840,5,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",3017804
-84000006,US,USA,840,6,,California,US,36.1162,-119.6816,"California, US",39512223
-84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",5758736
-84000009,US,USA,840,9,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",3565287
+84000001,US,USA,840,01,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185
+84000002,US,USA,840,02,,Alaska,US,61.3707,-152.4044,"Alaska, US",731545
+84000004,US,USA,840,04,,Arizona,US,33.7298,-111.4312,"Arizona, US",7278717
+84000005,US,USA,840,05,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",3017804
+84000006,US,USA,840,06,,California,US,36.1162,-119.6816,"California, US",39512223
+84000008,US,USA,840,08,,Colorado,US,39.0598,-105.3111,"Colorado, US",5758736
+84000009,US,USA,840,09,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",3565287
 84000010,US,USA,840,10,,Delaware,US,39.3185,-75.5071,"Delaware, US",973764
 84000011,US,USA,840,11,,District of Columbia,US,38.8974,-77.0268,"District of Columbia, US",705749
 84000012,US,USA,840,12,,Florida,US,27.7663,-81.6868,"Florida, US",21477737

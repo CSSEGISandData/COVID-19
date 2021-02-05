@@ -2297,7 +2297,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,2020-04-15 22:56:51,44.4976179,-75.06550039,92,0,0,92,"St. Lawrence, New York, US"
 27137,St. Louis,Minnesota,US,2020-04-15 22:56:51,47.604840700000004,-92.46879855,43,6,0,37,"St. Louis, Minnesota, US"
 29189,St. Louis,Missouri,US,2020-04-15 22:56:51,38.63770039999999,-90.4458375,1851,53,0,1798,"St. Louis, Missouri, US"
-29510,St. Louis City,Missouri,US,2020-04-15 22:56:51,38.63555736,-90.24349225,723,26,0,697,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,2020-04-15 22:56:51,38.63555736,-90.24349225,808,27,0,697,"St. Louis City, Missouri, US"
 12111,St. Lucie,Florida,US,2020-04-15 22:56:51,27.37763908,-80.47106649,172,8,0,164,"St. Lucie, Florida, US"
 22099,St. Martin,Louisiana,US,2020-04-15 22:56:51,30.13112107,-91.61403569,174,10,0,164,"St. Martin, Louisiana, US"
 22101,St. Mary,Louisiana,US,2020-04-15 22:56:51,29.69262097,-91.44702164,130,4,0,126,"St. Mary, Louisiana, US"
@@ -2305,7 +2305,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22103,St. Tammany,Louisiana,US,2020-04-15 22:56:51,30.40942847,-89.95642711,924,60,0,864,"St. Tammany, Louisiana, US"
 20185,Stafford,Kansas,US,2020-04-15 22:56:51,38.03100851,-98.71762001,1,0,0,1,"Stafford, Kansas, US"
 51179,Stafford,Virginia,US,2020-04-15 22:56:51,38.41758738,-77.45917053,108,0,0,108,"Stafford, Virginia, US"
-6099,Stanislaus,California,US,2020-04-15 22:56:51,37.55862499,-120.9970722,163,4,0,159,"Stanislaus, California, US"
+6099,Stanislaus,California,US,2020-04-15 22:56:51,37.55862499,-120.9970722,176,4,0,159,"Stanislaus, California, US"
 37167,Stanly,North Carolina,US,2020-04-15 22:56:51,35.31647813,-80.25093221,17,2,0,15,"Stanly, North Carolina, US"
 20187,Stanton,Kansas,US,2020-04-15 22:56:51,37.56304714,-101.78435340000001,2,0,0,2,"Stanton, Kansas, US"
 31167,Stanton,Nebraska,US,2020-04-15 22:56:51,41.9169835,-97.19394708,1,0,0,1,"Stanton, Nebraska, US"
@@ -2379,7 +2379,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29213,Taney,Missouri,US,2020-04-15 22:56:51,36.65465345,-93.04075153,8,1,0,7,"Taney, Missouri, US"
 22105,Tangipahoa,Louisiana,US,2020-04-15 22:56:51,30.62888673,-90.40664996,418,15,0,403,"Tangipahoa, Louisiana, US"
 35055,Taos,New Mexico,US,2020-04-15 22:56:51,36.58006022,-105.63101979999999,15,0,0,15,"Taos, New Mexico, US"
-48439,Tarrant,Texas,US,2020-04-15 22:56:51,32.77143818,-97.29101614,990,30,0,960,"Tarrant, Texas, US"
+48439,Tarrant,Texas,US,2020-04-15 22:56:51,32.77143818,-97.29101614,1093,37,0,960,"Tarrant, Texas, US"
 28137,Tate,Mississippi,US,2020-04-15 22:56:51,34.65133709,-89.94485778,26,0,0,26,"Tate, Mississippi, US"
 13267,Tattnall,Georgia,US,2020-04-15 22:56:51,32.04785085,-82.05539188,5,0,0,5,"Tattnall, Georgia, US"
 12123,Taylor,Florida,US,2020-04-15 22:56:51,30.04848048,-83.60445406,1,0,0,1,"Taylor, Florida, US"
@@ -2818,7 +2818,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2020-04-15 23:04:09,46.5107,-63.4168,26,0,0,26,"Prince Edward Island, Canada"
 72,,Puerto Rico,US,2020-04-15 22:56:51,18.2208,-66.5901,974,51,0,923,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-04-15 23:04:09,52.9399,-73.5491,14860,487,0,14373,"Quebec, Canada"
+,,Quebec,Canada,2020-04-15 23:04:09,52.9399,-73.5491,14860,994,0,14373,"Quebec, Canada"
 ,,Queensland,Australia,2020-04-15 23:04:26,-27.4698,153.0251,999,5,442,552,"Queensland, Australia"
 ,,Recovered,Canada,2020-04-15 23:04:09,,,0,0,8966,-8966,"Recovered, Canada"
 ,,Recovered,US,2020-04-15 22:56:51,,,0,0,52096,-52096,"Recovered, US"
@@ -2915,7 +2915,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guinea,2020-04-15 22:56:32,9.9456,-9.6966,404,1,31,372,Guinea
 ,,,Guinea-Bissau,2020-04-15 22:56:32,11.8037,-15.1804,43,0,0,43,Guinea-Bissau
 ,,,Guyana,2020-04-15 22:56:32,4.860416000000002,-58.93018000000001,55,6,8,41,Guyana
-,,,Haiti,2020-04-15 22:56:32,18.9712,-72.2852,41,3,0,38,Haiti
+,,,Haiti,2020-04-15 22:56:32,18.9712,-72.2852,40,3,0,38,Haiti
 ,,,Holy See,2020-04-15 22:56:32,41.9029,12.4534,8,0,2,6,Holy See
 ,,,Honduras,2020-04-15 22:56:32,15.2,-86.2419,419,31,9,379,Honduras
 ,,,Hungary,2020-04-15 22:56:32,47.1625,19.5033,1579,134,192,1253,Hungary
@@ -2942,7 +2942,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-04-15 22:56:32,6.4280550000000005,-9.429499,59,6,4,49,Liberia
 ,,,Libya,2020-04-15 22:56:32,26.3351,17.228331,48,1,9,38,Libya
 ,,,Liechtenstein,2020-04-15 22:56:32,47.14,9.55,79,1,55,23,Liechtenstein
-,,,Lithuania,2020-04-15 22:56:32,55.1694,23.8813,1091,30,138,923,Lithuania
+,,,Lithuania,2020-04-15 22:56:32,55.1694,23.8813,995,20,224,923,Lithuania
 ,,,Luxembourg,2020-04-15 22:56:32,49.8153,6.1296,3373,69,526,2778,Luxembourg
 ,,,MS Zaandam,2020-04-15 22:56:32,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-04-15 22:56:32,-18.766947000000002,46.869107,110,0,29,81,Madagascar

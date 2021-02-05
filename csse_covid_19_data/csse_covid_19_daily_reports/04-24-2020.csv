@@ -1909,7 +1909,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37133,Onslow,North Carolina,US,2020-04-25 06:30:53,34.72607366,-77.42908179,40,1,0,39,"Onslow, North Carolina, US"
 36069,Ontario,New York,US,2020-04-23 00:00:00,42.85145728,-77.30874425,73,9,0,64,"Ontario, New York, US"
 26131,Ontonagon,Michigan,US,2020-04-25 06:30:53,46.665226200000006,-89.31390481,0,0,0,0,"Ontonagon, Michigan, US"
-6059,Orange,California,US,2020-04-25 06:30:53,33.70147516,-117.76459979999998,1845,36,0,1809,"Orange, California, US"
+6059,Orange,California,US,2020-04-25 06:30:53,33.70147516,-117.76459979999998,2293,36,0,1809,"Orange, California, US"
 12095,Orange,Florida,US,2020-04-25 06:30:53,28.51367621,-81.31799498,1290,30,0,1260,"Orange, Florida, US"
 18117,Orange,Indiana,US,2020-04-25 06:30:53,38.54118920000001,-86.49523093,56,5,0,51,"Orange, Indiana, US"
 36071,Orange,New York,US,2020-04-23 00:00:00,41.40337468,-74.30240757,7155,274,0,6881,"Orange, New York, US"
@@ -2380,7 +2380,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,2020-04-23 00:00:00,44.4976179,-75.06550039,144,0,0,144,"St. Lawrence, New York, US"
 27137,St. Louis,Minnesota,US,2020-04-25 06:30:53,47.6048407,-92.46879855,59,10,0,49,"St. Louis, Minnesota, US"
 29189,St. Louis,Missouri,US,2020-04-25 06:30:53,38.63770039999999,-90.4458375,2653,121,0,2532,"St. Louis, Missouri, US"
-29510,St. Louis City,Missouri,US,2020-04-25 06:30:53,38.63555736,-90.24349225,1000,48,0,952,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,2020-04-25 06:30:53,38.63555736,-90.24349225,1079,47,0,952,"St. Louis City, Missouri, US"
 12111,St. Lucie,Florida,US,2020-04-25 06:30:53,27.37763908,-80.47106649,223,19,0,204,"St. Lucie, Florida, US"
 22099,St. Martin,Louisiana,US,2020-04-25 06:30:53,30.13112107,-91.61403569,218,14,0,204,"St. Martin, Louisiana, US"
 22101,St. Mary,Louisiana,US,2020-04-25 06:30:53,29.69262097,-91.44702164,171,18,0,153,"St. Mary, Louisiana, US"
@@ -2464,7 +2464,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29213,Taney,Missouri,US,2020-04-25 06:30:53,36.65465345,-93.04075153,10,1,0,9,"Taney, Missouri, US"
 22105,Tangipahoa,Louisiana,US,2020-04-25 06:30:53,30.62888673,-90.40664996,508,21,0,487,"Tangipahoa, Louisiana, US"
 35055,Taos,New Mexico,US,2020-04-25 06:30:53,36.58006022,-105.6310198,17,0,0,17,"Taos, New Mexico, US"
-48439,Tarrant,Texas,US,2020-04-25 06:30:53,32.77143818,-97.29101614,1706,48,0,1658,"Tarrant, Texas, US"
+48439,Tarrant,Texas,US,2020-04-25 06:30:53,32.77143818,-97.29101614,1836,59,0,1658,"Tarrant, Texas, US"
 28137,Tate,Mississippi,US,2020-04-25 06:30:53,34.65133709,-89.94485778,38,0,0,38,"Tate, Mississippi, US"
 13267,Tattnall,Georgia,US,2020-04-25 06:30:53,32.04785085,-82.05539188,6,0,0,6,"Tattnall, Georgia, US"
 12123,Taylor,Florida,US,2020-04-25 06:30:53,30.04848048,-83.60445406,3,0,0,3,"Taylor, Florida, US"
@@ -2916,7 +2916,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2020-04-25 06:30:55,46.5107,-63.4168,26,0,0,26,"Prince Edward Island, Canada"
 72,,Puerto Rico,US,2020-04-25 06:30:53,18.2208,-66.5901,1276,77,0,1199,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-04-25 06:30:55,52.9399,-73.5491,22616,1340,0,21276,"Quebec, Canada"
+,,Quebec,Canada,2020-04-25 06:30:55,52.9399,-73.5491,22616,1968,0,21276,"Quebec, Canada"
 ,,Recovered,Canada,2020-04-25 06:30:55,,,0,0,15149,-15149,"Recovered, Canada"
 ,,Recovered,US,2020-04-25 06:30:53,,,0,0,99079,-99079,"Recovered, US"
 ,,Reunion,France,2020-04-25 06:30:33,-21.1151,55.5364,412,0,300,112,"Reunion, France"
@@ -3008,7 +3008,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guinea,2020-04-25 06:30:33,9.9456,-9.6966,954,6,191,757,Guinea
 ,,,Guinea-Bissau,2020-04-25 06:30:33,11.8037,-15.1804,52,0,3,49,Guinea-Bissau
 ,,,Guyana,2020-04-25 06:30:33,4.860416000000002,-58.93018000000001,73,7,12,54,Guyana
-,,,Haiti,2020-04-25 06:30:33,18.9712,-72.2852,72,6,6,60,Haiti
+,,,Haiti,2020-04-25 06:30:33,18.9712,-72.2852,62,4,6,60,Haiti
 ,,,Holy See,2020-04-25 06:30:33,41.9029,12.4534,9,0,2,7,Holy See
 ,,,Honduras,2020-04-25 06:30:33,15.2,-86.2419,591,55,58,478,Honduras
 ,,,Hungary,2020-04-25 06:30:33,47.1625,19.5033,2443,262,458,1723,Hungary
@@ -3035,7 +3035,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-04-25 06:30:33,6.4280550000000005,-9.429499,117,8,25,84,Liberia
 ,,,Libya,2020-04-25 06:30:33,26.3351,17.228331,61,2,18,41,Libya
 ,,,Liechtenstein,2020-04-25 06:30:33,47.14,9.55,81,1,55,25,Liechtenstein
-,,,Lithuania,2020-04-25 06:30:33,55.1694,23.8813,1410,40,430,940,Lithuania
+,,,Lithuania,2020-04-25 06:30:33,55.1694,23.8813,1291,28,509,940,Lithuania
 ,,,Luxembourg,2020-04-25 06:30:33,49.8153,6.1296,3695,85,3007,603,Luxembourg
 ,,,MS Zaandam,2020-04-25 06:30:33,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-04-25 06:30:33,-18.766947000000002,46.869107,122,0,61,61,Madagascar
@@ -3101,7 +3101,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Syria,2020-04-25 06:30:33,34.802075,38.99681500000001,42,3,6,33,Syria
 ,,,Taiwan*,2020-04-24 06:54:42,23.7,121.0,428,6,264,158,Taiwan*
 ,,,Tanzania,2020-04-25 06:30:33,-6.369028,34.888822,299,10,48,241,Tanzania
-,,,Thailand,2020-04-25 06:30:33,15.870032,100.992541,2907,51,2547,309,Thailand
+,,,Thailand,2020-04-25 06:30:33,15.870032,100.992541,2854,50,2490,309,Thailand
 ,,,Timor-Leste,2020-04-25 06:30:33,-8.874217,125.727539,24,0,2,22,Timor-Leste
 ,,,Togo,2020-04-25 06:30:33,8.6195,0.8248,90,6,59,25,Togo
 ,,,Trinidad and Tobago,2020-04-25 06:30:33,10.6918,-61.2225,115,8,48,59,Trinidad and Tobago
@@ -3116,7 +3116,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Venezuela,2020-04-25 06:30:33,6.4238,-66.5897,318,10,132,176,Venezuela
 ,,,Vietnam,2020-04-25 06:30:33,14.058323999999999,108.277199,270,0,220,50,Vietnam
 ,,,West Bank and Gaza,2020-04-25 06:30:33,31.9522,35.2332,484,4,92,388,West Bank and Gaza
-,,,Yemen,2020-04-25 06:30:33,15.552726999999999,48.516388,1,0,1,0,Yemen
+,,,Yemen,2020-04-25 06:30:33,15.552726999999999,48.516388,1,0,0,0,Yemen
 ,,,Zambia,2020-04-25 06:30:33,-13.133897,27.849332,84,3,37,44,Zambia
 ,,,Zimbabwe,2020-04-25 06:30:33,-19.015438,29.154857,29,4,2,23,Zimbabwe
 ,,Australian Capital Territory,Australia,2020-04-25 06:31:19,-35.4735,149.0124,105,3,88,14,"Australian Capital Territory, Australia"
