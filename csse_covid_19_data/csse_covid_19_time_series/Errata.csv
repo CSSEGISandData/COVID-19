@@ -990,3 +990,13 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/31/2021,1570,1580,Correct Nova Scotia stale confirmed data
 02/03/2021,time_series_covid19_confirmed_global.csv,Canada,02/01/2021,1570,1581,Correct Nova Scotia stale confirmed data
 02/03/2021,time_series_covid19_confirmed_global.csv,Canada,02/02/2021,1570,1582,Correct Nova Scotia stale confirmed data
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/27/2021,22646,22794,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/28/2021,22646,23038,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/29/2021,22646,23366,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/30/2021,22646,23626,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/31/2021,22646,23864,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/27/2021,268,274,"Correct Saskatchewan, Canada deaths data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/28/2021,268,285,"Correct Saskatchewan, Canada deaths data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/29/2021,268,292,"Correct Saskatchewan, Canada deaths data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/30/2021,268,300,"Correct Saskatchewan, Canada deaths data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/31/2021,268,304,"Correct Saskatchewan, Canada deaths data"
