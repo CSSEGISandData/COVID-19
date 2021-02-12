@@ -35,7 +35,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Los Angeles Times: https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/
   - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
 
-- US data sources at the state (Admin1) or county/city (Admin2) level:  
+- US data sources at the state (Admin1) or country/city (Admin2) level:  
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
   - Maryland Department of Health: https://coronavirus.maryland.gov/
   - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
