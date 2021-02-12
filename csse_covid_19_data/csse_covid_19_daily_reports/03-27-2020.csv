@@ -2742,7 +2742,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37171,Surry,North Carolina,US,2020-03-27 22:14:55,36.41689489,-80.69102283,1,0,0,0,"Surry, North Carolina, US"
 51181,Surry,Virginia,US,2020-03-27 22:14:55,37.11781893,-76.88450012,0,0,0,0,"Surry, Virginia, US"
 42115,Susquehanna,Pennsylvania,US,2020-03-27 22:14:55,41.82147784,-75.80071959,1,0,0,0,"Susquehanna, Pennsylvania, US"
-10005,Sussex,Delaware,US,2020-03-27 22:14:55,38.66143781,-75.39031349,37,1,0,0,"Sussex, Delaware, US"
+10005,Sussex,Delaware,US,2020-03-27 22:14:55,38.66143781,-75.39031349,37,0,0,0,"Sussex, Delaware, US"
 34037,Sussex,New Jersey,US,2020-03-27 22:14:55,41.13891592,-74.69118243,65,0,0,0,"Sussex, New Jersey, US"
 51183,Sussex,Virginia,US,2020-03-27 22:14:55,36.92432914,-77.25791182,0,0,0,0,"Sussex, Virginia, US"
 6101,Sutter,California,US,2020-03-27 22:14:55,39.03417539,-121.6945899,2,0,0,0,"Sutter, California, US"
