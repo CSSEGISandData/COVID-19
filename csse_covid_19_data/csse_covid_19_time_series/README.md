@@ -10,7 +10,8 @@ Three time series tables are for the global confirmed cases, recovered cases and
 
 * Once a day around 23:59 (UTC).
 
-###  Deprecated warning
+###  Deprecation warning
+
 The files below were archived [here](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data/archived_time_series), and will no longer be updated. With the release of the new data structure, we are updating our time series tables to reflect these changes. Please reference `time_series_covid19_confirmed_global.csv` and `time_series_covid19_deaths_global.csv` for the latest time series data. 
 
 * `time_series_19-covid-Confirmed.csv`
