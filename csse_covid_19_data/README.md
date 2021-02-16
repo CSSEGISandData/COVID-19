@@ -290,7 +290,7 @@ Date: Location | File | Change | Data source for change
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Alaska: Only providing data Monday and Friday.
+* Alaska: Only providing data Monday through Friday.
 * Conneticut: Not updating case, death, or recovered data on the weekends.
 * District of Columbia: Not updating on the weekends. Periodically updated using data available [here](https://coronavirus.dc.gov/data).
 * Florida: Did not update on weekend for October 10-11.
