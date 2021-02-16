@@ -227,7 +227,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - Afghanistan: http://covid.moph-dw.org/#/ and http://www.afghanistantimes.af/
   - Kazakhstan: https://www.coronavirus2020.kz/
-  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html 
+  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+  - Slovakia Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
     
 
 
