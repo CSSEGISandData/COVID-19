@@ -36,6 +36,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:  
+  - Alaska Department of Health and Social Services: https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
   - Maryland Department of Health: https://coronavirus.maryland.gov/
   - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
