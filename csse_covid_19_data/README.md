@@ -186,7 +186,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * February 02, 2021: Lithuania | Adjustment of Lithuania cases, deaths, and recovered from 2020-02-28 to 2021-02-01 based on Lithuania dashboard | All time series files and daily reports | [Dashboard](https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa)
 * February 09, 2021: Indiana, US | Redsitribution of previously identified historical deaths to unassigned category. State total reported from Department of Health was compared to time_series_covid19_deaths_us.csv and the difference was distributed to Unassigned, Indiana. | All time series files and daily reports | [Indiana source](https://www.coronavirus.in.gov/2393.htm) | We hope to receive a county level distribution from the state health department but we have not yet received a response
 * February 11, 2021: Delaware, US | As referenced in [Issue #3666](https://github.com/CSSEGISandData/COVID-19/issues), this modification is a back distribution of all Delaware deaths at the county level | All time series files and daily reports | [Delaware source]( https://myhealthycommunity.dhss.delaware.gov/locations/state#deaths-trends)
-
+* February 15, 2021: Lithuania | Adjustment of Lithuania recovered from 2020-03-19 to 2021-02-13 for updated numbers, and patched cases and deaths from 2021-02-11 to 2021-02-14 due to stale data. | All time series files and daily reports | [Dashboard](https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -290,7 +290,7 @@ Date: Location | File | Change | Data source for change
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Alaska: Only providing data Monday and Friday.
+* Alaska: Only providing data Monday through Friday.
 * Conneticut: Not updating case, death, or recovered data on the weekends.
 * District of Columbia: Not updating on the weekends. Periodically updated using data available [here](https://coronavirus.dc.gov/data).
 * Florida: Did not update on weekend for October 10-11.
