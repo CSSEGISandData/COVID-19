@@ -2742,7 +2742,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37171,Surry,North Carolina,US,2020-03-27 22:14:55,36.41689489,-80.69102283,1,0,0,0,"Surry, North Carolina, US"
 51181,Surry,Virginia,US,2020-03-27 22:14:55,37.11781893,-76.88450012,0,0,0,0,"Surry, Virginia, US"
 42115,Susquehanna,Pennsylvania,US,2020-03-27 22:14:55,41.82147784,-75.80071959,1,0,0,0,"Susquehanna, Pennsylvania, US"
-10005,Sussex,Delaware,US,2020-03-27 22:14:55,38.66143781,-75.39031349,37,1,0,0,"Sussex, Delaware, US"
+10005,Sussex,Delaware,US,2020-03-27 22:14:55,38.66143781,-75.39031349,37,0,0,0,"Sussex, Delaware, US"
 34037,Sussex,New Jersey,US,2020-03-27 22:14:55,41.13891592,-74.69118243,65,0,0,0,"Sussex, New Jersey, US"
 51183,Sussex,Virginia,US,2020-03-27 22:14:55,36.92432914,-77.25791182,0,0,0,0,"Sussex, Virginia, US"
 6101,Sutter,California,US,2020-03-27 22:14:55,39.03417539,-121.6945899,2,0,0,0,"Sutter, California, US"
@@ -3352,7 +3352,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-03-27 23:23:03,6.4280550000000005,-9.429499,3,0,0,3,Liberia
 ,,,Libya,2020-03-27 23:23:03,26.3351,17.228331,1,0,0,1,Libya
 ,,,Liechtenstein,2020-03-27 23:23:03,47.14,9.55,56,0,0,56,Liechtenstein
-,,,Lithuania,2020-03-27 23:23:03,55.1694,23.8813,292,4,7,352,Lithuania
+,,,Lithuania,2020-03-27 23:23:03,55.1694,23.8813,292,4,0,352,Lithuania
 ,,,Luxembourg,2020-03-27 23:23:03,49.8153,6.1296,1605,15,40,1550,Luxembourg
 ,,,Madagascar,2020-03-27 23:23:03,-18.766947000000002,46.869107,26,0,0,26,Madagascar
 ,,,Malaysia,2020-03-27 23:23:03,4.210483999999999,101.97576600000001,2161,26,259,1876,Malaysia
