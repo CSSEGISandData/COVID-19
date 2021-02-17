@@ -1003,3 +1003,25 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 02/15/2021,time_series_covid19_deaths_global.csv,Slovakia,02/14/2021,5812,5885,"Correct Slovakia deaths data"
 02/15/2021,time_series_covid19_confirmed_global.csv,Slovakia,02/14/2021,276234,277682,"Correct Slovakia cases data"
 02/15/2021,time_series_covid19_confirmed_global.csv,Ireland,01/28/2021,193645,192645,Correct Ireland data based on national reporting
+02/16/2021,time_series_covid19_confirmed_US.csv,"Beadle, South Dakota, US",02/15/2021,2654,2655,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Brown, South Dakota, US",02/15/2021,5062,5066,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Charles Mix, South Dakota, US",02/15/2021,1248,1251,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Clay, South Dakota, US",02/15/2021,1773,1774,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Codington, South Dakota, US",02/15/2021,3872,3878,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Day, South Dakota, US",02/15/2021,640,641,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Grant, South Dakota, US",02/15/2021,944,945,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Gregory, South Dakota, US",02/15/2021,522,523,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Hamlin, South Dakota, US",02/15/2021,682,684,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Hanson, South Dakota, US",02/15/2021,350,351,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Hughes, South Dakota, US",02/15/2021,2248,2249,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Kingsbury, South Dakota, US",02/15/2021,621,623,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Lake, South Dakota, US",02/15/2021,1164,1165,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Lawrence, South Dakota, US",02/15/2021,2789,2790,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Lincoln, South Dakota, US",02/15/2021,7588,7590,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Meade, South Dakota, US",02/15/2021,2525,2524,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Minnehaha, South Dakota, US",02/15/2021,27505,27518,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Pennington, South Dakota, US",02/15/2021,12616,12629,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Perkins, South Dakota, US",02/15/2021,340,341,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Spink, South Dakota, US",02/15/2021,789,791,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Turner, South Dakota, US",02/15/2021,1051,1053,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Yankton, South Dakota, US",02/15/2021,2771,2774,Correct stale confirmed data
