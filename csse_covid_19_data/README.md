@@ -183,7 +183,11 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 27, 2021: Missouri, US | Adjustment of St. Louis City, MO cases and deaths from 2020-03-03 to 2021-01-26 | All time series files and daily reports | [Source](https://www.stlouis-mo.gov/covid-19/data/)
 * January 28, 2021: Quebec, Canada | Adjustment of Quebec deaths from 2020-03-17 to 2021-01-27 | All time series files and daily reports | [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/)
 * February 01, 2021: Illinois, US | Adjustment of Illinois probable deaths from 2020-11-07 to 2021-01-31 | All time series files and daily reports | [Source](https://www.dph.illinois.gov/covid19)
-
+* February 02, 2021: Lithuania | Adjustment of Lithuania cases, deaths, and recovered from 2020-02-28 to 2021-02-01 based on Lithuania dashboard | All time series files and daily reports | [Dashboard](https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa)
+* February 09, 2021: Indiana, US | Redsitribution of previously identified historical deaths to unassigned category. State total reported from Department of Health was compared to time_series_covid19_deaths_us.csv and the difference was distributed to Unassigned, Indiana. | All time series files and daily reports | [Indiana source](https://www.coronavirus.in.gov/2393.htm) | We hope to receive a county level distribution from the state health department but we have not yet received a response
+* February 11, 2021: Delaware, US | As referenced in [Issue #3666](https://github.com/CSSEGISandData/COVID-19/issues), this modification is a back distribution of all Delaware deaths at the county level | All time series files and daily reports | [Delaware source]( https://myhealthycommunity.dhss.delaware.gov/locations/state#deaths-trends)
+* February 15, 2021: Lithuania | Adjustment of Lithuania recovered from 2020-03-19 to 2021-02-13 for updated numbers, and patched cases and deaths from 2021-02-11 to 2021-02-14 due to stale data. | All time series files and daily reports | [Dashboard](https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa)
+* February 16, 2021 | Ohio, US | Back distribution of deaths at the county level to correct for large release of backlogged deaths. | All time series and daily reports | [Press release](https://odh.ohio.gov/wps/portal/gov/odh/media-center/odh-news-releases/odh-news-release-02-10-20), [Data source - csv link](https://coronavirus.ohio.gov/static/dashboards/COVIDSummaryData.csv) | There are 78 deaths with an Unknown Date of Death but known county residence. For these, the data of hospital admission was used, or the date of symptom onset if hospital admission was also unknown. This avoids all 78 being placed in one day.
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -256,6 +260,9 @@ Date: Location | Change | Reason/Other notes | Source
 * December 16: California, US | California dashboard included 15,337 historical cases in their December 16 update | We pull from several sources including the California State Daashboard so it is unclear how these historical cases are distributed within our data | [Source](https://covid19.ca.gov/state-dashboard/)
 * December 17: Hidalgo, Texas, US | Reduction in cases due to double counting probable and confirmed cases | [Source 1](https://www.hidalgocounty.us/DocumentCenter/View/43316/12162020---Eight-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-377-positive-cases), [Source 2](https://www.hidalgocounty.us/DocumentCenter/View/43374/12172020---Four-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-522-positive-cases)
 * January 5: Alabama, US | Backlog of cases from the holiday period resulted in daily record of cases | Quote from source: "Case counts reported on today's update are high. Today's increase represents a delay in testing and reporting to the Alabama Department of Public Health (ADPH) due to the holiday weekends." | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* January 25: Hawaii, US | Identification of unreported COVID-19 deaths results in a statewide spike of 60 deaths | [Source](https://www.kitv.com/story/43230995/60-covid19-related-deaths-went-unreported-doh-finds)
+* February 5: Indiana, US | "Today's total deaths includes 1,507 historical deaths identified through an audit of 2020 and 2021 COVID death records and test results." | [Source](https://www.coronavirus.in.gov/2393.htm) | **See Data Mod records**
+* February 10: Ohio, US | "Ohio to add approximately 4,000 COVID-19 deaths to death total" over the next several days | [Source](https://odh.ohio.gov/wps/portal/gov/odh/media-center/odh-news-releases/odh-news-release-02-10-20) | **Back distributed, see Data Mod records**
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -280,22 +287,25 @@ Date: Location | File | Change | Data source for change
 * December 4: Guam, US | Back-distribution of probable cases and deaths from official sources | | [Guam Dashboard](https://dphss.guam.gov/covid-19/)
 * December 14: Texas, US | Back-distribution of county level probable cases as provided by the Texas Department of State Health Services | [Source](https://dshs.texas.gov/coronavirus/AdditionalData.aspx)
 * December 17: Washington, US | Back-distribution of 7,671 probable cases from present to June | Back distribution used the [Washington COVID-19 dashboard](https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard)
+* February 16, 2021 | Ohio, US | Back distribution of deaths at the county level to correct for large release of backlogged deaths. | [Data source - csv link](https://coronavirus.ohio.gov/static/dashboards/COVIDSummaryData.csv) | 
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Rhode Island: Not updating case, death, or recovered data on the weekends. Releasing county level cases and deaths once per week.
+* Alaska: Only providing data Monday through Friday.
 * Conneticut: Not updating case, death, or recovered data on the weekends.
-* Illinois: Releasing probable cases once per week.
 * District of Columbia: Not updating on the weekends. Periodically updated using data available [here](https://coronavirus.dc.gov/data).
-* Louisiana: Not updating on the weekends.
-* Michigan: No case data provided for August 21. 
-* Kansas: No data for the weekend of August 22-23.
-* Guam: Not reporting data on weekends.
-* Michigan: Not providing death data on Sundays.
 * Florida: Did not update on weekend for October 10-11.
+* Guam: Not reporting data on weekends.
+* Idaho: Not providing data on Sundays.
+* Illinois: Releasing probable cases once per week.
+* Kansas: No data for the weekend of August 22-23.
+* Louisiana: Not updating on the weekends.
+* Michigan: Not providing death data on Sundays. No case data provided for August 21.
+* Rhode Island: Not updating case, death, or recovered data on the weekends. Releasing county level cases and deaths once per week.
 * Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available. As of December 20, no longer providing updates on Sundays.
+* Wyoming: Not updating on Saturdays.
 
 International
 * Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
@@ -308,6 +318,7 @@ International
 * UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
 * Luxembourg: Not providing actionable data on weekends.
 * Mexico: Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
+* NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission. Therefore, recovery statistics are no longer presented. [Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19).
 
 
 ---

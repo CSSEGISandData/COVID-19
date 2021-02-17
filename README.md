@@ -36,6 +36,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:  
+  - Alaska Department of Health and Social Services: https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
   - Maryland Department of Health: https://coronavirus.maryland.gov/
   - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
@@ -56,7 +57,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
   - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
   - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
-  - Oregon Office of Emergency Management: https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de
+  - Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
+  - Oregon Health Authority (Weekends): https://www.oregon.gov/oha/erd/pages/covid-19-news.aspx
   - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
   - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
   - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/data.htm
@@ -216,6 +218,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
   - Government of India: https://www.mygov.in/covid-19
+  - Lithuania: https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa
   - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
@@ -224,7 +227,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - Afghanistan: http://covid.moph-dw.org/#/ and http://www.afghanistantimes.af/
   - Kazakhstan: https://www.coronavirus2020.kz/
-  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html 
+  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+  - Slovakia Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
     
 
 
