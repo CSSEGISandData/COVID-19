@@ -2672,7 +2672,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,2020-03-23 23:19:34,44.4976179,-75.06550039,0,0,0,0,"St. Lawrence, New York, US"
 27137,St. Louis,Minnesota,US,2020-03-23 23:19:34,47.604840700000004,-92.46879855,2,0,0,0,"St. Louis, Minnesota, US"
 29189,St. Louis,Missouri,US,2020-03-23 23:19:34,38.63770039999999,-90.4458375,69,1,0,0,"St. Louis, Missouri, US"
-29510,St. Louis City,Missouri,US,2020-03-23 23:19:34,38.63555736,-90.24349225,15,1,0,0,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,2020-03-23 23:19:34,38.63555736,-90.24349225,72,1,0,0,"St. Louis City, Missouri, US"
 12111,St. Lucie,Florida,US,2020-03-23 23:19:34,27.37763908,-80.47106649,5,0,0,0,"St. Lucie, Florida, US"
 22099,St. Martin,Louisiana,US,2020-03-23 23:19:34,30.13112107,-91.61403569,0,0,0,0,"St. Martin, Louisiana, US"
 22101,St. Mary,Louisiana,US,2020-03-23 23:19:34,29.69262097,-91.44702164,1,0,0,0,"St. Mary, Louisiana, US"
@@ -2860,7 +2860,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,Unassigned,Florida,US,2020-03-23 23:19:34,0.0,0.0,0,1,0,0,"Unassigned, Florida, US"
 ,Unassigned,Georgia,US,2020-03-23 23:19:34,0.0,0.0,45,10,0,0,"Unassigned, Georgia, US"
 ,Unassigned,Illinois,US,2020-03-23 23:19:34,0.0,0.0,63,0,0,0,"Unassigned, Illinois, US"
-,Unassigned,Indiana,US,2020-03-23 23:19:34,0.0,0.0,56,0,0,0,"Unassigned, Indiana, US"
+,Unassigned,Indiana,US,2020-03-23 23:19:34,0.0,0.0,56,16,0,0,"Unassigned, Indiana, US"
 ,Unassigned,Kentucky,US,2020-03-23 23:19:34,0.0,0.0,15,0,0,0,"Unassigned, Kentucky, US"
 ,Unassigned,Louisiana,US,2020-03-23 23:19:34,0.0,0.0,11,0,0,0,"Unassigned, Louisiana, US"
 ,Unassigned,Maine,US,2020-03-23 23:19:34,0.0,0.0,5,0,0,0,"Unassigned, Maine, US"
@@ -3229,7 +3229,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2020-03-23 23:23:10,46.5107,-63.4168,3,0,0,0,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,2020-03-23 23:19:34,18.2208,-66.5901,31,2,0,0,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-03-23 23:23:10,52.9399,-73.5491,628,4,0,0,"Quebec, Canada"
+,,Quebec,Canada,2020-03-23 23:23:10,52.9399,-73.5491,628,8,0,0,"Quebec, Canada"
 ,,Queensland,Australia,2020-03-23 23:23:20,-27.4698,153.0251,319,0,8,311,"Queensland, Australia"
 ,,Reunion,France,2020-03-23 23:19:21,-21.1151,55.5364,71,0,1,70,"Reunion, France"
 ,,Saint Barthelemy,France,2020-03-23 23:19:21,17.9,-62.8333,3,0,0,3,"Saint Barthelemy, France"
@@ -3315,7 +3315,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guatemala,2020-03-23 23:19:21,15.7835,-90.2308,20,1,0,19,Guatemala
 ,,,Guinea,2020-03-23 23:19:21,9.9456,-9.6966,4,0,0,4,Guinea
 ,,,Guyana,2020-03-23 23:19:21,4.860416000000002,-58.93018000000001,20,1,0,19,Guyana
-,,,Haiti,2020-03-23 23:19:21,18.9712,-72.2852,6,0,0,6,Haiti
+,,,Haiti,2020-03-23 23:19:21,18.9712,-72.2852,2,0,0,6,Haiti
 ,,,Holy See,2020-03-23 23:19:21,41.9029,12.4534,1,0,0,1,Holy See
 ,,,Honduras,2020-03-23 23:19:21,15.2,-86.2419,27,0,0,27,Honduras
 ,,,Hungary,2020-03-23 23:19:21,47.1625,19.5033,167,7,16,144,Hungary
@@ -3339,7 +3339,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Lebanon,2020-03-23 23:19:21,33.8547,35.8623,267,4,8,255,Lebanon
 ,,,Liberia,2020-03-23 23:19:21,6.4280550000000005,-9.429499,3,0,0,3,Liberia
 ,,,Liechtenstein,2020-03-23 23:19:21,47.14,9.55,51,0,0,51,Liechtenstein
-,,,Lithuania,2020-03-23 23:19:21,55.1694,23.8813,179,1,1,177,Lithuania
+,,,Lithuania,2020-03-23 23:19:21,55.1694,23.8813,128,0,0,177,Lithuania
 ,,,Luxembourg,2020-03-23 23:19:21,49.8153,6.1296,875,8,6,861,Luxembourg
 ,,,Madagascar,2020-03-23 23:19:21,-18.766947000000002,46.869107,12,0,0,12,Madagascar
 ,,,Malaysia,2020-03-23 23:19:21,4.210483999999999,101.97576600000001,1518,14,159,1345,Malaysia
