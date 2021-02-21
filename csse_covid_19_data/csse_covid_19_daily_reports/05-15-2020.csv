@@ -2653,7 +2653,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90006,Unassigned,California,US,2020-05-16 02:32:19,,,0,0,0,0,"Unassigned, California, US"
 90008,Unassigned,Colorado,US,2020-05-16 02:32:19,,,61,1,0,60,"Unassigned, Colorado, US"
 90009,Unassigned,Connecticut,US,2020-05-16 02:32:19,,,238,3,0,235,"Unassigned, Connecticut, US"
-90010,Unassigned,Delaware,US,2020-05-16 02:32:19,,,43,1,0,42,"Unassigned, Delaware, US"
+90010,Unassigned,Delaware,US,2020-05-16 02:32:19,,,43,0,0,42,"Unassigned, Delaware, US"
 90012,Unassigned,Florida,US,2020-05-16 02:32:19,,,78,0,0,78,"Unassigned, Florida, US"
 90013,Unassigned,Georgia,US,2020-05-16 02:32:19,,,1644,0,0,1644,"Unassigned, Georgia, US"
 90015,Unassigned,Hawaii,US,2020-05-16 02:32:19,,,0,0,0,0,"Unassigned, Hawaii, US"
