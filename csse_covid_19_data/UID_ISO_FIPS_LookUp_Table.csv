@@ -371,6 +371,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 48431,MX,MEX,484,,,Yucatan,Mexico,20.7099,-89.0943,"Yucatan, Mexico",2259098
 48432,MX,MEX,484,,,Zacatecas,Mexico,22.7709,-102.5832,"Zacatecas, Mexico",1666426
 48433,MX,MEX,484,,,Unknown,Mexico,,,"Unknown, Mexico",
+583,FM,FSM,583,,,,Micronesia,7.4256,150.5508,Micronesia,113815
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4033963
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,39244
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,3278292
@@ -452,6 +453,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 58606,PK,PAK,586,,,Punjab,Pakistan,30.811346,72.139132,"Punjab, Pakistan",110012442
 58607,PK,PAK,586,,,Sindh,Pakistan,26.009446,68.776807,"Sindh, Pakistan",47886051
 58608,PK,PAK,586,,,Unknown,Pakistan,,,"Unknown, Pakistan",
+585,PW,PLW,8,,,,Palau,7.5150,134.5825,Palau,18008
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,4314768
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,7132530
@@ -696,6 +698,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",4999
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,"Turks and Caicos Islands, United Kingdom",38718
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",15002
+654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",5661
 858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,33469199
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,292680
@@ -732,7 +735,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12414,CA,CAN,124,,,Grand Princess,Canada,,,"Grand Princess, Canada",
 12415,CA,CAN,124,,,Recovered,Canada,,,"Recovered, Canada",
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",38780
-156,CN,CHN,156,,,,China,30.5928,114.3055,China,1404676330
+156,CN,CHN,156,,,,China,35.8617,104.19545,China,1404676330
 15601,CN,CHN,156,,,Anhui,China,31.8257,117.2264,"Anhui, China",63240000
 15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
 15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
@@ -764,6 +767,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",24870000
 15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",48300000
 15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",57370000
+15699,CN,CHN,156,,,Unknown,China,,,"Unknown, China",
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",7496988
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",649342
 840,US,USA,840,,,,US,40,-100,US,329466283

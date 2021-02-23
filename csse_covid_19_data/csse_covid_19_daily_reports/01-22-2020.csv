@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Anhui,Mainland China,1/22/2020 17:00,1,,
 Beijing,Mainland China,1/22/2020 17:00,14,,
 Chongqing,Mainland China,1/22/2020 17:00,6,,
@@ -35,5 +35,5 @@ Xinjiang,Mainland China,1/22/2020 17:00,,,
 Yunnan,Mainland China,1/22/2020 17:00,1,,
 Zhejiang,Mainland China,1/22/2020 17:00,10,,
 ,Japan,1/22/2020 17:00,2,,
-,Thailand,1/22/2020 17:00,2,,
+,Thailand,1/22/2020 17:00,4,0,2
 ,South Korea,1/22/2020 17:00,1,,
