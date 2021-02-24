@@ -3245,6 +3245,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Recovered,US,3/30/20 22:52,0.0,0.0,0,0,5644,0,"Recovered, US"
 ,,Reunion,France,3/30/20 22:52,-21.1151,55.5364,224,0,1,223,"Reunion, France"
 ,,Saint Barthelemy,France,3/30/20 22:52,17.9,-62.8333,6,0,1,5,"Saint Barthelemy, France"
+,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,3/30/20 22:52,-7.9467,-14.3559,0,0,0,0,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom"
 ,,Saskatchewan,Canada,3/30/20 22:58,52.9399,-106.4509,156,2,0,0,"Saskatchewan, Canada"
 ,,Shaanxi,China,3/26/20 2:14,35.1917,108.8701,253,3,242,8,"Shaanxi, China"
 ,,Shandong,China,3/30/20 0:22,36.3427,118.1498,773,7,753,13,"Shandong, China"
