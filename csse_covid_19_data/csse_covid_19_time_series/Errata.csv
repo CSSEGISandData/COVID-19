@@ -1,0 +1,1055 @@
+Update Date,File,Location,Field Updated,Old,New,Comments
+4/7/2020,time_series_covid19_confirmed_US.csv,Viginia Island,3/29/2020,0,23,New York Times
+4/7/2020,time_series_covid19_confirmed_US.csv,Viginia Island,3/30/2020,0,30,New York Times
+4/7/2020,time_series_covid19_confirmed_US.csv,"DC, US",3/21/2020,0,98,New York Times
+4/7/2020,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",3/19/2020,0,101,New York Times
+4/7/2020,time_series_covid19_confirmed_US.csv,"Miami-Dade, FL",3/20/2020,0,124,New York Times
+4/7/2020,time_series_covid19_confirmed_US.csv,"Hillsborough, NH",4/2/2020,0,163,New York Times
+4/7/2020,time_series_covid19_confirmed_US.csv,"Harris, TX",3/20/2020,0,55,New York Times
+4/7/2020,time_series_covid19_confirmed_US.csv,Kansas City,3/21/2020,0,13,New York Times
+4/9/2020,time_series_covid19_confirmed_US.csv,"Box Elder, UT",3/20/2020,13,7,New York Times
+4/9/2020,time_series_covid19_confirmed_US.csv,"Union, FL",4/4/2020,10,2,New York Times
+4/9/2020,time_series_covid19_confirmed_US.csv,"Daviess, KY",3/28/2020,33,20,New York Times
+4/9/2020,time_series_covid19_confirmed_US.csv,"Washington, RI",4/2/2020,46,34,New York Times
+4/9/2020,time_series_covid19_confirmed_US.csv,"West Feliciana, LA",4/2/2020,20,10,New York Times
+4/9/2020,time_series_covid19_confirmed_US.csv,"Davidson, TN",4/2/2020,617,785,New York Times
+4/13/2020,time_series_covid19_confirmed_global.csv,Florida,4/13/2020,682619,580619,data source error
+4/13/2020,time_series_covid19_confirmed_US.csv,"Okaloosa, Florida",4/13/2020,102103,103,data source error
+4/14/2020,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/3/2020,955,623,
+4/14/2020,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/4/2020,1173,427,
+4/14/2020,time_series_covid19_deaths_US.csv,"Unassigned, NY",4/5/2020,1260,338,
+4/16/2020,time_series_covid19_deaths_global.csv,France,4/1/2020,4032,4403,add 371 decesEhpad
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/4/2020,89953,68605,only report casConfirmes
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/5/2020,92839,70478,
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/6/2020,98010,74390,
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/7/2020,109069,78167,
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/8/2020,112950,82048,
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/9/2020,117749,86334,
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/10/2020,124869,90676,
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/11/2020,129654,93790,
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/12/2020,132591,120633,casPossiblesEhpad added
+4/16/2020,time_series_covid19_confirmed_global.csv,France,4/13/2020,136779,124298,
+4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/11/2020,3,2,
+4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/12/2020,3,2,
+4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/13/2020,3,2,
+4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/14/2020,3,2,
+4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/15/2020,3,2,
+4/16/2020,time_series_covid19_confirmed_US.csv,"Sutter, California",4/16/2020,3,2,
+4/16/2020,time_series_covid19_confirmed_global.csv,US,4/11/2020,20463,20462,
+4/16/2020,time_series_covid19_confirmed_global.csv,US,4/12/2020,22020,22019,
+4/16/2020,time_series_covid19_confirmed_global.csv,US,4/13/2020,23529,23528,
+4/16/2020,time_series_covid19_confirmed_global.csv,US,4/14/2020,25832,25831,
+4/16/2020,time_series_covid19_confirmed_global.csv,US,4/15/2020,28326,28325,
+4/16/2020,time_series_covid19_confirmed_global.csv,US,4/16/2020,32917,32916,
+4/18/2020,time_series_covid19_confirmed_US.csv,all Illinois counties,4/7/2020,12271,13553,"changed at county level,"
+4/18/2020,time_series_covid19_deaths_US.csv,all Illinois counties,4/7/2020,308,380,aggregated state value
+4/18/2020,time_series_covid19_confirmed_global.csv,US,4/7/2020,396223,397505,
+4/18/2020,time_series_covid19_deaths_global.csv,US,4/7/2020,12722,12794,
+4/18/2020,time_series_covid19_confirmed_US.csv,all Illinois counties,4/9/2020,15079,16422,"changed at county level,"
+4/18/2020,time_series_covid19_deaths_US.csv,all Illinois counties,4/9/2020,462,528,aggregated state value
+4/18/2020,time_series_covid19_confirmed_global.csv,US,4/9/2020,461437,462780,
+4/18/2020,time_series_covid19_deaths_global.csv,US,4/9/2020,16478,16544,
+4/19/2020,time_series_covid19_confirmed_US.csv,"Davidson, Tennessee",4/16/2020,1492,1283,
+4/19/2020,time_series_covid19_confirmed_global.csv,US,4/16/2020,667801,667592,
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/1/2020,213372,213242,Navajo Nation correction
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/2/2020,243762,243622,Navajo Nation correction
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/3/2020,275586,275367,Navajo Nation correction
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/4/2020,308853,308650,Navajo Nation correction
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/5/2020,337072,336802,Navajo Nation correction
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/6/2020,366667,366317,Navajo Nation correction
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/7/2020,397505,397121,Navajo Nation correction
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/8/2020,429052,428654,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,3/31/2020,3873,3874,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/1/2020,4757,4760,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/2/2020,5926,5929,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/3/2020,7087,7090,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/4/2020,8407,8408,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/7/2020,12794,12794,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/8/2020,14695,14704,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/10/2020,18586,18595,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/11/2020,20462,20471,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/12/2020,22019,22029,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/13/2020,23528,23538,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/14/2020,25831,25843,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/15/2020,28325,28338,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/16/2020,32916,32930,Navajo Nation correction
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/17/2020,36773,36787,Navajo Nation correction
+4/22/2020,time_series_covid19_confirmed_US.csv,"Navajo, AZ",04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20,,,remove duplicates
+4/22/2020,time_series_covid19_confirmed_US.csv,"Coconino, AZ",04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20,,,remove duplicates
+4/22/2020,time_series_covid19_confirmed_US.csv,"Apache, AZ",04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20,,,remove duplicates
+4/22/2020,time_series_covid19_confirmed_US.csv,"San Juan, NM",04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20,,,remove duplicates
+4/22/2020,time_series_covid19_confirmed_US.csv,"McKinley, NM",04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20,,,remove duplicates
+4/22/2020,time_series_covid19_confirmed_US.csv,"Cibola, NM",04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20,,,remove duplicates
+4/22/2020,time_series_covid19_confirmed_US.csv,"Socorro, NM",04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20,,,remove duplicates
+4/22/2020,time_series_covid19_confirmed_US.csv,"San Juan, UT",04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20,,,remove duplicates
+4/22/2020,time_series_covid19_deaths_US.csv,"Navajo, AZ",3/31/20;04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20;04/09/20;04/10/20;04/11/20;04/12/20;04/13/20;04/14/20;04/15/20;04/16/20;04/17/20,,,remove duplicates
+4/22/2020,time_series_covid19_deaths_US.csv,"Coconino, AZ",3/31/20;04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20;04/09/20;04/10/20;04/11/20;04/12/20;04/13/20;04/14/20;04/15/20;04/16/20;04/17/20,,,remove duplicates
+4/22/2020,time_series_covid19_deaths_US.csv,"Apache, AZ",3/31/20;04/01/20;04/02/20;04/03/20;04/04/20;04/05/20;04/06/20;04/07/20;04/08/20;04/09/20;04/10/20;04/11/20;04/12/20;04/13/20;04/14/20;04/15/20;04/16/20;04/17/20,,,remove duplicates
+4/22/2020,time_series_covid19_deaths_US.csv,"McKinley, NM",4/4/2020,0,1,remove duplicates
+4/22/2020,time_series_covid19_confirmed_US.csv,"Unassigned, WA",4/19/2020,436,159,remove spike
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/19/2020,759086,758809,remove spike
+4/22/2020,time_series_covid19_confirmed_US.csv,US,4/21/2020,,,correction for US federal data
+4/22/2020,time_series_covid19_deaths_US.csv,US,4/21/2020,,,correction for US federal data
+4/22/2020,time_series_covid19_confirmed_global.csv,US,4/21/2020,,,correction for US federal data
+4/22/2020,time_series_covid19_deaths_global.csv,US,4/21/2020,,,correction for US federal data
+4/23/2020,time_series_covid19_confirmed_US.csv,"Benton, WA",4/21/2020,423,326,"remove 97 probable cases,"
+4/23/2020,time_series_covid19_confirmed_US.csv,"Benton, WA",4/22/2020,0,338,consistent with state report
+4/23/2020,time_series_covid19_confirmed_US.csv,"Franklin, WA",4/21/2020,266,192,"remove 74 probable cases,"
+4/23/2020,time_series_covid19_confirmed_US.csv,"Franklin, WA",4/22/2020,0,207,consistent with state report
+4/23/2020,time_series_covid19_deaths_US.csv,"Benton, WA",4/22/2020,0,35,"adjust for Benton and Franklin, WA"
+4/23/2020,time_series_covid19_deaths_US.csv,"Franklin, WA",4/22/2020,0,4,"adjust for Benton and Franklin, WA"
+4/23/2020,time_series_covid19_confirmed_global.csv,US,4/21/2020,812036,811865,"adjust for Benton and Franklin, WA"
+4/23/2020,time_series_covid19_confirmed_global.csv,US,4/22/2020,839675,840351,"adjust for Benton and Franklin, WA"
+4/23/2020,time_series_covid19_deaths_global.csv,US,4/22/2020,46583,46622,"adjust for Benton and Franklin, WA"
+4/24/2020,time_series_covid19_deaths_us.csv,"New York City, NY", 03/12/20-04/24/20,,,Adjust to back-distribute probable deaths
+4/24/2020,time_series_covid19_confirmed_us.csv,"New York City, NY",04/18/20;04/19/20;04/20/20;04/21/20;04/22/20,,,Adjust to remove probable deaths from case count
+4/25/2020,time_series_covid19_confirmed_global.csv,Ukraine,4/24/2020,8125,7647,adjust 5 min ahead
+4/26/2020,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20,,,Replace recovered cases
+4/26/2020,time_series_covid19_recovered_global.csv,New South Wales - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20,,,Replace recovered cases
+4/26/2020,time_series_covid19_recovered_global.csv,Australian Capital Territory - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20,,,Replace recovered cases
+4/26/2020,time_series_covid19_recovered_global.csv,Northern Territory - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20,,,Replace recovered cases
+4/26/2020,time_series_covid19_recovered_global.csv,South Australia - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20,,,Replace recovered cases
+4/26/2020,time_series_covid19_recovered_global.csv,Tasmania - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20,,,Replace recovered cases
+4/26/2020,time_series_covid19_recovered_global.csv,Victoria - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20,,,Replace recovered cases
+4/26/2020,time_series_covid19_recovered_global.csv,Western Australia - Australia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20,,,Replace recovered cases
+4/27/2020,time_series_covid19_confirmed_global.csv,Mexico,03/13/20;04/22/20,,,Remove duplicate entry on 13/3/20; add 10544 cases on 22/4; adjust 11632 to 12872
+4/27/2020,times_series_covid19_deaths_global.csv,Mexico,03/20/20;04/22/20,,,Remove duplicate entry on 3/20/20; add 970 deaths on 22/4; adjust 1069 to 1221
+4/28/2020,time_series_covid19_deaths_global.csv,US,All,,,Adjust deaths to reflect changes from 4/24 adjustment of NYC probable deaths
+4/30/2020,time_series_covid19_deaths_global.csv,United Kingdom,All columns,,,Adjusted all deaths to match newly released data from the United Kingdom identifying deaths in care homes
+4/30/2020,time_series_covid19_cases_global.csv,Spain,04/24/20;04/25/20;04/26/20;04/27/20;04/28/20;04/29/20,,,Cases adjusted to match official case count
+4/30/2020,time_series_covid19_recovered_global.csv,Spain,04/26/20;04/27/20;04/28/20;04/29/20,,,Recovered adjusted to match official count
+5/1/2020,time_series_covid19_cases_global.csv,Kosovo,04/19/20;04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20;04/27/20;04/28/20;04/29/20,,,Cases updated due to stale data source. Prior were stuck at 510.
+5/1/2020,time_series_covid19_deaths_global.csv,Kosovo,04/19/20;04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20;04/27/20;04/28/20;04/29/20,,,Cases updated due to stale data source. Prior were stuck at 12.
+5/1/2020,time_series_covid19_recovered_global.csv,Kosovo,04/19/20;04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20;04/27/20;04/28/20;04/29/20,,,Cases updated due to stale data source. Prior were stuck at 93.
+5/1/2020,time_series_covid19_cases_global.csv,Serbia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20;04/27/20;04/28/20;04/29/20,,,Cases updated due to stale data source. Prior were stuck at 6630.
+5/1/2020,time_series_covid19_deaths_global.csv,Serbia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20;04/27/20;04/28/20;04/29/20,,,Cases updated due to stale data source. Prior were stuck at 125.
+5/1/2020,time_series_covid19_recovered_global.csv,Serbia,04/20/20;04/21/20;04/22/20;04/23/20;04/24/20;04/25/20;04/26/20;04/27/20;04/28/20;04/29/20,,,Cases updated due to stale data source. Prior were stuck at 870.
+5/2/2020,time_series_covid19_deaths_global.csv,France,4/14-5/01,,,"Deaths updated to remove double counts of deaths in DROM. Logic = France,  France entry for date - sum(deaths in DROM for date)"
+5/2/2020,time_series_covid19_recovered_global.csv,France,4/14-5/01,,,"Recovered updated to remove double counts of recoveries in DROM. Logic = France,  France entry for date - sum(recoveries in DROM for date)"
+5/6/2020,time_series_covid19_deaths_us.csv,"84029113, Lincoln, Missouri",4/27/2020,41,1,correction
+5/6/2020,times_series_covid19_deaths_global.csv,US,4/27/2020,56259,56219,
+5/7/2020,time_series_covid19_confirmed_global.csv,Bolivia,4/28/2020,1014,1053,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_confirmed_global.csv,Bolivia,4/30/2020,1110,1167,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_confirmed_global.csv,Bolivia,5/2/2020,1229,1470,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_deaths_global.csv,Bolivia,4/28/2020,53,55,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_deaths_global.csv,Bolivia,4/30/2020,59,62,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_deaths_global.csv,Bolivia,5/2/2020,66,71,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_recovered_global.csv,Bolivia,4/28/2020,98,110,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_recovered_global.csv,Bolivia,4/30/2020,117,132,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_recovered_global.csv,Bolivia,5/2/2020,134,159,Shift datat 3-4 hours later to remove the spikes
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/12/2020,290,271,Update historical numbers to match the official report
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/13/2020,308,273,without cases from occupied Jerusalem or East Jerusalem
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/14/2020,308,284,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/15/2020,374,291,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/16/2020,374,294,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/17/2020,402,307,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/18/2020,418,313,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/19/2020,437,319,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/20/2020,449,329,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/21/2020,466,329,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/22/2020,474,335,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/23/2020,480,336,
+5/7/2020,time_series_covid19_confirmed_global.csv,West Bank and Gaza,4/24/2020,484,340,
+5/7/2020,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/19/2020,3,2,
+5/7/2020,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/20/2020,3,2,
+5/7/2020,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/21/2020,4,2,
+5/7/2020,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/22/2020,4,2,
+5/7/2020,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/23/2020,4,2,
+5/7/2020,time_series_covid19_deaths_global.csv,West Bank and Gaza,4/24/2020,4,2,
+5/7/2020,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/23/2020,92,74,
+5/7/2020,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/24/2020,92,81,
+5/7/2020,time_series_covid19_recovered_global.csv,West Bank and Gaza,4/25/2020,92,83,
+5/7/2020,time_series_covid19_confirmed_US.csv,"Box Elder and Bear River, Utah",before 4/19,,,"transfer data from Box Elder to Bear River, Utah"
+5/7/2020,time_series_covid19_confirmed_US.csv,"Weber and Weber-Morgan, Utah",before 4/19,,,"transfer data from Weber to Weber-Morgan, Utah"
+5/7/2020,time_series_covid19_deaths_US.csv,"Weber and Weber-Morgan, Utah",before 4/19,,,"transfer data from Weber to Weber-Morgan, Utah"
+5/9/2020,time_series_covid19_confirmed_US.csv,"Virginia, US",5/6/2020,20257,20985,All counties data updated
+5/9/2020,time_series_covid19_deaths_US.csv,"Virginia, US",5/6/2020,713,737,according to https://www.vdh.virginia.gov/coronavirus/
+5/9/2020,time_series_covid19_confirmed_global.csv,US,5/6/2020,1228603,1229331,
+5/9/2020,time_series_covid19_deaths_global.csv,US,5/6/2020,73431,73455,
+5/10/2020,time_series_covid19_recovered_global.csv,Uruguay,04/01/20-04/22/20,,,Recovered adjusted to match national statistics
+5/10/2020,time_series_covid19_deaths_global.csv,Uruguay,03/28/20;4/5/20;4/15/20;4/21/20,0;5;8;11,1;6;9;12,Adjusted to match national statistics
+5/10/2020,time_series_covid19_confirmed_global.csv,Uruguay,03/13/20-04/23/20,,,Confirmed adjusted to match national statistics
+5/11/2020,time_series_covid19_confirmed_global.csv,Spain,5/1/2020,213435,215216,
+5/20/2020,time_series_covid19_confirmed_US.csv,Colorado,03/05/20-04/20/20,,,update all counties with the last cases.csv for each day
+5/20/2020,time_series_covid19_deaths_US.csv,Colorado,03/12/20-04/20/20,,,update all counties with the last cases.csv for each day
+5/20/2020,time_series_covid19_confirmed_global.csv,US,03/05/20-04/20/20,,,correction made due to CO data update
+5/20/2020,time_series_covid19_deaths_global.csv,US,03/12/20-04/20/20,,,correction made due to CO data update
+5/21/2020,time_series_covid19_confirmed_global.csv,Italy,3/12/2020,12462,15113,remove spike
+5/21/2020,time_series_covid19_deaths_global.csv,Italy,3/12/2020,827,1016,remove spike
+5/27/2020,time_series_covid19_recovered_global.csv,Netherlands,all,,,all recovered data removed
+5/27/2020,time_series_covid19_confirmed_global.csv,France,05/22/20;05/23/20,179306;179306,179645;179964,stale data over weekend
+5/27/2020,time_series_covid19_deaths_global.csv,France,05/22/20;05/23/20,28167;28167,28241;28284,stale data over weekend
+5/27/2020,time_series_covid19_recovered_global.csv,France,5/22/20;05/23/20,62216;62216,62557;62893,stale data over weekend
+5/28/2020,time_series_covid19_deaths_US.csv,"Siskiyou County, CA",5/22/20;05/23/20;05/24/20;05/25/20;05/26/20;05/27/20,1,0,miscount
+5/28/2020,time_series_covid19_deaths_global.csv,,5/22/20;05/23/20;05/24/20;05/25/20;05/26/20;05/27/20,,-1,"correction for Siskiyou, CA"
+6/1/2020,time_series_covid19_confirmed_global.csv,Peru,4/28/2020,141779,148285,Stale overnight update
+6/1/2020,time_series_covid19_deaths_global.csv,Peru,4/28/2020,4099,4230,Stale overnight update
+6/2/2020,time_series_covid19_confirmed_global.csv,US,6/1/2020,1811360,1811020,Correction for Unassigned Oklahoma
+6/2/2020,time_series_covid19_deaths_global.csv,US,6/1/2020,105165,105149,Correction for Unassigned Oklahoma
+6/2/2020,time_series_covid19_confirmed_US.csv,US,6/1/2020,383,43,Correction for Unassigned Oklahoma
+6/2/2020,time_series_covid19_deaths_US.csv,US,6/1/2020,16,0,Correction for Unassigned Oklahoma
+6/4/2020,time_series_covid19_confirmed_global.csv,France,6/3/2020,110906,188836,probable case update
+6/5/2020,time_series_covid19_recovered_global.csv,Chile,06/02/20;06/03/20;06/04/20,,,updated recovered case counts in line with new reporting
+6/5/2020,time_series_covid19_recovered_global.csv,Sweden,01/22/20-06/04/20,,,updated recovered case counts in line with data modification record
+6/6/2020,time_series_covid19_confirmed_US.csv,US,6/5/2020,,,Type change for daily data from float to int
+6/6/2020,time_series_covid19_deaths_US.csv,US,6/5/2020,,,Type change for daily data from float to int
+6/6/2020,time_series_covid19_recovered_global.csv,Brazil,6/5/2020,0,266940,update per returned data
+6/6/2020,time_series_covid19_deaths_global.csv,Brazil,6/5/2020,34021,35026,update per returned data
+6/6/2020,time_series_covid19_confirmed_global.csv,Brazil,6/5/2020,614941,645771,update per returned data
+6/8/2020,time_series_covid19_deaths_US.csv,"Northern Mariana Islands, US",6/3/2020,16,14,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_US.csv,"Northern Mariana Islands, US",6/4/2020,16,14,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_US.csv,"Northern Mariana Islands, US",6/5/2020,16,14,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_US.csv,"Northern Mariana Islands, US",6/6/2020,17,15,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_US.csv,"Northern Mariana Islands, US",6/7/2020,19,17,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_global.csv,US,6/3/2020,107175,107161,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_global.csv,US,6/4/2020,108211,108197,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_global.csv,US,6/5/2020,109132,109118,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_global.csv,US,6/6/2020,109802,109787,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_deaths_global.csv,US,6/7/2020,110514,110497,"Correction for Northern Mariana Islands, US"
+6/8/2020,time_series_covid19_confirmed_US.csv,Virginia,6/7/2020,,,Updated all Virginia counties for 6/7
+6/8/2020,time_series_covid19_deaths_US.csv,Virginia,6/7/2020,,,Updated all Virginia counties for 6/7
+6/8/2020,time_series_covid19_confirmed_global.csv,US,6/7/2020,1942363,1943647,Updated for Virginia on 6/7
+6/8/2020,time_series_covid19_deaths_global.csv,US,6/7/2020,110497,110508,Updated for Virginia for 6/7
+6/10/2020,time_series_covid19_confirmed_US.csv,Michigan,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated all Michigan counties
+6/10/2020,time_series_covid19_deaths_US.csv,Michigan,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated all Michigan counties
+6/10/2020,time_series_covid19_confirmed_global.csv,US,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated for Michigan
+6/10/2020,time_series_covid19_deaths_global.csv,US,06/05/20;06/06/20;06/07/20;06/08/20;06/09/20,,,Updated for Michigan 
+6/10/2020,time_series_covid19_deaths_global.csv,Peru,6/9/2020,203736,5738,Correction for deaths in Peru
+6/10/2020,time_series_covid19_deaths_US.csv,Michigan,6/9/2020,111694,111989,Fixed MI
+6/10/2020,time_series_covid19_confirmed_global.csv,Pakistan,6/7/2020,,103671,Added data for date
+6/10/2020,time_series_covid19_deaths_global.csv,Pakistan,6/7/2020,,2067,Added data for date
+6/10/2020,time_series_covid19_recovered_global.csv,Pakistan,6/7/2020,,34355,Added data for date
+6/11/2020,time_series_covid19_confirmed_global.csv,US,6/9/2020,1973230,1979489,Resolved discrepancy 
+6/11/2020,time_series_covid19_deaths_global.csv,US,6/9/2020,111989,111994,Resolved discrepancy
+6/12/2020,time_series_covid19_confirmed_global.csv,India,6/10/2020,276583,286605,Replace with the data at the end of the day
+6/12/2020,time_series_covid19_deaths_global.csv,India,6/10/2020,7745,8498,Replace with the data at the end of the day
+6/12/2020,time_series_covid19_confirmed_global.csv,Pakistan,6/10/2020,113702,119536,timing issue
+6/12/2020,time_series_covid19_deaths_global.csv,Pakistan,6/10/2020,2255,2356,timing issue
+6/12/2020,time_series_covid19_confirmed_US.csv,St. Louis County,03/09/20-06/11/2020,,,Change data source
+6/12/2020,time_series_covid19_deaths_US.csv,St. Louis County,03/20/20-06/11/2020,,,Change data source
+6/12/2020,time_series_covid19_confirmed_US.csv,St. Louis City,03/16/20-06/11/2020,,,Change data source
+6/12/2020,time_series_covid19_deaths_US.csv,St. Louis City,03/20/20-06/11/2020,,,Change data source
+6/12/2020,time_series_covid19_confirmed_US.csv,Massachusetts,4/15/20;04/17/20-06/11/2020,,,Change data source
+6/12/2020,time_series_covid19_confirmed_global.csv,US,all days,,,county sum = country total
+6/12/2020,time_series_covid19_deaths_global.csv,US,all days,,,county sum = country total
+6/13/2020,time_series_covid19_confirmed_US.csv,Michigan,03/12/20-06/10/20,,,Revision for Michigan historical probables
+6/13/2020,time_series_covid19_deaths_US.csv,Michigan,03/12/20-06/10/20,,,Revision for Michigan historical probables
+6/13/2020,time_series_covid19_confirmed_global.csv,US,03/12/20-06/10/20,,,Revision for Michigan historical probables
+6/13/2020,time_series_covid19_deaths_global.csv,US,03/12/20-06/10/20,,,Revision for Michigan historical probables
+6/15/2020,time_series_covid19_confirmed_global.csv,India,06/11/20;06/12/20;06/13/20;06/14/20,,,Remove time lag from data
+6/15/2020,time_series_covid19_deaths_global.csv,India,06/10/20;06/11/20;06/12/20;06/13/20;06/14/20,,,Remove time lag from data
+6/15/2020,time_series_covid19_recovered_global.csv,India,06/11/20;06/12/20;06/13/20;06/14/20,,,Remove time lag from data
+6/16/2020,time_series_covid19_confirmed_US.csv,Clackamas-Oregon,6/14/2020,455,482,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Columbia-Oregon,6/14/2020,20,22,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Hood River-Oregon,6/14/2020,71,81,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Jackson-Oregon,6/14/2020,78,81,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Jefferson-Oregon,6/14/2020,65,67,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Klamath-Oregon,6/14/2020,48,51,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Lane-Oregon,6/14/2020,85,89,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Lincoln-Oregon,6/14/2020,184,206,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Linn-Oregon,6/14/2020,124,126,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Malheur-Oregon,6/14/2020,33,36,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Marion-Oregon,6/14/2020,1134,1175,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Morrow-Oregon,6/14/2020,13,15,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Multnomah-Oregon,6/14/2020,1440,1519,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Polk-Oregon,6/14/2020,117,124,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Umatilla-Oregon,6/14/2020,157,171,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Union-Oregon,6/14/2020,12,22,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Wasco-Oregon,6/14/2020,38,39,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_confirmed_US.csv,Washington-Oregon,6/14/2020,849,876,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_deaths_US.csv,Multnomah-Oregon,6/14/2020,67,68,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_deaths_US.csv,Umatilla-Oregon,6/14/2020,3,4,Delayed update from Oregon Health Authority
+6/16/2020,time_series_covid19_deaths_US.csv,Washington-Oregon,6/14/2020,19,20,Delayed update from Oregon Health Authority
+6/19/2020,time_series_covid19_cases_global.csv,Belarus,4/18/2020,4779,5297,Historic delay with Belarus reporting (https://news.tut.by/society/681391.html)
+6/19/2020,time_series_covid19_cases_global.csv,Belarus,4/19/2020,4779,5807,Historic delay with Belarus reporting (https://news.tut.by/society/681391.html)
+6/20/2020,time_series_covid19_confirmed_US.csv,North Carolina,06/18/20;06/19/20,,,Corrections for NC duplication
+6/20/2020,time_series_covid19_confirmed_US.csv,North Carolina,06/18/20;06/19/20,,,Corrections for NC duplication
+6/20/2020,time_series_covid19_confirmed_global.csv,US,06/18/20;06/19/20,,,Corrections for NC duplication
+6/20/2020,time_series_covid19_deaths_global.csv,US,06/18/20;06/19/20,,,Corrections for NC duplication
+6/22/2020,time_series_covid19_confirmed_US.csv,North Carolina,6/21/2020,,,Corrections for NC duplication
+6/22/2020,time_series_covid19_confirmed_US.csv,North Carolina,6/21/2020,,,Corrections for NC duplication
+6/22/2020,time_series_covid19_confirmed_global.csv,US,6/21/2020,,,Corrections for NC duplication
+6/22/2020,time_series_covid19_deaths_global.csv,US,6/21/2020,,,Corrections for NC duplication
+6/22/2020,time_series_covid19_confirmed_global.csv,Sweden,06/19/20;06/20/20;06/21/20,,,Corrections for Sweden duplication
+6/22/2020,time_series_covid19_deaths_global.csv,Sweden,06/19/20;06/20/20;06/21/20,,,Corrections for Sweden duplication
+6/22/2020,time_series_covid19_confirmed_global.csv,Brazil,6/20/2020,1032913,1067579,Correction for Brazil duplication
+6/23/2020,time_series_covid19_confirmed_global.csv,Peru,06/19/20;06/21/20,,,Corrections for source update delay
+6/23/2020,time_series_covid19_deaths_global.csv,Peru,06/19/20;06/21/20,,,Corrections for source update delay
+6/23/2020,time_series_covid19_recovered_global.csv,Peru,06/19/20;06/21/20,,,Corrections for source update delay
+6/24/2020,time_series_covid19_confirmed_US.csv,Oregon,6/20/2020,,,Corrections for Oregon weekend update
+6/24/2020,time_series_covid19_deaths_US.csv,Oregon,6/20/2020,,,Corrections for Oregon weekend update
+6/24/2020,time_series_covid19_confirmed_global.csv,US,6/20/2020,,,Corrections for Oregon weekend update
+6/24/2020,time_series_covid19_deaths_global.csv,US,6/20/2020,,,Corrections for Oregon weekend update
+6/25/2020,time_series_covid19_confirmed_US.csv,Iowa,6/24/2020,,,Corrections for Iowa duplication
+6/25/2020,time_series_covid19_deaths_US.csv,Iowa,6/24/2020,,,Corrections for Iowa duplication
+6/25/2020,time_series_covid19_confirmed_global.csv,US,6/24/2020,,,Corrections for Iowa duplication
+6/25/2020,time_series_covid19_deaths_global.csv,US,6/24/2020,,,Corrections for Iowa duplication
+6/25/2020,time_series_covid19_confirmed_US.csv,NV,6/23/2020,,,Corrections for Nevada duplication
+6/25/2020,time_series_covid19_deaths_US.csv,NV,6/23/2020,,,Corrections for Nevada duplication
+6/25/2020,time_series_covid19_confirmed_global.csv,US,6/23/2020,,,Corrections for Nevada duplication
+6/25/2020,time_series_covid19_deaths_global.csv,US,6/23/2020,,,Corrections for Nevada duplication
+6/28/2020,time_series_covi19_confirmed_global.csv,France,06/1/20-06/27/20,185952;184980;188836;185986;186538;187067;187360;187458;187599;187996;188354;188918;189311;189602;189670;189595;189906;190107;190676;191112;191117;191442;191730;191543;191288;192624;192430, 185952;185112;185440;186118;186670;187199;187492;187590;187925;188322;188680;189244;189637;189928;189996;190223;190534;190735;191304;191740;191745;192070;192452;192265;192010;193346;193152, issue with calculation of probable cases - see data modification records
+6/30/2020,time_series_covid19_confirmed_US.csv,"New York City, New York",6/29/2020,,,Update for stale NYC data
+6/30/2020,time_series_covid19_confirmed_global.csv,US,6/29/2020,,,Update for stale NYC data
+6/30/2020,time_series_covid19_confirmed_US.csv,"Franklin, New York",6/29/2020,,,Update for revised Franklin reporting
+6/30/2020,time_series_covid19_confirmed_global.csv,US,6/29/2020,,,Update for revised Franklin reporting
+7/1/2020,time_series_covid19_deaths_US.csv,NYC,03/11/20-06/28/20,,,Update according to nychealth
+7/1/2020,time_series_covid19_deaths_global.csv,US,03/11/20-06/28/20,,,Update according to nychealth
+7/1/2020,time_series_covid19_confirmed_US.csv,NYC,6/29/2020,,,Update in accordance with NY State data
+7/1/2020,time_series_covid19_confirmed_global.csv,US,6/29/2020,,,Update in accordance with NY State data
+7/1/2020,time_series_covid19_confirmed_US.csv,"Greenville, South Carolina",06/02/20;06/03/20;06/04/20;06/05/20;06/06/20;06/07/20,,,Update in accordance with SC state press releases
+7/1/2020,time_series_covid19_confirmed_global.csv,US,06/02/20;06/03/20;06/04/20;06/05/20;06/06/20;06/07/20,,,Update in accordance with SC state press releases
+7/1/2020,time_series_covid19_confirmed_US.csv,"Ventura, California",03/10/20-06/20/20,,,Updates to Ventura County
+7/1/2020,time_series_covid19_confirmed_global.csv,US,03/10/20-06/20/20,,,Updates to Ventura County
+7/2/2020,time_series_covid19_confirmed_US.csv,Missouri,06/27/20;06/28/20;06/29/20;06/30/20;06/31/20;07/1/20,,,Updates to Missouri
+7/2/2020,time_series_covid19_deaths_US.csv,Missouri,06/13/20-07/01/20,,,Updates to Missouri
+7/2/2020,time_series_covid19_confirmed_global.csv,Missouri,06/27/20-07/01/20,,,Updates to Missouri
+7/2/2020,time_series_covid19_deaths_global.csv,Missouri,06/13/20-07/01/20,,,Updates to Missouri
+7/2/2020,time_series_covid19_confirmed_US.csv,Massachusetts,7/1/2020,,,Updates to Massachusetts
+7/2/2020,time_series_covid19_deaths_US.csv,Massachusetts,06/16/20-07/01/20,,,Updates to Massachusetts
+7/2/2020,time_series_covid19_confirmed_global.csv,Massachusetts,7/1/2020,,,Updates to Massachusetts
+7/2/2020,time_series_covid19_deaths_global.csv,Massachusetts,06/16/20-07/01/20,,,Updates to Massachusetts
+7/2/2020,time_series_covid19_recovered_global.csv,Kazakhstan,7/1/2020,,,Correction to recoveries
+7/3/2020,time_series_covid19_confirmed_global.csv,Kazakhstan,7/1/2020,,,Correction to confirmed cases
+7/3/2020,time_series_covid19_confirmed_global.csv,United Kingdom,2/3-7/2/2020,,,Correction according to the official reports
+7/3/2020,time_series_covid19_confirmed_US.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
+7/3/2020,time_series_covid19_deaths_US.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
+7/3/2020,time_series_covid19_confirmed_global.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
+7/3/2020,time_series_covid19_deaths_global.csv,Ohio,7/2/2020,,,Updates to Ohio to align with state total
+7/4/2020,time_series_covid19_deaths_global.csv,Brazil,7/3/2020,,,Updates Brazil deaths to align with official report
+7/6/2020,time_series_covid19_confirmed_US.csv,"Harris, Texas",7/3/2020-7/6/2020,,,Update reporting from county
+7/6/2020,time_series_covid19_confirmed_global.csv,US,7/3/2020-7/6/2020,,,Update based on Harris County revision
+7/6/2020,time_series_covid19_deaths_US.csv,"Harris, Texas",7/3/2020-7/6/2020,,,Update reporting from county
+7/6/2020,time_series_covid19_deaths_global.csv,US,7/3/2020-7/6/2020,,,Update based on Harris County revision
+7/8/2020,time_series_covid19_confirmed_global.csv,Japan,2/5-5/27/2020,,,Update according to covid19japan
+7/8/2020,time_series_covid19_deaths_global.csv,Japan,2/13-5/27/2020,,,Update according to covid19japan
+7/9/2020,time_series_covid19_recovered_global.csv,Kazakhstan,7/8/2020,,,Update for Kazakhstan source
+7/9/2020,time_series_covid19_recovered_global.csv,US,7/8/2020,,,Update to Delaware
+7/14/2020,time_series_covid19_confirmed_US.csv,Washington,7/13/2020,,,Update from Washington DOH reporting
+7/14/2020,time_series_covid19_confirmed_global.csv,US,7/13/2020,,,Update from Washington DOH reporting
+7/14/2020,time_series_covid19_deaths_US.csv,Washington,7/13/2020,,,Update from Washington DOH reporting
+7/14/2020,time_series_covid19_deaths_global.csv,US,7/13/2020,,,Update from Washington DOH reporting
+7/14/2020,time_series_covid19_confirmed_global.csv,US,6/2/2020,170039,178165,Update from Peru MDS
+7/14/2020,time_series_covid19_deaths_global.csv,US,6/2/2020,4634,4767,Update from Peru MDS
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/1/2020,50273,50335,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/2/2020,50335,50412,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/3/2020,50335,50487,Stale data update
+7/15/2020,time_series_covid19_cases_global.csv,Netherlands,7/4/2020,50335,50548,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/1/2020,6113,6115,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/2/2020,6113,6118,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/3/2020,6113,6120,Stale data update
+7/15/2020,time_series_covid19_deaths_global.csv,Netherlands,7/4/2020,6113,6126,Stale data update
+7/15/2020,time_series_covid19_confirmed_US.csv,"Granville, NC",4/27/2020,240,133,Correction
+7/15/2020,time_series_covid19_confirmed_global.csv,US,4/27/2020,990999,990892,Correction
+7/15/2020,time_series_covid19_confirmed_US.csv,"Dent, MO",5/13/2020-6/22/2020,,,Update via Dent County Health Center data
+7/15/2020,time_series_covid19_confirmed_US.csv,"Douglas, MO",5/30/2020-6/11/2020,,,Update via Douglas County Health Department data
+7/15/2020,time_series_covid19_confirmed_global.csv,US,5/13/2020-6/22/2020,,,Corrections in line with Dent and Douglas County updates
+7/16/2020,time_series_covid19_confirmed_global.csv,Honduras,7/14/2020,,,Correction from MOH
+7/16/2020,time_series_covid19_deaths_global.csv,Honduras,7/14/2020,,,Correction from MOH
+7/16/2020,time_series_covid19_recovered_global.csv,Honduras,7/14/2020,,,Correction from MOH
+7/16/2020,time_series_covid19_confirmed_US.csv,"Dallas, TX",4/21;4/27;4/29;5/12;5/20;5/30;6/28;7/10;7/15/2020,,,Update from Dallas County reporting
+7/16/2020,time_series_covid19_confirmed_global.csv,US,4/21;4/27;4/29;5/12;5/20;5/30;6/28;7/10;7/15/2020,,,Update from Dallas County reporting
+7/16/2020,time_series_covid19_deaths_US.csv,"Dallas, TX",4/21;4/27;4/29;5/12;5/20;5/30;6/28;7/10;7/15/2020,,,Update from Dallas County reporting
+7/16/2020,time_series_covid19_deaths_global.csv,US,4/21;4/27;4/29;5/12;5/20;5/30;6/28;7/10;7/15/2020,,,Update from Dallas County reporting
+7/17/2020,time_series_covid19_confirmed_global.csv,Colombia,3-16-3/20;4/18;5/28-7/16/2020,,,Update from contemporaneous reporting of Instituto Nacional De Salud
+7/17/2020,time_series_covid19_deaths_global.csv,Colombia,3-16-3/20;4/18;5/28-7/16/2020,,,Update from contemporaneous reporting of Instituto Nacional De Salud
+7/17/2020,time_series_covid19_confirmed_global.csv,Guatemala,7/18/2020,33809,38042,Update in line with changed reporting from Ministry of Health and Social Welfare
+7/17/2020,time_series_covid19_deaths_global.csv,Guatemala,7/18/2020,1443,1449,Update in line with changed reporting from Ministry of Health and Social Welfare
+7/17/2020,time_series_covid19_recovered_global.csv,Guatemala,7/18/2020,4989,23365,Update in line with changed reporting from Ministry of Health and Social Welfare
+7/21/2020,time_series_covid19_confirmed_US.csv,"Philadelphia, PA",7/20/2020,,,Update from Philadelphia DOH
+7/21/2020,time_series_covid19_confirmed_global.csv,US,7/20/2020,,,Update from Philadelphia DOH
+7/21/2020,time_series_covid19_deaths_US.csv,"Philadelphia, PA",7/20/2020,,,Update from Philadelphia DOH
+7/21/2020,time_series_covid19_deaths_global.csv,US,7/20/2020,,,Update from Philadelphia DOH
+7/22/2020,time_series_covid19_confirmed_global.csv,Iceland,6/15-7/20,,,Update according to https://www.covid.is/
+7/22/2020,time_series_covid19_recovered_global.csv,Iceland,6/15-7/20,,,Update according to https://www.covid.is/
+7/22/2020,time_series_covid19_confirmed_global.csv,China,7/16-7/21/2020,,,Update from DXY
+7/22/2020,time_series_covid19_deaths_global.csv,China,7/16-7/21/2020,,,Update from DXY
+7/22/2020,time_series_covid19_recovered_global.csv,China,7/16-7/21/2020,,,Update from DXY
+7/22/2020,time_series_covid19_confirmed_global.csv,Chile,7/20/2020,,,Update from Ministerio de Ciencia
+7/22/2020,time_series_covid19_deaths_global.csv,Chile,7/20/2020,,,Update from Ministerio de Ciencia
+7/22/2020,time_series_covid19_recovered_global.csv,Chile,7/20/2020,,,Update from Ministerio de Ciencia
+7/22/2020,time_series_covid19_confirmed_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
+7/22/2020,time_series_covid19_deaths_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
+7/22/2020,time_series_covid19_recovered_global.csv,Peru,7/20/2020,,,Update from Ministerio de Salud
+7/23/2020,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma",7/22/2020,821,0,OK data correction
+7/23/2020,time_series_covid19_confirmed_global.csv,US,7/22/2020,3970906,3970085,OK data correction
+7/23/2020,time_series_covid19_confirmed_global.csv,Chile,7/22/2020,,,Update from Ministerio de Ciencia
+7/23/2020,time_series_covid19_deaths_global.csv,Chile,7/22/2020,,,Update from Ministerio de Ciencia
+7/23/2020,time_series_covid19_recovered_global.csv,Chile,7/22/2020,,,Update from Ministerio de Ciencia
+7/24/2020,time_series_covid19_confirmed_US.csv,"Lancaster, Pennsylvania",7/22-7/23/2020,,,PA data correction
+7/24/2020,time_series_covid19_confirmed_global.csv,US,7/22-7/23/2020,,,PA data correction
+7/24/2020,time_series_covid19_deaths_US.csv,"Unassigned, Louisiana",7/20-7/23/2020,,,LA probables data correction
+7/24/2020,time_series_covid19_deaths_global.csv,US,7/20-7/23/2020,,,LA probables data correction
+7/25/2020,time_series_covid19_confirmed_global.csv,Brazil,7/24/2020,,,Correction for stale data
+7/25/2020,time_series_covid19_deaths_US.csv,"Val Verde, Texas",7/21-7/24/2020,,,Update from City of Del Rio
+7/25/2020,time_series_covid19_deaths_global.csv,US,7/21-7/24/2020,,,Update from City of Del Rio
+7/26/2020,time_series_covid19_confirmed_US.csv,Oregon,7/25/2020,,,Update from OR Health Authority
+7/26/2020,time_series_covid19_confirmed_global.csv,US,7/25/2020,,,Update from OR Health Authority
+7/26/2020,time_series_covid19_deaths_US.csv,Oregon,7/25/2020,,,Update from OR Health Authority
+7/26/2020,time_series_covid19_deaths_global.csv,US,7/25/2020,,,Update from OR Health Authority
+7/26/2020,time_series_covid19_confirmed_US.csv,Idaho,7/25/2020,,,Update from ID DOH
+7/26/2020,time_series_covid19_confirmed_global.csv,US,7/25/2020,,,Update from ID DOH
+7/26/2020,time_series_covid19_deaths_US.csv,Idaho,7/25/2020,,,Update from ID DOH
+7/26/2020,time_series_covid19_deaths_global.csv,US,7/25/2020,,,Update from ID DOH
+7/28/2020,time_series_covid19_confirmed_global.csv,Netherlands,7/26/2020,52732,53005,data from the end of the day
+7/28/2020,time_series_covid19_deaths_global.csv,Netherlands,7/26/2020,6140,6159,data from the end of the day
+7/28/2020,time_series_covid19_confirmed_global.csv,Spain,7/27/2020,,,Update from Ministerio de Sanidad
+7/28/2020,time_series_covid19_deaths_global.csv,Spain,7/27/2020,,,Update from Ministerio de Sanidad
+7/28/2020,time_series_covid19_confirmed_US.csv,District of Columbia,7/27/2020,,,Update DC from DC gov
+7/28/2020,time_series_covid19_deaths_US.csv,District of Columbia,7/27/2020,,,Update DC from DC gov
+7/28/2020,time_series_covid19_confirmed_global.csv,US,7/27/2020,,,Update DC from DC gov
+7/28/2020,time_series_covid19_deaths_global.csv,US,7/27/2020,,,Update DC from DC gov
+7/28/2020,time_series_covid19_confirmed_global.csv,Kosovo,3/14-7/26/2020,,,Update Kosovo from IKSHPK and other sources
+7/28/2020,time_series_covid19_deaths_global.csv,Kosovo,3/14-7/26/2020,,,Update Kosovo from IKSHPK and other sources
+7/28/2020,time_series_covid19_recovered_global.csv,Kosovo,3/14-7/26/2020,,,Update Kosovo from IKSHPK and other sources
+7/29/2020,time_series_covid19_confirmed_global.csv,Peru,3/14-7/26/2020,,,Update Peru from MINSA
+7/29/2020,time_series_covid19_deaths_global.csv,Peru,3/14-7/26/2020,,,Update Peru from MINSA
+7/29/2020,time_series_covid19_confirmed_US.csv,Georgia,7/28/2020,,,Update from GDPH
+7/29/2020,time_series_covid19_deaths_US.csv,Georgia,7/28/2020,,,Update from GDPH
+7/29/2020,time_series_covid19_confirmed_global.csv,US,7/28/2020,,,Update from GDPH
+7/29/2020,time_series_covid19_deaths_global.csv,US,7/28/2020,,,Update from GDPH
+7/29/2020,time_series_covid19_confirmed_global.csv,India,7/28/2020,1483156,1531669,Update India from MOH
+7/29/2020,time_series_covid19_deaths_global.csv,India,7/28/2020,33425,34193,Update India from MOH
+7/29/2020,time_series_covid19_recovered_global.csv,India,7/28/2020,28 952743,98802,Update India from MOH
+7/30/2020,time_series_covid19_deaths_global.csv,Mexico,7/25/2020,42645,43347,Update Mexico from reporting
+7/30/2020,time_series_covid19_deaths_US.csv,"Hidalgo, Texas",7/28-7/29/2020,,,Update from Hidalgo County
+7/30/2020,time_series_covid19_deaths_global.csv,US,7/28-7/29/2020,,,Update from Hidalgo County
+7/31/2020,time_series_covid19_confirmed_US.csv,Massachusetts,7/30/2020,,,Update from MA
+7/31/2020,time_series_covid19_confirmed_global.csv,US,7/30/2020,,,Update from MA
+7/31/2020,time_series_covid19_confirmed_global.csv,Colombia,7/30/2020,,,Update Colombia from INDS
+7/31/2020,time_series_covid19_deaths_global.csv,Colombia,7/30/2020,,,Update Colombia from INDS
+7/31/2020,time_series_covid19_recovered_global.csv,Colombia,7/30/2020,,,Update Colombia from INDS
+8/2/2020,time_series_covid19_confirmed_global.csv,Philippines,7/30-7/31/2020,,,Update Phillippines from DOH
+8/2/2020,time_series_covid19_deaths_global.csv,Philippines,7/30-7/31/2020,,,Update Philippines from DOH
+8/2/2020,time_series_covid19_recovered_global.csv,Philippines,7/30-7/31/2020,,,Update Philippines from DOH
+8/2/2020,time_series_covid19_confirmed_global.csv,"Victoria, Australia",8/1/2020,,,Update Victoria from DOH
+8/2/2020,time_series_covid19_deaths_global.csv,"Victoria, Australia",8/1/2020,,,Update Victoria from DOH
+8/3/2020,time_series_covid19_confirmed_global.csv,"Victoria, Australia",8/2/2020,,,Update Victoria from DOH
+8/3/2020,time_series_covid19_deaths_global.csv,"Victoria, Australia",8/2/2020,,,Update Victoria from DOH
+8/3/2020,time_series_covid19_recovered_global.csv,"Victoria, Australia",8/2/2020,,,Update Victoria from DOH
+8/3/2020,time_series_covid19_confirmed_global.csv,Colombia,7/26/2020,,,Update Colombia from MS
+8/3/2020,time_series_covid19_deaths_global.csv,Colombia,7/26/2020,,,Update Colombia from DOH
+8/3/2020,time_series_covid19_recovered_global.csv,Colombia,7/26/2020,,,Update Colombia from DOH
+8/4/2020,time_series_covid19_confirmed_US.csv,Georgia,7/31-8/2/2020,,,Update from DC 
+8/4/2020,time_series_covid19_deaths_US.csv,Georgia,7/31-8/2/2020,,,Update from DC
+8/4/2020,time_series_covid19_confirmed_global.csv,US,7/31-8/2/2020,,,Update from DC
+8/4/2020,time_series_covid19_deaths_global.csv,US,7/31-8/2/2020,,,Update from DC
+8/4/2020,time_series_covid19_deaths_US.csv,Indiana,5/2-5/5/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,New Hampshire,5/15/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,New Mexico,5/23/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,5/21/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,North Carolina,6/21/2020,,,Retrospective from New York Times
+8/4/2020,time_series_covid19_deaths_US.csv,South Carolina,6/3-6/6/2020,,,Retrospective from New York Times
+8/5/2020,time_series_covid19_deaths_global.csv,US,3/17-6/24/2020,,,Internal consistency for US
+8/5/2020,time_series_covid19_deaths_US.csv,"Webb, Texas",7/26-8/4/2020,,,Update from City of Laredo 
+8/5/2020,time_series_covid19_deaths_global.csv,US,7/26-8/4/2020,,,Update from City of Laredo
+8/6/2020,time_series_covid19_deaths_US.csv,"Harris, Texas",3/7-8/5/2020,,,Alignment of Harris County to state 
+8/6/2020,time_series_covid19_deaths_global.csv,US,3/7-8/5/2020,,,Alignment of Harris County to state
+8/6/2020,time_series_covid19_confirmed_global.csv,US,8/4-8/5/2020,,,Update United Kingdom from GOV.UK
+8/6/2020,time_series_covid19_deaths_global.csv,US,8/4-8/5/2020,,,Update United Kingdom from GOV.UK
+8/7/2020,time_series_covid19_confirmed_global.csv,US,8/6/2020,,,Update Peru from MINSA
+8/7/2020,time_series_covid19_deaths_global.csv,US,8/6/2020,,,Update Peru from MINSA
+8/12/2020,time_series_covid19_confirmed_global.csv,Netherlands,8/11/2020,-1,59424,Update from error in product generation
+8/12/2020,time_series_covid19_deaths_global.csv,Netherlands,8/11/2020,-1,6141,Update from error in product generation
+8/12/2020,time_series_covid19_recovered_global.csv,Netherlands,8/11/2020,-1,0,Update from error in product generation
+8/12/2020,time_series_covid19_confirmed_global.csv,Macau,8/11/2020,-1,46,Update from error in product generation
+8/12/2020,time_series_covid19_deaths_global.csv,Macau,8/11/2020,-1,0,Update from error in product generation
+8/12/2020,time_series_covid19_recovered_global.csv,Macau,8/11/2020,-1,46,Update from error in product generation
+8/12/2020,time_series_covid19_confirmed_global.csv,Hong Kong,8/11/2020,-1,4181,Update from error in product generation
+8/12/2020,time_series_covid19_deaths_global.csv,Hong Kong,8/11/2020,-1,59,Update from error in product generation
+8/12/2020,time_series_covid19_recovered_global.csv,Hong Kong,8/11/2020,-1,3052,Update from error in product generation
+8/12/2020,time_series_covid19_confirmed_global.csv,Brazil,8/11/2020,,,Update from Secretarias Estaduais de Saude
+8/12/2020,time_series_covid19_deaths_global.csv,Brazil,8/11/2020,,,Update from Secretarias Estaduais de Saude
+8/12/2020,time_series_covid19_confirmed_global.csv,Peru,8/11/2020,,,Update Peru from MINSA
+8/12/2020,time_series_covid19_deaths_global.csv,Peru,8/11/2020,,,Update Peru from MINSA
+8/12/2020,time_series_covid19_deaths_US.csv,"Orange, North Carolina",8/11/2020,,,Update from NCDHHS 
+8/12/2020,time_series_covid19_deaths_global.csv,US,8/11/2020,,,Update from NCDHHS
+8/13/2020,time_series_covid19_confirmed_US.csv,"Unassigned,Massachusetts",8/12/2020,,,Update from MA Dashboard & Weekly
+8/13/2020,time_series_covid19_deaths_US.csv,"Unassigned,Massachusetts",8/12/2020,,,Update from MA Dashboard & Weekly
+8/13/2020,time_series_covid19_confirmed_global.csv,US,8/12/2020,,,Update from MA Dashboard & Weekly
+8/13/2020,time_series_covid19_deaths_global.csv,US,8/12/2020,,,Update from MA Dashboard & Weekly
+8/13/2020,time_series_covid19_deaths_US.csv,"Orange, North Carolina",8/12/2020,,,Update from NCDHHS 
+8/13/2020,time_series_covid19_deaths_global.csv,US,8/12/2020,,,Update from NCDHHS
+8/15/2020,time_series_covid19_confirmed_US.csv,"Unassigned,Massachusetts",8/13-8/14/2020,,,Update from MA Dashboard Raw Data
+8/15/2020,time_series_covid19_deaths_US.csv,"Unassigned,Massachusetts",8/13-8/14/2020,,,Update from MA Dashboard Raw Data
+8/15/2020,time_series_covid19_confirmed_global.csv,US,8/13-8/14/2020,,,Update from MA Dashboard Raw Data
+8/15/2020,time_series_covid19_deaths_global.csv,US,8/13-8/14/2020,,,Update from MA Dashboard Raw Data
+8/17/2020,time_series_covid19_confirmed_global.csv,Brazil,8/14/2020,3226443,3275520,Match up with the official report
+8/17/2020,time_series_covid19_deaths_global.csv,Brazil,8/14/2020,105490,106523,Match up with the official report
+8/22/2020,time_series_covid19_deaths_US.csv,Colorado,8/21/2020,,,Update from CO DPH
+8/22/2020,time_series_covid19_deaths_global.csv,US,8/21/2020,,,Update from CO DPH
+9/5/2020,time_series_covid19_confirmed_global.csv,Bahamas,8/22/2020,1703,1765,Update from Bahamas press release
+9/5/2020,time_series_covid19_confirmed_global.csv,Bahamas,8/23/2020,1765,1784,Update from Bahamas press release
+9/5/2020,time_series_covid19_confirmed_global.csv,Bahamas,8/24/2020,1765,1798,Update from Bahamas press release
+9/5/2020,time_series_covid19_confirmed_global.csv,Bahamas,8/25/2020,1765,1813,Update from Bahamas press release
+9/5/2020,time_series_covid19_confirmed_global.csv,Bahamas,8/26/2020,1765,1923,Update from Bahamas press release
+9/5/2020,time_series_covid19_confirmed_global.csv,Bahamas,8/27/2020,1765,2020,Update from Bahamas press release
+9/5/2020,time_series_covid19_deaths_global.csv,Bahamas,8/23/2020,29,44,Update from Bahamas press release
+9/5/2020,time_series_covid19_deaths_global.csv,Bahamas,8/24/2020,29,46,Update from Bahamas press release
+9/5/2020,time_series_covid19_deaths_global.csv,Bahamas,8/25/2020,29,48,Update from Bahamas press release
+9/5/2020,time_series_covid19_deaths_global.csv,Bahamas,8/26/2020,29,48,Update from Bahamas press release
+9/5/2020,time_series_covid19_recovered_global.csv,Bahamas,8/22/2020,221,227,Update from Bahamas press release
+9/5/2020,time_series_covid19_recovered_global.csv,Bahamas,8/23/2020,227,634,Update from Bahamas press release
+9/5/2020,time_series_covid19_recovered_global.csv,Bahamas,8/24/2020,227,634,Update from Bahamas press release
+9/5/2020,time_series_covid19_recovered_global.csv,Bahamas,8/25/2020,227,634,Update from Bahamas press release
+9/5/2020,time_series_covid19_recovered_global.csv,Bahamas,8/26/2020,227,733,Update from Bahamas press release
+9/5/2020,time_series_covid19_recovered_global.csv,Bahamas,8/27/2020,227,742,Update from Bahamas press release
+9/8/2020,time_series_covid19_confirmed_global.csv,Colombia,8/22/2020,522138,533103,Update from Colombia news source
+9/8/2020,time_series_covid19_confirmed_global.csv,Colombia,9/4/2020,641574,650063,Update from Colombia news source
+9/8/2020,time_series_covid19_confirmed_global.csv,Colombia,9/5/2020,650055,658456,Update from Colombia news source
+9/8/2020,time_series_covid19_confirmed_global.csv,Colombia,9/7/2020,666521,671848,Update from Colombia news source
+9/8/2020,time_series_covid19_deaths_global.csv,Colombia,8/22/2020,16568,16968,Update from Colombia news source
+9/8/2020,time_series_covid19_deaths_global.csv,Colombia,9/4/2020,20618,20888,Update from Colombia news source
+9/8/2020,time_series_covid19_deaths_global.csv,Colombia,9/5/2020,20886,21156,Update from Colombia news source
+9/8/2020,time_series_covid19_deaths_global.csv,Colombia,9/7/2020,21412,21615,Update from Colombia news source
+9/8/2020,time_series_covid19_recovered_global.csv,Colombia,8/22/2020,348940,359792,Update from Colombia news source
+9/8/2020,time_series_covid19_recovered_global.csv,Colombia,9/4/2020,489151,498221,Update from Colombia news source
+9/8/2020,time_series_covid19_recovered_global.csv,Colombia,9/5/2020,498219,507770,Update from Colombia news source
+9/8/2020,time_series_covid19_recovered_global.csv,Colombia,9/7/2020,518229,529279,Update from Colombia news source
+9/25/2020,time_series_covid19_confirmed_US.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020",,,
+9/25/2020,time_series_covid19_deaths_US.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020",,,
+9/25/2020,time_series_covid19_confirmed_global.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020",,,
+9/25/2020,time_series_covid19_deaths_global.csv,Wisconsin,"09/15/2020, 09/16/2020, 09/17/2020",,,
+10/5/2020,time_series_covid19_confirmed_global.csv,Czechia,9/30/2020,68919,70763,Update from mzcr website
+10/5/2020,time_series_covid19_confirmed_global.csv,Netherlands,9/27/2020,108361,111626,Update via Netherlands dashboard
+10/5/2020,time_series_covid19_confirmed_global.csv,Netherlands,9/28/2020,110671,114540,Update via Netherlands dashboard
+10/5/2020,time_series_covid19_deaths_global.csv,Netherlands,9/27/2020,6366,6374,Update via Netherlands dashboard
+10/5/2020,time_series_covid19_deaths_global.csv,Netherlands,9/28/2020,6366,6380,Update via Netherlands dashboard
+10/6/2020,time_series_covid19_deaths_global.csv,Liechtenstein,6/30/2020,2,1,correction
+10/8/2020,time_series_covid19_deaths_global.csv,Kosovo,7/21/2020 -10/7/2020,,,Updated via https://corona-ks.info/?lang=en
+10/8/2020,time_series_covid19_confirmed_global.csv,Kosovo,7/21/2020 -10/7/2021,,,Updated via https://corona-ks.info/?lang=en
+10/8/2020,time_series_covid19_recovered_global.csv,Kosovo,7/21/2020 -10/7/2022,,,Updated via https://corona-ks.info/?lang=en
+10/9/2020,time_series_covid19_recovered_global.csv,Northern Territory,8/15/2020 -10/8/2022,31,33,Updated via Covidlive Australia
+10/13/2020,time_series_covid19_deaths_global.csv,Germany,10/8/2020,9545,9594,Updated via [Berliner Morgenpost](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
+10/15/2020,time_series_covid19_confirmed_global.csv,Colombia,9/8/2020,671533,679513,Update via national report
+10/15/2020,time_series_covid19_deaths_global.csv,Colombia,9/8/2020,21611,21817,Update via national report
+10/15/2020,time_series_covid19_recovered_global.csv,Colombia,9/8/2020,529017,541462,Update via national report
+10/19/2020,time_series_covid19_confirmed_US.csv,Alaska,,,,Changed name from Lake and Peninsula to Bristol Bay plus Lake and Peninsula
+10/19/2020,time_series_covid19_deaths_US.csv,Alaska,,,,Changed name from Lake and Peninsula to Bristol Bay to Bristol Bay plus Lake and Peninsula. 
+10/20/2020,time_series_covid19_confirmed_global.csv,Netherlands,10/5/2020,135892,140471,[Source](https://nltimes.nl/2020/10/05/daily-coronavirus-infections-near-4600-breaking-record-575)
+10/21/2020,time_series_covid19_confirmed_global.csv,Kosovo,"10/20/2020, 10/17/2020, 10/9/2020, 10/8/2020",,,Updated via https://corona-ks.info/?lang=en
+10/21/2020,time_series_covid19_recovered_global.csv,Kosovo,"10/20/2020, 10/17/2020, 10/9/2020, 10/8/2020",,,Updated via https://corona-ks.info/?lang=en
+10/21/2020,time_series_covid19_deaths_global.csv,Kosovo,"10/20/2020, 10/17/2020, 10/9/2020, 10/8/2020",,,Updated via https://corona-ks.info/?lang=en
+10/26/2020,time_series_covid19_deaths_global.csv,Kosovo,10/25/2020 - 10/21/2020,,,Updated via https://corona-ks.info/?lang=en
+10/26/2020,time_series_covid19_confirmed_global.csv,Kosovo,10/25/2020 - 10/21/2020,,,Updated via https://corona-ks.info/?lang=en
+10/26/2020,time_series_covid19_recovered_global.csv,Kosovo,10/25/2020 - 10/21/2020,,,Updated via https://corona-ks.info/?lang=en
+10/27/2020,time_series_covid19_confirmed_global.csv,France,10/24/2020,1048817,1048842,Updated to hold value from 10/23/20 steady due to unstable reporting over weekend
+10/27/2020,time_series_covid19_confirmed_global.csv,France,10/25/2020,1094239,1048842,Updated to hold value from 10/23/20 steady due to unstable reporting over weekend
+10/27/2020,time_series_covid19_deaths_global.csv,France,10/25/2020,34373,34236,Updated to hold value from 10/23/20 steady due to unstable reporting over weekend
+10/27/2020,time_series_covid19_recovered_global.csv,France,10/25/2020,90436,89600,Updated to hold value from 10/23/20 steady due to unstable reporting over weekend
+10/27/2020,time_series_covid19_deaths_global.csv,Brazil,10/25/2020,,,Updated via https://github.com/wcota/covid19br/blob/e3b244d291c31e7ae5a9a0e7dd29b6ba5085bfce/cases-brazil-total.csv
+10/27/2020,time_series_covid19_confirmed_global.csv,Brazil,10/25/2020,,,Updated via https://github.com/wcota/covid19br/blob/e3b244d291c31e7ae5a9a0e7dd29b6ba5085bfce/cases-brazil-total.csv
+10/27/2020,time_series_covid19_confirmed_US.csv,Alaska,3/13-10/26/2020,,,Add Alaska non-resident cases adjusted by the collection date
+10/27/2020,time_series_covid19_confirmed_global.csv,US,3/13-10/26/2020,,,Add Alaska non-resident cases
+10/31/2020,time_series_covid19_recovered_global.csv,Colombia,10/30/2020,95870,959433,Update national recoveries using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,10/28/2020,1041936,1041935,Update using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,10/29/2020,1048055,1053122,Update using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,10/30/2020,1053122,1063151,Update using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,10/31/2020,1073809,1074184,Update using official source
+11/02/2020,time_series_covid19_confirmed_global.csv,Colombia,11/01/2020,1082767,1083321,Update using official source
+11/02/2020,time_series_covid19_deaths_global.csv,Colombia,10/25/2020,30000,30154,Update using official source
+11/02/2020,time_series_covid19_deaths_global.csv,Colombia,10/30/2020,31421,31135,Update using official source
+11/02/2020,time_series_covid19_deaths_global.csv,Colombia,10/31/2020,31598,31314,Update using official source
+11/02/2020,time_series_covid19_deaths_global.csv,Colombia,11/01/2020,31796,31515,Update using official source
+11/02/2020,time_series_covid19_recovered_global.csv,Colombia,10/31/2020,968927,977371,Update using official source
+11/02/2020,time_series_covid19_recovered_global.csv,Colombia,11/01/2020,969230,977804,Update using official source
+11/03/2020,time_series_covid19_recovered_global.csv,Iceland,11/01/2020,4890,3948,Update to official source
+11/03/2020,time_series_covid19_recovered_global.csv,Iceland,11/02/2020,4931,4010,Update to official source
+11/03/2020,time_series_covid19_cases_global.csv,Colombia,11/02/2020,1004308,1093256,Update using official data
+11/04/2020,time_series_covid19_cases_global.csv,Germany,10/23/24/28 and 11/1,,,Adjust update time
+11/04/2020,time_series_covid19_deaths_global.csv,Germany,10/23/28 and 11/1,,,Adjust update time
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/24/20,5933,5934,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/25/20,5933,5941,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/26/20,5933,5951,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/27/20,5918,5959,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/28/20,5927,5963,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/29/20,5934,5966,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/30/20,5938,5972,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,10/31/20,5938,5977,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/01/20,5938,5980,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/02/20,5938,5987,Update to official data
+11/05/2020,time_series_covid19_deaths_global.csv,Sweden,11/03/20,5969,5989,Update to official data
+11/05/2020,time_series_covid19_confirmed_global.csv,France,11/02/2020,1419295,1471091,Scrapper source failed to update recreated using media reporting
+11/05/2020,time_series_covid19_confirmed_global.csv,France,11/03/2020,1419295,1507078,Scrapper source failed to update recreated using media reporting
+11/05/2020,time_series_covid19_deaths_global.csv,France,11/03/2020,37141,37564,Scrapper source failed to update recreated using media reporting
+11/09/2020,time_series_covid19_confirmed_US.csv,Puerto Rico,3/16/2020 - 11/8/2020,,,Revised Municipal reporting based on new updates from PR DS
+11/09/2020,time_series_covid19_confirmed_global.csv,US,3/16/2020 - 11/8/2020,,,Updated based on PR revisions
+11/10/2020,time_series_covid19_confirmed_US.csv,Hawaii,9/11/2020 - 11/9/2020,,,Revised reporting based on probable cases
+11/10/2020,time_series_covid19_confirmed_global.csv,US,9/11/2020 - 11/9/2020,,,Updated based on Hawaii revisions
+11/10/2020,time_series_covid19_confirmed_US.csv,Louisiana,8/26/2020 - 11/9/2020,,,Revised reporting based on probable cases
+11/10/2020,time_series_covid19_confirmed_global.csv,US,8/26/2020 - 11/9/2020,,,Updated based on Louisiana revisions
+11/11/2020,time_series_covid19_deaths_global.csv,US,11/9/2020,238256,238251,Corrects US deaths
+11/12/2020,time_series_covid19_deaths_global.csv,Mexico,11/9/2020,95027,95225,Corrects Mexico deaths
+11/12/2020,time_series_covid19_confirmed_global.csv,Mexico,11/9/2020,967825,972785,Corrects Mexico cases
+11/12/2020,time_series_covid19_deaths_US.csv,Wisconsin,3/19/2020 - 11/11/2020,,,Revised probable deaths from Wisconsin DHS
+11/12/2020,time_series_covid19_deaths_global.csv,US,3/19/2020 - 11/11/2020,,,Updated based on Wisconsin revisions
+11/13/2020,time_series_covi19_confirmed_global,India,,,,Updated from India MOHW
+11/13/2020,time_series_covid19_deaths_global,India,,,,Updated from India MOHW
+11/13/2020,time_series_covid19_recovered_global,India,,,,Updated from India MOHW
+11/16/2020,time_series_covid19_confirmed_global,France,,,,Updated from Open Covid France
+11/16/2020,time_series_covid19_deaths_global,France,,,,Updated from Open Covid France
+11/16/2020,time_series_covid19_recovered_global,France,,,,Updated from Open Covid France
+11/17/2020,time_series_covid19_confirmed_us.csv,"Unassigned, Louisiana",11/16/2020,7915,323,Scrapper double counted probable cases
+11/18/2020,time_series_covid19_confirmed_global.csv,India,11/16/2020,8873541,8874290,Missed one regional update
+11/18/2020,time_series_covid19_deaths_global.csv,India,11/16/2020,130503,130519,Missed one regional update
+11/18/2020,time_series_covid19_recovered_global.csv,India,11/16/2020,8289073,8290370,Missed one regional update
+11/23/2020,time_series_covid19_confirmed_global.csv,Mexico,11/21/2020,1025969,1032688,Missed update from gov of Mexico
+11/23/2020,time_series_covid19_deaths_global.csv,Mexico,11/21/2020,100823,101373,Missed update from gov of Mexico
+11/24/2020,time_series_covid19_confirmed_US.csv,"Bexar, Texas",11/23/2020,73882,74591,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Dallas, Texas",11/23/2020,130186,130727,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Galveston, Texas",11/23/2020,14126,14259,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Midland, Texas",11/23/2020,6576,7027,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Nueces, Texas",11/23/2020,23268,23388,Daily update from county source
+11/24/2020,time_series_covid19_confirmed_US.csv,"Travis, Texas", 11/23/2020,36436,36754,Daily update from county source
+11/27/2020,time_series_covid19_confirmed_global.csv,Laos,11/23/2020,25,39,Update via national report
+11/27/2020,time_series_covid19_confirmed_global.csv,Laos,11/24/2020,25,39,Update via national report
+11/27/2020,time_series_covid19_confirmed_global.csv,Laos,11/25/2020,25,39,Update via national report
+11/27/2020,time_series_covid19_confirmed_global.csv,Laos,11/26/2020,25,39,Update via national report
+12/02/2020,time_series_covid19_confirmed_global.csv,"DC, US",11/28/2020,21038,21308,Update based on DC revision
+12/03/2020,time_series_covid19_confirmed_global.csv,France,12/02/2020-11/30/2020,,,Update based on DC revision
+12/03/2020,time_series_covid19_deaths_global.csv,France,12/02/2020-12/01/2020,,,Update based on France logic and source
+12/03/2020,time_series_covid19_recovered_global.csv,France,12/02/2020-12/01/2020,,,Update based on France logic and source
+12/04/2020,time_series_covid19_confirmed_global.csv,"Alaska, US",12/02/2020-12/01/2020,,,Update based on AK total cases
+12/04/2020,time_series_covid19_confirmed_US.csv,"Alaska, US",12/02/2020-12/01/2020,,,Update based on AK total cases
+12/04/2020,time_series_covid19_global.csv,Afghanistan,11/29/2020-12/03/2020,,,Update based on Afghanistan source
+12/04/2020,time_series_covid19_deaths_global.csv,Afghanistan,11/29/2020-12/03/2020,,,Update based on Afghanistan source
+12/04/2020,time_series_covid19_recovered_global.csv,Afghanistan,11/29/2020-12/03/2020,,,Update based on Afghanistan source
+12/08/2020,time_series_covid19_confirmed_us.csv,"New Hampshire, US",11/29/2020-12/06/2020,,,Update based on New Hampshire source
+12/08/2020,time_series_covid19_confirmed_global.csv,US,11/29/2020-12/06/2020,,,Update based on New Hampshire source
+12/08/2020,time_series_covid19_deaths_US.csv,"New Hampshire, US",11/29/2020-12/06/2020,,,Update based on New Hampshire source
+12/09/2020,time_series_covid19_confirmed_us.csv,"Wyoming, US",04/02/2020-12/08/2020,,,Update based on Wyoming source
+12/09/2020,time_series_covid19_confirmed_us.csv,US,04/02/2020-12/08/2020,,,Update based on Wyoming source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/03/2020,17513,17341,Update from Madagascar news source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/04/2020,17513,17341,Update from Madagascar news source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/05/2020,17513,17473,Update from Madagascar news source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/06/2020,17513,17473,Update from Madagascar news source
+12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/07/2020,17513,17473,Update from Madagascar news source
+12/13/2020,time_series_covid19_deaths_global.csv,US,03/07/2020-12/12/2020,,,Update from Texas State source
+12/13/2020,time_series_covid19_deaths_us.csv,"Dallas County, Texas",03/07/2020-12/12/2020,,,Update from Texas State source
+12/14/2020,time_series_covid19_confirmed_global.csv,Turkey,12/10/2020,955766,1748567,Update from Turkey MOH
+12/15/2020,time_series_covid19_confirmed_us.csv,"Hays, Texas",12/14/2020,10263,9288,Update from Texas State dashboard
+12/15/2020,time_series_covid19_confirmed_global.csv,US,12/14/2020,16519462,16518487,Update from Texas State dashboard
+12/18/2020,time_series_covid19_confirmed_US.csv,"Washington, US",12/17/2020,,,Update based on Washington source
+12/18/2020,time_series_covid19_confirmed_global.csv,US,12/17/2020,17206647,17209587,Update based on Washington source
+12/18/2020,time_series_covid19_deaths_US.csv,"Washington, US",12/17/2020,,,Update based on Washington source
+12/18/2020,time_series_covid19_deaths_global.csv,US,12/17/2020,310699,310774,Update based on Washington source
+12/22/2020,time_series_covid19_deaths_US.csv,US,12/16/2020-12/18/2020,,,Update based on Orange and Rockland NY sources
+12/22/2020,time_series_covid19_deaths_global.csv,US,12/16/2020-12/18/2020,,,Update based on Orange and Rockland NY sources
+12/24/2020,time_series_covid19_recovered_global.csv,US,12/04/2020-12/23/2020,23074,93764,Update by National reports
+12/26/2020,time_series_covid19_confirmed_US.csv,"Arizona, US",12/24/2020,,,Update from Arizona state dashboard
+12/26/2020,time_series_covid19_confirmed_global.csv,US,12/24/2020,18650454,18656776,Update from Arizona state dashboard
+12/28/2020,time_series_covid19_confirmed_global.csv,"Alberta, Canada",12/24/2020-12/27/2020,,,Update from Government of Canada COVID-19 situation dashboard
+12/29/2020,time_series_covid19_confirmed_global.csv,"Alberta, Canada",12/24/2020-12/27/2020,,,Update from Alberta Government COVID-19 records
+12/29/2020,time_series_covid19_deaths_global.csv,"Alberta, Canada",12/24/2020-12/27/2020,,,Update from Alberta Government COVID-19 records
+12/30/2020,time_series_covid19_confirmed_us.csv,"New Jersey, US",12/29/2020,,,Correct based on NJ Dashboard
+12/30/2020,time_series_covid19_confirmed_global.csv,"New Jersey, US",12/29/2020,,,Correct based on NJ Dashboard
+12/30/2020,time_series_covid19_confirmed_global.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
+12/30/2020,time_series_covid19_confirmed_US.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
+12/30/2020,time_series_covid19_deaths_global.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
+12/30/2020,time_series_covid19_deaths_US.csv,"Maine, US",12/29/2020,,,Correct based on ME Dashboard
+12/31/2020,time_series_covid19_confirmed_US.csv,"North Dakota, US",12/30/2020,,,Correct based on ND Dashboard
+12/31/2020,time_series_covid19_deaths_US.csv,"North Dakota, US",12/30/2020,,,Correct based on ND Dashboard
+12/31/2020,time_series_covid19_confirmed_global.csv,"North Dakota, US",12/30/2020,,,Correct based on ND Dashboard
+12/31/2020,time_series_covid19_deaths_global.csv,"North Dakota, US",12/30/2020,,,Correct based on ND Dashboard
+01/10/2021,time_series_covid19_confirmed_US.csv,"Texas, US",01/08/2021,,,Correct based on TX Dashboard
+01/10/2021,time_series_covid19_deaths_US.csv,"Texas, US",01/08/2021,,,Correct based on TX Dashboard
+01/10/2021,time_series_covid19_confirmed_global.csv,"Texas, US",01/08/2021,,,Correct based on TX Dashboard
+01/10/2021,time_series_covid19_deaths_global.csv,"Texas, US",01/08/2021,,,Correct based on TX Dashboard
+01/11/2021,time_series_covid19_deaths_global.csv,Mexico,11/27/2020,,,Correct based on Mexico dashboard
+01/11/2021,time_series_covid19_confirmed_global.csv,Mexico,11/27/2020,,,Correct based on Mexico dashboard
+01/11/2021,time_series_covid19_recovered_global.csv,Mexico,11/27/2020-11/28/2020,,,Correct based on Mexico dashboard
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,12/31/2020,1252,1320,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/31/2020,275,256,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/01/2021,1252,1320,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/01/2021,275,256,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/02/2021,1252,1320,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/03/2021,1252,1320,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/04/2021,1252,1363,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/04/2021,313,322,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/05/2021,1252,1363,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/05/2021,313,354,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/06/2021,1252,1445,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/06/2021,313,373,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/07/2021,313,373,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Bhutan,01/08/2021,767,771,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/08/2021,1445,1556,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/08/2021,313,451,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Bhutan,01/09/2021,767,810,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/09/2021,1445,1556,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Saint Vincent and the Grenadines,01/09/2021,149,225,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/09/2021,313,508,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Bhutan,01/10/2021,767,813,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Eritrea,01/10/2021,1445,1556,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Saint Vincent and the Grenadines,01/10/2021,149,249,Correct old confirmed data
+01/11/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/10/2021,313,531,Correct old confirmed data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,12/31/2020,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/01/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/02/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/03/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/03/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/04/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/04/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/04/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/05/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/05/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/05/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/06/2021,1,3,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/06/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/06/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/07/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/07/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Bhutan,01/08/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/08/2021,3,6,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/08/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/08/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Bhutan,01/09/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/09/2021,3,6,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/09/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/09/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Bhutan,01/10/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Eritrea,01/10/2021,3,6,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Grenada,01/10/2021,0,1,Correct old deaths data
+01/11/2021,time_series_covid19_deaths_global.csv,Seychelles,01/10/2021,0,1,Correct old deaths data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Barnstable, Massachusetts, US",01/11/2021,6454,6569,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Berkshire, Massachusetts, US",01/11/2021,3543,3614,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Bristol, Massachusetts, US",01/11/2021,40820,41297,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Dukes and Nantucket,Massachusetts,US",01/11/2021,1539,1549,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Essex, Massachusetts, US",01/11/2021,66326,66977,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Franklin, Massachusetts, US",01/11/2021,1458,1472,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Hampden, Massachusetts, US",01/11/2021,30270,30559,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Hampshire, Massachusetts, US",01/11/2021,4553,4600,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Middlesex, Massachusetts, US",01/11/2021,86020,86826,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Norfolk, Massachusetts, US",01/11/2021,31860,32299,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Plymouth, Massachusetts, US",01/11/2021,28588,28975,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Suffolk, Massachusetts, US",01/11/2021,61178,61722,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Massachusetts, US",01/11/2021,20712,20703,Correct old confirmed data
+01/12/2021,time_series_covid19_confirmed_global.csv,"Worcester, Massachusetts, US",01/11/2021,49482,49880,Correct old confirmed data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",12/31/2020,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/01/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/02/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/03/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/04/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/05/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/06/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/07/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/08/2021,0,7,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/09/2021,0,8,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/10/2021,0,8,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Barnstable, Massachusetts, US",01/11/2021,276,277,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Berkshire, Massachusetts, US",01/11/2021,163,164,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Bristol, Massachusetts, US",01/11/2021,1164,1168,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Essex, Massachusetts, US",01/11/2021,1797,1805,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Hampden, Massachusetts, US",01/11/2021,1101,1105,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Hampshire, Massachusetts, US",01/11/2021,209,211,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Middlesex, Massachusetts, US",01/11/2021,2851,2863,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Norfolk, Massachusetts, US",01/11/2021,1363,1367,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Plymouth, Massachusetts, US",01/11/2021,1058,1064,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Suffolk, Massachusetts, US",01/11/2021,1426,1430,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Worcester, Massachusetts, US",01/11/2021,1640,1649,Correct old deaths data
+01/12/2021,time_series_covid19_deaths_global.csv,"Unassigned, North Dakota, US",01/11/2021,0,8,Correct old deaths data
+01/14/2021,time_series_covid19_confirmed_global.csv,US,01/12/2021,22838952,22847637,Correct US confirmed totals
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,01/22/2020,2,4,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,01/23/2020,3,4,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,01/25/2020,7,6,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,02/15/2020,33,34,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,04/24/2020,2907,2854,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,06/24/2020,3158,3157,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,07/07/2020,3197,3195,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,07/19/2020,3250,3249,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,07/22/2020,3261,3253,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,07/23/2020,3279,3269,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,07/27/2020,3297,3295,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,08/16/2020,3378,3377,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,08/18/2020,3382,3381,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,08/24/2020,3402,3397,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,08/26/2020,3404,3403,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,08/27/2020,3410,3404,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,08/28/2020,3411,3410,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,08/31/2020,3417,3412,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/01/2020,3425,3417,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/02/2020,3427,3425,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/03/2020,3431,3427,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/05/2020,3444,3438,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/06/2020,3445,3444,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/07/2020,3446,3445,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/08/2020,3447,3446,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/09/2020,3454,3447,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/10/2020,3461,3454,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/12/2020,3473,3466,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/13/2020,3475,3473,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/15/2020,3490,3480,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/17/2020,3497,3490,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/19/2020,3506,3500,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,09/27/2020,3523,3545,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,10/14/2020,3652,3665,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,10/15/2020,3669,3675,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,10/16/2020,3679,3686,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,10/17/2020,3686,3679,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,10/25/2020,3736,3743,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,11/20/2020,3902,3899,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,11/21/2020,3913,3922,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,11/23/2020,3922,3910,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,12/02/2020,4026,4039,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,12/20/2020,4907,5289,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,12/22/2020,5716,5762,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,12/23/2020,5762,5829,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,12/26/2020,6123,6141,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,12/27/2020,6141,6285,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,12/30/2020,6690,6884,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,01/08/2021,9841,10053,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,01/09/2021,10053,10298,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,Thailand,01/10/2021,10298,10547,Correct Thailand confirmed data
+01/14/2021,time_series_covid19_deaths_global.csv,Thailand,04/24/2020,51,50,Correct Thailand deaths data
+01/14/2021,time_series_covid19_deaths_global.csv,Thailand,12/28/2020,60,61,Correct Thailand deaths data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/22/2020,0,2,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/23/2020,0,2,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/24/2020,0,3,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/25/2020,0,3,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/26/2020,2,6,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/27/2020,2,6,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/28/2020,5,6,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/29/2020,5,6,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/30/2020,5,7,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/31/2020,5,8,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/01/2020,5,8,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/02/2020,5,9,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/03/2020,5,9,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/04/2020,5,10,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/05/2020,5,10,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/06/2020,5,10,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/07/2020,5,10,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/09/2020,10,11,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/10/2020,10,11,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/11/2020,10,11,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/12/2020,10,11,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/13/2020,12,11,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/14/2020,12,11,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/15/2020,12,13,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/16/2020,14,15,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/20/2020,15,17,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/21/2020,17,19,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/22/2020,17,20,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/26/2020,22,24,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,02/27/2020,22,24,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/01/2020,28,30,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/08/2020,31,33,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/09/2020,31,33,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/12/2020,34,35,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/15/2020,35,37,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/16/2020,35,38,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/20/2020,42,43,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/21/2020,42,44,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/22/2020,44,45,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/24/2020,52,57,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/28/2020,97,100,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/29/2020,97,111,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,03/30/2020,229,127,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,04/01/2020,505,416,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,04/03/2020,612,581,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,04/04/2020,674,612,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,04/05/2020,793,674,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,04/07/2020,888,824,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,04/24/2020,2547,2490,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,04/30/2020,2684,2687,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,06/24/2020,3038,3026,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,07/07/2020,3074,3072,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,07/23/2020,3107,3105,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,08/18/2020,3199,3198,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,08/24/2020,3229,3222,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,08/28/2020,3242,3237,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,08/31/2020,3274,3252,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/02/2020,3277,3274,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/05/2020,3281,3279,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/07/2020,3284,3281,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/08/2020,3286,3284,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/09/2020,3310,3286,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/10/2020,3312,3310,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/15/2020,3316,3315,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/16/2020,3325,3316,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/17/2020,3328,3325,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/19/2020,3340,3338,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/20/2020,3340,3342,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,09/27/2020,3367,3369,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,10/10/2020,3451,3445,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,10/14/2020,3457,3463,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,10/15/2020,3467,3474,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,10/16/2020,3478,3481,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,10/17/2020,3481,3478,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,10/25/2020,3530,3543,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,11/20/2020,3756,3750,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,11/21/2020,3761,3772,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,11/23/2020,3772,3755,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,12/02/2020,3822,3832,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,12/22/2020,4078,4095,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,12/23/2020,4095,4116,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,12/24/2020,4130,4137,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,12/27/2020,4161,4180,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,12/28/2020,4180,4184,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,12/30/2020,4212,4240,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/08/2021,5255,5546,Correct Thailand recovered data
+01/14/2021,time_series_covid19_recovered_global.csv,Thailand,01/09/2021,5546,6428,Correct Thailand recovered data
+01/14/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Utah, US",01/13/2021,0,599,Correct Utah confirmed data
+01/14/2021,time_series_covid19_confirmed_global.csv,US,01/13/2021,23077247,23077846,Correct US confirmed data
+01/19/2021,time_series_covid19_deaths_global.csv,US,01/07/2021,365324,365232,Correct US deaths data
+01/19/2021,time_series_covid19_deaths_US.csv,"Douglas, Nebraska, US",01/07/2021,617,525,Correct US deaths data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Baker, Oregon, US",01/19/2021,568,573,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Benton, Oregon, US",01/19/2021,1705,1720,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Clackamas, Oregon, US",01/19/2021,11698,11760,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Clatsop, Oregon, US",01/19/2021,686,687,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Columbia, Oregon, US",01/19/2021,1049,1054,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Coos, Oregon, US",01/19/2021,938,941,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Crook, Oregon, US",01/19/2021,621,623,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Deschutes, Oregon, US",01/19/2021,4999,5036,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Douglas, Oregon, US",01/19/2021,1687,1692,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Hood River, Oregon, US",01/19/2021,954,955,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Jackson, Oregon, US",01/19/2021,6930,6970,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Jefferson, Oregon, US",01/19/2021,1705,1707,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Josephine, Oregon, US",01/19/2021,1743,1770,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Klamath, Oregon, US",01/19/2021,2428,2453,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lake, Oregon, US",01/19/2021,230,232,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lane, Oregon, US",01/19/2021,8353,8418,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lincoln, Oregon, US",01/19/2021,996,1001,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Linn, Oregon, US",01/19/2021,3116,3123,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Marion, Oregon, US",01/19/2021,16247,16312,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Morrow, Oregon, US",01/19/2021,938,942,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Multnomah, Oregon, US",01/19/2021,28467,28586,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Polk, Oregon, US",01/19/2021,2455,2469,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Tillamook, Oregon, US",01/19/2021,365,367,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Umatilla, Oregon, US",01/19/2021,6793,6803,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Union, Oregon, US",01/19/2021,1114,1118,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Wasco, Oregon, US",01/19/2021,1081,1085,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Washington, Oregon, US",01/19/2021,18734,18808,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Yamhill, Oregon, US",01/19/2021,3190,3202,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Adams, Washington, US",01/19/2021,1719,1721,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Asotin, Washington, US",01/19/2021,1143,1147,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Benton, Washington, US",01/19/2021,13465,13529,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Chelan, Washington, US",01/19/2021,5433,5467,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Clallam, Washington, US",01/19/2021,832,840,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Clark, Washington, US",01/19/2021,16125,16300,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Cowlitz, Washington, US",01/19/2021,3164,3203,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Douglas, Washington, US",01/19/2021,2893,2916,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Franklin, Washington, US",01/19/2021,9711,9753,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Grant, Washington, US",01/19/2021,6724,6773,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Grays Harbor, Washington, US",01/19/2021,2709,2737,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Island, Washington, US",01/19/2021,1087,1095,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"King, Washington, US",01/19/2021,73015,73667,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Kitsap, Washington, US",01/19/2021,4701,4748,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Kittitas, Washington, US",01/19/2021,1953,1976,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lewis, Washington, US",01/19/2021,2978,2996,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Lincoln, Washington, US",01/19/2021,294,293,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Mason, Washington, US",01/19/2021,1950,1969,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Okanogan, Washington, US",01/19/2021,1938,1939,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Pacific, Washington, US",01/19/2021,599,604,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Pend Oreille, Washington, US",01/19/2021,526,527,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Pierce, Washington, US",01/19/2021,30912,31164,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"San Juan, Washington, US",01/19/2021,90,89,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Skagit, Washington, US",01/19/2021,3801,3812,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Skamania, Washington, US",01/19/2021,223,229,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Snohomish, Washington, US",01/19/2021,26267,26363,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Spokane, Washington, US",01/19/2021,30756,31031,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Stevens, Washington, US",01/19/2021,1364,1358,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Thurston, Washington, US",01/19/2021,5760,5805,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Washington, US",01/19/2021,1549,1459,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Wahkiakum, Washington, US",01/19/2021,62,63,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Walla Walla, Washington, US",01/19/2021,4102,4126,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Whatcom, Washington, US",01/19/2021,4885,4894,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Whitman, Washington, US",01/19/2021,2989,3019,Correct stale confirmed data
+01/20/2021,time_series_covid19_confirmed_US.csv,"Yakima, Washington, US",01/19/2021,22988,23145,Correct stale confirmed data
+01/20/2021,time_series_covid19_deaths_US.csv,"Deschutes, Oregon, US",01/19/2021,36,37,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Josephine, Oregon, US",01/19/2021,33,34,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Lane, Oregon, US",01/19/2021,109,110,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Washington, Oregon, US",01/19/2021,171,173,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Adams, Washington, US",01/19/2021,17,18,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Benton, Washington, US",01/19/2021,178,179,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Chelan, Washington, US",01/19/2021,42,43,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Clallam, Washington, US",01/19/2021,4,5,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Clark, Washington, US",01/19/2021,165,166,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Cowlitz, Washington, US",01/19/2021,34,35,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"King, Washington, US",01/19/2021,1152,1166,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Kitsap, Washington, US",01/19/2021,52,54,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Lewis, Washington, US",01/19/2021,36,32,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Okanogan, Washington, US",01/19/2021,30,32,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Pierce, Washington, US",01/19/2021,415,421,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Snohomish, Washington, US",01/19/2021,442,444,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Spokane, Washington, US",01/19/2021,415,420,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Thurston, Washington, US",01/19/2021,60,62,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Walla Walla, Washington, US",01/19/2021,44,45,Correct stale deaths data
+01/20/2021,time_series_covid19_deaths_US.csv,"Whitman, Washington, US",01/19/2021,35,36,Correct stale deaths data
+01/20/2021,time_series_covid19_confirmed_global.csv,US,01/19/2021,24253361,24256028,Correct US stale confirmed data
+01/20/2021,time_series_covid19_deaths_global.csv,US,01/19/2021,401730,401772,Correct US stale deaths data
+01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/05/2021,8985,8727,Correct stale data
+01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/06/2021,8985,8727,Correct stale data
+01/25/2021,time_series_covid19_deaths_global.csv,Sweden,01/07/2021,9262,8727,Correct stale data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/24/2021,1570,1571,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/25/2021,1570,1571,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/26/2021,1570,1572,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/27/2021,1570,1576,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/28/2021,1570,1576,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/29/2021,1570,1577,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/30/2021,1570,1580,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,01/31/2021,1570,1580,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,02/01/2021,1570,1581,Correct Nova Scotia stale confirmed data
+02/03/2021,time_series_covid19_confirmed_global.csv,Canada,02/02/2021,1570,1582,Correct Nova Scotia stale confirmed data
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/27/2021,22646,22794,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/28/2021,22646,23038,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/29/2021,22646,23366,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/30/2021,22646,23626,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_confirmed_global.csv,Canada,01/31/2021,22646,23864,"Correct Saskatchewan, Canada confirmed data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/27/2021,268,274,"Correct Saskatchewan, Canada deaths data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/28/2021,268,285,"Correct Saskatchewan, Canada deaths data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/29/2021,268,292,"Correct Saskatchewan, Canada deaths data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/30/2021,268,300,"Correct Saskatchewan, Canada deaths data"
+02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/31/2021,268,304,"Correct Saskatchewan, Canada deaths data"
+02/15/2021,time_series_covid19_deaths_global.csv,Slovakia,02/14/2021,5812,5885,"Correct Slovakia deaths data"
+02/15/2021,time_series_covid19_confirmed_global.csv,Slovakia,02/14/2021,276234,277682,"Correct Slovakia cases data"
+02/15/2021,time_series_covid19_confirmed_global.csv,Ireland,01/28/2021,193645,192645,Correct Ireland data based on national reporting
+02/16/2021,time_series_covid19_confirmed_US.csv,"Beadle, South Dakota, US",02/15/2021,2654,2655,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Brown, South Dakota, US",02/15/2021,5062,5066,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Charles Mix, South Dakota, US",02/15/2021,1248,1251,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Clay, South Dakota, US",02/15/2021,1773,1774,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Codington, South Dakota, US",02/15/2021,3872,3878,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Day, South Dakota, US",02/15/2021,640,641,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Grant, South Dakota, US",02/15/2021,944,945,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Gregory, South Dakota, US",02/15/2021,522,523,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Hamlin, South Dakota, US",02/15/2021,682,684,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Hanson, South Dakota, US",02/15/2021,350,351,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Hughes, South Dakota, US",02/15/2021,2248,2249,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Kingsbury, South Dakota, US",02/15/2021,621,623,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Lake, South Dakota, US",02/15/2021,1164,1165,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Lawrence, South Dakota, US",02/15/2021,2789,2790,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Lincoln, South Dakota, US",02/15/2021,7588,7590,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Meade, South Dakota, US",02/15/2021,2525,2524,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Minnehaha, South Dakota, US",02/15/2021,27505,27518,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Pennington, South Dakota, US",02/15/2021,12616,12629,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Perkins, South Dakota, US",02/15/2021,340,341,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Spink, South Dakota, US",02/15/2021,789,791,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Turner, South Dakota, US",02/15/2021,1051,1053,Correct stale confirmed data
+02/16/2021,time_series_covid19_confirmed_US.csv,"Yankton, South Dakota, US",02/15/2021,2771,2774,Correct stale confirmed data
+02/22/2021,time_series_covid19_confirmed_global.csv,Israel,01/25/2021,613340,601069,Correct Israel confirmed data
+02/22/2021,time_series_covid19_confirmed_global.csv,Israel,01/26/2021,617168,609656,Correct Israel confirmed data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/01/2021,3342,3540,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/02/2021,3369,3571,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/03/2021,3429,3631,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/04/2021,3472,3679,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/05/2021,3548,3755,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/06/2021,3609,3820,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/07/2021,3674,3884,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/08/2021,3746,3962,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/09/2021,3805,4021,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/10/2021,3850,4066,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/11/2021,3898,4114,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/12/2021,3962,4178,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/13/2021,4059,4275,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/14/2021,4119,4341,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/15/2021,4204,4419,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/16/2021,4261,4475,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/17/2021,4305,4524,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/18/2021,4366,4582,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/19/2021,4680,4686,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/20/2021,4779,4778,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/26/2021,5298,5297,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/27/2021,5388,5387,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/28/2021,5503,5500,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,02/06/2021,6373,6372,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,02/09/2021,6601,6602,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,02/10/2021,6722,6723,Correct Japan deaths data
