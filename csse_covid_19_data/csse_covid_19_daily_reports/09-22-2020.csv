@@ -3079,7 +3079,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 44003,Kent,Rhode Island,US,2020-09-23 04:23:00,41.67106337,-71.57641596,1796,0,0,1796,"Kent, Rhode Island, US",1093.175565,0.0
 44005,Newport,Rhode Island,US,2020-09-23 04:23:00,41.5642026,-71.26569799,502,0,0,502,"Newport, Rhode Island, US",611.5835384,0.0
 44007,Providence,Rhode Island,US,2020-09-23 04:23:00,41.87064746,-71.57753536,17941,0,0,17941,"Providence, Rhode Island, US",2807.97144,0.0
-90044,Unassigned,Rhode Island,US,2020-09-23 04:23:00,,,2670,1099,0,1571,"Unassigned, Rhode Island, US",,41.16104869
+90044,Unassigned,Rhode Island,US,2020-09-23 04:23:00,,,2670,48,0,1571,"Unassigned, Rhode Island, US",,41.16104869
 44009,Washington,Rhode Island,US,2020-09-23 04:23:00,41.45961631,-71.61435303,753,0,0,753,"Washington, Rhode Island, US",599.6320982,0.0
 45001,Abbeville,South Carolina,US,2020-09-23 04:23:00,34.22333378,-82.46170658,538,11,0,527,"Abbeville, South Carolina, US",2193.50104,2.044609665
 45003,Aiken,South Carolina,US,2020-09-23 04:23:00,33.54338026,-81.63645384,3999,78,0,3921,"Aiken, South Carolina, US",2340.348331,1.950487622
