@@ -271,6 +271,7 @@ Date: Location | Change | Reason/Other notes | Source
 * February 20, 2021: Ohio, US | Continual updates to "Ohio to add approximately 4,000 COVID-19 deaths to death total" over the next several days | [Source](https://odh.ohio.gov/wps/portal/gov/odh/media-center/odh-news-releases/odh-news-release-02-10-20) | **Back distributed, see Data Mod records**
 * February 22, 2021: Rhode Island, US | Inclusion of 81 historical deaths in today's report | [Source](https://eu.providencejournal.com/story/news/healthcare/2021/02/22/ri-covid-numbers-9-deaths-835-additional-cases-over-last-3-days/4539308001/)
 * February 24, 2021: LA, California, US | Inclusion of 806 historical deaths that primarily occurred between December 3, 2020 and February 3, 2021 | [Source](http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2983)
+* February 25, 2021: Jefferson, Wisconsin, US | 30 deaths reported in a single day due to data not previously being transferred to the state health department correctly | [News source](https://wkow.com/2021/02/25/52-more-dead-from-covid-19-in-wisconsin-7-1-percent-fully-vaccinated/)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
