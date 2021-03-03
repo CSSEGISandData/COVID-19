@@ -273,6 +273,7 @@ Date: Location | Change | Reason/Other notes | Source
 * February 24, 2021: LA, California, US | Inclusion of 806 historical deaths that primarily occurred between December 3, 2020 and February 3, 2021 | [Source](http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2983)
 * February 25, 2021: Jefferson, Wisconsin, US | 30 deaths reported in a single day due to data not previously being transferred to the state health department correctly | [News source](https://wkow.com/2021/02/25/52-more-dead-from-covid-19-in-wisconsin-7-1-percent-fully-vaccinated/)
 * February 28, 2021: Rhode Island, US | Distribute the inclusion of 81 historical deaths between March 27, 2020 to February 26, 2021 | [Source](https://www.providencejournal.com/story/news/healthcare/2021/02/22/ri-covid-numbers-9-deaths-835-additional-cases-over-last-3-days/4539308001/)
+* March 2, 2021: Spain | Removal of duplicated reports in the region of Catalonia. This has resulted in a drop in cases of ~80k for the region, and a daily drop of ~70k for the country | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_323_COVID-19.pdf)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
