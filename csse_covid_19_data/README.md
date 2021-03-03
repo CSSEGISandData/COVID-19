@@ -191,6 +191,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * February 19, 2021 | New South Wales, Australia | Adjustment of recovered to 0 to reflect #3694 | All time series and daily reports | [NSW Health](https://www.health.nsw.gov.au/news/Pages/20200730_00.aspx)
 * February 20, 2021: Texas, US | Correction to Tom Green, Texas cases due to source reporting for 2021-02-13 to 2021-02-18 | [Source](https://www.cosatx.us/Home/ShowDocument?id=33418)
 * February 22, 2021 | Israel | Adjustment of data for 1/25 and 1/26 to match media reports due to source issue | time_series_confirmed_global.csv and 1/25/2021 and 1/26/2021 daily reports | [Source 1](https://www.israelhayom.com/2021/01/25/health-ministry-180-people-infected-by-single-passenger-returning-from-dubai/), [Source 2](https://www.israelhayom.com/2021/01/26/health-minister-relentless-covid-morbidity-requires-extending-lockdown/)
+* March 3, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv) | This correction nullifies the Ohio correction on February 16
 
 
 ## Retrospective reporting of (probable) cases and deaths
