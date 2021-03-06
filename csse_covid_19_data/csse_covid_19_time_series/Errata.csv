@@ -1232,3 +1232,48 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/04/2021,time_series_covid19_confirmed_US.csv,"Winneshiek, Iowa, US",03/03/2021,1891,1828,"Correct Iowa, US confirmed data"
 03/04/2021,time_series_covid19_confirmed_US.csv,"Woodbury, Iowa, US",03/03/2021,14990,13778,"Correct Iowa, US confirmed data"
 03/04/2021,time_series_covid19_confirmed_US.csv,"Wright, Iowa, US",03/03/2021,1803,1738,"Correct Iowa, US confirmed data"
+03/06/2021,time_series_covid19_confirmed_global.csv,"District of Columbia,District of Columbia,US",03/05/2021,41014,41122,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Barnstable, Massachusetts, US",03/05/2021,10208,10256,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Berkshire, Massachusetts, US",03/05/2021,4883,4893,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Bristol, Massachusetts, US",03/05/2021,56045,56172,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Dukes and Nantucket,Massachusetts,US",03/05/2021,2041,2049,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Essex, Massachusetts, US",03/05/2021,84220,84395,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Franklin, Massachusetts, US",03/05/2021,1996,2005,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Hampden, Massachusetts, US",03/05/2021,42209,42375,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Hampshire, Massachusetts, US",03/05/2021,7525,7574,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Middlesex, Massachusetts, US",03/05/2021,112643,112945,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Norfolk, Massachusetts, US",03/05/2021,45914,46068,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Plymouth, Massachusetts, US",03/05/2021,40600,40758,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Suffolk, Massachusetts, US",03/05/2021,78922,79200,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Massachusetts, US",03/05/2021,33137,33365,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Worcester, Massachusetts, US",03/05/2021,65967,66154,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Bear River, Utah, US",03/05/2021,20048,20117,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Central Utah, Utah, US",03/05/2021,8363,8402,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Davis, Utah, US",03/05/2021,34817,34949,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Salt Lake, Utah, US",03/05/2021,139170,139590,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"San Juan, Utah, US",03/05/2021,1815,1821,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Southeast Utah, Utah, US",03/05/2021,2973,3003,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Southwest Utah, Utah, US",03/05/2021,26893,26991,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Summit, Utah, US",03/05/2021,5021,5037,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Tooele, Utah, US",03/05/2021,6582,6604,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"TriCounty, Utah, US",03/05/2021,3560,3572,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Utah, US",03/05/2021,872,874,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Utah, Utah, US",03/05/2021,90422,90655,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Wasatch, Utah, US",03/05/2021,4352,4360,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Weber-Morgan, Utah, US",03/05/2021,27820,27893,Correct stale confirmed data
+03/06/2021,time_series_covid19_deaths_global.csv,"District of Columbia,District of Columbia,US",03/05/2021,1024,1027,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Barnstable, Massachusetts, US",03/05/2021,408,410,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Bristol, Massachusetts, US",03/05/2021,1525,1527,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Essex, Massachusetts, US",03/05/2021,2186,2190,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Hampden, Massachusetts, US",03/05/2021,1351,1357,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Middlesex, Massachusetts, US",03/05/2021,3468,3472,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Norfolk, Massachusetts, US",03/05/2021,1638,1641,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Plymouth, Massachusetts, US",03/05/2021,1315,1318,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Suffolk, Massachusetts, US",03/05/2021,1713,1712,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Worcester, Massachusetts, US",03/05/2021,2055,2058,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Bear River, Utah, US",03/05/2021,81,83,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Salt Lake, Utah, US",03/05/2021,773,776,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Utah, Utah, US",03/05/2021,335,341,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Weber-Morgan, Utah, US",03/05/2021,181,185,Correct stale deaths data
+03/06/2021,time_series_covid19_confirmed_global.csv,US,03/05/2021,28891374,28894541,Correct US stale confirmed data
+03/06/2021,time_series_covid19_deaths_global.csv,US,03/05/2021,522832,522876,Correct US stale deaths data
