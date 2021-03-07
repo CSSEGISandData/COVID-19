@@ -1277,3 +1277,23 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/06/2021,time_series_covid19_deaths_global.csv,"Weber-Morgan, Utah, US",03/05/2021,181,185,Correct stale deaths data
 03/06/2021,time_series_covid19_confirmed_global.csv,US,03/05/2021,28891374,28894541,Correct US stale confirmed data
 03/06/2021,time_series_covid19_deaths_global.csv,US,03/05/2021,522832,522876,Correct US stale deaths data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Bear River, Utah, US",03/04/2021,20048,20083,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Central Utah, Utah, US",03/04/2021,8363,8383,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Davis, Utah, US",03/04/2021,34817,34887,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Salt Lake, Utah, US",03/04/2021,139170,139388,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"San Juan, Utah, US",03/04/2021,1815,1816,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Southeast Utah, Utah, US",03/04/2021,2973,2980,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Southwest Utah, Utah, US",03/04/2021,26893,26943,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Summit, Utah, US",03/04/2021,5021,5028,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Tooele, Utah, US",03/04/2021,6582,6589,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"TriCounty, Utah, US",03/04/2021,3560,3567,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Utah, US",03/04/2021,872,879,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Utah, Utah, US",03/04/2021,90422,90559,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Wasatch, Utah, US",03/04/2021,4352,4356,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Weber-Morgan, Utah, US",03/04/2021,27820,27861,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_deaths_global.csv,"Bear River, Utah, US",03/04/2021,81,82,Correct Utah stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Salt Lake, Utah, US",03/04/2021,773,775,Correct Utah stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Utah, Utah, US",03/04/2021,335,340,Correct Utah stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Weber-Morgan, Utah, US",03/04/2021,181,184,Correct Utah stale deaths data
+03/06/2021,time_series_covid19_confirmed_global.csv,US,03/04/2021,28827144,28827755,Correct US stale confirmed data
+03/06/2021,time_series_covid19_deaths_global.csv,US,03/04/2021,521108,521119,Correct US stale deaths data
