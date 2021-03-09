@@ -195,6 +195,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 3, 2021 | Iowa, US | Fix case time series to replace “total positive tests” values with “positive tests by individual”. Stale county level data on February 20 is due to lack of data access on that day | All case time series and daily reports | [Source](https://coronavirus.iowa.gov/)
 * March 6, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv) | This correction nullifies the Ohio correction on February 16
 * March 7, 2021 | Iowa, US | Adjust time series to represent more standardized sampling times for Iowa data | All case time series and daily reports | [Source](https://coronavirus.iowa.gov/)
+* March 8, 2021 | Pennsylvania, US | Adjust US daily reports to reflect correct testing data | All US daily reports | [Source](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx)
 
 
 ## Retrospective reporting of (probable) cases and deaths
