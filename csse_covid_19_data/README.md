@@ -197,6 +197,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 7, 2021 | Iowa, US | Adjust time series to represent more standardized sampling times for Iowa data | All case time series and daily reports | [Source](https://coronavirus.iowa.gov/)
 * March 8, 2021 | Pennsylvania, US | Adjust US daily reports to reflect correct testing data | All US daily reports | [Source](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx)
 * March 10, 2021 | Spain | Released an updated daily report that included a downgrade of the number of cases in Catalonia | March 10 daily report and time_series_covid19_confirmed_global.csv | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_329_COVID-19.pdf)
+* March 11, 2021 | Missouri, US | Reallocate Missouri probables into Unassigned for the inclusion of new probable cases | All daily reports and time series | [Source](https://results.mo.gov/t/COVID19/views/COVID-19DataforDownload/MetricsbyReportDate.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
