@@ -284,6 +284,7 @@ Date: Location | Change | Reason/Other notes | Source
 * March 2, 2021: Spain | Removal of duplicated reports in the region of Catalonia. This has resulted in a drop in cases of ~80k for the region, and a daily drop of ~70k for the country | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_323_COVID-19.pdf)
 * March 3, 2021: United Kingdom | Addition of 172 historical deaths by Public Health Scotland | [Source](https://coronavirus.data.gov.uk/details/whats-new#172_deaths_within_28_days_of_a_positive_test_added_to_scotland_and_uk_totals)
 * March 10, 2021: Minnesota, US | Inclusion of 891 backlogged cases and 138 backlogged deaths in daily report | [Source 1](https://kttc.com/2021/03/09/minnesota-reports-backlog-of-covid-19-cases-deaths-from-past-year/), [Source 2](https://www.mprnews.org/story/2021/03/09/whats-behind-spikes-in-covid-case-death-numbers-in-minnesotas-latest-data-release)
+* March 11, 2021: Texas, US | Daily report included 548 backlogged confirmed cases and 154 backlogged probable cases | [Source](https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
