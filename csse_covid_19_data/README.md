@@ -199,6 +199,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 10, 2021 | Spain | Released an updated daily report that included a downgrade of the number of cases in Catalonia | March 10 daily report and time_series_covid19_confirmed_global.csv | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_329_COVID-19.pdf)
 * March 11, 2021 | Missouri, US | Reallocate Missouri probables into Unassigned for the inclusion of new probable cases | All daily reports and time series | [Source](https://results.mo.gov/t/COVID19/views/COVID-19DataforDownload/MetricsbyReportDate.csv)
 * March 11, 2021 | Missouri, US | Correct stale data for St. Louis City, Missouri and apply back distribution for cases and deaths | All daily reports and time series | [Source](https://www.stlouis-mo.gov/government/departments/health/communicable-disease/covid-19/data/index.cfm)
+* March 12, 2021 | Missouri, US | Account for St. Louis county and St. Louis City probables within the Missouri time series | All daily reports and time series | [Source](https://showmestrong.mo.gov/data/public-health/)
 
 
 ## Retrospective reporting of (probable) cases and deaths
