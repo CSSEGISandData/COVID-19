@@ -196,6 +196,9 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 6, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv) | This correction nullifies the Ohio correction on February 16
 * March 7, 2021 | Iowa, US | Adjust time series to represent more standardized sampling times for Iowa data | All case time series and daily reports | [Source](https://coronavirus.iowa.gov/)
 * March 8, 2021 | Pennsylvania, US | Adjust US daily reports to reflect correct testing data | All US daily reports | [Source](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx)
+* March 10, 2021 | Spain | Released an updated daily report that included a downgrade of the number of cases in Catalonia | March 10 daily report and time_series_covid19_confirmed_global.csv | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_329_COVID-19.pdf)
+* March 11, 2021 | Missouri, US | Reallocate Missouri probables into Unassigned for the inclusion of new probable cases | All daily reports and time series | [Source](https://results.mo.gov/t/COVID19/views/COVID-19DataforDownload/MetricsbyReportDate.csv)
+* March 11, 2021 | Missouri, US | Correct stale data for St. Louis City, Missouri and apply back distribution for cases and deaths | All daily reports and time series | [Source](https://www.stlouis-mo.gov/government/departments/health/communicable-disease/covid-19/data/index.cfm)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -280,6 +283,8 @@ Date: Location | Change | Reason/Other notes | Source
 * February 28, 2021: Rhode Island, US | Distribute the inclusion of 81 historical deaths between March 27, 2020 to February 26, 2021 | [Source](https://www.providencejournal.com/story/news/healthcare/2021/02/22/ri-covid-numbers-9-deaths-835-additional-cases-over-last-3-days/4539308001/)
 * March 2, 2021: Spain | Removal of duplicated reports in the region of Catalonia. This has resulted in a drop in cases of ~80k for the region, and a daily drop of ~70k for the country | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_323_COVID-19.pdf)
 * March 3, 2021: United Kingdom | Addition of 172 historical deaths by Public Health Scotland | [Source](https://coronavirus.data.gov.uk/details/whats-new#172_deaths_within_28_days_of_a_positive_test_added_to_scotland_and_uk_totals)
+* March 10, 2021: Minnesota, US | Inclusion of 891 backlogged cases and 138 backlogged deaths in daily report | [Source 1](https://kttc.com/2021/03/09/minnesota-reports-backlog-of-covid-19-cases-deaths-from-past-year/), [Source 2](https://www.mprnews.org/story/2021/03/09/whats-behind-spikes-in-covid-case-death-numbers-in-minnesotas-latest-data-release)
+* March 11, 2021: Texas, US | Daily report included 548 backlogged confirmed cases and 154 backlogged probable cases | [Source](https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.

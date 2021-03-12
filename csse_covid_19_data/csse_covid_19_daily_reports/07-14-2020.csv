@@ -2623,7 +2623,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,2020-07-15 04:34:39,44.4976179,-75.06550039,233,2,0,231,"St. Lawrence, New York, US",216.2613699647299,0.8583690987124464
 27137,St. Louis,Minnesota,US,2020-07-15 04:34:39,47.6048407,-92.46879855,241,16,0,225,"St. Louis, Minnesota, US",121.06294268347817,6.639004149377594
 29189,St. Louis,Missouri,US,2020-07-15 04:34:39,38.63770039999999,-90.4458375,8140,604,0,7536,"St. Louis, Missouri, US",818.7446251024687,7.42014742014742
-29510,St. Louis City,Missouri,US,2020-07-15 04:34:39,38.63555736,-90.24349225,3774,161,0,2883,"St. Louis City, Missouri, US",1012.722239965932,5.289093298291721
+29510,St. Louis City,Missouri,US,2020-07-15 04:34:39,38.63555736,-90.24349225,3781,172,0,2883,"St. Louis City, Missouri, US",1012.722239965932,5.289093298291721
 12111,St. Lucie,Florida,US,2020-07-15 04:34:39,27.37763908,-80.47106649,3134,64,0,3070,"St. Lucie, Florida, US",954.623405026546,2.04211869814933
 22099,St. Martin,Louisiana,US,2020-07-15 04:34:39,30.13112107,-91.61403569,1110,29,0,1081,"St. Martin, Louisiana, US",2077.445677602889,2.6126126126126126
 22101,St. Mary,Louisiana,US,2020-07-15 04:34:39,29.69262097,-91.44702164,843,39,0,804,"St. Mary, Louisiana, US",1708.2759179703332,4.6263345195729535
@@ -2828,7 +2828,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90026,Unassigned,Michigan,US,2020-07-15 04:34:39,,,23,0,0,23,"Unassigned, Michigan, US",,0.0
 90027,Unassigned,Minnesota,US,2020-07-15 04:34:39,,,92,38,0,54,"Unassigned, Minnesota, US",,41.30434782608695
 90028,Unassigned,Mississippi,US,2020-07-15 04:34:39,,,0,0,0,0,"Unassigned, Mississippi, US",,
-90029,Unassigned,Missouri,US,2020-07-15 04:34:39,,,0,0,0,0,"Unassigned, Missouri, US",,
+90029,Unassigned,Missouri,US,2020-07-15 04:34:39,,,196,0,0,0,"Unassigned, Missouri, US",,
 90030,Unassigned,Montana,US,2020-07-15 04:34:39,,,0,0,0,0,"Unassigned, Montana, US",,
 90031,Unassigned,Nebraska,US,2020-07-15 04:34:39,,,116,1,0,115,"Unassigned, Nebraska, US",,0.8620689655172413
 90032,Unassigned,Nevada,US,2020-07-15 04:34:39,,,0,0,0,0,"Unassigned, Nevada, US",,
