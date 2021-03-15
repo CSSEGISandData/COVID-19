@@ -1022,7 +1022,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 44007,Providence,Rhode Island,US,3/22/20 23:45,41.87064746,-71.57753536,37,0,0,0,"Providence, Rhode Island, US"
 44001,Bristol,Rhode Island,US,3/22/20 23:45,41.71018079,-71.28652315,14,0,0,0,"Bristol, Rhode Island, US"
 44009,Washington,Rhode Island,US,3/22/20 23:45,41.45961631,-71.61435303,9,0,0,0,"Washington, Rhode Island, US"
-44005,Newport,Rhode Island,US,3/22/20 23:45,41.5642026,-71.26569799,8,0,0,0,"Newport, Rhode Island, US"
+44005,Newport,Rhode Island,US,3/22/20 23:45,41.5642026,-71.26569799,8,1,0,0,"Newport, Rhode Island, US"
 ,Unassigned,Rhode Island,US,3/22/20 23:45,0.0,0.0,8,0,0,0,"Unassigned, Rhode Island, US"
 44003,Kent,Rhode Island,US,3/22/20 23:45,41.67106337,-71.57641596,7,0,0,0,"Kent, Rhode Island, US"
 33015,Rockingham,New Hampshire,US,3/22/20 23:45,42.98499744,-71.12883377,28,0,0,0,"Rockingham, New Hampshire, US"

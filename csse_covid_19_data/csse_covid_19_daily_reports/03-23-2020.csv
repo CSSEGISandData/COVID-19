@@ -2069,7 +2069,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36061,New York City,New York,US,2020-03-23 23:19:34,40.76727260000001,-73.97152637,12305,99,0,0,"New York City, New York, US"
 26123,Newaygo,Michigan,US,2020-03-23 23:19:34,43.554373999999996,-85.80070107,1,0,0,0,"Newaygo, Michigan, US"
 45071,Newberry,South Carolina,US,2020-03-23 23:19:34,34.28629098,-81.59935761,1,0,0,0,"Newberry, South Carolina, US"
-44005,Newport,Rhode Island,US,2020-03-23 23:19:34,41.5642026,-71.26569799,9,0,0,0,"Newport, Rhode Island, US"
+44005,Newport,Rhode Island,US,2020-03-23 23:19:34,41.5642026,-71.26569799,9,1,0,0,"Newport, Rhode Island, US"
 51700,Newport News,Virginia,US,2020-03-23 23:19:34,37.08166899,-76.51754109,2,1,0,0,"Newport News, Virginia, US"
 5101,Newton,Arkansas,US,2020-03-23 23:19:34,35.91947491,-93.21612969,0,0,0,0,"Newton, Arkansas, US"
 13217,Newton,Georgia,US,2020-03-23 23:19:34,33.55514538,-83.84547140000002,4,0,0,0,"Newton, Georgia, US"
