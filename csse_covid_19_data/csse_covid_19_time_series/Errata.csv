@@ -1027,3 +1027,294 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 02/16/2021,time_series_covid19_confirmed_US.csv,"Yankton, South Dakota, US",02/15/2021,2771,2774,Correct stale confirmed data
 02/22/2021,time_series_covid19_confirmed_global.csv,Israel,01/25/2021,613340,601069,Correct Israel confirmed data
 02/22/2021,time_series_covid19_confirmed_global.csv,Israel,01/26/2021,617168,609656,Correct Israel confirmed data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/01/2021,3342,3540,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/02/2021,3369,3571,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/03/2021,3429,3631,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/04/2021,3472,3679,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/05/2021,3548,3755,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/06/2021,3609,3820,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/07/2021,3674,3884,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/08/2021,3746,3962,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/09/2021,3805,4021,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/10/2021,3850,4066,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/11/2021,3898,4114,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/12/2021,3962,4178,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/13/2021,4059,4275,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/14/2021,4119,4341,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/15/2021,4204,4419,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/16/2021,4261,4475,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/17/2021,4305,4524,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/18/2021,4366,4582,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/19/2021,4680,4686,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/20/2021,4779,4778,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/26/2021,5298,5297,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/27/2021,5388,5387,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,01/28/2021,5503,5500,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,02/06/2021,6373,6372,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,02/09/2021,6601,6602,Correct Japan deaths data
+02/25/2021,time_series_covid19_deaths_global.csv,Japan,02/10/2021,6722,6723,Correct Japan deaths data
+03/01/2021,time_series_covid19_confirmed_global.csv,France,02/26/2021,3664050,3689034,Patch France stale confirmed data
+03/01/2021,time_series_covid19_confirmed_global.csv,France,02/27/2021,3664050,3712474,Patch France stale confirmed data
+03/01/2021,time_series_covid19_confirmed_global.csv,France,02/28/2021,3664050,3732426,Patch France stale confirmed data
+03/01/2021,time_series_covid19_deaths_global.csv,France,02/26/2021,85141,85676,Patch France stale deaths data
+03/01/2021,time_series_covid19_deaths_global.csv,France,02/27/2021,85141,85858,Patch France stale deaths data
+03/01/2021,time_series_covid19_deaths_global.csv,France,02/28/2021,85141,85980,Patch France stale deaths data
+03/02/2021,time_series_covid19_confirmed_global.csv,US,02/27/2021,28554465,28554466,"Correct Guam, US confirmed data"
+03/02/2021,time_series_covid19_confirmed_global.csv,US,02/28/2021,28605669,28605671,"Correct Guam, US confirmed data"
+03/02/2021,time_series_covid19_deaths_global.csv,US,02/27/2021,511994,511995,"Correct Guam, US deaths data"
+03/02/2021,time_series_covid19_deaths_global.csv,US,02/28/2021,513091,513092,"Correct Guam, US deaths data"
+03/02/2021,time_series_covid19_confirmed_US.csv,"Guam, US",02/27/2021,7734,7735,"Correct Guam, US confirmed data"
+03/02/2021,time_series_covid19_confirmed_US.csv,"Guam, US",02/28/2021,7734,7736,"Correct Guam, US confirmed data"
+03/02/2021,time_series_covid19_deaths_US.csv,"Guam, US",02/27/2021,130,131,"Correct Guam, US deaths data"
+03/02/2021,time_series_covid19_deaths_US.csv,"Guam, US",02/28/2021,130,131,"Correct Guam, US deaths data"
+03/03/2021,time_series_covid19_confirmed_global.csv,US,03/02/2021,28719552,28721261,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Adams, Ohio, US",03/02/2021,2160,2163,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Allen, Ohio, US",03/02/2021,10768,10774,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Ashland, Ohio, US",03/02/2021,3791,3800,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Ashtabula, Ohio, US",03/02/2021,5959,5964,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Athens, Ohio, US",03/02/2021,4637,4644,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Auglaize, Ohio, US",03/02/2021,4554,4557,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Belmont, Ohio, US",03/02/2021,4918,4942,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Brown, Ohio, US",03/02/2021,3692,3696,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Butler, Ohio, US",03/02/2021,35456,35496,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Carroll, Ohio, US",03/02/2021,1808,1812,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Champaign, Ohio, US",03/02/2021,2866,2870,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Clark, Ohio, US",03/02/2021,12246,12268,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Clermont, Ohio, US",03/02/2021,18346,18389,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Clinton, Ohio, US",03/02/2021,3400,3407,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Columbiana, Ohio, US",03/02/2021,8120,8134,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Coshocton, Ohio, US",03/02/2021,2355,2367,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Crawford, Ohio, US",03/02/2021,3574,3579,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Cuyahoga, Ohio, US",03/02/2021,95705,95912,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Darke, Ohio, US",03/02/2021,5026,5029,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Defiance, Ohio, US",03/02/2021,3714,3718,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Delaware, Ohio, US",03/02/2021,16437,16471,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Erie, Ohio, US",03/02/2021,6872,6895,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Fairfield, Ohio, US",03/02/2021,14506,14529,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Fayette, Ohio, US",03/02/2021,2681,2682,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Franklin, Ohio, US",03/02/2021,111987,112182,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Fulton, Ohio, US",03/02/2021,3786,3797,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Gallia, Ohio, US",03/02/2021,2218,2225,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Geauga, Ohio, US",03/02/2021,6057,6067,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Greene, Ohio, US",03/02/2021,13568,13585,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Guernsey, Ohio, US",03/02/2021,2862,2868,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Hamilton, Ohio, US",03/02/2021,73287,73415,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Hancock, Ohio, US",03/02/2021,5981,5994,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Hardin, Ohio, US",03/02/2021,2444,2447,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Henry, Ohio, US",03/02/2021,2457,2463,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Highland, Ohio, US",03/02/2021,3277,3280,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Hocking, Ohio, US",03/02/2021,1940,1942,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Huron, Ohio, US",03/02/2021,4797,4807,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Jackson, Ohio, US",03/02/2021,2893,2900,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Jefferson, Ohio, US",03/02/2021,4790,4795,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Knox, Ohio, US",03/02/2021,4016,4025,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Lake, Ohio, US",03/02/2021,18379,18411,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Lawrence, Ohio, US",03/02/2021,5249,5262,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Licking, Ohio, US",03/02/2021,14967,14988,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Logan, Ohio, US",03/02/2021,3540,3544,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Lorain, Ohio, US",03/02/2021,21994,22016,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Lucas, Ohio, US",03/02/2021,35279,35389,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Madison, Ohio, US",03/02/2021,3921,3928,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Mahoning, Ohio, US",03/02/2021,19444,19470,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Marion, Ohio, US",03/02/2021,7982,7989,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Medina, Ohio, US",03/02/2021,13370,13394,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Meigs, Ohio, US",03/02/2021,1350,1353,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Mercer, Ohio, US",03/02/2021,4582,4584,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Miami, Ohio, US",03/02/2021,10011,10022,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Monroe, Ohio, US",03/02/2021,1164,1163,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Montgomery, Ohio, US",03/02/2021,47254,47301,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Morgan, Ohio, US",03/02/2021,1008,1009,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Morrow, Ohio, US",03/02/2021,2592,2597,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Muskingum, Ohio, US",03/02/2021,8169,8182,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Noble, Ohio, US",03/02/2021,1287,1292,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Ottawa, Ohio, US",03/02/2021,3232,3239,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Paulding, Ohio, US",03/02/2021,1600,1602,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Perry, Ohio, US",03/02/2021,2677,2686,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Pickaway, Ohio, US",03/02/2021,8041,8054,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Portage, Ohio, US",03/02/2021,11008,11031,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Preble, Ohio, US",03/02/2021,3526,3533,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Putnam, Ohio, US",03/02/2021,3986,3989,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Richland, Ohio, US",03/02/2021,10278,10298,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Ross, Ohio, US",03/02/2021,6130,6140,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Sandusky, Ohio, US",03/02/2021,4761,4769,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Scioto, Ohio, US",03/02/2021,5933,5948,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Seneca, Ohio, US",03/02/2021,4671,4690,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Shelby, Ohio, US",03/02/2021,4409,4411,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Stark, Ohio, US",03/02/2021,29356,29403,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Summit, Ohio, US",03/02/2021,40184,40266,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Trumbull, Ohio, US",03/02/2021,14315,14337,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Tuscarawas, Ohio, US",03/02/2021,8029,8039,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Union, Ohio, US",03/02/2021,5123,5129,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Van Wert, Ohio, US",03/02/2021,2292,2294,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Vinton, Ohio, US",03/02/2021,767,768,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Warren, Ohio, US",03/02/2021,22381,22421,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Washington, Ohio, US",03/02/2021,4622,4637,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Wayne, Ohio, US",03/02/2021,7857,7872,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Williams, Ohio, US",03/02/2021,3018,3020,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Wood, Ohio, US",03/02/2021,11506,11537,"Update Ohio, US confirmed stale data"
+03/03/2021,time_series_covid19_confirmed_US.csv,"Wyandot, Ohio, US",03/02/2021,2093,2100,"Update Ohio, US confirmed stale data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Adair, Iowa, US",03/03/2021,923,810,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Appanoose, Iowa, US",03/03/2021,1391,1231,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Benton, Iowa, US",03/03/2021,2535,2403,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Black Hawk, Iowa, US",03/03/2021,16267,14924,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Boone, Iowa, US",03/03/2021,2608,2428,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Bremer, Iowa, US",03/03/2021,2810,2687,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Buchanan, Iowa, US",03/03/2021,1853,1769,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Buena Vista, Iowa, US",03/03/2021,4740,4122,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Butler, Iowa, US",03/03/2021,1673,1588,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Carroll, Iowa, US",03/03/2021,2857,2663,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Cass, Iowa, US",03/03/2021,1359,1287,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Cedar, Iowa, US",03/03/2021,1784,1715,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Cerro Gordo, Iowa, US",03/03/2021,5343,4988,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Cherokee, Iowa, US",03/03/2021,1549,1453,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Chickasaw, Iowa, US",03/03/2021,1255,1196,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Clarke, Iowa, US",03/03/2021,1007,947,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Clay, Iowa, US",03/03/2021,1937,1838,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Clayton, Iowa, US",03/03/2021,1684,1598,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Clinton, Iowa, US",03/03/2021,5441,5007,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Crawford, Iowa, US",03/03/2021,2754,2522,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Dallas, Iowa, US",03/03/2021,11403,10190,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Davis, Iowa, US",03/03/2021,830,763,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Des Moines, Iowa, US",03/03/2021,4591,4271,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Dickinson, Iowa, US",03/03/2021,2179,2024,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Dubuque, Iowa, US",03/03/2021,13577,12416,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Emmet, Iowa, US",03/03/2021,1217,1150,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Fayette, Iowa, US",03/03/2021,1854,1786,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Floyd, Iowa, US",03/03/2021,1628,1477,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Franklin, Iowa, US",03/03/2021,1184,1090,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Grundy, Iowa, US",03/03/2021,1392,1320,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Guthrie, Iowa, US",03/03/2021,1163,1089,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Hamilton, Iowa, US",03/03/2021,1924,1737,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Hancock, Iowa, US",03/03/2021,1471,1376,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Hardin, Iowa, US",03/03/2021,1813,1694,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Harrison, Iowa, US",03/03/2021,1801,1671,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Henry, Iowa, US",03/03/2021,2930,2796,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Ida, Iowa, US",03/03/2021,914,810,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Iowa, Iowa, US",03/03/2021,1447,1394,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Jackson, Iowa, US",03/03/2021,2213,2097,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Jasper, Iowa, US",03/03/2021,4175,3862,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Jefferson, Iowa, US",03/03/2021,1386,1283,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Johnson, Iowa, US",03/03/2021,13858,13121,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Jones, Iowa, US",03/03/2021,2946,2846,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Keokuk, Iowa, US",03/03/2021,990,920,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Kossuth, Iowa, US",03/03/2021,2082,1980,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Lee, Iowa, US",03/03/2021,3761,3542,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Linn, Iowa, US",03/03/2021,20670,19463,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Louisa, Iowa, US",03/03/2021,1286,1223,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Madison, Iowa, US",03/03/2021,1549,1419,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Mahaska, Iowa, US",03/03/2021,2247,2152,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Marion, Iowa, US",03/03/2021,3583,3398,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Marshall, Iowa, US",03/03/2021,4983,4630,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Mills, Iowa, US",03/03/2021,1627,1479,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Mitchell, Iowa, US",03/03/2021,1309,1204,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Monona, Iowa, US",03/03/2021,815,763,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Montgomery, Iowa, US",03/03/2021,1040,967,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Muscatine, Iowa, US",03/03/2021,4521,4241,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"O'Brien, Iowa, US",03/03/2021,1968,1823,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Page, Iowa, US",03/03/2021,1836,1778,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Plymouth, Iowa, US",03/03/2021,3962,3674,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Polk, Iowa, US",03/03/2021,58284,51785,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Pottawattamie, Iowa, US",03/03/2021,10781,9828,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Poweshiek, Iowa, US",03/03/2021,1549,1477,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Sac, Iowa, US",03/03/2021,1240,1183,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Scott, Iowa, US",03/03/2021,18337,17080,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Shelby, Iowa, US",03/03/2021,1215,1164,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Sioux, Iowa, US",03/03/2021,4949,4791,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Story, Iowa, US",03/03/2021,10255,9593,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Tama, Iowa, US",03/03/2021,2144,2023,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Iowa, US",03/03/2021,972,0,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Union, Iowa, US",03/03/2021,1265,1187,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Wapello, Iowa, US",03/03/2021,4354,4025,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Warren, Iowa, US",03/03/2021,5567,5116,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Washington, Iowa, US",03/03/2021,2538,2390,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Webster, Iowa, US",03/03/2021,5199,4944,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Winnebago, Iowa, US",03/03/2021,1391,1302,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Winneshiek, Iowa, US",03/03/2021,1891,1828,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Woodbury, Iowa, US",03/03/2021,14990,13778,"Correct Iowa, US confirmed data"
+03/04/2021,time_series_covid19_confirmed_US.csv,"Wright, Iowa, US",03/03/2021,1803,1738,"Correct Iowa, US confirmed data"
+03/06/2021,time_series_covid19_confirmed_global.csv,"District of Columbia,District of Columbia,US",03/05/2021,41014,41122,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Barnstable, Massachusetts, US",03/05/2021,10208,10256,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Berkshire, Massachusetts, US",03/05/2021,4883,4893,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Bristol, Massachusetts, US",03/05/2021,56045,56172,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Dukes and Nantucket,Massachusetts,US",03/05/2021,2041,2049,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Essex, Massachusetts, US",03/05/2021,84220,84395,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Franklin, Massachusetts, US",03/05/2021,1996,2005,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Hampden, Massachusetts, US",03/05/2021,42209,42375,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Hampshire, Massachusetts, US",03/05/2021,7525,7574,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Middlesex, Massachusetts, US",03/05/2021,112643,112945,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Norfolk, Massachusetts, US",03/05/2021,45914,46068,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Plymouth, Massachusetts, US",03/05/2021,40600,40758,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Suffolk, Massachusetts, US",03/05/2021,78922,79200,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Massachusetts, US",03/05/2021,33137,33365,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Worcester, Massachusetts, US",03/05/2021,65967,66154,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Bear River, Utah, US",03/05/2021,20048,20117,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Central Utah, Utah, US",03/05/2021,8363,8402,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Davis, Utah, US",03/05/2021,34817,34949,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Salt Lake, Utah, US",03/05/2021,139170,139590,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"San Juan, Utah, US",03/05/2021,1815,1821,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Southeast Utah, Utah, US",03/05/2021,2973,3003,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Southwest Utah, Utah, US",03/05/2021,26893,26991,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Summit, Utah, US",03/05/2021,5021,5037,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Tooele, Utah, US",03/05/2021,6582,6604,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"TriCounty, Utah, US",03/05/2021,3560,3572,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Utah, US",03/05/2021,872,874,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Utah, Utah, US",03/05/2021,90422,90655,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Wasatch, Utah, US",03/05/2021,4352,4360,Correct stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Weber-Morgan, Utah, US",03/05/2021,27820,27893,Correct stale confirmed data
+03/06/2021,time_series_covid19_deaths_global.csv,"District of Columbia,District of Columbia,US",03/05/2021,1024,1027,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Barnstable, Massachusetts, US",03/05/2021,408,410,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Bristol, Massachusetts, US",03/05/2021,1525,1527,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Essex, Massachusetts, US",03/05/2021,2186,2190,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Hampden, Massachusetts, US",03/05/2021,1351,1357,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Middlesex, Massachusetts, US",03/05/2021,3468,3472,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Norfolk, Massachusetts, US",03/05/2021,1638,1641,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Plymouth, Massachusetts, US",03/05/2021,1315,1318,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Suffolk, Massachusetts, US",03/05/2021,1713,1712,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Worcester, Massachusetts, US",03/05/2021,2055,2058,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Bear River, Utah, US",03/05/2021,81,83,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Salt Lake, Utah, US",03/05/2021,773,776,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Utah, Utah, US",03/05/2021,335,341,Correct stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Weber-Morgan, Utah, US",03/05/2021,181,185,Correct stale deaths data
+03/06/2021,time_series_covid19_confirmed_global.csv,US,03/05/2021,28891374,28894541,Correct US stale confirmed data
+03/06/2021,time_series_covid19_deaths_global.csv,US,03/05/2021,522832,522876,Correct US stale deaths data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Bear River, Utah, US",03/04/2021,20048,20083,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Central Utah, Utah, US",03/04/2021,8363,8383,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Davis, Utah, US",03/04/2021,34817,34887,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Salt Lake, Utah, US",03/04/2021,139170,139388,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"San Juan, Utah, US",03/04/2021,1815,1816,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Southeast Utah, Utah, US",03/04/2021,2973,2980,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Southwest Utah, Utah, US",03/04/2021,26893,26943,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Summit, Utah, US",03/04/2021,5021,5028,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Tooele, Utah, US",03/04/2021,6582,6589,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"TriCounty, Utah, US",03/04/2021,3560,3567,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Utah, US",03/04/2021,872,879,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Utah, Utah, US",03/04/2021,90422,90559,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Wasatch, Utah, US",03/04/2021,4352,4356,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_confirmed_global.csv,"Weber-Morgan, Utah, US",03/04/2021,27820,27861,Correct Utah stale confirmed data
+03/06/2021,time_series_covid19_deaths_global.csv,"Bear River, Utah, US",03/04/2021,81,82,Correct Utah stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Salt Lake, Utah, US",03/04/2021,773,775,Correct Utah stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Utah, Utah, US",03/04/2021,335,340,Correct Utah stale deaths data
+03/06/2021,time_series_covid19_deaths_global.csv,"Weber-Morgan, Utah, US",03/04/2021,181,184,Correct Utah stale deaths data
+03/06/2021,time_series_covid19_confirmed_global.csv,US,03/04/2021,28827144,28827755,Correct US stale confirmed data
+03/06/2021,time_series_covid19_deaths_global.csv,US,03/04/2021,521108,521119,Correct US stale deaths data
+03/08/2021,time_series_covid19_confirmed_global.csv,Chile,03/06/2021,876895,850483,Correction of source error for Atacama
+03/08/2021,time_series_covid19_recovered_global.csv,Chile,03/07/2021,853683,805702,Correction of source error for Aysen
+03/08/2021,time_series_covid19_confirmed_global.csv,"Bear River, Utah, US",03/07/2021,20144,20169,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Central Utah, Utah, US",03/07/2021,8417,8424,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Davis, Utah, US",03/07/2021,35034,35071,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Salt Lake, Utah, US",03/07/2021,139779,139976,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"San Juan, Utah, US",03/07/2021,1815,1822,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Southeast Utah, Utah, US",03/07/2021,2973,3017,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Southwest Utah, Utah, US",03/07/2021,27045,27066,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Summit, Utah, US",03/07/2021,5021,5053,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Tooele, Utah, US",03/07/2021,6582,6620,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"TriCounty, Utah, US",03/07/2021,3560,3595,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Utah, US",03/07/2021,872,875,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Utah, Utah, US",03/07/2021,90761,90840,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Wasatch, Utah, US",03/07/2021,4352,4372,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_confirmed_global.csv,"Weber-Morgan, Utah, US",03/07/2021,27932,27950,Correct Utah stale confirmed data
+03/08/2021,time_series_covid19_deaths_global.csv,"Bear River, Utah, US",03/07/2021,83,84,Correct Utah stale deaths data
+03/08/2021,time_series_covid19_deaths_global.csv,"TriCounty, Utah, US",03/07/2021,29,30,Correct Utah stale deaths data
+03/08/2021,time_series_covid19_confirmed_global.csv,US,03/07/2021,28993310,28993873,Correct US stale confirmed data
+03/08/2021,time_series_covid19_deaths_global.csv,US,03/07/2021,525031,525033,Correct US stale deaths data
+03/11/2021,time_series_covid19_confirmed_global.csv,"Wallis and Futuna, France",03/10/2021,48,19,Correction based on official report
