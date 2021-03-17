@@ -332,11 +332,12 @@ United States
 * Louisiana: Not updating on the weekends.
 * Michigan: Not providing death data on Sundays. No case data provided for August 21.
 * North Carolina: Not updating on Sundays.
+* Oklahoma: Only updating deaths on Tuesdays
 * Rhode Island: Not updating case, death, or recovered data on the weekends. Releasing county level cases and deaths once per week.
 * Tennessee: Not updating on weekends.
 * Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available. As of December 20, no longer providing updates on Sundays.
 * Wyoming: Not updating on Saturdays.
-* North Carolina: Not updating on Sundays.
+
 
 
 International
