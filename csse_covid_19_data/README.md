@@ -288,6 +288,10 @@ Date: Location | Change | Reason/Other notes | Source
 * March 10, 2021: Minnesota, US | Inclusion of 891 backlogged cases and 138 backlogged deaths in daily report | [Source 1](https://kttc.com/2021/03/09/minnesota-reports-backlog-of-covid-19-cases-deaths-from-past-year/), [Source 2](https://www.mprnews.org/story/2021/03/09/whats-behind-spikes-in-covid-case-death-numbers-in-minnesotas-latest-data-release)
 * March 11, 2021: Texas, US | Daily report included 548 backlogged confirmed cases and 154 backlogged probable cases | [Source](https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83)
 * March 16, 2021: Alabama, US | Inclusion of 4007 historical probable and confirmed cases on March 15. Tests were performed on or during October 1, 2020 through January 1, 2021. | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* March 18, 2021: Maricopa, Arizona, US | Removal of 467 cases that had inadvertently been attributed to Maricopa County | [Source](https://www.maricopa.gov/5460/Coronavirus-Disease-2019)
+* March 18, 2021: Kentucky, US | Identification of 601 historical deaths. 417 were added on March 18; the remaining 187 will be added "in the coming days" | [Source](https://www.kentucky.com/news/coronavirus/article250035379.html)
+* March 19, 2021: Kentucky, US | Inclusion of 166 of the above-referenced historical deaths | [Source](https://chfs.ky.gov/cvdaily/COVID19DailyReport031921.pdf)
+* March 19, 2021: North Carolina, US | Removal of 99 deaths that did not fit the most recent version of the state definition of a COVID-19 death | See [Issue #3839](https://github.com/CSSEGISandData/COVID-19/issues/3839)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
