@@ -1000,8 +1000,8 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/29/2021,268,292,"Correct Saskatchewan, Canada deaths data"
 02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/30/2021,268,300,"Correct Saskatchewan, Canada deaths data"
 02/08/2021,time_series_covid19_deaths_global.csv,Canada,01/31/2021,268,304,"Correct Saskatchewan, Canada deaths data"
-02/15/2021,time_series_covid19_deaths_global.csv,Slovakia,02/14/2021,5812,5885,"Correct Slovakia deaths data"
-02/15/2021,time_series_covid19_confirmed_global.csv,Slovakia,02/14/2021,276234,277682,"Correct Slovakia cases data"
+02/15/2021,time_series_covid19_deaths_global.csv,Slovakia,02/14/2021,5812,5885,Correct Slovakia deaths data
+02/15/2021,time_series_covid19_confirmed_global.csv,Slovakia,02/14/2021,276234,277682,Correct Slovakia cases data
 02/15/2021,time_series_covid19_confirmed_global.csv,Ireland,01/28/2021,193645,192645,Correct Ireland data based on national reporting
 02/16/2021,time_series_covid19_confirmed_US.csv,"Beadle, South Dakota, US",02/15/2021,2654,2655,Correct stale confirmed data
 02/16/2021,time_series_covid19_confirmed_US.csv,"Brown, South Dakota, US",02/15/2021,5062,5066,Correct stale confirmed data
@@ -1324,3 +1324,17 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/19/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/16/2021,12,244,"Correct Unassigned, Oklahoma, US confirmed data"
 03/19/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/17/2021,12,735,"Correct Unassigned, Oklahoma, US confirmed data"
 03/19/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/18/2021,12,1294,"Correct Unassigned, Oklahoma, US confirmed data"
+03/22/2021,time_series_covid19_confirmed_global.csv,Thailand,03/13/2021,26927,26757,Correct Thailand confirmed data
+03/22/2021,time_series_covid19_confirmed_global.csv,Thailand,03/14/2021,27005,26927,Correct Thailand confirmed data
+03/22/2021,time_series_covid19_confirmed_global.csv,Thailand,03/15/2021,27154,27005,Correct Thailand confirmed data
+03/22/2021,time_series_covid19_confirmed_global.csv,Thailand,03/16/2021,27402,27154,Correct Thailand confirmed data
+03/22/2021,time_series_covid19_confirmed_global.csv,Thailand,03/17/2021,27494,27402,Correct Thailand confirmed data
+03/22/2021,time_series_covid19_confirmed_global.csv,Thailand,03/20/2021,27594,27713,Correct Thailand confirmed data
+03/22/2021,time_series_covid19_confirmed_global.csv,Thailand,03/21/2021,27594,27803,Correct Thailand confirmed data
+03/22/2021,time_series_covid19_recovered_global.csv,Thailand,03/13/2021,26154,26086,Correct Thailand recovered data
+03/22/2021,time_series_covid19_recovered_global.csv,Thailand,03/14/2021,26234,26154,Correct Thailand recovered data
+03/22/2021,time_series_covid19_recovered_global.csv,Thailand,03/15/2021,26299,26234,Correct Thailand recovered data
+03/22/2021,time_series_covid19_recovered_global.csv,Thailand,03/16/2021,26339,26299,Correct Thailand recovered data
+03/22/2021,time_series_covid19_recovered_global.csv,Thailand,03/17/2021,26377,26339,Correct Thailand recovered data
+03/22/2021,time_series_covid19_recovered_global.csv,Thailand,03/20/2021,26450,26512,Correct Thailand recovered data
+03/22/2021,time_series_covid19_recovered_global.csv,Thailand,03/21/2021,26450,26598,Correct Thailand recovered data
