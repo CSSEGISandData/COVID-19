@@ -14349,3 +14349,4 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 3/24/2021,time_series_covid19_deaths_US.csv,"Philadelphia, Pennsylvania, US",3/22/2021,3246,3222,"Update Pennsylvania, US deaths stale data"
 3/24/2021,time_series_covid19_deaths_US.csv,"Philadelphia, Pennsylvania, US",3/23/2021,3246,3230,"Update Pennsylvania, US deaths stale data"
 3/25/2021,time_series_covid19_recovered_global.csv,Turkey,2/7/2021,2440706,2420706,Correction to national figures
+03/25/2021,time_series_covid19_confirmed_global.csv,Italy,03/22/2021,3390181,3400877,Correct Italy confirmed data
