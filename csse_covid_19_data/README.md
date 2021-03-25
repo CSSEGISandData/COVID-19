@@ -320,6 +320,7 @@ Date: Location | File | Change | Data source for change
 * February 09, 2021: Indiana, US | Redistribution of previously identified historical deaths to unassigned category. State total reported from Department of Health was compared to time_series_covid19_deaths_us.csv and the difference was distributed to Unassigned, Indiana. | [Indiana source](https://www.coronavirus.in.gov/2393.htm) | We hope to receive a county level distribution from the state health department but we have not yet received a response
 * February 16, 2021: Ohio, US | Back distribution of deaths at the county level to correct for large release of backlogged deaths. | [Data source - csv link](https://coronavirus.ohio.gov/static/dashboards/COVIDSummaryData.csv)
 * February 19, 2021: New Hampshire, US | Redsitribution of recently identified historical cases from November to January to unassigned category. From November 1, state total reported from Department of Health was compared to time_series_covid19_deaths_us.csv and the difference was distributed to Unassigned, New Hampshire | [Data source](https://www.nh.gov/covid19/dashboard/trends.htm#dash)
+* March 24, 2021: Indiana, US | The deaths back distributed on February 9 have been distributed to their respective counties and removed from the unassigned category. Our appreciation to the Indiana Department of Health for their help with this issue.
 
 
 ## Irregular Update Schedules
