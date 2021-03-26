@@ -14450,3 +14450,11 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/25/2021,time_series_covid19_deaths_US.csv,"Imperial, California, US",03/24/2021,715,699,"Correct California, US deaths data"
 03/25/2021,time_series_covid19_deaths_US.csv,"San Francisco, California, US",03/24/2021,456,462,"Correct California, US deaths data"
 03/25/2021,time_series_covid19_deaths_US.csv,"Yolo, California, US",03/24/2021,196,194,"Correct California, US deaths data"
+03/26/2021,time_series_covid19_confirmed_global.csv,France,03/19/2021,4152604,4187630,Correct France confirmed data
+03/26/2021,time_series_covid19_confirmed_global.csv,France,03/20/2021,4187608,4222935,Correct France confirmed data
+03/26/2021,time_series_covid19_confirmed_global.csv,France,03/21/2021,4187608,4252919,Correct France confirmed data
+03/26/2021,time_series_covid19_confirmed_global.csv,France,03/24/2021,4283389,4347614,Correct France confirmed data
+03/26/2021,time_series_covid19_deaths_global.csv,France,03/19/2021,91148,91433,Correct France deaths data
+03/26/2021,time_series_covid19_deaths_global.csv,France,03/20/2021,91424,91600,Correct France deaths data
+03/26/2021,time_series_covid19_deaths_global.csv,France,03/21/2021,91423,91737,Correct France deaths data
+03/26/2021,time_series_covid19_deaths_global.csv,France,03/24/2021,92367,92594,Correct France deaths data
