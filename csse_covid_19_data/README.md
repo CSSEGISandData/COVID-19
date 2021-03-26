@@ -293,6 +293,7 @@ Date: Location | Change | Reason/Other notes | Source
 * March 18, 2021: Kentucky, US | Identification of 601 historical deaths. 417 were added on March 18; the remaining 187 will be added "in the coming days" | [Source](https://www.kentucky.com/news/coronavirus/article250035379.html)
 * March 19, 2021: Kentucky, US | Inclusion of 166 of the above-referenced historical deaths | [Source](https://chfs.ky.gov/cvdaily/COVID19DailyReport031921.pdf)
 * March 19, 2021: North Carolina, US | Removal of 99 deaths that did not fit the most recent version of the state definition of a COVID-19 death | See [Issue #3839](https://github.com/CSSEGISandData/COVID-19/issues/3839)
+* March 22, 2021: Italy | Inclusion of 10,665 historical cases in the region of Bolzana | [Source](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
