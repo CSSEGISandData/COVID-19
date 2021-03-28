@@ -294,6 +294,7 @@ Date: Location | Change | Reason/Other notes | Source
 * March 19, 2021: Kentucky, US | Inclusion of 166 of the above-referenced historical deaths | [Source](https://chfs.ky.gov/cvdaily/COVID19DailyReport031921.pdf)
 * March 19, 2021: North Carolina, US | Removal of 99 deaths that did not fit the most recent version of the state definition of a COVID-19 death | See [Issue #3839](https://github.com/CSSEGISandData/COVID-19/issues/3839)
 * March 22, 2021: Italy | Inclusion of 10,665 historical cases in the region of Bolzana | [Source](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
+* March 27, 2021: United Kingdom | Removal of 850 historical cases that had been processed incorrectly. "This affected specimen dates between 23 and 25 March in local authorities primarily in the North East and Yorkshire." | [Source](https://coronavirus.data.gov.uk/details/whats-new#removal_of_cases_incorrectly_reported_by_laboratory)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
