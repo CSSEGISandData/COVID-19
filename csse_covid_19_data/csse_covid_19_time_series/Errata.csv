@@ -14461,3 +14461,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/27/2021,time_series_covid19_confirmed_US.csv,"Alameda, California, US",03/26/2021,86322,82945,"Update Alameda, CA data"
 03/27/2021,time_series_covid19_confirmed_global.csv,US,03/26/2021,30159998,30156621,Patch US confirmed data
 03/29/2021,time_series_covid19_confirmed_global.csv,Ukraine,03/27/2021,1694459,1682527,Patch Ukraine confirmed data due to timing
+03/30/2021,time_series_covid19_deaths_US.csv,"Unassigned, Ohio, US",03/28/2021,0,1,Patch OH deaths
+03/30/2021,time_series_covid19_deaths_US.csv,"Unassigned, Ohio, US",03/29/2021,0,1,Patch OH deaths
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/28/2021,549335,549336,Correct US death data for Ohio
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/29/2021,550036,550037,Correct US death data for Ohio
