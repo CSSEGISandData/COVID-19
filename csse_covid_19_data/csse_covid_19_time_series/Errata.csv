@@ -14465,3 +14465,379 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/30/2021,time_series_covid19_deaths_US.csv,"Unassigned, Ohio, US",03/29/2021,0,1,Patch OH deaths
 03/30/2021,time_series_covid19_deaths_global.csv,US,03/28/2021,549335,549336,Correct US death data for Ohio
 03/30/2021,time_series_covid19_deaths_global.csv,US,03/29/2021,550036,550037,Correct US death data for Ohio
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/12/2020,286,483,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/13/2020,286,374,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/14/2020,286,486,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/15/2020,286,355,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/16/2020,286,413,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/17/2020,286,450,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/18/2020,286,476,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/19/2020,286,476,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/20/2020,286,526,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/21/2020,286,458,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/22/2020,286,392,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/23/2020,286,433,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/24/2020,286,466,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/25/2020,286,497,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/26/2020,286,462,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/27/2020,286,448,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/28/2020,286,399,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/29/2020,286,429,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/30/2020,286,464,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",12/31/2020,286,548,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/01/2021,286,661,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/02/2021,286,553,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/03/2021,286,543,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/04/2021,286,510,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/05/2021,286,558,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/06/2021,286,593,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/07/2021,286,789,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/08/2021,286,810,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/09/2021,286,775,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/10/2021,286,745,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/11/2021,286,739,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/12/2021,286,691,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/13/2021,286,689,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/14/2021,286,771,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/15/2021,286,757,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/16/2021,286,781,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/17/2021,286,755,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/18/2021,286,763,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/19/2021,286,712,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/20/2021,286,727,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/21/2021,286,778,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/22/2021,286,835,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/23/2021,286,808,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/24/2021,286,832,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/25/2021,286,810,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/26/2021,286,758,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/27/2021,286,798,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/28/2021,286,803,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/29/2021,286,861,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/30/2021,286,837,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",01/31/2021,286,810,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/01/2021,286,822,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/02/2021,286,802,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/03/2021,286,814,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/04/2021,286,852,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/05/2021,286,880,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/06/2021,286,867,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/07/2021,286,838,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/08/2021,286,797,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/09/2021,286,798,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/10/2021,286,823,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/11/2021,286,863,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/12/2021,286,869,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/13/2021,286,855,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/14/2021,286,844,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/15/2021,286,834,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/16/2021,286,820,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/17/2021,286,833,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/18/2021,286,871,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/19/2021,286,872,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/20/2021,286,875,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/21/2021,286,893,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/22/2021,286,878,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/23/2021,286,876,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/24/2021,286,882,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/25/2021,286,877,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/26/2021,286,919,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/27/2021,286,950,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",02/28/2021,286,907,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/01/2021,286,882,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/02/2021,286,891,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/03/2021,286,875,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/04/2021,286,917,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/05/2021,286,957,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/06/2021,286,953,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/07/2021,286,925,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/08/2021,286,922,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/09/2021,286,924,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/10/2021,286,887,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/11/2021,286,945,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/12/2021,286,1057,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/13/2021,286,962,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/14/2021,286,951,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/15/2021,286,947,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/16/2021,286,950,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/17/2021,286,974,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/18/2021,286,996,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/19/2021,286,1085,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/20/2021,286,1002,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/21/2021,286,996,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/22/2021,286,1003,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/23/2021,286,966,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/24/2021,286,969,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/25/2021,286,975,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/26/2021,286,943,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/27/2021,286,951,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/28/2021,286,951,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",03/29/2021,286,953,"Correct Out of HI, Hawaii, US confirmed data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/09/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/10/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/11/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/12/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/13/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/14/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/15/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/16/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/17/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/18/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/19/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/20/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/21/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/22/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/23/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/24/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/25/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/26/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/27/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/28/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/29/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/30/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",01/31/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/01/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/02/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/03/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/04/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/05/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/06/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/07/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/08/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/09/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/10/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/11/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/12/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/13/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/14/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/15/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/16/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/17/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/18/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/19/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/20/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/21/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/22/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/23/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/24/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/25/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/26/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/27/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",02/28/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/01/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/02/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/03/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/04/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/05/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/06/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/07/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/08/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/09/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/10/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/11/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/12/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/13/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/14/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/15/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/16/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/17/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/18/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/19/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/20/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/21/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/22/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/23/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/24/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/25/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/26/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/27/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/28/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_deaths_US.csv,"Out of HI, Hawaii, US",03/29/2021,2,3,"Correct Out of HI, Hawaii, US deaths data"
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/12/2020,16244797,16244994,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/13/2020,16432601,16432689,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/14/2020,16626313,16626513,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/15/2020,16836417,16836486,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/16/2020,17083061,17083188,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/17/2020,17322739,17322903,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/18/2020,17574674,17574864,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/19/2020,17766568,17766758,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/20/2020,17954314,17954554,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/21/2020,18153413,18153585,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/22/2020,18351480,18351586,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/23/2020,18581041,18581188,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/24/2020,18775207,18775387,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/25/2020,18872822,18873033,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/26/2020,19099125,19099301,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/27/2020,19254759,19254921,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/28/2020,19429410,19429523,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/29/2020,19629601,19629744,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/30/2020,19863235,19863413,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,12/31/2020,20098800,20099062,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/01/2021,20252310,20252685,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/02/2021,20552726,20552993,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/03/2021,20761467,20761724,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/04/2021,20945766,20945990,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/05/2021,21180814,21181086,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/06/2021,21436203,21436510,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/07/2021,21714268,21714771,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/08/2021,22007515,22008039,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/09/2021,22270172,22270661,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/10/2021,22483440,22483899,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/11/2021,22698422,22698875,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/12/2021,22925376,22925781,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/13/2021,23155725,23156128,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/14/2021,23391339,23391824,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/15/2021,23634087,23634558,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/16/2021,23835726,23836221,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/17/2021,24013519,24013988,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/18/2021,24156910,24157387,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/19/2021,24333648,24334074,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/20/2021,24516852,24517293,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/21/2021,24710602,24711094,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/22/2021,24901279,24901828,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/23/2021,25071901,25072423,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/24/2021,25202932,25203478,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/25/2021,25354901,25355425,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/26/2021,25502471,25502943,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/27/2021,25655710,25656222,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/28/2021,25824970,25825487,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/29/2021,25991464,25992039,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/30/2021,26133786,26134337,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,01/31/2021,26245805,26246329,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/01/2021,26380978,26381514,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/02/2021,26496311,26496827,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/03/2021,26617922,26618450,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/04/2021,26741846,26742412,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/05/2021,26876208,26876802,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/06/2021,26980195,26980776,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/07/2021,27069854,27070406,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/08/2021,27160197,27160708,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/09/2021,27255817,27256329,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/10/2021,27350956,27351493,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/11/2021,27456653,27457230,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/12/2021,27556262,27556845,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/13/2021,27643381,27643950,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/14/2021,27708401,27708959,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/15/2021,27762595,27763143,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/16/2021,27825319,27825853,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/17/2021,27895423,27895970,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/18/2021,27964979,27965564,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/19/2021,28044574,28045160,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/20/2021,28116088,28116677,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/21/2021,28173139,28173746,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/22/2021,28229362,28229954,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/23/2021,28301617,28302207,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/24/2021,28376317,28376913,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/25/2021,28453812,28454403,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/26/2021,28530741,28531374,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/27/2021,28595134,28595798,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,02/28/2021,28646373,28646994,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/01/2021,28705285,28705881,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/02/2021,28762326,28762931,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/03/2021,28829520,28830109,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/04/2021,28897518,28898149,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/05/2021,28963921,28964592,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/06/2021,29022116,29022783,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/07/2021,29063082,29063721,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/08/2021,29108096,29108732,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/09/2021,29165791,29166429,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/10/2021,29223730,29224331,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/11/2021,29286134,29286793,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/12/2021,29347338,29348109,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/13/2021,29400553,29401229,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/14/2021,29438775,29439440,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/15/2021,29495424,29496085,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/16/2021,29549364,29550028,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/17/2021,29608458,29609146,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/18/2021,29668959,29669669,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/19/2021,29730486,29731285,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/20/2021,29785935,29786651,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/21/2021,29819701,29820411,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/22/2021,29871268,29871985,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/23/2021,29924892,29925572,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/24/2021,30011839,30012522,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/25/2021,30079282,30079971,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/26/2021,30156621,30157278,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/27/2021,30218683,30219348,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/28/2021,30262377,30263042,Correct US confirmed data
+03/30/2021,time_series_covid19_confirmed_global.csv,US,03/29/2021,30331794,30332461,Correct US confirmed data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/09/2021,379105,379106,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/10/2021,381104,381105,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/11/2021,383200,383201,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/12/2021,387676,387677,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/13/2021,391703,391704,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/14/2021,395676,395677,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/15/2021,399574,399575,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/16/2021,403002,403003,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/17/2021,404870,404871,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/18/2021,406384,406385,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/19/2021,409115,409116,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/20/2021,413521,413522,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/21/2021,417702,417703,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/22/2021,421535,421536,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/23/2021,424878,424879,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/24/2021,426776,426777,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/25/2021,428747,428748,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/26/2021,432780,432781,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/27/2021,436734,436735,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/28/2021,440760,440761,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/29/2021,444373,444374,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/30/2021,447143,447144,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,01/31/2021,448984,448985,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/01/2021,451032,451033,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/02/2021,454506,454507,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/03/2021,458387,458388,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/04/2021,462131,462132,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/05/2021,465754,465755,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/06/2021,468354,468355,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/07/2021,469721,469722,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/08/2021,471328,471329,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/09/2021,474402,474403,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/10/2021,477727,477728,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/11/2021,480906,480907,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/12/2021,483821,483822,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/13/2021,486010,486011,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/14/2021,487138,487139,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/15/2021,488089,488090,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/16/2021,489819,489820,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/17/2021,492227,492228,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/18/2021,494701,494702,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/19/2021,497353,497354,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/20/2021,499152,499153,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/21/2021,500366,500367,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/22/2021,501665,501666,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/23/2021,503936,503937,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/24/2021,507108,507109,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/25/2021,509473,509474,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/26/2021,511580,511581,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/27/2021,513087,513088,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,02/28/2021,514146,514147,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/01/2021,515682,515683,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/02/2021,517628,517629,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/03/2021,520122,520123,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/04/2021,522057,522058,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/05/2021,523838,523839,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/06/2021,525341,525342,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/07/2021,526027,526028,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/08/2021,526767,526768,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/09/2021,528568,528569,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/10/2021,530138,530139,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/11/2021,531702,531703,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/12/2021,533275,533276,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/13/2021,535012,535013,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/14/2021,535591,535592,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/15/2021,536338,536339,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/16/2021,537499,537500,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/17/2021,538681,538682,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/18/2021,540301,540302,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/19/2021,541398,541399,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/20/2021,542177,542178,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/21/2021,542625,542626,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/22/2021,543187,543188,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/23/2021,544035,544036,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/24/2021,545491,545492,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/25/2021,547050,547051,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/26/2021,548171,548172,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/27/2021,548912,548913,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/28/2021,549419,549420,Correct US deaths data
+03/30/2021,time_series_covid19_deaths_global.csv,US,03/29/2021,550120,550121,Correct US deaths data
