@@ -14841,3 +14841,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/30/2021,time_series_covid19_deaths_global.csv,US,03/27/2021,548912,548913,Correct US deaths data
 03/30/2021,time_series_covid19_deaths_global.csv,US,03/28/2021,549419,549420,Correct US deaths data
 03/30/2021,time_series_covid19_deaths_global.csv,US,03/29/2021,550120,550121,Correct US deaths data
+03/31/2021,time_series_covid19_confirmed_global.csv,Denmark,03/24/2021,227894,225030,Correct Denmark confirmed data
+03/31/2021,time_series_covid19_confirmed_global.csv,Denmark,03/25/2021,227894,225844,Correct Denmark confirmed data
+03/31/2021,time_series_covid19_deaths_global.csv,Denmark,03/24/2021,2405,2404,Correct Denmark deaths data
+03/31/2021,time_series_covid19_deaths_global.csv,Denmark,03/25/2021,2405,2409,Correct Denmark deaths data
