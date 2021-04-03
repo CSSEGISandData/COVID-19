@@ -724,7 +724,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 2220,Sitka,Alaska,US,2020-08-19 04:27:00,57.24124555,-135.3206587,33,0,0,33,"Sitka, Alaska, US",388.5552808,0.0
 2240,Southeast Fairbanks,Alaska,US,2020-08-19 04:27:00,63.87692095,-143.2127643,18,0,0,18,"Southeast Fairbanks, Alaska, US",261.1344843,0.0
 90002,Unassigned,Alaska,US,2020-08-19 04:27:00,,,1,0,0,1,"Unassigned, Alaska, US",,0.0
-2261,Valdez-Cordova,Alaska,US,2020-08-19 04:27:00,61.47502768,-144.7126799,63,0,0,63,"Valdez-Cordova, Alaska, US",684.6337753,0.0
+2261,Valdez-Cordova,Alaska,US,2020-08-19 04:27:00,61.47502768,-144.7126799,0,0,0,63,"Valdez-Cordova, Alaska, US",684.6337753,0.0
 2275,Wrangell,Alaska,US,2020-08-19 04:27:00,56.3202004,-132.0583731,8,0,0,8,"Wrangell, Alaska, US",319.7442046,0.0
 2282,Yakutat,Alaska,US,2020-08-19 04:27:00,59.8909808,-140.3601451,9,0,0,9,"Yakutat, Alaska, US",1554.404145,0.0
 2290,Yukon-Koyukuk,Alaska,US,2020-08-19 04:27:00,65.50815459,-151.3907387,59,1,0,58,"Yukon-Koyukuk, Alaska, US",1128.107075,1.694915254
@@ -3948,3 +3948,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2020-08-19 04:27:00,15.552727,48.516388,1889,537,1052,300,Yemen,6.333407184,28.42773954
 ,,,Zambia,2020-08-19 04:27:00,-13.133897,27.849332,9981,264,8776,941,Zambia,54.2919054,2.645025549
 ,,,Zimbabwe,2020-08-19 04:27:00,-19.015438,29.154857,5378,141,4105,1132,Zimbabwe,36.18398987,2.621792488
+2066,Copper River,Alaska,US,2021-04-02 15:13:53,60.3886,-162.8905196,36,0,0,0,"Copper River, Alaska, US",,
+2063,Chugach,Alaska,US,2021-04-02 15:13:53,61.16666,-149.9,74,0,0,0,"Chugach, Alaska, US",,
