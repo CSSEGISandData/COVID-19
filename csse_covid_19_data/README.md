@@ -344,7 +344,9 @@ United States
 * Kansas: No data for the weekend of August 22-23.
 * Louisiana: Not updating on the weekends.
 * Michigan: Not providing death data on Sundays. No case data provided for August 21.
+* New Mexico: Only updating data once per week (presumably Wednesdays).
 * North Carolina: Not updating on Sundays.
+* Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
 * Rhode Island: Not updating case, death, or recovered data on the weekends. Releasing county level cases and deaths once per week.
 * Tennessee: Not updating on weekends.
