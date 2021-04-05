@@ -205,6 +205,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 28, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * March 30, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * April 2, 2021 | Alaska, US | In response to the state's separation of Valdez-Cordova, AK into Copper River, AK and Chugach, AK, we have recreated the time series including these two locations using the official data from the Alaska dashboard | [Source](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/app/6a5932d709ef4ab1b868188a4c757b4f)
+* April 5, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -344,7 +345,9 @@ United States
 * Kansas: No data for the weekend of August 22-23.
 * Louisiana: Not updating on the weekends.
 * Michigan: Not providing death data on Sundays. No case data provided for August 21.
+* New Mexico: Only updating data once per week (presumably Wednesdays).
 * North Carolina: Not updating on Sundays.
+* Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
 * Rhode Island: Not updating case, death, or recovered data on the weekends. Releasing county level cases and deaths once per week.
 * Tennessee: Not updating on weekends.
@@ -354,17 +357,19 @@ United States
 
 
 International
-* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
-* Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
-* Nicaragua: Releasing case, death, and recovered data once per week.
-* UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC))
-* France: No longer releasing case, hospitalization, or death data on the weekends. Please see [Tableau dashboard](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA). 
+* Bosnia and Herezegovina: Not updating data on the weekends.
+* Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
-* France: No update to deaths or recoveries for the weekend of August 8 and 9.
-* UK (2): Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
+* France: No longer releasing case, hospitalization, or death data on the weekends. Please see [Tableau dashboard](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA). No update to deaths or recoveries for the weekend of August 8 and 9.
 * Luxembourg: Not providing actionable data on weekends.
 * Mexico: Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
+* Nicaragua: Releasing case, death, and recovered data once per week.
 * NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission on July 31, 2020. Therefore, recovery statistics are no longer presented. ([Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19), [Issue #3694](https://github.com/CSSEGISandData/COVID-19/issues/3694))
+* Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
+* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
+* UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC)). Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
+
+
 
 
 ---
