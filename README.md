@@ -195,6 +195,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
   - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
   - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
+  - Gobierno De El Salvador: https://covid19.gob.sv/
   - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
   - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
   - OpenCOVID19 France: https://github.com/opencovid19-fr
