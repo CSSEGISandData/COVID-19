@@ -206,6 +206,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 30, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * April 2, 2021 | Alaska, US | In response to the state's separation of Valdez-Cordova, AK into Copper River, AK and Chugach, AK, we have recreated the time series including these two locations using the official data from the Alaska dashboard | [Source](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/app/6a5932d709ef4ab1b868188a4c757b4f)
 * April 5, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* April 7, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -335,24 +336,22 @@ Date: Location | File | Change | Data source for change
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Alaska: Only providing data Monday through Friday.
-* Conneticut: Not updating case, death, or recovered data on the weekends.
-* District of Columbia: Not updating on the weekends. Periodically updated using data available [here](https://coronavirus.dc.gov/data).
+* Alaska: Providing data Monday-Friday, excluding holidays.
+* Conneticut: Providing data Monday-Friday.
 * Florida: Did not update on weekend for October 10-11.
-* Guam: Not reporting data on weekends.
-* Idaho: Not providing data on Sundays.
-* Illinois: Releasing probable cases once per week.
-* Kansas: No data for the weekend of August 22-23.
-* Louisiana: Not updating on the weekends.
-* Michigan: Not providing death data on Sundays. No case data provided for August 21.
-* New Mexico: Only updating data once per week (presumably Wednesdays).
-* North Carolina: Not updating on Sundays.
+* Guam: Providing data Monday-Friday.
+* Idaho: Providing data Monday-Saturday.
+* Kansas: Provifing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
+* Louisiana: Providing data Monday-Friday.
+* Michigan: Providing data Monday-Saturday. No case data provided for August 21.
+* New Mexico: Dashboard will update once every two weeks. *Exploring alternative sources at this time (04/07/2021)*
+* North Carolina: Providing data Monday-Saturday.
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
-* Rhode Island: Not updating case, death, or recovered data on the weekends. Releasing county level cases and deaths once per week.
-* Tennessee: Not updating on weekends.
-* Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available. As of December 20, no longer providing updates on Sundays.
-* Wyoming: Not updating on Saturdays.
+* Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
+* Tennessee: Providing data Monday-Friday.
+* Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
+* Wyoming: Providing data Monday-Friday.
 
 
 
