@@ -301,6 +301,8 @@ Date: Location | Change | Reason/Other notes | Source
 * March 19, 2021: North Carolina, US | Removal of 99 deaths that did not fit the most recent version of the state definition of a COVID-19 death | See [Issue #3839](https://github.com/CSSEGISandData/COVID-19/issues/3839)
 * March 22, 2021: Italy | Inclusion of 10,665 historical cases in the region of Bolzana | [Source](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
 * March 27, 2021: United Kingdom | Removal of 850 historical cases that had been processed incorrectly. "This affected specimen dates between 23 and 25 March in local authorities primarily in the North East and Yorkshire." | [Source](https://coronavirus.data.gov.uk/details/whats-new#removal_of_cases_incorrectly_reported_by_laboratory)
+* April 7, 2021: Oklahoma, US | Addition of ~1300 backlogged cases and ~1700 backlogged deaths. Cases were due to a data transfer error from a private laboratory and include cases from December to February; deaths are due to addition of a process to automate a portion of the state's death certificate review | [Source](https://www.oklahoman.com/story/news/2021/04/07/oklahoma-add-hundreds-covid-cases-went-unreported-due-tech-error/7105281002/)
+* April 9, 2021: Montana, US | Addition of 72 backlogged cases and 26 backlogged deaths | [Source 1](https://nbcmontana.com/news/local/data-reconciliation-leads-to-jump-in-recorded-covid-19-deaths-cases), [Source 2](https://billingsgazette.com/news/state-and-regional/montana-adds-229-covid-19-cases-27-more-deaths/article_071eec55-2419-53e9-9138-196ae0f65d11.html)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -344,7 +346,7 @@ United States
 * Kansas: Provifing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Louisiana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
-* New Mexico: Dashboard will update once every two weeks. *Exploring alternative sources at this time (04/07/2021)*
+* New Mexico: Providing data Monday-Friday.
 * North Carolina: Providing data Monday-Saturday.
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
