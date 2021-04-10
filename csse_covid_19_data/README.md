@@ -344,7 +344,7 @@ United States
 * Kansas: Provifing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Louisiana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
-* New Mexico: Dashboard will update once every two weeks. *Exploring alternative sources at this time (04/07/2021)*
+* New Mexico: Providing data Monday-Friday.
 * North Carolina: Providing data Monday-Saturday.
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
