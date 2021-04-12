@@ -1190,7 +1190,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37093,Hoke,North Carolina,US,2020-05-19 02:32:18,35.01888303,-79.23651674,152,0,0,152,"Hoke, North Carolina, US"
 12059,Holmes,Florida,US,2020-05-19 02:32:18,30.86747479,-85.81319222,12,0,0,12,"Holmes, Florida, US"
 28051,Holmes,Mississippi,US,2020-05-19 02:32:18,33.12345854,-90.08923538,298,20,0,278,"Holmes, Mississippi, US"
-39075,Holmes,Ohio,US,2020-05-19 02:32:18,40.56163713,-81.92635677,13,2,0,12,"Holmes, Ohio, US"
+39075,Holmes,Ohio,US,2020-05-19 02:32:18,40.56163713,-81.92635677,13,1,0,12,"Holmes, Ohio, US"
 29087,Holt,Missouri,US,2020-05-19 02:32:18,40.09799248,-95.2163888,1,0,0,1,"Holt, Missouri, US"
 31089,Holt,Nebraska,US,2020-05-19 02:32:18,42.45522056,-98.78402558,1,0,0,1,"Holt, Nebraska, US"
 15003,Honolulu,Hawaii,US,2020-05-19 02:32:18,21.45803166,-157.97121819999995,415,11,0,404,"Honolulu, Hawaii, US"
