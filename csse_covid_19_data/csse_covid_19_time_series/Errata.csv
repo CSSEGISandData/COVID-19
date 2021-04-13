@@ -16937,3 +16937,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/28/2021,1217,1216,"Correct Kern, California, US deaths data"
 04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",04/03/2021,1277,1281,"Correct Kern, California, US deaths data"
 04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",04/04/2021,1277,1286,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Guam, US",04/10/2021,7833,7835,"Correct Guam, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Guam, US",04/11/2021,7833,7837,"Correct Guam, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/10/2021,31151495,31151497,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/11/2021,31197873,31197877,Correct US confirmed data
