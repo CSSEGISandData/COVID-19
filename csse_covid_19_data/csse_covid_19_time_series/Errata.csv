@@ -16642,3 +16642,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 04/06/2021,time_series_covid19_confirmed_global.csv,El Salvador,04/02/2021,64431,65030,Correct El Salvador confirmed data
 04/06/2021,time_series_covid19_confirmed_global.csv,El Salvador,04/03/2021,64431,65180,Correct El Salvador confirmed data
 04/06/2021,time_series_covid19_confirmed_global.csv,El Salvador,04/04/2021,64431,65337,Correct El Salvador confirmed data
+04/12/2021,time_series_covid19_confirmed_global.csv,Pakistan,04/02/2021,678165,682888,Correct Pakistan confirmed data
+04/12/2021,time_series_covid19_deaths_global.csv,Pakistan,04/02/2021,14613,14697,Correct Pakistan deaths data
+04/12/2021,time_series_covid19_recovered_global.csv,Pakistan,04/02/2021,607205,609691,Correct Pakistan recovered data
