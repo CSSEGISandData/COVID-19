@@ -16769,3 +16769,407 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 04/13/2021,time_series_covid19_deaths_US.csv,"Shelby, Kentucky, US",03/27/2021,66,67,"Update Kentucku, US deaths stale data"
 04/13/2021,time_series_covid19_confirmed_global.csv,US,03/27/2021,30219450,30220061,Update US stale case data for Kentucky
 04/13/2021,time_series_covid19_deaths_global.csv,US,03/27/2021,549108,549123,Update US stale death data for Kentucky
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/01/2020,110,126,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/02/2020,142,155,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/03/2020,173,194,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/04/2020,210,205,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/05/2020,230,225,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/06/2020,239,246,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/07/2020,252,261,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/08/2020,271,303,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/09/2020,303,330,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/10/2020,337,363,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/11/2020,371,369,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/13/2020,436,446,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/14/2020,462,516,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/15/2020,533,553,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",07/26/2020,14651,14561,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/20/2020,27184,27378,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/21/2020,27378,27658,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/22/2020,27658,27915,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/23/2020,27915,28140,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/24/2020,28140,28234,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/25/2020,28234,28520,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/26/2020,28520,28612,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/27/2020,28612,28854,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/28/2020,28854,28961,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/29/2020,28961,29105,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/30/2020,29105,29230,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/01/2020,29324,29459,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/02/2020,29459,29602,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/03/2020,29602,29763,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/04/2020,29763,29858,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/05/2020,29858,30040,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/06/2020,30040,30080,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/07/2020,30080,30179,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/08/2020,30179,30202,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/09/2020,30202,30371,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/10/2020,30371,30440,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/11/2020,30440,30563,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/12/2020,30563,30622,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/13/2020,30622,30735,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/14/2020,30735,30850,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/15/2020,30850,30916,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/16/2020,30916,31076,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/17/2020,31076,31148,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/18/2020,31148,31261,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/19/2020,31261,31379,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/20/2020,31379,31509,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/21/2020,31509,31572,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/22/2020,31572,31647,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/23/2020,31647,31712,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/24/2020,31712,31785,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/25/2020,31785,31865,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/26/2020,31865,31947,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/27/2020,31947,31994,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/28/2020,31994,32019,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/29/2020,32019,32073,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/30/2020,32073,32128,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/01/2020,32128,32184,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/02/2020,32184,32343,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/03/2020,32343,32443,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/04/2020,32443,32491,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/05/2020,32491,32522,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/06/2020,32522,32609,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/07/2020,32609,32674,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/08/2020,32674,32741,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/09/2020,32741,32831,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/10/2020,32831,32878,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/11/2020,32878,32966,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/12/2020,32966,33020,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/13/2020,33020,33089,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/14/2020,33089,33145,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/15/2020,33145,33225,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/16/2020,33225,33286,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/17/2020,33286,33373,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/18/2020,33373,33448,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/19/2020,33448,33497,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/20/2020,33497,33551,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/21/2020,33551,33630,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/22/2020,33630,33669,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/23/2020,33669,33775,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/24/2020,33775,33813,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/25/2020,33813,33881,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/26/2020,33881,33928,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/27/2020,33928,34027,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/28/2020,34027,34114,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/29/2020,34114,34154,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/30/2020,34154,34308,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/31/2020,34308,34378,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",11/07/2020,35063,35205,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",12/14/2020,50624,51612,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",01/08/2021,74732,76673,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",01/27/2021,91119,91762,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",02/18/2021,100849,101157,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",02/26/2021,102627,102998,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",02/27/2021,102627,103143,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",02/28/2021,102627,103295,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",03/07/2021,104181,104242,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",03/08/2021,104242,104307,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",03/12/2021,104564,104763,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/03/2021,106329,106420,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/04/2021,106329,106460,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",04/09/2020,2,3,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/20/2020,228,229,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/21/2020,229,238,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/22/2020,238,240,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/25/2020,240,251,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/27/2020,251,256,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/28/2020,256,273,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/29/2020,273,286,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/01/2020,286,292,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/03/2020,296,294,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/09/2020,296,297,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/10/2020,297,307,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/11/2020,307,322,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/12/2020,322,326,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/13/2020,326,332,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/15/2020,332,333,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/16/2020,333,340,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/18/2020,340,350,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/19/2020,350,354,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/22/2020,354,357,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/23/2020,357,360,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/24/2020,360,361,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/25/2020,361,367,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/26/2020,367,369,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/30/2020,369,370,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/01/2020,370,371,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/02/2020,371,381,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/03/2020,381,386,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/06/2020,386,387,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/09/2020,387,392,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/10/2020,392,394,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/11/2020,394,395,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/13/2020,395,397,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/14/2020,397,406,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/16/2020,406,408,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/17/2020,408,410,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/20/2020,410,413,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/21/2020,413,415,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/22/2020,415,416,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/27/2020,416,420,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/29/2020,420,422,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/30/2020,422,423,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/31/2020,423,424,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",01/08/2021,523,539,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",01/27/2021,591,600,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",02/18/2021,690,727,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",02/26/2021,811,826,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",02/27/2021,826,827,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",02/28/2021,827,851,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/12/2021,964,982,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/13/2021,1132,987,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/14/2021,1140,988,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/15/2021,1141,988,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/16/2021,1141,993,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/17/2021,1141,1010,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/18/2021,1141,1026,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/19/2021,1141,1032,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/20/2021,1141,1043,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/21/2021,1141,1075,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/22/2021,1141,1094,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/23/2021,1141,1100,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/24/2021,1141,1120,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/25/2021,1198,1139,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/26/2021,1206,1167,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/27/2021,1211,1191,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/28/2021,1217,1216,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",04/03/2021,1277,1281,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",04/04/2021,1277,1286,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Guam, US",04/10/2021,7833,7835,"Correct Guam, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Guam, US",04/11/2021,7833,7837,"Correct Guam, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/10/2021,31151495,31151497,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/11/2021,31197873,31197877,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/11/2020,16027437,16027441,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/12/2020,16245019,16245026,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/13/2020,16432715,16432729,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/14/2020,16627527,16627550,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/15/2020,16836519,16836556,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/16/2020,17083213,17083256,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/17/2020,17322930,17322981,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/18/2020,17574889,17574950,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/19/2020,17766783,17766856,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/20/2020,17954579,17954675,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/21/2020,18153612,18153724,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/22/2020,18351608,18351735,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/23/2020,18581212,18581353,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/24/2020,18775405,18775557,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/25/2020,18873051,18873203,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/26/2020,19099319,19099491,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/27/2020,19254940,19255126,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/28/2020,19429544,19429760,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/29/2020,19629775,19630012,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/30/2020,19863434,19863696,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/31/2020,20099090,20099363,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/01/2021,20252718,20252991,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/02/2021,20553013,20553301,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/03/2021,20761744,20762047,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/04/2021,20946009,20946329,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/05/2021,21181108,21181440,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/06/2021,21436533,21436884,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/07/2021,21714798,21715174,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/08/2021,22010001,22010389,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/09/2021,22270682,22271084,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/10/2021,22483919,22484332,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/11/2021,22698894,22699326,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/12/2021,22925803,22926246,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/13/2021,23156152,23156608,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/14/2021,23391852,23392315,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/15/2021,23634577,23635046,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/16/2021,23836246,23836726,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/17/2021,24014009,24014508,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/18/2021,24157407,24157924,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/19/2021,24334095,24334630,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/20/2021,24517313,24517866,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/21/2021,24711116,24711684,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/22/2021,24901853,24902437,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/23/2021,25072448,25073050,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/24/2021,25203499,25204112,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/25/2021,25355447,25356081,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/26/2021,25502966,25503621,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/27/2021,25656887,25657566,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/28/2021,25825486,25826176,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/29/2021,25992040,25992744,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/30/2021,26134339,26135056,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/31/2021,26246328,26247053,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/01/2021,26381512,26382255,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/02/2021,26496829,26497588,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/03/2021,26618450,26619229,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/04/2021,26742411,26743204,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/05/2021,26876801,26877601,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/06/2021,26980778,26981588,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/07/2021,27070408,27071236,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/08/2021,27160706,27161551,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/09/2021,27256327,27257183,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/10/2021,27351492,27352360,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/11/2021,27457233,27458120,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/12/2021,27556849,27557758,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/13/2021,27643955,27644880,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/14/2021,27708965,27709901,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/15/2021,27763149,27764087,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/16/2021,27825860,27826806,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/17/2021,27895977,27896924,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/18/2021,27965882,27966848,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/19/2021,28045171,28046145,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/20/2021,28116690,28117670,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/21/2021,28173759,28174750,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/22/2021,28229967,28230970,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/23/2021,28302222,28303233,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/24/2021,28376939,28377965,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/25/2021,28454431,28455466,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/26/2021,28531773,28532812,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/27/2021,28596346,28597387,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/28/2021,28647695,28648744,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/01/2021,28705915,28706973,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/02/2021,28762967,28764033,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/03/2021,28830151,28831226,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/04/2021,28898196,28899277,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/05/2021,28964641,28965728,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/06/2021,29022832,29023931,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/07/2021,29063832,29064938,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/08/2021,29108850,29109974,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/09/2021,29166483,29167616,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/10/2021,29224389,29225536,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/11/2021,29286851,29288010,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/12/2021,29348367,29349533,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/13/2021,29401288,29402465,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/14/2021,29439500,29440686,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/15/2021,29496149,29497352,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/16/2021,29550095,29551309,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/17/2021,29609216,29610445,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/18/2021,29669741,29670983,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/19/2021,29731361,29732612,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/20/2021,29786730,29787986,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/21/2021,29820490,29821754,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/22/2021,29872067,29873347,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/23/2021,29925655,29926950,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/24/2021,30012606,30013910,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/25/2021,30080058,30081375,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/26/2021,30157372,30158696,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/27/2021,30220061,30221396,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/28/2021,30263145,30264493,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/29/2021,30332565,30333922,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/30/2021,30393805,30395171,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/31/2021,30460834,30462210,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/01/2021,30539868,30541255,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/02/2021,30609690,30611086,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/03/2021,30672755,30674153,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/04/2021,30707727,30709125,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/05/2021,30785390,30786804,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/11/2020,75,79,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/12/2020,107,114,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/13/2020,114,128,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/14/2020,94,117,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/15/2020,78,115,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/16/2020,70,113,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/17/2020,86,137,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/18/2020,74,135,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/19/2020,67,140,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/20/2020,90,186,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/21/2020,92,204,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/22/2020,97,224,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/23/2020,105,246,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/24/2020,124,276,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/25/2020,124,276,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/26/2020,137,309,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/27/2020,153,339,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/28/2020,184,400,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/29/2020,209,446,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/30/2020,222,484,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/31/2020,236,509,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/01/2021,236,509,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/02/2021,296,584,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/03/2021,460,763,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/04/2021,456,776,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/05/2021,456,788,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/06/2021,461,812,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/07/2021,423,799,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/08/2021,182,570,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/09/2021,101,503,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/10/2021,100,513,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/11/2021,99,531,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/12/2021,99,542,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/13/2021,115,571,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/14/2021,117,580,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/15/2021,133,602,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/16/2021,143,623,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/17/2021,144,643,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/18/2021,146,663,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/19/2021,146,681,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/20/2021,154,707,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/21/2021,143,711,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/22/2021,144,728,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/23/2021,123,725,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/24/2021,89,702,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/25/2021,90,724,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/26/2021,90,745,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/27/2021,94,773,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/28/2021,89,779,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/29/2021,89,793,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/30/2021,133,850,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/31/2021,134,859,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/01/2021,137,880,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/02/2021,135,894,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/03/2021,139,918,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/04/2021,115,908,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/05/2021,55,855,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/06/2021,32,842,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/07/2021,21,849,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/08/2021,34,879,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/09/2021,36,892,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/10/2021,26,894,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/11/2021,13,900,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/12/2021,10,919,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/13/2021,10,935,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/14/2021,9,945,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/15/2021,13,951,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/16/2021,12,958,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/17/2021,2,949,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/18/2021,11,977,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/19/2021,4,978,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/20/2021,11,991,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/21/2021,1,992,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/22/2021,1,1004,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/23/2021,2,1013,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/24/2021,2,1028,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/25/2021,1,1036,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/26/2021,3,1042,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/27/2021,2,1043,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/28/2021,1,1050,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/01/2021,2,1060,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/02/2021,2,1068,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/03/2021,2,1077,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/04/2021,3,1084,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/05/2021,4,1091,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/06/2021,8,1107,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/07/2021,5,1111,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/08/2021,7,1131,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/09/2021,7,1140,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/10/2021,4,1151,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/11/2021,8,1167,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/12/2021,17,1183,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/13/2021,7,1184,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/14/2021,10,1196,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/15/2021,12,1215,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/16/2021,244,1458,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/17/2021,735,1964,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/18/2021,1294,2536,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/19/2021,1710,2961,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/20/2021,1710,2966,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/21/2021,1710,2974,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/22/2021,2669,3949,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/23/2021,2853,4148,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/24/2021,691,1995,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/25/2021,1060,2377,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/26/2021,1527,2851,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/27/2021,1527,2862,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/28/2021,1527,2875,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/29/2021,2409,3766,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/30/2021,2530,3896,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/31/2021,511,1887,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/01/2021,924,2311,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/02/2021,1296,2692,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/03/2021,1296,2694,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/04/2021,1296,2694,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/05/2021,2169,3583,"Correct Oklahoma, Unassigned, US confirmed data"
