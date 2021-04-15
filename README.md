@@ -231,6 +231,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Kazakhstan: https://www.coronavirus2020.kz/
   - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
   - Slovakia Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - Switzerland Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
+  - Switzerland Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
   - Thailand Ministry of Public Health: https://ddc.moph.go.th/viralpneumonia/eng/index.php and https://covid19.ddc.moph.go.th/en
     
 
