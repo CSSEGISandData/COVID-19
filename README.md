@@ -3,7 +3,14 @@
 
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
+<b>TABLE OF CONTENTS<b>
+  1. Useful links
+  2. Case and Death Data Sources
+  3. Vaccine Data Sources
+  4. Acknowledgments
+  5. Terms of Use
 
+<b>1. USEFUL LINKS<b>
 
 <b>Visual Dashboard (desktop):</b>
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
@@ -20,7 +27,7 @@ https://systems.jhu.edu/
 <b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/covid-19/support-the-csse-covid-19-dashboard-team/
 
 
-<b>CASE AND DEATH DATA SOURCES:</b>
+<b>2. CASE AND DEATH DATA SOURCES:</b>
 This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
@@ -235,7 +242,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Switzerland Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
   - Thailand Ministry of Public Health: https://ddc.moph.go.th/viralpneumonia/eng/index.php and https://covid19.ddc.moph.go.th/en
     
-<b>VACCINE DATA SOURCES:</b>
+<b>3. VACCINE DATA SOURCES:</b>
 
 - Aggregated data sources:
   - US Centers for Disease Control and Prevention (CDC): https://covid.cdc.gov/covid-data-tracker/#vaccinations
@@ -305,6 +312,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Denmark Statum Serum Institute: https://experience.arcgis.com/experience/1c7ff08f6cef4e2784df7532d16312f1
   - Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
   - Germany Federal Ministry of Health: https://impfdashboard.de/
+  - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
   - Italy Ministry of Health: https://www.governo.it/it/cscovid19/report-vaccini/
   - Latvia National Health Service: https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas#
   - Luxembourg Ministry of Health: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
@@ -322,7 +330,7 @@ This list includes a complete list of all sources ever used in the data set, sin
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"></iframe></div>
 ```
 
-<b>Acknowledgements:</b>
+<b>4. Acknowledgements:</b>
 We are grateful to the following organizations for supporting our Center’s COVID-19 mapping and modeling efforts:
 Financial Support: Johns Hopkins University, National Science Foundation (NSF), Bloomberg Philanthropies, Stavros Niarchos Foundation;
 Resource support: AWS, Slack, Github; Technical support: Johns Hopkins Applied Physics Lab (APL), Esri Living Atlas team
@@ -336,7 +344,7 @@ https://systems.jhu.edu/research/public-health/ncov/
   
   
 
-<b>Terms of Use:</b>
+<b>5. Terms of Use:</b>
 
 1. This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering.  Copyright Johns Hopkins University 2020. 
 
