@@ -20,7 +20,7 @@ https://systems.jhu.edu/
 <b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/covid-19/support-the-csse-covid-19-dashboard-team/
 
 
-<b>DATA SOURCES:</b>
+<b>CASE AND DEATH DATA SOURCES:</b>
 This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
@@ -235,6 +235,85 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Switzerland Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
   - Thailand Ministry of Public Health: https://ddc.moph.go.th/viralpneumonia/eng/index.php and https://covid19.ddc.moph.go.th/en
     
+<b>VACCINE DATA SOURCES:</b>
+
+- Aggregated data sources:
+  - US Centers for Disease Control and Prevention (CDC): https://covid.cdc.gov/covid-data-tracker/#vaccinations
+  - Our World in Data (OWiD): https://ourworldindata.org/covid-vaccinations
+
+- US data sources at the state (Admin1) level: 
+  - Alabama Department of Public Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367
+  - Alaska Department of Health and Human Services: https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/app/c74be37e02b44bb8b8b40515eabbab55
+  - Arizona Department of Health Services: https://azdhs.gov/covid19/data/index.php#vaccine-admin
+  - Arkansas Department of Health: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
+  - California State Government: https://covid19.ca.gov/vaccines/#California-vaccines-dashboard
+  - Colorado Department of Public Health and Environment: https://covid19.colorado.gov/vaccine-data-dashboard
+  - Connecticut Open Data: https://data.ct.gov/stories/s/CoVP-COVID-Vaccine-Distribution-Data/bhcd-4mnv/
+  - Delaware State Government: https://myhealthycommunity.dhss.delaware.gov/locations/state/vaccine-tracker
+  - Government of the District of Columbia: https://coronavirus.dc.gov/data/vaccination
+  - Florida Department of Health: http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/vaccine/vaccine_report_latest.pdf
+  - Georgia Department of Public Health: https://dph.georgia.gov/covid-vaccine
+  - Guam Office of Civil Defense: https://ghs.guam.gov/news
+  - Hawaii Department of Health: https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/
+  - Idaho Division of Public Health: https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/COVID-19VaccineDataDashboard/LandingPage
+  - Illinois Department of Health: https://www.dph.illinois.gov/covid19/vaccinedata?county=Illinois
+  - Indiana State Government: https://www.coronavirus.in.gov/vaccine/2680.htm
+  - Iowa State Government: https://coronavirus.iowa.gov/pages/vaccineinformation
+  - Kansas Department of Health and Environment: https://www.kansasvaccine.gov/158/Data
+  - Kentucky State Government: https://govstatus.egov.com/ky-covid-vaccine
+  - Louisiana Department of Health: https://ldh.la.gov/Coronavirus/
+  - Maine Office of the Governor: https://www.maine.gov/covid19/vaccines/dashboard
+  - Maryland Department of Health: https://covidlink.maryland.gov/content/vaccine/
+  - Michigan State Government: https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214_103272-547150--,00.html
+  - Minnesota State Government: https://mn.gov/covid19/vaccine/data/index.jsp
+  - Mississippi State Department of Health: https://msdh.ms.gov/msdhsite/_static/14,0,420,976.html
+  - Missouri Department of Health & Senior Services: https://covidvaccine.mo.gov/data/
+  - Montana State Government: https://montana.maps.arcgis.com/apps/MapSeries/index.html?appid=7c34f3412536439491adcc2103421d4b
+  - Nebraska Department of Health and Human Services: https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd/page/page_1/
+  - Nevada Health Response: https://nvhealthresponse.nv.gov/
+  - New Hampshire State Government: https://www.covid19.nh.gov/dashboard/vaccination
+  - New Jersey Department of Health: https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml
+  - New Mexico Department of Health: https://cvvaccine.nmhealth.org/public-dashboard.html
+  - New York State Government: https://covid19vaccine.health.ny.gov/covid-19-vaccine-tracker
+  - North Carolina Department of Health and Human Services: https://covid19.ncdhhs.gov/dashboard/vaccinations
+  - North Dakota Health: https://www.health.nd.gov/covid19vaccine/dashboard
+  - Northern Mariana Islands Government: https://www.vaccinatecnmi.com/vax-dashboard/
+  - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/covid-19-vaccine/covid-19-vaccination-dashboard
+  - Oklahoma State Department of Health: https://oklahoma.gov/covid19.html
+  - Oregon State Government: https://covidvaccine.oregon.gov/
+  - Pennsylvania Department of Health: https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Dashboard.aspx
+  - Puerto Rico Department of Health: http://www.salud.gov.pr/Pages/Home.aspx
+  - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
+  - South Carolina Department of Health and Environmental Control: https://scdhec.gov/covid19/covid-19-vaccination-dashboard
+  - South Dakota Department of Health: https://doh.sd.gov/COVID/Dashboard.aspx
+  - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov/covid-19-vaccine-information.html
+  - Texas Health and Human Services: https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/Summary?:origin=card_share_link&:embed=y&:isGuestRedirectFromVizportal=y
+  - Utah State Government: https://coronavirus.utah.gov/vaccine-distribution/
+  - Vermont Department of Health: https://www.healthvermont.gov/covid-19/vaccine/covid-19-vaccine-dashboard
+  - Virginia Department of Health: https://www.vdh.virginia.gov/coronavirus/covid-19-vaccine-summary/
+  - Washington State Department of Health: https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard
+  - West Virginia Department of Health and Social Services: https://dhhr.wv.gov/COVID-19/Pages/default.aspx
+  - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/vaccine-about.htm
+  - Wyoming Department of Health: https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/covid-19-vaccine-distribution-data/
+
+- Non-US data sources at the country/region (Admin0) level:
+  - Austria Department of Health: https://info.gesundheitsministerium.gv.at/?re=opendata
+  - Belgium Institute of Health (Sciensano): https://info.gesundheitsministerium.gv.at/?re=opendata
+  - Bulgaria Unified Information Portal: https://coronavirus.bg/bg/statistika
+  - Canada COVID-19 Tracker: https://covid19tracker.ca/vaccinationtracker.html
+  - Government of Chile: https://www.gob.cl/yomevacuno/
+  - Denmark Statum Serum Institute: https://experience.arcgis.com/experience/1c7ff08f6cef4e2784df7532d16312f1
+  - Government of France: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+  - Germany Federal Ministry of Health: https://impfdashboard.de/
+  - Italy Ministry of Health: https://www.governo.it/it/cscovid19/report-vaccini/
+  - Latvia National Health Service: https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas#
+  - Luxembourg Ministry of Health: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+  - Government of Poland: https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+  - Spain Ministry of Health: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/vacunaCovid19.htm
+  - United Arab Emirates Supreme Council for National Security: https://covid19.ncema.gov.ae/en
+  - Government of Ukraine: https://vaccination.covid19.gov.ua/
+  - United Kingdom Government: https://coronavirus.data.gov.uk/
+
 
 
 <b>Embed our dashboard into your webpage:</b>
