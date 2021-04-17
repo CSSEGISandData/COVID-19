@@ -309,6 +309,9 @@ Date: Location | Change | Reason/Other notes | Source
 * April 9, 2021: Montana, US | Addition of 72 backlogged cases and 26 backlogged deaths | [Source 1](https://nbcmontana.com/news/local/data-reconciliation-leads-to-jump-in-recorded-covid-19-deaths-cases), [Source 2](https://billingsgazette.com/news/state-and-regional/montana-adds-229-covid-19-cases-27-more-deaths/article_071eec55-2419-53e9-9138-196ae0f65d11.html)
 * April 9, 2021: England, United Kingdom | Reduction of 8,010 cases that were deemed lateral flow test false positives due to negative confirmatory PCR | [Source](https://coronavirus.data.gov.uk/details/whats-new)
 * April 13, 2021: Alabama, US | Addition of 1150 backlogged cases from October 22, 2020 to April 7, 2021 | [Source](https://alpublichealth.maps.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367)
+* April 15, 2021: Alaska, US | Addition of 20 deaths identified through a death certificate review process | [Source](https://www.adn.com/alaska-news/2021/04/15/tracking-covid-19-in-alaska-194-cases-and-20-deaths-reported-thursday-after-death-certificate-review/)
+* April 15, 2021: Nebraksa, US | Removal of 21 duplicated deaths | [Source](https://siouxlandnews.com/news/coronavirus/covid-19-in-nebraska-04-15-2021)
+* April 17, 2021: Missouri, US | Removal of 11,454 double counted cases | [Source 1](https://www.kmbc.com/article/covid-19-live-updates-coronavirus-in-kansas-city-missouri-kansas-coronavirus-04162021/36144667#), [Source 2](https://showmestrong.mo.gov/data/public-health/statewide/)
 
 
 ## Large-scale back distributions
@@ -377,6 +380,7 @@ International
 * Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
 * Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
 * UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC)). Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
+* Wales, UK: Providing data Monday-Saturday.
 
 
 
