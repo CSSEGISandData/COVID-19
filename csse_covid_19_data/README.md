@@ -352,7 +352,7 @@ United States
 * Conneticut: Providing data Monday-Friday.
 * Florida: Did not update on weekend for October 10-11.
 * Guam: Providing data Monday-Friday.
-* Idaho: Providing data Monday-Saturday.
+* Idaho: Providing data Monday-Friday.
 * Kansas: Provifing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Louisiana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
