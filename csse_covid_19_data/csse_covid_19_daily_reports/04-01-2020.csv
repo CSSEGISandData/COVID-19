@@ -1724,7 +1724,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-04-01 21:58:49,34.98820368,-78.36914061,1,0,0,0,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,2020-04-01 21:58:49,31.39457611,-94.17000399,1,0,0,0,"San Augustine, Texas, US"
 6069,San Benito,California,US,2020-04-01 21:58:49,36.60308176,-121.069975,21,1,0,0,"San Benito, California, US"
-6071,San Bernardino,California,US,2020-04-01 21:58:49,34.84060306,-116.1774685,183,6,0,0,"San Bernardino, California, US"
+6071,San Bernardino,California,US,2020-04-01 21:58:49,34.84060306,-116.1774685,183,5,0,0,"San Bernardino, California, US"
 6073,San Diego,California,US,2020-04-01 21:58:49,33.03484597,-116.73653259999999,733,9,0,0,"San Diego, California, US"
 6075,San Francisco,California,US,2020-04-01 21:58:49,37.75215114,-122.43856720000001,434,7,0,0,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-04-01 21:58:49,30.57933681,-95.16260304,1,0,0,0,"San Jacinto, Texas, US"
