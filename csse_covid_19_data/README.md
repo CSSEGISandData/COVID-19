@@ -208,6 +208,10 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * April 5, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * April 7, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * April 12, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* April 13, 2021| Kern, California, US | Replacement of historical data with that of the LA Times aggregator due to source change and stale data. | All time series files and daily reports for which there was a difference between historical data and new source | [Source](https://github.com/datadesk/california-coronavirus-data/blob/master/latimes-county-totals.csv)
+* April 13, 2021 | Oklahoma, US | Further to issue #3936, we have back distributed the backlogged 1,414 cases to their appropriate date with the assistance of the Oklahoma State Health Department. All cases have been distributed to the unassigned category. See #3936 for further details. | Time series files and daily reports | Personal correspondence, see #3936 for further details.
+* April 14, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* April 19, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -304,6 +308,12 @@ Date: Location | Change | Reason/Other notes | Source
 * March 27, 2021: United Kingdom | Removal of 850 historical cases that had been processed incorrectly. "This affected specimen dates between 23 and 25 March in local authorities primarily in the North East and Yorkshire." | [Source](https://coronavirus.data.gov.uk/details/whats-new#removal_of_cases_incorrectly_reported_by_laboratory)
 * April 7, 2021: Oklahoma, US | Addition of ~1300 backlogged cases and ~1700 backlogged deaths. Cases were due to a data transfer error from a private laboratory and include cases from December to February; deaths are due to addition of a process to automate a portion of the state's death certificate review | [Source](https://www.oklahoman.com/story/news/2021/04/07/oklahoma-add-hundreds-covid-cases-went-unreported-due-tech-error/7105281002/)
 * April 9, 2021: Montana, US | Addition of 72 backlogged cases and 26 backlogged deaths | [Source 1](https://nbcmontana.com/news/local/data-reconciliation-leads-to-jump-in-recorded-covid-19-deaths-cases), [Source 2](https://billingsgazette.com/news/state-and-regional/montana-adds-229-covid-19-cases-27-more-deaths/article_071eec55-2419-53e9-9138-196ae0f65d11.html)
+* April 9, 2021: England, United Kingdom | Reduction of 8,010 cases that were deemed lateral flow test false positives due to negative confirmatory PCR | [Source](https://coronavirus.data.gov.uk/details/whats-new)
+* April 13, 2021: Alabama, US | Addition of 1150 backlogged cases from October 22, 2020 to April 7, 2021 | [Source](https://alpublichealth.maps.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367)
+* April 15, 2021: Alaska, US | Addition of 20 deaths identified through a death certificate review process | [Source](https://www.adn.com/alaska-news/2021/04/15/tracking-covid-19-in-alaska-194-cases-and-20-deaths-reported-thursday-after-death-certificate-review/)
+* April 15, 2021: Nebraksa, US | Removal of 21 duplicated deaths | [Source](https://siouxlandnews.com/news/coronavirus/covid-19-in-nebraska-04-15-2021)
+* April 17, 2021: Missouri, US | Removal of 11,454 double counted cases | [Source 1](https://www.kmbc.com/article/covid-19-live-updates-coronavirus-in-kansas-city-missouri-kansas-coronavirus-04162021/36144667#), [Source 2](https://showmestrong.mo.gov/data/public-health/statewide/)
+
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -343,15 +353,17 @@ United States
 * Conneticut: Providing data Monday-Friday.
 * Florida: Did not update on weekend for October 10-11.
 * Guam: Providing data Monday-Friday.
-* Idaho: Providing data Monday-Saturday.
+* Idaho: Providing data Monday-Friday.
 * Kansas: Provifing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Louisiana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
+* Nevada: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
 * North Carolina: Providing data Monday-Saturday.
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
+* South Dakota: Providing data Monday-Saturday.
 * Tennessee: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
 * Wyoming: Providing data Monday-Friday.
@@ -370,6 +382,7 @@ International
 * Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
 * Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
 * UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC)). Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
+* Wales, UK: Providing data Monday-Saturday.
 
 
 

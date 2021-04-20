@@ -16645,3 +16645,1213 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 04/12/2021,time_series_covid19_confirmed_global.csv,Pakistan,04/02/2021,678165,682888,Correct Pakistan confirmed data
 04/12/2021,time_series_covid19_deaths_global.csv,Pakistan,04/02/2021,14613,14697,Correct Pakistan deaths data
 04/12/2021,time_series_covid19_recovered_global.csv,Pakistan,04/02/2021,607205,609691,Correct Pakistan recovered data
+04/13/2021,time_series_covid19_confirmed_US.csv,"Adair, Kentucky, US",03/27/2021,1698,1750,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Allen, Kentucky, US",03/27/2021,1902,1905,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Ballard, Kentucky, US",03/27/2021,373,374,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Barren, Kentucky, US",03/27/2021,4222,4230,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Bath, Kentucky, US",03/27/2021,814,818,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Bell, Kentucky, US",03/27/2021,2920,2922,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Boone, Kentucky, US",03/27/2021,13112,13131,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Bourbon, Kentucky, US",03/27/2021,1613,1614,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Boyd, Kentucky, US",03/27/2021,4751,4755,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Boyle, Kentucky, US",03/27/2021,3257,3265,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Bracken, Kentucky, US",03/27/2021,542,538,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Breckinridge, Kentucky, US",03/27/2021,1140,1141,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Bullitt, Kentucky, US",03/27/2021,6496,6764,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Butler, Kentucky, US",03/27/2021,1380,1384,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Caldwell, Kentucky, US",03/27/2021,1286,1287,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Calloway, Kentucky, US",03/27/2021,3440,3438,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Campbell, Kentucky, US",03/27/2021,8125,8137,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Carlisle, Kentucky, US",03/27/2021,451,452,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Carroll, Kentucky, US",03/27/2021,955,954,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Casey, Kentucky, US",03/27/2021,1241,1230,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Christian, Kentucky, US",03/27/2021,6442,6461,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Clark, Kentucky, US",03/27/2021,2614,2616,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Clay, Kentucky, US",03/27/2021,2570,2568,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Clinton, Kentucky, US",03/27/2021,1401,1388,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Crittenden, Kentucky, US",03/27/2021,584,588,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Cumberland, Kentucky, US",03/27/2021,672,673,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Daviess, Kentucky, US",03/27/2021,10095,10114,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Edmonson, Kentucky, US",03/27/2021,855,858,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Elliott, Kentucky, US",03/27/2021,938,943,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Fayette, Kentucky, US",03/27/2021,33938,33990,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Fleming, Kentucky, US",03/27/2021,1112,1114,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Floyd, Kentucky, US",03/27/2021,3157,3162,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Gallatin, Kentucky, US",03/27/2021,678,676,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Garrard, Kentucky, US",03/27/2021,1458,1453,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Grant, Kentucky, US",03/27/2021,2162,2165,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Graves, Kentucky, US",03/27/2021,4046,4038,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Grayson, Kentucky, US",03/27/2021,2038,2043,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Green, Kentucky, US",03/27/2021,1156,1155,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Greenup, Kentucky, US",03/27/2021,3420,3422,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Hancock, Kentucky, US",03/27/2021,836,835,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Hardin, Kentucky, US",03/27/2021,9246,9236,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Harlan, Kentucky, US",03/27/2021,2505,2508,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Harrison, Kentucky, US",03/27/2021,1594,1598,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Hart, Kentucky, US",03/27/2021,1889,1902,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Henderson, Kentucky, US",03/27/2021,4467,4474,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Henry, Kentucky, US",03/27/2021,1291,1288,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Hickman, Kentucky, US",03/27/2021,340,344,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Hopkins, Kentucky, US",03/27/2021,4183,4193,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Jackson, Kentucky, US",03/27/2021,1268,1271,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Jefferson, Kentucky, US",03/27/2021,76218,76072,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Jessamine, Kentucky, US",03/27/2021,4349,4353,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Johnson, Kentucky, US",03/27/2021,1849,1851,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kenton, Kentucky, US",03/27/2021,15594,15608,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Knott, Kentucky, US",03/27/2021,1106,1107,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Larue, Kentucky, US",03/27/2021,1275,1273,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Laurel, Kentucky, US",03/27/2021,6205,6239,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Lawrence, Kentucky, US",03/27/2021,1324,1327,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Lee, Kentucky, US",03/27/2021,1225,1241,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Leslie, Kentucky, US",03/27/2021,854,858,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Letcher, Kentucky, US",03/27/2021,1759,1763,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Lewis, Kentucky, US",03/27/2021,1124,1127,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Lincoln, Kentucky, US",03/27/2021,2177,2180,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Livingston, Kentucky, US",03/27/2021,782,783,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Logan, Kentucky, US",03/27/2021,2632,2636,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Lyon, Kentucky, US",03/27/2021,1566,1571,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Madison, Kentucky, US",03/27/2021,8958,8966,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Marion, Kentucky, US",03/27/2021,2204,2207,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Marshall, Kentucky, US",03/27/2021,2624,2638,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Martin, Kentucky, US",03/27/2021,973,978,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Mason, Kentucky, US",03/27/2021,1503,1504,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"McCracken, Kentucky, US",03/27/2021,6116,6126,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"McCreary, Kentucky, US",03/27/2021,1843,1860,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Meade, Kentucky, US",03/27/2021,1912,1931,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Mercer, Kentucky, US",03/27/2021,2451,2450,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Metcalfe, Kentucky, US",03/27/2021,993,990,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Morgan, Kentucky, US",03/27/2021,2094,2101,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Muhlenberg, Kentucky, US",03/27/2021,2837,2845,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Nelson, Kentucky, US",03/27/2021,4737,4731,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Nicholas, Kentucky, US",03/27/2021,489,492,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Ohio, Kentucky, US",03/27/2021,2375,2379,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Oldham, Kentucky, US",03/27/2021,7260,7274,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Owen, Kentucky, US",03/27/2021,641,642,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Owsley, Kentucky, US",03/27/2021,473,474,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Pendleton, Kentucky, US",03/27/2021,989,985,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Perry, Kentucky, US",03/27/2021,2495,2503,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Pike, Kentucky, US",03/27/2021,5329,5331,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Powell, Kentucky, US",03/27/2021,1057,1063,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Pulaski, Kentucky, US",03/27/2021,6022,6008,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Rockcastle, Kentucky, US",03/27/2021,1412,1414,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Rowan, Kentucky, US",03/27/2021,2079,2085,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Russell, Kentucky, US",03/27/2021,1765,1785,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Scott, Kentucky, US",03/27/2021,4539,4563,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Shelby, Kentucky, US",03/27/2021,4467,4469,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Simpson, Kentucky, US",03/27/2021,1884,1886,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Spencer, Kentucky, US",03/27/2021,1555,1512,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Taylor, Kentucky, US",03/27/2021,2923,2940,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Todd, Kentucky, US",03/27/2021,1028,1029,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Trigg, Kentucky, US",03/27/2021,1148,1149,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Trimble, Kentucky, US",03/27/2021,644,646,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Union, Kentucky, US",03/27/2021,1295,1294,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Warren, Kentucky, US",03/27/2021,15059,15083,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Washington, Kentucky, US",03/27/2021,1391,1393,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Wayne, Kentucky, US",03/27/2021,2099,2117,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Webster, Kentucky, US",03/27/2021,1188,1190,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Whitley, Kentucky, US",03/27/2021,4539,4525,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Woodford, Kentucky, US",03/27/2021,2062,2063,"Update Kentucky, US confirmed stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Boyle, Kentucky, US",03/27/2021,63,64,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Caldwell, Kentucky, US",03/27/2021,27,28,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Fleming, Kentucky, US",03/27/2021,18,20,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Franklin, Kentucky, US",03/27/2021,43,44,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Garrard, Kentucky, US",03/27/2021,28,29,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Grayson, Kentucky, US",03/27/2021,51,50,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Hardin, Kentucky, US",03/27/2021,136,137,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Henry, Kentucky, US",03/27/2021,9,10,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Jefferson, Kentucky, US",03/27/2021,1079,1082,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kenton, Kentucky, US",03/27/2021,161,162,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Laurel, Kentucky, US",03/27/2021,52,53,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Monroe, Kentucky, US",03/27/2021,39,40,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Montgomery, Kentucky, US",03/27/2021,31,30,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Ohio, Kentucky, US",03/27/2021,51,52,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Powell, Kentucky, US",03/27/2021,7,8,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Shelby, Kentucky, US",03/27/2021,66,67,"Update Kentucku, US deaths stale data"
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/27/2021,30219450,30220061,Update US stale case data for Kentucky
+04/13/2021,time_series_covid19_deaths_global.csv,US,03/27/2021,549108,549123,Update US stale death data for Kentucky
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/01/2020,110,126,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/02/2020,142,155,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/03/2020,173,194,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/04/2020,210,205,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/05/2020,230,225,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/06/2020,239,246,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/07/2020,252,261,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/08/2020,271,303,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/09/2020,303,330,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/10/2020,337,363,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/11/2020,371,369,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/13/2020,436,446,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/14/2020,462,516,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/15/2020,533,553,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",07/26/2020,14651,14561,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/20/2020,27184,27378,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/21/2020,27378,27658,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/22/2020,27658,27915,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/23/2020,27915,28140,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/24/2020,28140,28234,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/25/2020,28234,28520,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/26/2020,28520,28612,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/27/2020,28612,28854,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/28/2020,28854,28961,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/29/2020,28961,29105,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",08/30/2020,29105,29230,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/01/2020,29324,29459,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/02/2020,29459,29602,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/03/2020,29602,29763,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/04/2020,29763,29858,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/05/2020,29858,30040,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/06/2020,30040,30080,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/07/2020,30080,30179,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/08/2020,30179,30202,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/09/2020,30202,30371,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/10/2020,30371,30440,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/11/2020,30440,30563,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/12/2020,30563,30622,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/13/2020,30622,30735,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/14/2020,30735,30850,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/15/2020,30850,30916,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/16/2020,30916,31076,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/17/2020,31076,31148,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/18/2020,31148,31261,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/19/2020,31261,31379,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/20/2020,31379,31509,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/21/2020,31509,31572,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/22/2020,31572,31647,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/23/2020,31647,31712,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/24/2020,31712,31785,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/25/2020,31785,31865,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/26/2020,31865,31947,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/27/2020,31947,31994,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/28/2020,31994,32019,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/29/2020,32019,32073,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",09/30/2020,32073,32128,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/01/2020,32128,32184,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/02/2020,32184,32343,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/03/2020,32343,32443,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/04/2020,32443,32491,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/05/2020,32491,32522,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/06/2020,32522,32609,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/07/2020,32609,32674,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/08/2020,32674,32741,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/09/2020,32741,32831,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/10/2020,32831,32878,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/11/2020,32878,32966,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/12/2020,32966,33020,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/13/2020,33020,33089,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/14/2020,33089,33145,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/15/2020,33145,33225,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/16/2020,33225,33286,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/17/2020,33286,33373,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/18/2020,33373,33448,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/19/2020,33448,33497,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/20/2020,33497,33551,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/21/2020,33551,33630,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/22/2020,33630,33669,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/23/2020,33669,33775,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/24/2020,33775,33813,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/25/2020,33813,33881,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/26/2020,33881,33928,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/27/2020,33928,34027,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/28/2020,34027,34114,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/29/2020,34114,34154,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/30/2020,34154,34308,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",10/31/2020,34308,34378,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",11/07/2020,35063,35205,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",12/14/2020,50624,51612,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",01/08/2021,74732,76673,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",01/27/2021,91119,91762,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",02/18/2021,100849,101157,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",02/26/2021,102627,102998,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",02/27/2021,102627,103143,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",02/28/2021,102627,103295,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",03/07/2021,104181,104242,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",03/08/2021,104242,104307,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",03/12/2021,104564,104763,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/03/2021,106329,106420,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Kern, California, US",04/04/2021,106329,106460,"Correct Kern, California, US confirmed data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",04/09/2020,2,3,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/20/2020,228,229,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/21/2020,229,238,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/22/2020,238,240,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/25/2020,240,251,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/27/2020,251,256,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/28/2020,256,273,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",08/29/2020,273,286,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/01/2020,286,292,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/03/2020,296,294,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/09/2020,296,297,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/10/2020,297,307,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/11/2020,307,322,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/12/2020,322,326,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/13/2020,326,332,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/15/2020,332,333,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/16/2020,333,340,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/18/2020,340,350,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/19/2020,350,354,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/22/2020,354,357,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/23/2020,357,360,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/24/2020,360,361,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/25/2020,361,367,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/26/2020,367,369,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",09/30/2020,369,370,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/01/2020,370,371,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/02/2020,371,381,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/03/2020,381,386,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/06/2020,386,387,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/09/2020,387,392,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/10/2020,392,394,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/11/2020,394,395,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/13/2020,395,397,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/14/2020,397,406,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/16/2020,406,408,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/17/2020,408,410,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/20/2020,410,413,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/21/2020,413,415,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/22/2020,415,416,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/27/2020,416,420,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/29/2020,420,422,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/30/2020,422,423,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",10/31/2020,423,424,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",01/08/2021,523,539,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",01/27/2021,591,600,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",02/18/2021,690,727,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",02/26/2021,811,826,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",02/27/2021,826,827,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",02/28/2021,827,851,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/12/2021,964,982,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/13/2021,1132,987,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/14/2021,1140,988,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/15/2021,1141,988,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/16/2021,1141,993,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/17/2021,1141,1010,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/18/2021,1141,1026,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/19/2021,1141,1032,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/20/2021,1141,1043,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/21/2021,1141,1075,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/22/2021,1141,1094,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/23/2021,1141,1100,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/24/2021,1141,1120,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/25/2021,1198,1139,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/26/2021,1206,1167,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/27/2021,1211,1191,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",03/28/2021,1217,1216,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",04/03/2021,1277,1281,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_deaths_US.csv,"Kern, California, US",04/04/2021,1277,1286,"Correct Kern, California, US deaths data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Guam, US",04/10/2021,7833,7835,"Correct Guam, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Guam, US",04/11/2021,7833,7837,"Correct Guam, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/10/2021,31151495,31151497,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/11/2021,31197873,31197877,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/11/2020,16027437,16027441,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/12/2020,16245019,16245026,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/13/2020,16432715,16432729,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/14/2020,16627527,16627550,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/15/2020,16836519,16836556,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/16/2020,17083213,17083256,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/17/2020,17322930,17322981,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/18/2020,17574889,17574950,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/19/2020,17766783,17766856,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/20/2020,17954579,17954675,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/21/2020,18153612,18153724,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/22/2020,18351608,18351735,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/23/2020,18581212,18581353,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/24/2020,18775405,18775557,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/25/2020,18873051,18873203,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/26/2020,19099319,19099491,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/27/2020,19254940,19255126,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/28/2020,19429544,19429760,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/29/2020,19629775,19630012,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/30/2020,19863434,19863696,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,12/31/2020,20099090,20099363,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/01/2021,20252718,20252991,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/02/2021,20553013,20553301,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/03/2021,20761744,20762047,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/04/2021,20946009,20946329,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/05/2021,21181108,21181440,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/06/2021,21436533,21436884,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/07/2021,21714798,21715174,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/08/2021,22010001,22010389,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/09/2021,22270682,22271084,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/10/2021,22483919,22484332,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/11/2021,22698894,22699326,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/12/2021,22925803,22926246,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/13/2021,23156152,23156608,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/14/2021,23391852,23392315,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/15/2021,23634577,23635046,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/16/2021,23836246,23836726,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/17/2021,24014009,24014508,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/18/2021,24157407,24157924,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/19/2021,24334095,24334630,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/20/2021,24517313,24517866,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/21/2021,24711116,24711684,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/22/2021,24901853,24902437,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/23/2021,25072448,25073050,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/24/2021,25203499,25204112,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/25/2021,25355447,25356081,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/26/2021,25502966,25503621,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/27/2021,25656887,25657566,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/28/2021,25825486,25826176,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/29/2021,25992040,25992744,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/30/2021,26134339,26135056,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,01/31/2021,26246328,26247053,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/01/2021,26381512,26382255,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/02/2021,26496829,26497588,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/03/2021,26618450,26619229,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/04/2021,26742411,26743204,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/05/2021,26876801,26877601,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/06/2021,26980778,26981588,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/07/2021,27070408,27071236,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/08/2021,27160706,27161551,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/09/2021,27256327,27257183,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/10/2021,27351492,27352360,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/11/2021,27457233,27458120,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/12/2021,27556849,27557758,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/13/2021,27643955,27644880,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/14/2021,27708965,27709901,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/15/2021,27763149,27764087,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/16/2021,27825860,27826806,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/17/2021,27895977,27896924,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/18/2021,27965882,27966848,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/19/2021,28045171,28046145,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/20/2021,28116690,28117670,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/21/2021,28173759,28174750,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/22/2021,28229967,28230970,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/23/2021,28302222,28303233,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/24/2021,28376939,28377965,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/25/2021,28454431,28455466,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/26/2021,28531773,28532812,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/27/2021,28596346,28597387,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,02/28/2021,28647695,28648744,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/01/2021,28705915,28706973,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/02/2021,28762967,28764033,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/03/2021,28830151,28831226,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/04/2021,28898196,28899277,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/05/2021,28964641,28965728,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/06/2021,29022832,29023931,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/07/2021,29063832,29064938,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/08/2021,29108850,29109974,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/09/2021,29166483,29167616,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/10/2021,29224389,29225536,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/11/2021,29286851,29288010,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/12/2021,29348367,29349533,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/13/2021,29401288,29402465,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/14/2021,29439500,29440686,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/15/2021,29496149,29497352,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/16/2021,29550095,29551309,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/17/2021,29609216,29610445,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/18/2021,29669741,29670983,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/19/2021,29731361,29732612,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/20/2021,29786730,29787986,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/21/2021,29820490,29821754,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/22/2021,29872067,29873347,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/23/2021,29925655,29926950,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/24/2021,30012606,30013910,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/25/2021,30080058,30081375,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/26/2021,30157372,30158696,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/27/2021,30220061,30221396,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/28/2021,30263145,30264493,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/29/2021,30332565,30333922,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/30/2021,30393805,30395171,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,03/31/2021,30460834,30462210,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/01/2021,30539868,30541255,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/02/2021,30609690,30611086,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/03/2021,30672755,30674153,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/04/2021,30707727,30709125,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_global.csv,US,04/05/2021,30785390,30786804,Correct US confirmed data
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/11/2020,75,79,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/12/2020,107,114,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/13/2020,114,128,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/14/2020,94,117,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/15/2020,78,115,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/16/2020,70,113,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/17/2020,86,137,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/18/2020,74,135,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/19/2020,67,140,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/20/2020,90,186,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/21/2020,92,204,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/22/2020,97,224,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/23/2020,105,246,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/24/2020,124,276,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/25/2020,124,276,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/26/2020,137,309,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/27/2020,153,339,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/28/2020,184,400,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/29/2020,209,446,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/30/2020,222,484,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",12/31/2020,236,509,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/01/2021,236,509,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/02/2021,296,584,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/03/2021,460,763,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/04/2021,456,776,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/05/2021,456,788,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/06/2021,461,812,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/07/2021,423,799,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/08/2021,182,570,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/09/2021,101,503,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/10/2021,100,513,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/11/2021,99,531,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/12/2021,99,542,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/13/2021,115,571,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/14/2021,117,580,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/15/2021,133,602,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/16/2021,143,623,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/17/2021,144,643,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/18/2021,146,663,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/19/2021,146,681,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/20/2021,154,707,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/21/2021,143,711,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/22/2021,144,728,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/23/2021,123,725,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/24/2021,89,702,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/25/2021,90,724,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/26/2021,90,745,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/27/2021,94,773,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/28/2021,89,779,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/29/2021,89,793,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/30/2021,133,850,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",01/31/2021,134,859,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/01/2021,137,880,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/02/2021,135,894,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/03/2021,139,918,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/04/2021,115,908,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/05/2021,55,855,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/06/2021,32,842,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/07/2021,21,849,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/08/2021,34,879,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/09/2021,36,892,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/10/2021,26,894,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/11/2021,13,900,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/12/2021,10,919,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/13/2021,10,935,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/14/2021,9,945,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/15/2021,13,951,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/16/2021,12,958,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/17/2021,2,949,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/18/2021,11,977,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/19/2021,4,978,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/20/2021,11,991,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/21/2021,1,992,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/22/2021,1,1004,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/23/2021,2,1013,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/24/2021,2,1028,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/25/2021,1,1036,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/26/2021,3,1042,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/27/2021,2,1043,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",02/28/2021,1,1050,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/01/2021,2,1060,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/02/2021,2,1068,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/03/2021,2,1077,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/04/2021,3,1084,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/05/2021,4,1091,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/06/2021,8,1107,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/07/2021,5,1111,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/08/2021,7,1131,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/09/2021,7,1140,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/10/2021,4,1151,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/11/2021,8,1167,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/12/2021,17,1183,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/13/2021,7,1184,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/14/2021,10,1196,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/15/2021,12,1215,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/16/2021,244,1458,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/17/2021,735,1964,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/18/2021,1294,2536,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/19/2021,1710,2961,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/20/2021,1710,2966,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/21/2021,1710,2974,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/22/2021,2669,3949,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/23/2021,2853,4148,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/24/2021,691,1995,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/25/2021,1060,2377,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/26/2021,1527,2851,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/27/2021,1527,2862,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/28/2021,1527,2875,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/29/2021,2409,3766,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/30/2021,2530,3896,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/31/2021,511,1887,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/01/2021,924,2311,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/02/2021,1296,2692,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/03/2021,1296,2694,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/04/2021,1296,2694,"Correct Oklahoma, Unassigned, US confirmed data"
+04/13/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",04/05/2021,2169,3583,"Correct Oklahoma, Unassigned, US confirmed data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/01/2020,6,5,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/02/2020,6,5,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/04/2020,13,11,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/07/2020,16,13,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/08/2020,17,19,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/09/2020,20,22,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/10/2020,24,27,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/11/2020,25,27,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/12/2020,25,28,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/13/2020,31,30,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/14/2020,31,30,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/15/2020,31,37,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/16/2020,39,45,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/17/2020,47,54,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/19/2020,57,58,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/20/2020,60,58,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/21/2020,67,63,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/22/2020,67,71,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/23/2020,77,74,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/24/2020,80,79,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/28/2020,85,82,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/30/2020,93,91,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/01/2020,94,96,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/02/2020,97,98,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/03/2020,97,99,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/04/2020,97,99,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/05/2020,101,99,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/07/2020,108,110,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/08/2020,111,115,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/09/2020,114,119,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/10/2020,114,121,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/11/2020,115,121,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/12/2020,120,124,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/13/2020,138,131,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/14/2020,139,140,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/15/2020,150,149,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/16/2020,155,153,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/19/2020,157,156,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/21/2020,164,161,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/22/2020,173,167,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/23/2020,176,173,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/24/2020,176,175,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/25/2020,176,175,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/26/2020,176,175,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/27/2020,176,175,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/28/2020,190,183,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/29/2020,199,191,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/30/2020,204,196,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",05/31/2020,204,198,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/01/2020,204,198,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/02/2020,208,202,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/03/2020,209,202,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/04/2020,209,203,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/05/2020,217,207,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/06/2020,224,212,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/07/2020,224,214,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/08/2020,224,214,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/09/2020,224,214,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/10/2020,225,217,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/11/2020,227,219,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/12/2020,229,221,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/13/2020,229,223,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/14/2020,229,224,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/15/2020,228,224,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/16/2020,228,224,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/17/2020,229,225,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/18/2020,230,225,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/19/2020,230,226,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/20/2020,233,226,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/21/2020,233,229,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/22/2020,234,229,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/23/2020,234,229,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/24/2020,245,229,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/25/2020,248,239,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/26/2020,248,242,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/27/2020,248,243,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/28/2020,249,243,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/29/2020,249,245,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",06/30/2020,253,245,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/01/2020,258,249,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/02/2020,265,253,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/03/2020,269,260,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/05/2020,269,270,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/06/2020,269,270,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/08/2020,293,277,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/09/2020,304,296,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/10/2020,304,307,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/11/2020,304,308,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/12/2020,306,310,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/13/2020,307,312,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/14/2020,309,313,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/15/2020,310,316,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/16/2020,310,317,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/17/2020,315,321,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/18/2020,328,322,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/19/2020,328,336,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/20/2020,329,337,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/21/2020,333,338,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/22/2020,337,343,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/23/2020,358,348,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/24/2020,372,369,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/25/2020,372,386,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/26/2020,383,394,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/27/2020,383,400,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/28/2020,395,401,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/29/2020,419,412,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/30/2020,419,417,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",07/31/2020,409,427,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/01/2020,417,434,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/02/2020,417,440,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/03/2020,418,443,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/04/2020,477,444,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/05/2020,487,495,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/06/2020,490,504,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/07/2020,497,516,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/08/2020,502,524,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/09/2020,546,531,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/10/2020,546,579,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/11/2020,546,579,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/12/2020,555,584,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/13/2020,555,589,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/14/2020,561,591,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/15/2020,568,594,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/16/2020,568,602,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/17/2020,568,603,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/18/2020,616,604,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/19/2020,621,648,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/20/2020,625,661,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/21/2020,629,665,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/22/2020,691,668,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/23/2020,691,719,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/24/2020,692,719,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/25/2020,695,720,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/26/2020,709,727,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/27/2020,715,743,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/28/2020,716,751,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/29/2020,716,754,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/30/2020,716,755,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",08/31/2020,716,755,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/01/2020,736,755,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/02/2020,743,786,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/03/2020,744,794,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/04/2020,744,800,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/05/2020,765,800,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/06/2020,765,825,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/07/2020,765,823,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/08/2020,765,821,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/09/2020,791,856,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/10/2020,796,866,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/11/2020,800,867,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/12/2020,814,871,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/13/2020,832,896,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/14/2020,832,895,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/15/2020,835,895,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/16/2020,838,904,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/17/2020,839,907,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/18/2020,858,904,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/19/2020,908,970,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/20/2020,908,971,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/21/2020,908,970,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/22/2020,908,970,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/23/2020,908,971,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/24/2020,918,973,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/25/2020,922,988,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/26/2020,925,987,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/27/2020,925,988,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/28/2020,925,988,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/29/2020,952,988,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",09/30/2020,955,1012,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/01/2020,955,1018,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/02/2020,962,1021,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/03/2020,962,1028,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/04/2020,962,1031,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/05/2020,962,1031,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/06/2020,966,1031,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/07/2020,967,1040,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/08/2020,974,1043,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/09/2020,984,1048,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/10/2020,986,1057,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/11/2020,986,1061,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/12/2020,986,1061,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/13/2020,986,1061,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/14/2020,986,1061,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/15/2020,988,1063,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/16/2020,989,1067,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/17/2020,998,1069,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/18/2020,1021,1097,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/19/2020,1021,1098,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/20/2020,1028,1100,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/21/2020,1065,1109,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/22/2020,1070,1141,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/23/2020,1070,1149,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/24/2020,1072,1150,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/25/2020,1072,1153,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/26/2020,1072,1153,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/27/2020,1073,1153,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/28/2020,1073,1154,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/29/2020,1073,1154,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/30/2020,1074,1150,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/31/2020,1078,1156,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/01/2020,1078,1157,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/02/2020,1079,1157,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/03/2020,1079,1157,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/04/2020,1088,1159,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/05/2020,1092,1169,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/06/2020,1092,1174,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/07/2020,1093,1179,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/08/2020,1096,1182,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/09/2020,1096,1182,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/10/2020,1096,1182,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/11/2020,1096,1182,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/12/2020,1096,1182,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/13/2020,1097,1183,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/14/2020,1097,1184,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/15/2020,1097,1184,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/16/2020,1098,1185,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/17/2020,1098,1186,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/18/2020,1118,1188,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/19/2020,1124,1206,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/20/2020,1125,1215,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/21/2020,1127,1220,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/22/2020,1129,1222,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/23/2020,1129,1224,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/24/2020,1129,1224,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/25/2020,1129,1226,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/26/2020,1129,1225,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/27/2020,1129,1223,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/28/2020,1129,1224,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/29/2020,1129,1224,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",11/30/2020,1129,1223,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/01/2020,1129,1220,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/02/2020,1136,1220,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/03/2020,1154,1240,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/04/2020,1175,1283,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/05/2020,1175,1290,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/06/2020,1175,1283,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/07/2020,1188,1286,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/08/2020,1207,1295,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/09/2020,1208,1301,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/10/2020,1209,1305,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/11/2020,1209,1306,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/12/2020,1215,1313,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/13/2020,1223,1321,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/14/2020,1241,1333,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/15/2020,1241,1347,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/16/2020,1304,1351,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/17/2020,1323,1403,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/18/2020,1323,1425,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/19/2020,1327,1430,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/20/2020,1327,1433,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/21/2020,1375,1458,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/22/2020,1387,1476,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/23/2020,1407,1500,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/24/2020,1420,1509,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/25/2020,1420,1533,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/26/2020,1429,1546,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/27/2020,1437,1551,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/28/2020,1437,1551,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/29/2020,1438,1552,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/30/2020,1442,1557,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",12/31/2020,1445,1591,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/01/2021,1445,1586,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/02/2021,1445,1590,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/03/2021,1447,1597,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/04/2021,1449,1592,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/05/2021,1450,1615,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/06/2021,1454,1615,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/07/2021,1454,1634,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/08/2021,1486,1666,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/09/2021,1520,1703,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/10/2021,1531,1714,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/11/2021,1546,1736,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/12/2021,1551,1739,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/13/2021,1552,1739,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/14/2021,1560,1759,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/15/2021,1560,1750,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/16/2021,1560,1726,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/17/2021,1560,1755,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/18/2021,1560,1775,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/19/2021,1560,1775,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/20/2021,1560,1777,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/21/2021,1561,1801,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/22/2021,1579,1832,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/23/2021,1594,1849,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/24/2021,1667,1922,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/25/2021,1678,1935,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/26/2021,1719,1947,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/27/2021,1746,1970,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/28/2021,1776,2019,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/29/2021,1798,2057,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/30/2021,1821,2095,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",01/31/2021,1839,2122,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/01/2021,1856,2156,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/02/2021,1917,2172,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/03/2021,1966,2244,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/04/2021,2041,2308,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/05/2021,2080,2409,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/06/2021,2125,2495,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/07/2021,2125,2564,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/08/2021,2141,2587,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/09/2021,2142,2587,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/10/2021,2184,2613,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/11/2021,2243,2696,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/12/2021,2308,2774,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/13/2021,2352,2827,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/14/2021,2392,2899,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/15/2021,2418,2929,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/16/2021,2418,2945,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/17/2021,2457,2978,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/18/2021,2492,3020,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/19/2021,2522,3066,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/20/2021,2557,3117,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/21/2021,2612,3203,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/22/2021,2637,3247,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/23/2021,2651,3259,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/24/2021,2673,3283,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/25/2021,2673,3360,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/26/2021,2783,3409,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/27/2021,2816,3461,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",02/28/2021,2874,3527,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/01/2021,2940,3595,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/02/2021,2952,3603,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/03/2021,2959,3604,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/04/2021,3022,3664,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/05/2021,3116,3757,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/06/2021,3137,3774,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/07/2021,3153,3791,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/08/2021,3176,3810,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/09/2021,3180,3811,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/10/2021,3198,3823,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/11/2021,3225,3841,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/12/2021,3282,3869,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/17/2021,4004,4032,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/18/2021,4004,4049,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/19/2021,4004,4076,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/20/2021,4004,4017,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/21/2021,4004,3965,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/22/2021,4004,4094,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/23/2021,4004,4107,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",03/24/2021,4004,4134,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",04/03/2021,4404,4417,"Correct San Bernardino, California, US deaths data"
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/01/2020,6653,6652,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/02/2020,8165,8164,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/04/2020,11160,11158,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/07/2020,17122,17119,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/08/2020,19277,19279,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/09/2020,21480,21482,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/10/2020,23673,23676,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/11/2020,25801,25803,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/12/2020,27674,27677,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/13/2020,29687,29686,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/14/2020,32121,32120,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/15/2020,34726,34732,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/16/2020,36869,36875,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/17/2020,38978,38985,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/19/2020,42928,42929,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/20/2020,45160,45158,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/21/2020,47676,47672,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/22/2020,50128,50132,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/23/2020,52591,52588,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/24/2020,54777,54776,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/28/2020,61621,61618,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/30/2020,66233,66231,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/01/2020,68138,68140,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/02/2020,69870,69871,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/03/2020,71059,71061,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/04/2020,72438,72440,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/05/2020,74684,74682,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/07/2020,78923,78925,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/08/2020,80684,80688,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/09/2020,82151,82156,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/10/2020,83127,83134,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/11/2020,84170,84176,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/12/2020,85770,85774,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/13/2020,87508,87501,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/14/2020,89296,89297,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/15/2020,90966,90965,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/16/2020,92165,92163,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/19/2020,95667,95666,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/21/2020,98355,98352,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/22/2020,99575,99569,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/23/2020,100661,100658,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/24/2020,101298,101297,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/25/2020,101890,101889,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/26/2020,102567,102566,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/27/2020,104029,104028,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/28/2020,105136,105129,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/29/2020,106270,106262,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/30/2020,107224,107216,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,05/31/2020,107837,107831,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/01/2020,108613,108607,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/02/2020,109594,109588,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/03/2020,110605,110598,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/04/2020,111617,111611,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/05/2020,112512,112502,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/06/2020,113156,113144,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/07/2020,113613,113603,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/08/2020,114120,114110,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/09/2020,115033,115023,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/10/2020,115907,115899,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/11/2020,116737,116729,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/12/2020,117566,117558,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/13/2020,118299,118293,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/14/2020,118642,118637,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/15/2020,119037,119033,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/16/2020,119851,119847,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/17/2020,120590,120586,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/18/2020,121280,121275,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/19/2020,121908,121904,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/20/2020,122470,122463,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/21/2020,122784,122780,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/22/2020,123192,123187,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/23/2020,123940,123935,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/24/2020,124688,124672,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/25/2020,125218,125209,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/26/2020,125844,125838,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/27/2020,126346,126341,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/28/2020,126665,126659,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/29/2020,127048,127044,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,06/30/2020,127605,127597,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/01/2020,128310,128301,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/02/2020,129026,129014,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/03/2020,129693,129684,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/05/2020,130324,130325,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/06/2020,130700,130701,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/08/2020,132704,132688,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/09/2020,133716,133708,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/10/2020,134522,134525,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/11/2020,135249,135253,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/12/2020,135721,135725,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/13/2020,136165,136170,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/14/2020,137094,137098,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/15/2020,138067,138073,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/16/2020,139022,139029,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/17/2020,139947,139953,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/18/2020,140816,140810,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/19/2020,141282,141290,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/20/2020,141845,141853,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/21/2020,142939,142944,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/22/2020,144162,144168,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/23/2020,145248,145238,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/24/2020,146348,146345,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/25/2020,147261,147275,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/26/2020,147795,147806,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/27/2020,148915,148932,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/28/2020,150256,150262,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/29/2020,151683,151676,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/30/2020,152909,152907,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,07/31/2020,154126,154144,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/01/2020,155220,155237,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/02/2020,155651,155674,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/03/2020,156230,156255,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/04/2020,157570,157537,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/05/2020,158967,158975,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/06/2020,160205,160219,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/07/2020,161437,161456,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/08/2020,162512,162534,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/09/2020,163072,163057,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/10/2020,163660,163693,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/11/2020,164680,164713,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/12/2020,166183,166212,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/13/2020,167245,167279,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/14/2020,168585,168615,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/15/2020,169589,169615,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/16/2020,170198,170232,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/17/2020,170689,170724,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/18/2020,171962,171950,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/19/2020,173262,173289,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/20/2020,174356,174392,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/21/2020,175447,175483,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/22/2020,176415,176392,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/23/2020,176909,176937,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/24/2020,177383,177410,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/25/2020,178621,178646,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/26/2020,179794,179812,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/27/2020,180898,180926,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/28/2020,181868,181903,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/29/2020,182766,182804,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/30/2020,183218,183257,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,08/31/2020,183760,183799,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/01/2020,184810,184829,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/02/2020,185865,185908,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/03/2020,186895,186945,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/04/2020,187847,187903,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/05/2020,188629,188664,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/06/2020,189073,189133,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/07/2020,189370,189428,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/08/2020,189825,189881,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/09/2020,190976,191041,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/10/2020,191887,191957,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/11/2020,193064,193131,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/12/2020,193776,193833,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/13/2020,194204,194268,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/14/2020,194636,194699,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/15/2020,195839,195899,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/16/2020,196789,196855,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/17/2020,197648,197716,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/18/2020,198566,198612,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/19/2020,199282,199344,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/20/2020,199546,199609,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/21/2020,199974,200036,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/22/2020,201006,201068,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/23/2020,202061,202124,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/24/2020,202966,203021,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/25/2020,203899,203965,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/26/2020,204671,204733,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/27/2020,204985,205048,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/28/2020,205343,205406,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/29/2020,206203,206239,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,09/30/2020,207140,207197,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/01/2020,208007,208070,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/02/2020,208871,208930,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/03/2020,209547,209613,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/04/2020,209925,209994,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/05/2020,210406,210475,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/06/2020,211096,211161,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/07/2020,212015,212088,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/08/2020,213008,213077,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/09/2020,213981,214045,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/10/2020,214632,214703,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/11/2020,215099,215174,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/12/2020,215493,215568,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/13/2020,216289,216364,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/14/2020,217279,217354,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/15/2020,218128,218203,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/16/2020,219062,219140,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/17/2020,219831,219902,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/18/2020,220319,220395,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/19/2020,220797,220874,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/20/2020,221725,221797,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/21/2020,222874,222918,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/22/2020,223762,223833,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/23/2020,224721,224800,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/24/2020,225673,225751,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/25/2020,226132,226213,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/26/2020,226665,226746,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/27/2020,227639,227719,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/28/2020,228673,228754,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/29/2020,229677,229758,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/30/2020,230743,230819,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,10/31/2020,231651,231729,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/01/2020,232146,232225,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/02/2020,232719,232797,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/03/2020,234297,234375,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/04/2020,235419,235490,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/05/2020,236568,236645,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/06/2020,237802,237884,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/07/2020,238879,238965,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/08/2020,239450,239536,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/09/2020,240229,240315,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/10/2020,241647,241733,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/11/2020,243083,243169,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/12/2020,244287,244373,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/13/2020,245487,245573,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/14/2020,246833,246920,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/15/2020,247608,247695,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/16/2020,248437,248524,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/17/2020,250157,250245,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/18/2020,252093,252163,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/19/2020,254133,254215,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/20/2020,256082,256172,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/21/2020,257698,257791,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/22/2020,258730,258823,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/23/2020,259827,259922,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/24/2020,261956,262051,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/25/2020,264217,264314,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/26/2020,265602,265698,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/27/2020,267152,267246,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/28/2020,268511,268606,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/29/2020,269547,269642,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,11/30/2020,270893,270987,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/01/2020,273440,273531,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/02/2020,276259,276343,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/03/2020,279210,279296,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/04/2020,281887,281995,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/05/2020,284233,284348,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/06/2020,285585,285693,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/07/2020,287199,287297,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/08/2020,289827,289915,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/09/2020,293004,293097,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/10/2020,295996,296092,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/11/2020,299412,299509,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/12/2020,301869,301967,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/13/2020,303495,303593,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/14/2020,305151,305243,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/15/2020,308254,308360,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/16/2020,311976,312023,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/17/2020,315442,315522,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/18/2020,318385,318487,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/19/2020,321037,321140,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/20/2020,322748,322854,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/21/2020,324687,324770,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/22/2020,328080,328169,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/23/2020,331500,331593,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/24/2020,334410,334499,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/25/2020,335810,335923,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/26/2020,337690,337807,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/27/2020,339120,339234,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/28/2020,341123,341237,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/29/2020,344754,344868,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/30/2020,348484,348599,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,12/31/2020,351932,352078,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/01/2021,354086,354227,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/02/2021,356589,356734,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/03/2021,358030,358180,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/04/2021,360129,360272,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/05/2021,363820,363985,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/06/2021,367750,367911,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/07/2021,371716,371896,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/08/2021,375823,376003,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/09/2021,379141,379324,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/10/2021,381140,381323,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/11/2021,383236,383426,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/12/2021,387712,387900,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/13/2021,391741,391928,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/14/2021,395715,395914,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/15/2021,399615,399805,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/16/2021,403043,403209,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/17/2021,404911,405106,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/18/2021,406426,406641,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/19/2021,409158,409373,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/20/2021,413564,413781,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/21/2021,417745,417985,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/22/2021,421577,421830,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/23/2021,424920,425175,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/24/2021,426819,427074,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/25/2021,428790,429047,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/26/2021,432826,433054,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/27/2021,436790,437014,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/28/2021,440808,441051,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/29/2021,444424,444683,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/30/2021,447195,447469,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,01/31/2021,449036,449319,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/01/2021,451085,451385,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/02/2021,454559,454814,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/03/2021,458441,458719,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/04/2021,462187,462454,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/05/2021,465813,466142,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/06/2021,468413,468783,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/07/2021,469780,470219,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/08/2021,471390,471836,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/09/2021,474465,474910,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/10/2021,477790,478219,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/11/2021,480973,481426,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/12/2021,483889,484355,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/13/2021,486078,486553,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/14/2021,487207,487714,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/15/2021,488161,488672,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/16/2021,489893,490420,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/17/2021,492304,492825,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/18/2021,494816,495344,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/19/2021,497431,497975,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/20/2021,499233,499793,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/21/2021,500449,501040,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/22/2021,501753,502363,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/23/2021,504028,504636,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/24/2021,507204,507814,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/25/2021,509573,510260,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/26/2021,511701,512327,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/27/2021,513197,513842,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,02/28/2021,514283,514936,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/01/2021,515799,516454,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/02/2021,517753,518404,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/03/2021,520249,520894,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/04/2021,522190,522832,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/05/2021,523976,524617,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/06/2021,525484,526121,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/07/2021,526178,526816,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/08/2021,526922,527556,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/09/2021,528730,529361,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/10/2021,530306,530931,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/11/2021,531879,532495,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/12/2021,533473,534060,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/17/2021,538763,538791,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/18/2021,540408,540453,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/19/2021,541526,541598,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/20/2021,542327,542340,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/21/2021,542817,542778,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/22/2021,543406,543496,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/23/2021,544268,544371,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,03/24/2021,545752,545882,Correct US deaths data
+04/19/2021,time_series_covid19_deaths_global.csv,US,04/03/2021,555132,555145,Correct US deaths data
