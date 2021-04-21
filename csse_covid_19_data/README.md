@@ -313,6 +313,7 @@ Date: Location | Change | Reason/Other notes | Source
 * April 15, 2021: Alaska, US | Addition of 20 deaths identified through a death certificate review process | [Source](https://www.adn.com/alaska-news/2021/04/15/tracking-covid-19-in-alaska-194-cases-and-20-deaths-reported-thursday-after-death-certificate-review/)
 * April 15, 2021: Nebraksa, US | Removal of 21 duplicated deaths | [Source](https://siouxlandnews.com/news/coronavirus/covid-19-in-nebraska-04-15-2021)
 * April 17, 2021: Missouri, US | Removal of 11,454 double counted cases | [Source 1](https://www.kmbc.com/article/covid-19-live-updates-coronavirus-in-kansas-city-missouri-kansas-coronavirus-04162021/36144667#), [Source 2](https://showmestrong.mo.gov/data/public-health/statewide/)
+* April 20, 2021: Alabama, US | Inclusion of 1110 backlogged cases from October 23, 2020 to April 6, 2021. 1058 are in residents of Mobile County | [Source](https://alpublichealth.maps.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367) and see [issue #3984](https://github.com/CSSEGISandData/COVID-19/issues/3984)
 
 
 ## Large-scale back distributions
