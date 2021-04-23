@@ -17973,3 +17973,26 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 04/21/2021,time_series_covid19_deaths_US.csv,"Wayne, Michigan, US",04/20/2021,4442,4469,"Correct Michigan, US deaths data"
 04/21/2021,time_series_covid19_confirmed_global.csv,US,04/20/2021,31792636,31799237,Correct US confirmed data
 04/21/2021,time_series_covid19_deaths_global.csv,US,04/20/2021,568470,568560,Correct US deaths data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,03/30/2021,1765244,1769256,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,03/31/2021,1765244,1773236,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/01/2021,1765244,1777697,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/02/2021,1765244,1781629,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/03/2021,1765244,1785643,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/04/2021,1765244,1788209,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/05/2021,1765244,1791894,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/06/2021,1765244,1795213,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/07/2021,1765244,1798657,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/08/2021,1765244,1802033,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/09/2021,1765244,1804914,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/10/2021,1765244,1807676,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/11/2021,1765244,1809921,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/12/2021,1765244,1812694,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/13/2021,1765244,1815237,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/14/2021,1765244,1817866,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/15/2021,1765244,1820959,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/16/2021,1765244,1823732,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/17/2021,1765244,1826646,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/18/2021,1765244,1829480,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/19/2021,1765244,1833132,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/20/2021,1765244,1836377,Correct Mexico recovered data
+04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/21/2021,1765244,1839381,Correct Mexico recovered data
