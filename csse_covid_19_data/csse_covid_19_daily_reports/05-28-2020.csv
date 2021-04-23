@@ -163,7 +163,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 33001,Belknap,New Hampshire,US,2020-05-29 02:32:50,43.51637314,-71.41684235,57,0,0,57,"Belknap, New Hampshire, US"
 21013,Bell,Kentucky,US,2020-05-29 02:32:50,36.73355174,-83.67766671,1,0,0,1,"Bell, Kentucky, US"
 48027,Bell,Texas,US,2020-05-29 02:32:50,31.03736027,-97.4785025,335,3,0,332,"Bell, Texas, US"
-39013,Belmont,Ohio,US,2020-05-29 02:32:50,40.01625942,-80.9924051,412,13,0,400,"Belmont, Ohio, US"
+39013,Belmont,Ohio,US,2020-05-29 02:32:50,40.01625942,-80.9924051,412,14,0,400,"Belmont, Ohio, US"
 27007,Beltrami,Minnesota,US,2020-05-29 02:32:50,47.97373527,-94.93732139,14,0,0,14,"Beltrami, Minnesota, US"
 13017,Ben Hill,Georgia,US,2020-05-29 02:32:50,31.76095874,-83.22145359,71,1,0,70,"Ben Hill, Georgia, US"
 16009,Benewah,Idaho,US,2020-05-29 02:32:50,47.21754179,-116.6586851,9,0,0,9,"Benewah, Idaho, US"
@@ -3522,3 +3522,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zimbabwe,2020-05-29 02:32:50,-19.015438,29.154857,149,4,28,117,Zimbabwe
 2066,Copper River,Alaska,US,2021-04-02 15:13:53,60.3886,-162.8905196,0,0,0,0,"Copper River, Alaska, US"
 2063,Chugach,Alaska,US,2021-04-02 15:13:53,61.16666,-149.9,2,0,0,0,"Chugach, Alaska, US"
+,,Unknown,China,2020-05-29 02:32:50,,,0,0,0,0,"Unknown, China"

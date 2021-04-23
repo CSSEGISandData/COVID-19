@@ -3193,3 +3193,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2020-05-03 02:32:28,15.552726999999999,48.516388,10,2,1,7,Yemen
 ,,,Zambia,2020-05-03 02:32:28,-13.133897,27.849332,119,3,75,41,Zambia
 ,,,Zimbabwe,2020-05-03 02:32:28,-19.015438,29.154857,34,4,5,25,Zimbabwe
+,,Unknown,China,2020-05-03 02:32:28,,,0,0,0,0,"Unknown, China"

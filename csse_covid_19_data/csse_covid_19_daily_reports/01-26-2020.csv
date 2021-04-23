@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/26/20 16:00,1058,52,42
 Guangdong,Mainland China,1/26/20 16:00,111,,2
 Zhejiang,Mainland China,1/26/20 16:00,104,,1
@@ -46,3 +46,4 @@ Arizona,US,1/26/20 16:00,1,,
 ,Nepal,1/26/20 16:00,1,,
 ,Malaysia,1/26/20 16:00,4,,
 Ontario,Canada,1/26/20 16:00,1,,
+Unknown,China,1/26/20 16:00,,,
