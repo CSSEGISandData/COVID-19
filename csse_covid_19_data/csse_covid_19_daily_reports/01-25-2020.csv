@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/25/20 17:00,761,40,32
 Guangdong,Mainland China,1/25/20 17:00,78,,2
 Zhejiang,Mainland China,1/25/20 17:00,62,,1
@@ -43,3 +43,4 @@ Illinois,US,1/25/20 17:00,1,,
 ,Australia,1/25/20 17:00,4,,
 ,Nepal,1/25/20 17:00,1,,
 ,Malaysia,1/25/20 17:00,3,,
+Unknown,China,1/25/20 17:00,,,
