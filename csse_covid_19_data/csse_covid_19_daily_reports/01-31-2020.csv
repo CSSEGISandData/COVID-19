@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/31/2020 23:59,5806,204,141
 Zhejiang,Mainland China,1/31/2020 23:59,538,,14
 Guangdong,Mainland China,1/31/2020 23:59,436,,11
@@ -61,3 +61,4 @@ British Columbia,Canada,1/31/2020 23:59,1,,
 ,Philippines,1/31/2020 23:59,1,,
 ,India,1/31/2020 23:59,1,,
 ,Sweden,1/31/2020 23:59,1,,
+Unknown,China,1/31/2020 23:59,,,

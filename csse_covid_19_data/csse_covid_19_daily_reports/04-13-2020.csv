@@ -1086,7 +1086,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37093,Hoke,North Carolina,US,2020-04-13 23:07:54,35.01888303,-79.23651674,18,0,0,18,"Hoke, North Carolina, US"
 12059,Holmes,Florida,US,2020-04-13 23:07:54,30.86747479,-85.81319222,2,0,0,2,"Holmes, Florida, US"
 28051,Holmes,Mississippi,US,2020-04-13 23:07:54,33.12345854,-90.08923538,46,3,0,43,"Holmes, Mississippi, US"
-39075,Holmes,Ohio,US,2020-04-13 23:07:54,40.56163713,-81.92635677,3,1,0,3,"Holmes, Ohio, US"
+39075,Holmes,Ohio,US,2020-04-13 23:07:54,40.56163713,-81.92635677,3,0,0,3,"Holmes, Ohio, US"
 15003,Honolulu,Hawaii,US,2020-04-13 23:07:54,21.45803166,-157.97121819999995,352,6,0,346,"Honolulu, Hawaii, US"
 48221,Hood,Texas,US,2020-04-13 23:07:54,32.42990927,-97.83242024,13,1,0,12,"Hood, Texas, US"
 41027,Hood River,Oregon,US,2020-04-13 23:07:54,45.51872811,-121.65520359999998,4,0,0,4,"Hood River, Oregon, US"
@@ -1266,7 +1266,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 44003,Kent,Rhode Island,US,2020-04-13 23:07:54,41.67106337,-71.57641596,169,0,0,169,"Kent, Rhode Island, US"
 21117,Kenton,Kentucky,US,2020-04-13 23:07:54,38.93950319,-84.53241199,91,8,0,83,"Kenton, Kentucky, US"
 19107,Keokuk,Iowa,US,2020-04-13 23:07:54,41.33649833,-92.1785067,2,0,0,2,"Keokuk, Iowa, US"
-6029,Kern,California,US,2020-04-13 23:07:54,35.34329425,-118.72777959999999,436,3,0,433,"Kern, California, US"
+6029,Kern,California,US,2020-04-13 23:07:54,35.34329425,-118.72777959999999,446,3,0,433,"Kern, California, US"
 48265,Kerr,Texas,US,2020-04-13 23:07:54,30.06040006,-99.34930144,2,0,0,2,"Kerr, Texas, US"
 45055,Kershaw,South Carolina,US,2020-04-13 23:07:54,34.33988254,-80.58763164,181,4,0,177,"Kershaw, South Carolina, US"
 2130,Ketchikan Gateway,Alaska,US,2020-04-13 23:07:54,55.57445008,-130.975561,15,0,0,15,"Ketchikan Gateway, Alaska, US"
@@ -2136,7 +2136,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-04-13 23:07:54,34.98820368,-78.36914061,13,0,0,13,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,2020-04-13 23:07:54,31.39457611,-94.17000399,9,1,0,8,"San Augustine, Texas, US"
 6069,San Benito,California,US,2020-04-13 23:07:54,36.60308176,-121.069975,35,2,0,33,"San Benito, California, US"
-6071,San Bernardino,California,US,2020-04-13 23:07:54,34.84060306,-116.1774685,887,31,0,856,"San Bernardino, California, US"
+6071,San Bernardino,California,US,2020-04-13 23:07:54,34.84060306,-116.1774685,887,30,0,856,"San Bernardino, California, US"
 6073,San Diego,California,US,2020-04-13 23:07:54,33.03484597,-116.73653259999999,1804,45,0,1759,"San Diego, California, US"
 6075,San Francisco,California,US,2020-04-13 23:07:54,37.75215114,-122.43856720000001,957,15,0,942,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-04-13 23:07:54,30.57933681,-95.16260304,7,0,0,7,"San Jacinto, Texas, US"
@@ -3002,3 +3002,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2020-04-13 23:07:34,15.552726999999999,48.516388,1,0,0,1,Yemen
 ,,,Zambia,2020-04-13 23:07:34,-13.133897,27.849332,45,2,30,13,Zambia
 ,,,Zimbabwe,2020-04-13 23:07:34,-19.015438,29.154857,17,3,0,14,Zimbabwe
+,,Unknown,China,2020-04-13 23:07:54,,,0,0,0,0,"Unknown, China"

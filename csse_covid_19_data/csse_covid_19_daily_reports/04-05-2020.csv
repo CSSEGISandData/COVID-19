@@ -996,7 +996,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37093,Hoke,North Carolina,US,2020-04-05 23:06:45,35.01888303,-79.23651674,10,0,0,0,"Hoke, North Carolina, US"
 12059,Holmes,Florida,US,2020-04-05 23:06:45,30.86747479,-85.81319222,1,0,0,0,"Holmes, Florida, US"
 28051,Holmes,Mississippi,US,2020-04-05 23:06:45,33.12345854,-90.08923538,21,1,0,0,"Holmes, Mississippi, US"
-39075,Holmes,Ohio,US,2020-04-05 23:06:45,40.56163713,-81.92635677,1,1,0,0,"Holmes, Ohio, US"
+39075,Holmes,Ohio,US,2020-04-05 23:06:45,40.56163713,-81.92635677,1,0,0,0,"Holmes, Ohio, US"
 15003,Honolulu,Hawaii,US,2020-04-05 23:06:45,21.45803166,-157.97121819999995,281,4,0,0,"Honolulu, Hawaii, US"
 48221,Hood,Texas,US,2020-04-05 23:06:45,32.42990927,-97.83242024,9,1,0,0,"Hood, Texas, US"
 41027,Hood River,Oregon,US,2020-04-05 23:06:45,45.51872811,-121.65520359999998,2,0,0,0,"Hood River, Oregon, US"
@@ -1159,7 +1159,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 44003,Kent,Rhode Island,US,2020-04-05 23:06:45,41.67106337,-71.57641596,82,0,0,0,"Kent, Rhode Island, US"
 21117,Kenton,Kentucky,US,2020-04-05 23:06:45,38.93950319,-84.53241199,33,3,0,0,"Kenton, Kentucky, US"
 19107,Keokuk,Iowa,US,2020-04-05 23:06:45,41.33649833,-92.1785067,2,0,0,0,"Keokuk, Iowa, US"
-6029,Kern,California,US,2020-04-05 23:06:45,35.34329425,-118.72777959999999,230,2,0,0,"Kern, California, US"
+6029,Kern,California,US,2020-04-05 23:06:45,35.34329425,-118.72777959999999,225,2,0,0,"Kern, California, US"
 48265,Kerr,Texas,US,2020-04-05 23:06:45,30.06040006,-99.34930144,2,0,0,0,"Kerr, Texas, US"
 45055,Kershaw,South Carolina,US,2020-04-05 23:06:45,34.33988254,-80.58763164,148,2,0,0,"Kershaw, South Carolina, US"
 2130,Ketchikan Gateway,Alaska,US,2020-04-05 23:06:45,55.57445008,-130.975561,14,0,0,0,"Ketchikan Gateway, Alaska, US"
@@ -2764,3 +2764,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zambia,2020-04-05 23:06:26,-13.133897,27.849332,39,1,3,35,Zambia
 ,,,Zimbabwe,2020-04-05 23:06:26,-19.015438,29.154857,9,1,0,8,Zimbabwe
 ,unassigned,Wyoming,US,2020-04-05 23:06:45,,,0,0,0,0,"unassigned, Wyoming, US"
+,,Unknown,China,2020-04-05 23:06:45,,,0,0,0,0,"Unknown, China"

@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/30/20 16:00,4903,162,90
 Zhejiang,Mainland China,1/30/20 16:00,428,,4
 Guangdong,Mainland China,1/30/20 16:00,354,,10
@@ -57,3 +57,4 @@ Bavaria,Germany,1/30/20 16:00,4,,
 ,United Arab Emirates,1/30/20 16:00,4,,
 ,Philippines,1/30/20 16:00,1,,
 ,India,1/30/20 16:00,1,,
+Unknown,China,1/30/20 16:00,,,

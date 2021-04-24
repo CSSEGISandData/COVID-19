@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/28/20 23:00,3554,125,80
 Guangdong,Mainland China,1/28/20 23:00,207,,4
 Zhejiang,Mainland China,1/28/20 23:00,173,,3
@@ -51,3 +51,4 @@ British Columbia,Canada,1/28/20 23:00,1,,
 New South Wales,Australia,1/28/20 23:00,4,,
 Victoria,Australia,1/28/20 23:00,1,,
 Bavaria,Germany,1/28/20 23:00,4,,
+Unknown,China,1/28/20 23:00,,,

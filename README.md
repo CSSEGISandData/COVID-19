@@ -21,7 +21,7 @@ https://systems.jhu.edu/
 
 
 <b>DATA SOURCES:</b>
-This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g., WHO, ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
+This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
@@ -74,7 +74,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Delaware Emergency Management Agency: https://coronavirus.delaware.gov/
   - Utah Department of Health: https://coronavirus-dashboard.utah.gov/#overview
   - Arizona Emergency Support Function (ESF)/Recovery Support Function (RSF) Operations Dashboard: https://www.arcgis.com/apps/MapSeries/index.html?appid=62e6bfa682a34e6aae9d9255ac865467
-  - Departamento de Salud, Puerto Rico: https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/d7308c1abb4747e584329adf1215125e
+  - Departamento de Salud, Puerto Rico: https://covid19datos.salud.gov.pr/
   - Arkansas Department of Health: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
   - Maine Department of Health and Human Services: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
   - Pennsylvania Department of Health: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
@@ -195,6 +195,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
   - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
   - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
+  - Gobierno De El Salvador: https://covid19.gob.sv/
   - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
   - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
   - OpenCOVID19 France: https://github.com/opencovid19-fr
@@ -207,6 +208,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
   - Chile: https://www.gob.cl/coronavirus/cifrasoficiales/
+  - Denmark Statens Serum Institut: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
   - Brazil Ministry of Health: https://covid.saude.gov.br/
   - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
   - Belgium Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
@@ -229,6 +231,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Kazakhstan: https://www.coronavirus2020.kz/
   - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
   - Slovakia Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - Switzerland Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
+  - Switzerland Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
+  - Thailand Ministry of Public Health: https://ddc.moph.go.th/viralpneumonia/eng/index.php and https://covid19.ddc.moph.go.th/en
     
 
 

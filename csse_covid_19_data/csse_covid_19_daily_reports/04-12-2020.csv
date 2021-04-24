@@ -1078,7 +1078,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37093,Hoke,North Carolina,US,2020-04-12 23:18:00,35.01888303,-79.23651674,18,0,0,18,"Hoke, North Carolina, US"
 12059,Holmes,Florida,US,2020-04-12 23:18:00,30.86747479,-85.81319222,2,0,0,2,"Holmes, Florida, US"
 28051,Holmes,Mississippi,US,2020-04-12 23:18:00,33.12345854,-90.08923538,44,3,0,41,"Holmes, Mississippi, US"
-39075,Holmes,Ohio,US,2020-04-12 23:18:00,40.56163713,-81.92635677,3,1,0,3,"Holmes, Ohio, US"
+39075,Holmes,Ohio,US,2020-04-12 23:18:00,40.56163713,-81.92635677,3,0,0,3,"Holmes, Ohio, US"
 15003,Honolulu,Hawaii,US,2020-04-12 23:18:00,21.45803166,-157.9712182,350,6,0,344,"Honolulu, Hawaii, US"
 48221,Hood,Texas,US,2020-04-12 23:18:00,32.42990927,-97.83242024,13,1,0,12,"Hood, Texas, US"
 41027,Hood River,Oregon,US,2020-04-12 23:18:00,45.51872811,-121.6552036,4,0,0,4,"Hood River, Oregon, US"
@@ -2122,7 +2122,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-04-12 23:18:00,34.98820368,-78.36914061,11,0,0,11,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,2020-04-12 23:18:00,31.39457611,-94.17000399,9,1,0,8,"San Augustine, Texas, US"
 6069,San Benito,California,US,2020-04-12 23:18:00,36.60308176,-121.069975,35,2,0,33,"San Benito, California, US"
-6071,San Bernardino,California,US,2020-04-12 23:18:00,34.84060306,-116.1774685,810,25,0,785,"San Bernardino, California, US"
+6071,San Bernardino,California,US,2020-04-12 23:18:00,34.84060306,-116.1774685,810,28,0,785,"San Bernardino, California, US"
 6073,San Diego,California,US,2020-04-12 23:18:00,33.03484597,-116.7365326,1761,45,0,1716,"San Diego, California, US"
 6075,San Francisco,California,US,2020-04-12 23:18:00,37.75215114,-122.4385672,872,14,0,858,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-04-12 23:18:00,30.57933681,-95.16260304,5,0,0,5,"San Jacinto, Texas, US"
@@ -2989,3 +2989,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zambia,2020-04-12 23:17:00,-13.133897,27.849332,43,2,30,11,Zambia
 ,,,Zimbabwe,2020-04-12 23:17:00,-19.015438,29.154857,14,3,0,11,Zimbabwe
 ,unassigned,Utah,US,2020-04-12 23:18:00,,,4,5,0,-1,"unassigned, Utah, US"
+,,Unknown,China,2020-04-12 23:18:00,,,0,0,0,0,"Unknown, China"
