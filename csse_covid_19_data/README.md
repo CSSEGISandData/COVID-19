@@ -361,7 +361,7 @@ United States
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
 * Nevada: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
-* North Carolina: Providing data Monday-Saturday.
+* North Carolina: Providing data Monday-Friday.
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
