@@ -17998,9 +17998,12 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 04/22/2021,time_series_covid19_recovered_global.csv,Mexico,04/21/2021,1765244,1839381,Correct Mexico recovered data
 04/24/2021,time_series_covid19_confirmed_global.csv,Mexico,04/22/2021,2319596,2319519,Correct Mexico confirmed data
 04/24/2021,time_series_covid19_deaths_global.csv,Mexico,04/22/2021,214079,214095,Correct Mexico deaths data
-04/24/2021,time_series_covid19_deaths_global.csv,China,04/22/2021,-1,0,Correct Unknown, China deaths data
-04/24/2021,time_series_covid19_recovered_global.csv,China,04/22/2021,-1,4,Correct Unknown, China recovered data
-04/24/2021,time_series_covid19_cases_global.csv,China,04/22/2021,-1,0,Correct Unknown, China confirmed data
-04/24/2021,time_series_covid19_deaths_global.csv,China,04/23/2021,-1,0,Correct Unknown, China deaths data
-04/24/2021,time_series_covid19_recovered_global.csv,China,04/23/2021,-1,5,Correct Unknown, China recovered data
-04/24/2021,time_series_covid19_cases_global.csv,China,04/23/2021,-1,0,Correct Unknown, China confirmed data
+04/24/2021,time_series_covid19_deaths_global.csv,China,04/22/2021,-1,0,"Correct Unknown, China deaths data"
+04/24/2021,time_series_covid19_recovered_global.csv,China,04/22/2021,-1,4,"Correct Unknown, China recovered data"
+04/24/2021,time_series_covid19_cases_global.csv,China,04/22/2021,-1,0,"Correct Unknown, China confirmed data"
+04/24/2021,time_series_covid19_deaths_global.csv,China,04/23/2021,-1,0,"Correct Unknown, China deaths data"
+04/24/2021,time_series_covid19_recovered_global.csv,China,04/23/2021,-1,5,"Correct Unknown, China recovered data"
+04/24/2021,time_series_covid19_cases_global.csv,China,04/23/2021,-1,0,"Correct Unknown, China confirmed data"
+04/26/2021,time_series_covid19_confirmed_global.csv,China,04/03/2021,1051,0,"Correct Unknown, China confirmed data"
+04/26/2021,time_series_covid19_deaths_global.csv,China,04/03/2021,9,0,"Correct Unknown, China deaths data"
+04/26/2021,time_series_covid19_recovered_global.csv,China,04/03/2021,1237,0,"Correct Unknown, China recovered data"
