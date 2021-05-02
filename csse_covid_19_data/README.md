@@ -371,7 +371,7 @@ United States
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
-* South Dakota: Providing data Monday-Saturday.
+* South Dakota: Providing data Monday-Friday.
 * Tennessee: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
 * Wyoming: Providing data Monday-Friday.
