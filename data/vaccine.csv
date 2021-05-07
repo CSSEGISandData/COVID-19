@@ -27,18 +27,18 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-07,All,1040000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-07,All,2686691
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-07,All,11000
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-07,All,14924694
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-07,All,15182710
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-07,All,1732582
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-07,All,1995496
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-07,All,519507
-12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-07,All,285000
+12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-07,All,293550
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-07,All,191130
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-05-07,All,59758
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-05-07,All,347283
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-05-07,All,28963
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-05-07,All,5740761
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-05-07,All,5885485
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-05-07,All,48007
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-05-07,All,3446157
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-05-07,All,3550899
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-07,All,480910
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-07,All,49140
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-05-07,All,15367439
@@ -156,7 +156,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-05-07,All,509705
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-05-07,All,12998
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-05-07,All,1107307
-442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2021-05-07,All,220251
+442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2021-05-07,All,227314
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2021-05-07,All,311751
 458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.97576600000001,Malaysia,2021-05-07,All,1500202
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2021-05-07,All,423770
@@ -300,19 +300,19 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-05-07,All,375283
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-05-07,All,822196
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-05-07,All,11048547
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-05-07,All,51516840
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-05-07,All,52125311
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-05-07,All,6898
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2021-05-07,All,55904
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2021-05-07,All,69573
-82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2021-05-07,All,42864836
+82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2021-05-07,All,43385662
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2021-05-07,All,4407
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2021-05-07,All,72674
 833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2021-05-07,All,75013
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366000000004,"Montserrat, United Kingdom",2021-05-07,All,1909
-82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2021-05-07,All,1416826
+82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2021-05-07,All,1436817
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-05-07,All,4572
-82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-05-07,All,4260931
-82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-05-07,All,2683297
+82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-05-07,All,4300841
+82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-05-07,All,2711041
 858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-07,All,1974244
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-05-07,All,600369
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-05-07,All,250000
