@@ -27,9 +27,9 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-07,All,1040000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-07,All,2686691
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-07,All,11000
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-07,All,15278237
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-07,All,15325183
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-07,All,1792312
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-07,All,1995496
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-07,All,2042442
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-07,All,534647
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-07,All,293550
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-07,All,191130
@@ -51,12 +51,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2021-05-07,All,979181
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2021-05-07,All,287816
 203,CZ,CZE,203,,,,Czechia,49.8175,15.472999999999999,Czechia,2021-05-07,All,3521575
-208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-05-07,All,2258055
+208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-05-07,All,2155301
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-05-07,All,21128
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-05-07,All,14177
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-05-07,All,27821
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-05-07,All,2197153
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-05-07,All,1141262
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-05-07,All,1182085
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802497999999996,Egypt,2021-05-07,All,660000
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-05-07,All,1068428
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2021-05-07,All,75518
@@ -300,7 +300,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-05-07,All,375283
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-05-07,All,822196
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-05-07,All,11048547
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-05-07,All,52125311
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-05-07,All,52213715
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-05-07,All,6898
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2021-05-07,All,55904
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2021-05-07,All,69573
