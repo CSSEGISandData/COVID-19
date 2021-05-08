@@ -27,11 +27,11 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-08,All,1040000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-08,All,2765622
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-08,All,11000
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-08,All,15557914
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-08,All,15566626
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-08,All,1792312
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-08,All,2042442
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-08,All,534647
-12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-08,All,293550
+12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-08,All,302262
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-08,All,194727
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-05-08,All,59758
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-05-08,All,356978
@@ -65,7 +65,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2021-05-08,All,1215934
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2021-05-08,All,56000
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2021-05-08,All,2108973
-250,FR,FRA,250,,,,France,46.2276,2.2137,France,2021-05-08,All,24989919
+250,FR,FRA,250,,,,France,46.2276,2.2137,France,2021-05-08,All,25652804
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2021-05-08,All,8897
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2021-05-08,All,20922
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2021-05-08,All,54687
