@@ -15,7 +15,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-05-09,All,9133278
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2021-05-09,All,75296
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2021-05-09,All,328500
-56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2021-05-09,All,4508413
+56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2021-05-09,All,4570560
 84,BZ,BLZ,84,,,,Belize,17.1899,-88.4976,Belize,2021-05-09,All,46659
 64,BT,BTN,64,,,,Bhutan,27.5142,90.4336,Bhutan,2021-05-09,All,481400
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2021-05-09,All,878563
@@ -52,7 +52,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2021-05-09,All,287816
 203,CZ,CZE,203,,,,Czechia,49.8175,15.472999999999999,Czechia,2021-05-09,All,3609719
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-05-09,All,2258055
-234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-05-09,All,21362
+234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-05-09,All,22715
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-05-09,All,14278
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-05-09,All,27821
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-05-09,All,2264381
@@ -119,7 +119,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2021-05-09,All,21666868
 364,IR,IRN,364,,,,Iran,32.427908,53.68804599999999,Iran,2021-05-09,All,1485287
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,2021-05-09,All,298377
-372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2021-05-09,All,1746912
+372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2021-05-09,All,1799190
 376,IL,ISR,376,,,,Israel,31.046051000000002,34.851612,Israel,2021-05-09,All,10493027
 380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2021-05-09,All,23667315
 38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2021-05-09,All,533647
