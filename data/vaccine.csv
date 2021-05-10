@@ -21,15 +21,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2021-05-10,All,878563
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2021-05-10,All,106464
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2021-05-10,All,49882
-76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-05-10,All,51412480
+76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-05-10,All,51861607
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-05-10,All,10715
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-05-10,All,938064
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-05-10,All,963539
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-10,All,1040000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-10,All,2884922
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-10,All,11000
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-10,All,16113179
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-10,All,1889039
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-10,All,2042442
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-10,All,16258155
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-10,All,1916957
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-10,All,2159103
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-10,All,565219
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-10,All,308697
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-10,All,205902
@@ -37,10 +37,10 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-05-10,All,366089
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-05-10,All,29297
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-05-10,All,6238778
-12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-05-10,All,49439
+12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-05-10,All,49811
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-05-10,All,3781451
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-10,All,527257
-12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-10,All,49811
+12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-10,All,49836
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-05-10,All,15705775
 156,CN,CHN,156,,,,China,35.8617,104.19545,China,2021-05-10,All,324307000
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2021-05-10,All,1741682
