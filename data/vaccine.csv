@@ -21,7 +21,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2021-05-11,All,878563
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2021-05-11,All,106464
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2021-05-11,All,53375
-76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-05-11,All,52063089
+76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-05-11,All,52075709
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-05-11,All,15905
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-05-11,All,963539
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-11,All,1040000
@@ -300,7 +300,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-05-11,All,395805
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-05-11,All,866283
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-05-11,All,11273344
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-05-11,All,54062194
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-05-11,All,54059927
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-05-11,All,6898
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2021-05-11,All,58193
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2021-05-11,All,69772
