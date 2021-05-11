@@ -27,18 +27,18 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-11,All,1040000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-11,All,2942768
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-11,All,11000
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-11,All,16258155
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-11,All,16436663
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-11,All,1916957
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-11,All,2159103
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-11,All,565219
-12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-11,All,308697
+12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-11,All,312060
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-11,All,205902
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-05-11,All,59758
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-05-11,All,366089
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-05-11,All,29297
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-05-11,All,6238778
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-05-11,All,6350881
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-05-11,All,49811
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-05-11,All,3781451
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-05-11,All,3844493
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-11,All,527257
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-11,All,49836
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-05-11,All,15705775
@@ -156,7 +156,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-05-11,All,509705
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-05-11,All,13829
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-05-11,All,1182905
-442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2021-05-11,All,241270
+442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2021-05-11,All,248492
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2021-05-11,All,319323
 458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.97576600000001,Malaysia,2021-05-11,All,1766651
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2021-05-11,All,431792
@@ -186,7 +186,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 585,PW,PLW,8,,,,Palau,7.515,134.5825,Palau,2021-05-11,All,20806
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-05-11,All,780569
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-05-11,All,2900
-600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-11,All,143441
+600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-11,All,168628
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-11,All,2087463
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-05-11,All,2408781
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-11,All,12570181
@@ -240,7 +240,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-05-11,All,61345
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-05-11,All,499369
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-11,All,25018078
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-11,All,261193077
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-11,All,261225017
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-05-11,All,2773615
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-05-11,All,575340
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-05-11,All,39666
@@ -257,7 +257,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000015,US,USA,840,15,,Hawaii,US,21.0943,-157.4983,"Hawaii, US",2021-05-11,All,1386111
 84000016,US,USA,840,16,,Idaho,US,44.2405,-114.4788,"Idaho, US",2021-05-11,All,1132419
 84000017,US,USA,840,17,,Illinois,US,40.3495,-88.9861,"Illinois, US",2021-05-11,All,10228284
-84000018,US,USA,840,18,,Indiana,US,39.8494,-86.2583,"Indiana, US",2021-05-11,All,4587006
+84000018,US,USA,840,18,,Indiana,US,39.8494,-86.2583,"Indiana, US",2021-05-11,All,4618946
 84000019,US,USA,840,19,,Iowa,US,42.0115,-93.2105,"Iowa, US",2021-05-11,All,2581316
 84000020,US,USA,840,20,,Kansas,US,38.5266,-96.7265,"Kansas, US",2021-05-11,All,2151543
 84000021,US,USA,840,21,,Kentucky,US,37.6681,-84.6701,"Kentucky, US",2021-05-11,All,3326637
