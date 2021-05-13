@@ -158,6 +158,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Kansas: Douglas County Coronavirus Response and Recovery Hub: https://coronavirus-response-dgco.hub.arcgis.com/
   - Kansas: Finney County COVID-19 Resource Hub: https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/
   - Kansas: Riley County Corona Virus Response: https://coronavirus-response-rcitgis.hub.arcgis.com/
+  - West Virginia Department of Health & Human Resources: https://dhhr.wv.gov/COVID-19/Pages/default.aspx
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
@@ -202,6 +203,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
   - Israel: https://datadashboard.health.gov.il/COVID-19/general
+  - Indonesia: https://covid19.go.id/peta-sebaran
   - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
