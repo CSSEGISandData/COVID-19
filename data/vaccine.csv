@@ -8,7 +8,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 32,AR,ARG,32,,,,Argentina,-38.4161,-63.6167,Argentina,2021-05-13,All,9383945
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2021-05-13,All,10727
 36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2021-05-13,All,2812486
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-05-13,All,3850698
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-05-13,All,3842006
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-05-13,All,1727510
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-05-13,All,36000
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-05-13,All,1434023
@@ -21,20 +21,20 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2021-05-13,All,1010981
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2021-05-13,All,106464
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2021-05-13,All,53375
-76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-05-13,All,56198422
+76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-05-13,All,56229652
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-05-13,All,15905
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-05-13,All,1035763
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-13,All,2200000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-13,All,3069337
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-13,All,11000
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-13,All,17161558
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-13,All,17180749
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-13,All,1975341
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-13,All,2277318
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-13,All,605555
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-13,All,327633
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-13,All,213678
-12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-05-13,All,63617
-12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-05-13,All,387683
+12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-05-13,All,67758
+12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-05-13,All,402733
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-05-13,All,29402
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-05-13,All,6629363
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-05-13,All,49811
