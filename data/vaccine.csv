@@ -8,7 +8,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 32,AR,ARG,32,,,,Argentina,-38.4161,-63.6167,Argentina,2021-05-14,All,9383945
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2021-05-14,All,10727
 36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2021-05-14,All,2812486
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-05-14,All,3842006
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-05-14,All,3880377
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-05-14,All,1727510
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-05-14,All,36000
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-05-14,All,1434023
@@ -52,7 +52,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2021-05-14,All,400004
 203,CZ,CZE,203,,,,Czechia,49.8175,15.472999999999999,Czechia,2021-05-14,All,3920844
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-05-14,All,2490079
-234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-05-14,All,25623
+234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-05-14,All,26253
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-05-14,All,15308
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-05-14,All,32008
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-05-14,All,2640409
@@ -69,7 +69,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2021-05-14,All,10678
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2021-05-14,All,24659
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2021-05-14,All,67136
-276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-05-14,All,36893056
+276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-05-14,All,38646171
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-05-14,All,852047
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-05-14,All,3973336
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-05-14,All,17000
