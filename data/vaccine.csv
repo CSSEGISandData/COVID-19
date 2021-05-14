@@ -51,13 +51,13 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-05-14,All,327023
 7628,BR,BRA,76,,,Unassigned,Brazil,,,"Unassigned, Brazil",2021-05-14,All,0
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-05-14,All,15905
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-05-14,All,1073523
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-05-14,All,1106760
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-14,All,2200000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-14,All,3132686
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-14,All,11000
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-14,All,17609312
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-14,All,2019713
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-14,All,2335513
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-14,All,17734322
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-14,All,2086589
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-14,All,2393265
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-14,All,625404
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-14,All,338127
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-14,All,225459
@@ -68,7 +68,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-05-14,All,49811
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-05-14,All,4127768
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-14,All,553389
-12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-14,All,50270
+12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-14,All,50652
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-05-14,All,16469052
 156,CN,CHN,156,,,,China,35.8617,104.19545,China,2021-05-14,All,366910000
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2021-05-14,All,1856616
@@ -288,7 +288,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2021-05-14,All,12819
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-05-14,All,910338
 728,SS,SSD,728,,,,South Sudan,6.877000000000001,31.307,South Sudan,2021-05-14,All,947
-724,ES,ESP,724,,,,Spain,40.463667,-3.7492199999999998,Spain,2021-05-14,All,23878785
+724,ES,ESP,724,,,,Spain,40.463667,-3.7492199999999998,Spain,2021-05-14,All,21683707
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2021-05-14,All,1309840
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2021-05-14,All,140227
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2021-05-14,All,49902
