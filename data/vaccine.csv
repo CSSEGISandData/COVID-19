@@ -8,7 +8,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 32,AR,ARG,32,,,,Argentina,-38.4161,-63.6167,Argentina,2021-05-15,All,9541511
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2021-05-15,All,10727
 36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2021-05-15,All,2894770
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-05-15,All,3889317
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-05-15,All,3969265
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-05-15,All,1748525
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-05-15,All,36000
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-05-15,All,1440591
@@ -283,7 +283,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-05-15,All,128919
 694,SL,SLE,694,,,,Sierra Leone,8.460555000000001,-11.779889,Sierra Leone,2021-05-15,All,64966
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore,2021-05-15,All,3137330
-703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2021-05-15,All,1977026
+703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2021-05-15,All,2014730
 705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2021-05-15,All,784447
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2021-05-15,All,12819
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-05-15,All,910338
