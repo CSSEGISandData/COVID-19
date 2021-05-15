@@ -130,7 +130,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2021-05-15,All,10678
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2021-05-15,All,24659
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2021-05-15,All,77343
-276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-05-15,All,38714021
+276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-05-15,All,39414342
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-05-15,All,852047
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-05-15,All,4079168
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-05-15,All,19519
@@ -250,23 +250,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-15,All,175127
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-15,All,2261096
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-05-15,All,2542066
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-15,All,15144771
-61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-05-15,All,1239462
-61602,PL,POL,616,,,Kujawsko-pomorskie,Poland,53.1648,18.4834,"Kujawsko-pomorskie, Poland",2021-05-15,All,769498
-61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2021-05-15,All,1009421
-61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2021-05-15,All,791502
-61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2021-05-15,All,402803
-61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2021-05-15,All,1219566
-61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2021-05-15,All,2277556
-61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2021-05-15,All,388869
-61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2021-05-15,All,767867
-61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2021-05-15,All,501730
-61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2021-05-15,All,1012320
-61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2021-05-15,All,1767014
-61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2021-05-15,All,429907
-61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2021-05-15,All,518695
-61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2021-05-15,All,1311415
-61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2021-05-15,All,703017
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-15,All,15509013
+61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-05-15,All,1268112
+61602,PL,POL,616,,,Kujawsko-pomorskie,Poland,53.1648,18.4834,"Kujawsko-pomorskie, Poland",2021-05-15,All,786470
+61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2021-05-15,All,1033037
+61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2021-05-15,All,808001
+61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2021-05-15,All,412797
+61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2021-05-15,All,1251246
+61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2021-05-15,All,2331515
+61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2021-05-15,All,398652
+61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2021-05-15,All,785432
+61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2021-05-15,All,511380
+61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2021-05-15,All,1035912
+61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2021-05-15,All,1819080
+61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2021-05-15,All,439223
+61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2021-05-15,All,528617
+61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2021-05-15,All,1342968
+61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2021-05-15,All,720671
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-05-15,All,4284623
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-05-15,All,1944628
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-05-15,All,6318512
@@ -359,7 +359,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",2021-05-15,All,5084661
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2021-05-15,All,376441
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-05-15,All,418354
-804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-05-15,All,926520
+804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-05-15,All,950158
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-05-15,All,11445680
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-05-15,All,55836564
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-05-15,All,6898
