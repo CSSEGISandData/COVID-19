@@ -369,6 +369,7 @@ United States
 * Louisiana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
+* Nebraska: Providing data Monday-Friday.
 * Nevada: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
 * North Carolina: Providing data Monday-Friday.
