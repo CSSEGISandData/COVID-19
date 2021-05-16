@@ -250,23 +250,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-16,All,175127
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-16,All,2338369
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-05-16,All,2790287
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-16,All,15509013
-61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-05-16,All,1268112
-61602,PL,POL,616,,,Kujawsko-pomorskie,Poland,53.1648,18.4834,"Kujawsko-pomorskie, Poland",2021-05-16,All,786470
-61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2021-05-16,All,1033037
-61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2021-05-16,All,808001
-61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2021-05-16,All,412797
-61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2021-05-16,All,1251246
-61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2021-05-16,All,2331515
-61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2021-05-16,All,398652
-61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2021-05-16,All,785432
-61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2021-05-16,All,511380
-61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2021-05-16,All,1035912
-61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2021-05-16,All,1819080
-61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2021-05-16,All,439223
-61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2021-05-16,All,528617
-61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2021-05-16,All,1342968
-61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2021-05-16,All,720671
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-16,All,15776030
+61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-05-16,All,1287784
+61602,PL,POL,616,,,Kujawsko-pomorskie,Poland,53.1648,18.4834,"Kujawsko-pomorskie, Poland",2021-05-16,All,797377
+61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2021-05-16,All,1047473
+61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2021-05-16,All,815271
+61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2021-05-16,All,421619
+61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2021-05-16,All,1275576
+61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2021-05-16,All,2379801
+61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2021-05-16,All,404475
+61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2021-05-16,All,799432
+61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2021-05-16,All,517534
+61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2021-05-16,All,1055375
+61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2021-05-16,All,1858075
+61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2021-05-16,All,445142
+61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2021-05-16,All,535169
+61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2021-05-16,All,1365639
+61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2021-05-16,All,733801
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-05-16,All,4357120
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-05-16,All,1976748
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-05-16,All,6426286
@@ -283,7 +283,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-05-16,All,131068
 694,SL,SLE,694,,,,Sierra Leone,8.460555000000001,-11.779889,Sierra Leone,2021-05-16,All,64966
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore,2021-05-16,All,3200000
-703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2021-05-16,All,2014730
+703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2021-05-16,All,2038373
 705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2021-05-16,All,829238
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2021-05-16,All,12819
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-05-16,All,948636
