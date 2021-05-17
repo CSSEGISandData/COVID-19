@@ -162,10 +162,6 @@ This list includes a complete list of all sources ever used in the data set, sin
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
-  - National Health Commission of the People’s Republic of China (NHC):
-    http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
-  - China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
-  
   - Afghanistan: 
     - Ministry of Public Health: http://covid.moph-dw.org/#/
     - Afghanistan Times: http://www.afghanistantimes.af/
@@ -203,6 +199,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Chile: 
     - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
     - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
+  - China:
+    - National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
+    - China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
   - Colombia:
     - National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
   - Czech Republic (Czechia):
