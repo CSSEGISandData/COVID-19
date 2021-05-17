@@ -236,6 +236,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Health & Wellness: https://www.moh.gov.jm
   - Japan: 
     - COVID19Japan: https://covid19japan.com/#all-prefectures
+  - Jordan:
+    - Ministry of Health: https://corona.moh.gov.jo/en
   - Kazakhstan: 
     - Kazinform: https://www.coronavirus2020.kz/
   - Kosovo:
