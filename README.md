@@ -162,9 +162,6 @@ This list includes a complete list of all sources ever used in the data set, sin
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
-  - Afghanistan: 
-    - Ministry of Public Health: http://covid.moph-dw.org/#/
-    - Afghanistan Times: http://www.afghanistantimes.af/
   - Australia:
     - Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
     - COVID Live: https://www.covidlive.com.au/
@@ -255,8 +252,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - Pakistan:
     - Government of Pakistan: http://covid.gov.pk/stats/pakistan
-  - Palestine (West Bank and Gaza): 
-    - Palestinian Ministry of Health: https://corona.ps/details
   - Peru:
     - National Police of Peru (PNP) - Directorate of Intelligence (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
     - Ministry of Health of Peru: https://covid19.minsa.gob.pe/sala_situacional.asp
@@ -266,8 +261,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Serbia:
     - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
-  - Singapore:
-    - Ministry of Health Singapore: https://www.moh.gov.sg/covid-19
   - Slovakia: 
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
   - South Africa:
