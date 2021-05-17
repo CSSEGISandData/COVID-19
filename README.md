@@ -214,34 +214,44 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
-  - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
-  - Chile: https://www.gob.cl/coronavirus/cifrasoficiales/
-  - Denmark Statens Serum Institut: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
-  - Brazil Ministry of Health: https://covid.saude.gov.br/
-  - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
-  - Belgium Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
-  - Gobierono De Mexico:https://datos.covid-19.conacyt.mx/#DOView
-  - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
-  - Jamaica Ministry of Health & Wellness: https://www.moh.gov.jm
-  - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
-  - Colombia National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
   - Afghanistan: 
     - Ministry of Public Health: http://covid.moph-dw.org/#/
     - Afghanistan Times: http://www.afghanistantimes.af/
+  - Belgium:
+    - Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
+  - Brazil: 
+    - Ministry of Health: https://covid.saude.gov.br/
+    - Federal University of Viçosa - Brazil: https://github.com/wcota/covid19br (Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362))
+  - Chile: 
+    - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
+    - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
+  - Colombia:
+    - National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+  - Denmark:
+    - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d  
   - Iceland:
     - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - India:
     - Government of India: https://www.mygov.in/covid-19
+  - Japan: 
+    - COVID19Japan: https://covid19japan.com/#all-prefectures
+  - Jamaica: 
+    - Ministry of Health & Wellness: https://www.moh.gov.jm
   - Kazakhstan: 
     - Kazinform: https://www.coronavirus2020.kz/
   - Lithuania: 
     - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
   - Luxembourg: 
     - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+  - Mexico:
+    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
   - Netherlands:
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - Pakistan:
     - Government of Pakistan: http://covid.gov.pk/stats/pakistan
+  - Peru:
+    - National Police of Peru (PNP) - Directorate of Intelligence (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
+    - Ministry of Health of Peru: https://covid19.minsa.gob.pe/sala_situacional.asp
   - Russia: 
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Scotland:
