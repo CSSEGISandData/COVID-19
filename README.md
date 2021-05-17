@@ -220,10 +220,10 @@ This list includes a complete list of all sources ever used in the data set, sin
     - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
   - Iceland:
     - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
-  - Indonesia: 
-    - National Board for Disaster Management: https://covid19.go.id/peta-sebaran
   - India:
     - Government of India: https://www.mygov.in/covid-19
+  - Indonesia: 
+    - National Board for Disaster Management: https://covid19.go.id/peta-sebaran
   - Ireland:
     - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
   - Israel:
