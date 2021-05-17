@@ -557,7 +557,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39049,Franklin,Ohio,US,3/22/20 23:45,39.96995815,-83.01115755,34,2,0,0,"Franklin, Ohio, US"
 39153,Summit,Ohio,US,3/22/20 23:45,41.12464734,-81.53123079,23,0,0,0,"Summit, Ohio, US"
 39093,Lorain,Ohio,US,3/22/20 23:45,41.29553751,-82.15083537,19,0,0,0,"Lorain, Ohio, US"
-39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,0,0,0,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,1,0,0,"Hamilton, Ohio, US"
 39099,Mahoning,Ohio,US,3/22/20 23:45,41.01631101,-80.77287029,18,0,0,0,"Mahoning, Ohio, US"
 39017,Butler,Ohio,US,3/22/20 23:45,39.44012838,-84.57388716,17,0,0,0,"Butler, Ohio, US"
 39109,Miami,Ohio,US,3/22/20 23:45,40.0543329,-84.22871271,13,1,0,0,"Miami, Ohio, US"
