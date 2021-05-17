@@ -225,25 +225,45 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Jamaica Ministry of Health & Wellness: https://www.moh.gov.jm
   - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
   - Colombia National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
-  - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
-  - Ukraine: https://covid19.rnbo.gov.ua/
-  - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
-  - Government of India: https://www.mygov.in/covid-19
-  - Lithuania: https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa
-  - Government of Pakistan: http://covid.gov.pk/stats/pakistan
-  - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
-  - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
-  - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
-  - Iceland Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
-  - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
-  - Afghanistan: http://covid.moph-dw.org/#/ and http://www.afghanistantimes.af/
-  - Kazakhstan: https://www.coronavirus2020.kz/
-  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
-  - Slovakia Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
-  - South Africa National Insitute for Communicable Diseases: https://www.nicd.ac.za/media/alerts/
-  - Switzerland Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
-  - Switzerland Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
-  - Thailand Ministry of Public Health: https://ddc.moph.go.th/viralpneumonia/eng/index.php and https://covid19.ddc.moph.go.th/en
+  - Afghanistan: 
+    - Ministry of Public Health: http://covid.moph-dw.org/#/
+    - Afghanistan Times: http://www.afghanistantimes.af/
+  - Iceland:
+    - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
+  - India:
+    - Government of India: https://www.mygov.in/covid-19
+  - Kazakhstan: 
+    - Kazinform: https://www.coronavirus2020.kz/
+  - Lithuania: 
+    - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
+  - Luxembourg: 
+    - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+  - Netherlands:
+    - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+  - Pakistan:
+    - Government of Pakistan: http://covid.gov.pk/stats/pakistan
+  - Russia: 
+    - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
+  - Scotland:
+    - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
+  - Slovakia: 
+    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - South Africa:
+    - National Insitute for Communicable Diseases: https://www.nicd.ac.za/media/alerts/
+  - Sweden:
+    - The Swedish Public Health Agency: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
+  - Switzerland:
+    - Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
+    - Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
+  - Thailand: 
+    - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
+    - Ministry of Public Health, Department of Disease Control Situational Reports: https://covid19.ddc.moph.go.th/en
+  - Turkey: 
+    - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+  - Ukraine: 
+    - Office of the National Security and Defense Council of Ukraine: https://covid19.rnbo.gov.ua/
+  - United Kingdom
+    - Government of the United Kingdom: https://coronavirus.data.gov.uk/#category=nations&map=rate
     
 
 
