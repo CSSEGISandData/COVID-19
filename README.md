@@ -262,8 +262,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - El Salvador:
     - Government of El Salvador: https://covid19.gob.sv/
-  - Scotland:
-    - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
   - Serbia:
     - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Singapore:
@@ -292,6 +290,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - The Supreme Council For National Security, National Emergency Crisis and Disasters Management Authority: https://covid19.ncema.gov.ae/en
   - United Kingdom
     - Government of the United Kingdom: https://coronavirus.data.gov.uk/#category=nations&map=rate
+    - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
     
 
 
