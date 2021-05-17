@@ -218,6 +218,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * May 3, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * May 4, 2021 | Kansas, US | Update Labette, Kansas deaths based on correct data from state dashboard | [KS Dashboard](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas)
 * May 10, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* May 17, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -369,6 +370,7 @@ United States
 * Louisiana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
+* Nebraska: Providing data Monday-Friday.
 * Nevada: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
 * North Carolina: Providing data Monday-Friday.

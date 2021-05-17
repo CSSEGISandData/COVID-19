@@ -1166,7 +1166,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20075,Hamilton,Kansas,US,2020-03-23 23:19:34,37.99978709,-101.7921066,0,0,0,0,"Hamilton, Kansas, US"
 31081,Hamilton,Nebraska,US,2020-03-23 23:19:34,40.87349452,-98.02099117,0,0,0,0,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-03-23 23:19:34,43.66146647,-74.49721957,2,0,0,0,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,2020-03-23 23:19:34,39.19673558,-84.54502924,26,0,0,0,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,2020-03-23 23:19:34,39.19673558,-84.54502924,26,1,0,0,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,2020-03-23 23:19:34,35.17670231,-85.16652245,12,0,0,0,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,2020-03-23 23:19:34,31.70470573,-98.11083887,0,0,0,0,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,2020-03-23 23:19:34,44.67385954,-97.18829593,0,0,0,0,"Hamlin, South Dakota, US"
