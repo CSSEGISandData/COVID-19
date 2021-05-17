@@ -208,6 +208,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Health Information System, Regional Hygiene Stations, Ministry of Health of the Czech Republic: https://onemocneni-aktualne.mzcr.cz/covid-19
   - Denmark:
     - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
+  - El Salvador:
+    - Government of El Salvador: https://covid19.gob.sv/
   - France:
     - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/
     - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
@@ -260,8 +262,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
   - Russia: 
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
-  - El Salvador:
-    - Government of El Salvador: https://covid19.gob.sv/
   - Serbia:
     - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Singapore:
