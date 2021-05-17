@@ -195,7 +195,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
     - COVID Live: https://www.covidlive.com.au/
   - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
-  - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+  - Italy Ministry of Health: http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp
   - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
   - Italy:
     - Dati COVID-19 Italia: https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
@@ -220,7 +220,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Brazil Ministry of Health: https://covid.saude.gov.br/
   - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
   - Belgium Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
-  - Gobierono De Mexico:https://datos.covid-19.conacyt.mx/#DOView
+  - Gobierno de México: https://datos.covid-19.conacyt.mx/#DOView
   - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
   - Jamaica Ministry of Health & Wellness: https://www.moh.gov.jm
   - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
