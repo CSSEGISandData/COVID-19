@@ -216,6 +216,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Belgium Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
   - Gobierono De Mexico:https://datos.covid-19.conacyt.mx/#DOView
   - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
+  - Jamaica Ministry of Health & Wellness: https://www.moh.gov.jm
   - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
   - Colombia National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
