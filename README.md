@@ -213,7 +213,6 @@ This list includes a complete list of all sources ever used in the data set, sin
   - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
-  - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Afghanistan: 
     - Ministry of Public Health: http://covid.moph-dw.org/#/
     - Afghanistan Times: http://www.afghanistantimes.af/
@@ -233,10 +232,10 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - India:
     - Government of India: https://www.mygov.in/covid-19
-  - Japan: 
-    - COVID19Japan: https://covid19japan.com/#all-prefectures
   - Jamaica: 
     - Ministry of Health & Wellness: https://www.moh.gov.jm
+  - Japan: 
+    - COVID19Japan: https://covid19japan.com/#all-prefectures
   - Kazakhstan: 
     - Kazinform: https://www.coronavirus2020.kz/
   - Lithuania: 
@@ -256,6 +255,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Scotland:
     - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
+  - Serbia:
+    - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Slovakia: 
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
   - South Africa:
