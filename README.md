@@ -288,6 +288,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
   - Ukraine: 
     - Office of the National Security and Defense Council of Ukraine: https://covid19.rnbo.gov.ua/
+  - United Arab Emirates:
+    - The Supreme Council For National Security, National Emergency Crisis and Disasters Management Authority: https://covid19.ncema.gov.ae/en
   - United Kingdom
     - Government of the United Kingdom: https://coronavirus.data.gov.uk/#category=nations&map=rate
     
