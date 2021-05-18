@@ -21,7 +21,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2021-05-18,All,1106725
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2021-05-18,All,106464
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2021-05-18,All,53375
-76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-05-18,All,59239848
+76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-05-18,All,59307638
 7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",2021-05-18,All,153647
 7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",2021-05-18,All,798364
 7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",2021-05-18,All,153999
@@ -29,24 +29,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",2021-05-18,All,4389248
 7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",2021-05-18,All,2426479
 7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",2021-05-18,All,853524
-7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",2021-05-18,All,1114455
-7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",2021-05-18,All,1755176
+7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",2021-05-18,All,1135924
+7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",2021-05-18,All,1769266
 7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",2021-05-18,All,1544288
-7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",2021-05-18,All,763093
-7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",2021-05-18,All,947599
+7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",2021-05-18,All,765423
+7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",2021-05-18,All,948660
 7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",2021-05-18,All,6285756
 7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",2021-05-18,All,1945838
 7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",2021-05-18,All,1158579
 7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",2021-05-18,All,3282538
 7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",2021-05-18,All,2379507
-7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",2021-05-18,All,801696
-7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",2021-05-18,All,898255
-7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",2021-05-18,All,3913460
+7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",2021-05-18,All,802044
+7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",2021-05-18,All,904278
+7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",2021-05-18,All,3927904
 7619,BR,BRA,76,,,Rio de Janeiro,Brazil,-22.9068,-43.1729,"Rio de Janeiro, Brazil",2021-05-18,All,4285626
 7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",2021-05-18,All,331483
 7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",2021-05-18,All,126257
 7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",2021-05-18,All,2044606
-7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",2021-05-18,All,14939264
+7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",2021-05-18,All,14947289
 7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",2021-05-18,All,551392
 7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-05-18,All,338992
 7628,BR,BRA,76,,,Unassigned,Brazil,,,"Unassigned, Brazil",2021-05-18,All,0
@@ -55,19 +55,19 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-18,All,2543762
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-18,All,3333079
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-18,All,44391
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-18,All,16917056
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-18,All,19023737
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-18,All,2217446
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-18,All,2217446
-12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-18,All,603125
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-18,All,2528398
+12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-18,All,666748
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-05-18,All,363342
-12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-18,All,237786
+12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-05-18,All,241526
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-05-18,All,73978
-12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-05-18,All,430856
+12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-05-18,All,436054
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-05-18,All,30171
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-05-18,All,7286177
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-05-18,All,50998
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-05-18,All,4469055
-12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-18,All,603125
+12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-18,All,608524
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-18,All,51320
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-05-18,All,16735397
 156,CN,CHN,156,,,,China,35.8617,104.19545,China,2021-05-18,All,421991000
@@ -135,7 +135,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-05-18,All,852047
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-05-18,All,4461576
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-05-18,All,19519
-320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-05-18,All,293643
+320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-05-18,All,279902
 324,GN,GIN,324,,,,Guinea,9.9456,-9.6966,Guinea,2021-05-18,All,204717
 328,GY,GUY,328,,,,Guyana,4.860416000000001,-58.93018000000001,Guyana,2021-05-18,All,153494
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-05-18,All,57639
@@ -248,8 +248,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 585,PW,PLW,8,,,,Palau,7.515,134.5825,Palau,2021-05-18,All,21209
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-05-18,All,844078
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-05-18,All,3000
-600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-18,All,211277
-604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-18,All,2670386
+600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-18,All,212250
+604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-18,All,2677171
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-05-18,All,2921196
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-18,All,16043547
 61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-05-18,All,1312458
@@ -301,8 +301,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-05-18,All,276000
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-05-18,All,61850
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-05-18,All,823614
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-18,All,26740763
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-18,All,274979249
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-18,All,26743296
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-18,All,275014348
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-05-18,All,2905553
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-05-18,All,603937
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-05-18,All,40525
@@ -346,10 +346,10 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000041,US,USA,840,41,,Oregon,US,44.571999999999996,-122.0709,"Oregon, US",2021-05-18,All,3683177
 84000042,US,USA,840,42,,Pennsylvania,US,40.5908,-77.2098,"Pennsylvania, US",2021-05-18,All,11675948
 630,PR,PRI,630,72,,Puerto Rico,US,18.2208,-66.5901,"Puerto Rico, US",2021-05-18,All,2370464
-84000044,US,USA,840,44,,Rhode Island,US,41.6809,-71.5118,"Rhode Island, US",2021-05-18,All,1083323
+84000044,US,USA,840,44,,Rhode Island,US,41.6809,-71.5118,"Rhode Island, US",2021-05-18,All,1089649
 84000045,US,USA,840,45,,South Carolina,US,33.8569,-80.945,"South Carolina, US",2021-05-18,All,3589981
 84000046,US,USA,840,46,,South Dakota,US,44.2998,-99.4388,"South Dakota, US",2021-05-18,All,751812
-84000047,US,USA,840,47,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",2021-05-18,All,4612461
+84000047,US,USA,840,47,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",2021-05-18,All,4641234
 84000048,US,USA,840,48,,Texas,US,31.0545,-97.5635,"Texas, US",2021-05-18,All,21430921
 84000049,US,USA,840,49,,Utah,US,40.15,-111.8624,"Utah, US",2021-05-18,All,2440835
 84000050,US,USA,840,50,,Vermont,US,44.0459,-72.7107,"Vermont, US",2021-05-18,All,692838
@@ -375,7 +375,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-05-18,All,7091
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-05-18,All,4714621
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-05-18,All,2963120
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-18,All,2379429
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-18,All,2384103
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-05-18,All,1285215
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-05-18,All,250000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-05-18,All,977032
