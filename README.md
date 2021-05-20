@@ -162,80 +162,130 @@ This list includes a complete list of all sources ever used in the data set, sin
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
-  - National Health Commission of the People’s Republic of China (NHC):
-    http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
-  - China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
-  - Hong Kong Department of Health: https://www.chp.gov.hk/en/features/102465.html
-  - Macau Government: https://www.ssm.gov.mo/portal/
-  - Taiwan CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
-  - Canada: Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
-  - Canada: Government of Alberta: https://www.alberta.ca/covid-19-alberta-data.aspx
-  - Canada: Government of British Columbia Centre for Disease Control: https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded
-  - Canada: Government of Manitoba: https://www.gov.mb.ca/covid19/updates/cases.html
-  - Canada: Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
-  - Canada: Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
-  - Canada: Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
-  - Canada: Government of Nova Scotia: https://novascotia.ca/coronavirus/data/
-  - Canada: Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
-  - Canada: Government of Ontario: https://covid-19.ontario.ca/data
-  - Canada: Grey Bruce Health Unit: https://www.publichealthgreybruce.on.ca/
-  - Canada: Eastern Ontario Health Unit: https://eohu.ca/en/covid/covid-19-status-update-for-eohu-region
-  - Canada: Windsor-Essex County Health Unit: https://www.wechu.org/cv/local-updates
-  - Canada: Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx
-  - Canada: York Region: https://www.york.ca/wps/portal/yorkhome/health/yr/covid-19/covid19inyorkregion/!ut/p/z1/tZPNcpswFIWfJQuWWBcJjOhOpa6BxNhN4j82HowxKAXkYMXUb1-R0pm20zjtJLAASZx7dPRxQRFaoaiKTzyLJRdVXKj5OhpufDb2Pe8agqlJXWAwZQG2KYwcAy2fBfDCxQBF_1J_QRBdtl-gCEWHhO_Q2qIWdYhj6U6Md7qJnVSnceLoO8PZOhhi9XbfqpNKHmSO1ud6k4hKppXU4Czqr2pylFw-PS_kokzVPY0LmWuQiBPf6YbTjQyHV21FnWYKEwpeO6SiiOuJO8lU1FjmOq_2Aq1-mnajP0xVDX94fIyYCtym_CbR6t0SL1sOv2Ye31ET_EVgs4UxBdMnnQBjc-gZLgTgTSn4n-2Z9Yl6BlzjTnDh0ygsWSG2P7qIVVtC1fnrdJ_WaT14qtVyLuXh-EEDDZqmGWRCZEU6SESpwd9KcnFUDH5XorXqH_tF9rcYLU88bdC8EnWpktz9Z7t40O1gU5d5bAwzuJ_b8GVkm3R4M5nd3Bpv3OGVA_RsT3q1t6Ffe9yv_fvACXxwDdb-Y2REgGHfpR9JQMOwX_Zhv-zDftmH_fb94q1wDuV8XlJiFQ9nAnxWLqmkzf0-z8rNZESsyw92dfUd1P5kcA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#.X8UQBqpKi3U
-  - Canada: City of Toronto: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
-  - Canada: Region of Peel: https://peelregion.ca/coronavirus/case-status/
-  - Canada: Halton Region: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus
-  - Canada: Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
-  - Canada: Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
-  - Canada: Government of Saskatchewan: https://dashboard.saskatchewan.ca/health-wellness
-  - Canada: Government of Yukon: https://yukon.ca/en/case-counts-covid-19
-  - Australia Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
-  - COVID Live (Australia): https://www.covidlive.com.au/
-  - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
-  - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
-  - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
-  - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
-  - Gobierno De El Salvador: https://covid19.gob.sv/
-  - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
-  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
-  - OpenCOVID19 France: https://github.com/opencovid19-fr
-  - Palestine (West Bank and Gaza): https://corona.ps/details
-  - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
-  - Israel: https://datadashboard.health.gov.il/COVID-19/general
-  - Indonesia: https://covid19.go.id/peta-sebaran
-  - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
-  - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
-  - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
-  - Ministry of Health, Republic of Serbia: https://covid19.rs/homepage-english/ 
-  - Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
-  - Chile: https://www.gob.cl/coronavirus/cifrasoficiales/
-  - Denmark Statens Serum Institut: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
-  - Brazil Ministry of Health: https://covid.saude.gov.br/
-  - Brazil: https://github.com/wcota/covid19br. Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
-  - Belgium Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
-  - Gobierono De Mexico:https://datos.covid-19.conacyt.mx/#DOView
-  - Japan COVID-19 Coronavirus Tracker: https://covid19japan.com/#all-prefectures
-  - Monitoreo del COVID-19 en Perú -  Policía Nacional del Perú (PNP) - Dirección de Inteligencia (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2 and Ministerio de Salud del Perú: https://covid19.minsa.gob.pe/sala_situacional.asp
-  - Colombia National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
-  - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
-  - Ukraine: https://covid19.rnbo.gov.ua/
-  - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
-  - Government of India: https://www.mygov.in/covid-19
-  - Lithuania: https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa
-  - Government of Pakistan: http://covid.gov.pk/stats/pakistan
-  - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
-  - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
-  - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
-  - Iceland Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
-  - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
-  - Afghanistan: http://covid.moph-dw.org/#/ and http://www.afghanistantimes.af/
-  - Kazakhstan: https://www.coronavirus2020.kz/
-  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
-  - Slovakia Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
-  - Switzerland Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
-  - Switzerland Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
-  - Thailand Ministry of Public Health: https://ddc.moph.go.th/viralpneumonia/eng/index.php and https://covid19.ddc.moph.go.th/en
+  - Australia:
+    - Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
+    - COVID Live: https://www.covidlive.com.au/
+  - Belgium:
+    - Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
+  - Brazil: 
+    - Ministry of Health: https://covid.saude.gov.br/
+    - Federal University of Viçosa - Brazil: https://github.com/wcota/covid19br (Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362))
+  - Canada: 
+    - Government of Alberta: https://www.alberta.ca/covid-19-alberta-data.aspx
+    - Government of British Columbia Centre for Disease Control: https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded
+    - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
+    - Government of Manitoba: https://www.gov.mb.ca/covid19/updates/cases.html
+    - Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
+    - Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
+    - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
+    - Government of Nova Scotia: https://novascotia.ca/coronavirus/data/
+    - Government of Ontario: https://covid-19.ontario.ca/data
+      - City of Toronto: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
+      - Eastern Ontario Health Unit: https://eohu.ca/en/covid/covid-19-status-update-for-eohu-region
+      - Grey Bruce Health Unit: https://www.publichealthgreybruce.on.ca/
+      - Halton Region: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus
+      - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx
+      - Region of Peel: https://peelregion.ca/coronavirus/case-status/
+      - Windsor-Essex County Health Unit: https://www.wechu.org/cv/local-updates
+      - York Region: https://www.york.ca/wps/portal/yorkhome/health/yr/covid-19/covid19inyorkregion/!ut/p/z1/tZPNcpswFIWfJQuWWBcJjOhOpa6BxNhN4j82HowxKAXkYMXUb1-R0pm20zjtJLAASZx7dPRxQRFaoaiKTzyLJRdVXKj5OhpufDb2Pe8agqlJXWAwZQG2KYwcAy2fBfDCxQBF_1J_QRBdtl-gCEWHhO_Q2qIWdYhj6U6Md7qJnVSnceLoO8PZOhhi9XbfqpNKHmSO1ud6k4hKppXU4Czqr2pylFw-PS_kokzVPY0LmWuQiBPf6YbTjQyHV21FnWYKEwpeO6SiiOuJO8lU1FjmOq_2Aq1-mnajP0xVDX94fIyYCtym_CbR6t0SL1sOv2Ye31ET_EVgs4UxBdMnnQBjc-gZLgTgTSn4n-2Z9Yl6BlzjTnDh0ygsWSG2P7qIVVtC1fnrdJ_WaT14qtVyLuXh-EEDDZqmGWRCZEU6SESpwd9KcnFUDH5XorXqH_tF9rcYLU88bdC8EnWpktz9Z7t40O1gU5d5bAwzuJ_b8GVkm3R4M5nd3Bpv3OGVA_RsT3q1t6Ffe9yv_fvACXxwDdb-Y2REgGHfpR9JQMOwX_Zhv-zDftmH_fb94q1wDuV8XlJiFQ9nAnxWLqmkzf0-z8rNZESsyw92dfUd1P5kcA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#.X8UQBqpKi3U
+    - Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
+    - Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
+    - Government of Saskatchewan: https://dashboard.saskatchewan.ca/health-wellness
+    - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
+    - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
+  - Chile: 
+    - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
+    - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
+  - China:
+    - National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
+    - China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
+  - Colombia:
+    - National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+  - Czech Republic (Czechia):
+    - National Health Information System, Regional Hygiene Stations, Ministry of Health of the Czech Republic: https://onemocneni-aktualne.mzcr.cz/covid-19
+  - Denmark:
+    - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
+  - El Salvador:
+    - Government of El Salvador: https://covid19.gob.sv/
+  - France:
+    - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/
+    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
+    - OpenCOVID19: https://github.com/opencovid19-fr
+  - Germany:
+    - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+  - Hong Kong:
+    - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
+  - Iceland:
+    - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
+  - India:
+    - Government of India: https://www.mygov.in/covid-19
+  - Indonesia: 
+    - National Board for Disaster Management: https://covid19.go.id/peta-sebaran
+  - Ireland:
+    - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
+  - Israel:
+    - Ministry of Health Website: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
+    - Ministry of Health Dashboard: https://datadashboard.health.gov.il/COVID-19/general
+  - Italy:
+    - Civil Protection Department: https://github.com/pcm-dpc/COVID-19/tree/master/
+    - Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+  - Jamaica: 
+    - Ministry of Health & Wellness: https://www.moh.gov.jm
+  - Japan: 
+    - COVID19Japan: https://covid19japan.com/#all-prefectures
+  - Jordan:
+    - Ministry of Health: https://corona.moh.gov.jo/en
+  - Kazakhstan: 
+    - Kazinform: https://www.coronavirus2020.kz/
+  - Kosovo:
+    - National Institute of Health of Kosovo Dashboard: https://corona-ks.info/?lang=en
+    - National Institute of Health of Kosovo JSON: https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json 
+  - Lithuania: 
+    - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
+  - Luxembourg: 
+    - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+  - Macau:
+    - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
+  - Mexico:
+    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
+  - Netherlands:
+    - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+  - Pakistan:
+    - Government of Pakistan: http://covid.gov.pk/stats/pakistan
+  - Peru:
+    - National Police of Peru (PNP) - Directorate of Intelligence (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
+    - Ministry of Health of Peru: https://covid19.minsa.gob.pe/sala_situacional.asp
+  - Poland: 
+    - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
+  - Russia: 
+    - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
+  - Serbia:
+    - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
+  - Slovakia: 
+    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - South Africa:
+    - National Insitute for Communicable Diseases: https://www.nicd.ac.za/media/alerts/
+  - Spain:
+    - RTVE: https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
+  - Sweden:
+    - The Swedish Public Health Agency: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
+  - Switzerland:
+    - Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
+    - Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
+  - Taiwan:
+    - CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
+  - Thailand: 
+    - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
+    - Ministry of Public Health, Department of Disease Control Situational Reports: https://covid19.ddc.moph.go.th/en
+  - Turkey: 
+    - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+  - Ukraine: 
+    - Office of the National Security and Defense Council of Ukraine: https://covid19.rnbo.gov.ua/
+  - United Arab Emirates:
+    - The Supreme Council For National Security, National Emergency Crisis and Disasters Management Authority: https://covid19.ncema.gov.ae/en
+  - United Kingdom
+    - Government of the United Kingdom: https://coronavirus.data.gov.uk/#category=nations&map=rate
+    - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
     
 
 
