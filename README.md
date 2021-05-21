@@ -261,6 +261,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Serbia:
     - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
+  - Singapore:
+    - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
   - Slovakia: 
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
   - South Africa:
