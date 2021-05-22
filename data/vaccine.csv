@@ -70,7 +70,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-22,All,630583
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-22,All,51758
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-05-22,All,17271838
-156,CN,CHN,156,,,,China,35.8617,104.19545,China,2021-05-22,All,466698000
+156,CN,CHN,156,,,,China,35.8617,104.19545,China,2021-05-22,All,483343000
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2021-05-22,All,2081052
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2021-05-22,All,143185
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2021-05-22,All,8008919
@@ -139,7 +139,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 324,GN,GIN,324,,,,Guinea,9.9456,-9.6966,Guinea,2021-05-22,All,236717
 328,GY,GUY,328,,,,Guyana,4.860416000000001,-58.93018000000001,Guyana,2021-05-22,All,153494
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-05-22,All,164061
-348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2021-05-22,All,7785158
+348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2021-05-22,All,7936671
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2021-05-22,All,244279
 356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-05-22,All,190233114
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.96817800000001,"Andaman and Nicobar Islands, India",2021-05-22,All,117943
@@ -235,7 +235,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 499,ME,MNE,499,,,,Montenegro,42.708678000000006,19.37439,Montenegro,2021-05-22,All,154048
 504,MA,MAR,504,,,,Morocco,31.7917,-7.0926,Morocco,2021-05-22,All,12285298
 508,MZ,MOZ,508,,,,Mozambique,-18.665695,35.529562,Mozambique,2021-05-22,All,393105
-516,,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2021-05-22,All,60539
+516,,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2021-05-22,All,65988
 524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,2021-05-22,All,2596711
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,2021-05-22,All,7729463
 554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2021-05-22,All,474435
@@ -248,7 +248,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 585,PW,PLW,8,,,,Palau,7.515,134.5825,Palau,2021-05-22,All,22626
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-05-22,All,908452
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-05-22,All,11537
-600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-22,All,247126
+600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-22,All,240584
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-22,All,3009947
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-05-22,All,3718308
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-22,All,17620338
@@ -301,7 +301,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-05-22,All,276000
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-05-22,All,63539
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-05-22,All,684173
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-22,All,27723390
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-22,All,27736197
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-22,All,281162290
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-05-22,All,2945488
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-05-22,All,612904
@@ -361,7 +361,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2021-05-22,All,385924
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-05-22,All,488986
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-05-22,All,1049311
-784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-05-22,All,11944055
+784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-05-22,All,12034349
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-05-22,All,59608594
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-05-22,All,13235
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2021-05-22,All,66564
@@ -375,9 +375,9 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-05-22,All,7091
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-05-22,All,4851291
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-05-22,All,3039371
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-22,All,2532869
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-22,All,2533266
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-05-22,All,1412312
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-05-22,All,316000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-05-22,All,1011395
-894,ZM,ZMB,894,,,,Zambia,-13.133897,27.849332,Zambia,2021-05-22,All,126291
+894,ZM,ZMB,894,,,,Zambia,-13.133897,27.849332,Zambia,2021-05-22,All,129941
 716,ZW,ZWE,716,,,,Zimbabwe,-19.015438,29.154857,Zimbabwe,2021-05-22,All,887928
