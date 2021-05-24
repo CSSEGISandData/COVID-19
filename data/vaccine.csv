@@ -249,7 +249,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-05-24,All,939728
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-05-24,All,11537
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-24,All,304725
-604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-24,All,3242442
+604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-24,All,3251064
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-05-24,All,4097425
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-24,All,17941112
 61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-05-24,All,1472579
@@ -271,7 +271,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-05-24,All,5127692
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-05-24,All,2293240
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-05-24,All,7393995
-643,RU,RUS,643,,,,Russia,61.52401,105.31875600000001,Russia,2021-05-24,All,26897239
+643,RU,RUS,643,,,,Russia,61.52401,105.31875600000001,Russia,2021-05-24,All,26920231
 646,RW,RWA,646,,,,Rwanda,-1.9403,29.8739,Rwanda,2021-05-24,All,400096
 659,KN,KNA,659,,,,Saint Kitts and Nevis,17.357822,-62.782998,Saint Kitts and Nevis,2021-05-24,All,21459
 662,LC,LCA,662,,,,Saint Lucia,13.9094,-60.9789,Saint Lucia,2021-05-24,All,45297
@@ -301,8 +301,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-05-24,All,276000
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-05-24,All,67478
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-05-24,All,765751
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-24,All,28079307
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-24,All,286162353
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-24,All,28079577
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-24,All,286177990
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-05-24,All,2982081
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-05-24,All,616777
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-05-24,All,41907
@@ -349,7 +349,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000044,US,USA,840,44,,Rhode Island,US,41.6809,-71.5118,"Rhode Island, US",2021-05-24,All,1128848
 84000045,US,USA,840,45,,South Carolina,US,33.8569,-80.945,"South Carolina, US",2021-05-24,All,3691855
 84000046,US,USA,840,46,,South Dakota,US,44.2998,-99.4388,"South Dakota, US",2021-05-24,All,764960
-84000047,US,USA,840,47,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",2021-05-24,All,4745708
+84000047,US,USA,840,47,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",2021-05-24,All,4761345
 84000048,US,USA,840,48,,Texas,US,31.0545,-97.5635,"Texas, US",2021-05-24,All,22260158
 84000049,US,USA,840,49,,Utah,US,40.15,-111.8624,"Utah, US",2021-05-24,All,2517521
 84000050,US,USA,840,50,,Vermont,US,44.0459,-72.7107,"Vermont, US",2021-05-24,All,746636
@@ -375,7 +375,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-05-24,All,7091
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-05-24,All,4974124
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-05-24,All,3102945
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-24,All,2576360
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-24,All,2579779
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-05-24,All,1600504
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-05-24,All,316000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-05-24,All,1011395
