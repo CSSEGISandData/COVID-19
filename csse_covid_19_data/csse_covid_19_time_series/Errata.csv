@@ -18379,3 +18379,31 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 05/24/2021,time_series_covid19_deaths_global.csv,France,05/21/2021,107390,107645,Correct France deaths data
 05/24/2021,time_series_covid19_deaths_global.csv,France,05/22/2021,107390,107732,Correct France deaths data
 05/24/2021,time_series_covid19_deaths_global.csv,France,05/23/2021,107390,107789,Correct France deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Bernalillo, New Mexico, US",05/24/2021,937,945,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Chaves, New Mexico, US",05/24/2021,169,171,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Cibola, New Mexico, US",05/24/2021,123,113,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Colfax, New Mexico, US",05/24/2021,44,47,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Curry, New Mexico, US",05/24/2021,83,79,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"De Baca, New Mexico, US",05/24/2021,2,1,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Dona Ana, New Mexico, US",05/24/2021,484,459,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Eddy, New Mexico, US",05/24/2021,137,130,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Grant, New Mexico, US",05/24/2021,40,37,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Guadalupe, New Mexico, US",05/24/2021,11,9,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Harding, New Mexico, US",05/24/2021,1,0,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Lea, New Mexico, US",05/24/2021,194,168,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Lincoln, New Mexico, US",05/24/2021,18,19,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Luna, New Mexico, US",05/24/2021,92,86,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"McKinley, New Mexico, US",05/24/2021,477,467,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Otero, New Mexico, US",05/24/2021,77,75,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Quay, New Mexico, US",05/24/2021,10,8,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Rio Arriba, New Mexico, US",05/24/2021,75,76,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Roosevelt, New Mexico, US",05/24/2021,59,56,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"San Juan, New Mexico, US",05/24/2021,239,476,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"San Miguel, New Mexico, US",05/24/2021,482,17,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Sierra, New Mexico, US",05/24/2021,52,50,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Socorro, New Mexico, US",05/24/2021,60,56,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Taos, New Mexico, US",05/24/2021,53,52,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Unassigned, New Mexico, US",05/24/2021,0,114,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Union, New Mexico, US",05/24/2021,10,9,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_US.csv,"Valencia, New Mexico, US",05/24/2021,114,110,Correct New Mexico deaths data
+05/25/2021,time_series_covid19_deaths_global.csv,US,05/24/2021,590533,590320,"Correct death data for NM, US"
