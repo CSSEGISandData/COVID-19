@@ -165,6 +165,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Australia:
     - Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
     - COVID Live: https://www.covidlive.com.au/
+  - Azerbaijan:
+    - Azerbaijan Operational Headquarters under the Cabinet of Ministers: https://koronavirusinfo.az/az
   - Belgium:
     - Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
   - Brazil: 
@@ -261,6 +263,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Serbia:
     - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
+  - Singapore:
+    - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
   - Slovakia: 
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
   - South Africa:

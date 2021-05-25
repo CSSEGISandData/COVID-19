@@ -18365,3 +18365,17 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 05/19/2021,time_series_covid19_deaths_US.csv,"Hampden, Massachusetts, US",05/17/2021,1510,1507,"Update Hampden, MA deaths data"
 05/19/2021,time_series_covid19_confirmed_global.csv,US,05/17/2021,32969480,32969512,Update US confirmed data for MA
 05/19/2021,time_series_covid19_deaths_global.csv,US,05/17/2021,586362,586359,Update US death data for MA
+05/24/2021,time_series_covid19_confirmed_global.csv,Indonesia,05/20/2021,1758898,1764644,Update Indonesia stale confirmed data
+05/24/2021,time_series_covid19_confirmed_global.csv,Indonesia,05/21/2021,1758898,1769940,Update Indonesia stale confirmed data
+05/24/2021,time_series_covid19_deaths_global.csv,Indonesia,05/20/2021,48887,49073,Update Indonesia stale death data
+05/24/2021,time_series_covid19_deaths_global.csv,Indonesia,05/21/2021,48887,49205,Update Indonesia stale death data
+05/24/2021,time_series_covid19_recovered_global.csv,Indonesia,05/20/2021,1621572,1626142,Correct US recovered data
+05/24/2021,time_series_covid19_recovered_global.csv,Indonesia,05/21/2021,1621572,1629495,Correct US recovered data
+05/24/2021,time_series_covid19_confirmed_global.csv,France,05/20/2021,5863138,5514022,Correct France confirmed data
+05/24/2021,time_series_covid19_confirmed_global.csv,France,05/21/2021,5863138,5526555,Correct France confirmed data
+05/24/2021,time_series_covid19_confirmed_global.csv,France,05/22/2021,5863138,5538938,Correct France confirmed data
+05/24/2021,time_series_covid19_confirmed_global.csv,France,05/23/2021,5863138,5547914,Correct France confirmed data
+05/24/2021,time_series_covid19_deaths_global.csv,France,05/20/2021,107390,107522,Correct France deaths data
+05/24/2021,time_series_covid19_deaths_global.csv,France,05/21/2021,107390,107645,Correct France deaths data
+05/24/2021,time_series_covid19_deaths_global.csv,France,05/22/2021,107390,107732,Correct France deaths data
+05/24/2021,time_series_covid19_deaths_global.csv,France,05/23/2021,107390,107789,Correct France deaths data
