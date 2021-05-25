@@ -55,7 +55,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-05-25,All,2994900
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-05-25,All,3927869
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-05-25,All,57008
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-25,All,21569566
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-05-25,All,21571905
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-05-25,All,2532143
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-05-25,All,2885488
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-05-25,All,761132
@@ -67,7 +67,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-05-25,All,8251642
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-05-25,All,51320
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-05-25,All,5051681
-12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-25,All,662854
+12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-05-25,All,665193
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-05-25,All,51758
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-05-25,All,17547642
 156,CN,CHN,156,,,,China,35.8617,104.19545,China,2021-05-25,All,527253000
@@ -249,7 +249,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-05-25,All,953508
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-05-25,All,11537
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-25,All,304725
-604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-25,All,3338069
+604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-25,All,3345434
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-05-25,All,4305575
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-25,All,18085811
 61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-05-25,All,1485942
@@ -301,7 +301,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-05-25,All,276000
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-05-25,All,68503
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-05-25,All,788578
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-25,All,28244958
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-25,All,28246447
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-25,All,287196524
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-05-25,All,2996346
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-05-25,All,612904
