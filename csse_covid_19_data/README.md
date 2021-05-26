@@ -332,6 +332,8 @@ Date: Location | Change | Reason/Other notes | Source
 * May 14, 2021: Alabama, US | Inclusion of 4,877 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 15, 2021: Alabama, US | Inclusion of 1,235 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 18, 2021: Missouri, US | Weekly death certificate review resulted in a large spike in deaths, particularly in rural counties | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4099)
+* May 19, 2021: New Castle County, Delaware, US | Large spike in cases due to reporting delays with multiple laboratories | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4121)
+* May 20, 2021: Laramie County, Wyoming, US | 100+ case backlog due to data transfer issues with a health provider | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4136)
 * May 20, 2021: France | Reduction of 350,000 duplicate cases without correcting historical data | See [press release](https://www.santepubliquefrance.fr/les-actualites/2021/des-indicateurs-plus-precis-pour-le-suivi-des-cas-confirmes-de-covid-19)
 * May 24, 2021: New Mexico, US | Inclusion of approximately 100 deaths identified through death certificate review | [Source](https://www.kob.com/new-mexico-news/new-mexico-to-add-approximately-100-more-covid-19-deaths-to-states-total/6117386/)
 * May 24, 2021: Brazos County, Texas, US | Inclusion of 628 backlogged cases in daily report | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4132)
