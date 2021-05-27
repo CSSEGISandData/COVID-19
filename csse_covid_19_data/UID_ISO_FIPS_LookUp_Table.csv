@@ -315,7 +315,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
-296,KI,KIR,404,,,,Kiribati,-3.3704,-168.734,Kiribati,117606
+296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,117606
 410,KR,KOR,410,,,,"Korea, South",35.907757,127.766922,"Korea, South",51269183
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,1810366
 414,KW,KWT,414,,,,Kuwait,29.31166,47.481766,Kuwait,4270563
