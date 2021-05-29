@@ -258,7 +258,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-05-29,All,1001690
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-05-29,All,11537
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-05-29,All,340338
-604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-29,All,3763955
+604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-05-29,All,3773026
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-05-29,All,4495375
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-05-29,All,19525032
 61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-05-29,All,1607728
@@ -310,15 +310,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-05-29,All,304630
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-05-29,All,86079
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-05-29,All,875808
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-29,All,28767894
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-29,All,293231261
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-05-29,All,28768018
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-05-29,All,293258812
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-05-29,All,3020540
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-05-29,All,615746
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-05-29,All,42511
 84000004,US,USA,840,4,,Arizona,US,33.7298,-111.4312,"Arizona, US",2021-05-29,All,5929316
 84000005,US,USA,840,5,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",2021-05-29,All,2069135
 84000006,US,USA,840,6,,California,US,36.1162,-119.6816,"California, US",2021-05-29,All,38066786
-84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",2021-05-29,All,5688393
+84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",2021-05-29,All,5715944
 84000009,US,USA,840,9,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",2021-05-29,All,4009308
 84000010,US,USA,840,10,,Delaware,US,39.3185,-75.5071,"Delaware, US",2021-05-29,All,934414
 84000011,US,USA,840,11,,District of Columbia,US,38.8974,-77.0268,"District of Columbia, US",2021-05-29,All,785239
@@ -384,7 +384,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-05-29,All,7091
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-05-29,All,5214179
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-05-29,All,3209225
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-29,All,2763164
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-05-29,All,2764768
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-05-29,All,1642744
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-05-29,All,316000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-05-29,All,1034867
