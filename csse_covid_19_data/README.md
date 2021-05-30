@@ -337,6 +337,9 @@ Date: Location | Change | Reason/Other notes | Source
 * May 20, 2021: France | Reduction of 350,000 duplicate cases without correcting historical data | See [press release](https://www.santepubliquefrance.fr/les-actualites/2021/des-indicateurs-plus-precis-pour-le-suivi-des-cas-confirmes-de-covid-19)
 * May 24, 2021: New Mexico, US | Inclusion of approximately 100 deaths identified through death certificate review | [Source](https://www.kob.com/new-mexico-news/new-mexico-to-add-approximately-100-more-covid-19-deaths-to-states-total/6117386/)
 * May 24, 2021: Brazos County, Texas, US | Inclusion of 628 backlogged cases in daily report | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4132)
+* May 26, 2021: Oklahoma, US | An unspecified number of backlogged deaths have resulted in 373 deaths reported | [Source](https://oklahoma.gov/covid19/newsroom/2021/may/situation-update--covid-19-05-26-2021.html)
+* May 27, 2021: Los Angeles, California, US | Addition of 3,857 backlogged cases | See [discourse](https://github.com/CSSEGISandData/COVID-19/issues/4147) including a statement from the LA Times
+* May 27, 2021: Maryland, US | Addition of 538 previously unpublished COVID-19 deaths | [Source](https://southernmarylandchronicle.com/2021/05/27/maryland-department-of-health-vital-statistics-administration-issues-revision-of-covid-19-death-data/)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
