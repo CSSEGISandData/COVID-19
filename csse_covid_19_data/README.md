@@ -331,12 +331,16 @@ Date: Location | Change | Reason/Other notes | Source
 * May 13, 2021: Alabama, US | Inclusion of 306 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 14, 2021: Alabama, US | Inclusion of 4,877 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 15, 2021: Alabama, US | Inclusion of 1,235 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
+* May 18, 2021: United Kingdom | Reduction of 4,776 false positive lateral flow tests | [Source](https://coronavirus.data.gov.uk/details/whats-new) (Note for May 18)
 * May 18, 2021: Missouri, US | Weekly death certificate review resulted in a large spike in deaths, particularly in rural counties | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4099)
 * May 19, 2021: New Castle County, Delaware, US | Large spike in cases due to reporting delays with multiple laboratories | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4121)
 * May 20, 2021: Laramie County, Wyoming, US | 100+ case backlog due to data transfer issues with a health provider | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4136)
 * May 20, 2021: France | Reduction of 350,000 duplicate cases without correcting historical data | See [press release](https://www.santepubliquefrance.fr/les-actualites/2021/des-indicateurs-plus-precis-pour-le-suivi-des-cas-confirmes-de-covid-19)
 * May 24, 2021: New Mexico, US | Inclusion of approximately 100 deaths identified through death certificate review | [Source](https://www.kob.com/new-mexico-news/new-mexico-to-add-approximately-100-more-covid-19-deaths-to-states-total/6117386/)
 * May 24, 2021: Brazos County, Texas, US | Inclusion of 628 backlogged cases in daily report | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4132)
+* May 26, 2021: Oklahoma, US | An unspecified number of backlogged deaths have resulted in 373 deaths reported | [Source](https://oklahoma.gov/covid19/newsroom/2021/may/situation-update--covid-19-05-26-2021.html)
+* May 27, 2021: Los Angeles, California, US | Addition of 3,857 backlogged cases | See [discourse](https://github.com/CSSEGISandData/COVID-19/issues/4147) including a statement from the LA Times
+* May 27, 2021: Maryland, US | Addition of 538 previously unpublished COVID-19 deaths | [Source](https://southernmarylandchronicle.com/2021/05/27/maryland-department-of-health-vital-statistics-administration-issues-revision-of-covid-19-death-data/)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -374,6 +378,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 United States
 * Alaska: Providing data Monday-Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
+* District of Columbia: Providing data Monday-Friday.
 * Florida: Did not update on weekend for October 10-11.
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday.
