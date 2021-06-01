@@ -376,6 +376,7 @@ Date: Location | File | Change | Data source for change
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
+* Alabama: Providing Monday-Friday
 * Alaska: Providing data Monday-Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
