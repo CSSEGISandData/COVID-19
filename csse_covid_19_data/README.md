@@ -378,6 +378,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 United States
 * Alaska: Providing data Monday-Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
+* District of Columbia: Providing data Monday-Friday.
 * Florida: Did not update on weekend for October 10-11.
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday.
