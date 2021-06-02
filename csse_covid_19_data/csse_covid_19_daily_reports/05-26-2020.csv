@@ -14,7 +14,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 19003,Adams,Iowa,US,2020-05-27 02:32:31,41.02903567,-94.69932645,5,0,0,5,"Adams, Iowa, US"
 28001,Adams,Mississippi,US,2020-05-27 02:32:31,31.47669768,-91.35326037,189,15,0,174,"Adams, Mississippi, US"
 31001,Adams,Nebraska,US,2020-05-27 02:32:31,40.52449420000001,-98.50117804,265,11,0,254,"Adams, Nebraska, US"
-39001,Adams,Ohio,US,2020-05-27 02:32:31,38.84541072,-83.4718964,8,0,0,7,"Adams, Ohio, US"
+39001,Adams,Ohio,US,2020-05-27 02:32:31,38.84541072,-83.4718964,8,1,0,7,"Adams, Ohio, US"
 42001,Adams,Pennsylvania,US,2020-05-27 02:32:31,39.87140411,-77.21610347,233,7,0,226,"Adams, Pennsylvania, US"
 53001,Adams,Washington,US,2020-05-27 02:32:31,46.98299757,-118.5601734,53,0,0,53,"Adams, Washington, US"
 55001,Adams,Wisconsin,US,2020-05-27 02:32:31,43.96974651,-89.76782777,4,1,0,3,"Adams, Wisconsin, US"
