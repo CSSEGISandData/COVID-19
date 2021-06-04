@@ -268,7 +268,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Slovakia: 
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
   - South Africa:
-    - National Insitute for Communicable Diseases: https://www.nicd.ac.za/media/alerts/
+    - South Africa Department of Health: https://sacoronavirus.co.za/
   - Spain:
     - RTVE: https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Sweden:
