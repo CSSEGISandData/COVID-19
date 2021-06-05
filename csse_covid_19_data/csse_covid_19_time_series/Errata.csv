@@ -19316,3 +19316,10 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/02/2021,time_series_covid19_deaths_US.csv,"Chester, Pennsylvania, US",05/30/2021,801,814,"Correct Chester, PA, US deaths data"
 06/02/2021,time_series_covid19_deaths_US.csv,"Chester, Pennsylvania, US",05/31/2021,801,814,"Correct Chester, PA, US deaths data"
 06/02/2021,time_series_covid19_deaths_US.csv,"Chester, Pennsylvania, US",06/01/2021,804,814,"Correct Chester, PA, US deaths data"
+06/04/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Nebraska, US",06/03/2021,2199,2282,"Correct Unassigned, NE, US confirmed data"
+06/04/2021,time_series_covid19_confirmed_global.csv,South Africa,06/02/2021,1669231,1675013,Correct South Africa confirmed data
+06/04/2021,time_series_covid19_confirmed_global.csv,South Africa,06/03/2021,1669231,1680373,Correct South Africa confirmed data
+06/04/2021,time_series_covid19_deaths_global.csv,South Africa,06/02/2021,56601,56711,Correct South Africa deaths data
+06/04/2021,time_series_covid19_deaths_global.csv,South Africa,06/03/2021,56601,56765,Correct South Africa deaths data
+06/04/2021,time_series_covid19_recovered_global.csv,South Africa,06/02/2021,1563719,1565684,Correct South Africa recovered data
+06/04/2021,time_series_covid19_recovered_global.csv,South Africa,06/03/2021,1563719,1567635,Correct South Africa recovered data
