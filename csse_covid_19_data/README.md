@@ -333,6 +333,7 @@ Date: Location | Change | Reason/Other notes | Source
 * May 13, 2021: Alabama, US | Inclusion of 306 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 14, 2021: Alabama, US | Inclusion of 4,877 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 15, 2021: Alabama, US | Inclusion of 1,235 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
+* May 17, 2021: Alaska, US | 10 of 11 daily deaths identified through death certificate review | [Source](https://alaska-native-news.com/covid-19-daily-summary-may-17-2021/55811/)
 * May 18, 2021: United Kingdom | Reduction of 4,776 false positive lateral flow tests | [Source](https://coronavirus.data.gov.uk/details/whats-new) (Note for May 18)
 * May 18, 2021: Missouri, US | Weekly death certificate review resulted in a large spike in deaths, particularly in rural counties | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4099)
 * May 19, 2021: New Castle County, Delaware, US | Large spike in cases due to reporting delays with multiple laboratories | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4121)
