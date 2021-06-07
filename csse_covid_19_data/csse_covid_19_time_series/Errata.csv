@@ -19323,3 +19323,22 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/04/2021,time_series_covid19_deaths_global.csv,South Africa,06/03/2021,56601,56765,Correct South Africa deaths data
 06/04/2021,time_series_covid19_recovered_global.csv,South Africa,06/02/2021,1563719,1565684,Correct South Africa recovered data
 06/04/2021,time_series_covid19_recovered_global.csv,South Africa,06/03/2021,1563719,1567635,Correct South Africa recovered data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/15/2021,254870,255331,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/16/2021,254870,255706,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/17/2021,254870,256085,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/18/2021,254870,256450,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/19/2021,254870,256976,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/20/2021,254870,257446,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/21/2021,254870,257979,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/22/2021,254870,258363,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/23/2021,254870,258810,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/24/2021,254870,259159,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/25/2021,254870,259512,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/26/2021,254870,259957,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/27/2021,254870,260389,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/28/2021,254870,260850,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/29/2021,254870,261306,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/30/2021,254870,261673,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,05/31/2021,254870,262043,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,06/01/2021,254870,262380,Correct Ireland confirmed data
+06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,06/05/2021,263769,264185,Correct Ireland confirmed data
