@@ -346,6 +346,7 @@ Date: Location | Change | Reason/Other notes | Source
 * May 27, 2021: Maryland, US | Addition of 538 previously unpublished COVID-19 deaths | [Source](https://southernmarylandchronicle.com/2021/05/27/maryland-department-of-health-vital-statistics-administration-issues-revision-of-covid-19-death-data/)
 * June 1, 2021: Kentucky, US | Addition of 260 backlogged deaths identified from a death certificate audit | [Source](https://www.kentucky.com/news/coronavirus/article251818393.html)
 * June 3, 2021: Indiana, US | Addition of 765 backlogged cases | [Source](https://www.wthr.com/article/news/health/coronavirus/coronavirus-numbers/indiana-coronavirus-updates-for-thursday-june-3-2021/531-a05e1e2f-019d-42e7-8a54-fb923fe14383)
+* June 6, 2021: San Mateo, California, US | Addition of 85 backlogged deaths | [Source](https://covid19.ca.gov/state-dashboard/#location-san_mateo) - "Today’s case count includes 186 deaths from San Mateo county from prior months that were not previously reported." Importantly, our data for San Mateo had not previously come from the state dashboard, explaining why our daily deaths is <186.
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -382,7 +383,7 @@ Date: Location | File | Change | Data source for change
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Alabama: Providing Monday-Friday
+* Alabama: Providing data Monday, Wednesday, and Friday
 * Alaska: Providing data Monday-Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
