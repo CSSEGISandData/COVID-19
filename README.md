@@ -162,6 +162,8 @@ This list includes a complete list of all sources ever used in the data set, sin
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
+  - Albania:
+    - National Agency for Information Society: https://coronavirus.al/statistika/
   - Australia:
     - Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
     - COVID Live: https://www.covidlive.com.au/
