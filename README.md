@@ -261,6 +261,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Health of Peru: https://covid19.minsa.gob.pe/sala_situacional.asp
   - Poland: 
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
+  - Romania:
+    - RomaniaScraper: https://datelazi.ro/ 
   - Russia: 
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Saudi Arabia:
