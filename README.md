@@ -242,6 +242,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Kosovo:
     - National Institute of Health of Kosovo Dashboard: https://corona-ks.info/?lang=en
     - National Institute of Health of Kosovo JSON: https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json 
+  - Lebanon  
+    - Lebanese Ministry Of Information: https://corona.ministryinfo.gov.lb/
   - Lithuania: 
     - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
   - Luxembourg: 
