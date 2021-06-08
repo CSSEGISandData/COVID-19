@@ -261,6 +261,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
   - Russia: 
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
+  - Saudi Arabia:
+    - Saudi Arabia Ministry of Health: https://covid19.moh.gov.sa/  
   - Serbia:
     - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
   - Singapore:
