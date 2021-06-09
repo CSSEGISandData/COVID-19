@@ -349,6 +349,7 @@ Date: Location | Change | Reason/Other notes | Source
 * June 1, 2021: Kentucky, US | Addition of 260 backlogged deaths identified from a death certificate audit | [Source](https://www.kentucky.com/news/coronavirus/article251818393.html)
 * June 3, 2021: Indiana, US | Addition of 765 backlogged cases | [Source](https://www.wthr.com/article/news/health/coronavirus/coronavirus-numbers/indiana-coronavirus-updates-for-thursday-june-3-2021/531-a05e1e2f-019d-42e7-8a54-fb923fe14383)
 * June 6, 2021: San Mateo, California, US | Addition of 85 backlogged deaths | [Source](https://covid19.ca.gov/state-dashboard/#location-san_mateo) - "Today’s case count includes 186 deaths from San Mateo county from prior months that were not previously reported." Importantly, our data for San Mateo had not previously come from the state dashboard, explaining why our daily deaths is <186.
+* June 8, 2021: Maverick, Texas, US | Addition of 2,132 backlogged cases | [Source](https://txdshs.maps.arcgis.com/apps/dashboards/ed483ecd702b4298ab01e8b9cafc8b83)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
