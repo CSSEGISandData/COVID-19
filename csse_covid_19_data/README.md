@@ -386,7 +386,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 
 United States
 * Alabama: Providing data Monday, Wednesday, and Friday
-* Alaska: Providing data Monday-Friday, excluding holidays.
+* Alaska: Providing data Monday, Wednesday, and Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
 * Florida: Providing data once per week (Fridays).
