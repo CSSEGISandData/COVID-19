@@ -63,7 +63,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-06-10,All,2994900
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-06-10,All,5005581
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-06-10,All,80445
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-06-10,All,27257480
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-06-10,All,27257774
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-06-10,All,3157862
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-06-10,All,3749758
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-06-10,All,974549
@@ -76,7 +76,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-06-10,All,104281
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-06-10,All,6309860
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-06-10,All,828652
-12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-06-10,All,54538
+12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-06-10,All,54832
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-06-10,All,19829017
 156,CN,CHN,156,,,,China,35.8617,104.19545,China,2021-06-10,All,808962000
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2021-06-10,All,2748930
@@ -143,7 +143,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-06-10,All,1228216
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-06-10,All,6361417
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-06-10,All,26975
-320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-06-10,All,607689
+320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-06-10,All,620011
 324,GN,GIN,324,,,,Guinea,9.9456,-9.6966,Guinea,2021-06-10,All,375664
 328,GY,GUY,328,,,,Guyana,4.860416000000001,-58.93018000000001,Guyana,2021-06-10,All,285247
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-06-10,All,420531
@@ -383,7 +383,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-06-10,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-06-10,All,5736126
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-06-10,All,3482159
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-10,All,3138277
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-10,All,3139917
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-06-10,All,2136423
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-06-10,All,3300000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-06-10,All,1354856
