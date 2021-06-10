@@ -675,7 +675,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29071,Franklin,Missouri,US,2020-03-31 23:43:56,38.41127108,-91.07522826,13,0,0,0,"Franklin, Missouri, US"
 36033,Franklin,New York,US,2020-03-31 23:43:56,44.59040891,-74.29926032,6,0,0,0,"Franklin, New York, US"
 37069,Franklin,North Carolina,US,2020-03-31 23:43:56,36.081519,-78.28708884,11,0,0,0,"Franklin, North Carolina, US"
-39049,Franklin,Ohio,US,2020-03-31 23:43:56,39.96995815,-83.01115755,325,5,0,0,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,2020-03-31 23:43:56,39.96995815,-83.01115755,325,6,0,0,"Franklin, Ohio, US"
 42055,Franklin,Pennsylvania,US,2020-03-31 23:43:56,39.92956518,-77.72157791,19,0,0,0,"Franklin, Pennsylvania, US"
 47051,Franklin,Tennessee,US,2020-03-31 23:43:56,35.15634626,-86.09201039,5,0,0,0,"Franklin, Tennessee, US"
 48159,Franklin,Texas,US,2020-03-31 23:43:56,33.17653242,-95.21917243,1,0,0,0,"Franklin, Texas, US"
@@ -2387,7 +2387,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Panama,2020-03-31 23:43:43,8.538,-80.7821,1181,30,9,1142,Panama
 ,,,Papua New Guinea,2020-03-31 23:43:43,-6.314993,143.95555,1,0,0,1,Papua New Guinea
 ,,,Paraguay,2020-03-31 23:43:43,-23.4425,-58.4438,65,3,1,61,Paraguay
-,,,Peru,2020-03-31 23:43:43,-9.19,-75.0152,1065,30,394,641,Peru
+,,,Peru,2020-03-31 23:43:43,-9.19,-75.0152,1065,138,394,641,Peru
 ,,,Philippines,2020-03-31 23:43:43,12.879721,121.77401699999999,2084,88,49,1947,Philippines
 ,,,Poland,2020-03-31 23:43:43,51.9194,19.1451,2311,33,7,2271,Poland
 ,,,Portugal,2020-03-31 23:43:43,39.3999,-8.2245,7443,160,43,7240,Portugal

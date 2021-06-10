@@ -221,6 +221,8 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * May 17, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * May 24, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * June 01, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* June 07, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* June 07, 2021 | Peru | Back distribution of deaths to account for release of backlogged deaths from Peru's Ministry of Health | [Data Source](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -347,6 +349,7 @@ Date: Location | Change | Reason/Other notes | Source
 * June 1, 2021: Kentucky, US | Addition of 260 backlogged deaths identified from a death certificate audit | [Source](https://www.kentucky.com/news/coronavirus/article251818393.html)
 * June 3, 2021: Indiana, US | Addition of 765 backlogged cases | [Source](https://www.wthr.com/article/news/health/coronavirus/coronavirus-numbers/indiana-coronavirus-updates-for-thursday-june-3-2021/531-a05e1e2f-019d-42e7-8a54-fb923fe14383)
 * June 6, 2021: San Mateo, California, US | Addition of 85 backlogged deaths | [Source](https://covid19.ca.gov/state-dashboard/#location-san_mateo) - "Today’s case count includes 186 deaths from San Mateo county from prior months that were not previously reported." Importantly, our data for San Mateo had not previously come from the state dashboard, explaining why our daily deaths is <186.
+* June 8, 2021: Maverick, Texas, US | Addition of 2,132 backlogged cases | [Source](https://txdshs.maps.arcgis.com/apps/dashboards/ed483ecd702b4298ab01e8b9cafc8b83)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -384,7 +387,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 
 United States
 * Alabama: Providing data Monday, Wednesday, and Friday
-* Alaska: Providing data Monday-Friday, excluding holidays.
+* Alaska: Providing data Monday, Wednesday, and Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
 * Florida: Providing data once per week (Fridays).
