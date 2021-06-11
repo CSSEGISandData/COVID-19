@@ -19344,3 +19344,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/07/2021,time_series_covid19_confirmed_global.csv,Ireland,06/05/2021,263769,264185,Correct Ireland confirmed data
 06/09/2021,time_series_covid19_confirmed_US.csv,"Maverick, Texas, US",06/08/2021,11044,13183,"Update Maverick, Texas confirmed data"
 06/09/2021,time_series_covid19_confirmed_global.csv,US,06/08/2021,33391107,33393246,Update US confirmed data
+06/10/2021,time_series_covid19_recovered_global.csv,US,06/09/2021,3633481,3385586,Update Colombia recovered data
+06/10/2021,time_series_covid19_confirmed_US.csv,"Maverick, Texas, US",06/09/2021,15322,13190,"Correct Maverick, TX, US confirmed data"
