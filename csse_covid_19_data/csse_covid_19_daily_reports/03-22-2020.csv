@@ -102,7 +102,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6081,San Mateo,California,US,3/22/20 23:45,37.4228808,-122.3275546,117,1,0,0,"San Mateo, California, US"
 6075,San Francisco,California,US,3/22/20 23:45,37.75215114,-122.4385672,108,0,0,0,"San Francisco, California, US"
 6059,Orange,California,US,3/22/20 23:45,33.70147516,-117.7645998,95,0,0,0,"Orange, California, US"
-6001,Alameda,California,US,3/22/20 23:45,37.64629437,-121.8929271,71,0,0,0,"Alameda, California, US"
+6001,Alameda,California,US,3/22/20 23:45,37.64629437,-121.8929271,71,1,0,0,"Alameda, California, US"
 6013,Contra Costa,California,US,3/22/20 23:45,37.91923498,-121.9289527,61,1,0,0,"Contra Costa, California, US"
 6067,Sacramento,California,US,3/22/20 23:45,38.45106826,-121.3425374,53,3,0,0,"Sacramento, California, US"
 6041,Marin,California,US,3/22/20 23:45,38.07122463,-122.7210631,38,0,0,0,"Marin, California, US"

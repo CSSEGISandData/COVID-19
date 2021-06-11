@@ -23,7 +23,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27001,Aitkin,Minnesota,US,2020-05-27 02:32:31,46.60962049,-93.4116826,7,0,0,7,"Aitkin, Minnesota, US"
 12001,Alachua,Florida,US,2020-05-27 02:32:31,29.67866525,-82.35928158,370,7,0,363,"Alachua, Florida, US"
 37001,Alamance,North Carolina,US,2020-05-27 02:32:31,36.0434701,-79.39976137,300,23,0,277,"Alamance, North Carolina, US"
-6001,Alameda,California,US,2020-05-27 02:32:31,37.64629437,-121.8929271,2986,93,0,2893,"Alameda, California, US"
+6001,Alameda,California,US,2020-05-27 02:32:31,37.64629437,-121.8929271,2986,92,0,2893,"Alameda, California, US"
 8003,Alamosa,Colorado,US,2020-05-27 02:32:31,37.57250606,-105.7885451,58,2,0,56,"Alamosa, Colorado, US"
 36001,Albany,New York,US,2020-05-27 02:32:31,42.60060306,-73.97723916,1793,76,0,1717,"Albany, New York, US"
 56001,Albany,Wyoming,US,2020-05-27 02:32:31,41.65498705,-105.7235415,23,0,0,23,"Albany, Wyoming, US"
