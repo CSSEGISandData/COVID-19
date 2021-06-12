@@ -87,8 +87,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-06-12,All,2994900
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-06-12,All,5128310
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-06-12,All,86451
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-06-12,All,28182168
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-06-12,All,3215144
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-06-12,All,28240474
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-06-12,All,3273450
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-06-12,All,3893581
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-06-12,All,1004068
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-06-12,All,574390
@@ -150,7 +150,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-06-12,All,28531
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-06-12,All,37400
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-06-12,All,5900600
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-06-12,All,2717072
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-06-12,All,2788245
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802497999999996,Egypt,2021-06-12,All,3340216
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-06-12,All,2231365
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2021-06-12,All,236189
@@ -407,7 +407,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-06-12,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-06-12,All,5834309
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-06-12,All,3538144
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-12,All,3223834
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-12,All,3223999
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-06-12,All,2136423
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-06-12,All,3300000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-06-12,All,1411548
