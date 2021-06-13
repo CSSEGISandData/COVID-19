@@ -19436,3 +19436,15 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/12/2021,time_series_covid19_deaths_global.csv,US,06/09/2021,598316,598328,"Update FL, US death data"
 06/12/2021,time_series_covid19_deaths_global.csv,US,06/10/2021,598744,598756,"Update FL, US death data"
 06/12/2021,time_series_covid19_deaths_global.csv,US,06/11/2021,599180,599472,"Update FL, US death data"
+06/13/2021,time_series_covid19_deaths_global.csv,"San Mateo, California, US",06/06/2021,664,579,Correct San Mateo deaths data
+06/13/2021,time_series_covid19_deaths_global.csv,"San Mateo, California, US",06/07/2021,664,579,Correct San Mateo deaths data
+06/13/2021,time_series_covid19_deaths_global.csv,"San Mateo, California, US",06/08/2021,664,579,Correct San Mateo deaths data
+06/13/2021,time_series_covid19_deaths_global.csv,"San Mateo, California, US",06/09/2021,663,579,Correct San Mateo deaths data
+06/13/2021,time_series_covid19_deaths_global.csv,"San Mateo, California, US",06/10/2021,666,579,Correct San Mateo deaths data
+06/13/2021,time_series_covid19_deaths_global.csv,"San Mateo, California, US",06/11/2021,666,579,Correct San Mateo deaths data
+06/13/2021,time_series_covid19_deaths_global.csv,US,06/06/2021,597206,597121,"Correct California, US deaths data"
+06/13/2021,time_series_covid19_deaths_global.csv,US,06/07/2021,597516,597431,"Correct California, US deaths data"
+06/13/2021,time_series_covid19_deaths_global.csv,US,06/08/2021,597892,597807,"Correct California, US deaths data"
+06/13/2021,time_series_covid19_deaths_global.csv,US,06/09/2021,598328,598244,"Correct California, US deaths data"
+06/13/2021,time_series_covid19_deaths_global.csv,US,06/10/2021,598756,598669,"Correct California, US deaths data"
+06/13/2021,time_series_covid19_deaths_global.csv,US,06/11/2021,599472,599385,"Correct California, US deaths data"
