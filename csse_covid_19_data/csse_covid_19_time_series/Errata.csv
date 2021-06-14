@@ -19448,3 +19448,31 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/13/2021,time_series_covid19_deaths_global.csv,US,06/09/2021,598328,598244,"Correct California, US deaths data"
 06/13/2021,time_series_covid19_deaths_global.csv,US,06/10/2021,598756,598669,"Correct California, US deaths data"
 06/13/2021,time_series_covid19_deaths_global.csv,US,06/11/2021,599472,599385,"Correct California, US deaths data"
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/02/2021,48638,48639,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/03/2021,48638,48733,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/04/2021,48638,48821,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/05/2021,48810,48901,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/06/2021,48810,48951,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/07/2021,48810,48983,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/08/2021,48810,49031,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/09/2021,48810,49090,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/10/2021,48810,49110,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_confirmed_global.csv,Jamaica,06/11/2021,48810,49179,Correct Jamaica confirmed data
+06/14/2021,time_series_covid19_deaths_global.csv,Jamaica,06/04/2021,951,960,Correct Jamaica deaths data
+06/14/2021,time_series_covid19_deaths_global.csv,Jamaica,06/05/2021,960,964,Correct Jamaica deaths data
+06/14/2021,time_series_covid19_deaths_global.csv,Jamaica,06/06/2021,960,970,Correct Jamaica deaths data
+06/14/2021,time_series_covid19_deaths_global.csv,Jamaica,06/07/2021,960,971,Correct Jamaica deaths data
+06/14/2021,time_series_covid19_deaths_global.csv,Jamaica,06/08/2021,960,974,Correct Jamaica deaths data
+06/14/2021,time_series_covid19_deaths_global.csv,Jamaica,06/09/2021,960,988,Correct Jamaica deaths data
+06/14/2021,time_series_covid19_deaths_global.csv,Jamaica,06/10/2021,960,989,Correct Jamaica deaths data
+06/14/2021,time_series_covid19_deaths_global.csv,Jamaica,06/11/2021,960,990,Correct Jamaica deaths data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/02/2021,25485,25622,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/03/2021,25485,25802,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/04/2021,25485,25945,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/05/2021,25936,26102,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/06/2021,25936,26295,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/07/2021,25936,26424,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/08/2021,25936,26641,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/09/2021,25936,26828,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/10/2021,25936,27013,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/11/2021,25936,27201,Correct Jamaica recovered data
