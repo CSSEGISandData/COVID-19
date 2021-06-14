@@ -19476,3 +19476,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/09/2021,25936,26828,Correct Jamaica recovered data
 06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/10/2021,25936,27013,Correct Jamaica recovered data
 06/14/2021,time_series_covid19_recovered_global.csv,Jamaica,06/11/2021,25936,27201,Correct Jamaica recovered data
+06/14/2021,time_series_covid19_deaths_US.csv,"Maricopa, Arizona, US",06/13/2021,10151,10157,"Update Maricopa, Arizona deaths data"
+06/14/2021,time_series_covid19_deaths_global.csv,US,06/13/2021,599769,599775,"Update AZ, US death data"
