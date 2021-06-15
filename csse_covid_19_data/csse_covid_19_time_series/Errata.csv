@@ -19498,3 +19498,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/15/2021,time_series_covid19_confirmed_US.csv,"Yuba, California, US",06/12/2021,6648,6448,"Update Yuba, CA confirmed data"
 06/15/2021,time_series_covid19_confirmed_global.csv,US,06/11/2021,33449200,33449000,"Update CA, US confirmed data"
 06/15/2021,time_series_covid19_confirmed_global.csv,US,06/12/2021,33457407,33457207,"Update CA, US confirmed data"
+06/15/2021,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",06/14/2021,49158,49200,"Correct District of Columbia, US confirmed data"
+06/15/2021,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",06/14/2021,1137,1138,"Correct District of Columbia, US deaths data"
