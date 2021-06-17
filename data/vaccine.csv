@@ -238,7 +238,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2021-06-17,All,87930
 38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2021-06-17,All,3507199
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2021-06-17,All,194315
-392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2021-06-17,All,26376451
+392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2021-06-17,All,27656387
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2021-06-17,All,2751281
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,2021-06-17,All,3982697
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2021-06-17,All,1116021
@@ -310,7 +310,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-06-17,All,22746
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-06-17,All,43651
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-06-17,All,23918
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-06-17,All,16236796
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-06-17,All,16241222
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-06-17,All,632648
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-06-17,All,4955746
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-06-17,All,137196
@@ -333,7 +333,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-06-17,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-06-17,All,185533
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-06-17,All,1405955
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-17,All,37350455
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-17,All,37457568
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-06-17,All,312640143
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-06-17,All,3141802
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-06-17,All,642482
