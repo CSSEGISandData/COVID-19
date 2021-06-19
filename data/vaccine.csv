@@ -5,31 +5,31 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 20,AD,AND,20,,,,Andorra,42.5063,1.5218,Andorra,2021-06-19,All,51114
 24,AO,AGO,24,,,,Angola,-11.2027,17.8739,Angola,2021-06-19,All,1314375
 28,AG,ATG,28,,,,Antigua and Barbuda,17.0608,-61.7964,Antigua and Barbuda,2021-06-19,All,59582
-32,AR,ARG,32,,,,Argentina,-38.4161,-63.6167,Argentina,2021-06-19,All,17475935
-3201,AR,ARG,32,,,Autonomous City of Buenos Aires,Argentina,-34.6037,-58.3816,"Autonomous City of Buenos Aires, Argentina",2021-06-19,All,1585139
-3202,AR,ARG,32,,,Buenos Aires,Argentina,-37.2017,-59.8411,"Buenos Aires, Argentina",2021-06-19,All,6424063
-3203,AR,ARG,32,,,Catamarca,Argentina,-27.0764,-66.9988,"Catamarca, Argentina",2021-06-19,All,160011
-3204,AR,ARG,32,,,Chaco,Argentina,-26.5858,-60.954,"Chaco, Argentina",2021-06-19,All,437651
-3205,AR,ARG,32,,,Chubut,Argentina,-43.6846,-69.2746,"Chubut, Argentina",2021-06-19,All,224692
-3207,AR,ARG,32,,,Cordoba,Argentina,-32.2968,-63.5806,"Cordoba, Argentina",2021-06-19,All,1454917
-3206,AR,ARG,32,,,Corrientes,Argentina,-28.5842,-58.0072,"Corrientes, Argentina",2021-06-19,All,409816
-3208,AR,ARG,32,,,Entre Rios,Argentina,-32.5176,-59.1042,"Entre Rios, Argentina",2021-06-19,All,511952
-3209,AR,ARG,32,,,Formosa,Argentina,-25.3946,-58.7374,"Formosa, Argentina",2021-06-19,All,217908
-3210,AR,ARG,32,,,Jujuy,Argentina,-22.6633,-66.2367,"Jujuy, Argentina",2021-06-19,All,327666
-3211,AR,ARG,32,,,La Pampa,Argentina,-37.8957,-65.0958,"La Pampa, Argentina",2021-06-19,All,173436
-3212,AR,ARG,32,,,La Rioja,Argentina,-29.9002,-66.9988,"La Rioja, Argentina",2021-06-19,All,160243
-3213,AR,ARG,32,,,Mendoza,Argentina,-32.8895,-68.8458,"Mendoza, Argentina",2021-06-19,All,770062
-3214,AR,ARG,32,,,Misiones,Argentina,-26.9377,-54.4342,"Misiones, Argentina",2021-06-19,All,389541
-3215,AR,ARG,32,,,Neuquen,Argentina,-38.8234,-69.6691,"Neuquen, Argentina",2021-06-19,All,254601
-3216,AR,ARG,32,,,Rio Negro,Argentina,-40.7344,-66.6176,"Rio Negro, Argentina",2021-06-19,All,307273
-3217,AR,ARG,32,,,Salta,Argentina,-24.7821,-65.4232,"Salta, Argentina",2021-06-19,All,533192
-3218,AR,ARG,32,,,San Juan,Argentina,-30.8725,-68.5247,"San Juan, Argentina",2021-06-19,All,285809
-3219,AR,ARG,32,,,San Luis,Argentina,-33.8769,-66.2367,"San Luis, Argentina",2021-06-19,All,226739
-3220,AR,ARG,32,,,Santa Cruz,Argentina,-48.7737,-69.1917,"Santa Cruz, Argentina",2021-06-19,All,141725
-3221,AR,ARG,32,,,Santa Fe,Argentina,-30.2442,-60.5821,"Santa Fe, Argentina",2021-06-19,All,1373494
-3222,AR,ARG,32,,,Santiago del Estero,Argentina,-28.1866,-63.5806,"Santiago del Estero, Argentina",2021-06-19,All,366972
-3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2021-06-19,All,74147
-3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2021-06-19,All,664886
+32,AR,ARG,32,,,,Argentina,-38.4161,-63.6167,Argentina,2021-06-19,All,17837121
+3201,AR,ARG,32,,,Autonomous City of Buenos Aires,Argentina,-34.6037,-58.3816,"Autonomous City of Buenos Aires, Argentina",2021-06-19,All,1616213
+3202,AR,ARG,32,,,Buenos Aires,Argentina,-37.2017,-59.8411,"Buenos Aires, Argentina",2021-06-19,All,6539747
+3203,AR,ARG,32,,,Catamarca,Argentina,-27.0764,-66.9988,"Catamarca, Argentina",2021-06-19,All,163684
+3204,AR,ARG,32,,,Chaco,Argentina,-26.5858,-60.954,"Chaco, Argentina",2021-06-19,All,445230
+3205,AR,ARG,32,,,Chubut,Argentina,-43.6846,-69.2746,"Chubut, Argentina",2021-06-19,All,230466
+3207,AR,ARG,32,,,Cordoba,Argentina,-32.2968,-63.5806,"Cordoba, Argentina",2021-06-19,All,1510156
+3206,AR,ARG,32,,,Corrientes,Argentina,-28.5842,-58.0072,"Corrientes, Argentina",2021-06-19,All,415046
+3208,AR,ARG,32,,,Entre Rios,Argentina,-32.5176,-59.1042,"Entre Rios, Argentina",2021-06-19,All,522488
+3209,AR,ARG,32,,,Formosa,Argentina,-25.3946,-58.7374,"Formosa, Argentina",2021-06-19,All,220702
+3210,AR,ARG,32,,,Jujuy,Argentina,-22.6633,-66.2367,"Jujuy, Argentina",2021-06-19,All,330808
+3211,AR,ARG,32,,,La Pampa,Argentina,-37.8957,-65.0958,"La Pampa, Argentina",2021-06-19,All,175185
+3212,AR,ARG,32,,,La Rioja,Argentina,-29.9002,-66.9988,"La Rioja, Argentina",2021-06-19,All,161509
+3213,AR,ARG,32,,,Mendoza,Argentina,-32.8895,-68.8458,"Mendoza, Argentina",2021-06-19,All,789202
+3214,AR,ARG,32,,,Misiones,Argentina,-26.9377,-54.4342,"Misiones, Argentina",2021-06-19,All,397880
+3215,AR,ARG,32,,,Neuquen,Argentina,-38.8234,-69.6691,"Neuquen, Argentina",2021-06-19,All,256948
+3216,AR,ARG,32,,,Rio Negro,Argentina,-40.7344,-66.6176,"Rio Negro, Argentina",2021-06-19,All,313316
+3217,AR,ARG,32,,,Salta,Argentina,-24.7821,-65.4232,"Salta, Argentina",2021-06-19,All,543036
+3218,AR,ARG,32,,,San Juan,Argentina,-30.8725,-68.5247,"San Juan, Argentina",2021-06-19,All,290319
+3219,AR,ARG,32,,,San Luis,Argentina,-33.8769,-66.2367,"San Luis, Argentina",2021-06-19,All,232208
+3220,AR,ARG,32,,,Santa Cruz,Argentina,-48.7737,-69.1917,"Santa Cruz, Argentina",2021-06-19,All,144626
+3221,AR,ARG,32,,,Santa Fe,Argentina,-30.2442,-60.5821,"Santa Fe, Argentina",2021-06-19,All,1409021
+3222,AR,ARG,32,,,Santiago del Estero,Argentina,-28.1866,-63.5806,"Santiago del Estero, Argentina",2021-06-19,All,372916
+3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2021-06-19,All,75898
+3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2021-06-19,All,680517
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2021-06-19,All,55557
 36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2021-06-19,All,6360666
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-06-19,All,6767175
@@ -161,7 +161,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.472999999999999,"Vysocina, Czechia",2021-06-19,All,325171
 20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-06-19,All,364023
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-06-19,All,4363025
-234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-06-19,All,41473
+234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-06-19,All,41653
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-06-19,All,32175
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-06-19,All,38160
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-06-19,All,6675351
@@ -325,7 +325,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-06-19,All,23087
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-06-19,All,43671
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-06-19,All,23918
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-06-19,All,16485001
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-06-19,All,16489414
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-06-19,All,632648
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-06-19,All,5070754
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-06-19,All,137676
@@ -337,7 +337,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-06-19,All,2069346
 728,SS,SSD,728,,,,South Sudan,6.877000000000001,31.307,South Sudan,2021-06-19,All,18863
 724,ES,ESP,724,,,,Spain,40.463667,-3.7492199999999998,Spain,2021-06-19,All,35412140
-144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2021-06-19,All,3140256
+144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2021-06-19,All,3217818
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2021-06-19,All,539843
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2021-06-19,All,165785
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,2021-06-19,All,6731352
@@ -374,8 +374,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-06-19,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-06-19,All,215635
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-06-19,All,1459780
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-19,All,40722514
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-06-19,All,315677697
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-19,All,40759793
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-06-19,All,315680157
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-06-19,All,3254330
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-06-19,All,644984
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-06-19,All,45025
@@ -425,7 +425,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000047,US,USA,840,47,,Tennessee,US,35.7478,-86.6923,"Tennessee, US",2021-06-19,All,5144371
 84000048,US,USA,840,48,,Texas,US,31.0545,-97.5635,"Texas, US",2021-06-19,All,24837998
 84000049,US,USA,840,49,,Utah,US,40.15,-111.8624,"Utah, US",2021-06-19,All,2775154
-84000050,US,USA,840,50,,Vermont,US,44.0459,-72.7107,"Vermont, US",2021-06-19,All,851217
+84000050,US,USA,840,50,,Vermont,US,44.0459,-72.7107,"Vermont, US",2021-06-19,All,853677
 850,VI,VIR,850,78,,Virgin Islands,US,18.3358,-64.8963,"Virgin Islands, US",2021-06-19,All,75750
 84000051,US,USA,840,51,,Virginia,US,37.7693,-78.17,"Virginia, US",2021-06-19,All,8972583
 84000053,US,USA,840,53,,Washington,US,47.4009,-121.4905,"Washington, US",2021-06-19,All,8273921
@@ -474,7 +474,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-06-19,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-06-19,All,6127441
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-06-19,All,3702459
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-19,All,3504189
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-19,All,3505729
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-06-19,All,2695058
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-06-19,All,1302992
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-06-19,All,1991059
