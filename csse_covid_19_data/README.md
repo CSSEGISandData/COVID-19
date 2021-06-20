@@ -401,7 +401,7 @@ United States
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Louisiana: Providing data Monday-Friday.
 * Montana: Providing data Monday-Friday.
-* Michigan: Providing data Monday-Saturday. No case data provided for August 21.
+* Michigan: Providing data Monday-Friday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
 * Nebraska: Providing data Monday-Friday. No county-level data available at this time.
 * Nevada: Providing data Monday-Friday.
