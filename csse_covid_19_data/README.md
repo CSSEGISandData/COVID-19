@@ -226,6 +226,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * June 11, 2021 | California, US | Back correction of Alameda, California's deaths due to adjustment of death counts to agree with the state definition. | [Data Source](https://covid19.ca.gov/state-dashboard/#location-alameda)
 * June 13, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * June 14, 2021 | Singapore | Data for June 12 updated to match news source | [Source](https://www.straitstimes.com/singapore/nine-new-community-cases-cleaner-at-ion-orchard-among-5-unlinked-covid-19-cases)
+* June 21, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -401,7 +402,7 @@ United States
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Louisiana: Providing data Monday-Friday.
 * Montana: Providing data Monday-Friday.
-* Michigan: Providing data Monday-Saturday. No case data provided for August 21.
+* Michigan: Providing data Monday-Friday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
 * Nebraska: Providing data Monday-Friday. No county-level data available at this time.
 * Nevada: Providing data Monday-Friday.
