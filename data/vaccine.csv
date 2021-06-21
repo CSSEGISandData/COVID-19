@@ -161,7 +161,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.472999999999999,"Vysocina, Czechia",2021-06-21,All,325171
 20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-06-21,All,364023
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-06-21,All,4403132
-234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-06-21,All,41653
+234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-06-21,All,42457
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-06-21,All,32175
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-06-21,All,38646
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-06-21,All,6835074
@@ -178,7 +178,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2021-06-21,All,41737
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2021-06-21,All,40810
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2021-06-21,All,309128
-276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-06-21,All,65738489
+276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-06-21,All,66454623
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-06-21,All,1232876
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-06-21,All,7446861
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-06-21,All,29157
@@ -289,7 +289,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,2021-06-21,All,167500
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,2021-06-21,All,2909674
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2021-06-21,All,473853
-578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,2021-06-21,All,3560819
+578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,2021-06-21,All,3634363
 512,OM,OMN,512,,,,Oman,21.512583,55.923255000000005,Oman,2021-06-21,All,720199
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,2021-06-21,All,12977740
 585,PW,PLW,8,,,,Palau,7.515,134.5825,Palau,2021-06-21,All,24601
@@ -374,7 +374,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-06-21,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-06-21,All,215991
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-06-21,All,1554145
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-21,All,41781969
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-21,All,41937826
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-06-21,All,317464619
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-06-21,All,3282193
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-06-21,All,644984
