@@ -226,6 +226,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * June 11, 2021 | California, US | Back correction of Alameda, California's deaths due to adjustment of death counts to agree with the state definition. | [Data Source](https://covid19.ca.gov/state-dashboard/#location-alameda)
 * June 13, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * June 14, 2021 | Singapore | Data for June 12 updated to match news source | [Source](https://www.straitstimes.com/singapore/nine-new-community-cases-cleaner-at-ion-orchard-among-5-unlinked-covid-19-cases)
+* June 21, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
