@@ -398,8 +398,10 @@ United States
 * Florida: Providing data once per week (Fridays).
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday.
+* Illinois: Providing data Monday-Friday.
 * Indiana: Providing data Monday-Saturday.
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
+* Kentucky: Providing data Monday-Friday.
 * Louisiana: Providing data Monday-Friday.
 * Montana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Friday. No case data provided for August 21.
