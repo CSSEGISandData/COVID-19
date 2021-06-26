@@ -1610,7 +1610,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 51113,Madison,Virginia,US,2020-05-05 02:32:34,38.41531222,-78.28220331,16,1,0,15,"Madison, Virginia, US"
 19123,Mahaska,Iowa,US,2020-05-05 02:32:34,41.33521503,-92.64083907,17,1,0,16,"Mahaska, Iowa, US"
 27087,Mahnomen,Minnesota,US,2020-05-05 02:32:34,47.32557075,-95.80921485,2,0,0,2,"Mahnomen, Minnesota, US"
-39099,Mahoning,Ohio,US,2020-05-05 02:32:34,41.01631101,-80.77287029,961,105,0,878,"Mahoning, Ohio, US"
+39099,Mahoning,Ohio,US,2020-05-05 02:32:34,41.01631101,-80.77287029,961,106,0,878,"Mahoning, Ohio, US"
 40093,Major,Oklahoma,US,2020-05-05 02:32:34,36.31149996,-98.53467076,3,1,0,2,"Major, Oklahoma, US"
 41045,Malheur,Oregon,US,2020-05-05 02:32:34,43.1937027,-117.62273950000001,13,0,0,13,"Malheur, Oregon, US"
 51683,Manassas,Virginia,US,2020-05-05 02:32:34,38.7464321,-77.48509905,273,1,0,272,"Manassas, Virginia, US"
@@ -3204,5 +3204,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zimbabwe,2020-05-05 02:32:34,-19.015438,29.154857,34,4,5,25,Zimbabwe
 ,,Unknown,China,2020-05-05 02:32:34,,,0,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-05-05 02:32:34,-3.3704,-168.734,0,0,0,0,Kiribati
-,,,Palau,2020-05-05 02:32:34,-3.3704,-168.734,0,0,0,0,Palau
-,,Cook Islands,New Zealand,2020-05-05 02:32:34,-3.3704,-168.734,0,0,0,0,"Cook Islands, New Zealand"
+,,,Palau,2020-05-05 02:32:34,7.5150,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-05-05 02:32:34,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,2020-05-05 02:32:34,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

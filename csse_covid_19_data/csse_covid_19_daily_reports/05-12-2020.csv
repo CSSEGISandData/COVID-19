@@ -1632,7 +1632,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 51113,Madison,Virginia,US,2020-05-13 03:32:26,38.41531222,-78.28220331,21,1,0,20,"Madison, Virginia, US"
 19123,Mahaska,Iowa,US,2020-05-13 03:32:26,41.33521503,-92.64083907,21,1,0,20,"Mahaska, Iowa, US"
 27087,Mahnomen,Minnesota,US,2020-05-13 03:32:26,47.32557075,-95.80921485,3,1,0,2,"Mahnomen, Minnesota, US"
-39099,Mahoning,Ohio,US,2020-05-13 03:32:26,41.01631101,-80.77287029,1150,137,0,1018,"Mahoning, Ohio, US"
+39099,Mahoning,Ohio,US,2020-05-13 03:32:26,41.01631101,-80.77287029,1150,138,0,1018,"Mahoning, Ohio, US"
 40093,Major,Oklahoma,US,2020-05-13 03:32:26,36.31149996,-98.53467076,6,1,0,5,"Major, Oklahoma, US"
 41045,Malheur,Oregon,US,2020-05-13 03:32:26,43.1937027,-117.6227395,14,0,0,14,"Malheur, Oregon, US"
 51683,Manassas,Virginia,US,2020-05-13 03:32:26,38.7464321,-77.48509905,430,3,0,427,"Manassas, Virginia, US"
@@ -3242,5 +3242,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 2063,Chugach,Alaska,US,2021-04-02 15:13:53,61.16666,-149.9,1,0,0,0,"Chugach, Alaska, US"
 ,,Unknown,China,2020-05-13 03:32:26,,,0,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-05-13 03:32:26,-3.3704,-168.734,0,0,0,0,Kiribati
-,,,Palau,2020-05-13 03:32:26,-3.3704,-168.734,0,0,0,0,Palau
-,,Cook Islands,New Zealand,2020-05-13 03:32:26,-3.3704,-168.734,0,0,0,0,"Cook Islands, New Zealand"
+,,,Palau,2020-05-13 03:32:26,7.5150,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-05-13 03:32:26,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,2020-05-13 03:32:26,35.6491,139.7737,0,0,0,0,Summer Olympics 2020
