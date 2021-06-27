@@ -19614,3 +19614,73 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/24/2021,time_series_covid19_recovered_global.csv,Taiwan*,06/23/2021,8087,9041,Correct Taiwan recovered data
 06/24/2021,time_series_covid19_deaths_global.csv,Fiji,06/23/2021,11,13,Correct Fiji deaths data
 06/24/2021,time_series_covid19_recovered_global.csv,Fiji,06/23/2021,618,636,Correct Fiji recovered data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Alachua, Florida, US",06/25/2021,25674,25741,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Baker, Florida, US",06/25/2021,3602,3626,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Bay, Florida, US",06/25/2021,20722,20795,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Bradford, Florida, US",06/25/2021,3063,3076,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Brevard, Florida, US",06/25/2021,43589,43952,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Broward, Florida, US",06/25/2021,247743,248830,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Calhoun, Florida, US",06/25/2021,1717,1723,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Charlotte, Florida, US",06/25/2021,13579,13644,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Citrus, Florida, US",06/25/2021,11545,11581,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Clay, Florida, US",06/25/2021,19565,19683,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Collier, Florida, US",06/25/2021,37607,37773,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Columbia, Florida, US",06/25/2021,8337,8361,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"DeSoto,Florida,US",06/25/2021,4463,4467,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Dixie, Florida, US",06/25/2021,1634,1642,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Duval, Florida, US",06/25/2021,102444,103256,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Escambia, Florida, US",06/25/2021,36788,36843,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Flagler, Florida, US",06/25/2021,7593,7642,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Franklin, Florida, US",06/25/2021,1364,1373,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Gadsden, Florida, US",06/25/2021,5826,5833,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Gilchrist, Florida, US",06/25/2021,1648,1651,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Glades, Florida, US",06/25/2021,992,996,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Gulf, Florida, US",06/25/2021,1986,2001,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Hamilton, Florida, US",06/25/2021,1650,1654,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Hardee, Florida, US",06/25/2021,3351,3366,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Hendry, Florida, US",06/25/2021,4921,4937,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Hernando, Florida, US",06/25/2021,14885,14969,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Highlands, Florida, US",06/25/2021,8843,8874,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Hillsborough, Florida, US",06/25/2021,145675,146442,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Holmes, Florida, US",06/25/2021,2300,2310,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Indian River, Florida, US",06/25/2021,12981,13033,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Jackson, Florida, US",06/25/2021,6413,6466,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Jefferson, Florida, US",06/25/2021,1529,1530,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Lake, Florida, US",06/25/2021,31475,31659,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Lee, Florida, US",06/25/2021,74583,74945,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Leon, Florida, US",06/25/2021,33171,33241,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Levy, Florida, US",06/25/2021,3622,3633,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Liberty, Florida, US",06/25/2021,1085,1087,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Madison, Florida, US",06/25/2021,2115,2113,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Manatee, Florida, US",06/25/2021,40332,40454,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Marion, Florida, US",06/25/2021,32198,32295,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Martin, Florida, US",06/25/2021,12898,12963,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Miami-Dade, Florida, US",06/25/2021,506428,508464,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Monroe, Florida, US",06/25/2021,7173,7219,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Nassau, Florida, US",06/25/2021,8804,8888,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Okaloosa, Florida, US",06/25/2021,21087,21195,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Okeechobee, Florida, US",06/25/2021,4267,4298,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Orange, Florida, US",06/25/2021,145025,145712,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Osceola, Florida, US",06/25/2021,47022,47253,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Palm Beach, Florida, US",06/25/2021,150116,150857,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Pasco, Florida, US",06/25/2021,43422,43521,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Pinellas, Florida, US",06/25/2021,82234,82576,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Polk, Florida, US",06/25/2021,72060,72452,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Putnam, Florida, US",06/25/2021,6812,6844,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Santa Rosa, Florida, US",06/25/2021,18743,18826,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Sarasota, Florida, US",06/25/2021,34010,34091,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Seminole, Florida, US",06/25/2021,36000,36264,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"St. Johns, Florida, US",06/25/2021,23594,23862,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"St. Lucie, Florida, US",06/25/2021,27983,28146,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Sumter, Florida, US",06/25/2021,9583,9626,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Suwannee, Florida, US",06/25/2021,5430,5452,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Taylor, Florida, US",06/25/2021,2757,2759,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Unassigned, Florida, US",06/25/2021,3018,3017,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Union, Florida, US",06/25/2021,1866,1879,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Volusia, Florida, US",06/25/2021,45535,45835,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Wakulla, Florida, US",06/25/2021,3563,3573,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Walton, Florida, US",06/25/2021,7986,8002,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_confirmed_global.csv,"Washington, Florida, US",06/25/2021,2760,2763,Correct FL stale confirmed data
+06/26/2021,time_series_covid19_deaths_global.csv,"Unassigned, Florida, US",06/25/2021,582,799,Correct San Mateo deaths data
+06/26/2021,time_series_covid19_confirmed_global.csv,US,06/25/2021,33603148,33614196,"Correct Florida, US stale confirmed data"
+06/26/2021,time_series_covid19_deaths_global.csv,US,06/25/2021,603527,603744,"Correct California, US deaths data"
