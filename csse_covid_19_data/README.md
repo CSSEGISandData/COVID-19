@@ -425,6 +425,7 @@ United States
 
 
 International
+* Belgium: Providing data Tuesday-Saturday.
 * Bosnia and Herezegovina: Not updating data on the weekends.
 * Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
