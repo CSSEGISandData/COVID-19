@@ -87,9 +87,9 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-06-28,All,2994900
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-06-28,All,6836447
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-06-28,All,110324
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-06-28,All,36015174
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-06-28,All,36198334
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-06-28,All,4198463
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-06-28,All,4703549
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-06-28,All,4886709
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-06-28,All,1329689
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-06-28,All,746333
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-06-28,All,460380
@@ -281,7 +281,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-06-28,All,1469057
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-06-28,All,38176
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-06-28,All,783265
-604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-06-28,All,7183963
+604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-06-28,All,7220895
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-06-28,All,10065414
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-06-28,All,28447379
 61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-06-28,All,2325739
@@ -310,7 +310,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-06-28,All,24667
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-06-28,All,44430
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-06-28,All,27986
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-06-28,All,17487119
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-06-28,All,17487456
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-06-28,All,664826
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-06-28,All,5146241
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-06-28,All,137976
@@ -326,28 +326,6 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2021-06-28,All,671423
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2021-06-28,All,191963
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,2021-06-28,All,7229002
-75201,SE,SWE,752,,,Blekinge,Sweden,56.2784,15.017999999999999,"Blekinge, Sweden",2021-06-28,All,
-75202,SE,SWE,752,,,Dalarna,Sweden,61.0917,14.6664,"Dalarna, Sweden",2021-06-28,All,
-75203,SE,SWE,752,,,Gavleborg,Sweden,61.3012,16.1534,"Gavleborg, Sweden",2021-06-28,All,
-75204,SE,SWE,752,,,Gotland,Sweden,57.4684,18.4867,"Gotland, Sweden",2021-06-28,All,
-75205,SE,SWE,752,,,Halland,Sweden,56.8967,12.8034,"Halland, Sweden",2021-06-28,All,
-75206,SE,SWE,752,,,Jamtland Harjedalen,Sweden,63.1712,14.9592,"Jamtland Harjedalen, Sweden",2021-06-28,All,
-75207,SE,SWE,752,,,Jonkoping,Sweden,57.3708,14.3439,"Jonkoping, Sweden",2021-06-28,All,
-75208,SE,SWE,752,,,Kalmar,Sweden,57.235,16.1849,"Kalmar, Sweden",2021-06-28,All,
-75209,SE,SWE,752,,,Kronoberg,Sweden,56.7183,14.4115,"Kronoberg, Sweden",2021-06-28,All,
-75210,SE,SWE,752,,,Norrbotten,Sweden,66.8309,20.3992,"Norrbotten, Sweden",2021-06-28,All,
-75211,SE,SWE,752,,,Orebro,Sweden,59.535,15.0066,"Orebro, Sweden",2021-06-28,All,
-75212,SE,SWE,752,,,Ostergotland,Sweden,58.3454,15.5198,"Ostergotland, Sweden",2021-06-28,All,
-75213,SE,SWE,752,,,Skane,Sweden,55.9903,13.5958,"Skane, Sweden",2021-06-28,All,
-75214,SE,SWE,752,,,Sormland,Sweden,59.0336,16.7519,"Sormland, Sweden",2021-06-28,All,
-75215,SE,SWE,752,,,Stockholm,Sweden,59.6025,18.1384,"Stockholm, Sweden",2021-06-28,All,
-75222,SE,SWE,752,,,Unassigned,Sweden,,,"Unassigned, Sweden",2021-06-28,All,
-75216,SE,SWE,752,,,Uppsala,Sweden,60.0092,17.2715,"Uppsala, Sweden",2021-06-28,All,
-75217,SE,SWE,752,,,Varmland,Sweden,59.7294,13.2354,"Varmland, Sweden",2021-06-28,All,
-75218,SE,SWE,752,,,Vasterbotten,Sweden,65.3337,16.5162,"Vasterbotten, Sweden",2021-06-28,All,
-75219,SE,SWE,752,,,Vasternorrland,Sweden,63.4276,17.7292,"Vasternorrland, Sweden",2021-06-28,All,
-75220,SE,SWE,752,,,Vastmanland,Sweden,59.6714,16.2159,"Vastmanland, Sweden",2021-06-28,All,
-75221,SE,SWE,752,,,Vastra Gotaland,Sweden,58.2528,13.0596,"Vastra Gotaland, Sweden",2021-06-28,All,
 756,CH,CHE,756,,,,Switzerland,46.8182,8.2275,Switzerland,2021-06-28,All,6093274
 75601,CH,CHE,756,,,Aargau,Switzerland,47.3877,8.2554,"Aargau, Switzerland",2021-06-28,All,476140
 75602,CH,CHE,756,,,Appenzell Ausserrhoden,Switzerland,47.3665,9.3001,"Appenzell Ausserrhoden, Switzerland",2021-06-28,All,36488
@@ -381,7 +359,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-06-28,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-06-28,All,275675
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-06-28,All,1755834
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-28,All,48391687
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-28,All,48391690
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-06-28,All,323979276
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-06-28,All,3341617
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-06-28,All,653331
@@ -481,7 +459,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-06-28,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-06-28,All,6457154
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-06-28,All,3880456
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-28,All,3820443
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-28,All,3823492
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-06-28,All,2695058
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-06-28,All,1466988
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-06-28,All,3386607
