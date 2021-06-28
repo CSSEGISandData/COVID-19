@@ -228,6 +228,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * June 14, 2021 | Singapore | Data for June 12 updated to match news source | [Source](https://www.straitstimes.com/singapore/nine-new-community-cases-cleaner-at-ion-orchard-among-5-unlinked-covid-19-cases)
 * June 21, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * June 28, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* June 28, 2021 | Illinois, US | Adjust Illinois case count to properly match their historical records for state level data. | [Data Source](https://www.dph.illinois.gov/covid19/data-portal)
 
 
 ## Retrospective reporting of (probable) cases and deaths
