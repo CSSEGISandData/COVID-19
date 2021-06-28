@@ -410,6 +410,7 @@ United States
 * Mississippi: Providing data Monday-Friday.
 * Nebraska: Providing data Monday-Friday. No county-level data available at this time.
 * Nevada: Providing data Monday-Friday.
+* New Hampshire: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
 * North Carolina: Providing data Monday-Friday.
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
