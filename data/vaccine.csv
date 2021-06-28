@@ -149,7 +149,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-06-28,All,35554
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-06-28,All,39309
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-06-28,All,7545508
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-06-28,All,3944256
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-06-28,All,3991635
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802497999999996,Egypt,2021-06-28,All,4138935
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-06-28,All,2674605
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2021-06-28,All,260528
@@ -279,7 +279,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 585,PW,PLW,8,,,,Palau,7.515,134.5825,Palau,2021-06-28,All,25330
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-06-28,All,1469057
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-06-28,All,38176
-600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-06-28,All,665339
+600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-06-28,All,665418
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-06-28,All,7142227
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-06-28,All,9542612
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-06-28,All,28354710
@@ -431,7 +431,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-06-28,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-06-28,All,6426867
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-06-28,All,3870746
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-28,All,3773470
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-06-28,All,3773475
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-06-28,All,2695058
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-06-28,All,1466988
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-06-28,All,3299232
