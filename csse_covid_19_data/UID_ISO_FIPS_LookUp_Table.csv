@@ -315,6 +315,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
+296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,117606
 410,KR,KOR,410,,,,"Korea, South",35.907757,127.766922,"Korea, South",51269183
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,1810366
 414,KW,KWT,414,,,,Kuwait,29.31166,47.481766,Kuwait,4270563
@@ -371,6 +372,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 48431,MX,MEX,484,,,Yucatan,Mexico,20.7099,-89.0943,"Yucatan, Mexico",2259098
 48432,MX,MEX,484,,,Zacatecas,Mexico,22.7709,-102.5832,"Zacatecas, Mexico",1666426
 48433,MX,MEX,484,,,Unknown,Mexico,,,"Unknown, Mexico",
+583,FM,FSM,583,,,,Micronesia,7.4256,150.5508,Micronesia,113815
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4033963
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,39244
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,3278292
@@ -399,6 +401,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",26221
 554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,4822233
+184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",17459
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,6624554
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,24206636
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,206139587
@@ -442,6 +445,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 56638,NG,NGA,566,,,Unknown,Nigeria,,,"Unknown, Nigeria",
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2083380
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
+2020,,,,,,,Summer Olympics 2020,35.6491,139.7737,Summer Olympics 2020,
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,220892331
 58601,PK,PAK,586,,,Azad Jammu and Kashmir,Pakistan,34.027401,73.947253,"Azad Jammu and Kashmir, Pakistan",4045366
@@ -452,6 +456,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 58606,PK,PAK,586,,,Punjab,Pakistan,30.811346,72.139132,"Punjab, Pakistan",110012442
 58607,PK,PAK,586,,,Sindh,Pakistan,26.009446,68.776807,"Sindh, Pakistan",47886051
 58608,PK,PAK,586,,,Unknown,Pakistan,,,"Unknown, Pakistan",
+585,PW,PLW,8,,,,Palau,7.5150,134.5825,Palau,18008
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,4314768
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,8947027
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,7132530
@@ -484,6 +489,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 60426,PE,PER,604,,,Unknown,Peru,,,"Unknown, Peru",
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,109581085
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,37846605
+61601,PL,POL,616,,,Dolnoslaskie,Poland,51.1340,16.8842,"Dolnoslaskie, Poland",2901225
+61602,PL,POL,616,,,Kujawsko-pomorskie,Poland,53.1648,18.4834,"Kujawsko-pomorskie, Poland",2077775
+61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2117619
+61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",1014548
+61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2466322
+61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",3400577
+61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",5403412
+61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",986506
+61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2129015
+61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",1181533
+61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2333523
+61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",4533565
+61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",1241546
+61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",1428983
+61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",3493969
+61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",1701030
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,10196707
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2881060
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,19237682
@@ -696,6 +717,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",4999
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,"Turks and Caicos Islands, United Kingdom",38718
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",15002
+654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",5661
 858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,33469199
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,292680
@@ -732,7 +754,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12414,CA,CAN,124,,,Grand Princess,Canada,,,"Grand Princess, Canada",
 12415,CA,CAN,124,,,Recovered,Canada,,,"Recovered, Canada",
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",38780
-156,CN,CHN,156,,,,China,30.5928,114.3055,China,1404676330
+156,CN,CHN,156,,,,China,35.8617,104.19545,China,1404676330
 15601,CN,CHN,156,,,Anhui,China,31.8257,117.2264,"Anhui, China",63240000
 15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
 15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
@@ -764,6 +786,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",24870000
 15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",48300000
 15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",57370000
+15699,CN,CHN,156,,,Unknown,China,,,"Unknown, China",
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",7496988
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",649342
 840,US,USA,840,,,,US,40,-100,US,329466283
@@ -854,13 +877,13 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 63072999,PR,PRI,630,72999,Unassigned,Puerto Rico,US,,,"Unassigned, Puerto Rico, US",
 84088888,US,USA,840,88888,,Diamond Princess,US,,,"Diamond Princess, US",
 84099999,US,USA,840,99999,,Grand Princess,US,,,"Grand Princess, US",
-84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185
-84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",731545
-84000004,US,USA,840,4,,Arizona,US,33.7298,-111.4312,"Arizona, US",7278717
-84000005,US,USA,840,5,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",3017804
-84000006,US,USA,840,6,,California,US,36.1162,-119.6816,"California, US",39512223
-84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",5758736
-84000009,US,USA,840,9,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",3565287
+84000001,US,USA,840,01,,Alabama,US,32.3182,-86.9023,"Alabama, US",4903185
+84000002,US,USA,840,02,,Alaska,US,61.3707,-152.4044,"Alaska, US",731545
+84000004,US,USA,840,04,,Arizona,US,33.7298,-111.4312,"Arizona, US",7278717
+84000005,US,USA,840,05,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",3017804
+84000006,US,USA,840,06,,California,US,36.1162,-119.6816,"California, US",39512223
+84000008,US,USA,840,08,,Colorado,US,39.0598,-105.3111,"Colorado, US",5758736
+84000009,US,USA,840,09,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",3565287
 84000010,US,USA,840,10,,Delaware,US,39.3185,-75.5071,"Delaware, US",973764
 84000011,US,USA,840,11,,District of Columbia,US,38.8974,-77.0268,"District of Columbia, US",705749
 84000012,US,USA,840,12,,Florida,US,27.7663,-81.6868,"Florida, US",21477737
@@ -1100,6 +1123,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84002020,US,USA,840,02020,Anchorage,Alaska,US,61.14998174,-149.1426986,"Anchorage, Alaska, US",288000
 84002050,US,USA,840,02050,Bethel,Alaska,US,60.90980451,-159.8561831,"Bethel, Alaska, US",18386
 84002060,US,USA,840,02060,Bristol Bay,Alaska,US,58.74513976,-156.701064,"Bristol Bay, Alaska, US",836
+84002066,US,USA,840,02066,Copper River,Alaska,US,60.3886,-162.8905196,"Copper River, Alaska, US",2699
+84002063,US,USA,840,02063,Chugach,Alaska,US,61.16666,-149.9,"Chugach, Alaska, US",6751
 84002068,US,USA,840,02068,Denali,Alaska,US,63.67264044,-150.0076108,"Denali, Alaska, US",2097
 84002070,US,USA,840,02070,Dillingham,Alaska,US,59.79603738,-158.2381942,"Dillingham, Alaska, US",4916
 84002090,US,USA,840,02090,Fairbanks North Star,Alaska,US,64.80726247,-146.5692662,"Fairbanks North Star, Alaska, US",96849

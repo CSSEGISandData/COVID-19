@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/30/20 16:00,4903,162,90
 Zhejiang,Mainland China,1/30/20 16:00,428,,4
 Guangdong,Mainland China,1/30/20 16:00,354,,10
@@ -38,7 +38,7 @@ Illinois,US,1/30/20 16:00,1,,
 California,US,1/30/20 16:00,2,,
 Arizona,US,1/30/20 16:00,1,,
 ,Japan,1/30/20 16:00,11,,1
-,Thailand,1/30/20 16:00,14,,5
+,Thailand,1/30/20 16:00,14,0,7.0
 ,South Korea,1/30/20 16:00,4,,
 ,Singapore,1/30/20 16:00,10,,
 ,Vietnam,1/30/20 16:00,2,,
@@ -57,3 +57,8 @@ Bavaria,Germany,1/30/20 16:00,4,,
 ,United Arab Emirates,1/30/20 16:00,4,,
 ,Philippines,1/30/20 16:00,1,,
 ,India,1/30/20 16:00,1,,
+Unknown,China,1/30/20 16:00,,,
+,Kiribati,1/30/20 16:00,0,0,0
+,Palau,1/30/20 16:00,0,0,0
+Cook Islands,New Zealand,1/30/20 16:00,0,0,0
+,Summer Olympics 2020,1/30/20 16:00,0,0,0

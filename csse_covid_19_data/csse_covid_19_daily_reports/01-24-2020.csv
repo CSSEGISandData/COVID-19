@@ -1,4 +1,4 @@
-﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
 Hubei,Mainland China,1/24/20 17:00,549,24,31
 Guangdong,Mainland China,1/24/20 17:00,53,,2
 Zhejiang,Mainland China,1/24/20 17:00,43,,1
@@ -35,8 +35,13 @@ Qinghai,Mainland China,1/24/20 17:00,,,
 Washington,US,1/24/20 17:00,1,,
 Chicago,US,1/24/20 17:00,1,,
 ,Japan,1/24/20 17:00,2,,
-,Thailand,1/24/20 17:00,5,,
+,Thailand,1/24/20 17:00,5,0,3
 ,South Korea,1/24/20 17:00,2,,
 ,Singapore,1/24/20 17:00,3,,
 ,Vietnam,1/24/20 17:00,2,,
 ,France,1/24/20 17:00,2,,
+Unknown,China,1/24/20 17:00,,,
+,Kiribati,1/24/20 17:00,0,0,0
+,Palau,1/24/20 17:00,0,0,0
+Cook Islands,New Zealand,1/24/20 17:00,0,0,0
+,Summer Olympics 2020,1/24/20 17:00,0,0,0

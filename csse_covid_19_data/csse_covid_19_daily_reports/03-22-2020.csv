@@ -102,7 +102,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6081,San Mateo,California,US,3/22/20 23:45,37.4228808,-122.3275546,117,1,0,0,"San Mateo, California, US"
 6075,San Francisco,California,US,3/22/20 23:45,37.75215114,-122.4385672,108,0,0,0,"San Francisco, California, US"
 6059,Orange,California,US,3/22/20 23:45,33.70147516,-117.7645998,95,0,0,0,"Orange, California, US"
-6001,Alameda,California,US,3/22/20 23:45,37.64629437,-121.8929271,71,0,0,0,"Alameda, California, US"
+6001,Alameda,California,US,3/22/20 23:45,37.64629437,-121.8929271,71,1,0,0,"Alameda, California, US"
 6013,Contra Costa,California,US,3/22/20 23:45,37.91923498,-121.9289527,61,1,0,0,"Contra Costa, California, US"
 6067,Sacramento,California,US,3/22/20 23:45,38.45106826,-121.3425374,53,3,0,0,"Sacramento, California, US"
 6041,Marin,California,US,3/22/20 23:45,38.07122463,-122.7210631,38,0,0,0,"Marin, California, US"
@@ -553,20 +553,20 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55073,Marathon,Wisconsin,US,3/22/20 23:45,44.89792533,-89.75863384,1,0,0,0,"Marathon, Wisconsin, US"
 55031,Douglas,Wisconsin,US,3/22/20 23:45,46.43222285,-91.91595768,1,0,0,0,"Douglas, Wisconsin, US"
 55045,Green,Wisconsin,US,3/22/20 23:45,42.6794956,-89.60243287,1,0,0,0,"Green, Wisconsin, US"
-39035,Cuyahoga,Ohio,US,3/22/20 23:45,41.424119,-81.65918339,125,1,0,0,"Cuyahoga, Ohio, US"
-39049,Franklin,Ohio,US,3/22/20 23:45,39.96995815,-83.01115755,34,0,0,0,"Franklin, Ohio, US"
+39035,Cuyahoga,Ohio,US,3/22/20 23:45,41.424119,-81.65918339,125,2,0,0,"Cuyahoga, Ohio, US"
+39049,Franklin,Ohio,US,3/22/20 23:45,39.96995815,-83.01115755,34,3,0,0,"Franklin, Ohio, US"
 39153,Summit,Ohio,US,3/22/20 23:45,41.12464734,-81.53123079,23,0,0,0,"Summit, Ohio, US"
 39093,Lorain,Ohio,US,3/22/20 23:45,41.29553751,-82.15083537,19,0,0,0,"Lorain, Ohio, US"
-39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,0,0,0,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,1,0,0,"Hamilton, Ohio, US"
 39099,Mahoning,Ohio,US,3/22/20 23:45,41.01631101,-80.77287029,18,0,0,0,"Mahoning, Ohio, US"
 39017,Butler,Ohio,US,3/22/20 23:45,39.44012838,-84.57388716,17,0,0,0,"Butler, Ohio, US"
-39109,Miami,Ohio,US,3/22/20 23:45,40.0543329,-84.22871271,13,0,0,0,"Miami, Ohio, US"
-39151,Stark,Ohio,US,3/22/20 23:45,40.81482476,-81.36437305,10,0,0,0,"Stark, Ohio, US"
+39109,Miami,Ohio,US,3/22/20 23:45,40.0543329,-84.22871271,13,1,0,0,"Miami, Ohio, US"
+39151,Stark,Ohio,US,3/22/20 23:45,40.81482476,-81.36437305,10,1,0,0,"Stark, Ohio, US"
 39103,Medina,Ohio,US,3/22/20 23:45,41.11770589,-81.8998621,10,0,0,0,"Medina, Ohio, US"
-39095,Lucas,Ohio,US,3/22/20 23:45,41.62101218,-83.65468618,7,1,0,0,"Lucas, Ohio, US"
+39095,Lucas,Ohio,US,3/22/20 23:45,41.62101218,-83.65468618,7,2,0,0,"Lucas, Ohio, US"
 39085,Lake,Ohio,US,3/22/20 23:45,41.69710807,-81.23676539,6,0,0,0,"Lake, Ohio, US"
 39041,Delaware,Ohio,US,3/22/20 23:45,40.27942393,-83.00457058,6,0,0,0,"Delaware, Ohio, US"
-39113,Montgomery,Ohio,US,3/22/20 23:45,39.75394919,-84.29050975,5,0,0,0,"Montgomery, Ohio, US"
+39113,Montgomery,Ohio,US,3/22/20 23:45,39.75394919,-84.29050975,5,1,0,0,"Montgomery, Ohio, US"
 39025,Clermont,Ohio,US,3/22/20 23:45,39.04847534,-84.15375786,5,0,0,0,"Clermont, Ohio, US"
 39155,Trumbull,Ohio,US,3/22/20 23:45,41.31735028,-80.76109643,3,0,0,0,"Trumbull, Ohio, US"
 39165,Warren,Ohio,US,3/22/20 23:45,39.42581994,-84.16557457,3,0,0,0,"Warren, Ohio, US"
@@ -580,7 +580,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39037,Darke,Ohio,US,3/22/20 23:45,40.13412966,-84.6194517,1,0,0,0,"Darke, Ohio, US"
 39077,Huron,Ohio,US,3/22/20 23:45,41.14651175,-82.59867951,1,0,0,0,"Huron, Ohio, US"
 39005,Ashland,Ohio,US,3/22/20 23:45,40.84772277,-82.27280781,1,0,0,0,"Ashland, Ohio, US"
-39023,Clark,Ohio,US,3/22/20 23:45,39.91592258,-83.78498252,1,0,0,0,"Clark, Ohio, US"
+39023,Clark,Ohio,US,3/22/20 23:45,39.91592258,-83.78498252,1,1,0,0,"Clark, Ohio, US"
 39139,Richland,Ohio,US,3/22/20 23:45,40.77180308,-82.5379961,1,0,0,0,"Richland, Ohio, US"
 39101,Marion,Ohio,US,3/22/20 23:45,40.58610662,-83.15736305,1,0,0,0,"Marion, Ohio, US"
 39089,Licking,Ohio,US,3/22/20 23:45,40.09136236,-82.48185785,1,0,0,0,"Licking, Ohio, US"
@@ -972,7 +972,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29189,St. Louis,Missouri,US,3/22/20 23:45,38.6377004,-90.4458375,22,1,0,0,"St. Louis, Missouri, US"
 29019,Boone,Missouri,US,3/22/20 23:45,38.99186229,-92.30723575,15,1,0,0,"Boone, Missouri, US"
 29077,Greene,Missouri,US,3/22/20 23:45,37.2575872,-93.34230916,10,0,0,0,"Greene, Missouri, US"
-29510,St. Louis City,Missouri,US,3/22/20 23:45,38.63555736,-90.24349225,10,0,0,0,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,3/22/20 23:45,38.63555736,-90.24349225,57,0,0,0,"St. Louis City, Missouri, US"
 29095,Jackson,Missouri,US,3/22/20 23:45,39.01002188,-94.34724536,8,1,0,0,"Jackson, Missouri, US"
 29037,Cass,Missouri,US,3/22/20 23:45,38.64789422,-94.353399,6,0,0,0,"Cass, Missouri, US"
 29051,Cole,Missouri,US,3/22/20 23:45,38.50455671,-92.27860244,3,0,0,0,"Cole, Missouri, US"
@@ -1022,7 +1022,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 44007,Providence,Rhode Island,US,3/22/20 23:45,41.87064746,-71.57753536,37,0,0,0,"Providence, Rhode Island, US"
 44001,Bristol,Rhode Island,US,3/22/20 23:45,41.71018079,-71.28652315,14,0,0,0,"Bristol, Rhode Island, US"
 44009,Washington,Rhode Island,US,3/22/20 23:45,41.45961631,-71.61435303,9,0,0,0,"Washington, Rhode Island, US"
-44005,Newport,Rhode Island,US,3/22/20 23:45,41.5642026,-71.26569799,8,0,0,0,"Newport, Rhode Island, US"
+44005,Newport,Rhode Island,US,3/22/20 23:45,41.5642026,-71.26569799,8,1,0,0,"Newport, Rhode Island, US"
 ,Unassigned,Rhode Island,US,3/22/20 23:45,0.0,0.0,8,0,0,0,"Unassigned, Rhode Island, US"
 44003,Kent,Rhode Island,US,3/22/20 23:45,41.67106337,-71.57641596,7,0,0,0,"Kent, Rhode Island, US"
 33015,Rockingham,New Hampshire,US,3/22/20 23:45,42.98499744,-71.12883377,28,0,0,0,"Rockingham, New Hampshire, US"
@@ -3178,7 +3178,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Ontario,Canada,3/22/20 23:48,51.2538,-85.3232,425,5,0,0,"Ontario, Canada"
 ,,British Columbia,Canada,3/22/20 23:48,53.7267,-127.6476,424,10,0,0,"British Columbia, Canada"
 ,,Alberta,Canada,3/22/20 23:48,53.9333,-116.5765,259,1,0,0,"Alberta, Canada"
-,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,219,4,0,0,"Quebec, Canada"
+,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,219,5,0,0,"Quebec, Canada"
 ,,Saskatchewan,Canada,3/22/20 23:48,52.9399,-106.4509,52,0,0,0,"Saskatchewan, Canada"
 ,,Nova Scotia,Canada,3/22/20 23:48,44.682,-63.7443,28,0,0,0,"Nova Scotia, Canada"
 ,,Nunavut,Canada,3/22/20 23:48,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
@@ -3263,7 +3263,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Chile,3/22/20 23:45,-35.6751,-71.543,632,1,8,623,Chile
 ,,,Finland,3/22/20 23:45,61.92411,25.748151,626,1,10,615,Finland
 ,,,Greece,3/22/20 23:45,39.0742,21.8243,624,15,19,590,Greece
-,,,Thailand,3/22/20 23:45,15.870032,100.992541,599,1,44,554,Thailand
+,,,Thailand,3/22/20 23:45,15.870032,100.992541,599,1,45,554,Thailand
 ,,,Iceland,3/22/20 23:45,64.9631,-19.0208,568,1,5,562,Iceland
 ,,,Indonesia,3/22/20 23:45,-0.7893,113.9213,514,48,29,437,Indonesia
 ,,,Saudi Arabia,3/22/20 23:45,23.885942,45.079162,511,0,17,494,Saudi Arabia
@@ -3274,7 +3274,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,India,3/22/20 23:45,20.593684,78.96288,396,7,24,365,India
 ,,,Philippines,3/22/20 23:45,12.879721,121.774017,380,25,15,340,Philippines
 ,,,Russia,3/22/20 23:45,61.52401,105.318756,367,1,16,350,Russia
-,,,Peru,3/22/20 23:45,-9.19,-75.0152,363,5,1,357,Peru
+,,,Peru,3/22/20 23:45,-9.19,-75.0152,363,34,1,357,Peru
 ,,,Bahrain,3/22/20 23:45,26.0275,50.55,334,2,149,183,Bahrain
 ,,,Egypt,3/22/20 23:45,26.820553,30.802498,327,14,56,257,Egypt
 ,,,Estonia,3/22/20 23:45,58.5953,25.0136,326,0,4,322,Estonia
@@ -3299,7 +3299,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Uruguay,3/22/20 23:45,-32.5228,-55.7658,135,0,0,135,Uruguay
 ,,,Costa Rica,3/22/20 23:45,9.7489,-83.7534,134,2,2,130,Costa Rica
 ,,,Hungary,3/22/20 23:45,47.1625,19.5033,131,6,16,109,Hungary
-,,,Lithuania,3/22/20 23:45,55.1694,23.8813,129,1,1,127,Lithuania
+,,,Lithuania,3/22/20 23:45,55.1694,23.8813,97,0,0,127,Lithuania
 ,,,Bosnia and Herzegovina,3/22/20 23:45,43.9159,17.6791,126,1,2,123,Bosnia and Herzegovina
 ,,,Morocco,3/22/20 23:45,31.7917,-7.0926,115,4,3,108,Morocco
 ,,,North Macedonia,3/22/20 23:45,41.6086,21.7453,115,1,1,113,North Macedonia
@@ -3383,6 +3383,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Madagascar,3/22/20 23:45,-18.766947,46.869107,3,0,0,3,Madagascar
 ,,,Namibia,3/22/20 23:45,-22.9576,18.4904,3,0,0,3,Namibia
 ,,Saint Barthelemy,France,3/22/20 23:45,17.9,-62.8333,3,0,0,3,"Saint Barthelemy, France"
+,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,3/22/20 23:45,-7.9467,-14.3559,0,0,0,0,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom"
 ,,,Zambia,3/22/20 23:45,-13.133897,27.849332,3,0,0,3,Zambia
 ,,,Zimbabwe,3/22/20 23:45,-19.015438,29.154857,3,0,0,3,Zimbabwe
 ,,,Sudan,3/22/20 23:45,12.8628,30.2176,2,1,0,1,Sudan
@@ -3418,3 +3419,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Uganda,3/22/20 23:45,1.373333,32.290275,1,0,0,1,Uganda
 11001,District of Columbia,District of Columbia,US,3/22/20 23:45,38.90417773,-77.01655992,102,2,0,0,"District of Columbia,District of Columbia,US"
 53023,Garfield County,Washington,US,3/22/20 23:45,46.45197502,-117.5454032,1,2,0,0,"Garfield County,Washington,US"
+,,Unknown,China,3/22/20 23:45,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,3/22/20 23:45,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,3/22/20 23:45,7.5150,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,3/22/20 23:45,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,3/22/20 23:45,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

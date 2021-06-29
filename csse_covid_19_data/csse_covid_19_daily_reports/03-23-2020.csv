@@ -527,7 +527,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21049,Clark,Kentucky,US,2020-03-23 23:19:34,37.9689263,-84.14615986,2,0,0,0,"Clark, Kentucky, US"
 29045,Clark,Missouri,US,2020-03-23 23:19:34,40.41040752,-91.73661677,0,0,0,0,"Clark, Missouri, US"
 32003,Clark,Nevada,US,2020-03-23 23:19:34,36.21458855,-115.0130241,126,4,0,0,"Clark, Nevada, US"
-39023,Clark,Ohio,US,2020-03-23 23:19:34,39.91592258,-83.78498252,1,0,0,0,"Clark, Ohio, US"
+39023,Clark,Ohio,US,2020-03-23 23:19:34,39.91592258,-83.78498252,1,1,0,0,"Clark, Ohio, US"
 46025,Clark,South Dakota,US,2020-03-23 23:19:34,44.85834507,-97.72925109,0,0,0,0,"Clark, South Dakota, US"
 53011,Clark,Washington,US,2020-03-23 23:19:34,45.77568046,-122.48292040000001,13,3,0,0,"Clark, Washington, US"
 55019,Clark,Wisconsin,US,2020-03-23 23:19:34,44.73483377,-90.61207486,0,0,0,0,"Clark, Wisconsin, US"
@@ -699,7 +699,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31041,Custer,Nebraska,US,2020-03-23 23:19:34,41.39374521,-99.72805369,0,0,0,0,"Custer, Nebraska, US"
 40039,Custer,Oklahoma,US,2020-03-23 23:19:34,35.63853802,-99.00170785,1,0,0,0,"Custer, Oklahoma, US"
 46033,Custer,South Dakota,US,2020-03-23 23:19:34,43.67741105,-103.45345209999999,0,0,0,0,"Custer, South Dakota, US"
-39035,Cuyahoga,Ohio,US,2020-03-23 23:19:34,41.424119,-81.65918339,149,1,0,0,"Cuyahoga, Ohio, US"
+39035,Cuyahoga,Ohio,US,2020-03-23 23:19:34,41.424119,-81.65918339,149,3,0,0,"Cuyahoga, Ohio, US"
 13083,Dade,Georgia,US,2020-03-23 23:19:34,34.854916700000004,-85.50490424,0,0,0,0,"Dade, Georgia, US"
 29057,Dade,Missouri,US,2020-03-23 23:19:34,37.431814,-93.8503345,0,0,0,0,"Dade, Missouri, US"
 49009,Daggett,Utah,US,2020-03-23 23:19:34,40.88798265,-109.51210929999999,0,0,0,0,"Daggett, Utah, US"
@@ -973,7 +973,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31061,Franklin,Nebraska,US,2020-03-23 23:19:34,40.17636348,-98.95299073,0,0,0,0,"Franklin, Nebraska, US"
 36033,Franklin,New York,US,2020-03-23 23:19:34,44.59040891,-74.29926032,0,0,0,0,"Franklin, New York, US"
 37069,Franklin,North Carolina,US,2020-03-23 23:19:34,36.081519,-78.28708884,4,0,0,0,"Franklin, North Carolina, US"
-39049,Franklin,Ohio,US,2020-03-23 23:19:34,39.96995815,-83.01115755,44,2,0,0,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,2020-03-23 23:19:34,39.96995815,-83.01115755,44,3,0,0,"Franklin, Ohio, US"
 42055,Franklin,Pennsylvania,US,2020-03-23 23:19:34,39.92956518,-77.72157791,1,0,0,0,"Franklin, Pennsylvania, US"
 47051,Franklin,Tennessee,US,2020-03-23 23:19:34,35.15634626,-86.09201039,1,0,0,0,"Franklin, Tennessee, US"
 48159,Franklin,Texas,US,2020-03-23 23:19:34,33.17653242,-95.21917243,0,0,0,0,"Franklin, Texas, US"
@@ -1009,7 +1009,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 17059,Gallatin,Illinois,US,2020-03-23 23:19:34,37.76430935,-88.22953869,0,0,0,0,"Gallatin, Illinois, US"
 21077,Gallatin,Kentucky,US,2020-03-23 23:19:34,38.75398691,-84.8558382,0,0,0,0,"Gallatin, Kentucky, US"
 30031,Gallatin,Montana,US,2020-03-23 23:19:34,45.54486106,-111.1692571,10,0,0,0,"Gallatin, Montana, US"
-39053,Gallia,Ohio,US,2020-03-23 23:19:34,38.82708533,-82.31647569,1,0,0,0,"Gallia, Ohio, US"
+39053,Gallia,Ohio,US,2020-03-23 23:19:34,38.82708533,-82.31647569,1,1,0,0,"Gallia, Ohio, US"
 48167,Galveston,Texas,US,2020-03-23 23:19:34,29.40167322,-94.90469073,18,0,0,0,"Galveston, Texas, US"
 31069,Garden,Nebraska,US,2020-03-23 23:19:34,41.61703149,-102.3313973,0,0,0,0,"Garden, Nebraska, US"
 8045,Garfield,Colorado,US,2020-03-23 23:19:34,39.59921777,-107.902708,8,0,0,0,"Garfield, Colorado, US"
@@ -1166,7 +1166,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20075,Hamilton,Kansas,US,2020-03-23 23:19:34,37.99978709,-101.7921066,0,0,0,0,"Hamilton, Kansas, US"
 31081,Hamilton,Nebraska,US,2020-03-23 23:19:34,40.87349452,-98.02099117,0,0,0,0,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-03-23 23:19:34,43.66146647,-74.49721957,2,0,0,0,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,2020-03-23 23:19:34,39.19673558,-84.54502924,26,0,0,0,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,2020-03-23 23:19:34,39.19673558,-84.54502924,26,1,0,0,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,2020-03-23 23:19:34,35.17670231,-85.16652245,12,0,0,0,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,2020-03-23 23:19:34,31.70470573,-98.11083887,0,0,0,0,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,2020-03-23 23:19:34,44.67385954,-97.18829593,0,0,0,0,"Hamlin, South Dakota, US"
@@ -1729,7 +1729,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 28087,Lowndes,Mississippi,US,2020-03-23 23:19:34,33.47386518,-88.44191529999998,6,0,0,0,"Lowndes, Mississippi, US"
 48303,Lubbock,Texas,US,2020-03-23 23:19:34,33.61008596,-101.82047890000001,9,0,0,0,"Lubbock, Texas, US"
 19117,Lucas,Iowa,US,2020-03-23 23:19:34,41.02958964,-93.32780803,0,0,0,0,"Lucas, Iowa, US"
-39095,Lucas,Ohio,US,2020-03-23 23:19:34,41.62101218,-83.65468618,10,1,0,0,"Lucas, Ohio, US"
+39095,Lucas,Ohio,US,2020-03-23 23:19:34,41.62101218,-83.65468618,10,2,0,0,"Lucas, Ohio, US"
 26095,Luce,Michigan,US,2020-03-23 23:19:34,46.47227431,-85.54471223,0,0,0,0,"Luce, Michigan, US"
 13187,Lumpkin,Georgia,US,2020-03-23 23:19:34,34.57286511,-84.00425681,2,0,0,0,"Lumpkin, Georgia, US"
 35029,Luna,New Mexico,US,2020-03-23 23:19:34,32.18179341,-107.75088259999998,0,0,0,0,"Luna, New Mexico, US"
@@ -1777,7 +1777,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21153,Magoffin,Kentucky,US,2020-03-23 23:19:34,37.70820545,-83.0657714,0,0,0,0,"Magoffin, Kentucky, US"
 19123,Mahaska,Iowa,US,2020-03-23 23:19:34,41.33521503,-92.64083907,0,0,0,0,"Mahaska, Iowa, US"
 27087,Mahnomen,Minnesota,US,2020-03-23 23:19:34,47.32557075,-95.80921485,0,0,0,0,"Mahnomen, Minnesota, US"
-39099,Mahoning,Ohio,US,2020-03-23 23:19:34,41.01631101,-80.77287029,23,0,0,0,"Mahoning, Ohio, US"
+39099,Mahoning,Ohio,US,2020-03-23 23:19:34,41.01631101,-80.77287029,23,1,0,0,"Mahoning, Ohio, US"
 40093,Major,Oklahoma,US,2020-03-23 23:19:34,36.31149996,-98.53467076,0,0,0,0,"Major, Oklahoma, US"
 41045,Malheur,Oregon,US,2020-03-23 23:19:34,43.1937027,-117.62273950000001,0,0,0,0,"Malheur, Oregon, US"
 51683,Manassas,Virginia,US,2020-03-23 23:19:34,38.7464321,-77.48509905,0,0,0,0,"Manassas, Virginia, US"
@@ -1912,7 +1912,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21169,Metcalfe,Kentucky,US,2020-03-23 23:19:34,36.99459295,-85.63123699,0,0,0,0,"Metcalfe, Kentucky, US"
 18103,Miami,Indiana,US,2020-03-23 23:19:34,40.76940965,-86.04525048,1,0,0,0,"Miami, Indiana, US"
 20121,Miami,Kansas,US,2020-03-23 23:19:34,38.56383358,-94.83832189,0,0,0,0,"Miami, Kansas, US"
-39109,Miami,Ohio,US,2020-03-23 23:19:34,40.0543329,-84.22871271,17,0,0,0,"Miami, Ohio, US"
+39109,Miami,Ohio,US,2020-03-23 23:19:34,40.0543329,-84.22871271,17,1,0,0,"Miami, Ohio, US"
 12086,Miami-Dade,Florida,US,2020-03-23 23:19:34,25.6112362,-80.55170587,278,0,0,0,"Miami-Dade, Florida, US"
 9007,Middlesex,Connecticut,US,2020-03-23 23:19:34,41.45949668,-72.53714864,8,0,0,0,"Middlesex, Connecticut, US"
 25017,Middlesex,Massachusetts,US,2020-03-23 23:19:34,42.48607732,-71.39049229,232,1,0,0,"Middlesex, Massachusetts, US"
@@ -1990,7 +1990,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29139,Montgomery,Missouri,US,2020-03-23 23:19:34,38.94022054,-91.47000721,0,0,0,0,"Montgomery, Missouri, US"
 36057,Montgomery,New York,US,2020-03-23 23:19:34,42.90123494,-74.44011632,3,0,0,0,"Montgomery, New York, US"
 37123,Montgomery,North Carolina,US,2020-03-23 23:19:34,35.33155144,-79.90416657,1,0,0,0,"Montgomery, North Carolina, US"
-39113,Montgomery,Ohio,US,2020-03-23 23:19:34,39.75394919,-84.29050975,7,0,0,0,"Montgomery, Ohio, US"
+39113,Montgomery,Ohio,US,2020-03-23 23:19:34,39.75394919,-84.29050975,7,1,0,0,"Montgomery, Ohio, US"
 42091,Montgomery,Pennsylvania,US,2020-03-23 23:19:34,40.21053671,-75.36652296,136,1,0,0,"Montgomery, Pennsylvania, US"
 47125,Montgomery,Tennessee,US,2020-03-23 23:19:34,36.49609412,-87.38550661,3,0,0,0,"Montgomery, Tennessee, US"
 48339,Montgomery,Texas,US,2020-03-23 23:19:34,30.30079133,-95.50572772,19,0,0,0,"Montgomery, Texas, US"
@@ -2069,7 +2069,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36061,New York City,New York,US,2020-03-23 23:19:34,40.76727260000001,-73.97152637,12305,99,0,0,"New York City, New York, US"
 26123,Newaygo,Michigan,US,2020-03-23 23:19:34,43.554373999999996,-85.80070107,1,0,0,0,"Newaygo, Michigan, US"
 45071,Newberry,South Carolina,US,2020-03-23 23:19:34,34.28629098,-81.59935761,1,0,0,0,"Newberry, South Carolina, US"
-44005,Newport,Rhode Island,US,2020-03-23 23:19:34,41.5642026,-71.26569799,9,0,0,0,"Newport, Rhode Island, US"
+44005,Newport,Rhode Island,US,2020-03-23 23:19:34,41.5642026,-71.26569799,9,1,0,0,"Newport, Rhode Island, US"
 51700,Newport News,Virginia,US,2020-03-23 23:19:34,37.08166899,-76.51754109,2,1,0,0,"Newport News, Virginia, US"
 5101,Newton,Arkansas,US,2020-03-23 23:19:34,35.91947491,-93.21612969,0,0,0,0,"Newton, Arkansas, US"
 13217,Newton,Georgia,US,2020-03-23 23:19:34,33.55514538,-83.84547140000002,4,0,0,0,"Newton, Georgia, US"
@@ -2672,7 +2672,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 36089,St. Lawrence,New York,US,2020-03-23 23:19:34,44.4976179,-75.06550039,0,0,0,0,"St. Lawrence, New York, US"
 27137,St. Louis,Minnesota,US,2020-03-23 23:19:34,47.604840700000004,-92.46879855,2,0,0,0,"St. Louis, Minnesota, US"
 29189,St. Louis,Missouri,US,2020-03-23 23:19:34,38.63770039999999,-90.4458375,69,1,0,0,"St. Louis, Missouri, US"
-29510,St. Louis City,Missouri,US,2020-03-23 23:19:34,38.63555736,-90.24349225,15,1,0,0,"St. Louis City, Missouri, US"
+29510,St. Louis City,Missouri,US,2020-03-23 23:19:34,38.63555736,-90.24349225,72,1,0,0,"St. Louis City, Missouri, US"
 12111,St. Lucie,Florida,US,2020-03-23 23:19:34,27.37763908,-80.47106649,5,0,0,0,"St. Lucie, Florida, US"
 22099,St. Martin,Louisiana,US,2020-03-23 23:19:34,30.13112107,-91.61403569,0,0,0,0,"St. Martin, Louisiana, US"
 22101,St. Mary,Louisiana,US,2020-03-23 23:19:34,29.69262097,-91.44702164,1,0,0,0,"St. Mary, Louisiana, US"
@@ -2731,7 +2731,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 46119,Sully,South Dakota,US,2020-03-23 23:19:34,44.71571812,-100.1278092,0,0,0,0,"Sully, South Dakota, US"
 54089,Summers,West Virginia,US,2020-03-23 23:19:34,37.65390597,-80.86009693,0,0,0,0,"Summers, West Virginia, US"
 8117,Summit,Colorado,US,2020-03-23 23:19:34,39.63803232,-106.1150762,7,0,0,0,"Summit, Colorado, US"
-39153,Summit,Ohio,US,2020-03-23 23:19:34,41.12464734,-81.53123079,28,0,0,0,"Summit, Ohio, US"
+39153,Summit,Ohio,US,2020-03-23 23:19:34,41.12464734,-81.53123079,28,1,0,0,"Summit, Ohio, US"
 49043,Summit,Utah,US,2020-03-23 23:19:34,40.86688146,-110.9535882,65,0,0,0,"Summit, Utah, US"
 20191,Sumner,Kansas,US,2020-03-23 23:19:34,37.23682549,-97.47721621,0,0,0,0,"Sumner, Kansas, US"
 47165,Sumner,Tennessee,US,2020-03-23 23:19:34,36.46824103,-86.45917204,34,0,0,0,"Sumner, Tennessee, US"
@@ -2860,7 +2860,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,Unassigned,Florida,US,2020-03-23 23:19:34,0.0,0.0,0,1,0,0,"Unassigned, Florida, US"
 ,Unassigned,Georgia,US,2020-03-23 23:19:34,0.0,0.0,45,10,0,0,"Unassigned, Georgia, US"
 ,Unassigned,Illinois,US,2020-03-23 23:19:34,0.0,0.0,63,0,0,0,"Unassigned, Illinois, US"
-,Unassigned,Indiana,US,2020-03-23 23:19:34,0.0,0.0,56,0,0,0,"Unassigned, Indiana, US"
+,Unassigned,Indiana,US,2020-03-23 23:19:34,0.0,0.0,56,16,0,0,"Unassigned, Indiana, US"
 ,Unassigned,Kentucky,US,2020-03-23 23:19:34,0.0,0.0,15,0,0,0,"Unassigned, Kentucky, US"
 ,Unassigned,Louisiana,US,2020-03-23 23:19:34,0.0,0.0,11,0,0,0,"Unassigned, Louisiana, US"
 ,Unassigned,Maine,US,2020-03-23 23:19:34,0.0,0.0,5,0,0,0,"Unassigned, Maine, US"
@@ -3229,10 +3229,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2020-03-23 23:23:10,46.5107,-63.4168,3,0,0,0,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,2020-03-23 23:19:34,18.2208,-66.5901,31,2,0,0,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-03-23 23:23:10,52.9399,-73.5491,628,4,0,0,"Quebec, Canada"
+,,Quebec,Canada,2020-03-23 23:23:10,52.9399,-73.5491,628,8,0,0,"Quebec, Canada"
 ,,Queensland,Australia,2020-03-23 23:23:20,-27.4698,153.0251,319,0,8,311,"Queensland, Australia"
 ,,Reunion,France,2020-03-23 23:19:21,-21.1151,55.5364,71,0,1,70,"Reunion, France"
 ,,Saint Barthelemy,France,2020-03-23 23:19:21,17.9,-62.8333,3,0,0,3,"Saint Barthelemy, France"
+,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2020-03-23 23:19:21,-7.9467,-14.3559,0,0,0,0,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom"
 ,,Saskatchewan,Canada,2020-03-23 23:23:10,52.9399,-106.4509,66,0,0,0,"Saskatchewan, Canada"
 ,,Shaanxi,China,2020-03-21 02:03:01,35.1917,108.8701,248,3,239,6,"Shaanxi, China"
 ,,Shandong,China,2020-03-23 10:26:15,36.3427,118.1498,768,7,752,9,"Shandong, China"
@@ -3315,7 +3316,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guatemala,2020-03-23 23:19:21,15.7835,-90.2308,20,1,0,19,Guatemala
 ,,,Guinea,2020-03-23 23:19:21,9.9456,-9.6966,4,0,0,4,Guinea
 ,,,Guyana,2020-03-23 23:19:21,4.860416000000002,-58.93018000000001,20,1,0,19,Guyana
-,,,Haiti,2020-03-23 23:19:21,18.9712,-72.2852,6,0,0,6,Haiti
+,,,Haiti,2020-03-23 23:19:21,18.9712,-72.2852,2,0,0,6,Haiti
 ,,,Holy See,2020-03-23 23:19:21,41.9029,12.4534,1,0,0,1,Holy See
 ,,,Honduras,2020-03-23 23:19:21,15.2,-86.2419,27,0,0,27,Honduras
 ,,,Hungary,2020-03-23 23:19:21,47.1625,19.5033,167,7,16,144,Hungary
@@ -3339,7 +3340,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Lebanon,2020-03-23 23:19:21,33.8547,35.8623,267,4,8,255,Lebanon
 ,,,Liberia,2020-03-23 23:19:21,6.4280550000000005,-9.429499,3,0,0,3,Liberia
 ,,,Liechtenstein,2020-03-23 23:19:21,47.14,9.55,51,0,0,51,Liechtenstein
-,,,Lithuania,2020-03-23 23:19:21,55.1694,23.8813,179,1,1,177,Lithuania
+,,,Lithuania,2020-03-23 23:19:21,55.1694,23.8813,128,0,0,177,Lithuania
 ,,,Luxembourg,2020-03-23 23:19:21,49.8153,6.1296,875,8,6,861,Luxembourg
 ,,,Madagascar,2020-03-23 23:19:21,-18.766947000000002,46.869107,12,0,0,12,Madagascar
 ,,,Malaysia,2020-03-23 23:19:21,4.210483999999999,101.97576600000001,1518,14,159,1345,Malaysia
@@ -3368,7 +3369,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Panama,2020-03-23 23:19:21,8.538,-80.7821,313,3,1,309,Panama
 ,,,Papua New Guinea,2020-03-23 23:19:21,-6.314993,143.95555,1,0,0,1,Papua New Guinea
 ,,,Paraguay,2020-03-23 23:19:21,-23.4425,-58.4438,22,1,0,21,Paraguay
-,,,Peru,2020-03-23 23:19:21,-9.19,-75.0152,395,5,1,389,Peru
+,,,Peru,2020-03-23 23:19:21,-9.19,-75.0152,395,39,1,389,Peru
 ,,,Philippines,2020-03-23 23:19:21,12.879721,121.77401699999999,462,33,18,411,Philippines
 ,,,Poland,2020-03-23 23:19:21,51.9194,19.1451,749,8,13,728,Poland
 ,,,Portugal,2020-03-23 23:19:21,39.3999,-8.2245,2060,23,14,2023,Portugal
@@ -3414,3 +3415,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Vietnam,2020-03-23 23:19:21,14.058323999999999,108.277199,123,0,17,106,Vietnam
 ,,,Zambia,2020-03-23 23:19:21,-13.133897,27.849332,3,0,0,3,Zambia
 ,,,Zimbabwe,2020-03-23 23:19:21,-19.015438,29.154857,3,1,0,2,Zimbabwe
+,,Unknown,China,2020-03-23 23:19:34,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,2020-03-23 23:19:34,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,2020-03-23 23:19:34,7.5150,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-03-23 23:19:34,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,2020-03-23 23:19:34,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

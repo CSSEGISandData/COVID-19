@@ -33,7 +33,7 @@ Xinjiang,Mainland China,2020-02-20T13:33:02,76,1,22
 Inner Mongolia,Mainland China,2020-02-20T12:53:02,75,0,16
 Ningxia,Mainland China,2020-02-20T05:23:02,71,0,44
 Hong Kong,Hong Kong,2020-02-20T23:13:05,68,2,6
-,Thailand,2020-02-17T07:33:02,35,0,15
+,Thailand,2020-02-17T07:33:02,35,0,17
 Taiwan,Taiwan,2020-02-20T02:13:19,24,1,2
 ,Malaysia,2020-02-19T09:33:03,22,0,15
 Qinghai,Mainland China,2020-02-19T04:53:02,18,0,16
@@ -75,3 +75,8 @@ Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 "San Antonio, TX",US,2020-02-13T18:53:02,1,0,0
 "Seattle, WA",US,2020-02-09T07:03:04,1,0,1
 "Tempe, AZ",US,2020-02-01T19:43:03,1,0,0
+Unknown,China,2020-02-20T23:43:02,0,0,0
+,Kiribati,2020-02-20T23:43:02,0,0,0
+,Palau,2020-02-20T23:43:02,0,0,0
+Cook Islands,New Zealand,2020-02-20T23:43:02,0,0,0
+,Summer Olympics 2020,2020-02-20T23:43:02,0,0,0
