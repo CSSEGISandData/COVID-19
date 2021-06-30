@@ -36,7 +36,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-06-30,All,3349035
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-06-30,All,79246
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-06-30,All,2109775
-50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-06-30,All,10101113
+50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-06-30,All,10101143
 5001,BD,BGD,50,,,Barisal,Bangladesh,23.685,90.3563,"Barisal, Bangladesh",2021-06-30,All,433035
 5002,BD,BGD,50,,,Chittagong,Bangladesh,23.685,90.3563,"Chittagong, Bangladesh",2021-06-30,All,2061023
 5003,BD,BGD,50,,,Dhaka,Bangladesh,23.685,90.3563,"Dhaka, Bangladesh",2021-06-30,All,3321636
@@ -375,7 +375,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-06-30,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-06-30,All,284016
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-06-30,All,1765231
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-30,All,49138293
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-06-30,All,49138993
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-06-30,All,324698633
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-06-30,All,3349904
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-06-30,All,657766
