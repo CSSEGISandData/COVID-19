@@ -358,6 +358,7 @@ Date: Location | Change | Reason/Other notes | Source
 * June 6, 2021: San Mateo, California, US | Addition of 85 backlogged deaths | [Source](https://covid19.ca.gov/state-dashboard/#location-san_mateo) - "Today’s case count includes 186 deaths from San Mateo county from prior months that were not previously reported." Importantly, our data for San Mateo had not previously come from the state dashboard, explaining why our daily deaths is <186.
 * June 9, 2021: West Virginia, US | Inclusion of 18 deaths from death certificate review | [Source](https://wvmetronews.com/2021/06/09/dhhr-adds-24-additional-covid-19-deaths-to-state-numbers/)
 * June 11, 2021: Alaska, US | Inclusion of four deaths identified through death certificate review | [Source](https://www.adn.com/alaska-news/2021/06/11/tracking-covid-19-in-alaska-49-cases-reported-over-2-days-and-4-deaths-identified-in-certificate-review/)
+* June 29, 2021: California, US | Removal of 6,372 duplicated cases from the state dashboard (along with inclusion of 2,013 new cases). County-level distribution not available. | [Source](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
