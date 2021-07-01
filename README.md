@@ -243,7 +243,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Kazinform: https://www.coronavirus2020.kz/
   - Kosovo:
     - National Institute of Health of Kosovo Dashboard: https://corona-ks.info/?lang=en
-    - National Institute of Health of Kosovo JSON: https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json 
+    - National Institute of Health of Kosovo JSON: https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
+    - National Institute of Health of Kosovo Data Studio Dashboard: https://datastudio.google.com/embed/reporting/2e546d77-8f7b-4c35-8502-38533aa0e9e8/page/MT0qB 
   - Lebanon  
     - Lebanese Ministry Of Information: https://corona.ministryinfo.gov.lb/
   - Lithuania: 
