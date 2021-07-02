@@ -54,19 +54,19 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2021-07-02,All,2549403
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2021-07-02,All,456521
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2021-07-02,All,219488
-76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-07-02,All,95280298
+76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-07-02,All,95324556
 7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",2021-07-02,All,357510
 7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",2021-07-02,All,1396812
 7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",2021-07-02,All,268179
 7604,BR,BRA,76,,,Amazonas,Brazil,-3.4168,-65.8561,"Amazonas, Brazil",2021-07-02,All,1761486
 7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",2021-07-02,All,6088634
 7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",2021-07-02,All,3260447
-7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",2021-07-02,All,1258268
+7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",2021-07-02,All,1266406
 7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",2021-07-02,All,2187445
-7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",2021-07-02,All,3055880
+7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",2021-07-02,All,3076420
 7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",2021-07-02,All,3070505
-7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",2021-07-02,All,1315271
-7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",2021-07-02,All,1565821
+7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",2021-07-02,All,1326883
+7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",2021-07-02,All,1569789
 7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",2021-07-02,All,9212393
 7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",2021-07-02,All,2834630
 7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",2021-07-02,All,1815013
@@ -375,7 +375,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-07-02,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-07-02,All,302548
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-07-02,All,1821431
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-02,All,50753523
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-02,All,50755127
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-07-02,All,327151971
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-07-02,All,3365396
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-07-02,All,660817
