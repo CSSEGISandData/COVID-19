@@ -401,6 +401,7 @@ United States
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
 * Florida: Providing data once per week (Fridays).
+* Georgia: Providing data Monday-Friday.
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday.
 * Illinois: Providing data Monday-Friday.
@@ -408,6 +409,7 @@ United States
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Kentucky: Providing data Monday-Friday.
 * Louisiana: Providing data Monday-Friday.
+* Maine: Providing data Monday-Friday.
 * Montana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Friday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
