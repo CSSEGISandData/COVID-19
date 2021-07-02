@@ -422,8 +422,9 @@ United States
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Carlina: Providing data Monday-Friday.
-* South Dakota: Providing data Monday-Friday.
+* South Dakota: Providing data Wednesdays only.
 * Tennessee: Providing data Monday-Friday.
+* Utah: Providing data Monday-Friday.
 * Vermont: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
 * West Virginia: Providing data Monday-Friday.
