@@ -144,22 +144,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 384,CI,CIV,384,,,,Cote d'Ivoire,7.54,-5.5471,Cote d'Ivoire,2021-07-03,All,768039
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2021-07-03,All,2573481
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2021-07-03,All,809234
-203,CZ,CZE,203,,,,Czechia,49.8175,15.472999999999999,Czechia,2021-07-03,All,8350097
-20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2021-07-03,All,526884
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2021-07-03,All,953565
-20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2021-07-03,All,226161
-20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2021-07-03,All,448868
-20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2021-07-03,All,324484
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2021-07-03,All,889586
-20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2021-07-03,All,454316
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2021-07-03,All,362657
-20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2021-07-03,All,451630
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2021-07-03,All,1384583
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2021-07-03,All,879060
+203,CZ,CZE,203,,,,Czechia,49.8175,15.472999999999999,Czechia,2021-07-03,All,8447154
+20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2021-07-03,All,532240
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2021-07-03,All,966570
+20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2021-07-03,All,228198
+20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2021-07-03,All,454048
+20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2021-07-03,All,328185
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2021-07-03,All,900116
+20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2021-07-03,All,459468
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2021-07-03,All,367322
+20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2021-07-03,All,457008
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2021-07-03,All,1400993
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2021-07-03,All,889783
 20315,CZ,CZE,203,,,Unassigned,Czechia,,,"Unassigned, Czechia",2021-07-03,All,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2021-07-03,All,615017
-20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.472999999999999,"Vysocina, Czechia",2021-07-03,All,394820
-20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-07-03,All,438466
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2021-07-03,All,621404
+20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.472999999999999,"Vysocina, Czechia",2021-07-03,All,397846
+20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-07-03,All,443973
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-07-03,All,5183196
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-07-03,All,48345
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-07-03,All,41648
@@ -310,23 +310,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-07-03,All,783265
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-07-03,All,7733457
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-07-03,All,10703704
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-07-03,All,29544033
-61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-07-03,All,2413840
-61602,PL,POL,616,,,Kujawsko-pomorskie,Poland,53.1648,18.4834,"Kujawsko-pomorskie, Poland",2021-07-03,All,1559440
-61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2021-07-03,All,1953981
-61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2021-07-03,All,1392105
-61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2021-07-03,All,815921
-61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2021-07-03,All,2451551
-61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2021-07-03,All,4605871
-61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2021-07-03,All,734965
-61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2021-07-03,All,1325355
-61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2021-07-03,All,889859
-61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2021-07-03,All,1953036
-61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2021-07-03,All,3575127
-61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2021-07-03,All,833410
-61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2021-07-03,All,981929
-61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2021-07-03,All,2686354
-61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2021-07-03,All,1371289
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-07-03,All,29791445
+61601,PL,POL,616,,,Dolnoslaskie,Poland,51.13399999999999,16.8842,"Dolnoslaskie, Poland",2021-07-03,All,2434981
+61602,PL,POL,616,,,Kujawsko-pomorskie,Poland,53.1648,18.4834,"Kujawsko-pomorskie, Poland",2021-07-03,All,1572586
+61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2021-07-03,All,1972629
+61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2021-07-03,All,1402328
+61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2021-07-03,All,822589
+61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2021-07-03,All,2474100
+61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2021-07-03,All,4646035
+61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2021-07-03,All,739613
+61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2021-07-03,All,1333028
+61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2021-07-03,All,894968
+61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2021-07-03,All,1968150
+61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2021-07-03,All,3603796
+61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2021-07-03,All,840300
+61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2021-07-03,All,989938
+61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2021-07-03,All,2713767
+61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2021-07-03,All,1382637
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-07-03,All,8980494
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-07-03,All,3177744
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-07-03,All,8997613
@@ -337,13 +337,13 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-07-03,All,24737
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-07-03,All,44515
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-07-03,All,27986
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-03,All,18221246
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-03,All,18227037
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-07-03,All,664826
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-07-03,All,5146241
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-07-03,All,138581
 694,SL,SLE,694,,,,Sierra Leone,8.460555000000001,-11.779889,Sierra Leone,2021-07-03,All,97315
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore,2021-07-03,All,5365803
-703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2021-07-03,All,3649434
+703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2021-07-03,All,3679225
 705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2021-07-03,All,1510720
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2021-07-03,All,23634
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-07-03,All,3292671
@@ -351,7 +351,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 724,ES,ESP,724,,,,Spain,40.463667,-3.7492199999999998,Spain,2021-07-03,All,42792983
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2021-07-03,All,4036580
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2021-07-03,All,677957
-740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2021-07-03,All,197723
+740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2021-07-03,All,199471
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,2021-07-03,All,8168667
 756,CH,CHE,756,,,,Switzerland,46.8182,8.2275,Switzerland,2021-07-03,All,7489716
 75601,CH,CHE,756,,,Aargau,Switzerland,47.3877,8.2554,"Aargau, Switzerland",2021-07-03,All,575418
@@ -386,7 +386,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-07-03,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-07-03,All,311812
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-07-03,All,1844651
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-03,All,52031983
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-03,All,52066356
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-07-03,All,327854747
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-07-03,All,3365623
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-07-03,All,667278
