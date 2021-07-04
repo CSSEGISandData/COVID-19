@@ -19705,3 +19705,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 06/28/2021,time_series_covid19_deaths_global.csv,US,06/27/2021,603966,603965,"Update stale AZ, US death data"
 06/30/2021,time_series_covid19_confirmed_global.csv,Saint Kitts and Nevis,06/29/2021,439,443,Correct Saint Kitts and Nevis confirmed data
 06/30/2021,time_series_covid19_recovered_global.csv,Saint Kitts and Nevis,06/29/2021,127,177,Correct Saint Kitts and Nevis recovered data
+07/04/2021,time_series_covid19_deaths_US.csv,"Santa Clara, California, US",07/02/2021,2201,2090,"Patch Santa Clara, California deaths data until more corrections are published"
+07/04/2021,time_series_covid19_deaths_global.csv,US,07/02/2021,605524,605413,"Correct California, US deaths data"
