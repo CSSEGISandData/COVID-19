@@ -913,7 +913,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 19079,Hamilton,Iowa,US,2020-04-05 23:06:45,42.38382428,-93.70197703,1,0,0,0,"Hamilton, Iowa, US"
 31081,Hamilton,Nebraska,US,2020-04-05 23:06:45,40.87349452,-98.02099117,6,0,0,0,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-04-05 23:06:45,43.66146647,-74.49721957,2,0,0,0,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,2020-04-05 23:06:45,39.19673558,-84.54502924,319,18,0,0,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,2020-04-05 23:06:45,39.19673558,-84.54502924,319,17,0,0,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,2020-04-05 23:06:45,35.17670231,-85.16652245,74,8,0,0,"Hamilton, Tennessee, US"
 46057,Hamlin,South Dakota,US,2020-04-05 23:06:45,44.67385954,-97.18829593,1,0,0,0,"Hamlin, South Dakota, US"
 25013,Hampden,Massachusetts,US,2020-04-05 23:06:45,42.13440424,-72.63235561,768,34,0,0,"Hampden, Massachusetts, US"
@@ -2766,6 +2766,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,unassigned,Wyoming,US,2020-04-05 23:06:45,,,0,0,0,0,"unassigned, Wyoming, US"
 ,,Unknown,China,2020-04-05 23:06:45,,,0,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-04-05 23:06:45,-3.3704,-168.734,0,0,0,0,Kiribati
-,,,Palau,2020-04-05 23:06:45,7.5150,134.5825,0,0,0,0,Palau
+,,,Palau,2020-04-05 23:06:45,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-04-05 23:06:45,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
 ,,,Summer Olympics 2020,2020-04-05 23:06:45,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

@@ -1067,7 +1067,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20075,Hamilton,Kansas,US,2020-05-07 02:32:28,37.99978709,-101.7921066,4,0,0,4,"Hamilton, Kansas, US"
 31081,Hamilton,Nebraska,US,2020-05-07 02:32:28,40.87349452,-98.02099117,45,7,0,38,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-05-07 02:32:28,43.66146647,-74.49721957,5,0,0,5,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,2020-05-07 02:32:28,39.19673558,-84.54502924,1527,86,0,1434,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,2020-05-07 02:32:28,39.19673558,-84.54502924,1527,85,0,1434,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,2020-05-07 02:32:28,35.17670231,-85.16652245,196,13,0,183,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,2020-05-07 02:32:28,31.70470573,-98.11083887,5,0,0,5,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,2020-05-07 02:32:28,44.67385954,-97.18829593,2,0,0,2,"Hamlin, South Dakota, US"
@@ -3221,6 +3221,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 2063,Chugach,Alaska,US,2021-04-02 15:13:53,61.16666,-149.9,1,0,0,0,"Chugach, Alaska, US"
 ,,Unknown,China,2020-05-07 02:32:28,,,0,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-05-07 02:32:28,-3.3704,-168.734,0,0,0,0,Kiribati
-,,,Palau,2020-05-07 02:32:28,7.5150,134.5825,0,0,0,0,Palau
+,,,Palau,2020-05-07 02:32:28,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-05-07 02:32:28,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
 ,,,Summer Olympics 2020,2020-05-07 02:32:28,35.6491,139.7737,0,0,0,0,Summer Olympics 2020
