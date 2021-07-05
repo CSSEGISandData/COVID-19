@@ -415,7 +415,7 @@ United States
 * Montana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Friday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
-* Nebraska: Providing data Monday-Friday. No county-level data available at this time.
+* Nebraska: **Retired dashboard. We are looking for a solution**
 * Nevada: Providing data Monday-Friday.
 * New Hampshire: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
