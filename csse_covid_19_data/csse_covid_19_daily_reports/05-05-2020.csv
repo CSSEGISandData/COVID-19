@@ -1064,7 +1064,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20075,Hamilton,Kansas,US,2020-05-06 02:32:31,37.99978709,-101.7921066,4,0,0,4,"Hamilton, Kansas, US"
 31081,Hamilton,Nebraska,US,2020-05-06 02:32:31,40.87349452,-98.02099117,45,7,0,38,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-05-06 02:32:31,43.66146647,-74.49721957,3,0,0,3,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,2020-05-06 02:32:31,39.19673558,-84.54502924,1480,84,0,1397,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,2020-05-06 02:32:31,39.19673558,-84.54502924,1480,83,0,1397,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,2020-05-06 02:32:31,35.17670231,-85.16652245,184,13,0,171,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,2020-05-06 02:32:31,31.70470573,-98.11083887,5,0,0,5,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,2020-05-06 02:32:31,44.67385954,-97.18829593,2,0,0,2,"Hamlin, South Dakota, US"
@@ -3212,6 +3212,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zimbabwe,2020-05-06 02:32:31,-19.015438,29.154857,34,4,5,25,Zimbabwe
 ,,Unknown,China,2020-05-06 02:32:31,,,0,0,0,0,"Unknown, China"
 ,,,Kiribati,2020-05-06 02:32:31,-3.3704,-168.734,0,0,0,0,Kiribati
-,,,Palau,2020-05-06 02:32:31,7.5150,134.5825,0,0,0,0,Palau
+,,,Palau,2020-05-06 02:32:31,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-05-06 02:32:31,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
 ,,,Summer Olympics 2020,2020-05-06 02:32:31,35.6491,139.7737,0,0,0,0,Summer Olympics 2020
