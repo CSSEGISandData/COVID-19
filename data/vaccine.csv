@@ -87,16 +87,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-07-06,All,3500000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-07-06,All,7814310
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-07-06,All,110324
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-07-06,All,39701386
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-07-06,All,39927107
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-07-06,All,4578868
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-07-06,All,5288644
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-07-06,All,1495356
-12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-07-06,All,822985
+12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-07-06,All,832855
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-07-06,All,499882
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-07-06,All,60876
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-07-06,All,993866
-12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-07-06,All,37966
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-07-06,All,15705866
+12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-07-06,All,38098
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-07-06,All,15921585
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-07-06,All,150370
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-07-06,All,8782148
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-07-06,All,1225186
@@ -105,39 +105,39 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 156,CN,CHN,156,,,,China,35.8617,104.19545,China,2021-07-06,All,1318417000
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2021-07-06,All,4086045
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2021-07-06,All,373898
-170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2021-07-06,All,19264851
-17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2021-07-06,All,63924
-17002,CO,COL,170,,,Antioquia,Colombia,7.1986,-75.3412,"Antioquia, Colombia",2021-07-06,All,2889037
+170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2021-07-06,All,19436143
+17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2021-07-06,All,63927
+17002,CO,COL,170,,,Antioquia,Colombia,7.1986,-75.3412,"Antioquia, Colombia",2021-07-06,All,2924544
 17003,CO,COL,170,,,Arauca,Colombia,7.0762,-70.7105,"Arauca, Colombia",2021-07-06,All,90071
-17004,CO,COL,170,,,Atlantico,Colombia,10.6966,-74.8741,"Atlantico, Colombia",2021-07-06,All,987856
-17005,CO,COL,170,,,Bolivar,Colombia,8.6704,-74.03,"Bolivar, Colombia",2021-07-06,All,796381
-17006,CO,COL,170,,,Boyaca,Colombia,5.4545,-73.362,"Boyaca, Colombia",2021-07-06,All,578916
-17007,CO,COL,170,,,Caldas,Colombia,5.2983,-75.2479,"Caldas, Colombia",2021-07-06,All,439868
-17008,CO,COL,170,,,Capital District,Colombia,4.711,-74.0721,"Capital District, Colombia",2021-07-06,All,3640865
-17009,CO,COL,170,,,Caqueta,Colombia,0.8699,-73.8419,"Caqueta, Colombia",2021-07-06,All,121802
-17010,CO,COL,170,,,Casanare,Colombia,5.7589,-71.5724,"Casanare, Colombia",2021-07-06,All,137931
-17011,CO,COL,170,,,Cauca,Colombia,2.705,-76.82600000000001,"Cauca, Colombia",2021-07-06,All,325927
-17012,CO,COL,170,,,Cesar,Colombia,9.3373,-73.6536,"Cesar, Colombia",2021-07-06,All,343085
-17013,CO,COL,170,,,Choco,Colombia,5.2528,-76.82600000000001,"Choco, Colombia",2021-07-06,All,91755
-17014,CO,COL,170,,,Cordoba,Colombia,8.0493,-75.574,"Cordoba, Colombia",2021-07-06,All,519692
-17015,CO,COL,170,,,Cundinamarca,Colombia,5.026,-74.03,"Cundinamarca, Colombia",2021-07-06,All,1122303
+17004,CO,COL,170,,,Atlantico,Colombia,10.6966,-74.8741,"Atlantico, Colombia",2021-07-06,All,994983
+17005,CO,COL,170,,,Bolivar,Colombia,8.6704,-74.03,"Bolivar, Colombia",2021-07-06,All,801114
+17006,CO,COL,170,,,Boyaca,Colombia,5.4545,-73.362,"Boyaca, Colombia",2021-07-06,All,586295
+17007,CO,COL,170,,,Caldas,Colombia,5.2983,-75.2479,"Caldas, Colombia",2021-07-06,All,442319
+17008,CO,COL,170,,,Capital District,Colombia,4.711,-74.0721,"Capital District, Colombia",2021-07-06,All,3684543
+17009,CO,COL,170,,,Caqueta,Colombia,0.8699,-73.8419,"Caqueta, Colombia",2021-07-06,All,123300
+17010,CO,COL,170,,,Casanare,Colombia,5.7589,-71.5724,"Casanare, Colombia",2021-07-06,All,139115
+17011,CO,COL,170,,,Cauca,Colombia,2.705,-76.82600000000001,"Cauca, Colombia",2021-07-06,All,326983
+17012,CO,COL,170,,,Cesar,Colombia,9.3373,-73.6536,"Cesar, Colombia",2021-07-06,All,343763
+17013,CO,COL,170,,,Choco,Colombia,5.2528,-76.82600000000001,"Choco, Colombia",2021-07-06,All,92083
+17014,CO,COL,170,,,Cordoba,Colombia,8.0493,-75.574,"Cordoba, Colombia",2021-07-06,All,523647
+17015,CO,COL,170,,,Cundinamarca,Colombia,5.026,-74.03,"Cundinamarca, Colombia",2021-07-06,All,1147066
 17016,CO,COL,170,,,Guainia,Colombia,2.5854,-68.5247,"Guainia, Colombia",2021-07-06,All,21189
-17017,CO,COL,170,,,Guaviare,Colombia,1.0654,-73.2603,"Guaviare, Colombia",2021-07-06,All,26468
-17018,CO,COL,170,,,Huila,Colombia,2.5359,-75.5277,"Huila, Colombia",2021-07-06,All,376704
-17019,CO,COL,170,,,La Guajira,Colombia,11.3548,-72.5205,"La Guajira, Colombia",2021-07-06,All,277631
-17020,CO,COL,170,,,Magdalena,Colombia,10.4113,-74.4057,"Magdalena, Colombia",2021-07-06,All,390578
-17021,CO,COL,170,,,Meta,Colombia,3.272,-73.0877,"Meta, Colombia",2021-07-06,All,333616
-17022,CO,COL,170,,,Narino,Colombia,1.2892,-77.3579,"Narino, Colombia",2021-07-06,All,518229
-17023,CO,COL,170,,,Norte de Santander,Colombia,7.9463,-72.8988,"Norte de Santander, Colombia",2021-07-06,All,549944
-17024,CO,COL,170,,,Putumayo,Colombia,0.436,-75.5277,"Putumayo, Colombia",2021-07-06,All,79802
-17025,CO,COL,170,,,Quindio,Colombia,4.461,-75.6674,"Quindio, Colombia",2021-07-06,All,277625
-17026,CO,COL,170,,,Risaralda,Colombia,5.3158,-75.9928,"Risaralda, Colombia",2021-07-06,All,456533
-17027,CO,COL,170,,,San Andres y Providencia,Colombia,12.5567,-81.7185,"San Andres y Providencia, Colombia",2021-07-06,All,48617
-17028,CO,COL,170,,,Santander,Colombia,6.6437,-73.6536,"Santander, Colombia",2021-07-06,All,968412
-17029,CO,COL,170,,,Sucre,Colombia,8.814,-74.7233,"Sucre, Colombia",2021-07-06,All,296102
-17030,CO,COL,170,,,Tolima,Colombia,4.0925,-75.1545,"Tolima, Colombia",2021-07-06,All,574440
+17017,CO,COL,170,,,Guaviare,Colombia,1.0654,-73.2603,"Guaviare, Colombia",2021-07-06,All,26522
+17018,CO,COL,170,,,Huila,Colombia,2.5359,-75.5277,"Huila, Colombia",2021-07-06,All,377691
+17019,CO,COL,170,,,La Guajira,Colombia,11.3548,-72.5205,"La Guajira, Colombia",2021-07-06,All,280176
+17020,CO,COL,170,,,Magdalena,Colombia,10.4113,-74.4057,"Magdalena, Colombia",2021-07-06,All,391080
+17021,CO,COL,170,,,Meta,Colombia,3.272,-73.0877,"Meta, Colombia",2021-07-06,All,335038
+17022,CO,COL,170,,,Narino,Colombia,1.2892,-77.3579,"Narino, Colombia",2021-07-06,All,519376
+17023,CO,COL,170,,,Norte de Santander,Colombia,7.9463,-72.8988,"Norte de Santander, Colombia",2021-07-06,All,554276
+17024,CO,COL,170,,,Putumayo,Colombia,0.436,-75.5277,"Putumayo, Colombia",2021-07-06,All,79960
+17025,CO,COL,170,,,Quindio,Colombia,4.461,-75.6674,"Quindio, Colombia",2021-07-06,All,278167
+17026,CO,COL,170,,,Risaralda,Colombia,5.3158,-75.9928,"Risaralda, Colombia",2021-07-06,All,457104
+17027,CO,COL,170,,,San Andres y Providencia,Colombia,12.5567,-81.7185,"San Andres y Providencia, Colombia",2021-07-06,All,48679
+17028,CO,COL,170,,,Santander,Colombia,6.6437,-73.6536,"Santander, Colombia",2021-07-06,All,978544
+17029,CO,COL,170,,,Sucre,Colombia,8.814,-74.7233,"Sucre, Colombia",2021-07-06,All,298549
+17030,CO,COL,170,,,Tolima,Colombia,4.0925,-75.1545,"Tolima, Colombia",2021-07-06,All,575321
 17034,CO,COL,170,,,Unassigned,Colombia,,,"Unassigned, Colombia",2021-07-06,All,0
-17031,CO,COL,170,,,Valle del Cauca,Colombia,3.8009,-76.6413,"Valle del Cauca, Colombia",2021-07-06,All,1888667
+17031,CO,COL,170,,,Valle del Cauca,Colombia,3.8009,-76.6413,"Valle del Cauca, Colombia",2021-07-06,All,1899837
 17032,CO,COL,170,,,Vaupes,Colombia,0.8554,-70.812,"Vaupes, Colombia",2021-07-06,All,15897
 17033,CO,COL,170,,,Vichada,Colombia,4.4234,-69.2878,"Vichada, Colombia",2021-07-06,All,14984
 188,CR,CRI,188,,,,Costa Rica,9.7489,-83.7534,Costa Rica,2021-07-06,All,2450127
@@ -178,7 +178,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2021-07-06,All,64161
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2021-07-06,All,42975
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2021-07-06,All,370357
-276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-07-06,All,77332207
+276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-07-06,All,77892414
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-07-06,All,1261677
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-07-06,All,8802118
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-07-06,All,34331
@@ -230,31 +230,31 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,2021-07-06,All,805363
 372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2021-07-06,All,4423158
 376,IL,ISR,376,,,,Israel,31.046051000000002,34.851612,Israel,2021-07-06,All,10843917
-380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2021-07-06,All,55599797
-38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2021-07-06,All,1184223
-38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2021-07-06,All,471912
-38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",2021-07-06,All,1576571
-38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",2021-07-06,All,5294902
-38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.341720800000001,"Emilia-Romagna, Italy",2021-07-06,All,3996154
-38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",2021-07-06,All,1108309
-38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",2021-07-06,All,5527914
-38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",2021-07-06,All,1396335
-38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",2021-07-06,All,9578180
-38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",2021-07-06,All,1380022
-38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",2021-07-06,All,281656
-38041,IT,ITA,380,,,P.A. Bolzano,Italy,46.49933453,11.35662422,"P.A. Bolzano, Italy",2021-07-06,All,457324
-38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",2021-07-06,All,475916
-38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",2021-07-06,All,3883464
-38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",2021-07-06,All,3768691
-38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",2021-07-06,All,1455276
-38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.362356699999998,"Sicilia, Italy",2021-07-06,All,4004815
-38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",2021-07-06,All,3221337
-38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2021-07-06,All,792036
-38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2021-07-06,All,108901
-38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2021-07-06,All,4407583
+380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2021-07-06,All,55831066
+38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2021-07-06,All,1188931
+38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2021-07-06,All,474516
+38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",2021-07-06,All,1581623
+38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",2021-07-06,All,5318125
+38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.341720800000001,"Emilia-Romagna, Italy",2021-07-06,All,4007415
+38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",2021-07-06,All,1111102
+38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",2021-07-06,All,5554813
+38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",2021-07-06,All,1400518
+38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",2021-07-06,All,9625236
+38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",2021-07-06,All,1386479
+38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",2021-07-06,All,282845
+38041,IT,ITA,380,,,P.A. Bolzano,Italy,46.49933453,11.35662422,"P.A. Bolzano, Italy",2021-07-06,All,457814
+38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",2021-07-06,All,477594
+38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",2021-07-06,All,3903594
+38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",2021-07-06,All,3785043
+38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",2021-07-06,All,1462347
+38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.362356699999998,"Sicilia, Italy",2021-07-06,All,4027815
+38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",2021-07-06,All,3229289
+38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2021-07-06,All,796174
+38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2021-07-06,All,109414
+38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2021-07-06,All,4422103
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2021-07-06,All,249983
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2021-07-06,All,50870963
-400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2021-07-06,All,4053724
+400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2021-07-06,All,4116064
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,2021-07-06,All,5961831
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2021-07-06,All,1473869
 410,KR,KOR,410,,,,"Korea, South",35.907757000000004,127.766922,"Korea, South",2021-07-06,All,20769588
@@ -277,7 +277,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 44011,LT,LTU,440,,,Unassigned,Lithuania,,,"Unassigned, Lithuania",2021-07-06,All,0
 44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2021-07-06,All,98916
 44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2021-07-06,All,731530
-442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2021-07-06,All,577713
+442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2021-07-06,All,585552
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2021-07-06,All,492390
 458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.97576600000001,Malaysia,2021-07-06,All,9320476
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2021-07-06,All,509637
@@ -330,14 +330,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-07-06,All,9547649
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-07-06,All,3276416
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-07-06,All,9042170
-643,RU,RUS,643,,,,Russia,61.52401,105.31875600000001,Russia,2021-07-06,All,44482627
+643,RU,RUS,643,,,,Russia,61.52401,105.31875600000001,Russia,2021-07-06,All,44647635
 646,RW,RWA,646,,,,Rwanda,-1.9403,29.8739,Rwanda,2021-07-06,All,578569
 659,KN,KNA,659,,,,Saint Kitts and Nevis,17.357822,-62.782998,Saint Kitts and Nevis,2021-07-06,All,41850
 662,LC,LCA,662,,,,Saint Lucia,13.9094,-60.9789,Saint Lucia,2021-07-06,All,53092
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-07-06,All,25009
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-07-06,All,44657
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-07-06,All,33996
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-06,All,18811690
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-06,All,18826678
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-07-06,All,751129
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-07-06,All,5146241
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-07-06,All,138581
@@ -386,8 +386,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-07-06,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-07-06,All,340023
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-07-06,All,1954404
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-06,All,54505693
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-07-06,All,329606650
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-06,All,54526010
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-07-06,All,329616455
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-07-06,All,3382042
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-07-06,All,672104
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-07-06,All,47310
@@ -420,7 +420,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000031,US,USA,840,31,,Nebraska,US,41.1254,-98.2681,"Nebraska, US",2021-07-06,All,1869002
 84000032,US,USA,840,32,,Nevada,US,38.3135,-117.0554,"Nevada, US",2021-07-06,All,2804838
 84000033,US,USA,840,33,,New Hampshire,US,43.4525,-71.5639,"New Hampshire, US",2021-07-06,All,1546443
-84000034,US,USA,840,34,,New Jersey,US,40.2989,-74.521,"New Jersey, US",2021-07-06,All,10030274
+84000034,US,USA,840,34,,New Jersey,US,40.2989,-74.521,"New Jersey, US",2021-07-06,All,10040079
 84000035,US,USA,840,35,,New Mexico,US,34.8405,-106.2485,"New Mexico, US",2021-07-06,All,2401441
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2021-07-06,All,21991612
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2021-07-06,All,9337039
@@ -473,20 +473,20 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",2021-07-06,All,100191
 80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",2021-07-06,All,88950
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-07-06,All,15650988
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-07-06,All,79745226
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-07-06,All,79970002
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-07-06,All,16460
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2021-07-06,All,80722
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2021-07-06,All,93748
-82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2021-07-06,All,66368542
+82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2021-07-06,All,66540378
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2021-07-06,All,4407
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2021-07-06,All,78125
 833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2021-07-06,All,110561
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366000000004,"Montserrat, United Kingdom",2021-07-06,All,2651
-82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2021-07-06,All,2070574
+82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2021-07-06,All,2079758
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-07-06,All,7892
-82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-07-06,All,6643359
-82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-07-06,All,3995606
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-07-06,All,4124367
+82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-07-06,All,6670529
+82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-07-06,All,4012192
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-07-06,All,4128575
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-07-06,All,3541442
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-07-06,All,1466988
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-07-06,All,3867407
