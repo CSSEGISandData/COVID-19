@@ -557,7 +557,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39049,Franklin,Ohio,US,3/22/20 23:45,39.96995815,-83.01115755,34,3,0,0,"Franklin, Ohio, US"
 39153,Summit,Ohio,US,3/22/20 23:45,41.12464734,-81.53123079,23,0,0,0,"Summit, Ohio, US"
 39093,Lorain,Ohio,US,3/22/20 23:45,41.29553751,-82.15083537,19,0,0,0,"Lorain, Ohio, US"
-39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,1,0,0,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,0,0,0,"Hamilton, Ohio, US"
 39099,Mahoning,Ohio,US,3/22/20 23:45,41.01631101,-80.77287029,18,0,0,0,"Mahoning, Ohio, US"
 39017,Butler,Ohio,US,3/22/20 23:45,39.44012838,-84.57388716,17,0,0,0,"Butler, Ohio, US"
 39109,Miami,Ohio,US,3/22/20 23:45,40.0543329,-84.22871271,13,1,0,0,"Miami, Ohio, US"
@@ -3421,6 +3421,6 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 53023,Garfield County,Washington,US,3/22/20 23:45,46.45197502,-117.5454032,1,2,0,0,"Garfield County,Washington,US"
 ,,Unknown,China,3/22/20 23:45,,,0,0,0,0,"Unknown, China"
 ,,,Kiribati,3/22/20 23:45,-3.3704,-168.734,0,0,0,0,Kiribati
-,,,Palau,3/22/20 23:45,7.5150,134.5825,0,0,0,0,Palau
+,,,Palau,3/22/20 23:45,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,3/22/20 23:45,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
 ,,,Summer Olympics 2020,3/22/20 23:45,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

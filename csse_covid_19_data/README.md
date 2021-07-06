@@ -230,6 +230,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * June 28, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * June 28, 2021 | Illinois, US | Adjust Illinois case count to properly match their historical records for state level data. | [Data Source](https://www.dph.illinois.gov/covid19/data-portal)
 * July 01, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* July 05, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -414,7 +415,7 @@ United States
 * Montana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Friday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
-* Nebraska: Providing data Monday-Friday. No county-level data available at this time.
+* Nebraska: **Retired dashboard. We are looking for a solution**
 * Nevada: Providing data Monday-Friday.
 * New Hampshire: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
