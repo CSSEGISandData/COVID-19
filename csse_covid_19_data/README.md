@@ -441,6 +441,7 @@ International
 * Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
 * France: No longer releasing case, hospitalization, or death data on the weekends. Please see [Tableau dashboard](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA). No update to deaths or recoveries for the weekend of August 8 and 9.
+* Ireland: Providing death data once weekly.
 * Luxembourg: Not providing actionable data on weekends.
 * Mexico: Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
 * Nicaragua: Releasing case, death, and recovered data once per week.
