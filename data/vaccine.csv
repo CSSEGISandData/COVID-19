@@ -161,7 +161,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.472999999999999,"Vysocina, Czechia",2021-07-07,All,405201
 20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-07-07,All,452030
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-07-07,All,5484919
-234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-07-07,All,50941
+234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-07-07,All,51892
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-07-07,All,43647
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-07-07,All,39938
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-07-07,All,8253816
@@ -337,7 +337,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-07-07,All,25009
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-07-07,All,44657
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-07-07,All,33996
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-07,All,18918707
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-07,All,18933263
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-07-07,All,751129
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-07-07,All,5146241
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-07-07,All,138581
@@ -386,7 +386,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-07-07,All,347246
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-07-07,All,340023
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-07-07,All,1954404
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-07,All,54754593
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-07,All,54900449
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-07-07,All,330214732
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-07-07,All,3392366
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-07-07,All,678029
