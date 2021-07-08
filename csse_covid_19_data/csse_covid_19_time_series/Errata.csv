@@ -19742,3 +19742,14 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/07/2021,time_series_covid19_confirmed_global.csv,Turkey,07/06/2021,5449464,5454763,Correct Turkey confirmed data
 07/07/2021,time_series_covid19_deaths_global.csv,Turkey,07/06/2021,49959,49996,Correct Turkey deaths data
 07/07/2021,time_series_covid19_recovered_global.csv,Turkey,07/06/2021,5319665,5324111,Correct Turkey recovered data
+07/07/2021,time_series_covid19_confirmed_global.csv,Summer Olympics 2020,06/28/2021,1,6,Correct Summer Olympics 2020 data
+07/07/2021,time_series_covid19_confirmed_global.csv,Summer Olympics 2020,06/29/2021,1,6,Correct Summer Olympics 2020 data
+07/07/2021,time_series_covid19_confirmed_global.csv,Summer Olympics 2020,06/30/2021,1,6,Correct Summer Olympics 2020 data
+07/07/2021,time_series_covid19_confirmed_global.csv,Summer Olympics 2020,07/01/2021,1,6,Correct Summer Olympics 2020 data
+07/07/2021,time_series_covid19_confirmed_global.csv,Summer Olympics 2020,07/02/2021,1,6,Correct Summer Olympics 2020 data
+07/07/2021,time_series_covid19_confirmed_global.csv,Summer Olympics 2020,07/03/2021,1,6,Correct Summer Olympics 2020 data
+07/07/2021,time_series_covid19_confirmed_global.csv,Summer Olympics 2020,07/04/2021,1,6,Correct Summer Olympics 2020 data
+07/07/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Nebraska, US",07/06/2021,3253,3638,"Update Unassigned, Nebraska confirmed data"
+07/07/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",07/06/2021,31,32,"Correct Unassigned, Nebraska deaths data"
+07/07/2021,time_series_covid19_confirmed_global.csv,US,07/06/2021,33747128,33747513,"Correct Nebraska, US confirmed data"
+07/07/2021,time_series_covid19_deaths_global.csv,US,07/06/2021,605905,605906,"Correct Nebraska, US deaths data"
