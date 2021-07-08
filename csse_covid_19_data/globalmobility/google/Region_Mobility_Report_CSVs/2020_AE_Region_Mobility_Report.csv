@@ -1,0 +1,2362 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+AE,United Arab Emirates,,,,,,2020-02-15,0,4,5,0,2,1
+AE,United Arab Emirates,,,,,,2020-02-16,1,4,4,1,2,1
+AE,United Arab Emirates,,,,,,2020-02-17,-1,1,5,1,2,1
+AE,United Arab Emirates,,,,,,2020-02-18,-2,1,5,0,2,1
+AE,United Arab Emirates,,,,,,2020-02-19,-2,0,4,-1,2,1
+AE,United Arab Emirates,,,,,,2020-02-20,-2,1,6,1,1,1
+AE,United Arab Emirates,,,,,,2020-02-21,-3,2,6,0,-1,1
+AE,United Arab Emirates,,,,,,2020-02-22,-2,2,4,-2,3,1
+AE,United Arab Emirates,,,,,,2020-02-23,-1,3,3,-1,4,1
+AE,United Arab Emirates,,,,,,2020-02-24,-3,0,5,-1,3,1
+AE,United Arab Emirates,,,,,,2020-02-25,-3,2,3,-2,3,1
+AE,United Arab Emirates,,,,,,2020-02-26,-2,1,-3,-2,3,1
+AE,United Arab Emirates,,,,,,2020-02-27,1,5,-1,-1,3,1
+AE,United Arab Emirates,,,,,,2020-02-28,1,5,-1,-1,1,1
+AE,United Arab Emirates,,,,,,2020-02-29,2,7,-1,-1,5,0
+AE,United Arab Emirates,,,,,,2020-03-01,3,10,2,-1,4,1
+AE,United Arab Emirates,,,,,,2020-03-02,0,7,1,-2,4,1
+AE,United Arab Emirates,,,,,,2020-03-03,0,6,0,-5,4,1
+AE,United Arab Emirates,,,,,,2020-03-04,-1,7,-2,-5,3,2
+AE,United Arab Emirates,,,,,,2020-03-05,-3,6,-2,-5,3,2
+AE,United Arab Emirates,,,,,,2020-03-06,-7,5,-8,-9,0,3
+AE,United Arab Emirates,,,,,,2020-03-07,-3,6,1,-8,4,2
+AE,United Arab Emirates,,,,,,2020-03-08,1,8,6,-9,-1,3
+AE,United Arab Emirates,,,,,,2020-03-09,-3,4,4,-10,-1,4
+AE,United Arab Emirates,,,,,,2020-03-10,-4,6,3,-11,-2,4
+AE,United Arab Emirates,,,,,,2020-03-11,-4,5,0,-12,-2,4
+AE,United Arab Emirates,,,,,,2020-03-12,-8,6,-6,-15,-3,5
+AE,United Arab Emirates,,,,,,2020-03-13,-16,3,-15,-20,-2,5
+AE,United Arab Emirates,,,,,,2020-03-14,-12,4,-12,-17,2,4
+AE,United Arab Emirates,,,,,,2020-03-15,-6,11,-11,-15,-4,5
+AE,United Arab Emirates,,,,,,2020-03-16,-11,8,-14,-17,-6,6
+AE,United Arab Emirates,,,,,,2020-03-17,-16,5,-18,-22,-9,7
+AE,United Arab Emirates,,,,,,2020-03-18,-19,2,-19,-25,-11,9
+AE,United Arab Emirates,,,,,,2020-03-19,-24,-1,-26,-31,-12,11
+AE,United Arab Emirates,,,,,,2020-03-20,-37,-11,-45,-44,-12,11
+AE,United Arab Emirates,,,,,,2020-03-21,-32,-12,-37,-42,-8,10
+AE,United Arab Emirates,,,,,,2020-03-22,-30,-13,-36,-45,-17,13
+AE,United Arab Emirates,,,,,,2020-03-23,-27,14,-38,-46,-20,14
+AE,United Arab Emirates,,,,,,2020-03-24,-39,-6,-43,-53,-28,17
+AE,United Arab Emirates,,,,,,2020-03-25,-50,-18,-47,-60,-35,21
+AE,United Arab Emirates,,,,,,2020-03-26,-55,-13,-54,-67,-40,25
+AE,United Arab Emirates,,,,,,2020-03-27,-80,-60,-80,-84,-52,25
+AE,United Arab Emirates,,,,,,2020-03-28,-72,-47,-68,-80,-56,28
+AE,United Arab Emirates,,,,,,2020-03-29,-55,-26,-53,-69,-45,26
+AE,United Arab Emirates,,,,,,2020-03-30,-57,-27,-53,-69,-46,25
+AE,United Arab Emirates,,,,,,2020-03-31,-56,-26,-53,-69,-46,25
+AE,United Arab Emirates,,,,,,2020-04-01,-56,-24,-53,-70,-46,25
+AE,United Arab Emirates,,,,,,2020-04-02,-58,-25,-56,-71,-47,28
+AE,United Arab Emirates,,,,,,2020-04-03,-69,-39,-75,-79,-44,22
+AE,United Arab Emirates,,,,,,2020-04-04,-58,-27,-58,-72,-37,21
+AE,United Arab Emirates,,,,,,2020-04-05,-61,-30,-58,-79,-57,31
+AE,United Arab Emirates,,,,,,2020-04-06,-63,-32,-58,-78,-56,30
+AE,United Arab Emirates,,,,,,2020-04-07,-63,-30,-73,-78,-55,30
+AE,United Arab Emirates,,,,,,2020-04-08,-63,-30,-74,-78,-55,30
+AE,United Arab Emirates,,,,,,2020-04-09,-64,-31,-76,-79,-55,33
+AE,United Arab Emirates,,,,,,2020-04-10,-74,-46,-86,-84,-49,23
+AE,United Arab Emirates,,,,,,2020-04-11,-64,-32,-77,-79,-45,24
+AE,United Arab Emirates,,,,,,2020-04-12,-60,-28,-74,-79,-55,30
+AE,United Arab Emirates,,,,,,2020-04-13,-62,-30,-73,-78,-55,30
+AE,United Arab Emirates,,,,,,2020-04-14,-62,-31,-74,-78,-55,30
+AE,United Arab Emirates,,,,,,2020-04-15,-63,-32,-74,-78,-56,31
+AE,United Arab Emirates,,,,,,2020-04-16,-63,-32,-74,-79,-55,34
+AE,United Arab Emirates,,,,,,2020-04-17,-73,-45,-85,-84,-48,23
+AE,United Arab Emirates,,,,,,2020-04-18,-66,-39,-78,-78,-45,24
+AE,United Arab Emirates,,,,,,2020-04-19,-62,-35,-74,-78,-54,30
+AE,United Arab Emirates,,,,,,2020-04-20,-63,-37,-74,-78,-55,30
+AE,United Arab Emirates,,,,,,2020-04-21,-63,-35,-74,-78,-55,30
+AE,United Arab Emirates,,,,,,2020-04-22,-62,-33,-75,-77,-55,30
+AE,United Arab Emirates,,,,,,2020-04-23,-62,-29,-76,-77,-55,32
+AE,United Arab Emirates,,,,,,2020-04-24,-72,-40,-86,-80,-47,24
+AE,United Arab Emirates,,,,,,2020-04-25,-62,-32,-77,-74,-41,25
+AE,United Arab Emirates,,,,,,2020-04-26,-56,-26,-73,-69,-49,30
+AE,United Arab Emirates,,,,,,2020-04-27,-57,-28,-73,-68,-48,30
+AE,United Arab Emirates,,,,,,2020-04-28,-56,-26,-72,-67,-48,28
+AE,United Arab Emirates,,,,,,2020-04-29,-55,-24,-72,-67,-47,29
+AE,United Arab Emirates,,,,,,2020-04-30,-57,-26,-71,-66,-47,31
+AE,United Arab Emirates,,,,,,2020-05-01,-66,-36,-83,-73,-41,22
+AE,United Arab Emirates,,,,,,2020-05-02,-56,-26,-72,-66,-34,22
+AE,United Arab Emirates,,,,,,2020-05-03,-51,-22,-68,-65,-45,27
+AE,United Arab Emirates,,,,,,2020-05-04,-52,-24,-68,-65,-45,28
+AE,United Arab Emirates,,,,,,2020-05-05,-53,-23,-68,-64,-45,27
+AE,United Arab Emirates,,,,,,2020-05-06,-51,-20,-67,-62,-44,28
+AE,United Arab Emirates,,,,,,2020-05-07,-53,-23,-68,-63,-44,30
+AE,United Arab Emirates,,,,,,2020-05-08,-63,-35,-81,-72,-38,21
+AE,United Arab Emirates,,,,,,2020-05-09,-53,-25,-70,-63,-31,22
+AE,United Arab Emirates,,,,,,2020-05-10,-48,-19,-66,-61,-42,27
+AE,United Arab Emirates,,,,,,2020-05-11,-51,-22,-66,-61,-43,28
+AE,United Arab Emirates,,,,,,2020-05-12,-50,-20,-66,-61,-43,28
+AE,United Arab Emirates,,,,,,2020-05-13,-51,-21,-66,-61,-43,28
+AE,United Arab Emirates,,,,,,2020-05-14,-53,-20,-67,-61,-43,29
+AE,United Arab Emirates,,,,,,2020-05-15,-62,-32,-80,-70,-35,21
+AE,United Arab Emirates,,,,,,2020-05-16,-51,-21,-68,-61,-29,21
+AE,United Arab Emirates,,,,,,2020-05-17,-47,-16,-64,-60,-41,27
+AE,United Arab Emirates,,,,,,2020-05-18,-48,-18,-64,-59,-42,27
+AE,United Arab Emirates,,,,,,2020-05-19,-49,-19,-65,-60,-42,27
+AE,United Arab Emirates,,,,,,2020-05-20,-53,-22,-67,-61,-44,28
+AE,United Arab Emirates,,,,,,2020-05-21,-53,-20,-69,-61,-43,30
+AE,United Arab Emirates,,,,,,2020-05-22,-59,-27,-81,-69,-33,21
+AE,United Arab Emirates,,,,,,2020-05-23,-52,-17,-73,-66,-47,25
+AE,United Arab Emirates,,,,,,2020-05-24,-56,-31,-68,-72,-77,36
+AE,United Arab Emirates,,,,,,2020-05-25,-52,-23,-65,-69,-73,34
+AE,United Arab Emirates,,,,,,2020-05-26,-50,-23,-66,-66,-63,31
+AE,United Arab Emirates,,,,,,2020-05-27,-44,-18,-63,-55,-38,23
+AE,United Arab Emirates,,,,,,2020-05-28,-46,-19,-64,-56,-37,25
+AE,United Arab Emirates,,,,,,2020-05-29,-55,-29,-73,-64,-29,19
+AE,United Arab Emirates,,,,,,2020-05-30,-42,-17,-62,-55,-20,16
+AE,United Arab Emirates,,,,,,2020-05-31,-35,-9,-58,-52,-32,20
+AE,United Arab Emirates,,,,,,2020-06-01,-37,-10,-57,-51,-32,20
+AE,United Arab Emirates,,,,,,2020-06-02,-38,-12,-58,-52,-32,21
+AE,United Arab Emirates,,,,,,2020-06-03,-38,-12,-57,-51,-32,21
+AE,United Arab Emirates,,,,,,2020-06-04,-41,-14,-60,-52,-31,23
+AE,United Arab Emirates,,,,,,2020-06-05,-49,-23,-68,-61,-26,17
+AE,United Arab Emirates,,,,,,2020-06-06,-39,-15,-60,-54,-18,16
+AE,United Arab Emirates,,,,,,2020-06-07,-35,-9,-56,-51,-30,20
+AE,United Arab Emirates,,,,,,2020-06-08,-37,-13,-56,-50,-29,20
+AE,United Arab Emirates,,,,,,2020-06-09,-39,-14,-57,-52,-29,20
+AE,United Arab Emirates,,,,,,2020-06-10,-38,-13,-56,-52,-30,20
+AE,United Arab Emirates,,,,,,2020-06-11,-40,-13,-57,-52,-29,22
+AE,United Arab Emirates,,,,,,2020-06-12,-48,-23,-66,-60,-23,16
+AE,United Arab Emirates,,,,,,2020-06-13,-38,-15,-57,-53,-16,15
+AE,United Arab Emirates,,,,,,2020-06-14,-34,-10,-54,-50,-28,19
+AE,United Arab Emirates,,,,,,2020-06-15,-36,-13,-53,-50,-27,19
+AE,United Arab Emirates,,,,,,2020-06-16,-36,-12,-53,-50,-27,19
+AE,United Arab Emirates,,,,,,2020-06-17,-37,-12,-54,-50,-27,19
+AE,United Arab Emirates,,,,,,2020-06-18,-39,-14,-56,-51,-27,20
+AE,United Arab Emirates,,,,,,2020-06-19,-46,-22,-66,-58,-21,16
+AE,United Arab Emirates,,,,,,2020-06-20,-37,-15,-57,-52,-15,14
+AE,United Arab Emirates,,,,,,2020-06-21,-33,-11,-52,-50,-27,18
+AE,United Arab Emirates,,,,,,2020-06-22,-35,-13,-51,-48,-27,18
+AE,United Arab Emirates,,,,,,2020-06-23,-34,-12,-51,-48,-27,18
+AE,United Arab Emirates,,,,,,2020-06-24,-35,-12,-52,-48,-26,18
+AE,United Arab Emirates,,,,,,2020-06-25,-33,-10,-53,-47,-25,19
+AE,United Arab Emirates,,,,,,2020-06-26,-40,-18,-62,-54,-18,14
+AE,United Arab Emirates,,,,,,2020-06-27,-32,-11,-55,-48,-14,13
+AE,United Arab Emirates,,,,,,2020-06-28,-28,-7,-51,-47,-24,16
+AE,United Arab Emirates,,,,,,2020-06-29,-29,-8,-49,-46,-24,16
+AE,United Arab Emirates,,,,,,2020-06-30,-28,-6,-46,-47,-24,15
+AE,United Arab Emirates,,,,,,2020-07-01,-28,-6,-47,-47,-24,15
+AE,United Arab Emirates,,,,,,2020-07-02,-29,-5,-48,-47,-24,17
+AE,United Arab Emirates,,,,,,2020-07-03,-36,-14,-58,-54,-17,13
+AE,United Arab Emirates,,,,,,2020-07-04,-29,-8,-50,-49,-12,11
+AE,United Arab Emirates,,,,,,2020-07-05,-24,-3,-45,-47,-24,14
+AE,United Arab Emirates,,,,,,2020-07-06,-27,-6,-45,-46,-23,15
+AE,United Arab Emirates,,,,,,2020-07-07,-27,-5,-45,-45,-24,15
+AE,United Arab Emirates,,,,,,2020-07-08,-29,-8,-46,-47,-23,15
+AE,United Arab Emirates,,,,,,2020-07-09,-29,-7,-48,-46,-24,16
+AE,United Arab Emirates,,,,,,2020-07-10,-35,-14,-58,-54,-15,12
+AE,United Arab Emirates,,,,,,2020-07-11,-28,-8,-50,-49,-11,11
+AE,United Arab Emirates,,,,,,2020-07-12,-24,-4,-44,-45,-23,14
+AE,United Arab Emirates,,,,,,2020-07-13,-26,-7,-45,-45,-23,14
+AE,United Arab Emirates,,,,,,2020-07-14,-27,-7,-45,-46,-24,14
+AE,United Arab Emirates,,,,,,2020-07-15,-26,-7,-43,-46,-23,14
+AE,United Arab Emirates,,,,,,2020-07-16,-28,-6,-46,-46,-22,15
+AE,United Arab Emirates,,,,,,2020-07-17,-34,-14,-56,-54,-15,12
+AE,United Arab Emirates,,,,,,2020-07-18,-28,-9,-48,-49,-11,11
+AE,United Arab Emirates,,,,,,2020-07-19,-23,-4,-42,-45,-22,13
+AE,United Arab Emirates,,,,,,2020-07-20,-25,-7,-42,-45,-22,13
+AE,United Arab Emirates,,,,,,2020-07-21,-27,-9,-44,-46,-23,13
+AE,United Arab Emirates,,,,,,2020-07-22,-27,-9,-44,-45,-22,13
+AE,United Arab Emirates,,,,,,2020-07-23,-27,-7,-45,-45,-22,14
+AE,United Arab Emirates,,,,,,2020-07-24,-33,-15,-55,-52,-13,12
+AE,United Arab Emirates,,,,,,2020-07-25,-25,-8,-46,-46,-11,10
+AE,United Arab Emirates,,,,,,2020-07-26,-21,-3,-41,-43,-22,12
+AE,United Arab Emirates,,,,,,2020-07-27,-21,-3,-41,-43,-22,12
+AE,United Arab Emirates,,,,,,2020-07-28,-19,0,-42,-43,-22,11
+AE,United Arab Emirates,,,,,,2020-07-29,-12,11,-39,-39,-22,9
+AE,United Arab Emirates,,,,,,2020-07-30,-21,13,-46,-51,-58,26
+AE,United Arab Emirates,,,,,,2020-07-31,-31,-15,-46,-47,-22,9
+AE,United Arab Emirates,,,,,,2020-08-01,-22,-6,-29,-49,-53,17
+AE,United Arab Emirates,,,,,,2020-08-02,-15,5,-34,-53,-59,22
+AE,United Arab Emirates,,,,,,2020-08-03,-22,-4,-41,-43,-23,12
+AE,United Arab Emirates,,,,,,2020-08-04,-22,-4,-42,-42,-23,12
+AE,United Arab Emirates,,,,,,2020-08-05,-22,-4,-42,-41,-22,12
+AE,United Arab Emirates,,,,,,2020-08-06,-24,-6,-45,-42,-22,13
+AE,United Arab Emirates,,,,,,2020-08-07,-33,-15,-57,-51,-14,11
+AE,United Arab Emirates,,,,,,2020-08-08,-24,-7,-45,-44,-12,9
+AE,United Arab Emirates,,,,,,2020-08-09,-18,-1,-38,-41,-21,11
+AE,United Arab Emirates,,,,,,2020-08-10,-21,-5,-39,-40,-22,11
+AE,United Arab Emirates,,,,,,2020-08-11,-23,-6,-41,-43,-22,11
+AE,United Arab Emirates,,,,,,2020-08-12,-22,-6,-41,-43,-22,11
+AE,United Arab Emirates,,,,,,2020-08-13,-23,-5,-42,-42,-22,12
+AE,United Arab Emirates,,,,,,2020-08-14,-30,-12,-53,-49,-14,10
+AE,United Arab Emirates,,,,,,2020-08-15,-24,-7,-45,-43,-12,8
+AE,United Arab Emirates,,,,,,2020-08-16,-19,-3,-39,-42,-22,10
+AE,United Arab Emirates,,,,,,2020-08-17,-22,-6,-40,-42,-22,11
+AE,United Arab Emirates,,,,,,2020-08-18,-23,-7,-42,-42,-21,11
+AE,United Arab Emirates,,,,,,2020-08-19,-23,-7,-42,-42,-21,11
+AE,United Arab Emirates,,,,,,2020-08-20,-26,-9,-45,-43,-22,12
+AE,United Arab Emirates,,,,,,2020-08-21,-33,-16,-56,-50,-14,10
+AE,United Arab Emirates,,,,,,2020-08-22,-23,-9,-43,-44,-15,8
+AE,United Arab Emirates,,,,,,2020-08-23,-19,1,-37,-53,-58,22
+AE,United Arab Emirates,,,,,,2020-08-24,-25,-10,-42,-42,-20,10
+AE,United Arab Emirates,,,,,,2020-08-25,-24,-8,-41,-41,-21,10
+AE,United Arab Emirates,,,,,,2020-08-26,-23,-7,-41,-41,-20,10
+AE,United Arab Emirates,,,,,,2020-08-27,-22,-5,-42,-41,-20,11
+AE,United Arab Emirates,,,,,,2020-08-28,-30,-11,-55,-47,-13,10
+AE,United Arab Emirates,,,,,,2020-08-29,-23,-5,-46,-42,-11,8
+AE,United Arab Emirates,,,,,,2020-08-30,-18,2,-38,-40,-21,9
+AE,United Arab Emirates,,,,,,2020-08-31,-21,-3,-40,-41,-22,10
+AE,United Arab Emirates,,,,,,2020-09-01,-22,-3,-40,-40,-21,10
+AE,United Arab Emirates,,,,,,2020-09-02,-22,-4,-40,-41,-21,10
+AE,United Arab Emirates,,,,,,2020-09-03,-22,-3,-40,-41,-21,10
+AE,United Arab Emirates,,,,,,2020-09-04,-27,-8,-50,-45,-15,9
+AE,United Arab Emirates,,,,,,2020-09-05,-21,-3,-42,-42,-13,7
+AE,United Arab Emirates,,,,,,2020-09-06,-18,1,-35,-39,-21,9
+AE,United Arab Emirates,,,,,,2020-09-07,-21,-3,-38,-40,-21,10
+AE,United Arab Emirates,,,,,,2020-09-08,-21,-3,-38,-40,-22,10
+AE,United Arab Emirates,,,,,,2020-09-09,-23,-5,-39,-41,-21,9
+AE,United Arab Emirates,,,,,,2020-09-10,-21,-3,-38,-38,-21,10
+AE,United Arab Emirates,,,,,,2020-09-11,-27,-8,-48,-45,-16,9
+AE,United Arab Emirates,,,,,,2020-09-12,-22,-3,-39,-42,-13,7
+AE,United Arab Emirates,,,,,,2020-09-13,-19,0,-32,-39,-20,9
+AE,United Arab Emirates,,,,,,2020-09-14,-22,-4,-36,-40,-19,10
+AE,United Arab Emirates,,,,,,2020-09-15,-22,-4,-36,-40,-19,10
+AE,United Arab Emirates,,,,,,2020-09-16,-22,-5,-36,-40,-20,10
+AE,United Arab Emirates,,,,,,2020-09-17,-23,-5,-38,-41,-21,11
+AE,United Arab Emirates,,,,,,2020-09-18,-28,-11,-47,-46,-15,10
+AE,United Arab Emirates,,,,,,2020-09-19,-23,-7,-40,-43,-13,8
+AE,United Arab Emirates,,,,,,2020-09-20,-21,-4,-35,-40,-19,10
+AE,United Arab Emirates,,,,,,2020-09-21,-24,-7,-38,-41,-21,10
+AE,United Arab Emirates,,,,,,2020-09-22,-26,-8,-41,-42,-20,10
+AE,United Arab Emirates,,,,,,2020-09-23,-27,-9,-44,-43,-20,11
+AE,United Arab Emirates,,,,,,2020-09-24,-26,-8,-43,-43,-20,12
+AE,United Arab Emirates,,,,,,2020-09-25,-31,-12,-49,-47,-15,10
+AE,United Arab Emirates,,,,,,2020-09-26,-26,-7,-45,-43,-12,8
+AE,United Arab Emirates,,,,,,2020-09-27,-22,-3,-41,-40,-19,10
+AE,United Arab Emirates,,,,,,2020-09-28,-25,-7,-44,-41,-19,11
+AE,United Arab Emirates,,,,,,2020-09-29,-24,-5,-42,-40,-19,10
+AE,United Arab Emirates,,,,,,2020-09-30,-23,-2,-41,-38,-20,9
+AE,United Arab Emirates,,,,,,2020-10-01,-22,0,-38,-38,-20,9
+AE,United Arab Emirates,,,,,,2020-10-02,-26,-5,-44,-40,-16,8
+AE,United Arab Emirates,,,,,,2020-10-03,-22,-1,-40,-38,-14,6
+AE,United Arab Emirates,,,,,,2020-10-04,-20,1,-34,-35,-20,8
+AE,United Arab Emirates,,,,,,2020-10-05,-23,-3,-38,-38,-21,9
+AE,United Arab Emirates,,,,,,2020-10-06,-23,-3,-38,-38,-21,8
+AE,United Arab Emirates,,,,,,2020-10-07,-24,-3,-38,-38,-20,9
+AE,United Arab Emirates,,,,,,2020-10-08,-23,-2,-36,-37,-19,10
+AE,United Arab Emirates,,,,,,2020-10-09,-27,-7,-41,-42,-15,8
+AE,United Arab Emirates,,,,,,2020-10-10,-24,-5,-37,-39,-12,8
+AE,United Arab Emirates,,,,,,2020-10-11,-21,0,-32,-37,-18,10
+AE,United Arab Emirates,,,,,,2020-10-12,-24,-4,-34,-38,-19,10
+AE,United Arab Emirates,,,,,,2020-10-13,-24,-3,-34,-38,-19,10
+AE,United Arab Emirates,,,,,,2020-10-14,-23,-3,-36,-37,-19,10
+AE,United Arab Emirates,,,,,,2020-10-15,-22,-1,-34,-35,-19,10
+AE,United Arab Emirates,,,,,,2020-10-16,-26,-5,-36,-40,-15,9
+AE,United Arab Emirates,,,,,,2020-10-17,-23,-4,-36,-38,-12,8
+AE,United Arab Emirates,,,,,,2020-10-18,-20,-1,-32,-36,-20,10
+AE,United Arab Emirates,,,,,,2020-10-19,-23,-4,-35,-36,-20,10
+AE,United Arab Emirates,,,,,,2020-10-20,-23,-5,-33,-37,-20,10
+AE,United Arab Emirates,,,,,,2020-10-21,-22,-3,-31,-37,-20,10
+AE,United Arab Emirates,,,,,,2020-10-22,-21,-1,-25,-35,-19,10
+AE,United Arab Emirates,,,,,,2020-10-23,-26,-5,-28,-40,-14,8
+AE,United Arab Emirates,,,,,,2020-10-24,-23,-4,-29,-38,-11,7
+AE,United Arab Emirates,,,,,,2020-10-25,-18,1,-25,-35,-18,9
+AE,United Arab Emirates,,,,,,2020-10-26,-20,-1,-28,-35,-18,9
+AE,United Arab Emirates,,,,,,2020-10-27,-19,0,-28,-35,-19,9
+AE,United Arab Emirates,,,,,,2020-10-28,-13,7,-24,-32,-18,6
+AE,United Arab Emirates,,,,,,2020-10-29,-15,8,-4,-45,-59,20
+AE,United Arab Emirates,,,,,,2020-10-30,-24,-7,-24,-40,-16,6
+AE,United Arab Emirates,,,,,,2020-10-31,-22,-4,-30,-39,-12,6
+AE,United Arab Emirates,,,,,,2020-11-01,-17,3,-27,-35,-18,8
+AE,United Arab Emirates,,,,,,2020-11-02,-19,0,-31,-36,-19,9
+AE,United Arab Emirates,,,,,,2020-11-03,-19,0,-30,-36,-19,9
+AE,United Arab Emirates,,,,,,2020-11-04,-20,-1,-31,-36,-19,9
+AE,United Arab Emirates,,,,,,2020-11-05,-20,0,-29,-35,-19,9
+AE,United Arab Emirates,,,,,,2020-11-06,-23,-4,-28,-38,-15,7
+AE,United Arab Emirates,,,,,,2020-11-07,-20,-3,-30,-38,-12,7
+AE,United Arab Emirates,,,,,,2020-11-08,-18,0,-28,-35,-18,9
+AE,United Arab Emirates,,,,,,2020-11-09,-20,-2,-32,-36,-19,9
+AE,United Arab Emirates,,,,,,2020-11-10,-20,-2,-32,-36,-19,9
+AE,United Arab Emirates,,,,,,2020-11-11,-19,0,-31,-35,-19,9
+AE,United Arab Emirates,,,,,,2020-11-12,-18,1,-28,-34,-19,9
+AE,United Arab Emirates,,,,,,2020-11-13,-21,0,-26,-37,-13,6
+AE,United Arab Emirates,,,,,,2020-11-14,-18,-1,-28,-37,-13,7
+AE,United Arab Emirates,,,,,,2020-11-15,-17,1,-25,-34,-19,9
+AE,United Arab Emirates,,,,,,2020-11-16,-20,-4,-29,-35,-19,9
+AE,United Arab Emirates,,,,,,2020-11-17,-21,-4,-29,-36,-19,9
+AE,United Arab Emirates,,,,,,2020-11-18,-21,-3,-31,-36,-18,9
+AE,United Arab Emirates,,,,,,2020-11-19,-20,-2,-29,-36,-18,9
+AE,United Arab Emirates,,,,,,2020-11-20,-23,-6,-29,-39,-13,7
+AE,United Arab Emirates,,,,,,2020-11-21,-21,-5,-32,-38,-11,7
+AE,United Arab Emirates,,,,,,2020-11-22,-18,-2,-29,-35,-18,9
+AE,United Arab Emirates,,,,,,2020-11-23,-21,-6,-32,-37,-18,9
+AE,United Arab Emirates,,,,,,2020-11-24,-21,-5,-32,-37,-19,9
+AE,United Arab Emirates,,,,,,2020-11-25,-20,-3,-33,-35,-18,9
+AE,United Arab Emirates,,,,,,2020-11-26,-18,0,-30,-33,-18,9
+AE,United Arab Emirates,,,,,,2020-11-27,-20,-3,-30,-35,-11,6
+AE,United Arab Emirates,,,,,,2020-11-28,-17,-1,-32,-35,-10,6
+AE,United Arab Emirates,,,,,,2020-11-29,-13,4,-27,-32,-18,8
+AE,United Arab Emirates,,,,,,2020-11-30,-10,7,-25,-30,-18,6
+AE,United Arab Emirates,,,,,,2020-12-01,-2,19,7,-38,-55,15
+AE,United Arab Emirates,,,,,,2020-12-02,-2,19,31,-39,-64,18
+AE,United Arab Emirates,,,,,,2020-12-03,-14,5,5,-42,-59,19
+AE,United Arab Emirates,,,,,,2020-12-04,-24,-7,-24,-37,-13,6
+AE,United Arab Emirates,,,,,,2020-12-05,-20,-4,-31,-36,-10,6
+AE,United Arab Emirates,,,,,,2020-12-06,-15,2,-27,-32,-17,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-15,1,6,-2,-1,2,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-16,-2,5,2,-2,2,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-17,-3,2,4,-3,2,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-18,-3,2,1,-2,2,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-19,-3,1,0,-1,2,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-20,-2,2,3,-3,1,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-21,0,5,8,-5,-1,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-22,-1,4,2,-2,3,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-23,-2,4,2,-3,3,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-24,-3,2,6,-5,3,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-25,-3,2,2,-3,2,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-26,-3,2,-5,-3,2,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-27,2,7,-2,-4,2,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-28,2,9,-3,-2,1,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-02-29,3,10,-3,1,4,0
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-01,2,12,2,-2,3,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-02,1,10,2,-4,3,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-03,0,7,-1,-5,3,1
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-04,-1,9,-5,-5,3,2
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-05,-2,8,-5,-8,2,3
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-06,-5,8,-9,-15,1,3
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-07,-2,8,-2,-10,4,2
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-08,-1,9,5,-13,-2,3
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-09,-3,7,4,-14,-3,4
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-10,-3,7,2,-15,-4,4
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-11,-4,7,0,-12,-4,4
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-12,-8,7,-7,-18,-5,5
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-13,-13,7,-16,-24,-1,5
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-14,-10,5,-12,-20,2,4
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-15,-9,9,-10,-18,-5,5
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-16,-12,7,-10,-19,-7,6
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-17,-16,3,-14,-20,-9,7
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-18,-17,2,-14,-24,-10,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-19,-21,0,-23,-33,-11,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-20,-31,-6,-40,-46,-9,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-21,-26,-6,-31,-42,-5,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-22,-27,-9,-30,-44,-14,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-23,-22,15,-32,-45,-17,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-24,-34,-3,-37,-48,-23,14
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-25,-46,-17,-41,-57,-30,18
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-26,-49,-11,-48,-67,-34,22
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-27,-76,-55,-74,-83,-45,23
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-28,-66,-41,-60,-77,-46,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-29,-51,-24,-46,-67,-39,22
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-30,-52,-24,-46,-67,-40,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-03-31,-51,-23,-45,-67,-40,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-01,-50,-22,-45,-67,-41,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-02,-53,-21,-51,-72,-41,25
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-03,-63,-34,-70,-82,-38,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-04,-52,-23,-52,-76,-29,19
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-05,-50,-19,-45,-71,-42,22
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-06,-52,-21,-46,-71,-42,23
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-07,-53,-19,-66,-70,-44,23
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-08,-54,-21,-66,-71,-44,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-09,-56,-22,-70,-75,-45,27
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-10,-65,-34,-81,-82,-41,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-11,-54,-21,-71,-76,-33,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-12,-52,-20,-67,-74,-45,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-13,-53,-21,-66,-74,-46,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-14,-54,-23,-67,-72,-47,25
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-15,-54,-23,-67,-73,-47,25
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-16,-54,-23,-66,-75,-47,28
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-17,-62,-32,-78,-82,-40,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-18,-54,-31,-68,-76,-34,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-19,-53,-32,-64,-75,-46,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-20,-54,-32,-63,-74,-47,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-21,-54,-32,-64,-74,-47,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-22,-53,-29,-65,-75,-47,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-23,-53,-26,-67,-77,-47,27
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-24,-65,-35,-81,-83,-41,22
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-25,-57,-32,-70,-78,-36,23
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-26,-55,-31,-65,-75,-48,28
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-27,-56,-31,-65,-75,-48,27
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-28,-55,-30,-65,-74,-48,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-29,-54,-28,-63,-74,-47,27
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-04-30,-56,-29,-63,-76,-47,29
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-01,-63,-35,-77,-82,-38,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-02,-53,-27,-62,-77,-33,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-03,-51,-27,-57,-76,-45,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-04,-52,-27,-57,-75,-46,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-05,-52,-27,-57,-74,-46,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-06,-50,-24,-56,-73,-45,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-07,-53,-26,-58,-75,-45,29
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-08,-61,-37,-74,-82,-35,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-09,-51,-28,-59,-76,-30,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-10,-50,-24,-54,-72,-43,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-11,-51,-26,-54,-73,-44,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-12,-51,-25,-55,-71,-44,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-13,-51,-25,-55,-72,-44,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-14,-52,-26,-57,-74,-44,28
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-15,-59,-34,-72,-79,-32,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-16,-49,-24,-57,-72,-28,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-17,-48,-21,-51,-72,-42,25
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-18,-48,-23,-51,-72,-43,25
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-19,-49,-24,-52,-71,-43,25
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-20,-52,-26,-55,-71,-45,27
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-21,-51,-24,-58,-73,-43,29
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-22,-55,-28,-73,-80,-30,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-23,-49,-21,-64,-78,-49,25
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-24,-59,-38,-61,-82,-74,33
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-25,-54,-30,-58,-81,-71,32
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-26,-51,-28,-58,-77,-64,29
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-27,-47,-24,-52,-68,-40,22
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-28,-49,-26,-55,-71,-39,25
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-29,-56,-34,-70,-77,-28,18
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-30,-41,-20,-53,-71,-19,16
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-05-31,-37,-13,-46,-67,-34,19
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-01,-37,-13,-44,-66,-34,19
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-02,-41,-18,-48,-67,-35,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-03,-41,-17,-48,-67,-35,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-04,-43,-20,-51,-70,-34,24
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-05,-50,-28,-65,-76,-25,18
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-06,-40,-20,-51,-70,-18,18
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-07,-39,-15,-45,-70,-33,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-08,-41,-18,-44,-69,-32,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-09,-42,-20,-46,-67,-33,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-10,-41,-19,-46,-66,-32,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-11,-42,-20,-50,-68,-32,23
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-12,-48,-27,-63,-76,-22,17
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-13,-39,-20,-48,-68,-15,16
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-14,-38,-16,-43,-67,-30,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-15,-40,-18,-43,-66,-30,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-16,-39,-17,-43,-65,-30,19
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-17,-39,-18,-45,-64,-30,19
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-18,-43,-21,-49,-68,-30,22
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-19,-48,-28,-62,-74,-20,17
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-20,-39,-20,-47,-68,-13,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-21,-38,-19,-43,-65,-29,19
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-22,-39,-19,-41,-65,-30,19
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-23,-39,-19,-42,-64,-29,18
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-24,-39,-19,-43,-63,-29,19
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-25,-37,-15,-45,-66,-28,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-26,-40,-21,-59,-69,-16,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-27,-32,-15,-45,-64,-13,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-28,-32,-12,-39,-65,-27,16
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-29,-32,-12,-37,-63,-27,16
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-06-30,-32,-12,-37,-60,-26,16
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-01,-31,-11,-39,-60,-26,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-02,-32,-11,-40,-63,-27,18
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-03,-35,-16,-56,-68,-13,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-04,-28,-12,-40,-62,-9,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-05,-27,-7,-35,-60,-25,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-06,-29,-10,-34,-61,-25,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-07,-29,-10,-35,-59,-26,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-08,-31,-12,-37,-60,-25,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-09,-31,-12,-39,-63,-25,17
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-10,-35,-17,-55,-68,-12,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-11,-27,-11,-40,-64,-8,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-12,-26,-8,-34,-61,-24,14
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-13,-27,-10,-34,-60,-24,14
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-14,-28,-11,-34,-58,-25,14
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-15,-28,-10,-37,-60,-24,14
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-16,-29,-11,-40,-63,-24,16
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-17,-33,-16,-55,-69,-11,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-18,-27,-12,-42,-63,-8,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-19,-26,-8,-34,-62,-23,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-20,-27,-10,-33,-61,-24,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-21,-28,-13,-36,-60,-25,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-22,-29,-13,-38,-61,-23,14
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-23,-29,-11,-40,-62,-23,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-24,-33,-17,-54,-69,-10,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-25,-25,-11,-39,-61,-8,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-26,-23,-7,-33,-60,-23,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-27,-21,-5,-32,-59,-23,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-28,-19,-1,-34,-56,-23,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-29,-12,10,-32,-55,-23,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-30,-24,7,-50,-68,-58,26
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-07-31,-30,-19,-53,-66,-17,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-01,-23,-10,-41,-67,-46,17
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-02,-20,-2,-38,-69,-59,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-03,-24,-8,-37,-60,-24,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-04,-23,-8,-37,-55,-24,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-05,-23,-8,-38,-56,-23,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-06,-25,-10,-41,-59,-23,14
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-07,-30,-17,-56,-64,-9,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-08,-23,-10,-40,-60,-8,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-09,-20,-5,-33,-55,-22,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-10,-22,-8,-33,-56,-22,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-11,-23,-9,-35,-55,-23,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-12,-22,-9,-37,-54,-23,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-13,-24,-9,-39,-58,-23,13
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-14,-28,-14,-54,-64,-10,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-15,-23,-10,-42,-57,-8,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-16,-21,-6,-34,-55,-22,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-17,-22,-9,-33,-56,-22,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-18,-23,-11,-35,-54,-21,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-19,-24,-11,-37,-55,-22,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-20,-26,-13,-42,-58,-22,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-21,-31,-19,-56,-67,-10,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-22,-22,-13,-41,-60,-13,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-23,-23,-5,-39,-68,-56,21
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-24,-25,-13,-35,-57,-21,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-25,-24,-12,-34,-55,-21,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-26,-23,-9,-35,-54,-20,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-27,-21,-8,-38,-58,-20,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-28,-25,-13,-55,-64,-10,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-29,-19,-7,-41,-59,-8,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-30,-18,-2,-34,-56,-21,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-08-31,-19,-7,-31,-56,-22,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-01,-20,-6,-32,-55,-21,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-02,-21,-6,-33,-53,-20,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-03,-21,-6,-38,-58,-21,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-04,-23,-9,-51,-63,-12,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-05,-18,-5,-37,-60,-9,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-06,-18,-3,-30,-56,-21,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-07,-20,-7,-29,-55,-22,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-08,-20,-6,-30,-54,-21,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-09,-22,-7,-31,-53,-20,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-10,-20,-6,-36,-57,-21,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-11,-23,-9,-47,-65,-13,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-12,-18,-5,-34,-60,-10,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-13,-20,-4,-28,-58,-21,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-14,-21,-8,-25,-54,-19,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-15,-21,-7,-27,-54,-18,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-16,-21,-7,-27,-54,-19,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-17,-22,-8,-34,-59,-20,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-18,-25,-12,-46,-65,-13,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-19,-21,-9,-33,-60,-9,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-20,-23,-8,-28,-58,-20,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-21,-24,-11,-24,-57,-21,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-22,-25,-11,-30,-57,-20,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-23,-26,-11,-35,-57,-18,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-24,-26,-10,-40,-61,-19,12
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-25,-27,-13,-51,-67,-12,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-26,-23,-9,-41,-62,-8,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-27,-23,-5,-37,-58,-19,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-28,-23,-8,-34,-57,-18,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-29,-22,-6,-34,-55,-18,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-09-30,-22,-3,-33,-54,-19,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-01,-22,-2,-37,-58,-19,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-02,-22,-4,-48,-64,-13,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-03,-19,-2,-37,-61,-10,7
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-04,-21,-2,-32,-58,-21,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-05,-22,-5,-29,-56,-21,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-06,-22,-5,-30,-54,-20,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-07,-23,-5,-30,-54,-19,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-08,-22,-4,-33,-57,-18,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-09,-23,-8,-42,-65,-12,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-10,-21,-6,-31,-62,-7,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-11,-23,-4,-28,-59,-18,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-12,-23,-6,-23,-56,-19,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-13,-23,-6,-25,-56,-19,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-14,-23,-5,-28,-55,-17,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-15,-22,-4,-34,-57,-18,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-16,-24,-5,-42,-64,-12,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-17,-21,-6,-33,-61,-8,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-18,-21,-4,-30,-58,-20,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-19,-23,-8,-26,-55,-20,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-20,-24,-8,-26,-55,-20,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-21,-23,-6,-24,-55,-19,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-22,-21,-4,-24,-57,-18,11
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-23,-24,-8,-34,-64,-11,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-24,-21,-7,-27,-61,-6,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-25,-21,-4,-23,-58,-17,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-26,-21,-5,-19,-55,-18,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-27,-19,-2,-21,-54,-17,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-28,-13,5,-19,-53,-16,6
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-29,-17,3,-22,-68,-58,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-30,-21,-8,-33,-65,-13,7
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-10-31,-20,-6,-29,-61,-8,6
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-01,-19,-1,-25,-57,-19,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-02,-19,-3,-24,-55,-19,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-03,-20,-3,-24,-56,-19,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-04,-20,-3,-26,-54,-18,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-05,-20,-3,-29,-57,-18,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-06,-21,-5,-35,-65,-12,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-07,-19,-6,-30,-63,-8,7
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-08,-20,-3,-28,-58,-18,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-09,-21,-6,-26,-57,-19,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-10,-21,-6,-27,-54,-18,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-11,-20,-4,-26,-55,-18,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-12,-19,-2,-27,-56,-18,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-13,-19,-2,-33,-64,-11,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-14,-18,-4,-27,-61,-8,7
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-15,-20,-3,-26,-57,-19,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-16,-22,-7,-22,-56,-19,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-17,-22,-7,-22,-55,-18,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-18,-22,-6,-24,-55,-17,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-19,-20,-5,-28,-58,-18,10
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-20,-22,-7,-30,-66,-11,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-21,-20,-7,-27,-62,-7,7
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-22,-22,-6,-26,-59,-18,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-23,-23,-9,-22,-57,-19,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-24,-22,-8,-22,-56,-18,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-25,-21,-6,-25,-55,-17,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-26,-19,-3,-28,-56,-17,9
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-27,-18,-4,-30,-63,-9,7
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-28,-15,-3,-28,-61,-6,6
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-29,-15,0,-26,-57,-18,8
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-11-30,-10,5,-16,-54,-18,6
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-12-01,-6,14,6,-63,-56,15
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-12-02,-6,14,43,-63,-61,17
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-12-03,-17,0,-4,-66,-58,20
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-12-04,-23,-9,-25,-63,-10,7
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-12-05,-19,-8,-28,-60,-6,6
+AE,United Arab Emirates,Abu Dhabi,,,AE-AZ,,2020-12-06,-19,-3,-25,-57,-18,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-15,1,3,-1,24,3,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-16,0,2,1,21,2,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-17,-1,-1,3,20,3,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-18,-2,1,7,17,2,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-19,-2,-1,5,11,2,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-20,-1,0,7,9,2,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-21,0,1,10,25,-2,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-22,-1,1,3,17,4,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-23,-1,0,4,25,3,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-24,-3,-1,2,11,4,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-25,-1,0,7,10,3,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-26,-1,-2,-6,9,2,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-27,2,2,-6,2,3,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-28,4,3,9,18,-1,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-02-29,4,6,-6,18,4,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-01,4,7,1,20,3,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-02,3,6,-1,16,4,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-03,3,5,1,19,3,1
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-04,2,4,-1,17,2,2
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-05,1,5,-5,7,2,2
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-06,1,6,-4,25,-1,3
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-07,3,5,4,24,4,2
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-08,4,4,20,21,-3,3
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-09,2,6,17,18,-2,3
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-10,2,8,19,22,-4,4
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-11,2,4,15,11,-4,4
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-12,-2,6,7,6,-3,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-13,-6,5,-3,9,-2,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-14,-5,4,-4,5,2,3
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-15,-2,9,4,14,-3,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-16,-3,7,-1,1,-4,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-17,-8,5,-3,-1,-6,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-18,-11,2,-5,-8,-8,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-19,-16,-2,-16,-15,-8,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-20,-26,-7,-37,-18,-10,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-21,-23,-11,-32,-18,-5,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-22,-27,-13,-40,-16,-13,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-23,-17,13,-46,-18,-15,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-24,-31,-5,-45,-23,-22,14
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-25,-40,-17,-52,-34,-28,17
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-26,-45,-17,-67,-45,-33,22
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-27,-74,-60,-84,-66,-50,23
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-28,-64,-46,-70,-57,-54,27
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-29,-47,-26,-57,-40,-38,22
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-30,-49,-28,-59,-46,-38,22
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-03-31,-47,-25,-54,-44,-38,21
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-01,-46,-24,-57,-45,-39,21
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-02,-48,-25,-66,-50,-39,24
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-03,-60,-37,-81,-48,-39,20
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-04,-48,-25,-64,-45,-30,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-05,-45,-20,-58,-45,-46,26
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-06,-49,-26,-61,-50,-45,26
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-07,-49,-25,-74,-40,-46,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-08,-50,-27,-76,-47,-46,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-09,-50,-27,-81,-52,-46,28
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-10,-62,-42,-91,-56,-43,21
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-11,-49,-27,-81,-48,-37,21
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-12,-45,-25,-77,-43,-46,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-13,-46,-27,-78,-43,-45,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-14,-46,-26,-80,-45,-46,26
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-15,-48,-27,-82,-47,-47,26
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-16,-49,-26,-83,-50,-46,29
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-17,-60,-40,-91,-54,-40,21
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-18,-50,-28,-86,-18,-37,22
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-19,-45,-24,-80,-26,-45,26
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-20,-46,-23,-82,-28,-44,26
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-21,-46,-21,-81,-24,-45,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-22,-43,-18,-82,-22,-45,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-23,-43,-14,-85,-15,-45,27
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-24,-62,-34,-92,,-40,22
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-25,-53,-28,-83,-21,-37,24
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-26,-46,-22,-80,-22,-43,27
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-27,-47,-22,-80,-28,-42,27
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-28,-44,-19,-78,-21,-42,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-29,-44,-19,-77,-20,-41,27
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-04-30,-46,-21,-72,-19,-40,29
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-01,-54,-31,-85,,-35,20
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-02,-44,-21,-69,-14,-31,21
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-03,-41,-17,-63,-20,-39,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-04,-41,-17,-65,-21,-39,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-05,-42,-17,-64,-23,-40,24
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-06,-40,-14,-63,-24,-39,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-07,-43,-18,-71,-18,-38,27
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-08,-53,-29,-83,-15,-31,20
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-09,-43,-17,-68,-13,-27,21
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-10,-38,-13,-60,-9,-36,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-11,-40,-15,-62,-15,-37,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-12,-39,-12,-61,-11,-37,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-13,-39,-14,-61,-17,-38,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-14,-42,-16,-67,-19,-36,26
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-15,-50,-26,-81,-19,-28,19
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-16,-39,-15,-68,-17,-25,20
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-17,-35,-11,-57,-9,-36,24
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-18,-35,-12,-63,-15,-36,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-19,-36,-12,-59,-10,-37,24
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-20,-42,-18,-66,-17,-39,26
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-21,-42,-16,-69,-27,-38,28
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-22,-45,-18,-82,-16,-24,19
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-23,-35,-4,-70,-9,-44,25
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-24,-39,-26,-50,-19,-76,34
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-25,-35,-18,-50,-22,-72,31
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-26,-35,-19,-54,-17,-58,28
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-27,-37,-18,-59,-24,-32,21
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-28,-39,-20,-65,-30,-31,23
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-29,-46,-25,-74,-20,-23,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-30,-30,-11,-54,-11,-16,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-05-31,-25,-7,-42,-12,-26,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-01,-26,-7,-39,-15,-24,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-02,-26,-6,-32,-9,-25,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-03,-26,-7,-36,-14,-26,19
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-04,-29,-9,-44,-16,-24,20
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-05,-35,-17,-58,,-18,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-06,-27,-10,-44,-12,-14,15
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-07,-23,-7,-37,-9,-25,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-08,-25,-10,-37,-15,-22,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-09,-26,-12,-40,-15,-23,17
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-10,-25,-10,-40,-17,-24,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-11,-27,-11,-53,-17,-22,20
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-12,-35,-18,-68,-5,-16,15
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-13,-27,-11,-52,-8,-12,14
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-14,-22,-8,-42,-10,-22,17
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-15,-24,-10,-38,-19,-20,17
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-16,-24,-9,-32,-7,-21,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-17,-24,-10,-37,-18,-22,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-18,-28,-13,-48,-17,-21,18
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-19,-36,-19,-68,,-16,15
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-20,-28,-13,-50,-11,-11,13
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-21,-23,-10,-38,-14,-21,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-22,-24,-10,-31,-17,-20,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-23,-22,-9,-29,-11,-21,15
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-24,-24,-9,-33,-18,-20,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-25,-19,-7,-41,-13,-19,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-26,-27,-14,-56,,-12,13
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-27,-18,-7,-41,-7,-10,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-28,-15,-4,-34,-8,-18,14
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-29,-14,-4,-28,-24,-17,13
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-06-30,-13,0,-25,-51,-17,13
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-01,-12,-1,-22,-48,-18,13
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-02,-13,1,-38,-57,-18,14
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-03,-19,-6,-51,-61,-10,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-04,-13,-2,-37,-55,-8,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-05,-10,2,-26,-47,-18,12
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-06,-12,0,-21,-48,-17,12
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-07,-13,2,-23,-47,-17,12
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-08,-13,-1,-22,-48,-17,12
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-09,-14,-1,-37,-56,-17,14
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-10,-20,-7,-52,-59,-7,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-11,-14,-2,-34,-53,-8,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-12,-9,1,-23,-44,-18,12
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-13,-11,-1,-26,-51,-17,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-14,-12,-1,-19,-47,-18,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-15,-11,-2,-26,-52,-18,12
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-16,-13,-2,-38,-56,-16,13
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-17,-20,-8,-50,-57,-7,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-18,-15,-5,-37,-54,-8,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-19,-11,-1,-25,-45,-17,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-20,-12,-3,-28,-48,-17,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-21,-13,-3,-24,-49,-18,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-22,-14,-4,-25,-49,-18,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-23,-14,-3,-37,-57,-16,12
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-24,-19,-8,-48,-59,-6,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-25,-12,-2,-38,-53,-8,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-26,-8,2,-33,-46,-18,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-27,-6,2,-31,-49,-17,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-28,-4,7,-28,-45,-18,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-29,6,18,-33,-38,-18,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-30,4,28,-44,-4,-53,22
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-07-31,-20,-9,-44,,-17,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-01,-10,0,-4,-4,-56,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-02,0,8,-9,-6,-55,19
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-03,-12,-3,-25,-21,-18,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-04,-11,0,-23,-19,-18,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-05,-12,-2,-28,-22,-18,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-06,-14,-2,-41,-25,-18,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-07,-21,-11,-57,-18,-8,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-08,-13,-3,-37,-15,-9,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-09,-7,2,-23,-14,-17,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-10,-10,-1,-25,-22,-16,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-11,-11,-3,-26,-20,-18,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-12,-10,-3,-30,-23,-18,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-13,-11,-2,-36,-27,-18,11
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-14,-16,-9,-53,-7,-8,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-15,-13,-4,-37,-16,-10,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-16,-10,-1,-23,-11,-18,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-17,-12,-5,,,-18,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-18,-14,-4,,,-17,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-19,-13,-6,,,-18,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-20,-14,-7,,,-18,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-21,-20,-12,,,-10,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-22,-13,-7,,,-12,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-23,-1,3,,,-53,19
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-24,-16,-10,,,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-25,-14,-5,,,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-26,-14,-8,,,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-27,-13,-4,,,-15,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-28,-20,-9,,,-10,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-29,-16,-6,,,-9,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-30,-8,0,,,-18,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-08-31,-9,-3,,,-19,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-01,-12,-3,,,-18,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-02,-12,-6,,,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-03,-10,-2,,,-16,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-04,-14,-5,,,-11,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-05,-10,-2,,,-10,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-06,-6,0,,,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-07,-11,-2,,,-18,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-08,-10,0,,,-18,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-09,-12,-5,,,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-10,-10,-2,,,-16,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-11,-15,-7,-51,,-12,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-12,-12,-6,-35,-25,-9,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-13,-7,-4,-24,-27,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-14,-11,-5,-25,-26,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-15,-10,-4,-24,-21,-15,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-16,-13,-7,-28,-29,-16,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-17,-12,-5,-33,-25,-15,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-18,-17,-9,-47,,-11,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-19,-13,-8,-36,-22,-10,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-20,-10,-9,-25,-24,-16,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-21,-14,-9,-28,-31,-18,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-22,-15,-9,-25,-21,-17,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-23,-19,-14,-32,-22,-16,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-24,-17,-10,-37,-17,-15,10
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-25,-21,-12,-45,,-13,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-26,-17,-11,-38,-9,-9,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-27,-13,-8,-29,-19,-16,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-28,-16,-10,-33,-22,-17,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-29,-15,-7,-27,-19,-16,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-09-30,-15,-7,-27,-20,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-01,-13,-2,-31,-12,-15,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-02,-16,-4,-44,,-14,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-03,-13,-5,-35,-4,-11,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-04,-9,-4,-23,-4,-17,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-05,-13,-5,-27,-10,-19,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-06,-12,-2,-22,-7,-18,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-07,-15,-6,-26,-14,-15,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-08,-13,-3,-32,-5,-14,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-09,-16,-6,-43,,-12,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-10,-15,-8,-32,-4,-9,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-11,-11,-5,-22,-7,-15,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-12,-14,-4,-23,-9,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-13,-13,-2,-21,-4,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-14,-14,-7,-23,-3,-15,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-15,-12,-2,-26,2,-14,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-16,-16,-5,-34,,-14,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-17,-15,-7,-31,2,-10,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-18,-10,-6,-20,-7,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-19,-14,-6,-20,-2,-17,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-20,-13,-4,-14,-1,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-21,-14,-8,-16,-3,-15,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-22,-12,-2,-16,2,-13,9
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-23,-16,-5,-24,,-14,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-24,-14,-7,-20,8,-8,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-25,-8,-4,-12,0,-14,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-26,-11,-3,-10,-2,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-27,-8,1,-16,4,-15,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-28,-4,1,-9,6,-14,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-29,-1,8,4,7,-54,17
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-30,-15,-8,-25,,-14,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-10-31,-13,-9,-25,-5,-9,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-01,-7,-4,-14,0,-15,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-02,-10,-4,-19,-8,-17,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-03,-8,0,-14,1,-15,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-04,-11,-6,-17,-9,-15,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-05,-11,-2,-19,4,-14,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-06,-14,-4,-25,,-13,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-07,-12,-7,-23,3,-8,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-08,-9,-7,-13,-4,-15,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-09,-12,-4,-20,-6,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-10,-11,-3,-12,-9,-15,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-11,-12,-5,-16,-9,-14,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-12,-10,-1,-15,-6,-13,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-13,-12,-1,-23,,-11,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-14,-11,-5,-21,-1,-10,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-15,-8,-4,-5,-6,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-16,-12,-6,-14,-10,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-17,-11,-3,-11,-10,-15,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-18,-13,-7,-14,-17,-14,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-19,-12,-2,-21,-35,-13,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-20,-16,-6,-28,,-10,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-21,-14,-9,-27,-28,-8,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-22,-9,-7,-20,-23,-15,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-23,-13,-9,-24,-28,-17,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-24,-12,-6,-19,-22,-16,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-25,-13,-9,-25,-28,-14,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-26,-11,-3,-23,-34,-13,8
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-27,-12,-5,-27,,-10,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-28,-11,-7,-28,-28,-8,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-29,-4,-3,-22,-20,-14,7
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-11-30,-2,2,-16,-20,-16,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-12-01,14,19,28,-12,-51,12
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-12-02,9,14,45,-11,-63,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-12-03,-2,4,9,-31,-54,16
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-12-04,-16,-8,-25,,-11,5
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-12-05,-12,-9,-28,-30,-7,6
+AE,United Arab Emirates,Ajman,,,AE-AJ,,2020-12-06,-5,-4,-21,-19,-14,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-15,-1,3,5,0,3,0
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-16,1,4,6,1,1,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-17,0,1,7,0,1,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-18,-1,1,8,0,1,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-19,-1,0,6,-1,1,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-20,0,1,8,1,0,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-21,-4,4,5,1,-1,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-22,-4,3,3,-2,4,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-23,-2,4,4,-1,4,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-24,-3,1,5,-1,4,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-25,-3,2,3,-3,4,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-26,-2,2,-3,-2,3,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-27,1,5,-1,-2,3,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-28,0,6,-3,-1,2,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-02-29,0,8,-3,-2,5,0
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-01,1,10,0,-1,5,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-02,-1,8,0,-3,5,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-03,-2,7,-1,-5,4,1
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-04,-3,8,-3,-6,4,2
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-05,-4,7,-2,-6,4,2
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-06,-10,5,-10,-10,0,3
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-07,-5,7,0,-8,4,2
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-08,-1,7,3,-10,1,3
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-09,-4,5,1,-11,0,4
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-10,-6,6,0,-12,-1,4
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-11,-6,6,-3,-13,-1,4
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-12,-10,6,-8,-16,-1,5
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-13,-22,2,-19,-21,-2,5
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-14,-16,4,-16,-18,1,4
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-15,-10,13,-15,-16,-3,5
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-16,-14,12,-19,-18,-7,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-17,-20,7,-23,-23,-10,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-18,-23,3,-26,-27,-12,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-19,-29,0,-30,-32,-14,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-20,-46,-12,-51,-45,-16,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-21,-40,-15,-45,-43,-10,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-22,-36,-14,-42,-45,-20,15
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-23,-34,16,-43,-48,-24,16
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-24,-48,-7,-49,-54,-33,20
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-25,-58,-20,-53,-62,-41,25
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-26,-63,-13,-59,-68,-47,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-27,-85,-63,-84,-85,-59,27
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-28,-80,-51,-74,-82,-63,32
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-29,-64,-28,-58,-71,-52,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-30,-65,-29,-59,-71,-52,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-03-31,-65,-28,-59,-71,-53,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-01,-65,-27,-59,-72,-53,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-02,-67,-29,-61,-73,-54,34
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-03,-78,-41,-79,-80,-52,24
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-04,-69,-31,-64,-73,-45,24
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-05,-78,-45,-70,-82,-70,40
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-06,-78,-44,-69,-81,-68,39
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-07,-77,-41,-77,-80,-66,38
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-08,-76,-41,-77,-81,-65,38
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-09,-77,-41,-78,-81,-65,40
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-10,-85,-55,-89,-86,-59,27
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-11,-78,-44,-81,-81,-56,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-12,-75,-39,-77,-81,-65,37
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-13,-76,-40,-76,-81,-65,37
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-14,-76,-41,-77,-81,-65,37
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-15,-76,-43,-78,-81,-65,38
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-16,-76,-42,-78,-81,-64,41
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-17,-84,-56,-88,-85,-58,27
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-18,-80,-50,-82,-81,-55,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-19,-76,-46,-78,-81,-63,37
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-20,-77,-47,-78,-80,-64,37
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-21,-77,-46,-79,-80,-64,37
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-22,-76,-44,-79,-80,-64,37
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-23,-76,-40,-80,-79,-64,40
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-24,-79,-44,-88,-81,-54,26
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-25,-70,-35,-80,-75,-47,28
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-26,-62,-28,-75,-70,-53,33
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-27,-63,-29,-75,-69,-52,33
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-28,-61,-27,-74,-67,-51,32
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-29,-61,-26,-74,-67,-50,33
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-04-30,-62,-26,-73,-66,-50,35
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-01,-71,-38,-85,-73,-46,23
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-02,-62,-29,-76,-65,-38,24
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-03,-57,-25,-71,-65,-48,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-04,-58,-25,-71,-65,-48,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-05,-58,-25,-71,-64,-48,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-06,-57,-21,-70,-62,-47,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-07,-59,-23,-71,-62,-47,33
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-08,-70,-36,-83,-72,-43,23
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-09,-59,-27,-73,-62,-34,23
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-10,-54,-20,-69,-60,-44,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-11,-56,-22,-69,-61,-45,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-12,-56,-21,-69,-61,-45,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-13,-56,-22,-69,-61,-46,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-14,-58,-20,-70,-61,-46,32
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-15,-68,-33,-82,-69,-40,22
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-16,-58,-23,-71,-60,-32,23
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-17,-53,-17,-68,-60,-44,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-18,-54,-19,-68,-59,-44,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-19,-55,-20,-68,-60,-45,30
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-20,-58,-24,-70,-61,-46,31
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-21,-58,-20,-71,-60,-45,33
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-22,-67,-29,-83,-69,-37,22
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-23,-60,-20,-76,-65,-48,27
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-24,-62,-31,-72,-72,-79,40
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-25,-57,-23,-70,-69,-75,38
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-26,-56,-23,-70,-66,-65,35
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-27,-47,-14,-65,-54,-39,25
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-28,-48,-15,-65,-55,-39,27
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-29,-59,-27,-73,-63,-33,19
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-30,-47,-18,-63,-54,-22,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-05-31,-41,-10,-61,-51,-33,22
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-01,-41,-10,-59,-50,-33,22
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-02,-43,-11,-60,-51,-34,23
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-03,-42,-11,-60,-50,-34,23
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-04,-44,-12,-61,-51,-33,24
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-05,-55,-22,-68,-60,-30,18
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-06,-45,-14,-61,-52,-20,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-07,-39,-9,-58,-50,-31,21
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-08,-41,-11,-58,-49,-30,21
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-09,-43,-13,-59,-51,-30,21
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-10,-42,-12,-59,-51,-31,22
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-11,-43,-11,-56,-51,-30,23
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-12,-53,-22,-65,-60,-26,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-13,-44,-15,-57,-52,-18,16
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-14,-38,-10,-54,-50,-29,20
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-15,-40,-12,-54,-49,-28,20
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-16,-41,-11,-54,-49,-28,20
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-17,-41,-11,-54,-49,-28,20
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-18,-42,-11,-56,-50,-28,21
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-19,-50,-20,-64,-58,-25,16
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-20,-42,-14,-58,-51,-17,14
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-21,-37,-10,-53,-49,-28,19
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-22,-38,-10,-51,-47,-28,19
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-23,-38,-10,-52,-47,-28,19
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-24,-38,-11,-53,-47,-27,19
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-25,-37,-8,-53,-47,-27,20
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-26,-45,-18,-62,-54,-22,15
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-27,-37,-11,-55,-48,-16,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-28,-32,-7,-52,-47,-25,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-29,-33,-7,-51,-46,-25,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-06-30,-33,-6,-49,-46,-25,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-01,-33,-6,-50,-46,-26,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-02,-33,-5,-50,-45,-26,18
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-03,-42,-14,-58,-51,-21,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-04,-35,-9,-54,-47,-15,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-05,-30,-4,-48,-45,-25,15
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-06,-32,-6,-49,-45,-25,16
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-07,-32,-5,-48,-44,-25,16
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-08,-33,-8,-50,-45,-25,16
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-09,-32,-5,-50,-44,-25,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-10,-41,-14,-58,-51,-20,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-11,-34,-9,-53,-47,-14,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-12,-29,-5,-48,-43,-24,15
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-13,-31,-7,-49,-43,-24,15
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-14,-32,-7,-49,-44,-25,15
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-15,-31,-6,-49,-44,-25,15
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-16,-32,-5,-49,-43,-24,16
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-17,-40,-13,-58,-51,-19,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-18,-33,-9,-53,-46,-13,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-19,-28,-4,-47,-43,-24,14
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-20,-30,-7,-48,-43,-24,14
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-21,-32,-8,-49,-44,-25,14
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-22,-31,-8,-49,-43,-23,14
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-23,-31,-6,-48,-43,-23,15
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-24,-39,-14,-57,-50,-17,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-25,-31,-8,-51,-44,-13,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-26,-26,-3,-46,-41,-23,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-27,-26,-3,-47,-41,-24,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-28,-26,-1,-47,-41,-24,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-29,-19,9,-45,-37,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-30,-29,13,-50,-50,-60,27
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-07-31,-36,-14,-49,-45,-27,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-01,-27,-6,-36,-47,-55,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-02,-20,5,-40,-52,-61,24
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-03,-27,-4,-48,-42,-24,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-04,-27,-3,-49,-41,-24,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-05,-27,-4,-49,-40,-24,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-06,-28,-4,-50,-41,-24,14
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-07,-38,-15,-61,-50,-18,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-08,-30,-7,-52,-43,-14,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-09,-24,-2,-45,-40,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-10,-26,-4,-46,-39,-23,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-11,-28,-5,-48,-42,-24,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-12,-27,-5,-48,-42,-24,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-13,-27,-3,-48,-41,-24,13
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-14,-35,-12,-57,-47,-18,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-15,-29,-7,-50,-42,-14,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-16,-24,-3,-46,-41,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-17,-26,-5,-46,-40,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-18,-28,-6,-48,-41,-23,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-19,-27,-6,-48,-41,-23,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-20,-29,-7,-50,-42,-24,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-21,-38,-15,-61,-48,-18,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-22,-29,-8,-49,-43,-17,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-23,-25,1,-44,-52,-61,25
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-24,-29,-8,-47,-41,-22,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-25,-29,-6,-47,-40,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-26,-28,-5,-47,-40,-22,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-27,-26,-3,-47,-39,-22,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-28,-36,-11,-59,-45,-16,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-29,-29,-5,-52,-41,-13,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-30,-24,1,-44,-39,-23,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-08-31,-25,-3,-46,-40,-24,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-01,-27,-2,-46,-38,-23,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-02,-27,-3,-47,-40,-23,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-03,-26,-1,-45,-40,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-04,-33,-8,-55,-44,-18,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-05,-26,-2,-49,-40,-15,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-06,-23,1,-41,-38,-23,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-07,-25,-2,-43,-38,-23,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-08,-27,-2,-44,-38,-24,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-09,-27,-4,-45,-40,-23,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-10,-25,-1,-43,-38,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-11,-34,-8,-52,-44,-19,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-12,-28,-3,-46,-40,-15,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-13,-24,1,-38,-37,-22,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-14,-26,-3,-40,-39,-21,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-15,-27,-2,-41,-38,-21,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-16,-27,-3,-42,-39,-22,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-17,-26,-4,-44,-41,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-18,-34,-10,-52,-46,-19,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-19,-29,-6,-48,-42,-15,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-20,-25,-3,-42,-39,-21,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-21,-28,-5,-44,-40,-23,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-22,-30,-7,-48,-40,-22,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-23,-31,-8,-49,-42,-21,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-24,-30,-6,-48,-42,-22,12
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-25,-36,-12,-53,-46,-18,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-26,-31,-7,-50,-41,-14,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-27,-27,-2,-46,-38,-21,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-28,-29,-6,-48,-39,-21,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-29,-29,-4,-48,-39,-21,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-09-30,-27,-2,-46,-37,-22,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-01,-26,1,-43,-38,-22,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-02,-32,-5,-47,-39,-18,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-03,-28,-1,-46,-37,-16,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-04,-25,1,-39,-34,-22,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-05,-27,-3,-41,-36,-22,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-06,-28,-3,-43,-36,-23,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-07,-28,-3,-43,-37,-21,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-08,-27,0,-41,-36,-22,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-09,-32,-7,-45,-41,-18,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-10,-29,-5,-44,-38,-14,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-11,-26,0,-38,-35,-20,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-12,-28,-3,-39,-36,-21,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-13,-28,-3,-40,-36,-21,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-14,-27,-3,-41,-36,-21,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-15,-25,0,-39,-35,-21,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-16,-32,-5,-39,-38,-18,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-17,-28,-3,-41,-36,-15,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-18,-24,0,-37,-34,-22,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-19,-26,-3,-38,-35,-22,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-20,-27,-5,-38,-36,-23,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-21,-26,-3,-36,-35,-22,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-22,-24,1,-30,-34,-22,11
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-23,-31,-5,-31,-39,-17,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-24,-27,-3,-35,-36,-13,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-25,-22,2,-30,-33,-20,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-26,-23,0,-32,-33,-20,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-27,-23,1,-33,-33,-21,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-28,-17,7,-28,-30,-20,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-29,-18,8,-10,-45,-60,22
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-30,-29,-6,-28,-38,-18,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-10-31,-26,-4,-34,-38,-14,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-01,-21,4,-31,-34,-20,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-02,-23,1,-33,-34,-20,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-03,-23,1,-32,-34,-21,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-04,-23,0,-34,-34,-20,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-05,-22,1,-32,-34,-21,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-06,-27,-3,-30,-37,-17,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-07,-24,-2,-34,-36,-14,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-08,-21,0,-32,-34,-20,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-09,-23,-1,-33,-34,-20,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-10,-23,-2,-34,-34,-21,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-11,-22,1,-34,-34,-20,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-12,-21,3,-31,-33,-21,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-13,-25,1,-28,-36,-15,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-14,-23,0,-33,-35,-16,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-15,-20,2,-29,-33,-21,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-16,-23,-2,-31,-34,-21,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-17,-24,-3,-33,-34,-21,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-18,-23,-2,-34,-35,-20,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-19,-22,-1,-33,-35,-21,10
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-20,-27,-5,-33,-37,-16,7
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-21,-24,-4,-37,-36,-13,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-22,-21,-1,-32,-33,-19,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-23,-23,-4,-35,-34,-20,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-24,-24,-3,-35,-35,-20,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-25,-22,-2,-36,-34,-19,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-26,-19,2,-33,-32,-20,9
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-27,-23,-1,-33,-32,-13,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-28,-20,0,-37,-32,-12,5
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-29,-16,4,-31,-30,-19,8
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-11-30,-12,8,-27,-28,-20,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-12-01,-6,18,2,-36,-57,17
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-12-02,-5,17,18,-37,-65,20
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-12-03,-17,6,-1,-41,-60,21
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-12-04,-28,-7,-27,-35,-15,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-12-05,-24,-3,-34,-34,-12,6
+AE,United Arab Emirates,Dubai,,,AE-DU,,2020-12-06,-18,3,-30,-30,-19,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-15,-3,-1,3,,6,0
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-16,-5,-2,0,,4,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-17,-7,-2,-4,,2,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-18,-5,2,-9,,2,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-19,-8,-2,9,,3,0
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-20,-8,-2,9,,1,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-21,-8,-7,-8,,3,2
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-22,-5,-4,12,,5,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-23,-5,-5,12,,3,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-24,-8,-2,0,,3,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-25,-6,1,4,,3,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-26,-8,-1,9,,3,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-27,-6,1,-10,,2,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-28,-2,-6,-7,,4,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-02-29,0,0,3,,7,0
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-01,0,7,8,,5,0
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-02,-1,9,3,,5,0
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-03,-4,6,-4,,4,1
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-04,-3,1,7,,3,2
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-05,-5,3,1,,5,2
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-06,-5,-3,-6,,5,3
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-07,-2,0,8,,8,2
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-08,-1,5,10,,-2,2
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-09,-4,4,8,,-2,2
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-10,-5,7,5,,-3,4
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-11,-2,3,14,,-4,3
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-12,-7,1,4,,-4,5
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-13,-9,-5,-2,,4,5
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-14,-8,-2,9,,5,3
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-15,-7,2,1,,-3,4
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-16,-11,1,-3,,-6,5
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-17,-14,1,-11,,-6,6
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-18,-17,-4,-7,,-7,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-19,-23,-8,-15,,-7,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-20,-30,-19,-34,,-3,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-21,-25,-15,-14,,-1,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-22,-29,-17,-17,,-11,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-23,-20,4,-26,,-12,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-24,-31,-8,-30,,-16,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-25,-40,-21,-27,,-21,14
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-26,-46,-25,-42,,-24,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-27,-70,-57,-69,,-39,
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-28,-58,-43,-41,,-36,21
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-29,-45,-27,-28,,-28,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-30,-48,-26,-30,,-29,16
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-03-31,-44,-24,-26,,-29,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-01,-43,-24,-28,,-30,16
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-02,-47,-26,-40,,-30,20
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-03,-57,-40,-64,,-30,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-04,-44,-27,-36,,-19,15
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-05,-39,-21,-29,,-29,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-06,-43,-21,-32,,-31,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-07,-43,-20,-41,,-32,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-08,-44,-22,-38,,-32,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-09,-48,-28,-48,,-34,22
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-10,-57,-40,-69,,-31,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-11,-43,-26,-45,,-22,16
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-12,-41,-22,-36,,-31,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-13,-42,-20,-40,,-30,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-14,-42,-20,-41,,-31,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-15,-41,-23,-35,,-31,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-16,-46,-22,-43,,-30,21
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-17,-54,-36,-64,,-26,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-18,-44,-30,-46,-35,-19,15
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-19,-41,-25,-34,-37,-30,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-20,-42,-24,-39,-40,-31,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-21,-42,-23,-39,-34,-31,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-22,-39,-20,-37,-37,-31,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-23,-42,-20,-48,-36,-30,20
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-24,-57,-39,-72,,-30,20
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-25,-48,-29,-51,-41,-22,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-26,-45,-27,-40,-44,-31,21
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-27,-46,-22,-46,-42,-32,21
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-28,-44,-19,-45,-38,-31,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-29,-42,-19,-45,-38,-32,21
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-04-30,-49,-23,-50,-37,-31,23
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-01,-54,-35,-68,,-20,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-02,-44,-23,-45,-31,-19,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-03,-40,-17,-43,-36,-29,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-04,-43,-18,-42,-33,-30,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-05,-43,-16,-44,-39,-29,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-06,-41,-14,-44,-34,-29,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-07,-43,-20,-50,-35,-28,23
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-08,-52,-35,-67,-54,-19,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-09,-41,-23,-42,-41,-17,16
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-10,-39,-20,-40,-28,-28,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-11,-42,-20,-44,,-28,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-12,-42,-17,-47,-34,-28,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-13,-42,-21,-47,-44,-29,20
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-14,-45,-24,-51,-39,-29,22
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-15,-53,-35,-65,-50,-17,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-16,-41,-21,-47,-45,-17,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-17,-38,-17,-42,-33,-28,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-18,-40,-17,-47,,-28,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-19,-38,-16,-45,-30,-28,19
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-20,-46,-26,-47,-48,-31,21
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-21,-47,-26,-55,-36,-31,24
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-22,-49,-31,-69,-59,-20,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-23,-41,-19,-52,-46,-34,20
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-24,-49,-33,-11,-34,-61,26
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-25,-39,-17,-10,,-58,24
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-26,-40,-19,-28,-24,-48,21
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-27,-38,-20,-40,-36,-26,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-28,-42,-25,-43,-30,-26,20
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-29,-48,-33,-55,-40,-18,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-30,-33,-18,-38,-30,-9,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-05-31,-26,-11,-32,-27,-20,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-01,-29,-9,-34,,-20,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-02,-30,-8,-37,-26,-23,14
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-03,-31,-13,-35,-30,-24,15
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-04,-36,-21,-41,-27,-21,17
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-05,-43,-28,-60,-30,-14,15
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-06,-32,-18,-43,,-10,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-07,-28,-11,-35,-21,-22,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-08,-31,-10,-39,,-22,14
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-09,-31,-10,-38,-20,-22,14
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-10,-31,-13,-36,-22,-23,15
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-11,-36,-18,-43,-26,-23,18
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-12,-44,-29,-57,-35,-12,14
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-13,-31,-17,-43,,-8,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-14,-27,-12,-34,-19,-20,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-15,-29,-11,-42,,-20,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-16,-30,-9,-36,-30,-21,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-17,-30,-11,-40,-25,-22,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-18,-35,-20,-44,-25,-22,15
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-19,-43,-30,-56,-36,-14,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-20,-32,-21,-39,-36,-9,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-21,-28,-16,-36,-22,-22,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-22,-31,-13,-39,,-21,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-23,-30,-9,-36,-28,-21,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-24,-32,-14,-34,-34,-21,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-25,-30,-15,-41,-24,-20,14
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-26,-34,-22,-50,-22,-10,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-27,-27,-14,-37,,-10,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-28,-21,-6,-31,-16,-19,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-29,-20,-4,-40,,-18,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-06-30,-17,1,-33,-37,-17,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-01,-19,-3,-26,-45,-17,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-02,-22,-8,-32,-32,-18,14
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-03,-28,-16,-46,-58,-8,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-04,-21,-10,-31,-54,-6,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-05,-18,-3,-23,-30,-17,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-06,-19,0,-30,,-18,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-07,-21,1,-29,-30,-18,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-08,-22,-5,-28,-45,-17,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-09,-24,-10,-34,-31,-17,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-10,-29,-20,-47,-66,-6,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-11,-22,-10,-31,-50,-7,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-12,-18,-5,-25,-41,-16,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-13,-19,-4,-26,,-17,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-14,-21,-5,-30,-46,-18,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-15,-20,-7,-21,-42,-17,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-16,-22,-11,-33,-38,-15,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-17,-28,-19,-47,-64,-8,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-18,-22,-13,-23,-55,-4,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-19,-18,-6,-18,-43,-15,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-20,-21,-7,-20,-39,-16,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-21,-20,-5,-28,-43,-18,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-22,-19,-7,-25,-45,-17,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-23,-22,-11,-31,-35,-15,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-24,-27,-21,-42,-65,-6,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-25,-22,-12,-29,-52,-5,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-26,-15,-6,-22,-36,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-27,-12,-2,-29,,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-28,-9,6,-33,-31,-15,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-29,0,15,-18,-31,-17,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-30,-10,9,-33,-28,-45,21
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-07-31,-18,-9,-15,-8,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-01,-5,6,40,,-41,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-02,-6,4,2,-15,-45,15
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-03,-16,1,-28,,-16,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-04,-14,-1,-28,-16,-18,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-05,-16,-4,-20,-27,-16,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-06,-20,-10,-28,-14,-16,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-07,-27,-21,-48,-19,-5,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-08,-21,-11,-22,,-4,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-09,-12,-3,-19,-13,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-10,-16,0,-20,,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-11,-18,-2,-27,-17,-16,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-12,-16,-6,-24,,-16,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-13,-20,-9,-30,,-16,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-14,-26,-18,-48,-24,-8,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-15,-18,-11,-25,,-6,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-16,-15,-6,-17,-14,-16,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-17,,,,,-15,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-18,,,,,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-19,,,,,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-20,,,,,-16,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-21,,,,,,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-22,,,,,-10,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-23,,,,,-42,16
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-24,,,,,-14,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-25,,,,,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-26,,,,,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-27,,,,,-14,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-28,,,,,,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-29,,,,,-7,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-30,,,,,-15,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-08-31,,,,,-16,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-01,,,,,-14,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-02,,,,,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-03,,,,,-15,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-04,,,,,,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-05,,,,,-8,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-06,,,,,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-07,,,,,-15,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-08,,,,,-16,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-09,,,,,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-10,,,,,-14,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-11,-19,-13,-39,-3,-10,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-12,-15,-7,-24,,-6,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-13,-13,-4,-19,,-15,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-14,-14,-4,-18,,-12,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-15,-14,-1,-22,,-12,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-16,-15,-5,-17,-8,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-17,-18,-10,-23,,-13,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-18,-21,-15,-34,5,-11,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-19,-17,-12,-18,,-8,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-20,-14,-8,-14,-7,-13,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-21,-17,-8,-25,,-14,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-22,-20,-8,-26,-15,-14,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-23,-20,-12,-25,-20,-15,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-24,-21,-12,-30,,-13,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-25,-26,-20,-38,-8,-10,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-26,-20,-11,-29,,-7,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-27,-15,-7,-19,,-13,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-28,-17,-6,-32,,-12,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-29,-16,-2,-28,,-14,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-09-30,-15,-3,-24,-3,-15,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-01,-16,-3,-27,,-14,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-02,-19,-11,-34,,-14,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-03,-14,-4,-24,,-10,5
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-04,-12,-1,-18,,-17,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-05,-14,-4,-27,,-19,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-06,-14,-3,-29,,-17,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-07,-16,-6,-25,-12,-16,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-08,-16,-8,-28,,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-09,-21,-15,-33,,-10,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-10,-18,-9,-26,,-7,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-11,-15,-5,-22,,-15,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-12,-17,-5,-28,,-14,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-13,-16,-3,-31,,-16,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-14,-17,-5,-27,-14,-15,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-15,-18,-8,-26,,-13,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-16,-21,-13,-29,,-10,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-17,-17,-9,-28,,-6,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-18,-13,-5,-23,,-14,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-19,-18,-7,-29,,-14,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-20,-19,-7,-28,,-15,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-21,-17,-6,-18,-7,-13,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-22,-16,-8,-13,,-11,12
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-23,-19,-13,-15,,-5,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-24,-18,-7,-17,,-5,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-25,-12,-4,-12,,-12,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-26,-15,-2,-22,,-13,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-27,-12,4,-22,,-14,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-28,-7,8,-11,-7,-13,6
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-29,-5,13,75,,-44,16
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-30,-15,-6,15,,-9,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-10-31,-17,-6,-16,,-6,6
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-01,-14,-2,-19,,-15,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-02,-15,-1,-30,,-14,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-03,-16,0,-29,,-14,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-04,-16,-1,-26,-8,-13,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-05,-17,-5,-26,,-14,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-06,-23,-13,-23,,-12,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-07,-18,-9,-28,,-6,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-08,-16,-7,-21,,-13,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-09,-19,-2,-28,,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-10,-19,-1,-30,,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-11,-15,-2,-31,-14,-12,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-12,-18,-4,-20,,-12,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-13,-20,-10,-16,,-10,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-14,-16,-6,-19,,-7,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-15,-14,-3,-15,,-13,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-16,-18,-3,-26,,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-17,-20,-4,-30,,-14,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-18,-18,-5,-27,-7,-12,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-19,-18,-6,-28,,-13,10
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-20,-21,-15,-16,,-12,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-21,-19,-13,-32,,-6,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-22,-17,-9,-28,,-12,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-23,-20,-8,-35,,-12,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-24,-18,-4,-35,,-13,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-25,-18,-5,-30,-16,-11,8
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-26,-15,-5,-31,,-11,9
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-27,-18,-10,-30,10,-5,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-28,-13,-4,-21,,-4,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-29,-6,2,-18,,-10,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-11-30,-3,13,-18,,-10,6
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-12-01,10,33,39,,-39,11
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-12-02,15,37,107,,-49,13
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-12-03,-2,11,48,,-43,16
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-12-04,-18,-8,-14,,-7,7
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-12-05,-16,-6,-26,,-2,6
+AE,United Arab Emirates,Fujairah,,,AE-FU,,2020-12-06,-11,0,-18,-8,-10,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-15,2,2,15,-6,2,0
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-16,0,2,0,-2,1,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-17,-3,-2,-1,2,2,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-18,-3,-2,5,-2,2,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-19,0,-3,0,-8,2,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-20,-2,-3,3,-7,1,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-21,-2,-1,18,-4,1,2
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-22,-1,0,11,-8,2,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-23,-2,-2,3,-10,3,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-24,-3,-4,-2,0,3,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-25,-4,-1,4,-8,2,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-26,-1,0,-1,-8,2,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-27,2,1,8,-7,1,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-28,2,4,26,-8,1,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-02-29,3,9,8,-8,3,0
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-01,5,6,-1,2,4,0
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-02,2,3,1,-4,3,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-03,1,3,2,-2,3,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-04,2,5,-1,2,2,2
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-05,1,5,-1,3,3,3
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-06,-3,5,10,2,2,3
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-07,2,4,7,-4,4,1
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-08,4,5,6,-7,-4,3
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-09,2,3,8,0,-5,3
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-10,2,3,8,-2,-6,4
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-11,3,6,5,-2,-6,4
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-12,-2,3,7,-7,-6,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-13,-7,4,13,-4,0,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-14,-4,7,12,-10,2,3
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-15,0,6,9,-13,-6,4
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-16,-6,3,6,-4,-7,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-17,-11,0,10,-12,-8,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-18,-11,-2,0,-14,-8,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-19,-17,-6,-5,-22,-10,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-20,-27,-10,-20,-32,-7,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-21,-19,-7,-13,-32,-4,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-22,-30,-22,-15,-45,-15,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-23,-17,7,-17,-28,-17,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-24,-27,-6,-21,-38,-20,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-25,-35,-14,-24,-50,-23,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-26,-44,-20,-34,-55,-28,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-27,-73,-56,-67,-86,-40,22
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-28,-60,-40,-44,-64,-42,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-29,-45,-26,-28,-67,-31,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-30,-46,-26,-29,-66,-33,17
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-03-31,-44,-23,-25,-62,-32,17
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-01,-42,-21,-31,-56,-33,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-02,-46,-24,-34,-71,-33,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-03,-56,-34,-58,-76,-32,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-04,-43,-22,-32,-62,-23,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-05,-38,-18,-23,-67,-33,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-06,-42,-19,-22,-57,-35,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-07,-45,-19,-40,-62,-34,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-08,-44,-18,-46,-60,-34,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-09,-48,-24,-46,-60,-36,22
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-10,-59,-33,-67,-74,-33,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-11,-45,-20,-47,-60,-26,16
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-12,-41,-17,-41,-60,-35,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-13,-43,-20,-37,-47,-34,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-14,-44,-20,-34,-56,-34,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-15,-44,-22,-42,-50,-34,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-16,-47,-24,-49,-59,-34,22
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-17,-57,-31,-68,-74,-30,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-18,-46,-25,-52,-58,-24,16
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-19,-42,-22,-43,-58,-32,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-20,-44,-24,-41,-52,-33,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-21,-43,-22,-42,-58,-33,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-22,-41,-20,-43,-56,-34,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-23,-43,-21,-48,-58,-34,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-24,-60,-34,-70,-74,-33,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-25,-49,-28,-54,-60,-26,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-26,-45,-24,-47,-65,-34,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-27,-44,-23,-46,-60,-34,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-28,-44,-22,-43,-60,-33,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-29,-42,-19,-47,-57,-34,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-04-30,-46,-26,-50,-59,-34,24
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-01,-55,-33,-70,-73,-30,20
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-02,-44,-22,-51,-55,-25,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-03,-40,-20,-47,-62,-32,20
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-04,-43,-22,-43,-51,-33,20
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-05,-43,-21,-49,-56,-32,20
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-06,-38,-15,-47,-56,-33,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-07,-43,-22,-52,-62,-32,24
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-08,-53,-31,-67,-71,-29,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-09,-43,-20,-47,-61,-21,17
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-10,-39,-15,-46,-61,-30,20
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-11,-42,-17,-45,-55,-31,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-12,-42,-17,-43,-58,-31,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-13,-43,-18,-45,-58,-32,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-14,-45,-20,-45,-66,-31,23
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-15,-53,-29,-62,-69,-25,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-16,-42,-17,-44,-60,-20,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-17,-40,-13,-42,-59,-30,20
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-18,-40,-15,-38,-53,-31,20
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-19,-40,-15,-38,-57,-31,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-20,-45,-19,-44,-60,-34,23
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-21,-44,-20,-48,-62,-33,25
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-22,-50,-22,-65,-64,-25,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-23,-40,-9,-48,-63,-39,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-24,-45,-25,-32,-77,-67,28
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-25,-39,-16,-32,-67,-64,26
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-26,-40,-17,-35,-65,-53,23
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-27,-39,-16,-38,-52,-29,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-28,-41,-20,-41,-59,-29,21
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-29,-49,-26,-59,-70,-21,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-30,-32,-9,-37,-50,-13,13
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-05-31,-26,-4,-33,-48,-23,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-01,-27,-4,-34,-34,-23,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-02,-29,-7,-31,-39,-23,16
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-03,-27,-6,-31,-33,-24,17
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-04,-32,-12,-40,-52,-22,19
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-05,-41,-19,-53,-52,-17,16
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-06,-29,-8,-36,-38,-10,13
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-07,-25,-3,-31,-51,-22,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-08,-26,-6,-31,-40,-21,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-09,-28,-7,-30,-41,-22,16
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-10,-26,-6,-30,-44,-22,16
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-11,-31,-11,-33,-49,-21,18
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-12,-40,-21,-51,-61,-13,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-13,-27,-7,-35,-42,-9,13
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-14,-24,-3,-29,-49,-20,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-15,-26,-6,-32,-24,-19,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-16,-25,-5,-29,-36,-20,14
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-17,-24,-4,-33,21,-20,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-18,-31,-11,-36,-22,-20,17
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-19,-39,-19,-50,18,-13,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-20,-28,-9,-35,5,-9,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-21,-23,-5,-30,-25,-21,14
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-22,-24,-6,-27,8,-20,14
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-23,-23,-5,-29,8,-20,14
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-24,-22,-4,-30,5,-19,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-25,-22,-7,-34,-7,-18,16
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-26,-31,-14,-44,21,-11,14
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-27,-21,-4,-35,18,-8,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-28,-17,-2,-29,-4,-18,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-29,-16,-1,-34,28,-18,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-06-30,-15,2,-33,8,-16,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-01,-14,1,-36,0,-16,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-02,-17,0,-36,-19,-17,14
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-03,-25,-7,-45,-17,-9,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-04,-19,-1,-39,-7,-5,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-05,-13,3,-35,-40,-15,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-06,-14,2,-33,-7,-16,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-07,-14,3,-33,-12,-16,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-08,-16,-3,-35,3,-15,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-09,-19,-4,-37,-5,-16,13
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-10,-24,-8,-44,0,-8,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-11,-17,-1,-37,1,-5,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-12,-13,2,-30,-17,-14,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-13,-15,0,-33,6,-15,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-14,-16,-1,-35,-22,-16,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-15,-14,-2,-31,-29,-15,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-16,-17,-5,-36,-31,-15,13
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-17,-25,-13,-41,-44,-7,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-18,-18,-5,-33,-28,-4,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-19,-13,0,-32,-30,-14,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-20,-14,-2,-30,-23,-15,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-21,-16,-4,-26,-29,-16,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-22,-16,-5,-30,-25,-14,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-23,-18,-7,-36,-31,-14,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-24,-25,-14,-43,-26,-7,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-25,-16,-4,-34,-31,-5,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-26,-10,1,-27,-35,-14,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-27,-7,3,-28,-18,-15,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-28,-3,9,-30,-25,-14,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-29,9,21,-24,-10,-15,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-30,-1,18,-16,-28,-47,20
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-07-31,-16,-4,-4,-48,-16,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-01,3,13,55,-40,-41,13
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-02,5,15,6,-58,-49,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-03,-8,3,-22,-31,-15,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-04,-7,3,-21,-35,-16,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-05,-6,0,-26,-17,-15,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-06,-11,-3,-29,-2,-16,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-07,-20,-11,-33,-21,-7,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-08,-11,-2,-25,-33,-5,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-09,-6,1,-23,-17,-14,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-10,-7,-1,-25,-10,-15,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-11,-9,-2,-24,-36,-15,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-12,-8,-3,-28,-40,-15,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-13,-12,-6,-24,-37,-16,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-14,-19,-10,-31,-42,-8,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-15,-12,-3,-30,-23,-4,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-16,-6,-1,-25,-41,-15,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-17,-8,-4,,,-15,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-18,-10,-3,,,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-19,-11,-6,,,-14,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-20,-15,-9,,,-14,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-21,-20,-14,,,-7,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-22,-8,-5,,,-10,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-23,-3,,,,-44,15
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-24,-13,-9,,,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-25,-12,-7,,,-14,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-26,-11,-7,,,-12,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-27,-12,-6,,,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-28,-20,-13,,,-7,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-29,-12,-4,,,-5,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-30,-6,,,,-13,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-08-31,-8,-4,,,-14,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-01,-9,-2,,,-12,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-02,-9,-3,,,-12,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-03,-13,-8,,,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-04,-17,-9,,,-10,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-05,-10,-3,,,-5,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-06,-8,-3,,,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-07,-8,-5,,,-14,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-08,-9,-2,,,-14,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-09,-11,-6,,,-11,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-10,-12,-8,,,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-11,-18,-9,-27,-62,-10,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-12,-11,-3,-23,-49,-6,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-13,-9,-5,-18,-53,-12,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-14,-10,-7,-22,-46,-11,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-15,-12,-7,-18,-40,-11,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-16,-13,-8,-21,-42,-11,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-17,-16,-12,-20,-46,-11,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-18,-20,-16,-28,-58,-8,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-19,-14,-11,-23,-49,-5,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-20,-13,-10,-19,-53,-12,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-21,-13,-12,-23,-47,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-22,-15,-12,-22,-43,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-23,-16,-13,-32,-48,-12,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-24,-17,-14,-30,-49,-12,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-25,-22,-16,-27,-61,-8,11
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-26,-15,-10,-29,-49,-6,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-27,-12,-9,-25,-47,-13,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-28,-14,-12,-31,-44,-12,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-29,-14,-8,-27,-46,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-09-30,-10,-6,-27,-44,-15,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-01,-11,-4,-23,-43,-15,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-02,-16,-10,-21,-52,-11,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-03,-12,-5,-21,-48,-10,4
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-04,-10,-5,-20,-43,-16,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-05,-11,-8,-21,-42,-16,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-06,-11,-5,-20,-44,-16,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-07,-11,-5,-22,-47,-14,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-08,-11,-6,-16,-50,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-09,-18,-13,-14,-54,-8,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-10,-14,-9,-17,-50,-6,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-11,-11,-7,-14,-51,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-12,-13,-10,-17,-45,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-13,-13,-9,-17,-49,-14,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-14,-11,-8,-26,-43,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-15,-11,-7,-22,-39,-13,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-16,-17,-10,-14,-54,-10,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-17,-12,-8,-18,-43,-6,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-18,-10,-9,-22,-45,-14,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-19,-12,-11,-25,-45,-14,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-20,-13,-10,-21,-49,-15,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-21,-11,-7,-18,-42,-13,9
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-22,-12,-7,-10,-43,-13,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-23,-16,-9,1,-52,-6,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-24,-12,-7,-12,-44,-5,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-25,-9,-4,-15,-45,-12,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-26,-10,-6,-16,-39,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-27,-7,-2,-14,-43,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-28,3,3,-13,-31,-13,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-29,3,4,66,-45,-47,14
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-30,-12,-9,24,-41,-10,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-10-31,-11,-8,-13,-39,-6,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-01,-9,-5,-14,-42,-14,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-02,-9,-6,-21,-38,-14,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-03,-9,-5,-15,-41,-14,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-04,-8,-5,-23,-31,-13,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-05,-10,-6,-16,-37,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-06,-17,-9,-1,-48,-7,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-07,-11,-7,-15,-40,-6,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-08,-9,-8,-21,-42,-13,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-09,-11,-7,-25,-40,-12,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-10,-9,-7,-23,-40,-13,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-11,-8,-6,-27,-33,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-12,-10,-7,-18,-41,-14,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-13,-14,-8,-2,-40,-8,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-14,-7,-3,-10,-39,-8,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-15,-7,-6,-13,-43,-14,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-16,-10,-10,-20,-40,-13,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-17,-10,-7,-23,-45,-13,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-18,-9,-8,-21,-40,-13,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-19,-10,-8,-22,-39,-13,8
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-20,-17,-13,-6,-46,-10,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-21,-11,-10,-18,-41,-5,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-22,-8,-8,-19,-43,-12,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-23,-10,-11,-19,-38,-12,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-24,-10,-9,-24,-40,-13,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-25,-7,-8,-25,-39,-11,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-26,-8,-7,-19,-33,-11,7
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-27,-12,-10,-4,-42,-5,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-28,-5,-5,-11,-36,-3,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-29,2,-1,-13,-37,-11,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-11-30,8,8,-7,-21,-11,4
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-12-01,23,23,82,-32,-43,10
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-12-02,28,28,142,-33,-51,12
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-12-03,7,7,92,-43,-46,14
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-12-04,-11,-9,23,-39,-7,6
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-12-05,-8,-6,-12,-38,-1,5
+AE,United Arab Emirates,Ras al Khaimah,,,AE-RK,,2020-12-06,-4,-2,-14,-41,-11,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-15,2,6,11,0,3,0
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-16,3,6,5,0,3,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-17,-1,2,2,-2,3,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-18,-1,2,5,-2,3,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-19,-1,1,3,-3,3,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-20,-1,2,4,1,2,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-21,0,0,4,0,-1,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-22,0,1,5,-6,3,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-23,3,3,4,-2,4,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-24,0,0,6,-2,4,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-25,-1,1,4,-4,3,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-26,0,-1,-2,-2,3,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-27,3,4,2,2,2,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-28,3,1,1,-2,0,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-02-29,4,3,4,-1,5,0
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-01,8,7,6,1,4,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-02,3,4,5,-3,5,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-03,3,5,3,-3,4,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-04,2,4,1,-5,4,1
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-05,1,4,0,0,4,2
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-06,-1,3,-5,0,-1,3
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-07,2,3,6,-2,4,2
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-08,6,6,11,-5,-1,3
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-09,1,2,7,-7,-2,3
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-10,0,3,9,-6,-2,4
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-11,0,3,4,-9,-2,4
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-12,-1,4,-4,-7,-3,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-13,-6,-1,-10,-11,-2,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-14,-4,1,-8,-13,2,4
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-15,2,8,-6,-8,-3,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-16,-4,5,-10,-7,-5,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-17,-8,4,-16,-16,-7,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-18,-10,-1,-17,-23,-8,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-19,-14,-3,-27,-33,-9,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-20,-27,-15,-46,-42,-11,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-21,-24,-15,-32,-43,-6,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-22,-23,-14,-33,-53,-14,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-23,-18,15,-33,-51,-17,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-24,-31,-6,-40,-57,-24,16
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-25,-40,-18,-46,-62,-30,19
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-26,-45,-14,-53,-67,-36,23
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-27,-77,-63,-82,-85,-48,23
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-28,-69,-51,-69,-82,-58,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-29,-45,-25,-51,-66,-40,23
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-30,-46,-27,-51,-65,-41,23
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-03-31,-45,-25,-52,-66,-41,22
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-01,-43,-25,-50,-68,-41,23
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-02,-46,-25,-54,-70,-41,25
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-03,-61,-41,-73,-78,-37,19
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-04,-47,-26,-55,-71,-31,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-05,-45,-19,-51,-71,-51,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-06,-48,-25,-54,-73,-50,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-07,-47,-22,-82,-71,-49,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-08,-47,-23,-83,-71,-49,26
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-09,-48,-24,-84,-71,-49,29
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-10,-64,-44,-91,-81,-41,21
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-11,-49,-26,-85,-73,-39,21
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-12,-43,-20,-83,-70,-50,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-13,-45,-22,-82,-71,-49,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-14,-45,-23,-82,-71,-50,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-15,-46,-26,-82,-72,-50,28
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-16,-47,-25,-83,-72,-50,30
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-17,-63,-44,-90,-80,-39,20
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-18,-50,-31,-84,-74,-39,21
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-19,-43,-22,-81,-71,-48,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-20,-45,-26,-81,-71,-49,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-21,-46,-23,-81,-71,-49,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-22,-44,-21,-81,-71,-49,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-23,-43,-16,-83,-71,-48,29
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-24,-63,-38,-91,-79,-41,21
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-25,-53,-29,-84,-75,-37,23
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-26,-46,-20,-82,-71,-45,28
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-27,-47,-23,-81,-71,-45,28
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-28,-46,-21,-81,-69,-44,26
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-29,-46,-20,-81,-71,-44,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-04-30,-49,-21,-82,-70,-43,29
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-01,-60,-36,-89,-77,-36,20
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-02,-48,-24,-83,-72,-32,20
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-03,-40,-14,-79,-68,-41,25
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-04,-42,-17,-79,-67,-41,25
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-05,-42,-16,-79,-67,-41,25
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-06,-41,-14,-79,-67,-41,26
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-07,-41,-17,-81,-69,-40,28
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-08,-54,-34,-88,-75,-32,19
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-09,-42,-22,-81,-69,-29,20
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-10,-36,-12,-78,-66,-38,25
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-11,-38,-17,-79,-65,-39,26
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-12,-38,-15,-78,-64,-39,26
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-13,-39,-15,-79,-69,-40,26
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-14,-40,-14,-81,-66,-39,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-15,-52,-30,-87,-74,-29,19
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-16,-40,-17,-81,-67,-27,20
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-17,-34,-7,-78,-65,-38,25
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-18,-36,-13,-78,-64,-39,25
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-19,-36,-12,-79,-65,-39,25
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-20,-42,-16,-81,-68,-41,27
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-21,-41,-15,-82,-66,-40,28
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-22,-48,-22,-88,-72,-28,19
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-23,-39,-10,-82,-70,-46,24
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-24,-46,-25,-75,-74,-79,35
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-25,-41,-18,-73,-72,-76,33
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-26,-37,-18,-77,-70,-62,29
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-27,-35,-17,-78,-66,-35,21
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-28,-37,-18,-80,-65,-34,24
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-29,-47,-29,-83,-72,-25,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-30,-30,-13,-76,-65,-18,15
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-05-31,-22,-3,-74,-60,-29,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-01,-24,-8,-74,-60,-29,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-02,-25,-7,-74,-60,-29,19
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-03,-24,-7,-72,-61,-29,19
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-04,-28,-9,-75,-62,-28,21
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-05,-38,-20,-79,-68,-21,16
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-06,-28,-11,-75,-63,-16,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-07,-21,-2,-74,-59,-27,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-08,-25,-9,-73,-58,-25,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-09,-25,-10,-73,-59,-26,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-10,-24,-9,-73,-59,-26,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-11,-26,-8,-75,-60,-26,20
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-12,-36,-20,-79,-66,-18,15
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-13,-26,-10,-75,-61,-14,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-14,-19,-2,-73,-56,-24,17
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-15,-24,-8,-73,-57,-23,17
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-16,-24,-7,-73,-56,-23,17
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-17,-23,-7,-72,-59,-24,17
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-18,-27,-9,-75,-60,-24,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-19,-36,-20,-78,-65,-17,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-20,-27,-12,-75,-62,-14,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-21,-21,-5,-73,-57,-24,16
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-22,-22,-9,-71,-53,-23,16
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-23,-22,-7,-71,-54,-24,16
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-24,-23,-7,-70,-55,-23,16
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-25,-21,-5,-72,-51,-22,17
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-26,-29,-16,-73,-57,-14,13
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-27,-20,-6,-72,-52,-13,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-28,-14,-1,-69,-51,-20,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-29,-16,-4,-65,-57,-21,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-06-30,-15,-2,-56,-66,-21,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-01,-13,-1,-54,-67,-21,13
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-02,-15,-1,-58,-66,-21,15
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-03,-23,-12,-64,-73,-13,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-04,-16,-5,-59,-70,-11,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-05,-9,3,-55,-66,-20,13
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-06,-12,-2,-56,-66,-20,13
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-07,-13,-1,-54,-64,-21,13
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-08,-15,-4,-54,-67,-20,13
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-09,-15,-3,-59,-68,-20,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-10,-23,-13,-64,-74,-12,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-11,-16,-5,-58,-72,-11,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-12,-9,2,-55,-65,-20,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-13,-13,-3,-55,-65,-20,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-14,-14,-4,-53,-62,-21,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-15,-13,-4,-43,-66,-20,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-16,-14,-3,-48,-66,-19,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-17,-22,-13,-55,-73,-11,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-18,-16,-6,-48,-71,-10,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-19,-9,1,-43,-65,-19,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-20,-12,-5,-43,-64,-19,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-21,-13,-5,-45,-65,-20,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-22,-13,-5,-44,-67,-19,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-23,-13,-4,-46,-65,-19,13
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-24,-20,-13,-55,-71,-10,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-25,-13,-5,-46,-65,-10,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-26,-6,1,-40,-62,-19,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-27,-7,0,-43,-63,-20,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-28,-4,3,-41,-65,-20,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-29,4,16,-37,-59,-20,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-30,-2,23,-33,-60,-60,24
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-07-31,-22,-14,-37,-63,-21,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-01,-17,-6,-12,-65,-60,15
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-02,-3,12,-20,-64,-61,20
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-03,-10,-1,-35,-57,-20,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-04,-9,1,-35,-56,-20,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-05,-10,0,-34,-56,-20,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-06,-13,-3,-40,-54,-20,12
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-07,-23,-13,-51,-60,-11,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-08,-13,-3,-35,-54,-11,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-09,-5,4,-30,-52,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-10,-10,-2,-33,-49,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-11,-11,-1,-34,-56,-20,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-12,-12,-2,-34,-56,-20,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-13,-12,-1,-37,-55,-20,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-14,-21,-10,-48,-61,-11,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-15,-14,-3,-39,-56,-12,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-16,-9,2,-33,-55,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-17,-13,-3,-34,-55,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-18,-14,-4,-37,-56,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-19,-13,-3,-36,-55,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-20,-16,-3,-41,-57,-19,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-21,-23,-11,-50,-65,-11,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-22,-14,-4,-34,-58,-14,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-23,-6,9,-25,-65,-59,21
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-24,-16,-7,-36,-57,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-25,-14,-5,-37,-56,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-26,-14,-3,-35,-55,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-27,-14,0,-38,-55,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-28,-24,-9,-50,-63,-12,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-29,-16,-2,-38,-59,-12,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-30,-7,9,-32,-53,-20,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-08-31,-13,1,-33,-50,-20,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-01,-13,1,-34,-55,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-02,-13,0,-34,-58,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-03,-12,1,-36,-55,-19,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-04,-17,-4,-43,-60,-14,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-05,-12,0,-34,-59,-13,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-06,-7,5,-31,-54,-19,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-07,-12,0,-31,-53,-19,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-08,-12,0,-30,-53,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-09,-13,-1,-32,-54,-18,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-10,-12,2,-34,-50,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-11,-17,-4,-41,-57,-16,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-12,-12,-1,-32,-57,-13,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-13,-6,5,-30,-53,-19,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-14,-13,-2,-29,-52,-16,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-15,-12,-1,-30,-51,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-16,-12,-2,-30,-50,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-17,-12,-1,-34,-47,-18,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-18,-19,-7,-40,-45,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-19,-15,-4,-34,-53,-14,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-20,-9,1,-35,-49,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-21,-14,-5,-32,-49,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-22,-17,-7,-35,-50,-18,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-23,-19,-7,-39,-49,-18,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-24,-18,-5,-41,-50,-17,11
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-25,-23,-10,-43,-51,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-26,-18,-5,-40,-55,-12,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-27,-12,-1,-40,-48,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-28,-17,-6,-37,-47,-16,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-29,-16,-4,-36,-47,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-09-30,-15,0,-34,-44,-19,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-01,-14,4,-32,-44,-18,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-02,-17,-1,-36,-43,-19,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-03,-13,3,-33,-44,-15,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-04,-8,7,-30,-43,-19,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-05,-15,0,-29,-45,-18,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-06,-14,0,-31,-43,-19,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-07,-15,-1,-30,-44,-18,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-08,-13,3,-31,-44,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-09,-19,-3,-33,-43,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-10,-17,-2,-33,-45,-13,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-11,-11,3,-29,-45,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-12,-16,0,-25,-43,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-13,-15,0,-26,-45,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-14,-15,0,-28,-44,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-15,-13,4,-30,-39,-17,10
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-16,-18,-1,-28,-40,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-17,-17,-2,-31,-45,-13,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-18,-11,3,-30,-43,-19,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-19,-15,-1,-28,-44,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-20,-15,-2,-26,-42,-18,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-21,-14,1,-24,-43,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-22,-13,6,-21,-41,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-23,-18,0,-19,-40,-16,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-24,-16,1,-22,-43,-12,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-25,-9,7,-21,-41,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-26,-14,3,-19,-38,-16,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-27,-12,4,-20,-39,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-28,-5,11,-17,-34,-17,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-29,-4,17,16,-43,-61,19
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-30,-19,-3,-14,-39,-19,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-10-31,-15,-2,-26,-39,-13,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-01,-8,6,-30,-36,-18,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-02,-11,4,-26,-36,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-03,-10,4,-26,-38,-18,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-04,-10,4,-27,-38,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-05,-11,6,-26,-37,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-06,-14,2,-22,-37,-17,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-07,-12,0,-26,-40,-12,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-08,-7,4,-27,-39,-18,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-09,-12,2,-26,-39,-16,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-10,-11,1,-28,-38,-18,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-11,-9,4,-26,-37,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-12,-9,7,-27,-39,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-13,-13,5,-22,-38,-15,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-14,-10,2,-23,-40,-14,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-15,-7,6,-24,-34,-19,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-16,-14,0,-24,-37,-16,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-17,-14,0,-25,-38,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-18,-13,0,-27,-38,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-19,-12,5,-28,-38,-17,9
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-20,-17,0,-27,-39,-15,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-21,-14,-2,-29,-41,-12,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-22,-9,3,-32,-35,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-23,-15,-2,-28,-39,-16,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-24,-14,-1,-30,-38,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-25,-13,0,-31,-37,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-26,-10,4,-30,-36,-17,8
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-27,-16,-1,-30,-37,-13,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-28,-12,0,-31,-39,-10,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-29,-4,6,-29,-32,-17,7
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-11-30,-5,8,-22,-27,-15,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-12-01,8,26,20,-32,-57,14
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-12-02,3,26,50,-37,-69,16
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-12-03,-5,12,16,-44,-60,18
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-12-04,-18,-4,-23,-37,-16,5
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-12-05,-14,-3,-30,-36,-10,6
+AE,United Arab Emirates,Sharjah,,,AE-SH,,2020-12-06,-7,6,-29,-32,-17,7
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-15,3,10,,,2,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-16,0,3,,,4,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-17,0,3,,,3,1
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-18,0,1,,,6,1
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-19,-1,-1,,,3,1
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-20,-5,-2,,,3,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-21,3,3,,,2,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-22,-2,5,,,8,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-23,-4,-1,,,5,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-24,-5,2,,,6,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-25,-4,0,,,6,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-26,-4,0,,,3,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-27,-4,2,,,1,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-28,1,3,,,2,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-02-29,4,12,,,4,1
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-01,4,10,,,4,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-02,4,7,,,4,1
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-03,3,2,,,5,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-04,0,8,,,3,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-05,-2,10,,,4,3
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-06,0,12,,,-1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-07,4,12,,,3,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-08,2,8,,,-2,2
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-09,-1,8,,,-3,4
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-10,-1,7,,,0,4
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-11,2,10,,,-2,4
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-12,-5,7,,,-1,5
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-13,-4,8,,,1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-14,0,9,,,5,4
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-15,-1,10,,,0,5
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-16,-4,9,,,-2,5
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-17,-6,9,,,-1,5
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-18,-12,2,,,-7,7
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-19,-20,-3,,,-6,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-20,-23,-9,,,-11,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-21,-18,-4,,,-2,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-22,-21,-13,,,-9,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-23,-14,10,,,-12,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-24,-23,-6,,,-16,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-25,-31,-13,,,-20,15
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-26,-41,-11,,,-24,19
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-27,-71,-59,,,-38,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-28,-58,-39,,,-46,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-29,-40,-18,,,-27,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-30,-36,-22,,,-28,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-03-31,-38,-21,,,-26,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-01,-39,-18,,,-29,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-02,-42,-19,,,-29,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-03,-52,-36,,,-27,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-04,-40,-15,,,-20,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-05,-34,-11,,,-33,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-06,-38,-17,,,-33,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-07,-36,-18,,,-32,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-08,-39,-19,,,-34,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-09,-44,-22,,,-34,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-10,-54,-34,,,-29,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-11,-39,-15,,,-23,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-12,-38,-15,,,-34,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-13,-37,-15,,,-34,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-14,-40,-22,,,-31,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-15,-37,-22,,,-33,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-16,-42,-23,,,-35,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-17,-56,-39,,,-22,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-18,-41,-18,,,-22,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-19,-35,-20,,,-32,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-20,-37,-23,,,-32,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-21,-37,-24,,,-30,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-22,-36,-18,,,-32,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-23,-39,-17,,,-32,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-24,-59,-34,,,-29,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-25,-45,-20,,,-24,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-26,-40,-20,,,-32,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-27,-41,-21,,,-33,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-28,-38,-20,,,-31,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-29,-36,-21,,,-31,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-04-30,-40,-21,,,-30,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-01,-53,-33,,,-27,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-02,-37,-17,,,-22,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-03,-35,-16,,,-29,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-04,-35,-18,,,-29,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-05,-36,-19,,,-28,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-06,-32,-14,,,-27,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-07,-39,-17,,,-29,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-08,-52,-32,,,-20,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-09,-38,-11,,,-15,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-10,-36,-11,,,-27,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-11,-38,-12,,,-28,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-12,-36,-14,,,-26,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-13,-38,-15,,,-30,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-14,-40,-14,,,-29,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-15,-50,-28,,,-19,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-16,-36,-8,,,-16,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-17,-34,-10,,,-25,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-18,-32,-11,,,-28,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-19,-32,-10,,,-26,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-20,-42,-19,,,-30,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-21,-42,-16,,,-26,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-22,-46,-18,,,-16,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-23,-36,-6,,,-33,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-24,-42,-25,,,-66,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-25,-37,-19,,,-64,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-26,-32,-17,,,-47,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-27,-32,-16,,,-24,21
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-28,-33,-16,,,-22,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-29,-43,-26,,,-11,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-30,-24,-6,,,-7,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-05-31,-19,0,,,-20,18
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-01,-22,-2,,,-20,16
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-02,-18,1,,,-17,17
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-03,-20,-7,,,-17,19
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-04,-24,-5,,,-16,21
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-05,-30,-17,,,-10,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-06,-17,-2,,,-6,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-07,-17,-1,,,-15,17
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-08,-19,-4,,,-15,17
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-09,-20,-6,,,-16,17
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-10,-18,-7,,,-17,18
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-11,-25,-6,,,-13,20
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-12,-32,-14,,,-8,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-13,-19,-2,,,-2,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-14,-15,0,,,-13,16
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-15,-22,-5,,,-14,17
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-16,-18,-4,,,-13,17
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-17,-18,-5,,,-15,16
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-18,-25,-7,,,-13,18
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-19,-31,-17,,,-2,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-20,-20,-6,,,-4,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-21,-16,-2,,,-13,16
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-22,-21,-6,,,-14,16
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-23,-16,-3,,,-12,16
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-24,-16,-7,,,-13,16
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-25,-15,-4,,,-12,16
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-26,-21,-9,,,-1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-27,-11,1,,,-3,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-28,-10,0,,,-12,14
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-29,-13,-1,,,-14,15
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-06-30,-9,4,,,-11,14
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-01,-9,6,,,-12,14
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-02,-9,4,,,-14,15
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-03,-16,-5,,,-3,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-04,-11,4,,,-3,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-05,-7,7,,,-13,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-06,-9,7,,,-11,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-07,-8,9,,,-10,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-08,-10,-4,,,-12,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-09,-13,-1,,,-12,15
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-10,-17,-5,,,-5,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-11,-11,6,,,-1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-12,-7,4,,,-10,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-13,-9,4,,,-8,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-14,-7,1,,,-9,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-15,-7,-5,,,-10,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-16,-11,-2,,,-9,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-17,-13,-8,,,-1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-18,-4,1,,,2,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-19,-5,1,,,-9,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-20,-9,0,,,-9,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-21,-7,-6,,,-9,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-22,-7,-5,,,-9,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-23,-11,-3,,,-8,14
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-24,-7,-13,,,1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-25,0,-2,,,0,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-26,-1,3,,,-11,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-27,-5,0,,,-10,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-28,7,5,,,-9,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-29,17,18,,,-11,8
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-30,13,20,,,-48,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-07-31,11,-5,,,-12,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-01,21,9,,,-47,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-02,12,9,,,-46,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-03,-1,0,,,-12,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-04,5,1,,,-8,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-05,4,-1,,,-11,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-06,-1,-2,,,-9,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-07,-5,-14,,,-4,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-08,2,2,,,-1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-09,1,4,,,-10,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-10,-1,0,,,-10,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-11,2,-1,,,-9,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-12,1,-5,,,-11,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-13,-1,-3,,,-10,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-14,0,-9,,,-4,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-15,5,-1,,,-1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-16,0,-1,,,-9,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-17,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-18,,,,,,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-19,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-20,,,,,,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-24,,,,,,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-25,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-26,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-27,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-30,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-08-31,,,,,,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-01,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-02,,,,,,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-03,,,,,,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-06,,,,,,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-07,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-08,,,,,,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-09,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-10,,,,,,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-11,3,-4,,,-5,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-12,6,4,,,-7,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-13,3,4,,,-10,7
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-14,2,5,,,-11,8
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-15,3,3,,,-9,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-16,5,-4,,,-10,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-17,-1,-2,,,-12,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-18,3,-7,,,-6,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-19,2,-1,,,-6,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-20,-1,-1,,,-10,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-21,-3,-3,,,-11,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-22,-2,-7,,,-7,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-23,-7,-9,,,-7,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-24,-7,-7,,,-8,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-25,-4,-11,,,-8,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-26,-2,-3,,,1,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-27,-6,-6,,,-8,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-28,-6,-7,,,-8,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-29,0,-6,,,-7,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-09-30,3,-5,,,-9,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-01,4,4,,,-9,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-02,5,3,,,-3,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-03,6,6,,,-7,7
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-04,0,4,,,-11,8
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-05,0,-1,,,-12,7
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-06,2,0,,,-12,7
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-07,0,-3,,,-10,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-08,1,2,,,-8,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-09,1,-2,,,-3,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-10,1,2,,,-4,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-11,-3,2,,,-9,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-12,-2,0,,,-8,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-13,3,0,,,-9,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-14,2,-2,,,-8,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-15,3,3,,,-8,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-16,2,3,,,-8,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-17,3,2,,,-3,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-18,1,0,,,-10,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-19,-6,0,,,-10,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-20,-1,-1,,,-9,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-21,-2,-4,,,-8,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-22,0,3,,,-6,13
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-23,5,4,,,-7,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-24,2,4,,,1,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-25,-1,6,,,-6,12
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-26,-2,0,,,-6,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-27,5,2,,,-7,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-28,14,8,,,-7,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-29,11,12,,,-48,20
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-30,11,1,,,-4,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-10-31,2,3,,,-3,8
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-01,3,5,,,-6,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-02,4,1,,,-9,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-03,6,1,,,-7,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-04,6,-1,,,-7,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-05,4,4,,,-7,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-06,3,0,,,-7,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-07,5,2,,,-1,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-08,2,2,,,-6,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-09,-3,-2,,,-9,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-10,5,0,,,-6,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-11,5,-1,,,-9,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-12,4,1,,,-8,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-13,8,2,,,-2,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-14,7,3,,,-4,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-15,7,4,,,-8,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-16,-1,-3,,,-7,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-17,1,-4,,,-5,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-18,3,-4,,,-5,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-19,2,3,,,-6,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-20,4,0,,,-1,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-21,5,2,,,-3,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-22,-2,1,,,-6,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-23,-2,-6,,,-8,11
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-24,5,-2,,,-6,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-25,3,-3,,,-6,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-26,4,-1,,,-6,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-27,5,-1,,,-2,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-28,8,3,,,-1,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-29,9,5,,,-6,10
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-11-30,16,13,,,-7,8
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-12-01,43,35,,,-42,15
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-12-02,41,31,,,-57,20
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-12-03,24,16,,,-47,20
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-12-04,9,1,,,-6,
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-12-05,5,4,,,3,9
+AE,United Arab Emirates,Umm Al Quawain,,,AE-UQ,,2020-12-06,6,6,,,-5,10

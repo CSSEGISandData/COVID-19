@@ -1,0 +1,503 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+AF,Afghanistan,,,,,,2020-02-15,-9,-10,0,-2,-28,5
+AF,Afghanistan,,,,,,2020-02-16,3,11,1,10,4,0
+AF,Afghanistan,,,,,,2020-02-17,6,11,2,9,5,-1
+AF,Afghanistan,,,,,,2020-02-18,3,5,3,9,6,-1
+AF,Afghanistan,,,,,,2020-02-19,-1,3,1,0,5,1
+AF,Afghanistan,,,,,,2020-02-20,-2,3,-1,4,6,1
+AF,Afghanistan,,,,,,2020-02-21,0,9,4,7,6,0
+AF,Afghanistan,,,,,,2020-02-22,2,5,6,7,6,0
+AF,Afghanistan,,,,,,2020-02-23,2,6,2,7,6,1
+AF,Afghanistan,,,,,,2020-02-24,3,13,4,9,7,0
+AF,Afghanistan,,,,,,2020-02-25,2,5,1,9,7,0
+AF,Afghanistan,,,,,,2020-02-26,-1,5,2,3,5,1
+AF,Afghanistan,,,,,,2020-02-27,-1,0,1,3,7,2
+AF,Afghanistan,,,,,,2020-02-28,-2,5,1,4,5,2
+AF,Afghanistan,,,,,,2020-02-29,-1,1,0,4,6,1
+AF,Afghanistan,,,,,,2020-03-01,3,10,2,10,9,0
+AF,Afghanistan,,,,,,2020-03-02,5,7,3,8,8,-1
+AF,Afghanistan,,,,,,2020-03-03,3,6,2,7,8,0
+AF,Afghanistan,,,,,,2020-03-04,-2,4,1,-1,7,1
+AF,Afghanistan,,,,,,2020-03-05,3,5,2,4,10,1
+AF,Afghanistan,,,,,,2020-03-06,3,9,8,4,8,1
+AF,Afghanistan,,,,,,2020-03-07,0,5,4,4,7,1
+AF,Afghanistan,,,,,,2020-03-08,5,8,4,7,7,0
+AF,Afghanistan,,,,,,2020-03-09,-15,-10,-4,-9,-22,6
+AF,Afghanistan,,,,,,2020-03-10,0,0,1,6,6,1
+AF,Afghanistan,,,,,,2020-03-11,2,-1,2,0,3,1
+AF,Afghanistan,,,,,,2020-03-12,1,-4,1,-2,6,1
+AF,Afghanistan,,,,,,2020-03-13,3,9,6,4,5,0
+AF,Afghanistan,,,,,,2020-03-14,6,2,5,5,3,0
+AF,Afghanistan,,,,,,2020-03-15,1,12,5,6,3,0
+AF,Afghanistan,,,,,,2020-03-16,1,14,2,4,1,1
+AF,Afghanistan,,,,,,2020-03-17,0,6,3,-3,1,0
+AF,Afghanistan,,,,,,2020-03-18,0,7,5,-6,-1,1
+AF,Afghanistan,,,,,,2020-03-19,-3,3,5,-6,-2,2
+AF,Afghanistan,,,,,,2020-03-20,-15,1,7,-19,-7,1
+AF,Afghanistan,,,,,,2020-03-21,-23,-13,1,-24,-36,6
+AF,Afghanistan,,,,,,2020-03-22,-12,9,-2,-14,-6,1
+AF,Afghanistan,,,,,,2020-03-23,-11,7,0,-17,-3,2
+AF,Afghanistan,,,,,,2020-03-24,-15,0,-1,-18,-5,3
+AF,Afghanistan,,,,,,2020-03-25,-18,-1,-3,-23,-10,6
+AF,Afghanistan,,,,,,2020-03-26,-18,0,-4,-23,-10,7
+AF,Afghanistan,,,,,,2020-03-27,-20,5,-2,-16,-2,5
+AF,Afghanistan,,,,,,2020-03-28,-36,-20,-7,-32,-27,11
+AF,Afghanistan,,,,,,2020-03-29,-38,-21,-13,-34,-33,10
+AF,Afghanistan,,,,,,2020-03-30,-41,-25,-15,-39,-37,11
+AF,Afghanistan,,,,,,2020-03-31,-43,-29,-14,-42,-38,12
+AF,Afghanistan,,,,,,2020-04-01,-44,-24,-9,-38,-37,11
+AF,Afghanistan,,,,,,2020-04-02,-44,-25,-10,-35,-35,13
+AF,Afghanistan,,,,,,2020-04-03,-38,-13,-8,-32,-12,6
+AF,Afghanistan,,,,,,2020-04-04,-43,-20,-11,-38,-34,10
+AF,Afghanistan,,,,,,2020-04-05,-45,-22,-13,-36,-38,12
+AF,Afghanistan,,,,,,2020-04-06,-45,-20,-11,-40,-40,11
+AF,Afghanistan,,,,,,2020-04-07,-41,-24,-11,-46,-39,10
+AF,Afghanistan,,,,,,2020-04-08,-47,-30,-12,-52,-42,14
+AF,Afghanistan,,,,,,2020-04-09,-49,-35,-13,-51,-40,17
+AF,Afghanistan,,,,,,2020-04-10,-41,-22,-10,-48,-16,11
+AF,Afghanistan,,,,,,2020-04-11,-46,-32,-12,-50,-38,16
+AF,Afghanistan,,,,,,2020-04-12,-48,-29,-18,-49,-41,15
+AF,Afghanistan,,,,,,2020-04-13,-46,-27,-13,-51,-41,14
+AF,Afghanistan,,,,,,2020-04-14,-48,-32,-14,-52,-42,15
+AF,Afghanistan,,,,,,2020-04-15,-42,-31,-10,-51,-42,14
+AF,Afghanistan,,,,,,2020-04-16,-46,-34,-13,-51,-39,16
+AF,Afghanistan,,,,,,2020-04-17,-41,-21,-12,-51,-13,11
+AF,Afghanistan,,,,,,2020-04-18,-43,-25,-15,-50,-36,14
+AF,Afghanistan,,,,,,2020-04-19,-43,-26,-16,-49,-40,13
+AF,Afghanistan,,,,,,2020-04-20,-42,-17,-13,-50,-38,12
+AF,Afghanistan,,,,,,2020-04-21,-41,-21,-13,-48,-40,11
+AF,Afghanistan,,,,,,2020-04-22,-42,-18,-14,-49,-38,11
+AF,Afghanistan,,,,,,2020-04-23,-43,-23,-16,-45,-37,13
+AF,Afghanistan,,,,,,2020-04-24,-45,-19,-25,-50,-9,14
+AF,Afghanistan,,,,,,2020-04-25,-48,-27,-23,-49,-33,18
+AF,Afghanistan,,,,,,2020-04-26,-47,-27,-23,-48,-37,17
+AF,Afghanistan,,,,,,2020-04-27,-49,-28,-22,-53,-47,16
+AF,Afghanistan,,,,,,2020-04-28,-45,-27,-19,-47,-35,13
+AF,Afghanistan,,,,,,2020-04-29,-42,-20,-16,-46,-34,14
+AF,Afghanistan,,,,,,2020-04-30,-47,-30,-19,-48,-33,17
+AF,Afghanistan,,,,,,2020-05-01,-45,-21,-23,-50,-8,13
+AF,Afghanistan,,,,,,2020-05-02,-47,-27,-22,-49,-33,16
+AF,Afghanistan,,,,,,2020-05-03,-49,-30,-27,-49,-38,16
+AF,Afghanistan,,,,,,2020-05-04,-45,-23,-22,-49,-35,14
+AF,Afghanistan,,,,,,2020-05-05,-45,-28,-21,-48,-36,15
+AF,Afghanistan,,,,,,2020-05-06,-44,-23,-20,-47,-34,15
+AF,Afghanistan,,,,,,2020-05-07,-44,-25,-21,-45,-32,16
+AF,Afghanistan,,,,,,2020-05-08,-39,-13,-18,-42,-3,10
+AF,Afghanistan,,,,,,2020-05-09,-40,-17,-20,-41,-30,12
+AF,Afghanistan,,,,,,2020-05-10,-40,-21,-24,-43,-34,14
+AF,Afghanistan,,,,,,2020-05-11,-38,-11,-19,-43,-31,12
+AF,Afghanistan,,,,,,2020-05-12,-38,-14,-19,-41,-32,13
+AF,Afghanistan,,,,,,2020-05-13,-38,-12,-19,-44,-30,13
+AF,Afghanistan,,,,,,2020-05-14,-37,-12,-16,-44,-26,13
+AF,Afghanistan,,,,,,2020-05-15,-28,3,-15,-34,8,10
+AF,Afghanistan,,,,,,2020-05-16,-28,-1,-12,-34,-23,12
+AF,Afghanistan,,,,,,2020-05-17,-32,-11,-21,-39,-30,13
+AF,Afghanistan,,,,,,2020-05-18,-29,2,-15,-36,-28,11
+AF,Afghanistan,,,,,,2020-07-03,-14,9,-1,-22,-2,4
+AF,Afghanistan,,,,,,2020-07-04,-10,11,-3,-17,-15,6
+AF,Afghanistan,,,,,,2020-07-05,-9,12,-3,-14,-17,7
+AF,Afghanistan,,,,,,2020-07-06,-7,20,-1,-13,-17,5
+AF,Afghanistan,,,,,,2020-07-07,-5,18,-3,-12,-17,5
+AF,Afghanistan,,,,,,2020-07-08,-9,12,-3,-18,-16,5
+AF,Afghanistan,,,,,,2020-07-09,-9,12,-1,-16,-13,5
+AF,Afghanistan,,,,,,2020-07-10,-7,15,3,-16,2,4
+AF,Afghanistan,,,,,,2020-07-11,-5,16,3,-11,-10,5
+AF,Afghanistan,,,,,,2020-07-12,-5,21,-3,-10,-14,6
+AF,Afghanistan,,,,,,2020-07-13,-4,26,-1,-9,-12,4
+AF,Afghanistan,,,,,,2020-07-14,-6,18,-2,-10,-11,5
+AF,Afghanistan,,,,,,2020-07-15,-6,14,-2,-14,-11,5
+AF,Afghanistan,,,,,,2020-07-16,-7,14,-5,-11,-10,5
+AF,Afghanistan,,,,,,2020-07-17,-5,18,3,-11,3,3
+AF,Afghanistan,,,,,,2020-07-18,-4,19,-2,-10,-8,4
+AF,Afghanistan,,,,,,2020-07-19,-4,24,-1,-6,-10,4
+AF,Afghanistan,,,,,,2020-07-20,-1,24,-2,-9,-10,4
+AF,Afghanistan,,,,,,2020-07-21,-5,18,0,-10,-11,4
+AF,Afghanistan,,,,,,2020-07-22,-4,19,-4,-14,-12,4
+AF,Afghanistan,,,,,,2020-07-23,-7,13,-3,-10,-9,5
+AF,Afghanistan,,,,,,2020-07-24,-3,22,1,-12,4,3
+AF,Afghanistan,,,,,,2020-07-25,-6,21,3,-11,-7,4
+AF,Afghanistan,,,,,,2020-07-26,-5,24,0,-6,-11,4
+AF,Afghanistan,,,,,,2020-07-27,-3,28,2,-10,-11,2
+AF,Afghanistan,,,,,,2020-07-28,-1,27,3,-6,-12,1
+AF,Afghanistan,,,,,,2020-07-29,2,33,3,-5,-16,2
+AF,Afghanistan,,,,,,2020-07-30,-5,32,0,-10,-38,8
+AF,Afghanistan,,,,,,2020-07-31,-26,0,3,-26,-24,3
+AF,Afghanistan,,,,,,2020-08-01,-33,-24,9,-32,-66,10
+AF,Afghanistan,,,,,,2020-08-02,-31,-20,8,-29,-68,9
+AF,Afghanistan,,,,,,2020-08-03,-18,-2,12,-21,-39,4
+AF,Afghanistan,,,,,,2020-08-04,-11,9,10,-13,-23,2
+AF,Afghanistan,,,,,,2020-08-05,-9,13,6,-11,-19,2
+AF,Afghanistan,,,,,,2020-08-06,-9,12,5,-10,-15,3
+AF,Afghanistan,,,,,,2020-08-07,-6,16,9,-13,0,1
+AF,Afghanistan,,,,,,2020-08-08,-12,7,2,-19,-24,5
+AF,Afghanistan,,,,,,2020-08-09,-10,13,2,-12,-25,5
+AF,Afghanistan,,,,,,2020-08-10,7,35,11,1,-10,-2
+AF,Afghanistan,,,,,,2020-08-11,2,26,9,0,-9,-1
+AF,Afghanistan,,,,,,2020-08-12,4,27,5,-1,-9,-1
+AF,Afghanistan,,,,,,2020-08-13,1,22,7,-2,-7,1
+AF,Afghanistan,,,,,,2020-08-14,3,25,12,-3,-1,1
+AF,Afghanistan,,,,,,2020-08-15,4,27,9,3,-5,-1
+AF,Afghanistan,,,,,,2020-08-16,6,27,9,2,-8,-2
+AF,Afghanistan,,,,,,2020-08-17,,,11,3,-6,-3
+AF,Afghanistan,,,,,,2020-08-18,,,2,-15,-40,5
+AF,Afghanistan,,,,,,2020-08-19,,,7,-4,-7,-2
+AF,Afghanistan,,,,,,2020-08-20,,,8,-3,-3,1
+AF,Afghanistan,,,,,,2020-08-21,,,12,,1,1
+AF,Afghanistan,,,,,,2020-08-22,,,11,-2,-2,-1
+AF,Afghanistan,,,,,,2020-08-23,,,7,2,-4,-1
+AF,Afghanistan,,,,,,2020-08-24,,,9,-1,-4,-2
+AF,Afghanistan,,,,,,2020-08-25,,,8,-1,-3,-2
+AF,Afghanistan,,,,,,2020-08-26,,,6,-6,-4,-1
+AF,Afghanistan,,,,,,2020-08-27,,,6,-9,0,1
+AF,Afghanistan,,,,,,2020-08-28,,,7,,2,2
+AF,Afghanistan,,,,,,2020-08-29,,,2,-19,-11,3
+AF,Afghanistan,,,,,,2020-08-30,,,-8,-30,-52,13
+AF,Afghanistan,,,,,,2020-08-31,,,12,-1,0,-1
+AF,Afghanistan,,,,,,2020-09-01,,,10,1,0,-1
+AF,Afghanistan,,,,,,2020-09-02,,,9,-6,-3,0
+AF,Afghanistan,,,,,,2020-09-03,,,9,-8,1,2
+AF,Afghanistan,,,,,,2020-09-04,,,7,,0,3
+AF,Afghanistan,,,,,,2020-09-05,,,14,-5,-1,0
+AF,Afghanistan,,,,,,2020-09-06,,,10,-2,-2,0
+AF,Afghanistan,,,,,,2020-09-07,,,15,-1,-1,-2
+AF,Afghanistan,,,,,,2020-09-08,,,0,-21,-40,8
+AF,Afghanistan,,,,,,2020-09-09,,,12,-9,-1,-1
+AF,Afghanistan,,,,,,2020-09-10,,,17,-9,2,1
+AF,Afghanistan,,,,,,2020-09-11,44,55,8,-19,-3,2
+AF,Afghanistan,,,,,,2020-09-12,33,21,12,-18,-1,1
+AF,Afghanistan,,,,,,2020-09-13,49,64,9,-19,-1,1
+AF,Afghanistan,,,,,,2020-09-14,53,70,12,-17,5,0
+AF,Afghanistan,,,,,,2020-09-15,54,66,11,-14,5,0
+AF,Afghanistan,,,,,,2020-09-16,55,65,12,-17,-1,1
+AF,Afghanistan,,,,,,2020-09-17,45,16,11,-12,5,2
+AF,Afghanistan,,,,,,2020-09-18,39,45,4,-15,-2,4
+AF,Afghanistan,,,,,,2020-09-19,35,21,15,-11,1,1
+AF,Afghanistan,,,,,,2020-09-20,50,64,12,-11,3,2
+AF,Afghanistan,,,,,,2020-09-21,54,68,17,-11,3,1
+AF,Afghanistan,,,,,,2020-09-22,47,60,16,-5,1,2
+AF,Afghanistan,,,,,,2020-09-23,39,55,19,-4,-4,3
+AF,Afghanistan,,,,,,2020-09-24,37,12,17,-6,1,3
+AF,Afghanistan,,,,,,2020-09-25,30,43,13,-10,-7,4
+AF,Afghanistan,,,,,,2020-09-26,24,15,19,-5,0,4
+AF,Afghanistan,,,,,,2020-09-27,42,57,22,0,0,4
+AF,Afghanistan,,,,,,2020-09-28,39,60,21,-2,3,2
+AF,Afghanistan,,,,,,2020-09-29,37,54,16,-1,0,2
+AF,Afghanistan,,,,,,2020-09-30,36,49,6,-5,-7,0
+AF,Afghanistan,,,,,,2020-10-01,33,7,1,-5,-3,-1
+AF,Afghanistan,,,,,,2020-10-02,32,48,-7,-9,-16,-1
+AF,Afghanistan,,,,,,2020-10-03,24,19,0,-9,-6,-2
+AF,Afghanistan,,,,,,2020-10-04,44,69,5,-7,-6,-1
+AF,Afghanistan,,,,,,2020-10-05,40,64,-2,-5,-4,-2
+AF,Afghanistan,,,,,,2020-10-06,39,57,-1,-5,-3,-3
+AF,Afghanistan,,,,,,2020-10-07,40,54,-2,-9,-5,-2
+AF,Afghanistan,,,,,,2020-10-08,42,17,0,-6,2,1
+AF,Afghanistan,,,,,,2020-10-09,37,44,-4,-14,-11,4
+AF,Afghanistan,,,,,,2020-10-10,26,17,2,-13,0,3
+AF,Afghanistan,,,,,,2020-10-11,46,64,5,-7,2,3
+AF,Afghanistan,,,,,,2020-10-12,48,64,1,-4,2,2
+AF,Afghanistan,,,,,,2020-10-13,45,61,0,-5,1,1
+AF,Afghanistan,,,,,,2020-10-14,45,63,0,-8,-1,2
+AF,Afghanistan,,,,,,2020-10-15,43,24,-1,-5,4,2
+AF,Afghanistan,,,,,,2020-10-16,37,59,-3,-10,-7,4
+AF,Afghanistan,,,,,,2020-10-17,24,21,0,-9,1,2
+AF,Afghanistan,,,,,,2020-10-18,42,61,4,-7,2,4
+AF,Afghanistan,,,,,,2020-10-19,43,73,2,-6,3,3
+AF,Afghanistan,,,,,,2020-10-20,37,61,-1,-6,2,2
+AF,Afghanistan,,,,,,2020-10-21,41,66,-1,-11,-2,3
+AF,Afghanistan,,,,,,2020-10-22,47,28,0,-5,3,2
+AF,Afghanistan,,,,,,2020-10-23,41,68,-6,-10,-9,4
+AF,Afghanistan,,,,,,2020-10-24,30,33,6,-9,0,2
+AF,Afghanistan,,,,,,2020-10-25,50,77,2,-4,1,3
+AF,Afghanistan,,,,,,2020-10-26,51,83,1,-6,3,1
+AF,Afghanistan,,,,,,2020-10-27,50,68,-1,-5,1,1
+AF,Afghanistan,,,,,,2020-10-28,47,67,-2,-4,-3,0
+AF,Afghanistan,,,,,,2020-10-29,15,-5,-15,-16,-43,10
+AF,Afghanistan,,,,,,2020-10-30,33,48,-9,-6,-13,3
+AF,Afghanistan,,,,,,2020-10-31,25,17,-2,-8,-3,1
+AF,Afghanistan,,,,,,2020-11-01,44,67,-2,-5,0,2
+AF,Afghanistan,,,,,,2020-11-02,48,68,-6,-1,2,0
+AF,Afghanistan,,,,,,2020-11-03,39,61,-5,-4,-1,2
+AF,Afghanistan,,,,,,2020-11-04,40,60,-3,-6,-3,1
+AF,Afghanistan,,,,,,2020-11-05,36,17,1,-6,1,1
+AF,Afghanistan,,,,,,2020-11-06,24,42,-5,-18,-12,2
+AF,Afghanistan,,,,,,2020-11-07,19,14,1,-13,0,2
+AF,Afghanistan,,,,,,2020-11-08,37,64,-2,-8,3,2
+AF,Afghanistan,,,,,,2020-11-09,37,63,-2,-9,3,1
+AF,Afghanistan,,,,,,2020-11-10,37,59,-1,-9,3,1
+AF,Afghanistan,,,,,,2020-11-11,35,58,1,-11,0,0
+AF,Afghanistan,,,,,,2020-11-12,37,19,2,-8,3,0
+AF,Afghanistan,,,,,,2020-11-13,29,46,-3,-11,-12,0
+AF,Afghanistan,,,,,,2020-11-14,19,11,5,-21,-1,1
+AF,Afghanistan,,,,,,2020-11-15,38,62,0,-13,2,2
+AF,Afghanistan,,,,,,2020-11-16,43,69,4,-3,4,-1
+AF,Afghanistan,,,,,,2020-11-17,43,63,3,-4,4,-1
+AF,Afghanistan,,,,,,2020-11-18,43,63,2,-12,1,-1
+AF,Afghanistan,,,,,,2020-11-19,22,5,-6,-17,-20,6
+AF,Afghanistan,,,,,,2020-11-20,26,45,-5,-15,-11,1
+AF,Afghanistan,,,,,,2020-11-21,21,19,1,-16,3,-1
+AF,Afghanistan,,,,,,2020-11-22,42,67,5,-7,6,-2
+AF,Afghanistan,,,,,,2020-11-23,38,59,2,-11,5,-1
+AF,Afghanistan,,,,,,2020-11-24,38,58,5,-10,5,0
+AF,Afghanistan,,,,,,2020-11-25,41,61,2,-8,4,0
+AF,Afghanistan,,,,,,2020-11-26,42,23,5,-3,7,0
+AF,Afghanistan,,,,,,2020-11-27,32,55,0,-10,-8,1
+AF,Afghanistan,,,,,,2020-11-28,25,25,5,-9,2,1
+AF,Afghanistan,,,,,,2020-11-29,44,75,3,-4,4,2
+AF,Afghanistan,,,,,,2020-11-30,41,69,2,-5,5,1
+AF,Afghanistan,,,,,,2020-12-01,40,68,4,-4,4,1
+AF,Afghanistan,,,,,,2020-12-02,42,66,6,-8,0,2
+AF,Afghanistan,,,,,,2020-12-03,41,23,5,-5,7,2
+AF,Afghanistan,,,,,,2020-12-04,35,61,3,-9,-4,2
+AF,Afghanistan,,,,,,2020-12-05,28,25,8,-8,3,2
+AF,Afghanistan,,,,,,2020-12-06,46,74,10,-4,4,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-15,-13,-12,-14,-2,-39,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-16,0,9,-1,10,2,-1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-17,1,11,-3,10,4,-2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-18,-1,4,3,8,4,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-19,-4,2,-5,-1,1,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-20,-3,5,-3,5,5,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-21,-3,8,2,4,5,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-22,-2,8,3,5,4,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-23,-1,6,0,5,5,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-24,-2,15,1,8,6,-1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-25,-2,7,4,8,5,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-26,-2,5,0,1,3,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-27,-1,5,3,2,6,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-28,-3,7,6,1,8,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-02-29,-4,1,3,2,6,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-01,1,6,1,7,7,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-02,1,6,0,6,6,-1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-03,4,7,1,6,6,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-04,-2,2,-1,-2,4,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-05,0,7,2,4,9,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-06,0,8,13,4,8,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-07,-1,7,6,2,6,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-08,5,6,7,5,6,-1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-09,-32,-29,-27,-13,-49,11
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-10,0,-1,4,4,4,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-11,5,-5,3,-2,1,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-12,0,-4,1,-2,6,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-13,4,9,11,4,5,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-14,9,7,9,4,3,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-15,2,13,4,3,1,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-16,-1,17,0,4,-1,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-17,0,9,5,-2,-2,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-18,0,7,5,-5,-5,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-19,-7,5,0,-5,-7,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-20,-25,-13,1,-22,-12,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-21,-32,-22,-14,-27,-51,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-22,-15,4,-9,-14,-10,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-23,-18,5,-15,-16,-8,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-24,-19,-2,-12,-18,-11,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-25,-20,-3,-16,-22,-14,8
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-26,-18,3,-15,-22,-11,8
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-27,-23,10,-10,-16,-1,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-28,-47,-29,-32,-36,-38,14
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-29,-50,-38,-41,-40,-47,15
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-30,-56,-37,-47,-44,-50,16
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-03-31,-57,-41,-43,-48,-52,17
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-01,-55,-37,-35,-42,-51,17
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-02,-54,-38,-36,-41,-46,18
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-03,-47,-24,-28,-38,-13,8
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-04,-53,-33,-39,-45,-45,14
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-05,-54,-40,-42,-43,-50,16
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-06,-56,-34,-44,-46,-50,15
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-07,-54,-38,-40,-43,-52,14
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-08,-60,-45,-47,-49,-56,21
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-09,-63,-49,-48,-48,-53,23
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-10,-57,-34,-37,-43,-21,16
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-11,-61,-47,-49,-48,-50,22
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-12,-61,-46,-51,-47,-54,23
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-13,-59,-43,-48,-47,-53,21
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-14,-61,-48,-47,-50,-54,21
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-15,-55,-45,-41,-48,-52,21
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-16,-59,-47,-43,-50,-50,22
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-17,-55,-36,-40,-48,-18,16
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-18,-54,-39,-43,-47,-47,20
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-19,-55,-46,-46,-47,-52,21
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-20,-54,-32,-45,-45,-50,18
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-21,-51,-40,-40,-43,-51,18
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-22,-52,-31,-39,-45,-51,18
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-23,-53,-39,-41,-41,-49,19
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-24,-56,-33,-46,-46,-16,19
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-25,-59,-39,-50,-47,-48,24
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-26,-56,-42,-50,-46,-51,24
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-27,-60,-40,-52,-49,-61,20
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-28,-56,-41,-47,-45,-49,18
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-29,-55,-34,-45,-45,-48,21
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-04-30,-59,-45,-47,-46,-47,23
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-01,-57,-31,-42,-45,-17,17
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-02,-57,-37,-48,-48,-47,22
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-03,-58,-41,-50,-47,-52,23
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-04,-57,-31,-47,-45,-49,20
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-05,-55,-38,-45,-44,-52,23
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-06,-53,-32,-43,-43,-49,23
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-07,-53,-38,-45,-41,-47,23
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-08,-49,-23,-34,-37,-11,15
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-09,-49,-26,-41,-37,-43,19
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-10,-49,-33,-43,-38,-48,21
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-11,-49,-21,-43,-38,-46,19
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-12,-49,-28,-41,-37,-46,21
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-13,-49,-15,-40,-40,-45,20
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-14,-48,-19,-35,-41,-41,20
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-15,-41,-2,-31,-32,0,14
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-16,-37,-7,-32,-31,-36,18
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-17,-36,-18,-34,-35,-43,19
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-05-18,-35,0,-32,-31,-40,16
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-03,-23,5,-2,-16,-6,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-04,-17,12,-10,-10,-24,11
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-05,-15,4,-12,-8,-28,12
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-06,-16,20,-12,-6,-26,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-07,-11,12,-8,-6,-28,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-08,-16,13,-8,-11,-27,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-09,-17,8,-6,-10,-23,11
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-10,-15,14,3,-9,-5,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-11,-12,18,-3,-4,-18,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-12,-11,16,-12,-5,-24,10
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-13,-14,26,-8,-3,-20,8
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-14,-13,16,-6,-3,-21,10
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-15,-10,16,-6,-7,-20,10
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-16,-13,16,-9,-3,-20,10
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-17,-9,19,7,-3,-2,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-18,-9,24,-6,-2,-15,8
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-19,-7,25,-6,1,-18,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-20,-5,28,-10,-1,-16,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-21,-8,19,-2,-3,-18,8
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-22,-6,24,-5,-7,-19,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-23,-10,19,-3,-2,-18,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-24,-5,29,6,-6,1,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-25,-8,30,4,-4,-14,8
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-26,-5,29,1,1,-18,9
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-27,-6,34,-2,-3,-18,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-28,-3,30,6,1,-20,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-29,-2,36,2,2,-25,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-30,-10,25,-10,-4,-52,13
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-07-31,-36,-7,-11,-20,-26,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-01,-44,-32,-16,-27,-71,14
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-02,-37,-28,-17,-25,-72,13
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-03,-21,-1,-3,-15,-40,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-04,-14,9,-2,-7,-26,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-05,-8,13,-5,-6,-22,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-06,-9,15,-1,-5,-19,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-07,-12,10,-1,-8,-5,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-08,-23,-10,-20,-16,-46,13
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-09,-16,-3,-22,-9,-45,13
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-10,7,37,11,8,-17,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-11,8,27,9,7,-16,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-12,7,28,7,5,-16,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-13,2,21,5,4,-13,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-14,1,20,14,4,-4,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-15,6,29,9,11,-10,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-16,7,25,7,7,-15,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-17,,,,11,-13,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-18,,,,-8,-55,10
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-19,,,,4,-13,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-20,,,,6,-8,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-21,,,,6,-2,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-22,,,,8,-5,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-23,,,,10,-10,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-24,,,,8,-9,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-25,,,,9,-9,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-26,,,,4,-9,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-27,,,,1,-7,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-28,,,,5,0,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-29,,,,-9,-18,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-30,,,-27,-23,-66,19
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-08-31,,,,12,-5,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-01,,,,15,-6,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-02,,,,7,-6,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-03,,,,4,-5,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-04,,,,3,-5,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-05,,,,9,-5,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-06,,,,12,-6,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-07,,,,15,-5,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-08,,,,-9,-58,15
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-09,,,,7,-4,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-10,,,,8,-1,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-11,31,55,29,-6,-4,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-12,36,22,31,-3,-1,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-13,33,55,18,-4,-6,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-14,35,69,27,-3,2,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-15,39,61,34,2,2,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-16,43,65,32,-3,-1,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-17,29,50,27,5,2,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-18,26,40,28,3,-4,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-19,37,19,35,7,2,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-20,37,52,21,7,0,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-21,36,60,28,8,-1,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-22,37,48,25,15,-1,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-23,28,46,24,17,-3,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-24,23,46,18,14,0,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-25,17,38,19,11,-7,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-26,26,7,22,15,1,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-27,30,45,17,22,-1,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-28,25,55,18,20,2,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-29,26,46,23,20,-1,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-09-30,24,48,20,16,-5,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-01,21,37,20,17,-1,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-02,19,54,14,12,-12,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-03,26,18,21,12,-1,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-04,32,60,19,14,-4,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-05,24,61,14,17,-1,0
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-06,24,54,21,16,-1,1
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-07,28,53,12,10,-1,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-08,25,55,13,15,4,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-09,25,49,13,5,-9,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-10,28,15,16,5,3,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-11,34,53,16,11,1,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-12,33,64,20,16,2,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-13,33,56,16,15,1,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-14,30,58,15,10,1,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-15,29,61,14,16,6,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-16,26,58,13,10,-7,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-17,28,17,10,11,4,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-18,29,53,8,13,2,8
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-19,27,64,12,15,3,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-20,23,51,11,15,0,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-21,25,56,14,8,0,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-22,29,68,23,17,4,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-23,26,74,20,11,-8,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-24,29,32,31,12,3,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-25,35,68,24,19,0,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-26,30,79,23,15,4,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-27,32,70,19,16,2,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-28,31,68,20,17,-1,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-29,-4,19,-12,2,-52,14
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-30,17,51,8,16,-10,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-10-31,23,12,11,12,0,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-01,28,58,11,15,0,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-02,28,67,3,22,3,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-03,22,56,11,18,-2,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-04,25,55,12,15,-1,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-05,23,56,20,16,2,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-06,11,47,3,0,-12,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-07,23,13,13,7,4,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-08,25,56,6,12,2,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-09,23,63,3,12,5,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-10,25,56,13,11,3,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-11,20,54,13,9,3,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-12,23,55,16,13,4,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-13,16,53,5,10,-10,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-14,18,4,20,-4,1,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-15,23,49,-1,6,1,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-16,31,71,20,21,6,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-17,30,59,12,17,5,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-18,29,59,8,10,4,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-19,-3,21,-15,2,-43,13
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-20,12,51,7,6,-9,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-21,21,12,7,4,5,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-22,34,64,14,15,6,2
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-23,20,50,5,10,5,3
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-24,24,50,15,10,5,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-25,31,62,10,13,7,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-26,31,67,16,20,8,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-27,23,60,8,11,-5,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-28,30,21,16,13,4,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-29,32,67,11,18,4,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-11-30,27,69,6,17,6,4
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-12-01,28,67,17,18,4,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-12-02,29,61,15,12,4,7
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-12-03,26,58,15,17,9,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-12-04,28,67,13,12,1,5
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-12-05,34,20,22,13,7,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,2020-12-06,34,68,18,16,5,6

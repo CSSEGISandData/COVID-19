@@ -1,0 +1,593 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+QA,Qatar,,,,,,2020-02-15,-3,0,7,1,5,1
+QA,Qatar,,,,,,2020-02-16,-1,0,16,3,3,1
+QA,Qatar,,,,,,2020-02-17,-1,-1,9,1,4,1
+QA,Qatar,,,,,,2020-02-18,-3,-3,8,1,4,1
+QA,Qatar,,,,,,2020-02-19,-3,-4,7,-1,4,1
+QA,Qatar,,,,,,2020-02-20,-1,-1,8,-2,3,2
+QA,Qatar,,,,,,2020-02-21,-1,0,12,-2,2,1
+QA,Qatar,,,,,,2020-02-22,-1,-1,10,-1,5,1
+QA,Qatar,,,,,,2020-02-23,-1,-2,18,0,5,1
+QA,Qatar,,,,,,2020-02-24,-1,-3,9,0,5,1
+QA,Qatar,,,,,,2020-02-25,-2,-3,10,0,4,1
+QA,Qatar,,,,,,2020-02-26,-3,-3,-2,-2,4,1
+QA,Qatar,,,,,,2020-02-27,4,6,5,-1,4,1
+QA,Qatar,,,,,,2020-02-28,2,6,6,-2,4,1
+QA,Qatar,,,,,,2020-02-29,3,7,6,0,6,1
+QA,Qatar,,,,,,2020-03-01,4,8,13,1,4,1
+QA,Qatar,,,,,,2020-03-02,2,7,1,0,5,1
+QA,Qatar,,,,,,2020-03-03,1,5,3,-1,5,1
+QA,Qatar,,,,,,2020-03-04,0,6,-4,-2,5,2
+QA,Qatar,,,,,,2020-03-05,2,8,4,-4,5,2
+QA,Qatar,,,,,,2020-03-06,-1,7,3,-5,4,2
+QA,Qatar,,,,,,2020-03-07,0,5,5,-3,7,2
+QA,Qatar,,,,,,2020-03-08,2,5,9,-2,6,1
+QA,Qatar,,,,,,2020-03-09,-2,16,-1,-8,6,2
+QA,Qatar,,,,,,2020-03-10,-6,4,1,-9,2,4
+QA,Qatar,,,,,,2020-03-11,-11,0,-4,-14,2,4
+QA,Qatar,,,,,,2020-03-12,-18,1,-12,-21,0,8
+QA,Qatar,,,,,,2020-03-13,-35,-15,-26,-37,-4,10
+QA,Qatar,,,,,,2020-03-14,-25,-8,-14,-30,0,8
+QA,Qatar,,,,,,2020-03-15,-17,-4,-3,-23,-5,9
+QA,Qatar,,,,,,2020-03-16,-26,-4,-11,-28,-8,10
+QA,Qatar,,,,,,2020-03-17,-31,-4,-12,-33,-15,13
+QA,Qatar,,,,,,2020-03-18,-41,-13,-23,-39,-20,16
+QA,Qatar,,,,,,2020-03-19,-43,-15,-21,-43,-22,19
+QA,Qatar,,,,,,2020-03-20,-58,-32,-40,-52,-24,16
+QA,Qatar,,,,,,2020-03-21,-46,-20,-25,-43,-18,15
+QA,Qatar,,,,,,2020-03-22,-48,-26,-33,-48,-26,20
+QA,Qatar,,,,,,2020-03-23,-49,-24,-37,-48,-27,20
+QA,Qatar,,,,,,2020-03-24,-49,-23,-36,-48,-29,20
+QA,Qatar,,,,,,2020-03-25,-50,-22,-41,-49,-29,21
+QA,Qatar,,,,,,2020-03-26,-50,-20,-44,-52,-30,23
+QA,Qatar,,,,,,2020-03-27,-68,-39,-66,-63,-32,19
+QA,Qatar,,,,,,2020-03-28,-57,-29,-45,-53,-25,19
+QA,Qatar,,,,,,2020-03-29,-51,-25,-34,-52,-31,22
+QA,Qatar,,,,,,2020-03-30,-52,-24,-41,-51,-31,21
+QA,Qatar,,,,,,2020-03-31,-52,-24,-39,-51,-32,21
+QA,Qatar,,,,,,2020-04-01,-52,-23,-44,-52,-33,21
+QA,Qatar,,,,,,2020-04-02,-55,-22,-47,-56,-35,26
+QA,Qatar,,,,,,2020-04-03,-67,-38,-66,-65,-36,20
+QA,Qatar,,,,,,2020-04-04,-56,-26,-45,-54,-29,20
+QA,Qatar,,,,,,2020-04-05,-50,-21,-35,-52,-36,24
+QA,Qatar,,,,,,2020-04-06,-52,-22,-38,-53,-36,24
+QA,Qatar,,,,,,2020-04-07,-53,-23,-37,-55,-37,24
+QA,Qatar,,,,,,2020-04-08,-54,-24,-43,-56,-37,24
+QA,Qatar,,,,,,2020-04-09,-54,-20,-44,-58,-37,27
+QA,Qatar,,,,,,2020-04-10,-72,-47,-67,-69,-40,21
+QA,Qatar,,,,,,2020-04-11,-63,-35,-48,-60,-39,23
+QA,Qatar,,,,,,2020-04-12,-48,-23,-33,-54,-36,23
+QA,Qatar,,,,,,2020-04-13,-54,-31,-42,-57,-37,24
+QA,Qatar,,,,,,2020-04-14,-51,-25,-37,-54,-37,23
+QA,Qatar,,,,,,2020-04-15,-55,-31,-44,-58,-39,26
+QA,Qatar,,,,,,2020-04-16,-53,-24,-43,-57,-37,27
+QA,Qatar,,,,,,2020-04-17,-69,-44,-64,-68,-38,21
+QA,Qatar,,,,,,2020-04-18,-62,-35,-47,-59,-37,22
+QA,Qatar,,,,,,2020-04-19,-49,-26,-34,-55,-35,23
+QA,Qatar,,,,,,2020-04-20,-51,-27,-39,-54,-36,23
+QA,Qatar,,,,,,2020-04-21,-52,-27,-39,-54,-36,23
+QA,Qatar,,,,,,2020-04-22,-53,-24,-44,-54,-37,23
+QA,Qatar,,,,,,2020-04-23,-52,-16,-46,-56,-37,26
+QA,Qatar,,,,,,2020-04-24,-72,-41,-70,-69,-40,22
+QA,Qatar,,,,,,2020-04-25,-66,-37,-53,-61,-39,25
+QA,Qatar,,,,,,2020-04-26,-54,-30,-41,-57,-38,27
+QA,Qatar,,,,,,2020-04-27,-57,-31,-45,-57,-39,28
+QA,Qatar,,,,,,2020-04-28,-56,-28,-42,-55,-39,25
+QA,Qatar,,,,,,2020-04-29,-56,-28,-45,-55,-39,27
+QA,Qatar,,,,,,2020-04-30,-57,-27,-49,-56,-39,29
+QA,Qatar,,,,,,2020-05-01,-68,-40,-67,-64,-38,20
+QA,Qatar,,,,,,2020-05-02,-62,-32,-49,-56,-39,23
+QA,Qatar,,,,,,2020-05-03,-49,-22,-35,-53,-38,25
+QA,Qatar,,,,,,2020-05-04,-52,-24,-42,-53,-39,26
+QA,Qatar,,,,,,2020-05-05,-53,-25,-41,-52,-38,26
+QA,Qatar,,,,,,2020-05-06,-52,-21,-41,-50,-38,26
+QA,Qatar,,,,,,2020-05-07,-53,-20,-45,-52,-36,29
+QA,Qatar,,,,,,2020-05-08,-67,-37,-65,-63,-36,20
+QA,Qatar,,,,,,2020-05-09,-60,-28,-47,-54,-36,23
+QA,Qatar,,,,,,2020-05-10,-46,-16,-33,-49,-35,25
+QA,Qatar,,,,,,2020-05-11,-48,-18,-38,-48,-36,25
+QA,Qatar,,,,,,2020-05-12,-49,-19,-37,-47,-35,25
+QA,Qatar,,,,,,2020-05-13,-49,-20,-41,-50,-36,25
+QA,Qatar,,,,,,2020-05-14,-52,-21,-43,-53,-36,28
+QA,Qatar,,,,,,2020-05-15,-66,-37,-65,-64,-34,20
+QA,Qatar,,,,,,2020-05-16,-57,-27,-44,-54,-34,23
+QA,Qatar,,,,,,2020-05-17,-44,-16,-32,-49,-34,25
+QA,Qatar,,,,,,2020-05-18,-46,-17,-36,-47,-35,25
+QA,Qatar,,,,,,2020-05-19,-48,-15,-32,-44,-39,22
+QA,Qatar,,,,,,2020-05-20,-48,-12,-32,-42,-40,24
+QA,Qatar,,,,,,2020-05-21,-48,-9,-34,-40,-40,27
+QA,Qatar,,,,,,2020-05-22,-58,-23,-57,-54,-27,17
+QA,Qatar,,,,,,2020-05-23,-47,-2,-34,-42,-38,21
+QA,Qatar,,,,,,2020-05-24,-57,-31,-34,-53,-74,34
+QA,Qatar,,,,,,2020-05-25,-54,-19,-39,-53,-71,33
+QA,Qatar,,,,,,2020-05-26,-53,-19,-38,-52,-64,31
+QA,Qatar,,,,,,2020-05-27,-47,-14,-31,-43,-39,22
+QA,Qatar,,,,,,2020-05-28,-49,-17,-34,-47,-38,26
+QA,Qatar,,,,,,2020-05-29,-61,-31,-58,-60,-28,18
+QA,Qatar,,,,,,2020-05-30,-50,-18,-34,-45,-23,18
+QA,Qatar,,,,,,2020-05-31,-30,1,-16,-39,-23,18
+QA,Qatar,,,,,,2020-06-01,-30,4,-22,-35,-23,18
+QA,Qatar,,,,,,2020-06-02,-31,3,-22,-35,-23,18
+QA,Qatar,,,,,,2020-06-03,-30,5,-24,-35,-23,18
+QA,Qatar,,,,,,2020-06-04,-29,9,-25,-37,-22,19
+QA,Qatar,,,,,,2020-06-05,-49,-8,-51,-53,-21,16
+QA,Qatar,,,,,,2020-06-06,-37,3,-26,-38,-17,15
+QA,Qatar,,,,,,2020-06-07,-17,20,-4,-30,-19,15
+QA,Qatar,,,,,,2020-06-08,-20,17,-14,-30,-17,16
+QA,Qatar,,,,,,2020-06-09,-23,13,-14,-31,-17,16
+QA,Qatar,,,,,,2020-06-10,-23,13,-17,-31,-18,16
+QA,Qatar,,,,,,2020-06-11,-26,13,-21,-35,-17,18
+QA,Qatar,,,,,,2020-06-12,-45,-5,-46,-50,-17,15
+QA,Qatar,,,,,,2020-06-13,-35,5,-22,-37,-13,15
+QA,Qatar,,,,,,2020-06-14,-15,19,-2,-31,-16,15
+QA,Qatar,,,,,,2020-06-15,-17,16,-9,-30,-14,15
+QA,Qatar,,,,,,2020-06-16,-19,13,-9,-30,-14,15
+QA,Qatar,,,,,,2020-06-17,-20,13,-13,-32,-15,16
+QA,Qatar,,,,,,2020-06-18,-22,13,-14,-33,-16,17
+QA,Qatar,,,,,,2020-06-19,-43,-4,-36,-44,-15,15
+QA,Qatar,,,,,,2020-06-20,-33,5,-12,-34,-11,13
+QA,Qatar,,,,,,2020-06-21,-12,19,5,-29,-14,14
+QA,Qatar,,,,,,2020-06-22,-16,16,-2,-28,-15,15
+QA,Qatar,,,,,,2020-06-23,-18,12,-3,-28,-16,15
+QA,Qatar,,,,,,2020-06-24,-20,11,-7,-28,-14,15
+QA,Qatar,,,,,,2020-06-25,-20,15,-9,-29,-14,17
+QA,Qatar,,,,,,2020-06-26,-41,-4,-29,-42,-13,14
+QA,Qatar,,,,,,2020-06-27,-32,4,-7,-32,-11,14
+QA,Qatar,,,,,,2020-06-28,-8,22,6,-25,-11,13
+QA,Qatar,,,,,,2020-06-29,-11,21,-2,-23,-12,13
+QA,Qatar,,,,,,2020-06-30,-12,20,1,-23,-12,13
+QA,Qatar,,,,,,2020-07-01,-11,20,2,-23,-11,12
+QA,Qatar,,,,,,2020-07-02,-13,21,0,-25,-12,15
+QA,Qatar,,,,,,2020-07-03,-36,4,-15,-36,-11,13
+QA,Qatar,,,,,,2020-07-04,-28,9,0,-28,-8,13
+QA,Qatar,,,,,,2020-07-05,-3,26,12,-23,-11,12
+QA,Qatar,,,,,,2020-07-06,-8,21,5,-22,-11,12
+QA,Qatar,,,,,,2020-07-07,-9,20,10,-22,-11,12
+QA,Qatar,,,,,,2020-07-08,-12,17,0,-25,-10,13
+QA,Qatar,,,,,,2020-07-09,-14,19,2,-27,-11,15
+QA,Qatar,,,,,,2020-07-10,-29,5,-18,-37,-4,12
+QA,Qatar,,,,,,2020-07-11,-18,13,-3,-27,1,10
+QA,Qatar,,,,,,2020-07-12,-8,20,14,-25,-9,12
+QA,Qatar,,,,,,2020-07-13,-10,18,7,-23,-9,12
+QA,Qatar,,,,,,2020-07-14,-12,14,4,-24,-10,12
+QA,Qatar,,,,,,2020-07-15,-13,14,0,-26,-9,13
+QA,Qatar,,,,,,2020-07-16,-14,16,1,-28,-9,15
+QA,Qatar,,,,,,2020-07-17,-27,5,-14,-37,-2,12
+QA,Qatar,,,,,,2020-07-18,-18,9,-2,-27,3,10
+QA,Qatar,,,,,,2020-07-19,-9,16,10,-27,-8,12
+QA,Qatar,,,,,,2020-07-20,-11,14,2,-25,-8,12
+QA,Qatar,,,,,,2020-07-21,-13,11,3,-26,-9,12
+QA,Qatar,,,,,,2020-07-22,-16,10,-3,-28,-8,13
+QA,Qatar,,,,,,2020-07-23,-16,14,1,-29,-8,14
+QA,Qatar,,,,,,2020-07-24,-28,3,-15,-40,1,12
+QA,Qatar,,,,,,2020-07-25,-17,9,-2,-29,3,10
+QA,Qatar,,,,,,2020-07-26,-8,17,13,-28,-8,12
+QA,Qatar,,,,,,2020-07-27,-7,19,5,-24,-8,11
+QA,Qatar,,,,,,2020-07-28,-3,23,7,-22,-8,10
+QA,Qatar,,,,,,2020-07-29,3,35,3,-19,-8,9
+QA,Qatar,,,,,,2020-07-30,-3,42,-4,-26,-24,17
+QA,Qatar,,,,,,2020-07-31,-21,4,10,-21,-12,9
+QA,Qatar,,,,,,2020-08-01,-15,18,34,-28,-49,19
+QA,Qatar,,,,,,2020-08-02,-5,27,35,-33,-56,24
+QA,Qatar,,,,,,2020-08-03,-6,21,12,-31,-43,21
+QA,Qatar,,,,,,2020-08-04,-8,15,11,-29,-21,14
+QA,Qatar,,,,,,2020-08-05,-9,13,4,-29,-14,12
+QA,Qatar,,,,,,2020-08-06,-11,15,7,-30,-14,14
+QA,Qatar,,,,,,2020-08-07,-23,4,-10,-39,4,10
+QA,Qatar,,,,,,2020-08-08,-14,9,-1,-30,5,9
+QA,Qatar,,,,,,2020-08-09,-5,15,14,-28,-6,10
+QA,Qatar,,,,,,2020-08-10,-6,16,10,-25,-6,10
+QA,Qatar,,,,,,2020-08-11,-8,12,8,-26,-7,10
+QA,Qatar,,,,,,2020-08-12,-10,11,3,-29,-7,10
+QA,Qatar,,,,,,2020-08-13,-11,15,8,-29,-6,12
+QA,Qatar,,,,,,2020-08-14,-22,5,-7,-38,4,9
+QA,Qatar,,,,,,2020-08-15,-13,8,0,-30,5,8
+QA,Qatar,,,,,,2020-08-16,-6,14,16,-30,-6,10
+QA,Qatar,,,,,,2020-08-17,-8,12,6,-27,-6,10
+QA,Qatar,,,,,,2020-08-18,-11,9,5,-27,-5,10
+QA,Qatar,,,,,,2020-08-19,-13,8,-4,-29,-5,10
+QA,Qatar,,,,,,2020-08-20,-13,13,3,-29,-5,11
+QA,Qatar,,,,,,2020-08-21,-23,6,-4,-38,5,9
+QA,Qatar,,,,,,2020-08-22,-17,7,-2,-31,5,8
+QA,Qatar,,,,,,2020-08-23,-10,12,7,-30,-4,9
+QA,Qatar,,,,,,2020-08-24,-12,11,-2,-29,-5,10
+QA,Qatar,,,,,,2020-08-25,-12,11,4,-27,-5,9
+QA,Qatar,,,,,,2020-08-26,-14,10,-1,-29,-4,9
+QA,Qatar,,,,,,2020-08-27,-10,19,4,-28,-4,9
+QA,Qatar,,,,,,2020-08-28,-21,9,-14,-36,4,8
+QA,Qatar,,,,,,2020-08-29,-14,12,-7,-29,5,7
+QA,Qatar,,,,,,2020-08-30,-4,22,11,-26,-4,7
+QA,Qatar,,,,,,2020-08-31,-5,20,0,-24,-5,8
+QA,Qatar,,,,,,2020-09-01,-5,19,2,-19,-5,7
+QA,Qatar,,,,,,2020-09-02,-7,18,-2,-20,-5,6
+QA,Qatar,,,,,,2020-09-03,-7,20,2,-21,-6,8
+QA,Qatar,,,,,,2020-09-04,-13,14,-9,-27,2,7
+QA,Qatar,,,,,,2020-09-05,-8,17,-4,-21,3,5
+QA,Qatar,,,,,,2020-09-06,-3,21,11,-20,-5,7
+QA,Qatar,,,,,,2020-09-07,-5,19,2,-16,-6,6
+QA,Qatar,,,,,,2020-09-08,-6,17,4,-17,-6,5
+QA,Qatar,,,,,,2020-09-09,-9,13,-3,-18,-4,5
+QA,Qatar,,,,,,2020-09-10,-7,19,3,-17,-5,5
+QA,Qatar,,,,,,2020-09-11,-12,15,-6,-22,3,5
+QA,Qatar,,,,,,2020-09-12,-9,16,-1,-19,4,5
+QA,Qatar,,,,,,2020-09-13,-4,18,10,-18,-4,6
+QA,Qatar,,,,,,2020-09-14,-7,15,-1,-15,-2,6
+QA,Qatar,,,,,,2020-09-15,-8,13,2,-15,-3,6
+QA,Qatar,,,,,,2020-09-16,-10,12,-2,-17,-3,7
+QA,Qatar,,,,,,2020-09-17,-9,15,3,-17,-4,8
+QA,Qatar,,,,,,2020-09-18,-15,10,-6,-23,1,7
+QA,Qatar,,,,,,2020-09-19,-11,12,-2,-20,3,6
+QA,Qatar,,,,,,2020-09-20,-7,15,7,-20,-3,7
+QA,Qatar,,,,,,2020-09-21,-9,13,-3,-15,-4,7
+QA,Qatar,,,,,,2020-09-22,-11,11,-4,-13,-4,7
+QA,Qatar,,,,,,2020-09-23,-12,11,-9,-13,-3,7
+QA,Qatar,,,,,,2020-09-24,-10,16,-6,-12,-3,8
+QA,Qatar,,,,,,2020-09-25,-17,10,-13,-22,1,7
+QA,Qatar,,,,,,2020-09-26,-13,13,-8,-15,5,6
+QA,Qatar,,,,,,2020-09-27,-8,18,-1,-13,-2,7
+QA,Qatar,,,,,,2020-09-28,-6,20,-11,-9,-2,6
+QA,Qatar,,,,,,2020-09-29,-6,19,-6,-8,-3,5
+QA,Qatar,,,,,,2020-09-30,-7,21,-8,-10,-3,4
+QA,Qatar,,,,,,2020-10-01,-5,26,-4,-9,-3,4
+QA,Qatar,,,,,,2020-10-02,-10,22,-8,-14,0,4
+QA,Qatar,,,,,,2020-10-03,-7,22,-7,-11,2,3
+QA,Qatar,,,,,,2020-10-04,-3,26,5,-10,-4,4
+QA,Qatar,,,,,,2020-10-05,-5,22,-7,-7,-5,3
+QA,Qatar,,,,,,2020-10-06,-7,20,-3,-6,-5,3
+QA,Qatar,,,,,,2020-10-07,-7,19,-4,-7,-3,3
+QA,Qatar,,,,,,2020-10-08,-5,23,2,-7,-2,4
+QA,Qatar,,,,,,2020-10-09,-10,19,2,-14,1,4
+QA,Qatar,,,,,,2020-10-10,-9,17,-2,-11,4,4
+QA,Qatar,,,,,,2020-10-11,-4,21,5,-7,-2,5
+QA,Qatar,,,,,,2020-10-12,-7,18,-3,-4,-3,5
+QA,Qatar,,,,,,2020-10-13,-8,17,2,-5,-3,5
+QA,Qatar,,,,,,2020-10-14,-10,15,-6,-8,-2,5
+QA,Qatar,,,,,,2020-10-15,-8,20,-1,-8,-2,6
+QA,Qatar,,,,,,2020-10-16,-14,17,1,-18,1,5
+QA,Qatar,,,,,,2020-10-17,-13,15,-6,-12,3,5
+QA,Qatar,,,,,,2020-10-18,-7,20,0,-12,-2,6
+QA,Qatar,,,,,,2020-10-19,-10,16,-8,-9,-3,5
+QA,Qatar,,,,,,2020-10-20,-10,14,-1,-9,-3,5
+QA,Qatar,,,,,,2020-10-21,-11,14,-1,-10,-2,5
+QA,Qatar,,,,,,2020-10-22,-8,21,12,-10,-3,5
+QA,Qatar,,,,,,2020-10-23,-14,15,12,-18,1,4
+QA,Qatar,,,,,,2020-10-24,-12,15,5,-13,4,4
+QA,Qatar,,,,,,2020-10-25,-5,21,14,-12,-3,5
+QA,Qatar,,,,,,2020-10-26,-8,18,5,-9,-3,4
+QA,Qatar,,,,,,2020-10-27,-7,18,8,-8,-3,3
+QA,Qatar,,,,,,2020-10-28,-5,21,2,-7,-3,3
+QA,Qatar,,,,,,2020-10-29,-4,25,6,-7,-4,3
+QA,Qatar,,,,,,2020-10-30,-9,21,7,-13,1,1
+QA,Qatar,,,,,,2020-10-31,-7,22,0,-11,3,2
+QA,Qatar,,,,,,2020-11-01,-2,26,7,-9,-2,3
+QA,Qatar,,,,,,2020-11-02,-4,24,-1,-4,-3,2
+QA,Qatar,,,,,,2020-11-03,-4,22,6,-5,-3,3
+QA,Qatar,,,,,,2020-11-04,-7,20,-3,-9,-2,3
+QA,Qatar,,,,,,2020-11-05,-6,22,3,-9,-3,4
+QA,Qatar,,,,,,2020-11-06,-10,20,7,-16,-1,3
+QA,Qatar,,,,,,2020-11-07,-9,18,-2,-13,3,3
+QA,Qatar,,,,,,2020-11-08,-4,22,5,-11,-2,4
+QA,Qatar,,,,,,2020-11-09,-6,20,-3,-8,-3,4
+QA,Qatar,,,,,,2020-11-10,-7,18,0,-8,-3,4
+QA,Qatar,,,,,,2020-11-11,-7,19,-3,-9,-2,4
+QA,Qatar,,,,,,2020-11-12,-5,23,7,-8,-3,4
+QA,Qatar,,,,,,2020-11-13,-10,21,7,-16,0,3
+QA,Qatar,,,,,,2020-11-14,-8,20,1,-12,1,4
+QA,Qatar,,,,,,2020-11-15,-3,22,7,-10,-2,4
+QA,Qatar,,,,,,2020-11-16,-6,18,1,-7,-3,4
+QA,Qatar,,,,,,2020-11-17,-7,16,2,-7,-3,4
+QA,Qatar,,,,,,2020-11-18,-8,15,-2,-8,-2,4
+QA,Qatar,,,,,,2020-11-19,-5,20,7,-7,-2,4
+QA,Qatar,,,,,,2020-11-20,-10,16,10,-17,0,4
+QA,Qatar,,,,,,2020-11-21,-8,15,3,-12,4,3
+QA,Qatar,,,,,,2020-11-22,-3,19,6,-9,-1,4
+QA,Qatar,,,,,,2020-11-23,-7,15,-5,-7,-2,4
+QA,Qatar,,,,,,2020-11-24,-6,15,-3,-7,-3,4
+QA,Qatar,,,,,,2020-11-25,-6,15,-4,-5,-2,4
+QA,Qatar,,,,,,2020-11-26,0,23,5,0,-2,3
+QA,Qatar,,,,,,2020-11-27,-1,21,5,-7,1,2
+QA,Qatar,,,,,,2020-11-28,-2,19,3,-5,4,2
+QA,Qatar,,,,,,2020-11-29,2,24,8,-3,-1,3
+QA,Qatar,,,,,,2020-11-30,2,24,-3,2,-1,3
+QA,Qatar,,,,,,2020-12-01,-1,22,0,0,-4,3
+QA,Qatar,,,,,,2020-12-02,-2,22,-2,-3,-2,3
+QA,Qatar,,,,,,2020-12-03,1,25,6,0,-2,3
+QA,Qatar,,,,,,2020-12-04,-3,21,7,-7,1,2
+QA,Qatar,,,,,,2020-12-05,-3,20,0,-5,5,2
+QA,Qatar,,,,,,2020-12-06,1,23,2,-3,-2,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-15,-3,2,9,-4,4,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-16,-1,3,11,0,3,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-17,-3,0,9,-3,3,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-18,-3,0,12,-3,3,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-19,-4,-1,8,-5,4,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-20,-2,0,9,-4,3,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-21,-3,0,10,-7,1,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-22,-2,0,11,-6,5,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-23,-2,1,15,-3,5,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-24,-3,-1,10,-4,5,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-25,-3,0,13,-4,4,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-26,-4,0,-3,-6,4,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-27,2,8,4,-3,3,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-28,0,8,4,-8,3,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-02-29,2,9,5,-5,6,0
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-01,3,12,9,-3,3,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-02,1,9,0,-4,5,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-03,0,10,4,-5,5,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-04,-2,9,-5,-6,5,2
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-05,0,8,6,-6,5,2
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-06,-2,7,2,-10,3,2
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-07,-2,6,4,-8,6,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-08,0,8,3,-6,6,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-09,-5,16,-5,-11,6,2
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-10,-9,6,0,-13,2,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-11,-13,0,-7,-18,2,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-12,-21,-3,-18,-24,-1,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-13,-38,-20,-35,-42,-6,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-14,-28,-11,-22,-35,-1,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-15,-20,-4,-13,-27,-6,9
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-16,-29,-6,-18,-32,-9,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-17,-35,-5,-20,-36,-17,14
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-18,-45,-17,-33,-43,-23,17
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-19,-47,-22,-29,-46,-25,20
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-20,-61,-39,-51,-57,-27,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-21,-49,-25,-36,-47,-21,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-22,-51,-28,-51,-51,-29,21
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-23,-52,-29,-54,-51,-30,21
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-24,-52,-27,-53,-51,-31,21
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-25,-53,-27,-57,-53,-32,21
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-26,-54,-26,-59,-54,-33,24
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-27,-71,-44,-79,-67,-35,20
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-28,-61,-34,-61,-57,-28,19
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-29,-55,-28,-54,-55,-33,22
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-30,-56,-28,-56,-54,-34,22
+QA,Qatar,,,Doha Metropolitan Area,,,2020-03-31,-55,-27,-53,-53,-34,22
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-01,-55,-26,-56,-55,-35,22
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-02,-59,-28,-60,-58,-38,27
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-03,-71,-43,-78,-68,-39,20
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-04,-59,-30,-59,-58,-32,20
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-05,-54,-24,-50,-55,-39,24
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-06,-56,-26,-52,-55,-39,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-07,-56,-26,-51,-57,-40,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-08,-58,-27,-57,-58,-40,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-09,-59,-26,-57,-59,-40,28
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-10,-75,-51,-78,-71,-44,22
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-11,-66,-38,-61,-63,-44,24
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-12,-52,-25,-48,-56,-39,24
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-13,-57,-34,-56,-59,-40,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-14,-55,-27,-49,-57,-40,24
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-15,-58,-33,-56,-61,-42,26
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-16,-57,-29,-55,-59,-39,27
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-17,-72,-47,-75,-71,-42,21
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-18,-64,-36,-57,-61,-42,22
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-19,-50,-24,-45,-56,-38,23
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-20,-53,-26,-48,-56,-39,24
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-21,-53,-25,-47,-56,-39,23
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-22,-54,-23,-52,-56,-39,23
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-23,-55,-17,-54,-57,-39,26
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-24,-73,-43,-78,-72,-43,22
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-25,-67,-37,-62,-63,-43,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-26,-56,-28,-52,-58,-41,27
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-27,-59,-31,-53,-58,-41,28
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-28,-57,-26,-51,-57,-41,27
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-29,-57,-27,-54,-57,-42,27
+QA,Qatar,,,Doha Metropolitan Area,,,2020-04-30,-59,-29,-57,-58,-41,29
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-01,-70,-41,-74,-67,-41,20
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-02,-63,-32,-56,-58,-42,23
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-03,-50,-19,-44,-54,-40,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-04,-53,-23,-48,-53,-41,26
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-05,-54,-23,-46,-53,-41,26
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-06,-53,-20,-47,-51,-40,26
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-07,-55,-21,-51,-54,-39,28
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-08,-68,-37,-71,-65,-39,20
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-09,-61,-29,-53,-56,-40,23
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-10,-48,-15,-41,-51,-38,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-11,-51,-18,-44,-50,-38,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-12,-51,-18,-42,-50,-38,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-13,-51,-20,-47,-52,-38,26
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-14,-54,-22,-50,-55,-38,29
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-15,-68,-38,-71,-67,-37,20
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-16,-60,-28,-51,-57,-37,23
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-17,-46,-15,-39,-51,-37,25
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-18,-48,-17,-42,-49,-37,24
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-19,-50,-13,-36,-46,-41,22
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-20,-50,-11,-39,-44,-43,24
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-21,-51,-10,-40,-41,-43,26
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-22,-60,-23,-62,-57,-30,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-23,-49,-2,-38,-44,-41,20
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-24,-59,-31,-43,-55,-75,33
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-25,-57,-20,-47,-56,-73,33
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-26,-55,-18,-42,-54,-67,31
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-27,-50,-14,-36,-45,-43,23
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-28,-52,-18,-40,-49,-42,26
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-29,-63,-32,-64,-62,-32,18
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-30,-52,-19,-39,-47,-27,18
+QA,Qatar,,,Doha Metropolitan Area,,,2020-05-31,-32,2,-22,-41,-26,18
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-01,-33,4,-26,-37,-26,18
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-02,-33,5,-24,-38,-26,18
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-03,-33,6,-28,-38,-26,18
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-04,-32,8,-28,-39,-25,19
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-05,-52,-9,-55,-55,-25,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-06,-40,2,-28,-41,-22,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-07,-19,20,-9,-33,-21,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-08,-23,17,-15,-33,-21,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-09,-25,14,-14,-34,-21,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-10,-26,13,-20,-34,-21,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-11,-29,12,-23,-37,-21,19
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-12,-48,-6,-50,-52,-21,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-13,-38,4,-23,-40,-17,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-14,-18,20,-7,-34,-19,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-15,-20,16,-8,-33,-18,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-16,-21,15,-7,-32,-18,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-17,-22,14,-12,-34,-19,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-18,-25,13,-13,-34,-19,18
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-19,-46,-6,-37,-47,-19,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-20,-36,4,-10,-37,-15,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-21,-14,20,3,-31,-18,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-22,-19,15,1,-31,-19,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-23,-20,14,2,-31,-19,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-24,-21,13,-4,-31,-18,16
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-25,-22,15,-7,-30,-18,17
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-26,-44,-5,-31,-45,-17,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-27,-35,3,-6,-35,-15,14
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-28,-10,24,6,-27,-14,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-29,-13,22,2,-25,-15,14
+QA,Qatar,,,Doha Metropolitan Area,,,2020-06-30,-14,22,5,-25,-15,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-01,-13,22,6,-26,-15,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-02,-16,20,1,-27,-15,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-03,-39,2,-19,-40,-15,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-04,-30,8,3,-31,-12,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-05,-5,27,13,-25,-14,12
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-06,-10,21,11,-24,-14,12
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-07,-11,21,19,-25,-14,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-08,-14,18,6,-27,-13,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-09,-17,19,5,-28,-14,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-10,-32,4,-23,-40,-8,12
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-11,-20,12,1,-30,-3,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-12,-10,21,16,-27,-12,12
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-13,-13,17,15,-25,-12,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-14,-14,16,13,-27,-13,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-15,-15,16,7,-28,-12,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-16,-16,16,6,-29,-12,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-17,-30,4,-18,-40,-5,12
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-18,-19,9,4,-30,-1,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-19,-11,17,12,-29,-11,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-20,-13,15,11,-27,-10,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-21,-14,13,14,-28,-11,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-22,-17,12,5,-30,-11,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-23,-17,14,7,-30,-11,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-24,-29,3,-15,-41,-3,12
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-25,-18,10,5,-31,0,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-26,-9,19,17,-29,-11,12
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-27,-8,20,17,-25,-11,11
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-28,-4,26,20,-24,-11,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-29,2,38,12,-21,-11,9
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-30,-5,43,0,-27,-28,17
+QA,Qatar,,,Doha Metropolitan Area,,,2020-07-31,-23,4,8,-25,-14,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-01,-16,18,28,-31,-51,17
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-02,-6,29,26,-35,-58,23
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-03,-8,23,18,-33,-45,21
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-04,-9,18,23,-31,-24,14
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-05,-10,15,12,-31,-17,13
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-06,-13,15,13,-31,-17,15
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-07,-25,4,-10,-41,0,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-08,-15,9,6,-32,2,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-09,-6,17,19,-29,-8,11
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-10,-7,17,21,-27,-9,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-11,-9,15,21,-28,-9,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-12,-11,13,12,-30,-9,11
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-13,-12,15,14,-30,-9,12
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-14,-23,5,-7,-40,2,9
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-15,-14,8,9,-33,3,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-16,-7,16,23,-31,-8,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-17,-10,12,20,-29,-8,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-18,-12,12,21,-28,-7,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-19,-14,9,6,-31,-8,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-20,-15,13,11,-30,-8,11
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-21,-25,7,-3,-40,2,9
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-22,-18,8,7,-33,2,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-23,-11,14,13,-32,-7,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-24,-13,12,8,-31,-7,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-25,-13,14,18,-29,-7,9
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-26,-15,12,10,-31,-6,9
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-27,-12,21,12,-28,-6,10
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-28,-22,10,-14,-38,2,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-29,-15,13,1,-31,3,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-30,-4,24,16,-27,-6,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-08-31,-6,21,12,-26,-7,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-01,-5,23,16,-20,-7,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-02,-8,20,9,-22,-7,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-03,-8,21,10,-21,-8,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-04,-14,16,-8,-28,1,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-05,-9,18,4,-23,1,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-06,-3,23,17,-20,-7,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-07,-7,20,15,-18,-8,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-08,-7,20,19,-19,-7,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-09,-10,16,8,-20,-6,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-10,-8,20,13,-17,-7,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-11,-13,16,-3,-23,1,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-12,-10,16,8,-22,2,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-13,-5,20,16,-19,-6,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-14,-9,17,11,-17,-4,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-15,-9,16,17,-17,-4,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-16,-11,15,10,-19,-5,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-17,-10,17,12,-17,-6,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-18,-16,12,-2,-24,0,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-19,-12,13,8,-22,1,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-20,-8,16,15,-20,-4,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-21,-10,14,10,-17,-5,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-22,-11,14,12,-15,-5,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-23,-13,14,5,-15,-4,8
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-24,-11,18,6,-11,-4,9
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-25,-17,11,-8,-22,-1,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-26,-13,14,2,-16,3,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-27,-8,19,7,-13,-3,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-28,-7,21,3,-10,-3,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-29,-6,23,11,-9,-4,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-09-30,-7,24,6,-12,-4,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-01,-6,28,6,-8,-4,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-02,-10,23,-4,-14,0,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-03,-7,23,3,-12,1,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-04,-3,27,13,-9,-5,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-05,-6,23,7,-9,-5,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-06,-7,23,14,-7,-6,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-07,-8,21,10,-9,-4,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-08,-5,24,14,-5,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-09,-10,20,8,-14,1,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-10,-9,18,10,-12,3,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-11,-4,23,14,-6,-2,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-12,-8,20,13,-6,-4,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-13,-8,20,22,-6,-4,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-14,-10,17,10,-10,-3,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-15,-8,22,13,-7,-3,7
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-16,-15,17,9,-18,0,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-17,-13,15,6,-13,2,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-18,-7,21,10,-11,-3,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-19,-11,17,8,-10,-4,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-20,-11,17,20,-9,-4,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-21,-12,17,15,-11,-4,6
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-22,-8,22,27,-8,-4,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-23,-15,16,20,-18,0,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-24,-12,15,18,-15,2,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-25,-5,22,23,-12,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-26,-9,19,22,-10,-4,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-27,-7,21,28,-8,-4,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-28,-6,25,19,-8,-4,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-29,-4,27,20,-5,-5,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-30,-10,21,13,-13,0,1
+QA,Qatar,,,Doha Metropolitan Area,,,2020-10-31,-7,23,12,-12,2,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-01,-2,28,17,-8,-3,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-02,-5,26,16,-5,-3,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-03,-5,25,26,-5,-4,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-04,-8,22,12,-10,-3,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-05,-7,23,18,-7,-4,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-06,-10,21,16,-16,-2,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-07,-10,18,11,-14,2,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-08,-4,23,15,-10,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-09,-7,21,16,-9,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-10,-7,21,19,-8,-4,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-11,-7,22,13,-10,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-12,-6,24,21,-6,-4,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-13,-11,21,14,-16,-1,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-14,-8,21,14,-13,0,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-15,-3,23,16,-9,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-16,-7,19,19,-8,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-17,-7,19,22,-7,-3,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-18,-8,18,14,-9,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-19,-6,20,23,-5,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-20,-11,15,21,-17,-2,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-21,-8,15,16,-13,3,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-22,-3,20,17,-8,-2,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-23,-7,16,14,-9,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-24,-6,18,17,-8,-3,5
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-25,-6,17,13,-6,-2,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-26,0,24,22,2,-3,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-27,-1,22,18,-7,0,2
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-28,-2,20,17,-6,3,2
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-29,2,25,19,-2,-2,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-11-30,1,25,15,1,-2,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-12-01,-1,25,23,-1,-4,4
+QA,Qatar,,,Doha Metropolitan Area,,,2020-12-02,-2,24,15,-4,-3,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-12-03,0,26,23,2,-3,3
+QA,Qatar,,,Doha Metropolitan Area,,,2020-12-04,-3,21,19,-7,0,2
+QA,Qatar,,,Doha Metropolitan Area,,,2020-12-05,-3,20,14,-6,4,2
+QA,Qatar,,,Doha Metropolitan Area,,,2020-12-06,1,24,13,-2,-3,3
