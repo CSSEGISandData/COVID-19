@@ -412,7 +412,7 @@ United States
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Kentucky: Providing data Monday-Friday.
 * Louisiana: Providing data Monday-Friday.
-* Maine: Providing data Monday-Friday.
+* Maine: Providing data Tuesday-Saturday.
 * Montana: Providing data Monday-Friday.
 * Michigan: Providing data Tuesdays and Fridays (as of 07/07/2021). No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
