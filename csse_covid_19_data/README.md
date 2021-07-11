@@ -413,9 +413,11 @@ United States
 * Kentucky: Providing data Monday-Friday.
 * Louisiana: Providing data Monday-Friday.
 * Maine: Providing data Tuesday-Saturday.
-* Montana: Providing data Monday-Friday.
-* Michigan: Providing data Tuesdays and Fridays (as of 07/07/2021). No case data provided for August 21.
+* Massachuetts: Providing data Monday-Friday.
+* Minnesota: Providing data Monday-Friday.
 * Mississippi: Providing data Monday-Friday.
+* Michigan: Providing data Tuesdays and Fridays (as of 07/07/2021). No case data provided for August 21.
+* Montana: Providing data Monday-Friday.
 * Nebraska: **Retired dashboard. We are looking for a solution**
 * Nevada: Providing data Monday-Friday.
 * New Hampshire: Providing data Monday-Friday.
