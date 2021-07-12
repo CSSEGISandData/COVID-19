@@ -19753,3 +19753,12 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/07/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",07/06/2021,31,32,"Correct Unassigned, Nebraska deaths data"
 07/07/2021,time_series_covid19_confirmed_global.csv,US,07/06/2021,33747128,33747513,"Correct Nebraska, US confirmed data"
 07/07/2021,time_series_covid19_deaths_global.csv,US,07/06/2021,605905,605906,"Correct Nebraska, US deaths data"
+07/12/2021,time_series_covid19_confirmed_global.csv,Turkey,07/09/2021,5465094,5470764,Correct Turkey confirmed data
+07/12/2021,time_series_covid19_confirmed_global.csv,Turkey,07/10/2021,5465094,5476294,Correct Turkey confirmed data
+07/12/2021,time_series_covid19_confirmed_global.csv,Turkey,07/11/2021,5465094,5481555,Correct Turkey confirmed data
+07/12/2021,time_series_covid19_deaths_global.csv,Turkey,07/09/2021,50096,50155,Correct Turkey deaths data
+07/12/2021,time_series_covid19_deaths_global.csv,Turkey,07/10/2021,50096,50192,Correct Turkey deaths data
+07/12/2021,time_series_covid19_deaths_global.csv,Turkey,07/11/2021,50096,50229,Correct Turkey deaths data
+07/12/2021,time_series_covid19_recovered_global.csv,Turkey,07/09/2021,5333759,5338885,Correct Turkey recovered data
+07/12/2021,time_series_covid19_recovered_global.csv,Turkey,07/10/2021,5333759,5344102,Correct Turkey recovered data
+07/12/2021,time_series_covid19_recovered_global.csv,Turkey,07/11/2021,5333759,5349344,Correct Turkey recovered data
