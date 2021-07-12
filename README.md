@@ -270,6 +270,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Peru:
     - National Police of Peru (PNP) - Directorate of Intelligence (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
     - Ministry of Health of Peru: https://covid19.minsa.gob.pe/sala_situacional.asp
+  - Philippines:
+    - Republic of Philippines Department of Health: https://doh.gov.ph/covid19tracker
   - Poland: 
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
   - Portugal:
