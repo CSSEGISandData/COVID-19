@@ -412,10 +412,12 @@ United States
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Kentucky: Providing data Monday-Friday.
 * Louisiana: Providing data Monday-Friday.
-* Maine: Providing data Monday-Friday.
-* Montana: Providing data Monday-Friday.
-* Michigan: Providing data Tuesdays and Fridays (as of 07/07/2021). No case data provided for August 21.
+* Maine: Providing data Tuesday-Saturday.
+* Massachuetts: Providing data Monday-Friday.
+* Minnesota: Providing data Monday-Friday.
 * Mississippi: Providing data Monday-Friday.
+* Michigan: Providing data Tuesdays and Fridays (as of 07/07/2021). No case data provided for August 21.
+* Montana: Providing data Monday-Friday.
 * Nebraska: **Retired dashboard. We are looking for a solution**
 * Nevada: Providing data Monday-Friday.
 * New Hampshire: Providing data Monday-Friday.
@@ -423,6 +425,7 @@ United States
 * North Carolina: Providing data Monday-Friday.
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
 * Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
+* Oregon: Providing data Monday-Friday (as of July 10, 2021).
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Carlina: Providing data Monday-Friday.
 * South Dakota: Providing data Wednesdays only.
