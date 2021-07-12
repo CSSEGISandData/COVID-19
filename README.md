@@ -221,6 +221,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - Hong Kong:
     - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
+  - Hungary:
+    - Government of Hungary: https://koronavirus.gov.hu/
   - Iceland:
     - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - India:
