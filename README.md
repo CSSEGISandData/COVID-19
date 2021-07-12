@@ -257,6 +257,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
   - Netherlands:
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+  - New Zealand:
+    - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
   - Palau:
     - http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
   - Pakistan:
