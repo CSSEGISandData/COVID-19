@@ -410,6 +410,7 @@ United States
 * Idaho: Providing data Monday-Friday.
 * Illinois: Providing data Monday-Friday.
 * Indiana: Providing data Monday-Friday.
+* Iowa: Providing data once weekly (day of the week TBC).
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Kentucky: Providing data Monday-Friday.
 * Louisiana: Providing data Monday-Friday.
