@@ -19845,3 +19845,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/13/2021,time_series_covid19_deaths_US.csv,"Pope, Arkansas, US",07/12/2021,111,112,"Correct Arkansas, US deaths data"
 07/13/2021,time_series_covid19_confirmed_global.csv,US,07/12/2021,33886713,33888726,Correct US confirmed data
 07/13/2021,time_series_covid19_deaths_global.csv,US,07/12/2021,607392,607399,Correct US deaths data
+07/13/2021,time_series_covid19_confirmed_global.csv,Turkey,07/12/2021,5465094,5486959,Correct Turkey confirmed data
+07/13/2021,time_series_covid19_deaths_global.csv,Turkey,07/12/2021,50096,50278,Correct Turkey deaths data
+07/13/2021,time_series_covid19_recovered_global.csv,Turkey,07/12/2021,5333759,5354850,Correct Turkey recovered data
