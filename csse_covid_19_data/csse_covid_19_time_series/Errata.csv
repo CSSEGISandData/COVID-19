@@ -19948,3 +19948,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/14/2021,time_series_covid19_deaths_US.csv,"Sweetwater, Wyoming, US",07/13/2021,40,41,"Correct Wyoming, US deaths data"
 07/14/2021,time_series_covid19_confirmed_global.csv,US,07/13/2021,33915116,33915385,Correct US confirmed data
 07/14/2021,time_series_covid19_deaths_global.csv,US,07/13/2021,607775,607784,Correct US deaths data
+07/14/2021,time_series_covid19_confirmed_global.csv,Chile,07/13/2021,1589623,1590887,Correct Chile confirmed data
+07/14/2021,time_series_covid19_deaths_global.csv,Chile,07/13/2021,33980,34016,Correct Chile deaths data
+07/14/2021,time_series_covid19_recovered_global.csv,Chile,07/13/2021,1537815,1540595,Correct Chile recovered data
