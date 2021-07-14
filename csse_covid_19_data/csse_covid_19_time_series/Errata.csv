@@ -19954,3 +19954,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/14/2021,time_series_covid19_confirmed_global.csv,Colombia,07/13/2021,4530610,4548142,Correct Colombia confirmed data
 07/14/2021,time_series_covid19_deaths_global.csv,Colombia,07/13/2021,113335,113839,Correct Colombia deaths data
 07/14/2021,time_series_covid19_recovered_global.csv,Colombia,07/13/2021,4276465,4299931,Correct Colombia recovered data
+07/14/2021,time_series_covid19_confirmed_global.csv,Peru,07/13/2021,2081557,2083567,Correct Peru confirmed data
+07/14/2021,time_series_covid19_deaths_global.csv,Peru,07/13/2021,194488,194606,Correct Peru deaths data
+07/14/2021,time_series_covid19_recovered_global.csv,Peru,07/13/2021,2045506,2047805,Correct Peru recovered data
