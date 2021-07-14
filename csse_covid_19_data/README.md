@@ -232,6 +232,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * July 01, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * July 05, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * July 07, 2021 | California, US | Adjust Santa Clara, California to match the state dashboard's reported date time series | [Data Source](https://covid19.ca.gov/state-dashboard/#location-santa_clara)
+* July 12, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -409,6 +410,7 @@ United States
 * Idaho: Providing data Monday-Friday.
 * Illinois: Providing data Monday-Friday.
 * Indiana: Providing data Monday-Friday.
+* Iowa: Providing data once weekly (day of the week TBC).
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Kentucky: Providing data Monday-Friday.
 * Louisiana: Providing data Monday-Friday.

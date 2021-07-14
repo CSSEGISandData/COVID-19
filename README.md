@@ -174,6 +174,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Brazil: 
     - Ministry of Health: https://covid.saude.gov.br/
     - Federal University of Viçosa - Brazil: https://github.com/wcota/covid19br (Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362))
+  - Burma (Myanmar):
+    - Myanmar Ministry of Health and Sports: https://doph.maps.arcgis.com/apps/dashboards/f8fb4ccc3d2d42c7ab0590dbb3fc26b8
   - Canada: 
     - Government of Alberta: https://www.alberta.ca/covid-19-alberta-data.aspx
     - Government of British Columbia Centre for Disease Control: https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded
@@ -219,6 +221,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - Hong Kong:
     - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
+  - Hungary:
+    - Government of Hungary: https://koronavirus.gov.hu/
   - Iceland:
     - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - India:
@@ -257,6 +261,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
   - Netherlands:
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+  - New Zealand:
+    - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
   - Palau:
     - http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
   - Pakistan:
@@ -264,8 +270,12 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Peru:
     - National Police of Peru (PNP) - Directorate of Intelligence (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
     - Ministry of Health of Peru: https://covid19.minsa.gob.pe/sala_situacional.asp
+  - Philippines:
+    - Republic of Philippines Department of Health: https://doh.gov.ph/covid19tracker
   - Poland: 
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
+  - Portugal:
+    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829
   - Romania:
     - Government of Romania: https://datelazi.ro/ 
   - Russia: 
