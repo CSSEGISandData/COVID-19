@@ -130,7 +130,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California: Placer County: https://www.placer.ca.gov/coronavirus
   - California: Riverside County: https://www.rivcoph.org/coronavirus
   - California: Sacramento County: https://www.saccounty.net/COVID-19/
-  - California: San Francisco Department of Public Helath: https://www.sfdph.org/dph/alerts/coronavirus.asp
+  - California: San Francisco Department of Public Health: https://www.sfdph.org/dph/alerts/coronavirus.asp
   - California: San Benito County Health & Human Services: https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/
   - California: San Joaquin County Public Health Services: http://www.sjcphs.org/coronavirus.aspx
   - California: San Mateo County: https://www.smchealth.org/coronavirus
