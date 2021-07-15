@@ -19957,3 +19957,9 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/14/2021,time_series_covid19_confirmed_global.csv,Peru,07/13/2021,2081557,2083567,Correct Peru confirmed data
 07/14/2021,time_series_covid19_deaths_global.csv,Peru,07/13/2021,194488,194606,Correct Peru deaths data
 07/14/2021,time_series_covid19_recovered_global.csv,Peru,07/13/2021,2045506,2047805,Correct Peru recovered data
+07/15/2021,time_series_covid19_confirmed_US.csv,"Hawaii, Hawaii, US",07/14/2021,3375,3381,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_US.csv,"Honolulu, Hawaii, US",07/14/2021,28380,28405,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_US.csv,"Kauai, Hawaii, US",07/14/2021,428,430,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_US.csv,"Maui, Hawaii, US",07/14/2021,4951,4958,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",07/14/2021,1471,1479,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_global.csv,US,07/14/2021,33947182,33947230,Correct US confirmed data
