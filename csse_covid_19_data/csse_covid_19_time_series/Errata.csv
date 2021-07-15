@@ -19948,3 +19948,24 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/14/2021,time_series_covid19_deaths_US.csv,"Sweetwater, Wyoming, US",07/13/2021,40,41,"Correct Wyoming, US deaths data"
 07/14/2021,time_series_covid19_confirmed_global.csv,US,07/13/2021,33915116,33915385,Correct US confirmed data
 07/14/2021,time_series_covid19_deaths_global.csv,US,07/13/2021,607775,607784,Correct US deaths data
+07/14/2021,time_series_covid19_confirmed_global.csv,Chile,07/13/2021,1589623,1590887,Correct Chile confirmed data
+07/14/2021,time_series_covid19_deaths_global.csv,Chile,07/13/2021,33980,34016,Correct Chile deaths data
+07/14/2021,time_series_covid19_recovered_global.csv,Chile,07/13/2021,1537815,1540595,Correct Chile recovered data
+07/14/2021,time_series_covid19_confirmed_global.csv,Colombia,07/13/2021,4530610,4548142,Correct Colombia confirmed data
+07/14/2021,time_series_covid19_deaths_global.csv,Colombia,07/13/2021,113335,113839,Correct Colombia deaths data
+07/14/2021,time_series_covid19_recovered_global.csv,Colombia,07/13/2021,4276465,4299931,Correct Colombia recovered data
+07/14/2021,time_series_covid19_confirmed_global.csv,Peru,07/13/2021,2081557,2083567,Correct Peru confirmed data
+07/14/2021,time_series_covid19_deaths_global.csv,Peru,07/13/2021,194488,194606,Correct Peru deaths data
+07/14/2021,time_series_covid19_recovered_global.csv,Peru,07/13/2021,2045506,2047805,Correct Peru recovered data
+07/15/2021,time_series_covid19_confirmed_US.csv,"Hawaii, Hawaii, US",07/14/2021,3375,3381,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_US.csv,"Honolulu, Hawaii, US",07/14/2021,28380,28405,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_US.csv,"Kauai, Hawaii, US",07/14/2021,428,430,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_US.csv,"Maui, Hawaii, US",07/14/2021,4951,4958,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",07/14/2021,1471,1479,"Correct Hawaii, US confirmed data"
+07/15/2021,time_series_covid19_confirmed_global.csv,US,07/14/2021,33947182,33947230,Correct US confirmed data
+07/15/2021,time_series_covid19_confirmed_global.csv,India,12/31/2020,10266674,10286709,Correct India confirmed data
+07/15/2021,time_series_covid19_confirmed_global.csv,India,01/01/2021,10286709,10325823,Correct India confirmed data
+07/15/2021,time_series_covid19_deaths_global.csv,India,12/31/2020,148738,148994,Correct India deaths data
+07/15/2021,time_series_covid19_deaths_global.csv,India,01/01/2021,148994,149474,Correct India deaths data
+07/15/2021,time_series_covid19_recovered_global.csv,India,12/31/2020,9860280,9883461,Correct India recovered data
+07/15/2021,time_series_covid19_recovered_global.csv,India,01/01/2021,9883461,9929568,Correct India recovered data
