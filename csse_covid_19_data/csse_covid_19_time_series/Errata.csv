@@ -19963,3 +19963,9 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/15/2021,time_series_covid19_confirmed_US.csv,"Maui, Hawaii, US",07/14/2021,4951,4958,"Correct Hawaii, US confirmed data"
 07/15/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",07/14/2021,1471,1479,"Correct Hawaii, US confirmed data"
 07/15/2021,time_series_covid19_confirmed_global.csv,US,07/14/2021,33947182,33947230,Correct US confirmed data
+07/15/2021,time_series_covid19_confirmed_global.csv,India,12/31/2020,10266674,10286709,Correct India confirmed data
+07/15/2021,time_series_covid19_confirmed_global.csv,India,01/01/2021,10286709,10325823,Correct India confirmed data
+07/15/2021,time_series_covid19_deaths_global.csv,India,12/31/2020,148738,148994,Correct India deaths data
+07/15/2021,time_series_covid19_deaths_global.csv,India,01/01/2021,148994,149474,Correct India deaths data
+07/15/2021,time_series_covid19_recovered_global.csv,India,12/31/2020,9860280,9883461,Correct India recovered data
+07/15/2021,time_series_covid19_recovered_global.csv,India,01/01/2021,9883461,9929568,Correct India recovered data
