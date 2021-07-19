@@ -362,6 +362,7 @@ Date: Location | Change | Reason/Other notes | Source
 * June 9, 2021: West Virginia, US | Inclusion of 18 deaths from death certificate review | [Source](https://wvmetronews.com/2021/06/09/dhhr-adds-24-additional-covid-19-deaths-to-state-numbers/)
 * June 11, 2021: Alaska, US | Inclusion of four deaths identified through death certificate review | [Source](https://www.adn.com/alaska-news/2021/06/11/tracking-covid-19-in-alaska-49-cases-reported-over-2-days-and-4-deaths-identified-in-certificate-review/)
 * June 29, 2021: California, US | Removal of 6,372 duplicated cases from the state dashboard (along with inclusion of 2,013 new cases). County-level distribution not available. | [Source](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
+* July 14, 2021: Arizona, US | Large spike in cases due to technical issue resulting in some cases having not been published in the previous two days | See [source](https://www.usnews.com/news/best-states/arizona/articles/2021-07-14/arizona-reports-covid-19-case-bulge-cites-reporting-issue)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -434,6 +435,7 @@ United States
 * Tennessee: Providing data Monday-Friday.
 * Utah: Providing data Monday-Friday.
 * Vermont: Providing data Monday-Friday.
+* Virginia: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
 * West Virginia: Providing data Monday-Friday.
 * Wisconsin: Providing data Monday-Friday.
