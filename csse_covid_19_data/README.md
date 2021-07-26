@@ -404,6 +404,7 @@ United States
 * Alaska: Providing data Monday, Wednesday, and Friday, excluding holidays.
 * Arkansas: Providing data Monday-Friday.
 * California: Providing data Monday-Friday.
+* Colorado: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
 * Florida: Providing data once per week (Fridays).
