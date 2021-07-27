@@ -1758,7 +1758,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 33015,Rockingham,New Hampshire,US,4/2/20 23:25,42.98499744,-71.12883377,170,1,0,0,"Rockingham, New Hampshire, US"
 37157,Rockingham,North Carolina,US,4/2/20 23:25,36.39593137,-79.77504841,2,1,0,0,"Rockingham, North Carolina, US"
 51165,Rockingham,Virginia,US,4/2/20 23:25,38.51006137,-78.87260325,11,0,0,0,"Rockingham, Virginia, US"
-36087,Rockland,New York,US,4/2/20 23:25,41.15027894,-74.02560498,3751,18,0,0,"Rockland, New York, US"
+36087,Rockland,New York,US,4/2/20 23:25,41.15027894,-74.02560498,3751,0,0,0,"Rockland, New York, US"
 48397,Rockwall,Texas,US,4/2/20 23:25,32.89779518,-96.40771592,10,0,0,0,"Rockwall, Texas, US"
 40131,Rogers,Oklahoma,US,4/2/20 23:25,36.37004357,-95.60406759,8,0,0,0,"Rogers, Oklahoma, US"
 38079,Rolette,North Dakota,US,4/2/20 23:25,48.77245354,-99.84097493,0,0,0,0,"Rolette, North Dakota, US"

@@ -20209,3 +20209,169 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/25/2021,time_series_covid19_confirmed_global.csv,Turkey,07/24/2021,5574997,5587378,Correct Turkey confirmed data
 07/25/2021,time_series_covid19_deaths_global.csv,Turkey,07/24/2021,50821,50879,Correct Turkey deaths data
 07/25/2021,time_series_covid19_recovered_global.csv,Turkey,07/24/2021,5410554,5415937,Correct Turkey recovered data
+07/26/2021,time_series_covid19_confirmed_global.csv,Angola,07/23/2021,41405,41629,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Belize,07/23/2021,13893,13917,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Bolivia,07/23/2021,466318,467343,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Brunei,07/23/2021,311,313,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Burundi,07/23/2021,6018,6128,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Cameroon,07/23/2021,81871,82003,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,711,715,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,2834,2839,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,1326,1327,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,68193,68194,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,776,788,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,2281,2283,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,1134,1138,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,416,417,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,0,37,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,China,07/23/2021,691,696,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Costa Rica,07/23/2021,397469,398608,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Cote d'Ivoire,07/23/2021,49386,49473,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/23/2021,95307,96202,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Dominican Republic,07/23/2021,338902,339302,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Ecuador,07/23/2021,479784,480720,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Egypt,07/23/2021,283906,283947,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,El Salvador,07/23/2021,84144,84691,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Eswatini,07/23/2021,21880,22156,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Gabon,07/23/2021,25309,25325,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Guatemala,07/23/2021,344221,347496,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Guinea,07/23/2021,24823,24878,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Guyana,07/23/2021,21733,21850,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Honduras,07/23/2021,285375,286635,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Kazakhstan,07/23/2021,575267,641388,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,"Korea, South",07/23/2021,185733,187362,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Kuwait,07/23/2021,389868,390794,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Lebanon,07/23/2021,552871,553615,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Mauritania,07/23/2021,23223,23378,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Montenegro,07/23/2021,100865,100929,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Mozambique,07/23/2021,105866,107309,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,New Zealand,07/23/2021,2855,3211,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Niger,07/23/2021,5594,5596,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Norway,07/23/2021,135235,135463,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Panama,07/23/2021,426849,427987,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Paraguay,07/23/2021,447864,448508,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Rwanda,07/23/2021,61375,62328,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Saint Kitts and Nevis,07/23/2021,560,563,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Suriname,07/23/2021,24573,24689,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Syria,07/23/2021,25853,25858,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Trinidad and Tobago,07/23/2021,36884,37065,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Uganda,07/23/2021,91355,91710,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Uruguay,07/23/2021,379911,380151,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_confirmed_global.csv,Vietnam,07/23/2021,78269,86957,"Correct Nebraska, US confirmed data"
+07/26/2021,time_series_covid19_deaths_global.csv,Angola,07/23/2021,977,981,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Bolivia,07/23/2021,17576,17613,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Cameroon,07/23/2021,1332,1334,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,China,07/23/2021,0,3,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Costa Rica,07/23/2021,4933,4941,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Ecuador,07/23/2021,30777,30797,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Egypt,07/23/2021,16470,16477,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Eswatini,07/23/2021,735,742,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Guatemala,07/23/2021,10029,10063,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Guinea,07/23/2021,195,197,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Guyana,07/23/2021,515,518,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Honduras,07/23/2021,7558,7594,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,"Korea, South",07/23/2021,2066,2068,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Kuwait,07/23/2021,2264,2273,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Lebanon,07/23/2021,7889,7890,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Mauritania,07/23/2021,517,520,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Mozambique,07/23/2021,1221,1232,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Panama,07/23/2021,6730,6743,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Paraguay,07/23/2021,14501,14550,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Rwanda,07/23/2021,704,718,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Suriname,07/23/2021,626,627,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Trinidad and Tobago,07/23/2021,1018,1026,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Uganda,07/23/2021,2483,2496,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_deaths_global.csv,Uruguay,07/23/2021,5913,5919,"Correct Nebraska, US deaths data"
+07/26/2021,time_series_covid19_recovered_global.csv,Angola,07/23/2021,35082,35284,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Belize,07/23/2021,13201,13219,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Bolivia,07/23/2021,396914,398595,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Costa Rica,07/23/2021,321048,322423,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Cote d'Ivoire,07/23/2021,48655,48724,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Dominican Republic,07/23/2021,287607,292697,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Egypt,07/23/2021,226535,227068,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,El Salvador,07/23/2021,75608,75724,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Eswatini,07/23/2021,19392,19570,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Gabon,07/23/2021,25050,25081,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Guatemala,07/23/2021,299752,302441,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Guinea,07/23/2021,23719,23733,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Guyana,07/23/2021,20009,20366,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Honduras,07/23/2021,97200,97430,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Kazakhstan,07/23/2021,495217,498125,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,"Korea, South",07/23/2021,164206,165246,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Kuwait,07/23/2021,372358,373507,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Mauritania,07/23/2021,21085,21168,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Montenegro,07/23/2021,98761,98777,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Mozambique,07/23/2021,80773,82299,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Niger,07/23/2021,5295,5296,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Panama,07/23/2021,407055,408155,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Paraguay,07/23/2021,408973,410297,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Rwanda,07/23/2021,43924,44739,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Saint Kitts and Nevis,07/23/2021,519,527,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Suriname,07/23/2021,20846,20919,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Syria,07/23/2021,21933,21937,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Trinidad and Tobago,07/23/2021,30043,30256,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Uganda,07/23/2021,71750,73062,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Uruguay,07/23/2021,370711,371116,Correct US recovered data
+07/26/2021,time_series_covid19_recovered_global.csv,Vietnam,07/23/2021,13421,15536,Correct US recovered data
+07/27/2021,time_series_covid19_confirmed_US.csv,"Aguada, Puerto Rico, US",07/26/2021,1469,1471,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Aguadilla, Puerto Rico, US",07/26/2021,1656,1666,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Arecibo, Puerto Rico, US",07/26/2021,3064,3067,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Barceloneta, Puerto Rico, US",07/26/2021,787,789,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Barranquitas, Puerto Rico, US",07/26/2021,1242,1243,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Bayamon, Puerto Rico, US",07/26/2021,10559,10566,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Cabo Rojo, Puerto Rico, US",07/26/2021,1032,1041,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Caguas, Puerto Rico, US",07/26/2021,6428,6439,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Camuy, Puerto Rico, US",07/26/2021,1221,1222,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Canovanas, Puerto Rico, US",07/26/2021,2010,2011,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Carolina, Puerto Rico, US",07/26/2021,8928,8932,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Ceiba, Puerto Rico, US",07/26/2021,411,415,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Ciales, Puerto Rico, US",07/26/2021,782,784,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Cidra, Puerto Rico, US",07/26/2021,1320,1323,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Comerio, Puerto Rico, US",07/26/2021,725,726,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Fajardo, Puerto Rico, US",07/26/2021,1267,1272,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Guanica, Puerto Rico, US",07/26/2021,249,251,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Guayanilla, Puerto Rico, US",07/26/2021,397,398,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Guaynabo, Puerto Rico, US",07/26/2021,4410,4411,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Hatillo, Puerto Rico, US",07/26/2021,1198,1201,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Humacao, Puerto Rico, US",07/26/2021,2123,2124,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Isabela, Puerto Rico, US",07/26/2021,1511,1520,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Juana Diaz, Puerto Rico, US",07/26/2021,1157,1158,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Juncos, Puerto Rico, US",07/26/2021,2307,2308,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Lajas, Puerto Rico, US",07/26/2021,462,463,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Manati, Puerto Rico, US",07/26/2021,1453,1454,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Mayaguez, Puerto Rico, US",07/26/2021,2271,2276,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Moca, Puerto Rico, US",07/26/2021,1469,1470,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Naranjito, Puerto Rico, US",07/26/2021,1584,1585,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Ponce, Puerto Rico, US",07/26/2021,3517,3519,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Rio Grande, Puerto Rico, US",07/26/2021,2202,2203,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"San German, Puerto Rico, US",07/26/2021,679,682,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"San Juan, Puerto Rico, US",07/26/2021,18982,18991,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Toa Alta, Puerto Rico, US",07/26/2021,4010,4011,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Toa Baja, Puerto Rico, US",07/26/2021,3959,3961,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Puerto Rico, US",07/26/2021,4118,4119,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Vega Alta, Puerto Rico, US",07/26/2021,1800,1799,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Vega Baja, Puerto Rico, US",07/26/2021,3019,3020,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_confirmed_US.csv,"Yauco, Puerto Rico, US",07/26/2021,855,863,"Correct Puerto Rico, US confirmed data"
+07/27/2021,time_series_covid19_deaths_US.csv,"Unassigned, Puerto Rico, US",07/26/2021,2568,2569,"Correct Puerto Rico, US deaths data"
+07/27/2021,time_series_covid19_confirmed_global.csv,Oman,07/25/2021,289042,293954,Correct Oman confirmed data
+07/27/2021,time_series_covid19_deaths_global.csv,Oman,07/25/2021,3498,3753,Correct Oman deaths data
+07/27/2021,time_series_covid19_recovered_global.csv,Oman,07/25/2021,263752,275760,Correct Oman recovered data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,07/09/2020,8683,8689,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,07/10/2020,8696,8697,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,07/11/2020,8704,8706,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,08/12/2020,9114,9115,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,08/13/2020,9129,9130,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,08/17/2020,9212,9215,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,12/28/2020,106690,106692,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,01/07/2021,128465,128848,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,06/13/2021,657508,657535,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,03/21/2020,4,8,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,05/21/2020,114,115,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,08/29/2020,125,126,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,08/30/2020,126,127,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/03/2020,137,139,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/04/2020,137,138,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/05/2020,137,138,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/06/2020,141,142,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/07/2020,141,145,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/08/2020,146,148,Correct Malaysia deaths data
