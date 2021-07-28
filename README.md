@@ -219,6 +219,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - OpenCOVID19: https://github.com/opencovid19-fr
   - Germany:
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+  - Guatemala:
+    - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Hong Kong:
     - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
   - Hungary:
@@ -241,6 +243,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Health & Wellness: https://www.moh.gov.jm
   - Japan: 
     - COVID19Japan: https://covid19japan.com/#all-prefectures
+    - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
   - Jordan:
     - Ministry of Health: https://corona.moh.gov.jo/en
   - Kazakhstan: 
@@ -259,6 +262,9 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
   - Mexico:
     - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
+  - Malaysia
+    - Ministry of Health: https://covid-19.moh.gov.my/
+    - Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera: https://github.com/MoH-Malaysia/covid19-public
   - Netherlands:
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
