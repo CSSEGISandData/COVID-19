@@ -20383,3 +20383,33 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/28/2021,time_series_covid19_confirmed_global.csv,US,07/23/2021,34400655,34400680,Correct US confirmed data
 07/28/2021,time_series_covid19_confirmed_global.csv,US,07/24/2021,34428050,34428075,Correct US confirmed data
 07/28/2021,time_series_covid19_confirmed_global.csv,US,07/25/2021,34443761,34444083,Correct US confirmed data
+07/28/2021,time_series_covid19_confirmed_global.csv,Guatemala,07/20/2021,334375,337762,Correct Guatemala confirmed data
+07/28/2021,time_series_covid19_confirmed_global.csv,Guatemala,07/21/2021,334375,340857,Correct Guatemala confirmed data
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/18/2021,2092125,2093754,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/20/2021,2094445,2096013,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/21/2021,2094445,2097811,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/22/2021,2094445,2099522,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/23/2021,2094445,2101139,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/24/2021,2094445,2102904,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/25/2021,2094445,2104394,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/26/2021,2104394,2105005,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_confirmed_global.csv,Peru,07/27/2021,2104394,2106371,"Correct Unknown, Peru confirmed data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/18/2021,195047,195146,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/20/2021,195243,195332,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/21/2021,195243,195429,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/22/2021,195243,195547,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/23/2021,195243,195696,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/24/2021,195243,195795,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/25/2021,195243,195890,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/26/2021,195890,195973,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_deaths_global.csv,Peru,07/27/2021,195890,196058,"Correct Unknown, Peru deaths data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/18/2021,2056952,2059102,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/20/2021,2060255,2061951,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/21/2021,2060255,2063637,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/22/2021,2060255,2065100,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/23/2021,2060255,2066827,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/24/2021,2060255,2068499,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/25/2021,2060255,2070180,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/26/2021,2060255,2070810,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/27/2021,2060255,2072564,"Correct Unknown, Peru recovered data"
+07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/28/2021,2060255,2074252,"Correct Unknown, Peru recovered data"

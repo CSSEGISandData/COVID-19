@@ -36,130 +36,129 @@ This list includes a complete list of all sources ever used in the data set, sin
   - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:  
-  - Alaska Department of Health and Social Services: https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/
-  - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
-  - Maryland Department of Health: https://coronavirus.maryland.gov/
-  - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
-  - New York City Health Department: https://www1.nyc.gov/site/doh/covid/covid-19-data.page
-  - NYC Department of Health and Mental Hygiene: https://www1.nyc.gov/site/doh/covid/covid-19-data.page and https://github.com/nychealth/coronavirus-data
-  - Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
-    and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
-  - Colorado: https://covid19.colorado.gov/covid-19-data
-  - Virginia: https://www.vdh.virginia.gov/coronavirus/
-  - Northern Mariana Islands CNMI Department of Public Health: https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5
-  - Missouri Department of Health: https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d
-  - Missouri: Nodaway County: https://www.nodawaypublichealth.org/
-  - Missouri: St. Louis City Department of Health: https://www.stlouis-mo.gov/covid-19/data/#totalsByDate
-  - Missouri: St. Louis County: https://stlcorona.com/resources/covid-19-statistics1/
-  - Massachusetts: https://www.mass.gov/info-details/covid-19-response-reporting
-  - Michigan: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html 
-  - Illinois Department of Public Health: https://dph.illinois.gov/covid19
-  - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
-  - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
-  - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
-  - Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
-  - Oregon Health Authority (Weekends): https://www.oregon.gov/oha/erd/pages/covid-19-news.aspx
-  - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
-  - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
-  - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/data.htm
-  - North Carolina City of Greenville GIS: https://www.arcgis.com/apps/opsdashboard/index.html#/7aeac695cafa4065ba1505b1cfa72747
-  - Iowa State Government: https://coronavirus.iowa.gov/
-  - Minnesota Department of Health: https://www.health.state.mn.us/diseases/coronavirus/situation.html
-  - Alabama Public Health: https://www.alabamapublichealth.gov/covid19/
-  - Mississippi State Department of Health: https://msdh.ms.gov/msdhsite/_static/14,0,420.html
-  - Nebraska Department of Health and Human Services: https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd
-  - South Carolina Department of Health and Environmental Control: https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19
-  - Nevada Department of Health and Human Services: https://nvhealthresponse.nv.gov/
-  - New Jersey Department of Health: https://covid19.nj.gov/
-  - Delaware Emergency Management Agency: https://coronavirus.delaware.gov/
-  - Utah Department of Health: https://coronavirus-dashboard.utah.gov/#overview
-  - Arizona Emergency Support Function (ESF)/Recovery Support Function (RSF) Operations Dashboard: https://www.arcgis.com/apps/MapSeries/index.html?appid=62e6bfa682a34e6aae9d9255ac865467
-  - Departamento de Salud, Puerto Rico: https://covid19datos.salud.gov.pr/
-  - Arkansas Department of Health: https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9
-  - Maine Department of Health and Human Services: https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml
-  - Pennsylvania Department of Health: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
-  - City of Philadelphia: https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/
-  - Lancaster County: https://covid-19-lancastercountypa.hub.arcgis.com/
-  - Chester County: https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca
-  - Louisiana Department of Health: http://ldh.la.gov/coronavirus/
-  - Government of The District of Columbia: https://coronavirus.dc.gov/page/coronavirus-data 
-  - North Dakota Department of Health: https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases
-  - Oklahoma State Department of Health: https://looker-dashboards.ok.gov/embed/dashboards/44
-  - Guam Department of Public Health and Social Services: http://dphss.guam.gov/covid-19/ 
-  - New Mexico Department of Health: https://cvprovider.nmhealth.org/public-dashboard.html
-  - Kentucky Department of Public Health: https://kygeonet.maps.arcgis.com/apps/opsdashboard/index.html#/543ac64bc40445918cf8bc34dc40e334
-  - Georgia Department of Public Health: https://dph.georgia.gov/covid-19-daily-status-report
-  - State of Hawai'i Department of Health: https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/
-  - Reno County Health Department: http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994
-  - Texas Department of State Health Services: https://dshs.texas.gov/coronavirus/
-  - Texas: City of San Antonio: https://covid19.sanantonio.gov/Home
-  - Texas: Brazioria County: https://www.brazoriacountytx.gov/departments/health-department/brazoria-county-coronavirus-map
-  - Texas: Brazos County Health District: http://www.brazoshealth.org
-  - Texas: Cameron County Public Health: https://www.cameroncounty.us/publichealth/index.php/coronavirus/
-  - Texas: Collin County: https://www.collincountytx.gov/healthcare_services/Pages/news.aspx
-  - Texas: Dallas County: https://www.dallascounty.org/departments/dchhs/2019-novel-coronavirus.php
-  - Texas: Denton County: https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases
-  - Texas: Ector County:  http://www.co.ector.tx.us/page/ector.CoronavirusCOVID19
-  - Texas: City of El Paso: http://epstrong.org/results.php
-  - Texas: Fayette County: https://www.co.fayette.tx.us/
-  - Texas: Fort Bend County Health & Human Services: https://www.fbchealth.org/ncov/
-  - Texas: Galveston County Health District: https://www.gchd.org/about-us/news-and-events/coronavirus-disease-2019-covid-19/galveston-county-confirmed-covid-19-cases
-  - Texas: Harris County: https://publichealth.harriscountytx.gov/Resources/2019-Novel-Coronavirus
-  - Texas: Hays County: https://hayscountytx.com/covid-19-information-for-hays-county-residents/
-  - Texas: Hidalgo County Health and Human Services: https://www.hidalgocounty.us/2630/Coronavirus-Updates
-  - Texas: Midland County: https://www.midlandtexas.gov/955/Coronavirus-COVID-19
-  - Texas: Montgomery County: https://coronavirus-response-moco.hub.arcgis.com/
-  - Texas: City of Corpus Christi: https://www.cctexas.com/coronavirus
-  - Texas: Amarillo Public Health Department: https://covid-data-amarillo.hub.arcgis.com/
-  - Texas: Tarrant County Public Health: https://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html
-  - Texas: City of Mount Pleasant: https://www.mpcity.net/632/COVID-19-UPDATES
-  - Texas: City of San Angelo: https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0
-  - Texas: San Angelo Standard-Times: https://www.gosanangelo.com/
-  - Texas: Travis County: https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information
-  - Texas: City of Laredo: https://www.cityoflaredo.com/coronavirus/
-  - Texas: Williamson County & Cities Health District: http://www.wcchd.org/COVID-19/dashboard.php
-  - California Department of Publich Health: https://www.cdph.ca.gov/covid19
-  - California: Mariposa County: https://www.mariposacounty.org/1592/COVID-19-Information
-  - California: Alameda County Public Health Department: https://covid-19.acgov.org/
-  - California: Fresno County Public Health Department: https://www.co.fresno.ca.us/departments/public-health/covid-19
-  - California: Humboldt County: https://humboldtgov.org/
-  - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
-  - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
-  - California: Mendocino County: https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data
-  - California: Orange County Health Care Agency: https://occovid19.ochealthinfo.com/coronavirus-in-oc
-  - California: Placer County: https://www.placer.ca.gov/coronavirus
-  - California: Riverside County: https://www.rivcoph.org/coronavirus
-  - California: Sacramento County: https://www.saccounty.net/COVID-19/
-  - California: San Francisco Department of Public Helath: https://www.sfdph.org/dph/alerts/coronavirus.asp
-  - California: San Benito County Health & Human Services: https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/
-  - California: San Joaquin County Public Health Services: http://www.sjcphs.org/coronavirus.aspx
-  - California: San Mateo County: https://www.smchealth.org/coronavirus
-  - California: Santa Cruz County Health Services Agency: http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome.aspx
-  - California: Shasta County: https://www.co.shasta.ca.us/covid-19/overview
-  - California: Solano County: https://www.co.shasta.ca.us/covid-19/overview
-  - California: Sonoma County: https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/
-  - California: Stanislaus County Health Services Agency: http://schsa.org/publichealth/pages/corona-virus/
-  - California: Ventura County: https://www.venturacountyrecovers.org/
-  - California: Yolo County: https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/
-  - California: Los Angeles County: http://publichealth.lacounty.gov/media/coronavirus/
-  - California: San Diego County: https://www.sandiegocounty.gov/coronavirus.html
-  - California: Santa Clara County: https://www.sccgov.org/sites/covid19/
-  - California: Imperial County Public Health Department: http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/
-  - California: San Bernardino County: https://sbcovid19.com/
-  - Montana Department of Public Health and Human Services: https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt
-  - South Dakota Department of Health: https://doh.sd.gov/news/coronavirus.aspx
-  - Wyoming Department of Health: https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/
-  - New Hampshire Department of Health and Human Services: https://www.nh.gov/covid19/dashboard/summary.htm
-  - Idaho Government: https://coronavirus.idaho.gov/
-  - Virgin Islands Department of Health: https://www.covid19usvi.com/ and https://www.covid19usvi.com/covid19-report
-  - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
-  - Kansas: Reno County Health Department: https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/
-  - Kansas: Kansas Department Of Health And Environment: https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas
-  - Kansas: Douglas County Coronavirus Response and Recovery Hub: https://coronavirus-response-dgco.hub.arcgis.com/
-  - Kansas: Finney County COVID-19 Resource Hub: https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/
-  - Kansas: Riley County Corona Virus Response: https://coronavirus-response-rcitgis.hub.arcgis.com/
-  - West Virginia Department of Health & Human Resources: https://dhhr.wv.gov/COVID-19/Pages/default.aspx
-
+  - Alabama: [Department of Public Health](https://www.alabamapublichealth.gov/covid19/)
+  - Alaska: [Department of Health and Social Services](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/)
+  - Arizona: [Department of Health Services](https://www.azdhs.gov/covid19/data/index.php)
+  - Arkansas: [Department of Health](https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9)
+  - California: [Department of Publich Health](https://www.cdph.ca.gov/covid19)
+    - [Mariposa County](https://www.mariposacounty.org/1592/COVID-19-Information)
+    - [Alameda County](https://covid-19.acgov.org/)
+    - [Fresno County](https://www.co.fresno.ca.us/departments/public-health/covid-19)
+    - [Humboldt County](https://humboldtgov.org/)
+    - [Imperial County](http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/)
+    - [Los Angeles County](http://publichealth.lacounty.gov/media/coronavirus/)
+    - [Madera County](https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised)
+    - [Marin County](https://coronavirus.marinhhs.org/)
+    - [Mendocino County](https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data)
+    - [Orange County](https://occovid19.ochealthinfo.com/coronavirus-in-oc)
+    - [Placer County](https://www.placer.ca.gov/coronavirus)
+    - [Riverside County](https://www.rivcoph.org/coronavirus)
+    - [Sacramento County](https://www.saccounty.net/COVID-19/)
+    - [San Benito County](https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/)
+    - [San Bernardino County](https://sbcovid19.com/)
+    - [San Diego County](https://www.sandiegocounty.gov/coronavirus.html)
+    - [San Francisco](https://www.sfdph.org/dph/alerts/coronavirus.asp)
+    - [San Joaquin County](http://www.sjcphs.org/coronavirus.aspx)
+    - [San Mateo County](https://www.smchealth.org/coronavirus)
+    - [Santa Clara County](https://www.sccgov.org/sites/covid19/)
+    - [Santa Cruz County](http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome.aspx)
+    - [Shasta County](https://www.co.shasta.ca.us/covid-19/overview)
+    - [Solano County](https://www.solanocounty.com/depts/ph/ncov.asp)
+    - [Sonoma County](https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/)
+    - [Stanislaus County](http://schsa.org/publichealth/pages/corona-virus/)
+    - [Ventura County](https://www.venturacountyrecovers.org/)
+    - [Yolo County](https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/)
+  - Colorado: [Department of Public Health and Environment](https://covid19.colorado.gov/covid-19-data)
+  - Connecticut: [Department of Public Health](https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/)
+  - Delaware: [Emergency Management Agency](https://coronavirus.delaware.gov/)
+  - District of Columbia: [Government of The District of Columbia](https://coronavirus.dc.gov/page/coronavirus-data)
+  - Florida: [Department of Health](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86)
+  - Georgia: [Department of Public Health](https://dph.georgia.gov/covid-19-daily-status-report)
+  - Gaum: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
+  - Hawaii: [Department of Health](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/)
+  - Idaho: [State Government](https://coronavirus.idaho.gov/)
+  - Illinois: [Department of Public Health](https://dph.illinois.gov/covid19)
+  - Indiana: [Department of Health](https://hub.mph.in.gov/dataset?q=COVID)
+  - Iowa: [State Government](https://coronavirus.iowa.gov/)
+  - Kansas: [Department Of Health And Environment](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas)
+    - [Douglas County](https://coronavirus-response-dgco.hub.arcgis.com/)
+    - [Finney County](https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/)
+    - [Riley County](https://coronavirus-response-rcitgis.hub.arcgis.com/)
+    - [Reno County](https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/)
+  - Kentucky: [Department of Public Health](https://kygeonet.maps.arcgis.com/apps/opsdashboard/index.html#/543ac64bc40445918cf8bc34dc40e334)
+  - Louisiana: [Department of Health](http://ldh.la.gov/coronavirus/)
+  - Maine: [Department of Health and Human Services](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml)
+  - Maryland: [Department of Health](https://coronavirus.maryland.gov/)
+  - Massachusetts: [Department of Public Health](https://www.mass.gov/info-details/covid-19-response-reporting)
+  - Michigan: [Michigan.gov](https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html )
+  - Minnesota: [Department of Health](https://www.health.state.mn.us/diseases/coronavirus/situation.html)
+  - Mississippi: [Department of Health](https://msdh.ms.gov/msdhsite/_static/14,0,420.html)
+  - Missouri: [Department of Health](https://www.arcgis.com/apps/MapSeries/index.html?appid=8e01a5d8d8bd4b4f85add006f9e14a9d)
+    - [Nodaway County](https://www.nodawaypublichealth.org/)
+    - [St. Louis City](https://www.stlouis-mo.gov/covid-19/data/#totalsByDate)
+    - [St. Louis County](https://stlcorona.com/resources/covid-19-statistics1/)
+  - Montana: [Department of Public Health and Human Services](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
+  - Nebraska
+    - [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+  - Nevada: [Department of Health and Human Services](https://nvhealthresponse.nv.gov/)
+    - [Reno County Health Department](http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994)
+  - New Hampshire: [Department of Health and Human Services](https://www.nh.gov/covid19/dashboard/summary.htm)
+  - New Jersey: [Department of Health](https://covid19.nj.gov/)
+  - New Mexico: [Department of Health](https://cvprovider.nmhealth.org/public-dashboard.html)
+  - New York: [State Department of Health](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data)
+    - [New York City Health Department](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)
+    - [NYC Department of Health and Mental Hygiene](https://www1.nyc.gov/site/doh/covid/covid-19-data.page) & [Github Repo](https://github.com/nychealth/coronavirus-data)
+  - North Carolina
+    - [City of Greenville GIS](https://www.arcgis.com/apps/opsdashboard/index.html#/7aeac695cafa4065ba1505b1cfa72747)
+  - North Dakota: [Department of Health](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
+  - Northern Mariana Islands: [CNMI Department of Public Health](https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5)
+  - Ohio: [Department of Health](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home)
+  - Oklahoma: [Department of Health](https://looker-dashboards.ok.gov/embed/dashboards/44)
+  - Oregon: [Health Authority](https://govstatus.egov.com/OR-OHA-COVID-19)
+  - Pennsylvania: [Department of Health](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx)
+    - [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/)
+    - [Lancaster County](https://covid-19-lancastercountypa.hub.arcgis.com/)
+    - [Chester County](https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca)
+  - Puerto Rico: [Departamento de Salud](https://covid19datos.salud.gov.pr/)
+  - Rhode Island: [Department of Health](https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/)
+  - South Carolina: [Department of Health and Environmental Control](https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19)
+  - South Dakota: [Department of Health](https://doh.sd.gov/news/coronavirus.aspx)
+  - Tennessee: [Department of Health](https://www.tn.gov/health/cedep/ncov.html)
+  - Texas: [Department of State Health Services](https://dshs.texas.gov/coronavirus/)
+    - [Amarillo County](https://covid-data-amarillo.hub.arcgis.com/)
+    - [Brazoria County](https://www.brazoriacountytx.gov/departments/health-department/brazoria-county-coronavirus-map)
+    - [Brazos County](http://www.brazoshealth.org)
+    - [Cameron County](https://www.cameroncounty.us/publichealth/index.php/coronavirus/)
+    - [Collin County](https://www.collincountytx.gov/healthcare_services/Pages/news.aspx)
+    - [Corpus Christi](https://www.cctexas.com/coronavirus)
+    - [Dallas County](https://www.dallascounty.org/departments/dchhs/2019-novel-coronavirus.php)
+    - [Denton County](https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases)
+    - [Ector County](http://www.co.ector.tx.us/page/ector.CoronavirusCOVID19)
+    - [City of El Paso](http://epstrong.org/results.php)
+    - [Fayette County](https://www.co.fayette.tx.us/)
+    - [Fort Bend County](https://www.fbchealth.org/ncov/)
+    - [Galveston County Health District](https://www.gchd.org/about-us/news-and-events/coronavirus-disease-2019-covid-19/galveston-county-confirmed-covid-19-cases)
+    - [Harris County](https://publichealth.harriscountytx.gov/Resources/2019-Novel-Coronavirus)
+    - [Hays County](https://hayscountytx.com/covid-19-information-for-hays-county-residents/)
+    - [Hidalgo County](https://www.hidalgocounty.us/2630/Coronavirus-Updates)
+    - [Laredo](https://www.cityoflaredo.com/coronavirus/)
+    - [Midland County](https://www.midlandtexas.gov/955/Coronavirus-COVID-19)
+    - [Mount Pleasant](https://www.mpcity.net/632/COVID-19-UPDATES)
+    - [Montgomery County](https://coronavirus-response-moco.hub.arcgis.com/)
+    - [San Angelo 1](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0)
+    - [San Angelo 2](https://www.gosanangelo.com/)
+    - [San Antonio](https://covid19.sanantonio.gov/Home)
+    - [Tarrant County](https://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html)
+    - [Travis County](https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information)
+    - [Williamson County](http://www.wcchd.org/COVID-19/dashboard.php)
+  - Utah: [Department of Health](https://coronavirus-dashboard.utah.gov/#overview)
+  - Vermont: [Department of Health](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont)
+  - Virgin Islands: [Department of Health](https://www.covid19usvi.com/) and [COVID-19 Report](https://www.covid19usvi.com/covid19-report)
+  - Virginia: [Department of Health](https://www.vdh.virginia.gov/coronavirus/)
+  - Washington: [Department of Health](https://www.doh.wa.gov/emergencies/coronavirus)
+  - West Virginia: [Department of Health & Human Resources](https://dhhr.wv.gov/COVID-19/Pages/default.aspx)
+  - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm)
+  - Wyoming: [Department of Health](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - Albania:
