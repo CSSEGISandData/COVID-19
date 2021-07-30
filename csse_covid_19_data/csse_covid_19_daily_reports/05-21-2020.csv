@@ -2302,7 +2302,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 33015,Rockingham,New Hampshire,US,2020-05-22 02:36:51,42.98499744,-71.12883377,1179,62,0,1117,"Rockingham, New Hampshire, US"
 37157,Rockingham,North Carolina,US,2020-05-22 02:36:51,36.39593137,-79.77504841,49,2,0,47,"Rockingham, North Carolina, US"
 51165,Rockingham,Virginia,US,2020-05-22 02:36:51,38.51006137,-78.87260325,434,6,0,428,"Rockingham, Virginia, US"
-36087,Rockland,New York,US,2020-05-22 02:36:51,41.15027894,-74.02560498,12877,611,0,12266,"Rockland, New York, US"
+36087,Rockland,New York,US,2020-05-22 02:36:51,41.15027894,-74.02560498,12877,487,0,12266,"Rockland, New York, US"
 48397,Rockwall,Texas,US,2020-05-22 02:36:51,32.89779518,-96.40771592,147,9,0,138,"Rockwall, Texas, US"
 40131,Rogers,Oklahoma,US,2020-05-22 02:36:51,36.37004357,-95.60406759,73,5,0,68,"Rogers, Oklahoma, US"
 38079,Rolette,North Dakota,US,2020-05-22 02:36:51,48.77245354,-99.84097493,4,0,0,4,"Rolette, North Dakota, US"
@@ -3319,7 +3319,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,MS Zaandam,2020-05-22 02:36:51,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-22 02:36:51,-18.766947,46.869107,405,2,131,272,Madagascar
 ,,,Malawi,2020-05-22 02:36:51,-13.254307999999998,34.301525,72,3,27,42,Malawi
-,,,Malaysia,2020-05-22 02:36:51,4.210483999999999,101.975766,7059,114,5796,1149,Malaysia
+,,,Malaysia,2020-05-22 02:36:51,4.210483999999999,101.975766,7059,115,5796,1149,Malaysia
 ,,,Maldives,2020-05-22 02:36:51,3.2028,73.2207,1216,4,91,1121,Maldives
 ,,,Mali,2020-05-22 02:36:51,17.570692,-3.996166000000001,947,60,558,329,Mali
 ,,,Malta,2020-05-22 02:36:51,35.9375,14.3754,599,6,468,125,Malta
