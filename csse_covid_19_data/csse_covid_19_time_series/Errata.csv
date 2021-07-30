@@ -20413,3 +20413,109 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/26/2021,2060255,2070810,"Correct Unknown, Peru recovered data"
 07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/27/2021,2060255,2072564,"Correct Unknown, Peru recovered data"
 07/29/2021,time_series_covid19_recovered_global.csv,Peru,07/28/2021,2060255,2074252,"Correct Unknown, Peru recovered data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Barbour, West Virginia, US",07/29/2021,1536,1540,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Berkeley, West Virginia, US",07/29/2021,13029,13044,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Boone, West Virginia, US",07/29/2021,2201,2204,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Braxton, West Virginia, US",07/29/2021,1047,1049,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Cabell, West Virginia, US",07/29/2021,9049,9068,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Clay, West Virginia, US",07/29/2021,544,546,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Fayette, West Virginia, US",07/29/2021,3629,3644,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Grant, West Virginia, US",07/29/2021,1320,1322,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Greenbrier, West Virginia, US",07/29/2021,2921,2922,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Hancock, West Virginia, US",07/29/2021,2870,2872,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Harrison, West Virginia, US",07/29/2021,6321,6341,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Jackson, West Virginia, US",07/29/2021,2293,2296,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Jefferson, West Virginia, US",07/29/2021,4855,4863,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Kanawha, West Virginia, US",07/29/2021,15663,15685,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Lewis, West Virginia, US",07/29/2021,1346,1354,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Lincoln, West Virginia, US",07/29/2021,1615,1616,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Logan, West Virginia, US",07/29/2021,3332,3333,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Marion, West Virginia, US",07/29/2021,4745,4753,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Marshall, West Virginia, US",07/29/2021,3590,3595,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Mason, West Virginia, US",07/29/2021,2123,2127,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"McDowell, West Virginia, US",07/29/2021,1661,1663,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Mercer, West Virginia, US",07/29/2021,5273,5282,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Mineral, West Virginia, US",07/29/2021,3010,3011,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Mingo, West Virginia, US",07/29/2021,2808,2815,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Monongalia, West Virginia, US",07/29/2021,9493,9503,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Monroe, West Virginia, US",07/29/2021,1238,1241,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Morgan, West Virginia, US",07/29/2021,1267,1269,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Nicholas, West Virginia, US",07/29/2021,1951,1953,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Ohio, West Virginia, US",07/29/2021,4368,4374,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Pleasants, West Virginia, US",07/29/2021,963,964,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Preston, West Virginia, US",07/29/2021,2975,2977,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Putnam, West Virginia, US",07/29/2021,5445,5457,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Raleigh, West Virginia, US",07/29/2021,7163,7178,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Randolph, West Virginia, US",07/29/2021,2884,2888,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Ritchie, West Virginia, US",07/29/2021,772,773,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Roane, West Virginia, US",07/29/2021,671,672,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Tyler, West Virginia, US",07/29/2021,759,762,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Upshur, West Virginia, US",07/29/2021,2021,2026,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Wayne, West Virginia, US",07/29/2021,3223,3231,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Webster, West Virginia, US",07/29/2021,593,595,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Wetzel, West Virginia, US",07/29/2021,1417,1419,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Wood, West Virginia, US",07/29/2021,8033,8044,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_confirmed_US.csv,"Wyoming, West Virginia, US",07/29/2021,2102,2103,"Correct West Virginia, US confirmed data"
+07/30/2021,time_series_covid19_deaths_US.csv,"Kanawha, West Virginia, US",07/29/2021,361,363,"Correct West Virginia, US deaths data"
+07/30/2021,time_series_covid19_deaths_US.csv,"Marion, West Virginia, US",07/29/2021,54,55,"Correct West Virginia, US deaths data"
+07/30/2021,time_series_covid19_deaths_US.csv,"Randolph, West Virginia, US",07/29/2021,15,17,"Correct West Virginia, US deaths data"
+07/30/2021,time_series_covid19_confirmed_global.csv,US,07/29/2021,34750605,34750860,Correct US confirmed data
+07/30/2021,time_series_covid19_deaths_global.csv,US,07/29/2021,612117,612122,Correct US deaths data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/16/2021,277974,279257,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/17/2021,277974,279257,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/18/2021,277974,279257,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/19/2021,277974,281604,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/26/2021,286635,290447,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/16/2021,7391,7427,Correct Honduras deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/17/2021,7391,7427,Correct Honduras deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/18/2021,7391,7427,Correct Honduras deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/19/2021,7391,7482,Correct Honduras deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/26/2021,7594,7650,Correct Honduras deaths data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/16/2021,95311,95839,Correct Honduras recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/17/2021,95311,95839,Correct Honduras recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/18/2021,95311,95839,Correct Honduras recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/19/2021,95311,96098,Correct Honduras recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/26/2021,97430,97711,Correct Honduras recovered data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,06/30/2021,486106,487592,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/01/2021,486106,489126,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/12/2021,501195,502439,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/14/2021,503734,504960,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/15/2021,503734,506125,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/17/2021,507423,508521,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/18/2021,507423,509576,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/19/2021,507423,510869,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/20/2021,507423,512142,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/22/2021,513284,514446,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/23/2021,513284,515693,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/24/2021,513284,516949,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/26/2021,518143,519395,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/27/2021,518143,520774,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,06/30/2021,7804,7819,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/01/2021,7804,7832,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/12/2021,7976,7992,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/14/2021,8006,8020,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/15/2021,8006,8035,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/17/2021,8048,8063,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/18/2021,8048,8075,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/19/2021,8048,8089,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/20/2021,8048,8103,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/22/2021,8115,8130,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/23/2021,8115,8141,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/24/2021,8115,8155,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/26/2021,8167,8179,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/27/2021,8167,8189,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,06/30/2021,466578,467633,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/01/2021,466578,469120,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/12/2021,482414,483937,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/14/2021,484883,486011,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/15/2021,484883,486918,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/16/2021,488346,488883,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/17/2021,488346,489553,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/18/2021,488346,490696,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/19/2021,488346,492149,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/20/2021,488346,493240,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/22/2021,494264,495650,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/23/2021,494264,496810,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/24/2021,494264,497965,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/26/2021,499129,500428,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/27/2021,499129,501449,Correct Saudi Arabia recovered data
