@@ -315,6 +315,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
+296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,117606
 410,KR,KOR,410,,,,"Korea, South",35.907757,127.766922,"Korea, South",51269183
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,1810366
 414,KW,KWT,414,,,,Kuwait,29.31166,47.481766,Kuwait,4270563
@@ -400,6 +401,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",26221
 554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,4822233
+184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",17459
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,6624554
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,24206636
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,206139587
@@ -443,6 +445,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 56638,NG,NGA,566,,,Unknown,Nigeria,,,"Unknown, Nigeria",
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2083380
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
+2020,,,,,,,Summer Olympics 2020,35.6491,139.7737,Summer Olympics 2020,
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,220892331
 58601,PK,PAK,586,,,Azad Jammu and Kashmir,Pakistan,34.027401,73.947253,"Azad Jammu and Kashmir, Pakistan",4045366
@@ -486,6 +489,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 60426,PE,PER,604,,,Unknown,Peru,,,"Unknown, Peru",
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,109581085
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,37846605
+61601,PL,POL,616,,,Dolnoslaskie,Poland,51.1340,16.8842,"Dolnoslaskie, Poland",2901225
+61602,PL,POL,616,,,Kujawsko-pomorskie,Poland,53.1648,18.4834,"Kujawsko-pomorskie, Poland",2077775
+61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2117619
+61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",1014548
+61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2466322
+61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",3400577
+61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",5403412
+61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",986506
+61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2129015
+61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",1181533
+61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2333523
+61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",4533565
+61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",1241546
+61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",1428983
+61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",3493969
+61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",1701030
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,10196707
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2881060
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,19237682

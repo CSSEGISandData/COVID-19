@@ -22,7 +22,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27001,Aitkin,Minnesota,US,2020-05-15 02:33:02,46.60962049,-93.4116826,2,0,0,2,"Aitkin, Minnesota, US"
 12001,Alachua,Florida,US,2020-05-15 02:33:02,29.67866525,-82.35928158,330,5,0,325,"Alachua, Florida, US"
 37001,Alamance,North Carolina,US,2020-05-15 02:33:02,36.0434701,-79.39976137,196,9,0,187,"Alamance, North Carolina, US"
-6001,Alameda,California,US,2020-05-15 02:33:02,37.64629437,-121.8929271,2234,79,0,2155,"Alameda, California, US"
+6001,Alameda,California,US,2020-05-15 02:33:02,37.64629437,-121.8929271,2234,80,0,2155,"Alameda, California, US"
 8003,Alamosa,Colorado,US,2020-05-15 02:33:02,37.57250606,-105.7885451,37,2,0,35,"Alamosa, Colorado, US"
 36001,Albany,New York,US,2020-05-15 02:33:02,42.60060306,-73.97723916,1509,66,0,1443,"Albany, New York, US"
 56001,Albany,Wyoming,US,2020-05-15 02:33:02,41.65498705,-105.7235415,8,0,0,8,"Albany, Wyoming, US"
@@ -447,7 +447,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31031,Cherry,Nebraska,US,2020-05-15 02:33:02,42.54502621,-101.1244332,1,0,0,1,"Cherry, Nebraska, US"
 51550,Chesapeake,Virginia,US,2020-05-15 02:33:02,36.67670048,-76.30545744,362,9,0,353,"Chesapeake, Virginia, US"
 33005,Cheshire,New Hampshire,US,2020-05-15 02:33:02,42.92015988,-72.25311043,45,2,0,43,"Cheshire, New Hampshire, US"
-42029,Chester,Pennsylvania,US,2020-05-15 02:33:02,39.97291773,-75.74768357,2008,213,0,1795,"Chester, Pennsylvania, US"
+42029,Chester,Pennsylvania,US,2020-05-15 02:33:02,39.97291773,-75.74768357,2102,236,0,1795,"Chester, Pennsylvania, US"
 45023,Chester,South Carolina,US,2020-05-15 02:33:02,34.69249168,-81.1583216,39,0,0,39,"Chester, South Carolina, US"
 47023,Chester,Tennessee,US,2020-05-15 02:33:02,35.42527478,-88.6095842,12,0,0,12,"Chester, Tennessee, US"
 45025,Chesterfield,South Carolina,US,2020-05-15 02:33:02,34.64137396,-80.15640140000002,90,1,0,89,"Chesterfield, South Carolina, US"
@@ -655,7 +655,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 16037,Custer,Idaho,US,2020-05-15 02:33:02,44.24186819,-114.2855494,2,0,0,2,"Custer, Idaho, US"
 31041,Custer,Nebraska,US,2020-05-15 02:33:02,41.39374521,-99.72805369,29,3,0,26,"Custer, Nebraska, US"
 40039,Custer,Oklahoma,US,2020-05-15 02:33:02,35.63853802,-99.00170785,12,0,0,12,"Custer, Oklahoma, US"
-39035,Cuyahoga,Ohio,US,2020-05-15 02:33:02,41.424119,-81.65918339,3066,174,0,2909,"Cuyahoga, Ohio, US"
+39035,Cuyahoga,Ohio,US,2020-05-15 02:33:02,41.424119,-81.65918339,3066,178,0,2909,"Cuyahoga, Ohio, US"
 13083,Dade,Georgia,US,2020-05-15 02:33:02,34.854916700000004,-85.50490424,17,1,0,16,"Dade, Georgia, US"
 27037,Dakota,Minnesota,US,2020-05-15 02:33:02,44.67172617,-93.06299363,562,16,0,546,"Dakota, Minnesota, US"
 31043,Dakota,Nebraska,US,2020-05-15 02:33:02,42.39040144,-96.56656425,1412,3,0,1409,"Dakota, Nebraska, US"
@@ -900,7 +900,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31061,Franklin,Nebraska,US,2020-05-15 02:33:02,40.17636348,-98.95299073,5,0,0,5,"Franklin, Nebraska, US"
 36033,Franklin,New York,US,2020-05-15 02:33:02,44.59040891,-74.29926032,17,0,0,17,"Franklin, New York, US"
 37069,Franklin,North Carolina,US,2020-05-15 02:33:02,36.081519,-78.28708884,121,22,0,99,"Franklin, North Carolina, US"
-39049,Franklin,Ohio,US,2020-05-15 02:33:02,39.96995815,-83.01115755,4227,149,0,4077,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,2020-05-15 02:33:02,39.96995815,-83.01115755,4227,150,0,4077,"Franklin, Ohio, US"
 42055,Franklin,Pennsylvania,US,2020-05-15 02:33:02,39.92956518,-77.72157791,563,15,0,548,"Franklin, Pennsylvania, US"
 47051,Franklin,Tennessee,US,2020-05-15 02:33:02,35.15634626,-86.09201039,41,1,0,40,"Franklin, Tennessee, US"
 48159,Franklin,Texas,US,2020-05-15 02:33:02,33.17653242,-95.21917243,4,0,0,4,"Franklin, Texas, US"
@@ -1076,7 +1076,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20075,Hamilton,Kansas,US,2020-05-15 02:33:02,37.99978709,-101.7921066,8,0,0,8,"Hamilton, Kansas, US"
 31081,Hamilton,Nebraska,US,2020-05-15 02:33:02,40.87349452,-98.02099117,47,7,0,40,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,2020-05-15 02:33:02,43.66146647,-74.49721957,5,0,0,5,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,2020-05-15 02:33:02,39.19673558,-84.54502924,1927,104,0,1822,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,2020-05-15 02:33:02,39.19673558,-84.54502924,1927,106,0,1822,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,2020-05-15 02:33:02,35.17670231,-85.16652245,319,13,0,306,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,2020-05-15 02:33:02,31.70470573,-98.11083887,7,0,0,7,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,2020-05-15 02:33:02,44.67385954,-97.18829593,2,0,0,2,"Hamlin, South Dakota, US"
@@ -1183,7 +1183,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37093,Hoke,North Carolina,US,2020-05-15 02:33:02,35.01888303,-79.23651674,134,0,0,134,"Hoke, North Carolina, US"
 12059,Holmes,Florida,US,2020-05-15 02:33:02,30.86747479,-85.81319222,10,0,0,10,"Holmes, Florida, US"
 28051,Holmes,Mississippi,US,2020-05-15 02:33:02,33.12345854,-90.08923538,262,19,0,243,"Holmes, Mississippi, US"
-39075,Holmes,Ohio,US,2020-05-15 02:33:02,40.56163713,-81.92635677,10,2,0,9,"Holmes, Ohio, US"
+39075,Holmes,Ohio,US,2020-05-15 02:33:02,40.56163713,-81.92635677,10,1,0,9,"Holmes, Ohio, US"
 29087,Holt,Missouri,US,2020-05-15 02:33:02,40.09799248,-95.2163888,1,0,0,1,"Holt, Missouri, US"
 31089,Holt,Nebraska,US,2020-05-15 02:33:02,42.45522056,-98.78402558,1,0,0,1,"Holt, Nebraska, US"
 15003,Honolulu,Hawaii,US,2020-05-15 02:33:02,21.45803166,-157.97121819999995,414,11,0,403,"Honolulu, Hawaii, US"
@@ -1633,7 +1633,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 51113,Madison,Virginia,US,2020-05-15 02:33:02,38.41531222,-78.28220331,23,1,0,22,"Madison, Virginia, US"
 19123,Mahaska,Iowa,US,2020-05-15 02:33:02,41.33521503,-92.64083907,21,1,0,20,"Mahaska, Iowa, US"
 27087,Mahnomen,Minnesota,US,2020-05-15 02:33:02,47.32557075,-95.80921485,5,1,0,4,"Mahnomen, Minnesota, US"
-39099,Mahoning,Ohio,US,2020-05-15 02:33:02,41.01631101,-80.77287029,1174,146,0,1036,"Mahoning, Ohio, US"
+39099,Mahoning,Ohio,US,2020-05-15 02:33:02,41.01631101,-80.77287029,1174,147,0,1036,"Mahoning, Ohio, US"
 40093,Major,Oklahoma,US,2020-05-15 02:33:02,36.31149996,-98.53467076,6,1,0,5,"Major, Oklahoma, US"
 41045,Malheur,Oregon,US,2020-05-15 02:33:02,43.1937027,-117.6227395,16,0,0,16,"Malheur, Oregon, US"
 51683,Manassas,Virginia,US,2020-05-15 02:33:02,38.7464321,-77.48509905,515,5,0,510,"Manassas, Virginia, US"
@@ -1658,7 +1658,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21155,Marion,Kentucky,US,2020-05-15 02:33:02,37.55218078,-85.26898542,17,0,0,17,"Marion, Kentucky, US"
 28091,Marion,Mississippi,US,2020-05-15 02:33:02,31.23132643,-89.8209217,86,7,0,79,"Marion, Mississippi, US"
 29127,Marion,Missouri,US,2020-05-15 02:33:02,39.80601912,-91.62203062,5,0,0,5,"Marion, Missouri, US"
-39101,Marion,Ohio,US,2020-05-15 02:33:02,40.58610662,-83.15736305,2431,12,0,2416,"Marion, Ohio, US"
+39101,Marion,Ohio,US,2020-05-15 02:33:02,40.58610662,-83.15736305,2431,13,0,2416,"Marion, Ohio, US"
 41047,Marion,Oregon,US,2020-05-15 02:33:02,44.90287942,-122.5815117,779,23,0,756,"Marion, Oregon, US"
 45067,Marion,South Carolina,US,2020-05-15 02:33:02,34.07859748,-79.36400756,47,4,0,43,"Marion, South Carolina, US"
 47115,Marion,Tennessee,US,2020-05-15 02:33:02,35.12997174,-85.62265895,30,1,0,29,"Marion, Tennessee, US"
@@ -2154,7 +2154,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 17151,Pope,Illinois,US,2020-05-15 02:33:02,37.41391284,-88.56152109,1,0,0,1,"Pope, Illinois, US"
 27121,Pope,Minnesota,US,2020-05-15 02:33:02,45.58606667,-95.44451209,5,0,0,5,"Pope, Minnesota, US"
 51735,Poquoson,Virginia,US,2020-05-15 02:33:02,37.14259351,-76.35798148,7,0,0,7,"Poquoson, Virginia, US"
-39133,Portage,Ohio,US,2020-05-15 02:33:02,41.16793482,-81.19735782,284,43,0,233,"Portage, Ohio, US"
+39133,Portage,Ohio,US,2020-05-15 02:33:02,41.16793482,-81.19735782,284,44,0,233,"Portage, Ohio, US"
 55097,Portage,Wisconsin,US,2020-05-15 02:33:02,44.47558711,-89.50152965,7,0,0,7,"Portage, Wisconsin, US"
 18127,Porter,Indiana,US,2020-05-15 02:33:02,41.45986947,-87.06848888,372,10,0,363,"Porter, Indiana, US"
 51740,Portsmouth,Virginia,US,2020-05-15 02:33:02,36.85914825,-76.35971629,217,9,0,208,"Portsmouth, Virginia, US"
@@ -2279,7 +2279,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 33015,Rockingham,New Hampshire,US,2020-05-15 02:33:02,42.98499744,-71.12883377,1040,53,0,987,"Rockingham, New Hampshire, US"
 37157,Rockingham,North Carolina,US,2020-05-15 02:33:02,36.39593137,-79.77504841,44,2,0,42,"Rockingham, North Carolina, US"
 51165,Rockingham,Virginia,US,2020-05-15 02:33:02,38.51006137,-78.87260325,381,2,0,379,"Rockingham, Virginia, US"
-36087,Rockland,New York,US,2020-05-15 02:33:02,41.15027894,-74.02560498,12596,594,0,12002,"Rockland, New York, US"
+36087,Rockland,New York,US,2020-05-15 02:33:02,41.15027894,-74.02560498,12596,468,0,12002,"Rockland, New York, US"
 48397,Rockwall,Texas,US,2020-05-15 02:33:02,32.89779518,-96.40771592,138,5,0,133,"Rockwall, Texas, US"
 40131,Rogers,Oklahoma,US,2020-05-15 02:33:02,36.37004357,-95.60406759,72,5,0,67,"Rogers, Oklahoma, US"
 38079,Rolette,North Dakota,US,2020-05-15 02:33:02,48.77245354,-99.84097493,3,0,0,3,"Rolette, North Dakota, US"
@@ -2321,7 +2321,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-05-15 02:33:02,34.98820368,-78.36914061,211,1,0,210,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,2020-05-15 02:33:02,31.39457611,-94.17000399,22,1,0,21,"San Augustine, Texas, US"
 6069,San Benito,California,US,2020-05-15 02:33:02,36.60308176,-121.069975,59,2,0,57,"San Benito, California, US"
-6071,San Bernardino,California,US,2020-05-15 02:33:02,34.84060306,-116.1774685,3198,139,0,3059,"San Bernardino, California, US"
+6071,San Bernardino,California,US,2020-05-15 02:33:02,34.84060306,-116.1774685,3198,140,0,3059,"San Bernardino, California, US"
 6073,San Diego,California,US,2020-05-15 02:33:02,33.03484597,-116.7365326,5391,200,0,5191,"San Diego, California, US"
 6075,San Francisco,California,US,2020-05-15 02:33:02,37.75215114,-122.4385672,1999,35,0,1964,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-05-15 02:33:02,30.57933681,-95.16260304,12,0,0,12,"San Jacinto, Texas, US"
@@ -3074,7 +3074,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 72,,Puerto Rico,US,2020-05-15 02:33:02,18.2208,-66.5901,2427,117,0,2310,"Puerto Rico, US"
 ,,Puglia,Italy,2020-05-15 02:33:02,41.12559576,16.86736689,4357,461,1643,2253,"Puglia, Italy"
 ,,Qinghai,China,2020-05-15 02:33:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-05-15 02:33:02,52.9399,-73.5491,40732,4091,10829,26551,"Quebec, Canada"
+,,Quebec,Canada,2020-05-15 02:33:02,52.9399,-73.5491,41379,4091,10829,26551,"Quebec, Canada"
 ,,Queensland,Australia,2020-05-15 02:33:02,-27.4698,153.0251,1054,6,1031,17,"Queensland, Australia"
 ,,Recovered,US,2020-05-15 02:33:02,,,0,0,246414,-246685,"Recovered, US"
 ,,Reunion,France,2020-05-15 02:33:02,-21.1151,55.5364,440,0,354,86,"Reunion, France"
@@ -3243,7 +3243,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Panama,2020-05-15 02:33:02,8.538,-80.7821,9118,260,6080,2778,Panama
 ,,,Papua New Guinea,2020-05-15 02:33:02,-6.314993,143.95555,8,0,8,0,Papua New Guinea
 ,,,Paraguay,2020-05-15 02:33:02,-23.4425,-58.4438,754,11,184,559,Paraguay
-,,,Peru,2020-05-15 02:33:02,-9.19,-75.0152,80604,2267,25151,53186,Peru
+,,,Peru,2020-05-15 02:33:02,-9.19,-75.0152,80604,11277,25151,53186,Peru
 ,,,Philippines,2020-05-15 02:33:02,12.879721,121.77401699999999,11876,790,2337,8749,Philippines
 ,,,Poland,2020-05-15 02:33:02,51.9194,19.1451,17615,883,6696,10036,Poland
 ,,,Portugal,2020-05-15 02:33:02,39.3999,-8.2245,28319,1184,3198,23937,Portugal
@@ -3297,3 +3297,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zimbabwe,2020-05-15 02:33:02,-19.015438,29.154857,37,4,13,20,Zimbabwe
 2066,Copper River,Alaska,US,2021-04-02 15:13:53,60.3886,-162.8905196,0,0,0,0,"Copper River, Alaska, US"
 2063,Chugach,Alaska,US,2021-04-02 15:13:53,61.16666,-149.9,1,0,0,0,"Chugach, Alaska, US"
+,,Unknown,China,2020-05-15 02:33:02,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,2020-05-15 02:33:02,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,2020-05-15 02:33:02,7.515,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-05-15 02:33:02,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,2020-05-15 02:33:02,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

@@ -56,6 +56,7 @@ British Columbia,Canada,2020-02-27T03:33:06,7,0,3
 ,Sweden,2020-02-27T20:33:02,7,0,0
 Queensland,Australia,2020-02-21T05:43:02,5,0,1
 "Toronto, ON",Canada,2020-02-27T22:43:02,5,0,2
+" Montreal, QC",Canada,2020-02-27T22:43:02,1,0,0
 New South Wales,Australia,2020-02-13T17:53:03,4,0,4
 Victoria,Australia,2020-02-13T17:53:03,4,0,4
 ,Oman,2020-02-26T04:53:02,4,0,0
@@ -104,3 +105,8 @@ Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 "Lackland, TX (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0
 "Omaha, NE (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0
 "Travis, CA (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0
+Unknown,China,2020-02-27T12:13:14,0,0,0
+,Kiribati,2020-02-27T12:13:14,0,0,0
+,Palau,2020-02-27T12:13:14,0,0,0
+Cook Islands,New Zealand,2020-02-27T12:13:14,0,0,0
+,Summer Olympics 2020,2020-02-27T12:13:14,0,0,0

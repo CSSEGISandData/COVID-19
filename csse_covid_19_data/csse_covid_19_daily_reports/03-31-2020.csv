@@ -675,7 +675,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29071,Franklin,Missouri,US,2020-03-31 23:43:56,38.41127108,-91.07522826,13,0,0,0,"Franklin, Missouri, US"
 36033,Franklin,New York,US,2020-03-31 23:43:56,44.59040891,-74.29926032,6,0,0,0,"Franklin, New York, US"
 37069,Franklin,North Carolina,US,2020-03-31 23:43:56,36.081519,-78.28708884,11,0,0,0,"Franklin, North Carolina, US"
-39049,Franklin,Ohio,US,2020-03-31 23:43:56,39.96995815,-83.01115755,325,5,0,0,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,2020-03-31 23:43:56,39.96995815,-83.01115755,325,6,0,0,"Franklin, Ohio, US"
 42055,Franklin,Pennsylvania,US,2020-03-31 23:43:56,39.92956518,-77.72157791,19,0,0,0,"Franklin, Pennsylvania, US"
 47051,Franklin,Tennessee,US,2020-03-31 23:43:56,35.15634626,-86.09201039,5,0,0,0,"Franklin, Tennessee, US"
 48159,Franklin,Texas,US,2020-03-31 23:43:56,33.17653242,-95.21917243,1,0,0,0,"Franklin, Texas, US"
@@ -862,7 +862,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37093,Hoke,North Carolina,US,2020-03-31 23:43:56,35.01888303,-79.23651674,4,0,0,0,"Hoke, North Carolina, US"
 12059,Holmes,Florida,US,2020-03-31 23:43:56,30.86747479,-85.81319222,1,0,0,0,"Holmes, Florida, US"
 28051,Holmes,Mississippi,US,2020-03-31 23:43:56,33.12345854,-90.08923538,15,1,0,0,"Holmes, Mississippi, US"
-39075,Holmes,Ohio,US,2020-03-31 23:43:56,40.56163713,-81.92635677,1,1,0,0,"Holmes, Ohio, US"
+39075,Holmes,Ohio,US,2020-03-31 23:43:56,40.56163713,-81.92635677,1,0,0,0,"Holmes, Ohio, US"
 15003,Honolulu,Hawaii,US,2020-03-31 23:43:56,21.45803166,-157.97121819999995,139,0,0,0,"Honolulu, Hawaii, US"
 48221,Hood,Texas,US,2020-03-31 23:43:56,32.42990927,-97.83242024,6,0,0,0,"Hood, Texas, US"
 41027,Hood River,Oregon,US,2020-03-31 23:43:56,45.51872811,-121.65520359999998,3,0,0,0,"Hood River, Oregon, US"
@@ -1653,7 +1653,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 33015,Rockingham,New Hampshire,US,2020-03-31 23:43:56,42.98499744,-71.12883377,137,1,0,0,"Rockingham, New Hampshire, US"
 37157,Rockingham,North Carolina,US,2020-03-31 23:43:56,36.39593137,-79.77504841,2,0,0,0,"Rockingham, North Carolina, US"
 51165,Rockingham,Virginia,US,2020-03-31 23:43:56,38.51006137,-78.87260325,5,0,0,0,"Rockingham, Virginia, US"
-36087,Rockland,New York,US,2020-03-31 23:43:56,41.15027894,-74.02560498,2863,8,0,0,"Rockland, New York, US"
+36087,Rockland,New York,US,2020-03-31 23:43:56,41.15027894,-74.02560498,2863,0,0,0,"Rockland, New York, US"
 48397,Rockwall,Texas,US,2020-03-31 23:43:56,32.89779518,-96.40771592,5,0,0,0,"Rockwall, Texas, US"
 40131,Rogers,Oklahoma,US,2020-03-31 23:43:56,36.37004357,-95.60406759,3,0,0,0,"Rogers, Oklahoma, US"
 30085,Roosevelt,Montana,US,2020-03-31 23:43:56,48.29607488,-105.00792679999999,1,0,0,0,"Roosevelt, Montana, US"
@@ -2232,7 +2232,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2020-03-31 23:49:13,46.5107,-63.4168,21,0,0,0,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,2020-03-31 23:43:56,18.2208,-66.5901,239,8,0,0,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-03-31 23:49:13,52.9399,-73.5491,4162,82,0,0,"Quebec, Canada"
+,,Quebec,Canada,2020-03-31 23:49:13,52.9399,-73.5491,4881,82,0,0,"Quebec, Canada"
 ,,Queensland,Australia,2020-03-31 23:49:27,-27.4698,153.0251,743,2,8,733,"Queensland, Australia"
 ,,Recovered,Canada,2020-03-31 23:49:13,0.0,0.0,0,0,1592,0,"Recovered, Canada"
 ,,Recovered,US,2020-03-31 23:43:56,0.0,0.0,0,0,7024,0,"Recovered, US"
@@ -2387,7 +2387,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Panama,2020-03-31 23:43:43,8.538,-80.7821,1181,30,9,1142,Panama
 ,,,Papua New Guinea,2020-03-31 23:43:43,-6.314993,143.95555,1,0,0,1,Papua New Guinea
 ,,,Paraguay,2020-03-31 23:43:43,-23.4425,-58.4438,65,3,1,61,Paraguay
-,,,Peru,2020-03-31 23:43:43,-9.19,-75.0152,1065,30,394,641,Peru
+,,,Peru,2020-03-31 23:43:43,-9.19,-75.0152,1065,138,394,641,Peru
 ,,,Philippines,2020-03-31 23:43:43,12.879721,121.77401699999999,2084,88,49,1947,Philippines
 ,,,Poland,2020-03-31 23:43:43,51.9194,19.1451,2311,33,7,2271,Poland
 ,,,Portugal,2020-03-31 23:43:43,39.3999,-8.2245,7443,160,43,7240,Portugal
@@ -2436,3 +2436,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,West Bank and Gaza,2020-03-31 23:43:43,31.9522,35.2332,119,1,18,100,West Bank and Gaza
 ,,,Zambia,2020-03-31 23:43:43,-13.133897,27.849332,35,0,0,35,Zambia
 ,,,Zimbabwe,2020-03-31 23:43:43,-19.015438,29.154857,8,1,0,7,Zimbabwe
+,,Unknown,China,2020-03-31 23:43:56,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,2020-03-31 23:43:56,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,2020-03-31 23:43:56,7.515,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-03-31 23:43:56,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,2020-03-31 23:43:56,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

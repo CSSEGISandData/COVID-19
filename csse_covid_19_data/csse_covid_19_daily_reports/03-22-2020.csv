@@ -97,12 +97,12 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 34011,Cumberland,New Jersey,US,3/22/20 23:45,39.37199394,-75.10712559,1,0,0,0,"Cumberland, New Jersey, US"
 34033,Salem,New Jersey,US,3/22/20 23:45,39.58719656,-75.3469663,1,0,0,0,"Salem, New Jersey, US"
 6037,Los Angeles,California,US,3/22/20 23:45,34.30828379,-118.2282411,407,5,0,0,"Los Angeles, California, US"
-6085,Santa Clara,California,US,3/22/20 23:45,37.23104908,-121.6970462,263,8,0,0,"Santa Clara, California, US"
+6085,Santa Clara,California,US,3/22/20 23:45,37.23104908,-121.6970462,263,13,0,0,"Santa Clara, California, US"
 6073,San Diego,California,US,3/22/20 23:45,33.03484597,-116.7365326,155,0,0,0,"San Diego, California, US"
 6081,San Mateo,California,US,3/22/20 23:45,37.4228808,-122.3275546,117,1,0,0,"San Mateo, California, US"
 6075,San Francisco,California,US,3/22/20 23:45,37.75215114,-122.4385672,108,0,0,0,"San Francisco, California, US"
 6059,Orange,California,US,3/22/20 23:45,33.70147516,-117.7645998,95,0,0,0,"Orange, California, US"
-6001,Alameda,California,US,3/22/20 23:45,37.64629437,-121.8929271,71,0,0,0,"Alameda, California, US"
+6001,Alameda,California,US,3/22/20 23:45,37.64629437,-121.8929271,71,1,0,0,"Alameda, California, US"
 6013,Contra Costa,California,US,3/22/20 23:45,37.91923498,-121.9289527,61,1,0,0,"Contra Costa, California, US"
 6067,Sacramento,California,US,3/22/20 23:45,38.45106826,-121.3425374,53,3,0,0,"Sacramento, California, US"
 6041,Marin,California,US,3/22/20 23:45,38.07122463,-122.7210631,38,0,0,0,"Marin, California, US"
@@ -554,7 +554,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55031,Douglas,Wisconsin,US,3/22/20 23:45,46.43222285,-91.91595768,1,0,0,0,"Douglas, Wisconsin, US"
 55045,Green,Wisconsin,US,3/22/20 23:45,42.6794956,-89.60243287,1,0,0,0,"Green, Wisconsin, US"
 39035,Cuyahoga,Ohio,US,3/22/20 23:45,41.424119,-81.65918339,125,2,0,0,"Cuyahoga, Ohio, US"
-39049,Franklin,Ohio,US,3/22/20 23:45,39.96995815,-83.01115755,34,2,0,0,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,3/22/20 23:45,39.96995815,-83.01115755,34,3,0,0,"Franklin, Ohio, US"
 39153,Summit,Ohio,US,3/22/20 23:45,41.12464734,-81.53123079,23,0,0,0,"Summit, Ohio, US"
 39093,Lorain,Ohio,US,3/22/20 23:45,41.29553751,-82.15083537,19,0,0,0,"Lorain, Ohio, US"
 39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,0,0,0,"Hamilton, Ohio, US"
@@ -3178,7 +3178,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Ontario,Canada,3/22/20 23:48,51.2538,-85.3232,425,5,0,0,"Ontario, Canada"
 ,,British Columbia,Canada,3/22/20 23:48,53.7267,-127.6476,424,10,0,0,"British Columbia, Canada"
 ,,Alberta,Canada,3/22/20 23:48,53.9333,-116.5765,259,1,0,0,"Alberta, Canada"
-,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,219,5,0,0,"Quebec, Canada"
+,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,795,5,0,0,"Quebec, Canada"
 ,,Saskatchewan,Canada,3/22/20 23:48,52.9399,-106.4509,52,0,0,0,"Saskatchewan, Canada"
 ,,Nova Scotia,Canada,3/22/20 23:48,44.682,-63.7443,28,0,0,0,"Nova Scotia, Canada"
 ,,Nunavut,Canada,3/22/20 23:48,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
@@ -3274,7 +3274,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,India,3/22/20 23:45,20.593684,78.96288,396,7,24,365,India
 ,,,Philippines,3/22/20 23:45,12.879721,121.774017,380,25,15,340,Philippines
 ,,,Russia,3/22/20 23:45,61.52401,105.318756,367,1,16,350,Russia
-,,,Peru,3/22/20 23:45,-9.19,-75.0152,363,5,1,357,Peru
+,,,Peru,3/22/20 23:45,-9.19,-75.0152,363,34,1,357,Peru
 ,,,Bahrain,3/22/20 23:45,26.0275,50.55,334,2,149,183,Bahrain
 ,,,Egypt,3/22/20 23:45,26.820553,30.802498,327,14,56,257,Egypt
 ,,,Estonia,3/22/20 23:45,58.5953,25.0136,326,0,4,322,Estonia
@@ -3419,3 +3419,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Uganda,3/22/20 23:45,1.373333,32.290275,1,0,0,1,Uganda
 11001,District of Columbia,District of Columbia,US,3/22/20 23:45,38.90417773,-77.01655992,102,2,0,0,"District of Columbia,District of Columbia,US"
 53023,Garfield County,Washington,US,3/22/20 23:45,46.45197502,-117.5454032,1,2,0,0,"Garfield County,Washington,US"
+,,Unknown,China,3/22/20 23:45,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,3/22/20 23:45,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,3/22/20 23:45,7.515,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,3/22/20 23:45,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,3/22/20 23:45,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

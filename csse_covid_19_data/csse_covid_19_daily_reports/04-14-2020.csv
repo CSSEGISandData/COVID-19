@@ -21,7 +21,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 45003,Aiken,South Carolina,US,2020-04-14 23:33:31,33.54338026,-81.63645384,60,3,0,57,"Aiken, South Carolina, US"
 12001,Alachua,Florida,US,2020-04-14 23:33:31,29.67866525,-82.35928158,195,0,0,195,"Alachua, Florida, US"
 37001,Alamance,North Carolina,US,2020-04-14 23:33:31,36.0434701,-79.39976137,73,0,0,73,"Alamance, North Carolina, US"
-6001,Alameda,California,US,2020-04-14 23:33:31,37.64629437,-121.8929271,888,23,0,865,"Alameda, California, US"
+6001,Alameda,California,US,2020-04-14 23:33:31,37.64629437,-121.8929271,888,30,0,865,"Alameda, California, US"
 8003,Alamosa,Colorado,US,2020-04-14 23:33:31,37.57250606,-105.7885451,7,2,0,5,"Alamosa, Colorado, US"
 36001,Albany,New York,US,2020-04-14 23:33:31,42.60060306,-73.97723916,535,16,0,519,"Albany, New York, US"
 56001,Albany,Wyoming,US,2020-04-14 23:33:31,41.65498705,-105.72354150000001,5,0,0,5,"Albany, Wyoming, US"
@@ -418,7 +418,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31031,Cherry,Nebraska,US,2020-04-14 23:33:31,42.54502621,-101.1244332,1,0,0,1,"Cherry, Nebraska, US"
 51550,Chesapeake,Virginia,US,2020-04-14 23:33:31,36.67670048,-76.30545744,136,0,0,136,"Chesapeake, Virginia, US"
 33005,Cheshire,New Hampshire,US,2020-04-14 23:33:31,42.92015988,-72.25311043,21,0,0,21,"Cheshire, New Hampshire, US"
-42029,Chester,Pennsylvania,US,2020-04-14 23:33:31,39.97291773,-75.74768357,636,20,0,616,"Chester, Pennsylvania, US"
+42029,Chester,Pennsylvania,US,2020-04-14 23:33:31,39.97291773,-75.74768357,673,45,0,616,"Chester, Pennsylvania, US"
 45023,Chester,South Carolina,US,2020-04-14 23:33:31,34.69249168,-81.1583216,20,0,0,20,"Chester, South Carolina, US"
 47023,Chester,Tennessee,US,2020-04-14 23:33:31,35.42527478,-88.6095842,5,0,0,5,"Chester, Tennessee, US"
 45025,Chesterfield,South Carolina,US,2020-04-14 23:33:31,34.64137396,-80.15640140000002,27,0,0,27,"Chesterfield, South Carolina, US"
@@ -611,7 +611,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 16037,Custer,Idaho,US,2020-04-14 23:33:31,44.24186819,-114.2855494,2,0,0,2,"Custer, Idaho, US"
 31041,Custer,Nebraska,US,2020-04-14 23:33:31,41.39374521,-99.72805369,19,0,0,19,"Custer, Nebraska, US"
 40039,Custer,Oklahoma,US,2020-04-14 23:33:31,35.63853802,-99.00170785,7,0,0,7,"Custer, Oklahoma, US"
-39035,Cuyahoga,Ohio,US,2020-04-14 23:33:31,41.424119,-81.65918339,1239,56,0,1206,"Cuyahoga, Ohio, US"
+39035,Cuyahoga,Ohio,US,2020-04-14 23:33:31,41.424119,-81.65918339,1239,58,0,1206,"Cuyahoga, Ohio, US"
 13083,Dade,Georgia,US,2020-04-14 23:33:31,34.854916700000004,-85.50490424,3,1,0,2,"Dade, Georgia, US"
 27037,Dakota,Minnesota,US,2020-04-14 23:33:31,44.67172617,-93.06299363,103,5,0,98,"Dakota, Minnesota, US"
 31043,Dakota,Nebraska,US,2020-04-14 23:33:31,42.39040144,-96.56656425,2,0,0,2,"Dakota, Nebraska, US"
@@ -838,7 +838,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31061,Franklin,Nebraska,US,2020-04-14 23:33:31,40.17636348,-98.95299073,3,0,0,3,"Franklin, Nebraska, US"
 36033,Franklin,New York,US,2020-04-14 23:33:31,44.59040891,-74.29926032,13,0,0,13,"Franklin, New York, US"
 37069,Franklin,North Carolina,US,2020-04-14 23:33:31,36.081519,-78.28708884,67,2,0,65,"Franklin, North Carolina, US"
-39049,Franklin,Ohio,US,2020-04-14 23:33:31,39.96995815,-83.01115755,1053,31,0,1035,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,2020-04-14 23:33:31,39.96995815,-83.01115755,1053,32,0,1035,"Franklin, Ohio, US"
 42055,Franklin,Pennsylvania,US,2020-04-14 23:33:31,39.92956518,-77.72157791,69,0,0,69,"Franklin, Pennsylvania, US"
 47051,Franklin,Tennessee,US,2020-04-14 23:33:31,35.15634626,-86.09201039,23,1,0,22,"Franklin, Tennessee, US"
 48159,Franklin,Texas,US,2020-04-14 23:33:31,33.17653242,-95.21917243,1,0,0,1,"Franklin, Texas, US"
@@ -1089,7 +1089,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37093,Hoke,North Carolina,US,2020-04-14 23:33:31,35.01888303,-79.23651674,20,0,0,20,"Hoke, North Carolina, US"
 12059,Holmes,Florida,US,2020-04-14 23:33:31,30.86747479,-85.81319222,4,0,0,4,"Holmes, Florida, US"
 28051,Holmes,Mississippi,US,2020-04-14 23:33:31,33.12345854,-90.08923538,47,3,0,44,"Holmes, Mississippi, US"
-39075,Holmes,Ohio,US,2020-04-14 23:33:31,40.56163713,-81.92635677,3,1,0,3,"Holmes, Ohio, US"
+39075,Holmes,Ohio,US,2020-04-14 23:33:31,40.56163713,-81.92635677,3,0,0,3,"Holmes, Ohio, US"
 15003,Honolulu,Hawaii,US,2020-04-14 23:33:31,21.45803166,-157.97121819999995,358,6,0,352,"Honolulu, Hawaii, US"
 48221,Hood,Texas,US,2020-04-14 23:33:31,32.42990927,-97.83242024,15,1,0,14,"Hood, Texas, US"
 41027,Hood River,Oregon,US,2020-04-14 23:33:31,45.51872811,-121.65520359999998,4,0,0,4,"Hood River, Oregon, US"
@@ -1272,7 +1272,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 44003,Kent,Rhode Island,US,2020-04-14 23:33:31,41.67106337,-71.57641596,169,0,0,169,"Kent, Rhode Island, US"
 21117,Kenton,Kentucky,US,2020-04-14 23:33:31,38.93950319,-84.53241199,99,8,0,91,"Kenton, Kentucky, US"
 19107,Keokuk,Iowa,US,2020-04-14 23:33:31,41.33649833,-92.1785067,2,0,0,2,"Keokuk, Iowa, US"
-6029,Kern,California,US,2020-04-14 23:33:31,35.34329425,-118.72777959999999,462,3,0,459,"Kern, California, US"
+6029,Kern,California,US,2020-04-14 23:33:31,35.34329425,-118.72777959999999,516,3,0,459,"Kern, California, US"
 48265,Kerr,Texas,US,2020-04-14 23:33:31,30.06040006,-99.34930144,2,0,0,2,"Kerr, Texas, US"
 45055,Kershaw,South Carolina,US,2020-04-14 23:33:31,34.33988254,-80.58763164,187,5,0,182,"Kershaw, South Carolina, US"
 2130,Ketchikan Gateway,Alaska,US,2020-04-14 23:33:31,55.57445008,-130.975561,15,0,0,15,"Ketchikan Gateway, Alaska, US"
@@ -2106,7 +2106,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 33015,Rockingham,New Hampshire,US,2020-04-14 23:33:31,42.98499744,-71.12883377,378,1,0,377,"Rockingham, New Hampshire, US"
 37157,Rockingham,North Carolina,US,2020-04-14 23:33:31,36.39593137,-79.77504841,16,2,0,14,"Rockingham, North Carolina, US"
 51165,Rockingham,Virginia,US,2020-04-14 23:33:31,38.51006137,-78.87260325,56,0,0,56,"Rockingham, Virginia, US"
-36087,Rockland,New York,US,2020-04-14 23:33:31,41.15027894,-74.02560498,8335,263,0,8072,"Rockland, New York, US"
+36087,Rockland,New York,US,2020-04-14 23:33:31,41.15027894,-74.02560498,8335,232,0,8072,"Rockland, New York, US"
 48397,Rockwall,Texas,US,2020-04-14 23:33:31,32.89779518,-96.40771592,26,0,0,26,"Rockwall, Texas, US"
 40131,Rogers,Oklahoma,US,2020-04-14 23:33:31,36.37004357,-95.60406759,28,1,0,27,"Rogers, Oklahoma, US"
 38079,Rolette,North Dakota,US,2020-04-14 23:33:31,48.77245354,-99.84097493,1,0,0,1,"Rolette, North Dakota, US"
@@ -2144,7 +2144,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-04-14 23:33:31,34.98820368,-78.36914061,13,0,0,13,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,2020-04-14 23:33:31,31.39457611,-94.17000399,9,1,0,8,"San Augustine, Texas, US"
 6069,San Benito,California,US,2020-04-14 23:33:31,36.60308176,-121.069975,39,2,0,37,"San Benito, California, US"
-6071,San Bernardino,California,US,2020-04-14 23:33:31,34.84060306,-116.1774685,977,31,0,946,"San Bernardino, California, US"
+6071,San Bernardino,California,US,2020-04-14 23:33:31,34.84060306,-116.1774685,977,30,0,946,"San Bernardino, California, US"
 6073,San Diego,California,US,2020-04-14 23:33:31,33.03484597,-116.73653259999999,1847,47,0,1800,"San Diego, California, US"
 6075,San Francisco,California,US,2020-04-14 23:33:31,37.75215114,-122.43856720000001,987,15,0,972,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-04-14 23:33:31,30.57933681,-95.16260304,8,0,0,8,"San Jacinto, Texas, US"
@@ -2163,7 +2163,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 17167,Sangamon,Illinois,US,2020-04-14 23:33:31,39.75836914,-89.65872023,50,3,0,47,"Sangamon, Illinois, US"
 26151,Sanilac,Michigan,US,2020-04-14 23:33:31,43.42406072,-82.82055898,23,2,0,21,"Sanilac, Michigan, US"
 6083,Santa Barbara,California,US,2020-04-14 23:33:31,34.65329488,-120.0188492,284,2,0,282,"Santa Barbara, California, US"
-6085,Santa Clara,California,US,2020-04-14 23:33:31,37.23104908,-121.6970462,1666,60,0,1606,"Santa Clara, California, US"
+6085,Santa Clara,California,US,2020-04-14 23:33:31,37.23104908,-121.6970462,1666,63,0,1606,"Santa Clara, California, US"
 4023,Santa Cruz,Arizona,US,2020-04-14 23:33:31,31.52508998,-110.8479088,10,0,0,10,"Santa Cruz, Arizona, US"
 6087,Santa Cruz,California,US,2020-04-14 23:33:31,37.05580291,-122.0066524,91,2,0,89,"Santa Cruz, California, US"
 35049,Santa Fe,New Mexico,US,2020-04-14 23:33:31,35.50708973,-105.9774716,76,0,0,76,"Santa Fe, New Mexico, US"
@@ -2805,7 +2805,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2020-04-14 23:40:54,46.5107,-63.4168,25,0,0,25,"Prince Edward Island, Canada"
 72,,Puerto Rico,US,2020-04-14 23:33:31,18.2208,-66.5901,923,45,0,878,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-04-14 23:40:54,52.9399,-73.5491,14248,895,0,13813,"Quebec, Canada"
+,,Quebec,Canada,2020-04-14 23:40:54,52.9399,-73.5491,15776,895,0,13813,"Quebec, Canada"
 ,,Queensland,Australia,2020-04-14 23:41:11,-27.4698,153.0251,998,5,442,551,"Queensland, Australia"
 ,,Recovered,Canada,2020-04-14 23:40:54,,,0,0,8210,-8210,"Recovered, Canada"
 ,,Recovered,US,2020-04-14 23:33:31,,,0,0,47763,-47763,"Recovered, US"
@@ -2962,7 +2962,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Panama,2020-04-14 23:33:12,8.538,-80.7821,3472,94,61,3317,Panama
 ,,,Papua New Guinea,2020-04-14 23:33:12,-6.314993,143.95555,2,0,0,2,Papua New Guinea
 ,,,Paraguay,2020-04-14 23:33:12,-23.4425,-58.4438,159,7,22,130,Paraguay
-,,,Peru,2020-04-14 23:33:12,-9.19,-75.0152,10303,230,2869,7204,Peru
+,,,Peru,2020-04-14 23:33:12,-9.19,-75.0152,10303,1061,2869,7204,Peru
 ,,,Philippines,2020-04-14 23:33:12,12.879721,121.77401699999999,5223,335,295,4593,Philippines
 ,,,Poland,2020-04-14 23:33:12,51.9194,19.1451,7202,263,618,6321,Poland
 ,,,Portugal,2020-04-14 23:33:12,39.3999,-8.2245,17448,567,347,16534,Portugal
@@ -3014,3 +3014,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2020-04-14 23:33:12,15.552726999999999,48.516388,1,0,0,1,Yemen
 ,,,Zambia,2020-04-14 23:33:12,-13.133897,27.849332,45,2,30,13,Zambia
 ,,,Zimbabwe,2020-04-14 23:33:12,-19.015438,29.154857,17,3,0,14,Zimbabwe
+,,Unknown,China,2020-04-14 23:33:31,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,2020-04-14 23:33:31,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,2020-04-14 23:33:31,7.515,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-04-14 23:33:31,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,2020-04-14 23:33:31,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

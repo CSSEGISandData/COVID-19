@@ -973,7 +973,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31061,Franklin,Nebraska,US,2020-03-23 23:19:34,40.17636348,-98.95299073,0,0,0,0,"Franklin, Nebraska, US"
 36033,Franklin,New York,US,2020-03-23 23:19:34,44.59040891,-74.29926032,0,0,0,0,"Franklin, New York, US"
 37069,Franklin,North Carolina,US,2020-03-23 23:19:34,36.081519,-78.28708884,4,0,0,0,"Franklin, North Carolina, US"
-39049,Franklin,Ohio,US,2020-03-23 23:19:34,39.96995815,-83.01115755,44,2,0,0,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,2020-03-23 23:19:34,39.96995815,-83.01115755,44,3,0,0,"Franklin, Ohio, US"
 42055,Franklin,Pennsylvania,US,2020-03-23 23:19:34,39.92956518,-77.72157791,1,0,0,0,"Franklin, Pennsylvania, US"
 47051,Franklin,Tennessee,US,2020-03-23 23:19:34,35.15634626,-86.09201039,1,0,0,0,"Franklin, Tennessee, US"
 48159,Franklin,Texas,US,2020-03-23 23:19:34,33.17653242,-95.21917243,0,0,0,0,"Franklin, Texas, US"
@@ -2529,7 +2529,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 26151,Sanilac,Michigan,US,2020-03-23 23:19:34,43.42406072,-82.82055898,0,0,0,0,"Sanilac, Michigan, US"
 49039,Sanpete,Utah,US,2020-03-23 23:19:34,39.37231946,-111.5758676,0,0,0,0,"Sanpete, Utah, US"
 6083,Santa Barbara,California,US,2020-03-23 23:19:34,34.65329488,-120.0188492,18,0,0,0,"Santa Barbara, California, US"
-6085,Santa Clara,California,US,2020-03-23 23:19:34,37.23104908,-121.6970462,302,10,0,0,"Santa Clara, California, US"
+6085,Santa Clara,California,US,2020-03-23 23:19:34,37.23104908,-121.6970462,302,13,0,0,"Santa Clara, California, US"
 4023,Santa Cruz,Arizona,US,2020-03-23 23:19:34,31.52508998,-110.8479088,1,0,0,0,"Santa Cruz, Arizona, US"
 6087,Santa Cruz,California,US,2020-03-23 23:19:34,37.05580291,-122.0066524,22,0,0,0,"Santa Cruz, California, US"
 35049,Santa Fe,New Mexico,US,2020-03-23 23:19:34,35.50708973,-105.9774716,12,0,0,0,"Santa Fe, New Mexico, US"
@@ -3229,7 +3229,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2020-03-23 23:23:10,46.5107,-63.4168,3,0,0,0,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,2020-03-23 23:19:34,18.2208,-66.5901,31,2,0,0,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
-,,Quebec,Canada,2020-03-23 23:23:10,52.9399,-73.5491,628,8,0,0,"Quebec, Canada"
+,,Quebec,Canada,2020-03-23 23:23:10,52.9399,-73.5491,1140,8,0,0,"Quebec, Canada"
 ,,Queensland,Australia,2020-03-23 23:23:20,-27.4698,153.0251,319,0,8,311,"Queensland, Australia"
 ,,Reunion,France,2020-03-23 23:19:21,-21.1151,55.5364,71,0,1,70,"Reunion, France"
 ,,Saint Barthelemy,France,2020-03-23 23:19:21,17.9,-62.8333,3,0,0,3,"Saint Barthelemy, France"
@@ -3369,7 +3369,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Panama,2020-03-23 23:19:21,8.538,-80.7821,313,3,1,309,Panama
 ,,,Papua New Guinea,2020-03-23 23:19:21,-6.314993,143.95555,1,0,0,1,Papua New Guinea
 ,,,Paraguay,2020-03-23 23:19:21,-23.4425,-58.4438,22,1,0,21,Paraguay
-,,,Peru,2020-03-23 23:19:21,-9.19,-75.0152,395,5,1,389,Peru
+,,,Peru,2020-03-23 23:19:21,-9.19,-75.0152,395,39,1,389,Peru
 ,,,Philippines,2020-03-23 23:19:21,12.879721,121.77401699999999,462,33,18,411,Philippines
 ,,,Poland,2020-03-23 23:19:21,51.9194,19.1451,749,8,13,728,Poland
 ,,,Portugal,2020-03-23 23:19:21,39.3999,-8.2245,2060,23,14,2023,Portugal
@@ -3415,3 +3415,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Vietnam,2020-03-23 23:19:21,14.058323999999999,108.277199,123,0,17,106,Vietnam
 ,,,Zambia,2020-03-23 23:19:21,-13.133897,27.849332,3,0,0,3,Zambia
 ,,,Zimbabwe,2020-03-23 23:19:21,-19.015438,29.154857,3,1,0,2,Zimbabwe
+,,Unknown,China,2020-03-23 23:19:34,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,2020-03-23 23:19:34,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,2020-03-23 23:19:34,7.515,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,2020-03-23 23:19:34,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,2020-03-23 23:19:34,35.6491,139.7737,0,0,0,0,Summer Olympics 2020
