@@ -236,6 +236,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * July 19, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * July 25, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * July 27, 2021 | New York, US | Back correction of Rockland, NY deaths to match the New York State COVID-19 Fatalities by County dataset | [Data Source](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Fatalities-by-Co/xymy-pny5)
+* August 02, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -366,6 +367,7 @@ Date: Location | Change | Reason/Other notes | Source
 * June 11, 2021: Alaska, US | Inclusion of four deaths identified through death certificate review | [Source](https://www.adn.com/alaska-news/2021/06/11/tracking-covid-19-in-alaska-49-cases-reported-over-2-days-and-4-deaths-identified-in-certificate-review/)
 * June 29, 2021: California, US | Removal of 6,372 duplicated cases from the state dashboard (along with inclusion of 2,013 new cases). County-level distribution not available. | [Source](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
 * July 14, 2021: Arizona, US | Large spike in cases due to technical issue resulting in some cases having not been published in the previous two days | See [source](https://www.usnews.com/news/best-states/arizona/articles/2021-07-14/arizona-reports-covid-19-case-bulge-cites-reporting-issue)
+* July 30, 2021: Delaware, US | 128 backlogged deaths from mid-May to June 2021 reported after death certificate review | [Source](https://news.delaware.gov/2021/07/30/positive-case-numbers-continue-to-rise-and-delta-variant-continues-to-dominate/)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -440,7 +442,7 @@ United States
 * Utah: Providing data Monday-Friday.
 * Vermont: Providing data Monday-Friday.
 * Virginia: Providing data Monday-Friday.
-* Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
+* Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.
 * West Virginia: Providing data Monday-Friday.
 * Wisconsin: Providing data Monday-Friday.
 * Wyoming: Providing data Monday-Friday.

@@ -220,6 +220,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
+  - Honduras:
+    - Despacho de Comunicaciones y Estrategia Presidencial: https://covid19honduras.org/ 
   - Hong Kong:
     - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
   - Hungary:
