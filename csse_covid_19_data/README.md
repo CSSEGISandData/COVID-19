@@ -250,6 +250,7 @@ Date: Location | Change | Reason/Other notes | Source
 * April 24: Republic of Ireland | Spike of 189 deaths | Source begins including probable deaths (those with COVID-19 listed as cause of death but no molecular test) | [Source](https://www.irishnews.com/news/republicofirelandnews/2020/04/24/news/republic-s-covid-19-death-toll-passes-1-000-1915278/)
 * April 29: United Kingdom | Death counts updated to reflect deaths outside of hospitals | [Source](https://metro.co.uk/2020/04/29/uk-death-toll-rises-26097-care-homes-included-12628454/) | **Back Distributed**
 * May 6: Belgium | 339 new deaths, 229 of which had occured over recent weeks | [Source](http://www.xinhuanet.com/english/2020-05/06/c_139035611.htm)
+* May 20, 2020: Spain | Reduction in cases and deaths for some autonomous communities due to data validation effort | [Source](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_116_COVID-19.pdf)
 * June 5: Michigan, US | Release of probable cases and deaths | See [Issue #2704](https://github.com/CSSEGISandData/COVID-19/issues/2704) | **Back Distributed**
 * June 8: Chile | Spike of 653 deaths | Historical deaths | [Source](https://www.emol.com/noticias/Nacional/2020/06/07/988430/minsal-muertos-covid19.html)
 * June 11: Michigan, US | Michigan started to report probable cases and probable deaths on June 5. ([Source](https://www.michigan.gov/coronavirus/0,9753,7-406-98158-531156--,00.html)) We combined the probable cases into the confirmed cases, and the probable deaths into the deaths. As a consequence, a spike with 5.5k+ cases is shown in our daily cases bar chart.
@@ -406,7 +407,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 United States
 * Alabama: Providing data Monday, Wednesday, and Friday
 * Alaska: Providing data Monday, Wednesday, and Friday, excluding holidays.
-* Arkansas: Providing data Monday-Friday.
+* Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
 * California: Providing data Monday-Friday.
 * Colorado: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
