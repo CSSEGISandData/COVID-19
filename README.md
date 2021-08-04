@@ -212,6 +212,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
   - El Salvador:
     - Government of El Salvador: https://covid19.gob.sv/
+  - Finland:
+    - THL/National Infectious Disease Register: https://experience.arcgis.com/experience/92e9bb33fac744c9a084381fc35aa3c7
   - France:
     - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/
     - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
