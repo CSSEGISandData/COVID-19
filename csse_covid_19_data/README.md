@@ -237,6 +237,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * July 25, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * July 27, 2021 | New York, US | Back correction of Rockland, NY deaths to match the New York State COVID-19 Fatalities by County dataset | [Data Source](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Fatalities-by-Co/xymy-pny5)
 * August 02, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* August 09, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
