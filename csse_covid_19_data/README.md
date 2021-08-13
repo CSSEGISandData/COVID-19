@@ -428,9 +428,9 @@ United States
 * Massachuetts: Providing data Monday-Friday.
 * Minnesota: Providing data Monday-Friday.
 * Mississippi: Providing data Monday-Friday.
-* Michigan: Providing data Tuesdays and Fridays (as of 07/07/2021). No case data provided for August 21.
+* Michigan: Providing data Mondays, Wednesdays, and Fridays (as of 08/09/2021). ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
 * Montana: Providing data Monday-Friday.
-* Nebraska: **Retired dashboard. We are looking for a solution**
+* Nebraska: Retired dashboard. Daily CDC updates being used.
 * Nevada: Providing data Monday-Friday.
 * New Hampshire: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
