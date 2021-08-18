@@ -40,7 +40,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Alaska: [Department of Health and Social Services](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/)
   - Arizona: [Department of Health Services](https://www.azdhs.gov/covid19/data/index.php)
   - Arkansas: [Department of Health](https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9)
-  - California: [Department of Publich Health](https://www.cdph.ca.gov/covid19)
+  - California: [Department of Public Health](https://www.cdph.ca.gov/covid19)
     - [Mariposa County](https://www.mariposacounty.org/1592/COVID-19-Information)
     - [Alameda County](https://covid-19.acgov.org/)
     - [Fresno County](https://www.co.fresno.ca.us/departments/public-health/covid-19)
