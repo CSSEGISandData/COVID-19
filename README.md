@@ -277,7 +277,6 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Pakistan:
     - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - Peru:
-    - National Police of Peru (PNP) - Directorate of Intelligence (DIRIN): https://www.arcgis.com/apps/opsdashboard/index.html#/f90a7a87af2548699d6e7bb72f5547c2
     - Ministry of Health Dashboard: https://covid19.minsa.gob.pe/sala_situacional.asp
     - Ministry of Health Press Releases: https://www.gob.pe/busquedas?categoria[]=6-salud&contenido[]=noticias&institucion[]=minsa&sheet=1&sort_by=recent&tipo_noticia[]=3-comunicado
   - Philippines:

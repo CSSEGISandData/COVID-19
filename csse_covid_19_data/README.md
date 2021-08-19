@@ -28,8 +28,8 @@ MM-DD-YYYY.csv in UTC.
 * <b>Lat</b> and <b>Long_</b>: Dot locations on the dashboard. All points (except for Australia) shown on the map are based on geographic centroids, and are not representative of a specific address, building or any location at a spatial scale finer than a province/state. Australian dots are located at the centroid of the largest city in each state.
 * <b>Confirmed</b>: Counts include confirmed and probable (where reported).
 * <b>Deaths</b>: Counts include confirmed and probable (where reported).
-* <b>Recovered</b>: Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/).
-* <b>Active:</b> Active cases = total cases - total recovered - total deaths.
+* <b>Recovered</b>: Recovered cases are estimates based on local media reports, and state and local reporting when available, and therefore may be substantially lower than the true number. US state-level recovered cases are from [COVID Tracking Project](https://covidtracking.com/). We stopped to maintain the recovered cases (see [Issue #3464](https://github.com/CSSEGISandData/COVID-19/issues/3464) and [Issue #4465](https://github.com/CSSEGISandData/COVID-19/issues/4465)).
+* <b>Active:</b> Active cases = total cases - total recovered - total deaths. This value is for reference only after we stopped to report the recovered cases (see [Issue #4465](https://github.com/CSSEGISandData/COVID-19/issues/4465))
 * <b>Incident_Rate</b>: Incidence Rate = cases per 100,000 persons.
 * <b>Case_Fatality_Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
 * All cases, deaths, and recoveries reported are based on the date of initial report. Exceptions to this are noted in the "Data Modification" and "Retrospective reporting of (probable) cases and deaths" subsections below.  
@@ -238,6 +238,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * July 27, 2021 | New York, US | Back correction of Rockland, NY deaths to match the New York State COVID-19 Fatalities by County dataset | [Data Source](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Fatalities-by-Co/xymy-pny5)
 * August 02, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * August 09, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* August 16, 2021 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately twice per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 
 ## Retrospective reporting of (probable) cases and deaths
@@ -407,8 +408,8 @@ Date: Location | File | Change | Data source for change
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Alabama: Providing data Monday, Wednesday, and Friday
-* Alaska: Providing data Monday, Wednesday, and Friday, excluding holidays.
+* Alabama: Providing data Monday-Friday. ~~Providing data Monday, Wednesday, and Friday
+* Alaska: Providing data Monday-Friday (as of 8/2/2021). ~~Providing data Monday, Wednesday, and Friday, excluding holidays.
 * Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
 * California: Providing data Monday-Friday.
 * Colorado: Providing data Monday-Friday.
@@ -430,7 +431,7 @@ United States
 * Mississippi: Providing data Monday-Friday.
 * Michigan: Providing data Mondays, Wednesdays, and Fridays (as of 08/09/2021). ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
 * Montana: Providing data Monday-Friday.
-* Nebraska: Retired dashboard. Daily CDC updates being used.
+* Nebraska: Providing data Wednedays only (as of 8/11/2021)
 * Nevada: Providing data Monday-Friday.
 * New Hampshire: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
@@ -440,7 +441,7 @@ United States
 * Oregon: Providing data Monday-Friday (as of July 10, 2021).
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Carlina: Providing data Monday-Friday.
-* South Dakota: Providing data Wednesdays only.
+* South Dakota: Providing data Monday-Friday (as of August 16, 2021). ~~Providing data Wednesdays only.~~
 * Tennessee: Providing data Monday-Friday.
 * Utah: Providing data Monday-Friday.
 * Vermont: Providing data Monday-Friday.
