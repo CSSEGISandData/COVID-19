@@ -3130,7 +3130,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Niedersachsen,Germany,2020-05-22 02:36:51,52.6367,9.8451,11399,570,10100,729,"Niedersachsen, Germany"
 ,,Ningxia,China,2020-05-22 02:36:51,37.2692,106.1655,75,0,75,0,"Ningxia, China"
 ,,Nordrhein-Westfalen,Germany,2020-05-22 02:36:51,51.4332,7.6616,36912,1546,32900,2466,"Nordrhein-Westfalen, Germany"
-69,,Northern Mariana Islands,US,2020-05-22 02:36:51,15.0979,145.6739,22,2,0,20,"Northern Mariana Islands, US"
+69,,Northern Mariana Islands,US,2020-05-22 02:36:51,15.0979,145.6739,21,2,0,20,"Northern Mariana Islands, US"
 ,,Northern Territory,Australia,2020-05-22 02:36:51,-12.4634,130.8456,29,0,29,0,"Northern Territory, Australia"
 ,,Northwest Territories,Canada,2020-05-22 02:36:51,64.8255,-124.8457,5,0,5,0,"Northwest Territories, Canada"
 ,,Nova Scotia,Canada,2020-05-22 02:36:51,44.681999999999995,-63.7443,1046,58,959,29,"Nova Scotia, Canada"
@@ -3189,7 +3189,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sint Maarten,Netherlands,2020-05-22 02:36:51,18.0425,-63.0548,77,15,54,8,"Sint Maarten, Netherlands"
 ,,Sonora,Mexico,2020-05-22 02:36:51,29.2972,-110.3309,1124,53,774,297,"Sonora, Mexico"
 ,,South Australia,Australia,2020-05-22 02:36:51,-34.9285,138.6007,439,4,435,0,"South Australia, Australia"
-,,St Martin,France,2020-05-22 02:36:51,18.0708,-63.0501,40,3,33,4,"St Martin, France"
+,,St Martin,France,2020-05-22 02:36:51,18.0708,-63.0501,39,3,33,4,"St Martin, France"
 ,,Tabasco,Mexico,2020-05-22 02:36:51,17.8409,-92.6189,2824,361,1796,667,"Tabasco, Mexico"
 ,,Tamaulipas,Mexico,2020-05-22 02:36:51,24.2669,-98.8363,1105,76,791,238,"Tamaulipas, Mexico"
 ,,Tarapaca,Chile,2020-05-22 02:36:51,-19.9232,-69.5132,1246,4,0,1242,"Tarapaca, Chile"
@@ -3311,7 +3311,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Latvia,2020-05-22 02:36:51,56.8796,24.6032,1025,22,694,309,Latvia
 ,,,Lebanon,2020-05-22 02:36:51,33.8547,35.8623,1024,26,663,335,Lebanon
 ,,,Lesotho,2020-05-22 02:36:51,-29.609988,28.233608,1,0,0,1,Lesotho
-,,,Liberia,2020-05-22 02:36:51,6.4280550000000005,-9.429499,240,23,131,86,Liberia
+,,,Liberia,2020-05-22 02:36:51,6.4280550000000005,-9.429499,238,23,131,86,Liberia
 ,,,Libya,2020-05-22 02:36:51,26.3351,17.228331,71,3,35,33,Libya
 ,,,Liechtenstein,2020-05-22 02:36:51,47.14,9.55,82,1,55,26,Liechtenstein
 ,,,Lithuania,2020-05-22 02:36:51,55.1694,23.8813,1592,46,1189,483,Lithuania
@@ -3357,7 +3357,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-05-22 02:36:51,13.9094,-60.9789,18,0,18,0,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-05-22 02:36:51,12.9843,-61.2872,18,0,14,4,Saint Vincent and the Grenadines
 ,,,Samoa,2020-05-22 02:36:51,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-05-22 02:36:51,43.9424,12.4578,658,41,235,382,San Marino
+,,,San Marino,2020-05-22 02:36:51,43.9424,12.4578,670,41,235,382,San Marino
 ,,,Sao Tome and Principe,2020-05-22 02:36:51,0.18636,6.613081,251,8,4,239,Sao Tome and Principe
 ,,,Saudi Arabia,2020-05-22 02:36:51,23.885942,45.079162,65077,351,36040,28686,Saudi Arabia
 ,,,Senegal,2020-05-22 02:36:51,14.4974,-14.4524,2812,33,1251,1528,Senegal
@@ -3374,10 +3374,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-05-22 02:36:51,12.8628,30.2176,3138,121,309,2708,Sudan
 ,,,Suriname,2020-05-22 02:36:51,3.9193,-56.0278,11,1,9,1,Suriname
 ,,,Sweden,2020-05-22 02:36:51,60.128161,18.643501,32172,3871,4971,23330,Sweden
-,,,Switzerland,2020-05-22 02:36:51,46.8182,8.2275,30694,1898,27900,896,Switzerland
+,,,Switzerland,2020-05-22 02:36:51,46.8182,8.2275,30694,1786,27900,896,Switzerland
 ,,,Syria,2020-05-22 02:36:51,34.802075,38.99681500000001,58,3,36,19,Syria
 ,,,Taiwan*,2020-05-22 02:36:51,23.7,121.0,440,7,398,35,Taiwan*
-,,,Tajikistan,2020-05-22 02:36:51,38.861034,71.276093,2350,44,470,1836,Tajikistan
+,,,Tajikistan,2020-05-22 02:36:51,38.861034,71.276093,2140,44,470,1836,Tajikistan
 ,,,Tanzania,2020-05-22 02:36:51,-6.369028,34.888822,509,21,183,305,Tanzania
 ,,,Thailand,2020-05-22 02:36:51,15.870032,100.992541,3037,56,2897,84,Thailand
 ,,,Timor-Leste,2020-05-22 02:36:51,-8.874217,125.727539,24,0,24,0,Timor-Leste

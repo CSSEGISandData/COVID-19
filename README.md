@@ -111,7 +111,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - North Carolina
     - [City of Greenville GIS](https://www.arcgis.com/apps/opsdashboard/index.html#/7aeac695cafa4065ba1505b1cfa72747)
   - North Dakota: [Department of Health](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
-  - Northern Mariana Islands: [CNMI Department of Public Health](https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5)
+  - Northern Mariana Islands: [Northern Mariana Islands Commonwealth Dept of Public Health](https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a)
   - Ohio: [Department of Health](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home)
   - Oklahoma: [Department of Health](https://looker-dashboards.ok.gov/embed/dashboards/44)
   - Oregon: [Health Authority](https://govstatus.egov.com/OR-OHA-COVID-19)
@@ -151,7 +151,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Tarrant County](https://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html)
     - [Travis County](https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information)
     - [Williamson County](http://www.wcchd.org/COVID-19/dashboard.php)
-  - Utah: [Department of Health](https://coronavirus-dashboard.utah.gov/#overview)
+  - Utah: [Department of Health](https://coronavirus.utah.gov/case-counts/#overview)
   - Vermont: [Department of Health](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont)
   - Virgin Islands: [Department of Health](https://www.covid19usvi.com/) and [COVID-19 Report](https://www.covid19usvi.com/covid19-report)
   - Virginia: [Department of Health](https://www.vdh.virginia.gov/coronavirus/)
@@ -299,6 +299,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
   - South Africa:
     - South Africa Department of Health: https://sacoronavirus.co.za/
+  - South Korea:
+    - Ministry of Health and Welfare: http://ncov.mohw.go.kr/
   - Spain:
     - RTVE: https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
   - Sweden:
@@ -312,7 +314,9 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
     - Ministry of Public Health, Department of Disease Control Situational Reports: https://covid19.ddc.moph.go.th/en
   - Turkey: 
-    - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+    - Republic of Turkey Ministry of Health (English): https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+    - Republic of Turkey Ministry of Health (Turkey): https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
+    - Digital Transformation Office of The Presidency of The Republic of Turkey: https://corona.cbddo.gov.tr/Home/GetLastDayDifference
   - Ukraine: 
     - Office of the National Security and Defense Council of Ukraine: https://covid19.rnbo.gov.ua/
   - United Arab Emirates:

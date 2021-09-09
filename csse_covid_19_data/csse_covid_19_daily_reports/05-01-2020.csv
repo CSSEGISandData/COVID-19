@@ -3101,7 +3101,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Laos,2020-05-02 02:32:27,19.856270000000002,102.495496,19,0,8,11,Laos
 ,,,Latvia,2020-05-02 02:32:27,56.8796,24.6032,870,16,348,506,Latvia
 ,,,Lebanon,2020-05-02 02:32:27,33.8547,35.8623,729,24,192,513,Lebanon
-,,,Liberia,2020-05-02 02:32:27,6.4280550000000005,-9.429499,152,18,45,89,Liberia
+,,,Liberia,2020-05-02 02:32:27,6.4280550000000005,-9.429499,141,16,45,89,Liberia
 ,,,Libya,2020-05-02 02:32:27,26.3351,17.228331,63,3,18,42,Libya
 ,,,Liechtenstein,2020-05-02 02:32:27,47.14,9.55,82,1,55,26,Liechtenstein
 ,,,Lithuania,2020-05-02 02:32:27,55.1694,23.8813,1389,32,615,760,Lithuania
@@ -3148,7 +3148,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-05-02 02:32:27,13.9094,-60.9789,17,0,15,2,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-05-02 02:32:27,12.9843,-61.2872,16,0,8,8,Saint Vincent and the Grenadines
 ,,,Samoa,2020-05-02 02:32:27,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-05-02 02:32:27,43.9424,12.4578,580,41,82,457,San Marino
+,,,San Marino,2020-05-02 02:32:27,43.9424,12.4578,569,41,82,457,San Marino
 ,,,Sao Tome and Principe,2020-05-02 02:32:27,0.18636,6.613081,16,1,4,11,Sao Tome and Principe
 ,,,Saudi Arabia,2020-05-02 02:32:27,23.885942,45.079162,24097,169,3555,20373,Saudi Arabia
 ,,,Senegal,2020-05-02 02:32:27,14.4974,-14.4524,1024,9,356,659,Senegal
@@ -3166,7 +3166,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-05-02 02:32:27,12.8628,30.2176,442,36,46,451,Sudan
 ,,,Suriname,2020-05-02 02:32:27,3.9193,-56.0278,10,1,8,1,Suriname
 ,,,Sweden,2020-05-02 02:32:27,60.128161,18.643501,21520,2653,1005,17862,Sweden
-,,,Switzerland,2020-05-02 02:32:27,46.8182,8.2275,29705,1754,23900,4051,Switzerland
+,,,Switzerland,2020-05-02 02:32:27,46.8182,8.2275,29705,1679,23900,4051,Switzerland
 ,,,Syria,2020-05-02 02:32:27,34.802075,38.99681500000001,44,3,27,14,Syria
 ,,,Taiwan*,2020-05-02 02:32:27,23.7,121.0,429,6,324,99,Taiwan*
 ,,,Tajikistan,2020-05-02 02:32:27,38.861034000000004,71.276093,15,0,0,15,Tajikistan

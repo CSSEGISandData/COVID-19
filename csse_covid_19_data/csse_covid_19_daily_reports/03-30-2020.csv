@@ -3230,7 +3230,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,New South Wales,Australia,3/30/20 22:58,-33.8688,151.2093,2032,8,4,2020,"New South Wales, Australia"
 ,,Newfoundland and Labrador,Canada,3/30/20 22:58,53.1355,-57.6604,148,1,0,0,"Newfoundland and Labrador, Canada"
 ,,Ningxia,China,3/16/20 8:47,37.2692,106.1655,75,0,75,0,"Ningxia, China"
-69000,,Northern Mariana Islands,US,3/30/20 22:52,15.0979,145.6739,0,0,0,0,"Northern Mariana Islands, US"
+69000,,Northern Mariana Islands,US,3/30/20 22:52,15.0979,145.6739,2,0,0,0,"Northern Mariana Islands, US"
 ,,Northern Territory,Australia,3/30/20 22:58,-12.4634,130.8456,15,0,0,15,"Northern Territory, Australia"
 ,,Northwest Territories,Canada,3/30/20 22:58,64.8255,-124.8457,1,0,0,0,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,3/30/20 22:58,44.682,-63.7443,127,0,0,0,"Nova Scotia, Canada"
@@ -3244,7 +3244,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Recovered,Canada,3/30/20 22:58,0.0,0.0,0,0,466,0,"Recovered, Canada"
 ,,Recovered,US,3/30/20 22:52,0.0,0.0,0,0,5644,0,"Recovered, US"
 ,,Reunion,France,3/30/20 22:52,-21.1151,55.5364,224,0,1,223,"Reunion, France"
-,,Saint Barthelemy,France,3/30/20 22:52,17.9,-62.8333,6,0,1,5,"Saint Barthelemy, France"
+,,Saint Barthelemy,France,3/30/20 22:52,17.9,-62.8333,5,0,1,5,"Saint Barthelemy, France"
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,3/30/20 22:52,-7.9467,-14.3559,0,0,0,0,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom"
 ,,Saskatchewan,Canada,3/30/20 22:58,52.9399,-106.4509,156,2,0,0,"Saskatchewan, Canada"
 ,,Shaanxi,China,3/26/20 2:14,35.1917,108.8701,253,3,242,8,"Shaanxi, China"
@@ -3254,7 +3254,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sichuan,China,3/30/20 1:09,30.6171,102.7103,550,3,536,11,"Sichuan, China"
 ,,Sint Maarten,Netherlands,3/30/20 22:52,18.0425,-63.0548,6,0,0,6,"Sint Maarten, Netherlands"
 ,,South Australia,Australia,3/30/20 22:58,-34.9285,138.6007,305,0,6,299,"South Australia, Australia"
-,,St Martin,France,3/30/20 22:52,18.0708,-63.0501,15,1,2,12,"St Martin, France"
+,,St Martin,France,3/30/20 22:52,18.0708,-63.0501,12,0,2,12,"St Martin, France"
 ,,Tasmania,Australia,3/30/20 22:58,-42.8821,147.3272,66,0,5,61,"Tasmania, Australia"
 ,,Tianjin,China,3/30/20 8:42,39.3054,117.323,174,3,133,38,"Tianjin, China"
 ,,Tibet,China,2/23/20 11:19,31.6927,88.0924,1,0,1,0,"Tibet, China"
@@ -3420,7 +3420,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,3/30/20 22:52,12.8628,30.2176,6,2,0,4,Sudan
 ,,,Suriname,3/30/20 22:52,3.9193,-56.0278,8,0,0,8,Suriname
 ,,,Sweden,3/30/20 22:52,60.128161,18.643501,4028,146,16,3866,Sweden
-,,,Switzerland,3/30/20 22:52,46.8182,8.2275,15922,359,1823,13740,Switzerland
+,,,Switzerland,3/30/20 22:52,46.8182,8.2275,15922,434,1823,13740,Switzerland
 ,,,Syria,3/30/20 22:52,34.802075,38.996815,10,2,0,8,Syria
 ,,,Taiwan*,3/30/20 7:11,23.7,121.0,306,5,39,262,Taiwan*
 ,,,Tanzania,3/30/20 22:52,-6.369028,34.888822,19,0,1,18,Tanzania

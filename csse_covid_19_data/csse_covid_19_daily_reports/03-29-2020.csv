@@ -3250,7 +3250,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sichuan,China,3/29/20 1:49,30.6171,102.7103,550,3,536,11,"Sichuan, China"
 ,,Sint Maarten,Netherlands,3/29/20 23:08,18.0425,-63.0548,6,0,0,6,"Sint Maarten, Netherlands"
 ,,South Australia,Australia,3/29/20 23:14,-34.9285,138.6007,299,0,6,293,"South Australia, Australia"
-,,St Martin,France,3/29/20 23:08,18.0708,-63.0501,11,0,0,11,"St Martin, France"
+,,St Martin,France,3/29/20 23:08,18.0708,-63.0501,12,0,0,11,"St Martin, France"
 ,,Tasmania,Australia,3/29/20 23:14,-42.8821,147.3272,66,0,5,61,"Tasmania, Australia"
 ,,Tianjin,China,3/29/20 6:13,39.3054,117.323,166,3,133,30,"Tianjin, China"
 ,,Tibet,China,2/23/20 11:19,31.6927,88.0924,1,0,1,0,"Tibet, China"
@@ -3400,7 +3400,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,3/29/20 23:08,13.9094,-60.9789,9,0,1,8,Saint Lucia
 ,,,Saint Vincent and the Grenadines,3/29/20 23:08,12.9843,-61.2872,1,0,1,0,Saint Vincent and the Grenadines
 ,,,Samoa,3/29/20 23:13,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,3/29/20 23:08,43.9424,12.4578,224,22,6,196,San Marino
+,,,San Marino,3/29/20 23:08,43.9424,12.4578,228,22,6,196,San Marino
 ,,,Saudi Arabia,3/29/20 23:08,23.885942,45.079162,1299,8,66,1225,Saudi Arabia
 ,,,Senegal,3/29/20 23:08,14.4974,-14.4524,142,0,27,115,Senegal
 ,,,Serbia,3/29/20 23:08,44.0165,21.0059,741,13,0,728,Serbia
@@ -3415,7 +3415,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,3/29/20 23:08,12.8628,30.2176,5,1,0,5,Sudan
 ,,,Suriname,3/29/20 23:08,3.9193,-56.0278,8,0,0,8,Suriname
 ,,,Sweden,3/29/20 23:08,60.128161,18.643501,3700,110,16,3574,Sweden
-,,,Switzerland,3/29/20 23:08,46.8182,8.2275,14829,300,1595,12934,Switzerland
+,,,Switzerland,3/29/20 23:08,46.8182,8.2275,14829,376,1595,12934,Switzerland
 ,,,Syria,3/29/20 23:08,34.802075,38.996815,9,1,0,8,Syria
 ,,,Taiwan*,3/29/20 8:04,23.7,121.0,298,2,30,266,Taiwan*
 ,,,Tanzania,3/29/20 23:08,-6.369028,34.888822,14,0,1,13,Tanzania

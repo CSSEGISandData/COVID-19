@@ -3187,7 +3187,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sint Maarten,Netherlands,2020-05-21 02:32:48,18.0425,-63.0548,77,15,54,8,"Sint Maarten, Netherlands"
 ,,Sonora,Mexico,2020-05-21 02:32:48,29.2972,-110.3309,1020,49,712,259,"Sonora, Mexico"
 ,,South Australia,Australia,2020-05-21 02:32:48,-34.9285,138.6007,439,4,435,0,"South Australia, Australia"
-,,St Martin,France,2020-05-21 02:32:48,18.0708,-63.0501,40,3,33,4,"St Martin, France"
+,,St Martin,France,2020-05-21 02:32:48,18.0708,-63.0501,39,3,33,4,"St Martin, France"
 ,,Tabasco,Mexico,2020-05-21 02:32:48,17.8409,-92.6189,2716,346,1695,675,"Tabasco, Mexico"
 ,,Tamaulipas,Mexico,2020-05-21 02:32:48,24.2669,-98.8363,1077,74,765,238,"Tamaulipas, Mexico"
 ,,Tarapaca,Chile,2020-05-21 02:32:48,-19.9232,-69.5132,1139,4,0,1135,"Tarapaca, Chile"
@@ -3309,7 +3309,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Latvia,2020-05-21 02:32:48,56.8796,24.6032,1016,21,694,301,Latvia
 ,,,Lebanon,2020-05-21 02:32:48,33.8547,35.8623,961,26,251,684,Lebanon
 ,,,Lesotho,2020-05-21 02:32:48,-29.609988,28.233608,1,0,0,1,Lesotho
-,,,Liberia,2020-05-21 02:32:48,6.4280550000000005,-9.429499,238,23,128,87,Liberia
+,,,Liberia,2020-05-21 02:32:48,6.4280550000000005,-9.429499,233,23,128,87,Liberia
 ,,,Libya,2020-05-21 02:32:48,26.3351,17.228331,69,3,35,31,Libya
 ,,,Liechtenstein,2020-05-21 02:32:48,47.14,9.55,82,1,55,26,Liechtenstein
 ,,,Lithuania,2020-05-21 02:32:48,55.1694,23.8813,1580,46,1181,468,Lithuania
@@ -3355,7 +3355,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-05-21 02:32:48,13.9094,-60.9789,18,0,18,0,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-05-21 02:32:48,12.9843,-61.2872,18,0,14,4,Saint Vincent and the Grenadines
 ,,,Samoa,2020-05-21 02:32:48,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-05-21 02:32:48,43.9424,12.4578,656,41,220,395,San Marino
+,,,San Marino,2020-05-21 02:32:48,43.9424,12.4578,668,41,220,395,San Marino
 ,,,Sao Tome and Principe,2020-05-21 02:32:48,0.18636,6.613081,251,8,4,239,Sao Tome and Principe
 ,,,Saudi Arabia,2020-05-21 02:32:48,23.885942,45.079162,62545,339,33478,28728,Saudi Arabia
 ,,,Senegal,2020-05-21 02:32:48,14.4974,-14.4524,2714,30,1186,1498,Senegal
@@ -3372,10 +3372,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-05-21 02:32:48,12.8628,30.2176,2728,111,286,2331,Sudan
 ,,,Suriname,2020-05-21 02:32:48,3.9193,-56.0278,11,1,9,1,Suriname
 ,,,Sweden,2020-05-21 02:32:48,60.128161,18.643501,31523,3831,4971,22721,Sweden
-,,,Switzerland,2020-05-21 02:32:48,46.8182,8.2275,30658,1892,27800,966,Switzerland
+,,,Switzerland,2020-05-21 02:32:48,46.8182,8.2275,30658,1781,27800,966,Switzerland
 ,,,Syria,2020-05-21 02:32:48,34.802075,38.99681500000001,58,3,36,19,Syria
 ,,,Taiwan*,2020-05-21 02:32:48,23.7,121.0,440,7,398,35,Taiwan*
-,,,Tajikistan,2020-05-21 02:32:48,38.861034,71.276093,2140,41,470,1629,Tajikistan
+,,,Tajikistan,2020-05-21 02:32:48,38.861034,71.276093,1936,44,470,1629,Tajikistan
 ,,,Tanzania,2020-05-21 02:32:48,-6.369028,34.888822,509,21,183,305,Tanzania
 ,,,Thailand,2020-05-21 02:32:48,15.870032,100.992541,3034,56,2888,90,Thailand
 ,,,Timor-Leste,2020-05-21 02:32:48,-8.874217,125.727539,24,0,24,0,Timor-Leste

@@ -3246,7 +3246,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sichuan,China,3/27/20 2:27,30.6171,102.7103,548,3,536,9,"Sichuan, China"
 ,,Sint Maarten,Netherlands,3/28/20 23:05,18.0425,-63.0548,3,0,0,3,"Sint Maarten, Netherlands"
 ,,South Australia,Australia,3/28/20 23:11,-34.9285,138.6007,287,0,6,281,"South Australia, Australia"
-,,St Martin,France,3/28/20 23:05,18.0708,-63.0501,11,0,0,11,"St Martin, France"
+,,St Martin,France,3/28/20 23:05,18.0708,-63.0501,12,0,0,11,"St Martin, France"
 ,,Tasmania,Australia,3/28/20 23:11,-42.8821,147.3272,62,0,5,57,"Tasmania, Australia"
 ,,Tianjin,China,3/28/20 8:36,39.3054,117.323,161,3,133,25,"Tianjin, China"
 ,,Tibet,China,2/23/20 11:19,31.6927,88.0924,1,0,1,0,"Tibet, China"
@@ -3396,11 +3396,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,3/28/20 23:05,13.9094,-60.9789,3,0,1,2,Saint Lucia
 ,,,Saint Vincent and the Grenadines,3/28/20 23:05,12.9843,-61.2872,1,0,1,0,Saint Vincent and the Grenadines
 ,,,Samoa,3/28/20 23:10,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,3/28/20 23:05,43.9424,12.4578,224,22,6,196,San Marino
+,,,San Marino,3/28/20 23:05,43.9424,12.4578,228,22,6,196,San Marino
 ,,,Saudi Arabia,3/28/20 23:05,23.885942,45.079162,1203,4,37,1162,Saudi Arabia
 ,,,Senegal,3/28/20 23:05,14.4974,-14.4524,130,0,18,112,Senegal
 ,,,Serbia,3/28/20 23:05,44.0165,21.0059,659,10,0,649,Serbia
-,,,Seychelles,3/28/20 23:05,-4.6796,55.492,8,0,0,8,Seychelles
+,,,Seychelles,3/28/20 23:05,-4.6796,55.492,7,0,0,8,Seychelles
 ,,,Singapore,3/28/20 23:05,1.2833,103.8333,802,2,198,602,Singapore
 ,,,Slovakia,3/28/20 23:05,48.669,19.699,292,0,2,290,Slovakia
 ,,,Slovenia,3/28/20 23:05,46.1512,14.9955,684,9,10,665,Slovenia
@@ -3411,7 +3411,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,3/28/20 23:05,12.8628,30.2176,5,1,0,4,Sudan
 ,,,Suriname,3/28/20 23:05,3.9193,-56.0278,8,0,0,8,Suriname
 ,,,Sweden,3/28/20 23:05,60.128161,18.643501,3447,105,16,3326,Sweden
-,,,Switzerland,3/28/20 23:05,46.8182,8.2275,14076,264,1530,12282,Switzerland
+,,,Switzerland,3/28/20 23:05,46.8182,8.2275,14076,329,1530,12282,Switzerland
 ,,,Syria,3/28/20 23:05,34.802075,38.996815,5,0,0,5,Syria
 ,,,Taiwan*,3/28/20 6:58,23.7,121.0,283,2,30,251,Taiwan*
 ,,,Tanzania,3/28/20 23:05,-6.369028,34.888822,14,0,1,13,Tanzania

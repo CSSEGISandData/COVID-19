@@ -2986,7 +2986,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Laos,2020-04-19 23:40:41,19.85627,102.495496,19,0,2,17,Laos
 ,,,Latvia,2020-04-19 23:40:41,56.8796,24.6032,727,5,88,634,Latvia
 ,,,Lebanon,2020-04-19 23:40:41,33.8547,35.8623,673,21,102,550,Lebanon
-,,,Liberia,2020-04-19 23:40:41,6.428055,-9.429499,91,8,7,76,Liberia
+,,,Liberia,2020-04-19 23:40:41,6.428055,-9.429499,81,7,7,76,Liberia
 ,,,Libya,2020-04-19 23:40:41,26.3351,17.228331,51,1,11,39,Libya
 ,,,Liechtenstein,2020-04-19 23:40:41,47.14,9.55,81,1,55,25,Liechtenstein
 ,,,Lithuania,2020-04-19 23:40:41,55.1694,23.8813,1153,23,98,1021,Lithuania
@@ -3033,7 +3033,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-04-19 23:40:41,13.9094,-60.9789,15,0,11,4,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-04-19 23:40:41,12.9843,-61.2872,12,0,1,11,Saint Vincent and the Grenadines
 ,,,Samoa,2020-04-19 23:48:49,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-04-19 23:40:41,43.9424,12.4578,461,39,60,362,San Marino
+,,,San Marino,2020-04-19 23:40:41,43.9424,12.4578,455,39,60,362,San Marino
 ,,,Sao Tome and Principe,2020-04-19 23:40:41,0.18636,6.613081,4,0,0,4,Sao Tome and Principe
 ,,,Saudi Arabia,2020-04-19 23:40:41,23.885942,45.079162,9362,97,1398,7867,Saudi Arabia
 ,,,Senegal,2020-04-19 23:40:41,14.4974,-14.4524,367,3,220,144,Senegal
@@ -3051,7 +3051,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-04-19 23:40:41,12.8628,30.2176,66,10,6,50,Sudan
 ,,,Suriname,2020-04-19 23:40:41,3.9193,-56.0278,10,1,6,3,Suriname
 ,,,Sweden,2020-04-19 23:40:41,60.128161,18.643501,14385,1540,550,12295,Sweden
-,,,Switzerland,2020-04-19 23:40:41,46.8182,8.2275,27740,1393,17800,8547,Switzerland
+,,,Switzerland,2020-04-19 23:40:41,46.8182,8.2275,27740,1391,17800,8547,Switzerland
 ,,,Syria,2020-04-19 23:40:41,34.802075,38.996815,39,3,5,31,Syria
 ,,,Taiwan*,2020-04-19 09:13:57,23.7,121.0,420,6,189,225,Taiwan*
 ,,,Tanzania,2020-04-19 23:40:41,-6.369028,34.888822,170,7,11,152,Tanzania

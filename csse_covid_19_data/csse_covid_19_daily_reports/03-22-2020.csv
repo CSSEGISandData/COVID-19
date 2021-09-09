@@ -3239,7 +3239,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,3/22/20 23:45,32.427908,53.688046,21638,1685,7635,12318,Iran
 ,,,France,3/22/20 23:45,46.2276,2.2137,16533,674,2200,13144,France
 ,,,"Korea, South",3/22/20 23:45,35.907757,127.766922,8897,104,2909,5884,"Korea, South"
-,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,98,131,7245,Switzerland
+,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,113,131,7245,Switzerland
 ,,,United Kingdom,3/22/20 23:45,55.3781,-3.436,5683,281,93,5309,United Kingdom
 ,,,Netherlands,3/22/20 23:45,52.1326,5.2913,4204,179,2,4023,Netherlands
 ,,,Austria,3/22/20 23:45,47.5162,14.5501,3580,16,9,3555,Austria
@@ -3367,7 +3367,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Equatorial Guinea,3/22/20 23:45,1.6508,10.2679,6,0,0,6,Equatorial Guinea
 ,,,Gabon,3/22/20 23:45,-0.8037,11.6094,5,1,0,4,Gabon
 ,,Isle of Man,United Kingdom,3/22/20 23:45,54.2361,-4.5481,5,0,0,5,"Isle of Man, United Kingdom"
-,,St Martin,France,3/22/20 23:45,18.0708,-63.0501,5,0,0,5,"St Martin, France"
+,,St Martin,France,3/22/20 23:45,18.0708,-63.0501,8,0,0,5,"St Martin, France"
 ,,,Suriname,3/22/20 23:45,3.9193,-56.0278,5,0,0,5,Suriname
 ,,,Bahamas,3/22/20 23:45,25.025885,-78.035889,4,0,0,4,Bahamas
 ,,Greenland,Denmark,3/22/20 23:45,71.7069,-42.6043,4,0,0,4,"Greenland, Denmark"

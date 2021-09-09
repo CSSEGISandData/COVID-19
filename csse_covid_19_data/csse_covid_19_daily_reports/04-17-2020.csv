@@ -2959,7 +2959,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Laos,2020-04-17 23:30:32,19.856270000000002,102.495496,19,0,2,17,Laos
 ,,,Latvia,2020-04-17 23:30:32,56.8796,24.6032,682,5,88,589,Latvia
 ,,,Lebanon,2020-04-17 23:30:32,33.8547,35.8623,668,21,86,561,Lebanon
-,,,Liberia,2020-04-17 23:30:32,6.4280550000000005,-9.429499,76,7,7,62,Liberia
+,,,Liberia,2020-04-17 23:30:32,6.4280550000000005,-9.429499,73,6,7,62,Liberia
 ,,,Libya,2020-04-17 23:30:32,26.3351,17.228331,49,1,11,37,Libya
 ,,,Liechtenstein,2020-04-17 23:30:32,47.14,9.55,79,1,55,23,Liechtenstein
 ,,,Lithuania,2020-04-17 23:30:32,55.1694,23.8813,1050,21,41,906,Lithuania
@@ -3006,7 +3006,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-04-17 23:30:32,13.9094,-60.9789,15,0,11,4,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-04-17 23:30:32,12.9843,-61.2872,12,0,1,11,Saint Vincent and the Grenadines
 ,,,Samoa,2020-04-17 23:38:31,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-04-17 23:30:32,43.9424,12.4578,435,39,57,339,San Marino
+,,,San Marino,2020-04-17 23:30:32,43.9424,12.4578,426,38,57,339,San Marino
 ,,,Sao Tome and Principe,2020-04-17 23:30:32,0.18636,6.613081,4,0,0,4,Sao Tome and Principe
 ,,,Saudi Arabia,2020-04-17 23:30:32,23.885942,45.079162,7142,87,1049,6006,Saudi Arabia
 ,,,Senegal,2020-04-17 23:30:32,14.4974,-14.4524,342,2,198,142,Senegal
@@ -3024,7 +3024,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-04-17 23:30:32,12.8628,30.2176,32,6,4,23,Sudan
 ,,,Suriname,2020-04-17 23:30:32,3.9193,-56.0278,10,1,6,3,Suriname
 ,,,Sweden,2020-04-17 23:30:32,60.128161,18.643501,13216,1400,550,11266,Sweden
-,,,Switzerland,2020-04-17 23:30:32,46.8182,8.2275,27078,1327,16400,9351,Switzerland
+,,,Switzerland,2020-04-17 23:30:32,46.8182,8.2275,27078,1330,16400,9351,Switzerland
 ,,,Syria,2020-04-17 23:30:32,34.802075,38.99681500000001,38,2,5,31,Syria
 ,,,Taiwan*,2020-04-17 08:03:39,23.7,121.0,395,6,166,223,Taiwan*
 ,,,Tanzania,2020-04-17 23:30:32,-6.369028,34.888822,147,5,11,131,Tanzania

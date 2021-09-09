@@ -3137,7 +3137,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-05-01 02:32:28,13.9094,-60.9789,17,0,15,2,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-05-01 02:32:28,12.9843,-61.2872,16,0,8,8,Saint Vincent and the Grenadines
 ,,,Samoa,2020-05-01 02:32:28,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-05-01 02:32:28,43.9424,12.4578,569,41,78,450,San Marino
+,,,San Marino,2020-05-01 02:32:28,43.9424,12.4578,563,41,78,450,San Marino
 ,,,Sao Tome and Principe,2020-05-01 02:32:28,0.18636,6.613081,14,0,4,10,Sao Tome and Principe
 ,,,Saudi Arabia,2020-05-01 02:32:28,23.885942,45.079162,22753,162,3163,19428,Saudi Arabia
 ,,,Senegal,2020-05-01 02:32:28,14.4974,-14.4524,933,9,334,590,Senegal
@@ -3155,10 +3155,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-05-01 02:32:28,12.8628,30.2176,375,31,39,372,Sudan
 ,,,Suriname,2020-05-01 02:32:28,3.9193,-56.0278,10,1,8,1,Suriname
 ,,,Sweden,2020-05-01 02:32:28,60.128161,18.643501,21092,2586,1005,17501,Sweden
-,,,Switzerland,2020-05-01 02:32:28,46.8182,8.2275,29586,1737,23400,4449,Switzerland
+,,,Switzerland,2020-05-01 02:32:28,46.8182,8.2275,29586,1665,23400,4449,Switzerland
 ,,,Syria,2020-05-01 02:32:28,34.802075,38.99681500000001,43,3,21,19,Syria
 ,,,Taiwan*,2020-05-01 02:32:28,23.7,121.0,429,6,322,101,Taiwan*
-,,,Tajikistan,2020-05-01 02:32:28,38.861034000000004,71.276093,15,0,0,15,Tajikistan
+,,,Tajikistan,2020-05-01 02:32:28,38.861034000000004,71.276093,0,0,0,15,Tajikistan
 ,,,Tanzania,2020-05-01 02:32:28,-6.369028,34.888822,480,16,167,297,Tanzania
 ,,,Thailand,2020-05-01 02:32:28,15.870032,100.992541,2954,54,2687,216,Thailand
 ,,,Timor-Leste,2020-05-01 02:32:28,-8.874217,125.727539,24,0,16,8,Timor-Leste

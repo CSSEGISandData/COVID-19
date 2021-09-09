@@ -2907,7 +2907,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sichuan,China,2020-04-22 00:45:39,30.6171,102.7103,561,3,556,2,"Sichuan, China"
 ,,Sint Maarten,Netherlands,2020-04-22 23:30:32,18.0425,-63.0548,71,11,22,38,"Sint Maarten, Netherlands"
 ,,South Australia,Australia,2020-04-22 23:38:57,-34.9285,138.6007,435,4,331,100,"South Australia, Australia"
-,,St Martin,France,2020-04-22 23:30:32,18.0708,-63.0501,38,2,19,17,"St Martin, France"
+,,St Martin,France,2020-04-22 23:30:32,18.0708,-63.0501,37,2,19,17,"St Martin, France"
 ,,Tasmania,Australia,2020-04-22 23:38:57,-42.8821,147.3272,180,7,67,106,"Tasmania, Australia"
 ,,Tianjin,China,2020-04-21 12:33:57,39.3054,117.323,189,3,176,10,"Tianjin, China"
 ,,Tibet,China,2020-02-23 11:19:02,31.6927,88.0924,1,0,1,0,"Tibet, China"
@@ -3060,7 +3060,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-04-22 23:30:32,13.9094,-60.9789,15,0,15,0,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-04-22 23:30:32,12.9843,-61.2872,13,0,3,10,Saint Vincent and the Grenadines
 ,,,Samoa,2020-04-22 23:38:42,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-04-22 23:30:32,43.9424,12.4578,488,40,62,386,San Marino
+,,,San Marino,2020-04-22 23:30:32,43.9424,12.4578,476,40,62,386,San Marino
 ,,,Sao Tome and Principe,2020-04-22 23:30:32,0.18636,6.613081,4,0,0,4,Sao Tome and Principe
 ,,,Saudi Arabia,2020-04-22 23:30:32,23.885942,45.079162,12772,114,1812,10846,Saudi Arabia
 ,,,Senegal,2020-04-22 23:30:32,14.4974,-14.4524,442,6,253,183,Senegal
@@ -3078,7 +3078,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-04-22 23:30:32,12.8628,30.2176,140,13,12,115,Sudan
 ,,,Suriname,2020-04-22 23:30:32,3.9193,-56.0278,10,1,6,3,Suriname
 ,,,Sweden,2020-04-22 23:30:32,60.128161,18.643501,16004,1937,550,13517,Sweden
-,,,Switzerland,2020-04-22 23:30:32,46.8182,8.2275,28268,1509,19900,6859,Switzerland
+,,,Switzerland,2020-04-22 23:30:32,46.8182,8.2275,28268,1497,19900,6859,Switzerland
 ,,,Syria,2020-04-22 23:30:32,34.802075,38.99681500000001,42,3,6,33,Syria
 ,,,Taiwan*,2020-04-22 11:28:26,23.7,121.0,426,6,236,184,Taiwan*
 ,,,Tanzania,2020-04-22 23:30:32,-6.369028,34.888822,284,10,11,263,Tanzania

@@ -2247,7 +2247,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sichuan,China,2020-03-30 01:09:15,30.6171,102.7103,550,3,536,11,"Sichuan, China"
 ,,Sint Maarten,Netherlands,2020-03-31 23:43:43,18.0425,-63.0548,6,0,0,6,"Sint Maarten, Netherlands"
 ,,South Australia,Australia,2020-03-31 23:49:27,-34.9285,138.6007,337,0,6,331,"South Australia, Australia"
-,,St Martin,France,2020-03-31 23:43:43,18.0708,-63.0501,15,1,2,12,"St Martin, France"
+,,St Martin,France,2020-03-31 23:43:43,18.0708,-63.0501,18,1,2,12,"St Martin, France"
 ,,Tasmania,Australia,2020-03-31 23:49:27,-42.8821,147.3272,69,1,5,63,"Tasmania, Australia"
 ,,Tianjin,China,2020-03-31 13:54:04,39.3054,117.323,174,3,135,36,"Tianjin, China"
 ,,Tibet,China,2020-02-23 11:19:02,31.6927,88.0924,1,0,1,0,"Tibet, China"
@@ -2403,7 +2403,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saudi Arabia,2020-03-31 23:43:43,23.885942,45.079162,1563,10,165,1388,Saudi Arabia
 ,,,Senegal,2020-03-31 23:43:43,14.4974,-14.4524,175,0,40,135,Senegal
 ,,,Serbia,2020-03-31 23:43:43,44.0165,21.0059,900,16,0,884,Serbia
-,,,Seychelles,2020-03-31 23:43:43,-4.6796,55.492,10,0,0,10,Seychelles
+,,,Seychelles,2020-03-31 23:43:43,-4.6796,55.492,8,0,0,10,Seychelles
 ,,,Sierra Leone,2020-03-31 23:43:43,8.460555000000001,-11.779889,1,0,0,1,Sierra Leone
 ,,,Singapore,2020-03-31 23:43:43,1.2833,103.8333,926,3,240,683,Singapore
 ,,,Slovakia,2020-03-31 23:43:43,48.669,19.699,363,0,3,360,Slovakia
@@ -2415,7 +2415,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-03-31 23:43:43,12.8628,30.2176,7,2,1,4,Sudan
 ,,,Suriname,2020-03-31 23:43:43,3.9193,-56.0278,9,0,0,9,Suriname
 ,,,Sweden,2020-03-31 23:43:43,60.128161,18.643501,4435,180,16,4239,Sweden
-,,,Switzerland,2020-03-31 23:43:43,46.8182,8.2275,16605,433,1823,14349,Switzerland
+,,,Switzerland,2020-03-31 23:43:43,46.8182,8.2275,16605,485,1823,14349,Switzerland
 ,,,Syria,2020-03-31 23:43:43,34.802075,38.99681500000001,10,2,0,8,Syria
 ,,,Taiwan*,2020-03-31 07:26:59,23.7,121.0,322,5,39,278,Taiwan*
 ,,,Tanzania,2020-03-31 23:43:43,-6.369028,34.888822,19,1,1,17,Tanzania

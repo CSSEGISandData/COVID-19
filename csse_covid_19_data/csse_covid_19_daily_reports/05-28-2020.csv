@@ -1665,7 +1665,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 21153,Magoffin,Kentucky,US,2020-05-29 02:32:50,37.70820545,-83.0657714,2,0,0,2,"Magoffin, Kentucky, US"
 19123,Mahaska,Iowa,US,2020-05-29 02:32:50,41.33521503,-92.64083907,91,8,0,83,"Mahaska, Iowa, US"
 27087,Mahnomen,Minnesota,US,2020-05-29 02:32:50,47.32557075,-95.80921485,5,1,0,4,"Mahnomen, Minnesota, US"
-39099,Mahoning,Ohio,US,2020-05-29 02:32:50,41.01631101,-80.77287029,1397,177,0,1224,"Mahoning, Ohio, US"
+39099,Mahoning,Ohio,US,2020-05-29 02:32:50,41.01631101,-80.77287029,1397,178,0,1224,"Mahoning, Ohio, US"
 40093,Major,Oklahoma,US,2020-05-29 02:32:50,36.31149996,-98.53467076,6,1,0,5,"Major, Oklahoma, US"
 41045,Malheur,Oregon,US,2020-05-29 02:32:50,43.1937027,-117.6227395,33,0,0,33,"Malheur, Oregon, US"
 51683,Manassas,Virginia,US,2020-05-29 02:32:50,38.7464321,-77.48509905,971,10,0,961,"Manassas, Virginia, US"
@@ -3435,7 +3435,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Latvia,2020-05-29 02:32:50,56.8796,24.6032,1061,24,741,296,Latvia
 ,,,Lebanon,2020-05-29 02:32:50,33.8547,35.8623,1168,26,699,443,Lebanon
 ,,,Lesotho,2020-05-29 02:32:50,-29.609988,28.233608,2,0,1,1,Lesotho
-,,,Liberia,2020-05-29 02:32:50,6.4280550000000005,-9.429499,269,27,144,98,Liberia
+,,,Liberia,2020-05-29 02:32:50,6.4280550000000005,-9.429499,266,27,144,98,Liberia
 ,,,Libya,2020-05-29 02:32:50,26.3351,17.228331,105,5,41,59,Libya
 ,,,Liechtenstein,2020-05-29 02:32:50,47.14,9.55,82,1,55,26,Liechtenstein
 ,,,Lithuania,2020-05-29 02:32:50,55.1694,23.8813,1649,52,1266,395,Lithuania
@@ -3480,7 +3480,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-05-29 02:32:50,13.9094,-60.9789,18,0,18,0,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-05-29 02:32:50,12.9843,-61.2872,25,0,14,11,Saint Vincent and the Grenadines
 ,,,Samoa,2020-05-29 02:32:50,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-05-29 02:32:50,43.9424,12.4578,670,42,322,306,San Marino
+,,,San Marino,2020-05-29 02:32:50,43.9424,12.4578,672,42,322,306,San Marino
 ,,,Sao Tome and Principe,2020-05-29 02:32:50,0.18636,6.613081,458,12,68,378,Sao Tome and Principe
 ,,,Saudi Arabia,2020-05-29 02:32:50,23.885942,45.079162,80185,441,54553,25191,Saudi Arabia
 ,,,Senegal,2020-05-29 02:32:50,14.4974,-14.4524,3348,39,1686,1623,Senegal
@@ -3497,10 +3497,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-05-29 02:32:50,12.8628,30.2176,4346,195,749,3402,Sudan
 ,,,Suriname,2020-05-29 02:32:50,3.9193,-56.0278,12,1,9,2,Suriname
 ,,,Sweden,2020-05-29 02:32:50,60.128161,18.643501,35727,4266,4971,26490,Sweden
-,,,Switzerland,2020-05-29 02:32:50,46.8182,8.2275,30796,1919,28300,577,Switzerland
+,,,Switzerland,2020-05-29 02:32:50,46.8182,8.2275,30796,1796,28300,577,Switzerland
 ,,,Syria,2020-05-29 02:32:50,34.802075,38.99681500000001,122,4,43,75,Syria
 ,,,Taiwan*,2020-05-29 02:32:50,23.7,121.0,441,7,420,14,Taiwan*
-,,,Tajikistan,2020-05-29 02:32:50,38.861034000000004,71.276093,3563,47,1674,1842,Tajikistan
+,,,Tajikistan,2020-05-29 02:32:50,38.861034000000004,71.276093,3424,47,1674,1842,Tajikistan
 ,,,Tanzania,2020-05-29 02:32:50,-6.369028,34.888822,509,21,183,305,Tanzania
 ,,,Thailand,2020-05-29 02:32:50,15.870032,100.992541,3065,57,2945,63,Thailand
 ,,,Timor-Leste,2020-05-29 02:32:50,-8.874217,125.727539,24,0,24,0,Timor-Leste

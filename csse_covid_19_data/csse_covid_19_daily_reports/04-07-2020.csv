@@ -2640,7 +2640,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,New South Wales,Australia,2020-04-07 23:11:31,-33.8688,151.2093,2686,21,4,2661,"New South Wales, Australia"
 ,,Newfoundland and Labrador,Canada,2020-04-07 23:11:15,53.1355,-57.6604,228,1,0,0,"Newfoundland and Labrador, Canada"
 ,,Ningxia,China,2020-03-16 08:47:05,37.2692,106.1655,75,0,75,0,"Ningxia, China"
-,,Northern Mariana Islands,US,2020-04-07 23:04:49,15.0979,145.6739,8,2,0,0,",Northern Mariana Islands,US"
+,,Northern Mariana Islands,US,2020-04-07 23:04:49,15.0979,145.6739,8,1,0,0,",Northern Mariana Islands,US"
 ,,Northern Territory,Australia,2020-04-07 23:11:31,-12.4634,130.8456,28,0,2,26,"Northern Territory, Australia"
 ,,Northwest Territories,Canada,2020-04-07 23:11:15,64.8255,-124.8457,5,0,0,0,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,2020-04-07 23:11:15,44.681999999999995,-63.7443,310,1,0,0,"Nova Scotia, Canada"
@@ -2665,7 +2665,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sichuan,China,2020-04-07 01:35:16,30.6171,102.7103,560,3,541,16,"Sichuan, China"
 ,,Sint Maarten,Netherlands,2020-04-07 23:04:29,18.0425,-63.0548,40,6,1,33,"Sint Maarten, Netherlands"
 ,,South Australia,Australia,2020-04-07 23:11:31,-34.9285,138.6007,411,1,53,357,"South Australia, Australia"
-,,St Martin,France,2020-04-07 23:04:29,18.0708,-63.0501,32,2,7,23,"St Martin, France"
+,,St Martin,France,2020-04-07 23:04:29,18.0708,-63.0501,31,2,7,23,"St Martin, France"
 ,,Tasmania,Australia,2020-04-07 23:11:31,-42.8821,147.3272,89,2,26,61,"Tasmania, Australia"
 ,,Tianjin,China,2020-04-07 00:20:57,39.3054,117.323,180,3,151,26,"Tianjin, China"
 ,,Tibet,China,2020-02-23 11:19:02,31.6927,88.0924,1,0,1,0,"Tibet, China"
@@ -2818,7 +2818,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2020-04-07 23:04:29,13.9094,-60.9789,14,0,1,13,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2020-04-07 23:04:29,12.9843,-61.2872,8,0,1,7,Saint Vincent and the Grenadines
 ,,,Samoa,2020-04-07 23:11:15,-13.759,-172.1046,0,0,0,0,Samoa
-,,,San Marino,2020-04-07 23:04:29,43.9424,12.4578,279,34,40,205,San Marino
+,,,San Marino,2020-04-07 23:04:29,43.9424,12.4578,277,32,40,205,San Marino
 ,,,Sao Tome and Principe,2020-04-07 23:04:29,0.18636,6.613081,4,0,0,4,Sao Tome and Principe
 ,,,Saudi Arabia,2020-04-07 23:04:29,23.885942,45.079162,2795,41,615,2139,Saudi Arabia
 ,,,Senegal,2020-04-07 23:04:29,14.4974,-14.4524,237,2,105,130,Senegal
@@ -2836,7 +2836,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-04-07 23:04:29,12.8628,30.2176,14,2,2,10,Sudan
 ,,,Suriname,2020-04-07 23:04:29,3.9193,-56.0278,10,1,0,9,Suriname
 ,,,Sweden,2020-04-07 23:04:29,60.128161,18.643501,7693,591,205,6897,Sweden
-,,,Switzerland,2020-04-07 23:04:29,46.8182,8.2275,22253,821,8704,12728,Switzerland
+,,,Switzerland,2020-04-07 23:04:29,46.8182,8.2275,22253,882,8704,12728,Switzerland
 ,,,Syria,2020-04-07 23:04:29,34.802075,38.99681500000001,19,2,3,14,Syria
 ,,,Taiwan*,2020-04-07 09:19:20,23.7,121.0,376,5,57,314,Taiwan*
 ,,,Tanzania,2020-04-07 23:04:29,-6.369028,34.888822,24,1,5,18,Tanzania

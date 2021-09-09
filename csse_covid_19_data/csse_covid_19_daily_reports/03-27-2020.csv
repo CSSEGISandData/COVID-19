@@ -3237,7 +3237,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Recovered,Canada,2020-03-27 23:27:32,0.0,0.0,0,0,256,0,"Recovered, Canada"
 ,,Recovered,US,2020-03-27 22:14:55,0.0,0.0,0,0,869,0,"Recovered, US"
 ,,Reunion,France,2020-03-27 23:23:03,-21.1151,55.5364,145,0,1,144,"Reunion, France"
-,,Saint Barthelemy,France,2020-03-27 23:23:03,17.9,-62.8333,5,0,0,5,"Saint Barthelemy, France"
+,,Saint Barthelemy,France,2020-03-27 23:23:03,17.9,-62.8333,3,0,0,5,"Saint Barthelemy, France"
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2020-03-27 23:23:03,-7.9467,-14.3559,0,0,0,0,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom"
 ,,Saskatchewan,Canada,2020-03-27 23:27:32,52.9399,-106.4509,95,0,0,0,"Saskatchewan, Canada"
 ,,Shaanxi,China,2020-03-26 02:14:25,35.1917,108.8701,253,3,242,8,"Shaanxi, China"
@@ -3410,7 +3410,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-03-27 23:23:03,12.8628,30.2176,3,1,0,2,Sudan
 ,,,Suriname,2020-03-27 23:23:03,3.9193,-56.0278,8,0,0,8,Suriname
 ,,,Sweden,2020-03-27 23:23:03,60.128161,18.643501,3069,105,16,2948,Sweden
-,,,Switzerland,2020-03-27 23:23:03,46.8182,8.2275,12928,231,1530,11167,Switzerland
+,,,Switzerland,2020-03-27 23:23:03,46.8182,8.2275,12928,273,1530,11167,Switzerland
 ,,,Syria,2020-03-27 23:23:03,34.802075,38.99681500000001,5,0,0,5,Syria
 ,,,Taiwan*,2020-03-27 06:33:04,23.7,121.0,267,2,29,236,Taiwan*
 ,,,Tanzania,2020-03-27 23:23:03,-6.369028,34.888822,13,0,1,12,Tanzania

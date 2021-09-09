@@ -2935,7 +2935,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Shanxi,China,2020-04-26 00:55:48,37.5777,112.2922,197,0,154,43,"Shanxi, China"
 ,,Sichuan,China,2020-04-24 01:27:14,30.6171,102.7103,561,3,558,0,"Sichuan, China"
 ,,Sint Maarten,Netherlands,2020-04-26 02:30:31,18.0425,-63.0548,73,12,22,39,"Sint Maarten, Netherlands"
-,,St Martin,France,2020-04-26 02:30:31,18.0708,-63.0501,38,3,24,11,"St Martin, France"
+,,St Martin,France,2020-04-26 02:30:31,18.0708,-63.0501,38,2,24,11,"St Martin, France"
 ,,Tianjin,China,2020-04-26 01:08:08,39.3054,117.323,190,3,182,5,"Tianjin, China"
 ,,Tibet,China,2020-02-23 11:19:02,31.6927,88.0924,1,0,1,0,"Tibet, China"
 ,,Turks and Caicos Islands,United Kingdom,2020-04-26 02:30:31,21.69400000000001,-71.7979,11,1,4,6,"Turks and Caicos Islands, United Kingdom"
@@ -3038,7 +3038,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Laos,2020-04-26 02:30:31,19.856270000000002,102.495496,19,0,7,12,Laos
 ,,,Latvia,2020-04-26 02:30:31,56.8796,24.6032,804,12,267,525,Latvia
 ,,,Lebanon,2020-04-26 02:30:31,33.8547,35.8623,704,24,143,537,Lebanon
-,,,Liberia,2020-04-26 02:30:31,6.4280550000000005,-9.429499,120,11,25,84,Liberia
+,,,Liberia,2020-04-26 02:30:31,6.4280550000000005,-9.429499,117,8,25,84,Liberia
 ,,,Libya,2020-04-26 02:30:31,26.3351,17.228331,61,2,18,41,Libya
 ,,,Liechtenstein,2020-04-26 02:30:31,47.14,9.55,81,1,55,25,Liechtenstein
 ,,,Lithuania,2020-04-26 02:30:31,55.1694,23.8813,1301,29,287,925,Lithuania
@@ -3103,7 +3103,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-04-26 02:30:31,12.8628,30.2176,213,17,19,177,Sudan
 ,,,Suriname,2020-04-26 02:30:31,3.9193,-56.0278,10,1,7,2,Suriname
 ,,,Sweden,2020-04-26 02:30:31,60.128161,18.643501,18177,2192,1005,14980,Sweden
-,,,Switzerland,2020-04-26 02:30:31,46.8182,8.2275,28894,1599,21300,5995,Switzerland
+,,,Switzerland,2020-04-26 02:30:31,46.8182,8.2275,28894,1581,21300,5995,Switzerland
 ,,,Syria,2020-04-26 02:30:31,34.802075,38.99681500000001,42,3,11,28,Syria
 ,,,Taiwan*,2020-04-26 00:38:32,23.7,121.0,429,6,275,148,Taiwan*
 ,,,Tanzania,2020-04-26 02:30:31,-6.369028,34.888822,299,10,48,241,Tanzania

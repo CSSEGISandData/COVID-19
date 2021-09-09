@@ -3242,7 +3242,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sichuan,China,2020-03-25 06:43:02,30.6171,102.7103,547,3,536,8,"Sichuan, China"
 ,,Sint Maarten,Netherlands,2020-03-25 23:33:04,18.0425,-63.0548,3,0,0,3,"Sint Maarten, Netherlands"
 ,,South Australia,Australia,2020-03-25 23:37:49,-34.9285,138.6007,170,0,6,164,"South Australia, Australia"
-,,St Martin,France,2020-03-25 23:33:04,18.0708,-63.0501,11,0,0,11,"St Martin, France"
+,,St Martin,France,2020-03-25 23:33:04,18.0708,-63.0501,8,0,0,11,"St Martin, France"
 ,,Tasmania,Australia,2020-03-25 23:37:49,-42.8821,147.3272,36,0,3,33,"Tasmania, Australia"
 ,,Tianjin,China,2020-03-24 14:16:21,39.3054,117.323,145,3,133,9,"Tianjin, China"
 ,,Tibet,China,2020-02-23 11:19:02,31.6927,88.0924,1,0,1,0,"Tibet, China"
@@ -3402,7 +3402,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Sudan,2020-03-25 23:33:04,12.8628,30.2176,3,1,0,2,Sudan
 ,,,Suriname,2020-03-25 23:33:04,3.9193,-56.0278,8,0,0,8,Suriname
 ,,,Sweden,2020-03-25 23:33:04,60.128161,18.643501,2526,62,16,2448,Sweden
-,,,Switzerland,2020-03-25 23:33:04,46.8182,8.2275,10897,153,131,10613,Switzerland
+,,,Switzerland,2020-03-25 23:33:04,46.8182,8.2275,10897,196,131,10613,Switzerland
 ,,,Syria,2020-03-25 23:33:04,34.802075,38.99681500000001,5,0,0,5,Syria
 ,,,Taiwan*,2020-03-25 08:02:14,23.7,121.0,235,2,29,204,Taiwan*
 ,,,Tanzania,2020-03-25 23:33:04,-6.369028,34.888822,12,0,0,12,Tanzania
