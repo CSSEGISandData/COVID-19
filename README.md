@@ -212,6 +212,9 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
   - El Salvador:
     - Government of El Salvador: https://covid19.gob.sv/
+  - Fiji:
+    - Fiji Ministry of Health and Medical Services COVID-19 Dashboard: https://www.health.gov.fj/covid-19-updates/
+    - Fiji Ministry of Health and Medical Services Vaccine Dashboard: https://tupaia.org/supplychain_fiji/FJ/COVID-19%20Fiji?overlay=FJ_COVID_TRACKING_Dose_1_SubDistrict_Percentage_Vaccinated
   - Finland:
     - THL/National Infectious Disease Register: https://experience.arcgis.com/experience/92e9bb33fac744c9a084381fc35aa3c7
   - France:
@@ -220,6 +223,9 @@ This list includes a complete list of all sources ever used in the data set, sin
     - OpenCOVID19: https://github.com/opencovid19-fr
   - Germany:
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+   - Ghana:
+     - Ghana Health Service Hub: https://ghcovid19-statsghana.hub.arcgis.com
+     - Ghana Stastical Service Dashboard: https://statsghana.maps.arcgis.com/apps/dashboards/a22ebfb6d9cb47ff9ce87619d53f68e5
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Honduras:
@@ -319,6 +325,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Thailand: 
     - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
     - Ministry of Public Health, Department of Disease Control Situational Reports: https://covid19.ddc.moph.go.th/en
+  - Togo:
+    - Government of Togo: https://covid19.gouv.tg/
   - Turkey: 
     - Republic of Turkey Ministry of Health (English): https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
     - Republic of Turkey Ministry of Health (Turkey): https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
@@ -330,6 +338,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - United Kingdom
     - Government of the United Kingdom: https://coronavirus.data.gov.uk/#category=nations&map=rate
     - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
+  - Zambia
+    - Zambia National Public health Institute: https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63
+
     
 
 
