@@ -97,40 +97,40 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 34011,Cumberland,New Jersey,US,3/22/20 23:45,39.37199394,-75.10712559,1,0,0,0,"Cumberland, New Jersey, US"
 34033,Salem,New Jersey,US,3/22/20 23:45,39.58719656,-75.3469663,1,0,0,0,"Salem, New Jersey, US"
 6037,Los Angeles,California,US,3/22/20 23:45,34.30828379,-118.2282411,407,5,0,0,"Los Angeles, California, US"
-6085,Santa Clara,California,US,3/22/20 23:45,37.23104908,-121.6970462,263,8,0,0,"Santa Clara, California, US"
+6085,Santa Clara,California,US,3/22/20 23:45,37.23104908,-121.6970462,282,13,0,0,"Santa Clara, California, US"
 6073,San Diego,California,US,3/22/20 23:45,33.03484597,-116.7365326,155,0,0,0,"San Diego, California, US"
-6081,San Mateo,California,US,3/22/20 23:45,37.4228808,-122.3275546,117,1,0,0,"San Mateo, California, US"
-6075,San Francisco,California,US,3/22/20 23:45,37.75215114,-122.4385672,108,0,0,0,"San Francisco, California, US"
+6081,San Mateo,California,US,3/22/20 23:45,37.4228808,-122.3275546,84,1,0,0,"San Mateo, California, US"
+6075,San Francisco,California,US,3/22/20 23:45,37.75215114,-122.4385672,134,0,0,0,"San Francisco, California, US"
 6059,Orange,California,US,3/22/20 23:45,33.70147516,-117.7645998,95,0,0,0,"Orange, California, US"
-6001,Alameda,California,US,3/22/20 23:45,37.64629437,-121.8929271,71,0,0,0,"Alameda, California, US"
-6013,Contra Costa,California,US,3/22/20 23:45,37.91923498,-121.9289527,61,1,0,0,"Contra Costa, California, US"
-6067,Sacramento,California,US,3/22/20 23:45,38.45106826,-121.3425374,53,3,0,0,"Sacramento, California, US"
-6041,Marin,California,US,3/22/20 23:45,38.07122463,-122.7210631,38,0,0,0,"Marin, California, US"
-6077,San Joaquin,California,US,3/22/20 23:45,37.93433732,-121.2730061,31,2,0,0,"San Joaquin, California, US"
+6001,Alameda,California,US,3/22/20 23:45,37.64629437,-121.8929271,72,1,0,0,"Alameda, California, US"
+6013,Contra Costa,California,US,3/22/20 23:45,37.91923498,-121.9289527,79,1,0,0,"Contra Costa, California, US"
+6067,Sacramento,California,US,3/22/20 23:45,38.45106826,-121.3425374,81,3,0,0,"Sacramento, California, US"
+6041,Marin,California,US,3/22/20 23:45,38.07122463,-122.7210631,30,0,0,0,"Marin, California, US"
+6077,San Joaquin,California,US,3/22/20 23:45,37.93433732,-121.2730061,33,2,0,0,"San Joaquin, California, US"
 6065,Riverside,California,US,3/22/20 23:45,33.74314981,-115.9933578,29,6,0,0,"Riverside, California, US"
-6079,San Luis Obispo,California,US,3/22/20 23:45,35.38822029,-120.4039028,27,0,0,0,"San Luis Obispo, California, US"
-6111,Ventura,California,US,3/22/20 23:45,34.44465746,-119.0910613,25,0,0,0,"Ventura, California, US"
-6097,Sonoma,California,US,3/22/20 23:45,38.52746429,-122.8862506,22,1,0,0,"Sonoma, California, US"
-6071,San Bernardino,California,US,3/22/20 23:45,34.84060306,-116.1774685,17,0,0,0,"San Bernardino, California, US"
-6087,Santa Cruz,California,US,3/22/20 23:45,37.05580291,-122.0066524,15,0,0,0,"Santa Cruz, California, US"
-6095,Solano,California,US,3/22/20 23:45,38.26827353,-121.9357113,13,0,0,0,"Solano, California, US"
-6083,Santa Barbara,California,US,3/22/20 23:45,34.65329488,-120.0188492,13,0,0,0,"Santa Barbara, California, US"
-6061,Placer,California,US,3/22/20 23:45,39.06167234,-120.7240569,12,1,0,0,"Placer, California, US"
-6107,Tulare,California,US,3/22/20 23:45,36.22026558,-118.8020203,12,0,0,0,"Tulare, California, US"
-6053,Monterey,California,US,3/22/20 23:45,36.21862405,-121.2413397,11,1,0,0,"Monterey, California, US"
+6079,San Luis Obispo,California,US,3/22/20 23:45,35.38822029,-120.4039028,19,0,0,0,"San Luis Obispo, California, US"
+6111,Ventura,California,US,3/22/20 23:45,34.44465746,-119.0910613,26,0,0,0,"Ventura, California, US"
+6097,Sonoma,California,US,3/22/20 23:45,38.52746429,-122.8862506,18,1,0,0,"Sonoma, California, US"
+6071,San Bernardino,California,US,3/22/20 23:45,34.84060306,-116.1774685,16,0,0,0,"San Bernardino, California, US"
+6087,Santa Cruz,California,US,3/22/20 23:45,37.05580291,-122.0066524,19,0,0,0,"Santa Cruz, California, US"
+6095,Solano,California,US,3/22/20 23:45,38.26827353,-121.9357113,7,0,0,0,"Solano, California, US"
+6083,Santa Barbara,California,US,3/22/20 23:45,34.65329488,-120.0188492,16,0,0,0,"Santa Barbara, California, US"
+6061,Placer,California,US,3/22/20 23:45,39.06167234,-120.7240569,18,1,0,0,"Placer, California, US"
+6107,Tulare,California,US,3/22/20 23:45,36.22026558,-118.8020203,6,0,0,0,"Tulare, California, US"
+6053,Monterey,California,US,3/22/20 23:45,36.21862405,-121.2413397,14,1,0,0,"Monterey, California, US"
 6113,Yolo,California,US,3/22/20 23:45,38.68278902,-121.9018288,6,0,0,0,"Yolo, California, US"
-6019,Fresno,California,US,3/22/20 23:45,36.75733899,-119.6466953,6,0,0,0,"Fresno, California, US"
-6025,Imperial,California,US,3/22/20 23:45,33.0393082,-115.3669042,6,0,0,0,"Imperial, California, US"
-6069,San Benito,California,US,3/22/20 23:45,36.60308176,-121.069975,5,1,0,0,"San Benito, California, US"
-6099,Stanislaus,California,US,3/22/20 23:45,37.55862499,-120.9970722,5,0,0,0,"Stanislaus, California, US"
+6019,Fresno,California,US,3/22/20 23:45,36.75733899,-119.6466953,9,0,0,0,"Fresno, California, US"
+6025,Imperial,California,US,3/22/20 23:45,33.0393082,-115.3669042,2,0,0,0,"Imperial, California, US"
+6069,San Benito,California,US,3/22/20 23:45,36.60308176,-121.069975,2,1,0,0,"San Benito, California, US"
+6099,Stanislaus,California,US,3/22/20 23:45,37.55862499,-120.9970722,11,0,0,0,"Stanislaus, California, US"
 6029,Kern,California,US,3/22/20 23:45,35.34329425,-118.7277796,5,0,0,0,"Kern, California, US"
-6039,Madera,California,US,3/22/20 23:45,37.21513971,-119.7665589,3,0,0,0,"Madera, California, US"
-6023,Humboldt,California,US,3/22/20 23:45,40.69923009,-123.876044,2,0,0,0,"Humboldt, California, US"
+6039,Madera,California,US,3/22/20 23:45,37.21513971,-119.7665589,4,0,0,0,"Madera, California, US"
+6023,Humboldt,California,US,3/22/20 23:45,40.69923009,-123.876044,0,0,0,0,"Humboldt, California, US"
 6009,Calaveras,California,US,3/22/20 23:45,38.20537103,-120.552913,2,0,0,0,"Calaveras, California, US"
 6093,Siskiyou,California,US,3/22/20 23:45,41.59198861,-122.5407434,2,0,0,0,"Siskiyou, California, US"
 6115,Yuba,California,US,3/22/20 23:45,39.26255932,-121.3535644,2,0,0,0,"Yuba, California, US"
 6089,Shasta,California,US,3/22/20 23:45,40.76391419,-122.0396884,1,0,0,0,"Shasta, California, US"
-6057,Nevada,California,US,3/22/20 23:45,39.30394768,-120.7627281,1,0,0,0,"Nevada, California, US"
+6057,Nevada,California,US,3/22/20 23:45,39.30394768,-120.7627281,3,0,0,0,"Nevada, California, US"
 6045,Mendocino,California,US,3/22/20 23:45,39.4381191,-123.3911313,1,0,0,0,"Mendocino, California, US"
 6005,Amador,California,US,3/22/20 23:45,38.44583082,-120.65696,1,0,0,0,"Amador, California, US"
 6051,Mono,California,US,3/22/20 23:45,37.93899289,-118.8872409,1,0,0,0,"Mono, California, US"
@@ -554,10 +554,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55031,Douglas,Wisconsin,US,3/22/20 23:45,46.43222285,-91.91595768,1,0,0,0,"Douglas, Wisconsin, US"
 55045,Green,Wisconsin,US,3/22/20 23:45,42.6794956,-89.60243287,1,0,0,0,"Green, Wisconsin, US"
 39035,Cuyahoga,Ohio,US,3/22/20 23:45,41.424119,-81.65918339,125,2,0,0,"Cuyahoga, Ohio, US"
-39049,Franklin,Ohio,US,3/22/20 23:45,39.96995815,-83.01115755,34,2,0,0,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,3/22/20 23:45,39.96995815,-83.01115755,34,3,0,0,"Franklin, Ohio, US"
 39153,Summit,Ohio,US,3/22/20 23:45,41.12464734,-81.53123079,23,0,0,0,"Summit, Ohio, US"
 39093,Lorain,Ohio,US,3/22/20 23:45,41.29553751,-82.15083537,19,0,0,0,"Lorain, Ohio, US"
-39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,1,0,0,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,3/22/20 23:45,39.19673558,-84.54502924,19,0,0,0,"Hamilton, Ohio, US"
 39099,Mahoning,Ohio,US,3/22/20 23:45,41.01631101,-80.77287029,18,0,0,0,"Mahoning, Ohio, US"
 39017,Butler,Ohio,US,3/22/20 23:45,39.44012838,-84.57388716,17,0,0,0,"Butler, Ohio, US"
 39109,Miami,Ohio,US,3/22/20 23:45,40.0543329,-84.22871271,13,1,0,0,"Miami, Ohio, US"
@@ -1286,10 +1286,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6003,Alpine,California,US,3/22/20 23:45,38.59678594,-119.8223594,0,0,0,0,"Alpine, California, US"
 6011,Colusa,California,US,3/22/20 23:45,39.17881957,-122.2331726,0,0,0,0,"Colusa, California, US"
 6015,Del Norte,California,US,3/22/20 23:45,41.74228275,-123.8974063,0,0,0,0,"Del Norte, California, US"
-6017,El Dorado,California,US,3/22/20 23:45,38.77965956,-120.5233166,0,0,0,0,"El Dorado, California, US"
+6017,El Dorado,California,US,3/22/20 23:45,38.77965956,-120.5233166,1,0,0,0,"El Dorado, California, US"
 6021,Glenn,California,US,3/22/20 23:45,39.59875897,-122.3938452,0,0,0,0,"Glenn, California, US"
 6027,Inyo,California,US,3/22/20 23:45,36.51112084,-117.4111978,0,0,0,0,"Inyo, California, US"
-6031,Kings,California,US,3/22/20 23:45,36.07409056,-119.8159973,0,0,0,0,"Kings, California, US"
+6031,Kings,California,US,3/22/20 23:45,36.07409056,-119.8159973,1,0,0,0,"Kings, California, US"
 6033,Lake,California,US,3/22/20 23:45,39.10124298,-122.7536244,0,0,0,0,"Lake, California, US"
 6035,Lassen,California,US,3/22/20 23:45,40.67311306,-120.5935099,0,0,0,0,"Lassen, California, US"
 6043,Mariposa,California,US,3/22/20 23:45,37.57978556,-119.9073334,0,0,0,0,"Mariposa, California, US"
@@ -3178,7 +3178,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Ontario,Canada,3/22/20 23:48,51.2538,-85.3232,425,5,0,0,"Ontario, Canada"
 ,,British Columbia,Canada,3/22/20 23:48,53.7267,-127.6476,424,10,0,0,"British Columbia, Canada"
 ,,Alberta,Canada,3/22/20 23:48,53.9333,-116.5765,259,1,0,0,"Alberta, Canada"
-,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,219,5,0,0,"Quebec, Canada"
+,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,795,5,0,0,"Quebec, Canada"
 ,,Saskatchewan,Canada,3/22/20 23:48,52.9399,-106.4509,52,0,0,0,"Saskatchewan, Canada"
 ,,Nova Scotia,Canada,3/22/20 23:48,44.682,-63.7443,28,0,0,0,"Nova Scotia, Canada"
 ,,Nunavut,Canada,3/22/20 23:48,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
@@ -3239,7 +3239,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Iran,3/22/20 23:45,32.427908,53.688046,21638,1685,7635,12318,Iran
 ,,,France,3/22/20 23:45,46.2276,2.2137,16533,674,2200,13144,France
 ,,,"Korea, South",3/22/20 23:45,35.907757,127.766922,8897,104,2909,5884,"Korea, South"
-,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,98,131,7245,Switzerland
+,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,113,131,7245,Switzerland
 ,,,United Kingdom,3/22/20 23:45,55.3781,-3.436,5683,281,93,5309,United Kingdom
 ,,,Netherlands,3/22/20 23:45,52.1326,5.2913,4204,179,2,4023,Netherlands
 ,,,Austria,3/22/20 23:45,47.5162,14.5501,3580,16,9,3555,Austria
@@ -3274,7 +3274,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,India,3/22/20 23:45,20.593684,78.96288,396,7,24,365,India
 ,,,Philippines,3/22/20 23:45,12.879721,121.774017,380,25,15,340,Philippines
 ,,,Russia,3/22/20 23:45,61.52401,105.318756,367,1,16,350,Russia
-,,,Peru,3/22/20 23:45,-9.19,-75.0152,363,5,1,357,Peru
+,,,Peru,3/22/20 23:45,-9.19,-75.0152,363,34,1,357,Peru
 ,,,Bahrain,3/22/20 23:45,26.0275,50.55,334,2,149,183,Bahrain
 ,,,Egypt,3/22/20 23:45,26.820553,30.802498,327,14,56,257,Egypt
 ,,,Estonia,3/22/20 23:45,58.5953,25.0136,326,0,4,322,Estonia
@@ -3329,7 +3329,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Trinidad and Tobago,3/22/20 23:45,10.6918,-61.2225,50,0,0,50,Trinidad and Tobago
 ,,Reunion,France,3/22/20 23:45,-21.1151,55.5364,47,0,1,46,"Reunion, France"
 ,,,Uzbekistan,3/22/20 23:45,41.377491,64.585262,43,0,0,43,Uzbekistan
-,,,Afghanistan,3/22/20 23:45,33.93911,67.709953,34,1,1,38,Afghanistan
+,,,Afghanistan,3/22/20 23:45,33.93911,67.709953,34,0,1,38,Afghanistan
 ,,,Cameroon,3/22/20 23:45,3.848,11.5021,40,0,2,38,Cameroon
 ,,Martinique,France,3/22/20 23:45,14.6415,-61.0242,37,1,0,36,"Martinique, France"
 ,,,Liechtenstein,3/22/20 23:45,47.14,9.55,37,0,0,37,Liechtenstein
@@ -3367,7 +3367,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Equatorial Guinea,3/22/20 23:45,1.6508,10.2679,6,0,0,6,Equatorial Guinea
 ,,,Gabon,3/22/20 23:45,-0.8037,11.6094,5,1,0,4,Gabon
 ,,Isle of Man,United Kingdom,3/22/20 23:45,54.2361,-4.5481,5,0,0,5,"Isle of Man, United Kingdom"
-,,St Martin,France,3/22/20 23:45,18.0708,-63.0501,5,0,0,5,"St Martin, France"
+,,St Martin,France,3/22/20 23:45,18.0708,-63.0501,8,0,0,5,"St Martin, France"
 ,,,Suriname,3/22/20 23:45,3.9193,-56.0278,5,0,0,5,Suriname
 ,,,Bahamas,3/22/20 23:45,25.025885,-78.035889,4,0,0,4,Bahamas
 ,,Greenland,Denmark,3/22/20 23:45,71.7069,-42.6043,4,0,0,4,"Greenland, Denmark"
@@ -3420,3 +3420,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 11001,District of Columbia,District of Columbia,US,3/22/20 23:45,38.90417773,-77.01655992,102,2,0,0,"District of Columbia,District of Columbia,US"
 53023,Garfield County,Washington,US,3/22/20 23:45,46.45197502,-117.5454032,1,2,0,0,"Garfield County,Washington,US"
 ,,Unknown,China,3/22/20 23:45,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,3/22/20 23:45,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,3/22/20 23:45,7.515,134.5825,0,0,0,0,Palau
+,,Cook Islands,New Zealand,3/22/20 23:45,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
+,,,Summer Olympics 2020,3/22/20 23:45,35.6491,139.7737,0,0,0,0,Summer Olympics 2020

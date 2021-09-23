@@ -315,6 +315,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,10203140
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
+296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,117606
 410,KR,KOR,410,,,,"Korea, South",35.907757,127.766922,"Korea, South",51269183
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,1810366
 414,KW,KWT,414,,,,Kuwait,29.31166,47.481766,Kuwait,4270563
@@ -331,6 +332,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,27691019
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,19129955
 458,MY,MYS,458,,,,Malaysia,4.210484,101.975766,Malaysia,32365998
+45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",3768200
+45802,MY,MYS,458,,,Kedah,Malaysia,6.1184,100.3685,"Kedah, Malaysia",2185900
+45803,MY,MYS,458,,,Kelantan,Malaysia,6.1254,102.2381,"Kelantan, Malaysia",1892200
+45804,MY,MYS,458,,,Melaka,Malaysia,2.1896,102.2501,"Melaka, Malaysia",932700
+45805,MY,MYS,458,,,Negeri Sembilan,Malaysia,2.7258,101.9424,"Negeri Sembilan, Malaysia",1132100
+45806,MY,MYS,458,,,Pahang,Malaysia,3.8126,103.3256,"Pahang, Malaysia",1677100
+45807,MY,MYS,458,,,Perak,Malaysia,4.5921,101.0901,"Perak, Malaysia",2514300
+45808,MY,MYS,458,,,Perlis,Malaysia,6.4449,100.2048,"Perlis, Malaysia",254600
+45809,MY,MYS,458,,,Pulau Pinang,Malaysia,5.4141,100.3288,"Pulau Pinang, Malaysia",1777600
+45810,MY,MYS,458,,,Sabah,Malaysia,5.9788,116.0753,"Sabah, Malaysia",3904700
+45811,MY,MYS,458,,,Sarawak,Malaysia,1.5533,110.3592,"Sarawak, Malaysia",2818100
+45812,MY,MYS,458,,,Selangor,Malaysia,3.0738,101.5183,"Selangor, Malaysia",6541900
+45813,MY,MYS,458,,,Terengganu,Malaysia,5.3117,103.1324,"Terengganu, Malaysia",1250100
+45814,MY,MYS,458,,,W.P. Kuala Lumpur,Malaysia,3.139,101.6869,"W.P. Kuala Lumpur, Malaysia",1778400
+45815,MY,MYS,458,,,W.P. Labuan,Malaysia,5.2831,115.2308,"W.P. Labuan, Malaysia",99400
+45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",105400
+45817,MY,MYS,458,,,Unknown,Malaysia,,,"Unknown, Malaysia",
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,540542
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166,Mali,20250834
 470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,441539
@@ -400,6 +418,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",42882
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",26221
 554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,4822233
+184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",17459
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,6624554
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,24206636
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,206139587
@@ -443,6 +462,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 56638,NG,NGA,566,,,Unknown,Nigeria,,,"Unknown, Nigeria",
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2083380
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
+2020,,,,,,,Summer Olympics 2020,35.6491,139.7737,Summer Olympics 2020,
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,220892331
 58601,PK,PAK,586,,,Azad Jammu and Kashmir,Pakistan,34.027401,73.947253,"Azad Jammu and Kashmir, Pakistan",4045366
