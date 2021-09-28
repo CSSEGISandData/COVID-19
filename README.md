@@ -74,7 +74,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - District of Columbia: [Government of The District of Columbia](https://coronavirus.dc.gov/page/coronavirus-data)
   - Florida: [Department of Health](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86)
   - Georgia: [Department of Public Health](https://dph.georgia.gov/covid-19-daily-status-report)
-  - Gaum: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
+  - Guam: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
   - Hawaii: [Department of Health](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/)
   - Idaho: [State Government](https://coronavirus.idaho.gov/)
   - Illinois: [Department of Public Health](https://dph.illinois.gov/covid19)
@@ -99,6 +99,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [St. Louis County](https://stlcorona.com/resources/covid-19-statistics1/)
   - Montana: [Department of Public Health and Human Services](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
   - Nebraska
+    - [Nebraska Department of Health and Human Services](https://datanexus-dhhs.ne.gov/views/Covid/1_CountyStatisticsMap?%3AisGuestRedirectFromVizportal=y&%3Aembed=y)
     - [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
   - Nevada: [Department of Health and Human Services](https://nvhealthresponse.nv.gov/)
     - [Reno County Health Department](http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994)
@@ -108,8 +109,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - New York: [State Department of Health](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data)
     - [New York City Health Department](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)
     - [NYC Department of Health and Mental Hygiene](https://www1.nyc.gov/site/doh/covid/covid-19-data.page) & [Github Repo](https://github.com/nychealth/coronavirus-data)
-  - North Carolina
-    - [City of Greenville GIS](https://www.arcgis.com/apps/opsdashboard/index.html#/7aeac695cafa4065ba1505b1cfa72747)
+  - North Carolina: [Department of Health and Human](https://covid19.ncdhhs.gov/dashboard)
   - North Dakota: [Department of Health](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
   - Northern Mariana Islands: [Northern Mariana Islands Commonwealth Dept of Public Health](https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a)
   - Ohio: [Department of Health](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home)
@@ -220,6 +220,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - OpenCOVID19: https://github.com/opencovid19-fr
   - Germany:
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+  - Greece:
+    - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Honduras:
@@ -263,17 +265,21 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - Macau:
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
-  - Mexico:
-    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
   - Malaysia
     - Ministry of Health: https://covid-19.moh.gov.my/
     - Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera: https://github.com/MoH-Malaysia/covid19-public
+  - Mexico:
+    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
+  - Monaco:
+    - Gouvernement Princier Principaute de Monaco: https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites
   - Netherlands:
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
   - Palau:
-    - http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
+    - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
+  - Paraguay:
+    - Ministerio de Salud Publica Y Bienestar Social: https://www.mspbs.gov.py/reporte-covid19.html
   - Pakistan:
     - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - Peru:
@@ -297,6 +303,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
   - Slovakia: 
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - Slovenia:
+    - Sledilnik: https://covid-19.sledilnik.org/en/stats
   - South Africa:
     - South Africa Department of Health: https://sacoronavirus.co.za/
   - South Korea:

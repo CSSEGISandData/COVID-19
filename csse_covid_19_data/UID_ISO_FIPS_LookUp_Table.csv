@@ -332,6 +332,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,27691019
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,19129955
 458,MY,MYS,458,,,,Malaysia,4.210484,101.975766,Malaysia,32365998
+45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",3768200
+45802,MY,MYS,458,,,Kedah,Malaysia,6.1184,100.3685,"Kedah, Malaysia",2185900
+45803,MY,MYS,458,,,Kelantan,Malaysia,6.1254,102.2381,"Kelantan, Malaysia",1892200
+45804,MY,MYS,458,,,Melaka,Malaysia,2.1896,102.2501,"Melaka, Malaysia",932700
+45805,MY,MYS,458,,,Negeri Sembilan,Malaysia,2.7258,101.9424,"Negeri Sembilan, Malaysia",1132100
+45806,MY,MYS,458,,,Pahang,Malaysia,3.8126,103.3256,"Pahang, Malaysia",1677100
+45807,MY,MYS,458,,,Perak,Malaysia,4.5921,101.0901,"Perak, Malaysia",2514300
+45808,MY,MYS,458,,,Perlis,Malaysia,6.4449,100.2048,"Perlis, Malaysia",254600
+45809,MY,MYS,458,,,Pulau Pinang,Malaysia,5.4141,100.3288,"Pulau Pinang, Malaysia",1777600
+45810,MY,MYS,458,,,Sabah,Malaysia,5.9788,116.0753,"Sabah, Malaysia",3904700
+45811,MY,MYS,458,,,Sarawak,Malaysia,1.5533,110.3592,"Sarawak, Malaysia",2818100
+45812,MY,MYS,458,,,Selangor,Malaysia,3.0738,101.5183,"Selangor, Malaysia",6541900
+45813,MY,MYS,458,,,Terengganu,Malaysia,5.3117,103.1324,"Terengganu, Malaysia",1250100
+45814,MY,MYS,458,,,W.P. Kuala Lumpur,Malaysia,3.139,101.6869,"W.P. Kuala Lumpur, Malaysia",1778400
+45815,MY,MYS,458,,,W.P. Labuan,Malaysia,5.2831,115.2308,"W.P. Labuan, Malaysia",99400
+45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",105400
+45817,MY,MYS,458,,,Unknown,Malaysia,,,"Unknown, Malaysia",
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,540542
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166,Mali,20250834
 470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,441539
