@@ -161,7 +161,7 @@ https://systems.jhu.edu/
   - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm)
   - Wyoming: [Department of Health](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
   
-- Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
+- **Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:**
   - **Albania:**
     - National Agency for Information Society: https://coronavirus.al/statistika/
   - **Australia:**
