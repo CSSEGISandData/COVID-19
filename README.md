@@ -23,7 +23,7 @@ https://systems.jhu.edu/
 <b>DATA SOURCES:</b>
 **This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.**
 
-- Aggregated data sources:
+- **Aggregated data sources:**
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
   - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
@@ -199,7 +199,7 @@ https://systems.jhu.edu/
     - Government of Saskatchewan: https://dashboard.saskatchewan.ca/health-wellness
     - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
     - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
-  - **Chile: **
+  - **Chile:**
     - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
     - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
   - **China:**
