@@ -174,9 +174,9 @@ https://systems.jhu.edu/
   - **Brazil:** 
     - Ministry of Health: https://covid.saude.gov.br/
     - Federal University of Viçosa - Brazil: https://github.com/wcota/covid19br (Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362))
-  - Burma (Myanmar):
+  - **Burma (Myanmar):**
     - Myanmar Ministry of Health and Sports: https://doph.maps.arcgis.com/apps/dashboards/f8fb4ccc3d2d42c7ab0590dbb3fc26b8
-  - **Canada: **
+  - **Canada:**
     - Government of Alberta: https://www.alberta.ca/covid-19-alberta-data.aspx
     - Government of British Columbia Centre for Disease Control: https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded
     - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
