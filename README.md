@@ -104,6 +104,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Nevada: [Department of Health and Human Services](https://nvhealthresponse.nv.gov/)
     - [Reno County Health Department](http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994)
   - New Hampshire: [Department of Health and Human Services](https://www.nh.gov/covid19/dashboard/summary.htm)
+    - [Department of Health and Human Services Press Releases](https://www.covid19.nh.gov/news/dhhs-updates)
   - New Jersey: [Department of Health](https://covid19.nj.gov/)
   - New Mexico: [Department of Health](https://cvprovider.nmhealth.org/public-dashboard.html)
   - New York: [State Department of Health](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data)
@@ -218,6 +219,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/
     - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
     - OpenCOVID19: https://github.com/opencovid19-fr
+  - Georgia:
+    - Government of Georgia Ministry of Health: https://stopcov.ge/en
   - Germany:
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - Greece:
@@ -247,7 +250,6 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Jamaica: 
     - Ministry of Health & Wellness: https://www.moh.gov.jm
   - Japan: 
-    - COVID19Japan: https://covid19japan.com/#all-prefectures
     - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
   - Jordan:
     - Ministry of Health: https://corona.moh.gov.jo/en
@@ -302,7 +304,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Singapore:
     - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
   - Slovakia: 
-    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/#covid-aut-nasledujuci-pondelok
   - Slovenia:
     - Sledilnik: https://covid-19.sledilnik.org/en/stats
   - South Africa:

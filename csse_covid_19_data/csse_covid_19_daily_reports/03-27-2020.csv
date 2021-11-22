@@ -623,7 +623,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22029,Concordia,Louisiana,US,2020-03-27 22:14:55,31.44817835,-91.63814433,0,0,0,0,"Concordia, Louisiana, US"
 1035,Conecuh,Alabama,US,2020-03-27 22:14:55,31.43401703,-86.99320044,0,0,0,0,"Conecuh, Alabama, US"
 8021,Conejos,Colorado,US,2020-03-27 22:14:55,37.201606,-106.19174879999998,0,0,0,0,"Conejos, Colorado, US"
-6013,Contra Costa,California,US,2020-03-27 22:14:55,37.91923498,-121.9289527,161,1,0,0,"Contra Costa, California, US"
+6013,Contra Costa,California,US,2020-03-27 22:14:55,37.91923498,-121.9289527,161,2,0,0,"Contra Costa, California, US"
 56009,Converse,Wyoming,US,2020-03-27 22:14:55,42.97272268,-105.5081848,0,0,0,0,"Converse, Wyoming, US"
 5029,Conway,Arkansas,US,2020-03-27 22:14:55,35.26205537,-92.70506566,1,0,0,0,"Conway, Arkansas, US"
 13075,Cook,Georgia,US,2020-03-27 22:14:55,31.16068491,-83.42947229,0,0,0,0,"Cook, Georgia, US"
@@ -1752,7 +1752,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37113,Macon,North Carolina,US,2020-03-27 22:14:55,35.14867843,-83.41696617,0,0,0,0,"Macon, North Carolina, US"
 47111,Macon,Tennessee,US,2020-03-27 22:14:55,36.53157855,-86.00778595,1,0,0,0,"Macon, Tennessee, US"
 17117,Macoupin,Illinois,US,2020-03-27 22:14:55,39.26119767,-89.92424028,0,0,0,0,"Macoupin, Illinois, US"
-6039,Madera,California,US,2020-03-27 22:14:55,37.21513971,-119.76655890000002,10,0,0,0,"Madera, California, US"
+6039,Madera,California,US,2020-03-27 22:14:55,37.21513971,-119.76655890000002,10,1,0,0,"Madera, California, US"
 1089,Madison,Alabama,US,2020-03-27 22:14:55,34.76327133,-86.55069633,74,1,0,0,"Madison, Alabama, US"
 5087,Madison,Arkansas,US,2020-03-27 22:14:55,36.01038185,-93.72524943,0,0,0,0,"Madison, Arkansas, US"
 12079,Madison,Florida,US,2020-03-27 22:14:55,30.44396917,-83.47398594,0,0,0,0,"Madison, Florida, US"
@@ -2438,7 +2438,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18137,Ripley,Indiana,US,2020-03-27 22:14:55,39.10235626,-85.26212744,14,0,0,0,"Ripley, Indiana, US"
 29181,Ripley,Missouri,US,2020-03-27 22:14:55,36.65460667,-90.85990261,0,0,0,0,"Ripley, Missouri, US"
 54085,Ritchie,West Virginia,US,2020-03-27 22:14:55,39.18094587,-81.06356878,0,0,0,0,"Ritchie, West Virginia, US"
-6065,Riverside,California,US,2020-03-27 22:14:55,33.74314981,-115.9933578,126,8,0,0,"Riverside, California, US"
+6065,Riverside,California,US,2020-03-27 22:14:55,33.74314981,-115.9933578,126,7,0,0,"Riverside, California, US"
 47145,Roane,Tennessee,US,2020-03-27 22:14:55,35.84923189,-84.52458689,1,0,0,0,"Roane, Tennessee, US"
 54087,Roane,West Virginia,US,2020-03-27 22:14:55,38.71622686,-81.35243568,0,0,0,0,"Roane, West Virginia, US"
 51161,Roanoke,Virginia,US,2020-03-27 22:14:55,37.26865804,-80.06396753,1,0,0,0,"Roanoke, Virginia, US"
@@ -2505,9 +2505,9 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-03-27 22:14:55,34.98820368,-78.36914061,1,0,0,0,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,2020-03-27 22:14:55,31.39457611,-94.17000399,0,0,0,0,"San Augustine, Texas, US"
 6069,San Benito,California,US,2020-03-27 22:14:55,36.60308176,-121.069975,7,1,0,0,"San Benito, California, US"
-6071,San Bernardino,California,US,2020-03-27 22:14:55,34.84060306,-116.1774685,77,3,0,0,"San Bernardino, California, US"
+6071,San Bernardino,California,US,2020-03-27 22:14:55,34.84060306,-116.1774685,77,2,0,0,"San Bernardino, California, US"
 6073,San Diego,California,US,2020-03-27 22:14:55,33.03484597,-116.73653259999999,341,3,0,0,"San Diego, California, US"
-6075,San Francisco,California,US,2020-03-27 22:14:55,37.75215114,-122.43856720000001,285,3,0,0,"San Francisco, California, US"
+6075,San Francisco,California,US,2020-03-27 22:14:55,37.75215114,-122.43856720000001,285,2,0,0,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-03-27 22:14:55,30.57933681,-95.16260304,0,0,0,0,"San Jacinto, Texas, US"
 6077,San Joaquin,California,US,2020-03-27 22:14:55,37.93433732,-121.2730061,76,3,0,0,"San Joaquin, California, US"
 8111,San Juan,Colorado,US,2020-03-27 22:14:55,37.76248981,-107.67632890000002,0,0,0,0,"San Juan, Colorado, US"
@@ -2515,7 +2515,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 49037,San Juan,Utah,US,2020-03-27 22:14:55,37.62762978,-109.80337140000002,0,0,0,0,"San Juan, Utah, US"
 53055,San Juan,Washington,US,2020-03-27 22:14:55,48.60182783,-122.96745,2,0,0,0,"San Juan, Washington, US"
 6079,San Luis Obispo,California,US,2020-03-27 22:14:55,35.38822029,-120.4039028,46,0,0,0,"San Luis Obispo, California, US"
-6081,San Mateo,California,US,2020-03-27 22:14:55,37.422880799999994,-122.32755459999998,215,6,0,0,"San Mateo, California, US"
+6081,San Mateo,California,US,2020-03-27 22:14:55,37.422880799999994,-122.32755459999998,215,7,0,0,"San Mateo, California, US"
 8113,San Miguel,Colorado,US,2020-03-27 22:14:55,38.00450883,-108.4020725,1,0,0,0,"San Miguel, Colorado, US"
 35047,San Miguel,New Mexico,US,2020-03-27 22:14:55,35.48014807,-104.8163562,1,0,0,0,"San Miguel, New Mexico, US"
 48409,San Patricio,Texas,US,2020-03-27 22:14:55,28.00880118,-97.51763891,2,0,0,0,"San Patricio, Texas, US"
@@ -2919,7 +2919,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37181,Vance,North Carolina,US,2020-03-27 22:14:55,36.36880673,-78.40670845,2,0,0,0,"Vance, North Carolina, US"
 18163,Vanderburgh,Indiana,US,2020-03-27 22:14:55,38.02658833,-87.58763124,6,0,0,0,"Vanderburgh, Indiana, US"
 42121,Venango,Pennsylvania,US,2020-03-27 22:14:55,41.40323442,-79.75845449,0,0,0,0,"Venango, Pennsylvania, US"
-6111,Ventura,California,US,2020-03-27 22:14:55,34.44465746,-119.09106129999999,80,1,0,0,"Ventura, California, US"
+6111,Ventura,California,US,2020-03-27 22:14:55,34.44465746,-119.09106129999999,80,2,0,0,"Ventura, California, US"
 17183,Vermilion,Illinois,US,2020-03-27 22:14:55,40.18417171,-87.73384359,0,0,0,0,"Vermilion, Illinois, US"
 22113,Vermilion,Louisiana,US,2020-03-27 22:14:55,29.83517605,-92.30292538,2,0,0,0,"Vermilion, Louisiana, US"
 18165,Vermillion,Indiana,US,2020-03-27 22:14:55,39.8523352,-87.46160542,0,0,0,0,"Vermillion, Indiana, US"
@@ -3297,7 +3297,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Cote d'Ivoire,2020-03-27 23:23:03,7.54,-5.5471,101,0,3,98,Cote d'Ivoire
 ,,,Croatia,2020-03-27 23:23:03,45.1,15.2,586,3,37,546,Croatia
 ,,,Cuba,2020-03-27 23:23:03,21.521757,-77.78116700000002,80,2,4,74,Cuba
-,,,Cyprus,2020-03-27 23:23:03,35.1264,33.4299,162,5,15,142,Cyprus
+,,,Cyprus,2020-03-27 23:23:03,35.1264,33.4299,146,3,15,142,Cyprus
 ,,,Czechia,2020-03-27 23:23:03,49.8175,15.472999999999999,2279,9,11,2259,Czechia
 ,,,Denmark,2020-03-27 23:23:03,56.2639,9.5018,2046,52,1,1993,Denmark
 ,,,Diamond Princess,2020-03-27 23:23:03,0.0,0.0,712,10,597,105,Diamond Princess
@@ -3320,7 +3320,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Georgia,2020-03-27 23:23:03,42.3154,43.3569,83,0,14,69,Georgia
 ,,,Germany,2020-03-27 23:23:03,51.165690999999995,10.451526,50871,342,6658,43871,Germany
 ,,,Ghana,2020-03-27 23:23:03,7.9465,-1.0232,137,4,2,131,Ghana
-,,,Greece,2020-03-27 23:23:03,39.0742,21.8243,966,28,52,886,Greece
+,,,Greece,2020-03-27 23:23:03,39.0742,21.8243,835,22,52,886,Greece
 ,,,Grenada,2020-03-27 23:23:03,12.1165,-61.678999999999995,7,0,0,7,Grenada
 ,,,Guatemala,2020-03-27 23:23:03,15.7835,-90.2308,28,1,4,23,Guatemala
 ,,,Guinea,2020-03-27 23:23:03,9.9456,-9.6966,8,0,0,8,Guinea
@@ -3352,7 +3352,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Lebanon,2020-03-27 23:23:03,33.8547,35.8623,391,8,27,356,Lebanon
 ,,,Liberia,2020-03-27 23:23:03,6.4280550000000005,-9.429499,3,0,0,3,Liberia
 ,,,Libya,2020-03-27 23:23:03,26.3351,17.228331,1,0,0,1,Libya
-,,,Liechtenstein,2020-03-27 23:23:03,47.14,9.55,56,0,0,56,Liechtenstein
+,,,Liechtenstein,2020-03-27 23:23:03,47.14,9.55,61,0,0,56,Liechtenstein
 ,,,Lithuania,2020-03-27 23:23:03,55.1694,23.8813,292,4,0,352,Lithuania
 ,,,Luxembourg,2020-03-27 23:23:03,49.8153,6.1296,1605,15,40,1550,Luxembourg
 ,,,Madagascar,2020-03-27 23:23:03,-18.766947000000002,46.869107,26,0,0,26,Madagascar
@@ -3452,3 +3452,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,W.P. Labuan,Malaysia,2020-03-27 22:14:55,5.2831,115.2308,5,0,0,0,"W.P. Labuan, Malaysia"
 ,,W.P. Putrajaya,Malaysia,2020-03-27 22:14:55,2.9264,101.6964,20,1,5,0,"W.P. Putrajaya, Malaysia"
 ,,Unknown,Malaysia,2020-03-27 22:14:55,,,0,0,0,0,"Unknown, Malaysia"
+,,,Tonga,2020-03-27 22:14:55,-21.179,-175.1982,0,0,0,0,Tonga

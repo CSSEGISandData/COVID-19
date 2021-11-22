@@ -14,19 +14,19 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,164689383
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,287371
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,9449321
-56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,11589616
-5601,BE,BEL,56,,,Antwerp,Belgium,51.2195,4.4024,"Antwerp, Belgium",1857986
-5602,BE,BEL,56,,,Brussels,Belgium,50.8503,4.3517,"Brussels, Belgium",1208542
-5603,BE,BEL,56,,,East Flanders,Belgium,51.0362,3.7373,"East Flanders, Belgium",1515064
-5604,BE,BEL,56,,,Flemish Brabant,Belgium,50.9167,4.5833,"Flemish Brabant, Belgium",1146175
-5605,BE,BEL,56,,,Hainaut,Belgium,50.5257,4.0621,"Hainaut, Belgium",1344241
-5606,BE,BEL,56,,,Liege,Belgium,50.4496,5.8492,"Liege, Belgium",1106992
-5607,BE,BEL,56,,,Limburg,Belgium,50.9739,5.342,"Limburg, Belgium",874048
-5608,BE,BEL,56,,,Luxembourg,Belgium,50.0547,5.4677,"Luxembourg, Belgium",284638
-5609,BE,BEL,56,,,Namur,Belgium,50.331,4.8221,"Namur, Belgium",494325
+56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,11492641
+5601,BE,BEL,56,,,Antwerp,Belgium,51.2195,4.4024,"Antwerp, Belgium",1869730
+5602,BE,BEL,56,,,Brussels,Belgium,50.8503,4.3517,"Brussels, Belgium",1218255
+5603,BE,BEL,56,,,East Flanders,Belgium,51.0362,3.7373,"East Flanders, Belgium",1525255
+5604,BE,BEL,56,,,Flemish Brabant,Belgium,50.9167,4.5833,"Flemish Brabant, Belgium",1155843
+5605,BE,BEL,56,,,Hainaut,Belgium,50.5257,4.0621,"Hainaut, Belgium",1346840
+5606,BE,BEL,56,,,Liege,Belgium,50.4496,5.8492,"Liege, Belgium",1109800
+5607,BE,BEL,56,,,Limburg,Belgium,50.9739,5.342,"Limburg, Belgium",877370
+5608,BE,BEL,56,,,Luxembourg,Belgium,50.0547,5.4677,"Luxembourg, Belgium",286752
+5609,BE,BEL,56,,,Namur,Belgium,50.331,4.8221,"Namur, Belgium",495832
 5610,BE,BEL,56,,,Unknown,Belgium,,,"Unknown, Belgium",
-5611,BE,BEL,56,,,Walloon Brabant,Belgium,50.4,4.35,"Walloon Brabant, Belgium",403599
-5612,BE,BEL,56,,,West Flanders,Belgium,51.0536,3.1458,"West Flanders, Belgium",1195796
+5611,BE,BEL,56,,,Walloon Brabant,Belgium,50.4,4.35,"Walloon Brabant, Belgium",406019
+5612,BE,BEL,56,,,West Flanders,Belgium,51.0536,3.1458,"West Flanders, Belgium",1200945
 84,BZ,BLZ,84,,,,Belize,17.1899,-88.4976,Belize,397621
 204,BJ,BEN,204,,,,Benin,9.3077,2.3158,Benin,12123198
 64,BT,BTN,64,,,,Bhutan,27.5142,90.4336,Bhutan,771612
@@ -134,7 +134,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 192,CU,CUB,192,,,,Cuba,21.521757,-77.781167,Cuba,11326616
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,1207361
 203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,10708982
-208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,5792203
+208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,5837213
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",48865
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",56772
 9999,,,,,,,Diamond Princess,,,Diamond Princess,
@@ -151,7 +151,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,114963583
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,896444
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,5540718
-250,FR,FRA,250,,,,France,46.2276,2.2137,France,65273512
+250,FR,FRA,250,,,,France,46.2276,2.2137,France,65249843
 254,GF,GUF,254,,,French Guiana,France,4,-53,"French Guiana, France",298682
 258,PF,PYF,258,,,French Polynesia,France,-17.6797,-149.4068,"French Polynesia, France",280904
 312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",400127
@@ -166,23 +166,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2225728
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2416664
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,3989175
-276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,83783945
-27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",11069533
-27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",13076721
-27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",3644826
-27604,DE,DEU,276,,,Brandenburg,Germany,52.4125,12.5316,"Brandenburg, Germany",2511917
-27605,DE,DEU,276,,,Bremen,Germany,53.0793,8.8017,"Bremen, Germany",682986
-27606,DE,DEU,276,,,Hamburg,Germany,53.5511,9.9937,"Hamburg, Germany",1841179
-27607,DE,DEU,276,,,Hessen,Germany,50.6521,9.1624,"Hessen, Germany",6265809
-27608,DE,DEU,276,,,Mecklenburg-Vorpommern,Germany,53.6127,12.4296,"Mecklenburg-Vorpommern, Germany",1609675
-27609,DE,DEU,276,,,Niedersachsen,Germany,52.6367,9.8451,"Niedersachsen, Germany",7982448
-27610,DE,DEU,276,,,Nordrhein-Westfalen,Germany,51.4332,7.6616,"Nordrhein-Westfalen, Germany",17932651
-27611,DE,DEU,276,,,Rheinland-Pfalz,Germany,50.1183,7.309,"Rheinland-Pfalz, Germany",4084844
-27612,DE,DEU,276,,,Saarland,Germany,49.3964,7.023,"Saarland, Germany",990509
-27613,DE,DEU,276,,,Sachsen,Germany,51.1045,13.2017,"Sachsen, Germany",4077937
-27614,DE,DEU,276,,,Sachsen-Anhalt,Germany,51.9503,11.6923,"Sachsen-Anhalt, Germany",2208321
-27615,DE,DEU,276,,,Schleswig-Holstein,Germany,54.2194,9.6961,"Schleswig-Holstein, Germany",2896712
-27616,DE,DEU,276,,,Thuringen,Germany,51.011,10.8453,"Thuringen, Germany",2143145
+276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,83155031
+27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",11103043
+27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",13140183
+27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",3664088
+27604,DE,DEU,276,,,Brandenburg,Germany,52.4125,12.5316,"Brandenburg, Germany",2531071
+27605,DE,DEU,276,,,Bremen,Germany,53.0793,8.8017,"Bremen, Germany",680130
+27606,DE,DEU,276,,,Hamburg,Germany,53.5511,9.9937,"Hamburg, Germany",1852478
+27607,DE,DEU,276,,,Hessen,Germany,50.6521,9.1624,"Hessen, Germany",6293154
+27608,DE,DEU,276,,,Mecklenburg-Vorpommern,Germany,53.6127,12.4296,"Mecklenburg-Vorpommern, Germany",1610774
+27609,DE,DEU,276,,,Niedersachsen,Germany,52.6367,9.8451,"Niedersachsen, Germany",8003421
+27610,DE,DEU,276,,,Nordrhein-Westfalen,Germany,51.4332,7.6616,"Nordrhein-Westfalen, Germany",17925570
+27611,DE,DEU,276,,,Rheinland-Pfalz,Germany,50.1183,7.309,"Rheinland-Pfalz, Germany",4098391
+27612,DE,DEU,276,,,Saarland,Germany,49.3964,7.023,"Saarland, Germany",983991
+27613,DE,DEU,276,,,Sachsen,Germany,51.1045,13.2017,"Sachsen, Germany",4056941
+27614,DE,DEU,276,,,Sachsen-Anhalt,Germany,51.9503,11.6923,"Sachsen-Anhalt, Germany",2180684
+27615,DE,DEU,276,,,Schleswig-Holstein,Germany,54.2194,9.6961,"Schleswig-Holstein, Germany",2910875
+27616,DE,DEU,276,,,Thuringen,Germany,51.011,10.8453,"Thuringen, Germany",2120237
 27617,DE,DEU,276,,,Unknown,Germany,,,"Unknown, Germany",
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,31072945
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,10423056
@@ -684,6 +684,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 764,TH,THA,764,,,,Thailand,15.870032,100.992541,Thailand,69799978
 626,TL,TLS,626,,,,Timor-Leste,-8.874217,125.727539,Timor-Leste,1318442
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,8278737
+776,TO,TON,776,,,,Tonga,-21.179,-175.1982,Tonga,105697
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,1399491
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,11818618
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,84339067
@@ -754,55 +755,55 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",535500
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",6629900
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2630600
-124,CA,CAN,124,,,,Canada,60,-95,Canada,37855702
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",4413146
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",5110917
-12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",1377517
-12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",779993
-12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",521365
-12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",44904
-12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",977457
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",14711827
-12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",158158
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",8537674
-12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",1181666
-12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135,"Yukon, Canada",41078
+124,CA,CAN,124,,,,Canada,60,-95,Canada,38246108
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",4442879
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",5214805
+12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",1383765
+12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",789225
+12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",520553
+12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",45504
+12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",992055
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",14826276
+12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",164318
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",8604495
+12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",1179844
+12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135,"Yukon, Canada",42986
 12413,CA,CAN,124,,,Diamond Princess,Canada,,,"Diamond Princess, Canada",
 12414,CA,CAN,124,,,Grand Princess,Canada,,,"Grand Princess, Canada",
 12415,CA,CAN,124,,,Recovered,Canada,,,"Recovered, Canada",
-12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",38780
-156,CN,CHN,156,,,,China,35.8617,104.19545,China,1404676330
-15601,CN,CHN,156,,,Anhui,China,31.8257,117.2264,"Anhui, China",63240000
-15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
-15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
-15604,CN,CHN,156,,,Fujian,China,26.0789,117.9874,"Fujian, China",39410000
-15605,CN,CHN,156,,,Gansu,China,35.7518,104.2861,"Gansu, China",26370000
-15606,CN,CHN,156,,,Guangdong,China,23.3417,113.4244,"Guangdong, China",113460000
-15607,CN,CHN,156,,,Guangxi,China,23.8298,108.7881,"Guangxi, China",49260000
-15608,CN,CHN,156,,,Guizhou,China,26.8154,106.8748,"Guizhou, China",36000000
-15609,CN,CHN,156,,,Hainan,China,19.1959,109.7453,"Hainan, China",9340000
-15610,CN,CHN,156,,,Hebei,China,37.8957,114.9042,"Hebei, China",75560000
-15611,CN,CHN,156,,,Heilongjiang,China,47.862,127.7615,"Heilongjiang, China",37730000
-15612,CN,CHN,156,,,Henan,China,33.882,113.614,"Henan, China",96050000
-15613,CN,CHN,156,,,Hubei,China,30.9756,112.2707,"Hubei, China",59170000
-15614,CN,CHN,156,,,Hunan,China,27.6104,111.7088,"Hunan, China",68990000
-15615,CN,CHN,156,,,Inner Mongolia,China,44.0935,113.9448,"Inner Mongolia, China",25340000
-15616,CN,CHN,156,,,Jiangsu,China,32.9711,119.455,"Jiangsu, China",80510000
-15617,CN,CHN,156,,,Jiangxi,China,27.614,115.7221,"Jiangxi, China",46480000
-15618,CN,CHN,156,,,Jilin,China,43.6661,126.1923,"Jilin, China",27040000
-15619,CN,CHN,156,,,Liaoning,China,41.2956,122.6085,"Liaoning, China",43590000
-15620,CN,CHN,156,,,Ningxia,China,37.2692,106.1655,"Ningxia, China",6880000
-15621,CN,CHN,156,,,Qinghai,China,35.7452,95.9956,"Qinghai, China",6030000
-15622,CN,CHN,156,,,Shaanxi,China,35.1917,108.8701,"Shaanxi, China",38640000
-15623,CN,CHN,156,,,Shandong,China,36.3427,118.1498,"Shandong, China",100470000
-15624,CN,CHN,156,,,Shanghai,China,31.202,121.4491,"Shanghai, China",24240000
-15625,CN,CHN,156,,,Shanxi,China,37.5777,112.2922,"Shanxi, China",37180000
-15626,CN,CHN,156,,,Sichuan,China,30.6171,102.7103,"Sichuan, China",83410000
-15627,CN,CHN,156,,,Tianjin,China,39.3054,117.323,"Tianjin, China",15600000
-15628,CN,CHN,156,,,Tibet,China,31.6927,88.0924,"Tibet, China",3440000
-15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",24870000
-15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",48300000
-15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",57370000
+12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",39403
+156,CN,CHN,156,,,,China,35.8617,104.19545,China,1411778724
+15601,CN,CHN,156,,,Anhui,China,31.8257,117.2264,"Anhui, China",61027171
+15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21893095
+15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",32054159
+15604,CN,CHN,156,,,Fujian,China,26.0789,117.9874,"Fujian, China",41540086
+15605,CN,CHN,156,,,Gansu,China,35.7518,104.2861,"Gansu, China",25019831
+15606,CN,CHN,156,,,Guangdong,China,23.3417,113.4244,"Guangdong, China",126012510
+15607,CN,CHN,156,,,Guangxi,China,23.8298,108.7881,"Guangxi, China",50126804
+15608,CN,CHN,156,,,Guizhou,China,26.8154,106.8748,"Guizhou, China",38562148
+15609,CN,CHN,156,,,Hainan,China,19.1959,109.7453,"Hainan, China",10081232
+15610,CN,CHN,156,,,Hebei,China,37.8957,114.9042,"Hebei, China",74610235
+15611,CN,CHN,156,,,Heilongjiang,China,47.862,127.7615,"Heilongjiang, China",31850088
+15612,CN,CHN,156,,,Henan,China,33.882,113.614,"Henan, China",99365519
+15613,CN,CHN,156,,,Hubei,China,30.9756,112.2707,"Hubei, China",57752557
+15614,CN,CHN,156,,,Hunan,China,27.6104,111.7088,"Hunan, China",66444864
+15615,CN,CHN,156,,,Inner Mongolia,China,44.0935,113.9448,"Inner Mongolia, China",24049155
+15616,CN,CHN,156,,,Jiangsu,China,32.9711,119.455,"Jiangsu, China",84748016
+15617,CN,CHN,156,,,Jiangxi,China,27.614,115.7221,"Jiangxi, China",45188635
+15618,CN,CHN,156,,,Jilin,China,43.6661,126.1923,"Jilin, China",24073453
+15619,CN,CHN,156,,,Liaoning,China,41.2956,122.6085,"Liaoning, China",42591407
+15620,CN,CHN,156,,,Ningxia,China,37.2692,106.1655,"Ningxia, China",7202654
+15621,CN,CHN,156,,,Qinghai,China,35.7452,95.9956,"Qinghai, China",5923957
+15622,CN,CHN,156,,,Shaanxi,China,35.1917,108.8701,"Shaanxi, China",39528999
+15623,CN,CHN,156,,,Shandong,China,36.3427,118.1498,"Shandong, China",101527453
+15624,CN,CHN,156,,,Shanghai,China,31.202,121.4491,"Shanghai, China",24870895
+15625,CN,CHN,156,,,Shanxi,China,37.5777,112.2922,"Shanxi, China",34915616
+15626,CN,CHN,156,,,Sichuan,China,30.6171,102.7103,"Sichuan, China",83674866
+15627,CN,CHN,156,,,Tianjin,China,39.3054,117.323,"Tianjin, China",13866009
+15628,CN,CHN,156,,,Tibet,China,31.6927,88.0924,"Tibet, China",3648100
+15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",25852345
+15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",47209277
+15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",64567588
 15699,CN,CHN,156,,,Unknown,China,,,"Unknown, China",
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",7496988
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",649342

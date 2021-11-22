@@ -1788,7 +1788,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 1091,Marengo,Alabama,US,3/30/20 22:52,32.24767634,-87.78796182,3,0,0,0,"Marengo, Alabama, US"
 4013,Maricopa,Arizona,US,3/30/20 22:52,33.34835867,-112.4918154,690,5,0,0,"Maricopa, Arizona, US"
 29125,Maries,Missouri,US,3/30/20 22:52,38.16193985,-91.92249662,1,0,0,0,"Maries, Missouri, US"
-6041,Marin,California,US,3/30/20 22:52,38.07122463,-122.7210631,78,1,0,0,"Marin, California, US"
+6041,Marin,California,US,3/30/20 22:52,38.07122463,-122.7210631,78,0,0,0,"Marin, California, US"
 55075,Marinette,Wisconsin,US,3/30/20 22:52,45.38553432,-88.033246,1,0,0,0,"Marinette, Wisconsin, US"
 1093,Marion,Alabama,US,3/30/20 22:52,34.13697363,-87.88704173,11,0,0,0,"Marion, Alabama, US"
 5089,Marion,Arkansas,US,3/30/20 22:52,36.26844485,-92.68451899,0,0,0,0,"Marion, Arkansas, US"
@@ -2438,7 +2438,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18137,Ripley,Indiana,US,3/30/20 22:52,39.10235626,-85.26212744,25,0,0,0,"Ripley, Indiana, US"
 29181,Ripley,Missouri,US,3/30/20 22:52,36.65460667,-90.85990261,2,0,0,0,"Ripley, Missouri, US"
 54085,Ritchie,West Virginia,US,3/30/20 22:52,39.18094587,-81.06356878,0,0,0,0,"Ritchie, West Virginia, US"
-6065,Riverside,California,US,3/30/20 22:52,33.74314981,-115.9933578,209,9,0,0,"Riverside, California, US"
+6065,Riverside,California,US,3/30/20 22:52,33.74314981,-115.9933578,209,7,0,0,"Riverside, California, US"
 47145,Roane,Tennessee,US,3/30/20 22:52,35.84923189,-84.52458689,2,0,0,0,"Roane, Tennessee, US"
 54087,Roane,West Virginia,US,3/30/20 22:52,38.71622686,-81.35243568,2,0,0,0,"Roane, West Virginia, US"
 51161,Roanoke,Virginia,US,3/30/20 22:52,37.26865804,-80.06396753,2,0,0,0,"Roanoke, Virginia, US"
@@ -2489,7 +2489,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22085,Sabine,Louisiana,US,3/30/20 22:52,31.56388699,-93.55433981,1,0,0,0,"Sabine, Louisiana, US"
 48403,Sabine,Texas,US,3/30/20 22:52,31.34318809,-93.85440451,0,0,0,0,"Sabine, Texas, US"
 19161,Sac,Iowa,US,3/30/20 22:52,42.38624071,-95.10547892,0,0,0,0,"Sac, Iowa, US"
-6067,Sacramento,California,US,3/30/20 22:52,38.45106826,-121.3425374,237,7,0,0,"Sacramento, California, US"
+6067,Sacramento,California,US,3/30/20 22:52,38.45106826,-121.3425374,237,8,0,0,"Sacramento, California, US"
 23023,Sagadahoc,Maine,US,3/30/20 22:52,43.95415864,-69.85074999,7,0,0,0,"Sagadahoc, Maine, US"
 26145,Saginaw,Michigan,US,3/30/20 22:52,43.33433923,-84.0513121,36,0,0,0,"Saginaw, Michigan, US"
 8109,Saguache,Colorado,US,3/30/20 22:52,38.08054629,-106.282466,0,0,0,0,"Saguache, Colorado, US"
@@ -2505,17 +2505,17 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,3/30/20 22:52,34.98820368,-78.36914061,1,0,0,0,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,3/30/20 22:52,31.39457611,-94.17000399,0,0,0,0,"San Augustine, Texas, US"
 6069,San Benito,California,US,3/30/20 22:52,36.60308176,-121.069975,9,1,0,0,"San Benito, California, US"
-6071,San Bernardino,California,US,3/30/20 22:52,34.84060306,-116.1774685,145,3,0,0,"San Bernardino, California, US"
+6071,San Bernardino,California,US,3/30/20 22:52,34.84060306,-116.1774685,145,4,0,0,"San Bernardino, California, US"
 6073,San Diego,California,US,3/30/20 22:52,33.03484597,-116.7365326,515,7,0,0,"San Diego, California, US"
-6075,San Francisco,California,US,3/30/20 22:52,37.75215114,-122.4385672,368,6,0,0,"San Francisco, California, US"
+6075,San Francisco,California,US,3/30/20 22:52,37.75215114,-122.4385672,368,5,0,0,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,3/30/20 22:52,30.57933681,-95.16260304,1,0,0,0,"San Jacinto, Texas, US"
-6077,San Joaquin,California,US,3/30/20 22:52,37.93433732,-121.2730061,115,6,0,0,"San Joaquin, California, US"
+6077,San Joaquin,California,US,3/30/20 22:52,37.93433732,-121.2730061,115,5,0,0,"San Joaquin, California, US"
 8111,San Juan,Colorado,US,3/30/20 22:52,37.76248981,-107.6763289,0,0,0,0,"San Juan, Colorado, US"
 35045,San Juan,New Mexico,US,3/30/20 22:52,36.50838318,-108.320437,22,0,0,0,"San Juan, New Mexico, US"
 49037,San Juan,Utah,US,3/30/20 22:52,37.62762978,-109.8033714,4,0,0,0,"San Juan, Utah, US"
 53055,San Juan,Washington,US,3/30/20 22:52,48.60182783,-122.96745,4,0,0,0,"San Juan, Washington, US"
 6079,San Luis Obispo,California,US,3/30/20 22:52,35.38822029,-120.4039028,62,0,0,0,"San Luis Obispo, California, US"
-6081,San Mateo,California,US,3/30/20 22:52,37.4228808,-122.3275546,259,6,0,0,"San Mateo, California, US"
+6081,San Mateo,California,US,3/30/20 22:52,37.4228808,-122.3275546,259,11,0,0,"San Mateo, California, US"
 8113,San Miguel,Colorado,US,3/30/20 22:52,38.00450883,-108.4020725,1,0,0,0,"San Miguel, Colorado, US"
 35047,San Miguel,New Mexico,US,3/30/20 22:52,35.48014807,-104.8163562,1,0,0,0,"San Miguel, New Mexico, US"
 48409,San Patricio,Texas,US,3/30/20 22:52,28.00880118,-97.51763891,2,0,0,0,"San Patricio, Texas, US"
@@ -2924,7 +2924,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37181,Vance,North Carolina,US,3/30/20 22:52,36.36880673,-78.40670845,3,0,0,0,"Vance, North Carolina, US"
 18163,Vanderburgh,Indiana,US,3/30/20 22:52,38.02658833,-87.58763124,17,0,0,0,"Vanderburgh, Indiana, US"
 42121,Venango,Pennsylvania,US,3/30/20 22:52,41.40323442,-79.75845449,1,0,0,0,"Venango, Pennsylvania, US"
-6111,Ventura,California,US,3/30/20 22:52,34.44465746,-119.0910613,118,4,0,0,"Ventura, California, US"
+6111,Ventura,California,US,3/30/20 22:52,34.44465746,-119.0910613,118,2,0,0,"Ventura, California, US"
 17183,Vermilion,Illinois,US,3/30/20 22:52,40.18417171,-87.73384359,0,0,0,0,"Vermilion, Illinois, US"
 22113,Vermilion,Louisiana,US,3/30/20 22:52,29.83517605,-92.30292538,3,1,0,0,"Vermilion, Louisiana, US"
 18165,Vermillion,Indiana,US,3/30/20 22:52,39.8523352,-87.46160542,0,0,0,0,"Vermillion, Indiana, US"
@@ -3306,7 +3306,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Cote d'Ivoire,3/30/20 22:52,7.54,-5.5471,168,1,6,161,Cote d'Ivoire
 ,,,Croatia,3/30/20 22:52,45.1,15.2,790,6,67,717,Croatia
 ,,,Cuba,3/30/20 22:52,21.521757,-77.781167,170,4,4,162,Cuba
-,,,Cyprus,3/30/20 22:52,35.1264,33.4299,230,7,22,201,Cyprus
+,,,Cyprus,3/30/20 22:52,35.1264,33.4299,214,6,22,201,Cyprus
 ,,,Czechia,3/30/20 22:52,49.8175,15.473,3001,23,25,2953,Czechia
 ,,,Denmark,3/30/20 22:52,56.2639,9.5018,2577,77,1,2499,Denmark
 ,,,Diamond Princess,3/30/20 22:52,0.0,0.0,712,10,603,99,Diamond Princess
@@ -3329,7 +3329,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Georgia,3/30/20 22:52,42.3154,43.3569,103,0,20,83,Georgia
 ,,,Germany,3/30/20 22:52,51.165691,10.451526,66885,645,13500,52740,Germany
 ,,,Ghana,3/30/20 22:52,7.9465,-1.0232,152,5,2,145,Ghana
-,,,Greece,3/30/20 22:52,39.0742,21.8243,1212,43,52,1117,Greece
+,,,Greece,3/30/20 22:52,39.0742,21.8243,1156,38,52,1117,Greece
 ,,,Grenada,3/30/20 22:52,12.1165,-61.679,9,0,0,9,Grenada
 ,,,Guatemala,3/30/20 22:52,15.7835,-90.2308,36,1,10,25,Guatemala
 ,,,Guinea,3/30/20 22:52,9.9456,-9.6966,22,0,0,22,Guinea
@@ -3361,7 +3361,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Lebanon,3/30/20 22:52,33.8547,35.8623,446,11,35,400,Lebanon
 ,,,Liberia,3/30/20 22:52,6.428055,-9.429499,3,0,0,3,Liberia
 ,,,Libya,3/30/20 22:52,26.3351,17.228331,8,0,0,8,Libya
-,,,Liechtenstein,3/30/20 22:52,47.14,9.55,62,0,0,62,Liechtenstein
+,,,Liechtenstein,3/30/20 22:52,47.14,9.55,65,0,0,62,Liechtenstein
 ,,,Lithuania,3/30/20 22:52,55.1694,23.8813,424,4,0,477,Lithuania
 ,,,Luxembourg,3/30/20 22:52,49.8153,6.1296,1988,22,40,1926,Luxembourg
 ,,,MS Zaandam,3/30/20 22:52,0.0,0.0,2,0,0,2,",,MS Zaandam"
@@ -3462,3 +3462,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,W.P. Labuan,Malaysia,3/30/20 22:52,5.2831,115.2308,10,0,1,0,"W.P. Labuan, Malaysia"
 ,,W.P. Putrajaya,Malaysia,3/30/20 22:52,2.9264,101.6964,25,1,5,0,"W.P. Putrajaya, Malaysia"
 ,,Unknown,Malaysia,3/30/20 22:52,,,0,0,0,0,"Unknown, Malaysia"
+,,,Tonga,3/30/20 22:52,-21.179,-175.1982,0,0,0,0,Tonga
