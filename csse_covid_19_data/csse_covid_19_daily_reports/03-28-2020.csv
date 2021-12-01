@@ -623,7 +623,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22029,Concordia,Louisiana,US,3/28/20 23:05,31.44817835,-91.63814433,0,0,0,0,"Concordia, Louisiana, US"
 1035,Conecuh,Alabama,US,3/28/20 23:05,31.43401703,-86.99320044,0,0,0,0,"Conecuh, Alabama, US"
 8021,Conejos,Colorado,US,3/28/20 23:05,37.201606,-106.1917488,0,0,0,0,"Conejos, Colorado, US"
-6013,Contra Costa,California,US,3/28/20 23:05,37.91923498,-121.9289527,350,2,0,0,"Contra Costa, California, US"
+6013,Contra Costa,California,US,3/28/20 23:05,37.91923498,-121.9289527,350,4,0,0,"Contra Costa, California, US"
 56009,Converse,Wyoming,US,3/28/20 23:05,42.97272268,-105.5081848,1,0,0,0,"Converse, Wyoming, US"
 5029,Conway,Arkansas,US,3/28/20 23:05,35.26205537,-92.70506566,1,0,0,0,"Conway, Arkansas, US"
 13075,Cook,Georgia,US,3/28/20 23:05,31.16068491,-83.42947229,0,0,0,0,"Cook, Georgia, US"
@@ -1752,7 +1752,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37113,Macon,North Carolina,US,3/28/20 23:05,35.14867843,-83.41696617,0,0,0,0,"Macon, North Carolina, US"
 47111,Macon,Tennessee,US,3/28/20 23:05,36.53157855,-86.00778595,2,0,0,0,"Macon, Tennessee, US"
 17117,Macoupin,Illinois,US,3/28/20 23:05,39.26119767,-89.92424028,0,0,0,0,"Macoupin, Illinois, US"
-6039,Madera,California,US,3/28/20 23:05,37.21513971,-119.7665589,22,1,0,0,"Madera, California, US"
+6039,Madera,California,US,3/28/20 23:05,37.21513971,-119.7665589,22,2,0,0,"Madera, California, US"
 1089,Madison,Alabama,US,3/28/20 23:05,34.76327133,-86.55069633,85,1,0,0,"Madison, Alabama, US"
 5087,Madison,Arkansas,US,3/28/20 23:05,36.01038185,-93.72524943,0,0,0,0,"Madison, Arkansas, US"
 12079,Madison,Florida,US,3/28/20 23:05,30.44396917,-83.47398594,0,0,0,0,"Madison, Florida, US"
@@ -1788,7 +1788,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 1091,Marengo,Alabama,US,3/28/20 23:05,32.24767634,-87.78796182,3,0,0,0,"Marengo, Alabama, US"
 4013,Maricopa,Arizona,US,3/28/20 23:05,33.34835867,-112.4918154,454,5,0,0,"Maricopa, Arizona, US"
 29125,Maries,Missouri,US,3/28/20 23:05,38.16193985,-91.92249662,0,0,0,0,"Maries, Missouri, US"
-6041,Marin,California,US,3/28/20 23:05,38.07122463,-122.7210631,116,1,0,0,"Marin, California, US"
+6041,Marin,California,US,3/28/20 23:05,38.07122463,-122.7210631,116,0,0,0,"Marin, California, US"
 55075,Marinette,Wisconsin,US,3/28/20 23:05,45.38553432,-88.033246,1,0,0,0,"Marinette, Wisconsin, US"
 1093,Marion,Alabama,US,3/28/20 23:05,34.13697363,-87.88704173,10,0,0,0,"Marion, Alabama, US"
 5089,Marion,Arkansas,US,3/28/20 23:05,36.26844485,-92.68451899,0,0,0,0,"Marion, Arkansas, US"
@@ -1952,7 +1952,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 4015,Mohave,Arizona,US,3/28/20 23:05,35.70471703,-113.7577902,5,0,0,0,"Mohave, Arizona, US"
 29135,Moniteau,Missouri,US,3/28/20 23:05,38.63571781,-92.57976951,3,0,0,0,"Moniteau, Missouri, US"
 34025,Monmouth,New Jersey,US,3/28/20 23:05,40.26549699,-74.22240686,781,6,0,0,"Monmouth, New Jersey, US"
-6051,Mono,California,US,3/28/20 23:05,37.93899289,-118.8872409,8,0,0,0,"Mono, California, US"
+6051,Mono,California,US,3/28/20 23:05,37.93899289,-118.8872409,12,0,0,0,"Mono, California, US"
 19133,Monona,Iowa,US,3/28/20 23:05,42.05220391,-95.95743843,2,0,0,0,"Monona, Iowa, US"
 54061,Monongalia,West Virginia,US,3/28/20 23:05,39.63218457,-80.04766838,23,0,0,0,"Monongalia, West Virginia, US"
 1099,Monroe,Alabama,US,3/28/20 23:05,31.56729412,-87.36995001,2,0,0,0,"Monroe, Alabama, US"
@@ -1974,7 +1974,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55081,Monroe,Wisconsin,US,3/28/20 23:05,43.94641218,-90.618819,1,0,0,0,"Monroe, Wisconsin, US"
 48337,Montague,Texas,US,3/28/20 23:05,33.67521893,-97.72500958,1,0,0,0,"Montague, Texas, US"
 26117,Montcalm,Michigan,US,3/28/20 23:05,43.31082541,-85.15252824,3,0,0,0,"Montcalm, Michigan, US"
-6053,Monterey,California,US,3/28/20 23:05,36.21862405,-121.2413397,64,1,0,0,"Monterey, California, US"
+6053,Monterey,California,US,3/28/20 23:05,36.21862405,-121.2413397,64,2,0,0,"Monterey, California, US"
 8083,Montezuma,Colorado,US,3/28/20 23:05,37.33859579,-108.5958857,0,0,0,0,"Montezuma, Colorado, US"
 1101,Montgomery,Alabama,US,3/28/20 23:05,32.2206831,-86.20969272,19,0,0,0,"Montgomery, Alabama, US"
 5097,Montgomery,Arkansas,US,3/28/20 23:05,34.53704874,-93.65824478,0,0,0,0,"Montgomery, Arkansas, US"
@@ -2286,7 +2286,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 40121,Pittsburg,Oklahoma,US,3/28/20 23:05,34.92065823,-95.7513432,2,0,0,0,"Pittsburg, Oklahoma, US"
 51143,Pittsylvania,Virginia,US,3/28/20 23:05,36.81980341,-79.39731264,1,0,0,0,"Pittsylvania, Virginia, US"
 49031,Piute,Utah,US,3/28/20 23:05,38.33815254,-112.1249591,0,0,0,0,"Piute, Utah, US"
-6061,Placer,California,US,3/28/20 23:05,39.06167234,-120.7240569,70,1,0,0,"Placer, California, US"
+6061,Placer,California,US,3/28/20 23:05,39.06167234,-120.7240569,70,2,0,0,"Placer, California, US"
 22075,Plaquemines,Louisiana,US,3/28/20 23:05,29.42245447,-89.60322085,19,2,0,0,"Plaquemines, Louisiana, US"
 29165,Platte,Missouri,US,3/28/20 23:05,39.38154439,-94.77068479,6,0,0,0,"Platte, Missouri, US"
 31141,Platte,Nebraska,US,3/28/20 23:05,41.57246836,-97.52144359,0,0,0,0,"Platte, Nebraska, US"
@@ -2438,7 +2438,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18137,Ripley,Indiana,US,3/28/20 23:05,39.10235626,-85.26212744,15,0,0,0,"Ripley, Indiana, US"
 29181,Ripley,Missouri,US,3/28/20 23:05,36.65460667,-90.85990261,0,0,0,0,"Ripley, Missouri, US"
 54085,Ritchie,West Virginia,US,3/28/20 23:05,39.18094587,-81.06356878,0,0,0,0,"Ritchie, West Virginia, US"
-6065,Riverside,California,US,3/28/20 23:05,33.74314981,-115.9933578,247,8,0,0,"Riverside, California, US"
+6065,Riverside,California,US,3/28/20 23:05,33.74314981,-115.9933578,247,14,0,0,"Riverside, California, US"
 47145,Roane,Tennessee,US,3/28/20 23:05,35.84923189,-84.52458689,1,0,0,0,"Roane, Tennessee, US"
 54087,Roane,West Virginia,US,3/28/20 23:05,38.71622686,-81.35243568,0,0,0,0,"Roane, West Virginia, US"
 51161,Roanoke,Virginia,US,3/28/20 23:05,37.26865804,-80.06396753,2,0,0,0,"Roanoke, Virginia, US"
@@ -2489,7 +2489,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 22085,Sabine,Louisiana,US,3/28/20 23:05,31.56388699,-93.55433981,0,0,0,0,"Sabine, Louisiana, US"
 48403,Sabine,Texas,US,3/28/20 23:05,31.34318809,-93.85440451,0,0,0,0,"Sabine, Texas, US"
 19161,Sac,Iowa,US,3/28/20 23:05,42.38624071,-95.10547892,0,0,0,0,"Sac, Iowa, US"
-6067,Sacramento,California,US,3/28/20 23:05,38.45106826,-121.3425374,405,6,0,0,"Sacramento, California, US"
+6067,Sacramento,California,US,3/28/20 23:05,38.45106826,-121.3425374,405,14,0,0,"Sacramento, California, US"
 23023,Sagadahoc,Maine,US,3/28/20 23:05,43.95415864,-69.85074999,5,0,0,0,"Sagadahoc, Maine, US"
 26145,Saginaw,Michigan,US,3/28/20 23:05,43.33433923,-84.0513121,19,0,0,0,"Saginaw, Michigan, US"
 8109,Saguache,Colorado,US,3/28/20 23:05,38.08054629,-106.282466,0,0,0,0,"Saguache, Colorado, US"
@@ -2504,18 +2504,18 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 45081,Saluda,South Carolina,US,3/28/20 23:05,34.00795823,-81.72713237,1,0,0,0,"Saluda, South Carolina, US"
 37163,Sampson,North Carolina,US,3/28/20 23:05,34.98820368,-78.36914061,1,0,0,0,"Sampson, North Carolina, US"
 48405,San Augustine,Texas,US,3/28/20 23:05,31.39457611,-94.17000399,0,0,0,0,"San Augustine, Texas, US"
-6069,San Benito,California,US,3/28/20 23:05,36.60308176,-121.069975,18,1,0,0,"San Benito, California, US"
-6071,San Bernardino,California,US,3/28/20 23:05,34.84060306,-116.1774685,162,3,0,0,"San Bernardino, California, US"
+6069,San Benito,California,US,3/28/20 23:05,36.60308176,-121.069975,18,2,0,0,"San Benito, California, US"
+6071,San Bernardino,California,US,3/28/20 23:05,34.84060306,-116.1774685,162,4,0,0,"San Bernardino, California, US"
 6073,San Diego,California,US,3/28/20 23:05,33.03484597,-116.7365326,413,6,0,0,"San Diego, California, US"
-6075,San Francisco,California,US,3/28/20 23:05,37.75215114,-122.4385672,600,4,0,0,"San Francisco, California, US"
+6075,San Francisco,California,US,3/28/20 23:05,37.75215114,-122.4385672,600,6,0,0,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,3/28/20 23:05,30.57933681,-95.16260304,1,0,0,0,"San Jacinto, Texas, US"
-6077,San Joaquin,California,US,3/28/20 23:05,37.93433732,-121.2730061,169,4,0,0,"San Joaquin, California, US"
+6077,San Joaquin,California,US,3/28/20 23:05,37.93433732,-121.2730061,169,8,0,0,"San Joaquin, California, US"
 8111,San Juan,Colorado,US,3/28/20 23:05,37.76248981,-107.6763289,0,0,0,0,"San Juan, Colorado, US"
 35045,San Juan,New Mexico,US,3/28/20 23:05,36.50838318,-108.320437,18,0,0,0,"San Juan, New Mexico, US"
 49037,San Juan,Utah,US,3/28/20 23:05,37.62762978,-109.8033714,1,0,0,0,"San Juan, Utah, US"
 53055,San Juan,Washington,US,3/28/20 23:05,48.60182783,-122.96745,3,0,0,0,"San Juan, Washington, US"
 6079,San Luis Obispo,California,US,3/28/20 23:05,35.38822029,-120.4039028,104,0,0,0,"San Luis Obispo, California, US"
-6081,San Mateo,California,US,3/28/20 23:05,37.4228808,-122.3275546,464,6,0,0,"San Mateo, California, US"
+6081,San Mateo,California,US,3/28/20 23:05,37.4228808,-122.3275546,464,17,0,0,"San Mateo, California, US"
 8113,San Miguel,Colorado,US,3/28/20 23:05,38.00450883,-108.4020725,1,0,0,0,"San Miguel, Colorado, US"
 35047,San Miguel,New Mexico,US,3/28/20 23:05,35.48014807,-104.8163562,1,0,0,0,"San Miguel, New Mexico, US"
 48409,San Patricio,Texas,US,3/28/20 23:05,28.00880118,-97.51763891,2,0,0,0,"San Patricio, Texas, US"
@@ -2586,7 +2586,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29203,Shannon,Missouri,US,3/28/20 23:05,37.15772072,-91.40190382,0,0,0,0,"Shannon, Missouri, US"
 28125,Sharkey,Mississippi,US,3/28/20 23:05,32.88149103,-90.8159538,1,0,0,0,"Sharkey, Mississippi, US"
 5135,Sharp,Arkansas,US,3/28/20 23:05,36.16258158,-91.47819342,0,0,0,0,"Sharp, Arkansas, US"
-6089,Shasta,California,US,3/28/20 23:05,40.76391419,-122.0396884,8,1,0,0,"Shasta, California, US"
+6089,Shasta,California,US,3/28/20 23:05,40.76391419,-122.0396884,8,2,0,0,"Shasta, California, US"
 55115,Shawano,Wisconsin,US,3/28/20 23:05,44.78902246,-88.76443896,0,0,0,0,"Shawano, Wisconsin, US"
 20177,Shawnee,Kansas,US,3/28/20 23:05,39.04100763,-95.7557264,7,0,0,0,"Shawnee, Kansas, US"
 55117,Sheboygan,Wisconsin,US,3/28/20 23:05,43.72099677,-87.94579284,8,0,0,0,"Sheboygan, Wisconsin, US"
@@ -2641,7 +2641,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 34035,Somerset,New Jersey,US,3/28/20 23:05,40.56465737,-74.61683016,258,4,0,0,"Somerset, New Jersey, US"
 42111,Somerset,Pennsylvania,US,3/28/20 23:05,39.97172723,-79.02699593,2,0,0,0,"Somerset, Pennsylvania, US"
 48425,Somervell,Texas,US,3/28/20 23:05,32.22236802,-97.77403489,0,0,0,0,"Somervell, Texas, US"
-6097,Sonoma,California,US,3/28/20 23:05,38.52746429,-122.8862506,70,1,0,0,"Sonoma, California, US"
+6097,Sonoma,California,US,3/28/20 23:05,38.52746429,-122.8862506,70,2,0,0,"Sonoma, California, US"
 51175,Southampton,Virginia,US,3/28/20 23:05,36.72231125,-77.10642712,1,0,0,0,"Southampton, Virginia, US"
 2240,Southeast Fairbanks,Alaska,US,3/28/20 23:05,63.87692095,-143.2127643,0,0,0,0,"Southeast Fairbanks, Alaska, US"
 13255,Spalding,Georgia,US,3/28/20 23:05,33.26310031,-84.28013991,11,0,0,0,"Spalding, Georgia, US"
@@ -2836,7 +2836,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47169,Trousdale,Tennessee,US,3/28/20 23:05,36.39026213,-86.16087954,1,0,0,0,"Trousdale, Tennessee, US"
 39155,Trumbull,Ohio,US,3/28/20 23:05,41.31735028,-80.76109643,27,3,0,0,"Trumbull, Ohio, US"
 54093,Tucker,West Virginia,US,3/28/20 23:05,39.11240885,-79.57053576,2,0,0,0,"Tucker, West Virginia, US"
-6107,Tulare,California,US,3/28/20 23:05,36.22026558,-118.8020203,47,0,0,0,"Tulare, California, US"
+6107,Tulare,California,US,3/28/20 23:05,36.22026558,-118.8020203,48,0,0,0,"Tulare, California, US"
 40143,Tulsa,Oklahoma,US,3/28/20 23:05,36.11939621,-95.94013939,57,3,0,0,"Tulsa, Oklahoma, US"
 28143,Tunica,Mississippi,US,3/28/20 23:05,34.64967704,-90.37481167,6,1,0,0,"Tunica, Mississippi, US"
 6109,Tuolumne,California,US,3/28/20 23:05,38.02644018,-119.9525093,2,0,0,0,"Tuolumne, California, US"
@@ -2916,7 +2916,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37181,Vance,North Carolina,US,3/28/20 23:05,36.36880673,-78.40670845,2,0,0,0,"Vance, North Carolina, US"
 18163,Vanderburgh,Indiana,US,3/28/20 23:05,38.02658833,-87.58763124,10,0,0,0,"Vanderburgh, Indiana, US"
 42121,Venango,Pennsylvania,US,3/28/20 23:05,41.40323442,-79.75845449,0,0,0,0,"Venango, Pennsylvania, US"
-6111,Ventura,California,US,3/28/20 23:05,34.44465746,-119.0910613,178,3,0,0,"Ventura, California, US"
+6111,Ventura,California,US,3/28/20 23:05,34.44465746,-119.0910613,178,4,0,0,"Ventura, California, US"
 17183,Vermilion,Illinois,US,3/28/20 23:05,40.18417171,-87.73384359,0,0,0,0,"Vermilion, Illinois, US"
 22113,Vermilion,Louisiana,US,3/28/20 23:05,29.83517605,-92.30292538,3,1,0,0,"Vermilion, Louisiana, US"
 18165,Vermillion,Indiana,US,3/28/20 23:05,39.8523352,-87.46160542,0,0,0,0,"Vermillion, Indiana, US"
@@ -3155,7 +3155,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27173,Yellow Medicine,Minnesota,US,3/28/20 23:05,44.71710183,-95.86842453,0,0,0,0,"Yellow Medicine, Minnesota, US"
 30111,Yellowstone,Montana,US,3/28/20 23:05,45.93955949,-108.2691486,23,0,0,0,"Yellowstone, Montana, US"
 48501,Yoakum,Texas,US,3/28/20 23:05,33.17320212,-102.8276433,0,0,0,0,"Yoakum, Texas, US"
-6113,Yolo,California,US,3/28/20 23:05,38.68278902,-121.9018288,26,1,0,0,"Yolo, California, US"
+6113,Yolo,California,US,3/28/20 23:05,38.68278902,-121.9018288,26,2,0,0,"Yolo, California, US"
 23031,York,Maine,US,3/28/20 23:05,43.47808377,-70.71052375,38,0,0,0,"York, Maine, US"
 31185,York,Nebraska,US,3/28/20 23:05,40.87272618,-97.59710186,0,0,0,0,"York, Nebraska, US"
 42133,York,Pennsylvania,US,3/28/20 23:05,39.9210089,-76.73040131,37,0,0,0,"York, Pennsylvania, US"
@@ -3297,7 +3297,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Cote d'Ivoire,3/28/20 23:05,7.54,-5.5471,101,0,3,98,Cote d'Ivoire
 ,,,Croatia,3/28/20 23:05,45.1,15.2,657,5,45,607,Croatia
 ,,,Cuba,3/28/20 23:05,21.521757,-77.781167,119,3,4,112,Cuba
-,,,Cyprus,3/28/20 23:05,35.1264,33.4299,179,5,15,159,Cyprus
+,,,Cyprus,3/28/20 23:05,35.1264,33.4299,162,5,15,159,Cyprus
 ,,,Czechia,3/28/20 23:05,49.8175,15.473,2631,11,11,2609,Czechia
 ,,,Denmark,3/28/20 23:05,56.2639,9.5018,2201,65,1,2135,Denmark
 ,,,Diamond Princess,3/28/20 23:05,0.0,0.0,712,10,597,105,Diamond Princess
@@ -3320,7 +3320,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Georgia,3/28/20 23:05,42.3154,43.3569,90,0,14,76,Georgia
 ,,,Germany,3/28/20 23:05,51.165691,10.451526,57695,433,8481,48781,Germany
 ,,,Ghana,3/28/20 23:05,7.9465,-1.0232,141,5,2,134,Ghana
-,,,Greece,3/28/20 23:05,39.0742,21.8243,1061,32,52,977,Greece
+,,,Greece,3/28/20 23:05,39.0742,21.8243,835,22,52,977,Greece
 ,,,Grenada,3/28/20 23:05,12.1165,-61.679,7,0,0,7,Grenada
 ,,,Guatemala,3/28/20 23:05,15.7835,-90.2308,34,1,10,23,Guatemala
 ,,,Guinea,3/28/20 23:05,9.9456,-9.6966,8,0,0,8,Guinea
@@ -3352,12 +3352,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Lebanon,3/28/20 23:05,33.8547,35.8623,412,8,30,374,Lebanon
 ,,,Liberia,3/28/20 23:05,6.428055,-9.429499,3,0,0,3,Liberia
 ,,,Libya,3/28/20 23:05,26.3351,17.228331,3,0,0,3,Libya
-,,,Liechtenstein,3/28/20 23:05,47.14,9.55,56,0,0,56,Liechtenstein
+,,,Liechtenstein,3/28/20 23:05,47.14,9.55,62,0,0,56,Liechtenstein
 ,,,Lithuania,3/28/20 23:05,55.1694,23.8813,339,4,0,386,Lithuania
 ,,,Luxembourg,3/28/20 23:05,49.8153,6.1296,1831,18,40,1773,Luxembourg
 ,,,MS Zaandam,3/28/20 23:05,0.0,0.0,2,0,0,2,",,MS Zaandam"
 ,,,Madagascar,3/28/20 23:05,-18.766947,46.869107,26,0,0,26,Madagascar
-,,,Malaysia,3/28/20 23:05,4.210484,101.975766,2320,27,320,1973,Malaysia
 ,,,Maldives,3/28/20 23:05,3.2028,73.2207,16,0,9,7,Maldives
 ,,,Mali,3/28/20 23:05,17.570692,-3.996166,18,0,0,18,Mali
 ,,,Malta,3/28/20 23:05,35.9375,14.3754,149,0,2,147,Malta
@@ -3437,3 +3436,21 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Palau,3/28/20 23:05,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,3/28/20 23:05,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
 ,,,Summer Olympics 2020,3/28/20 23:05,35.6491,139.7737,0,0,0,0,Summer Olympics 2020
+,,Johor,Malaysia,3/28/20 23:05,1.4854,103.7618,290,9,31,0,"Johor, Malaysia"
+,,Kedah,Malaysia,3/28/20 23:05,6.1184,100.3685,74,1,12,0,"Kedah, Malaysia"
+,,Kelantan,Malaysia,3/28/20 23:05,6.1254,102.2381,109,2,0,0,"Kelantan, Malaysia"
+,,Melaka,Malaysia,3/28/20 23:05,2.1896,102.2501,43,2,0,0,"Melaka, Malaysia"
+,,Negeri Sembilan,Malaysia,3/28/20 23:05,2.7258,101.9424,154,1,19,0,"Negeri Sembilan, Malaysia"
+,,Pahang,Malaysia,3/28/20 23:05,3.8126,103.3256,85,0,7,0,"Pahang, Malaysia"
+,,Perak,Malaysia,3/28/20 23:05,4.5921,101.0901,164,3,2,0,"Perak, Malaysia"
+,,Perlis,Malaysia,3/28/20 23:05,6.4449,100.2048,11,1,0,0,"Perlis, Malaysia"
+,,Pulau Pinang,Malaysia,3/28/20 23:05,5.4141,100.3288,84,1,0,0,"Pulau Pinang, Malaysia"
+,,Sabah,Malaysia,3/28/20 23:05,5.9788,116.0753,198,1,3,0,"Sabah, Malaysia"
+,,Sarawak,Malaysia,3/28/20 23:05,1.5533,110.3592,117,5,2,0,"Sarawak, Malaysia"
+,,Selangor,Malaysia,3/28/20 23:05,3.0738,101.5183,575,3,161,0,"Selangor, Malaysia"
+,,Terengganu,Malaysia,3/28/20 23:05,5.3117,103.1324,44,0,0,0,"Terengganu, Malaysia"
+,,W.P. Kuala Lumpur,Malaysia,3/28/20 23:05,3.139,101.6869,342,4,78,0,"W.P. Kuala Lumpur, Malaysia"
+,,W.P. Labuan,Malaysia,3/28/20 23:05,5.2831,115.2308,10,0,0,0,"W.P. Labuan, Malaysia"
+,,W.P. Putrajaya,Malaysia,3/28/20 23:05,2.9264,101.6964,20,1,5,0,"W.P. Putrajaya, Malaysia"
+,,Unknown,Malaysia,3/28/20 23:05,,,0,0,0,0,"Unknown, Malaysia"
+,,,Tonga,3/28/20 23:05,-21.179,-175.1982,0,0,0,0,Tonga

@@ -39,7 +39,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Alabama: [Department of Public Health](https://www.alabamapublichealth.gov/covid19/)
   - Alaska: [Department of Health and Social Services](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/)
   - Arizona: [Department of Health Services](https://www.azdhs.gov/covid19/data/index.php)
-  - Arkansas: [Department of Health](https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9)
+  - Arkansas: [Department of Health](https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/page/page_0/)
   - California: [Department of Publich Health](https://www.cdph.ca.gov/covid19)
     - [Mariposa County](https://www.mariposacounty.org/1592/COVID-19-Information)
     - [Alameda County](https://covid-19.acgov.org/)
@@ -99,10 +99,12 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [St. Louis County](https://stlcorona.com/resources/covid-19-statistics1/)
   - Montana: [Department of Public Health and Human Services](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
   - Nebraska
+    - [Nebraska Department of Health and Human Services](https://datanexus-dhhs.ne.gov/views/Covid/1_CountyStatisticsMap?%3AisGuestRedirectFromVizportal=y&%3Aembed=y)
     - [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
   - Nevada: [Department of Health and Human Services](https://nvhealthresponse.nv.gov/)
     - [Reno County Health Department](http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994)
   - New Hampshire: [Department of Health and Human Services](https://www.nh.gov/covid19/dashboard/summary.htm)
+    - [Department of Health and Human Services Press Releases](https://www.covid19.nh.gov/news/dhhs-updates)
   - New Jersey: [Department of Health](https://covid19.nj.gov/)
   - New Mexico: [Department of Health](https://cvprovider.nmhealth.org/public-dashboard.html)
   - New York: [State Department of Health](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data)
@@ -217,6 +219,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/
     - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
     - OpenCOVID19: https://github.com/opencovid19-fr
+  - Georgia:
+    - Government of Georgia Ministry of Health: https://stopcov.ge/en
   - Germany:
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - Greece:
@@ -246,7 +250,6 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Jamaica: 
     - Ministry of Health & Wellness: https://www.moh.gov.jm
   - Japan: 
-    - COVID19Japan: https://covid19japan.com/#all-prefectures
     - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
   - Jordan:
     - Ministry of Health: https://corona.moh.gov.jo/en
@@ -301,7 +304,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Singapore:
     - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
   - Slovakia: 
-    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/#covid-aut-nasledujuci-pondelok
   - Slovenia:
     - Sledilnik: https://covid-19.sledilnik.org/en/stats
   - South Africa:

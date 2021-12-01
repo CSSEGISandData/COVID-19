@@ -2439,7 +2439,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18137,Ripley,Indiana,US,2020-03-25 23:33:19,39.10235626,-85.26212744,7,0,0,0,"Ripley, Indiana, US"
 29181,Ripley,Missouri,US,2020-03-25 23:33:19,36.65460667,-90.85990261,0,0,0,0,"Ripley, Missouri, US"
 54085,Ritchie,West Virginia,US,2020-03-25 23:33:19,39.18094587,-81.06356878,0,0,0,0,"Ritchie, West Virginia, US"
-6065,Riverside,California,US,2020-03-25 23:33:19,33.74314981,-115.9933578,92,7,0,0,"Riverside, California, US"
+6065,Riverside,California,US,2020-03-25 23:33:19,33.74314981,-115.9933578,92,5,0,0,"Riverside, California, US"
 47145,Roane,Tennessee,US,2020-03-25 23:33:19,35.84923189,-84.52458689,1,0,0,0,"Roane, Tennessee, US"
 54087,Roane,West Virginia,US,2020-03-25 23:33:19,38.71622686,-81.35243568,0,0,0,0,"Roane, West Virginia, US"
 51161,Roanoke,Virginia,US,2020-03-25 23:33:19,37.26865804,-80.06396753,1,0,0,0,"Roanoke, Virginia, US"
@@ -2510,7 +2510,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6073,San Diego,California,US,2020-03-25 23:33:19,33.03484597,-116.73653259999999,238,2,0,0,"San Diego, California, US"
 6075,San Francisco,California,US,2020-03-25 23:33:19,37.75215114,-122.43856720000001,212,1,0,0,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-03-25 23:33:19,30.57933681,-95.16260304,0,0,0,0,"San Jacinto, Texas, US"
-6077,San Joaquin,California,US,2020-03-25 23:33:19,37.93433732,-121.2730061,67,3,0,0,"San Joaquin, California, US"
+6077,San Joaquin,California,US,2020-03-25 23:33:19,37.93433732,-121.2730061,67,2,0,0,"San Joaquin, California, US"
 8111,San Juan,Colorado,US,2020-03-25 23:33:19,37.76248981,-107.67632890000002,0,0,0,0,"San Juan, Colorado, US"
 35045,San Juan,New Mexico,US,2020-03-25 23:33:19,36.50838318,-108.32043700000001,8,0,0,0,"San Juan, New Mexico, US"
 49037,San Juan,Utah,US,2020-03-25 23:33:19,37.62762978,-109.80337140000002,0,0,0,0,"San Juan, Utah, US"
@@ -2837,7 +2837,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47169,Trousdale,Tennessee,US,2020-03-25 23:33:19,36.39026213,-86.16087954,0,0,0,0,"Trousdale, Tennessee, US"
 39155,Trumbull,Ohio,US,2020-03-25 23:33:19,41.31735028,-80.76109643,9,1,0,0,"Trumbull, Ohio, US"
 54093,Tucker,West Virginia,US,2020-03-25 23:33:19,39.11240885,-79.57053576,2,0,0,0,"Tucker, West Virginia, US"
-6107,Tulare,California,US,2020-03-25 23:33:19,36.22026558,-118.8020203,12,0,0,0,"Tulare, California, US"
+6107,Tulare,California,US,2020-03-25 23:33:19,36.22026558,-118.8020203,13,0,0,0,"Tulare, California, US"
 40143,Tulsa,Oklahoma,US,2020-03-25 23:33:19,36.11939621,-95.94013939,27,1,0,0,"Tulsa, Oklahoma, US"
 28143,Tunica,Mississippi,US,2020-03-25 23:33:19,34.64967704,-90.37481167,3,0,0,0,"Tunica, Mississippi, US"
 6109,Tuolumne,California,US,2020-03-25 23:33:19,38.02644018,-119.95250929999999,0,0,0,0,"Tuolumne, California, US"
@@ -3290,7 +3290,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Cote d'Ivoire,2020-03-25 23:33:04,7.54,-5.5471,80,0,3,77,Cote d'Ivoire
 ,,,Croatia,2020-03-25 23:33:04,45.1,15.2,442,1,22,419,Croatia
 ,,,Cuba,2020-03-25 23:33:04,21.521757,-77.78116700000002,57,1,1,55,Cuba
-,,,Cyprus,2020-03-25 23:33:04,35.1264,33.4299,132,3,3,126,Cyprus
+,,,Cyprus,2020-03-25 23:33:04,35.1264,33.4299,124,3,3,126,Cyprus
 ,,,Czechia,2020-03-25 23:33:04,49.8175,15.472999999999999,1654,6,10,1638,Czechia
 ,,,Denmark,2020-03-25 23:33:04,56.2639,9.5018,1724,34,1,1689,Denmark
 ,,,Diamond Princess,2020-03-25 23:33:04,0.0,0.0,712,10,587,115,Diamond Princess
@@ -3313,7 +3313,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Georgia,2020-03-25 23:33:04,42.3154,43.3569,75,0,10,65,Georgia
 ,,,Germany,2020-03-25 23:33:04,51.165690999999995,10.451526,37323,206,3547,33570,Germany
 ,,,Ghana,2020-03-25 23:33:04,7.9465,-1.0232,93,4,0,89,Ghana
-,,,Greece,2020-03-25 23:33:04,39.0742,21.8243,821,22,36,763,Greece
+,,,Greece,2020-03-25 23:33:04,39.0742,21.8243,835,22,36,763,Greece
 ,,,Grenada,2020-03-25 23:33:04,12.1165,-61.678999999999995,1,0,0,1,Grenada
 ,,,Guatemala,2020-03-25 23:33:04,15.7835,-90.2308,24,1,4,19,Guatemala
 ,,,Guinea,2020-03-25 23:33:04,9.9456,-9.6966,4,0,0,4,Guinea
@@ -3344,11 +3344,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Lebanon,2020-03-25 23:33:04,33.8547,35.8623,333,6,20,307,Lebanon
 ,,,Liberia,2020-03-25 23:33:04,6.4280550000000005,-9.429499,3,0,0,3,Liberia
 ,,,Libya,2020-03-25 23:33:04,26.3351,17.228331,1,0,0,1,Libya
-,,,Liechtenstein,2020-03-25 23:33:04,47.14,9.55,51,0,0,51,Liechtenstein
+,,,Liechtenstein,2020-03-25 23:33:04,47.14,9.55,53,0,0,51,Liechtenstein
 ,,,Lithuania,2020-03-25 23:33:04,55.1694,23.8813,208,2,0,269,Lithuania
 ,,,Luxembourg,2020-03-25 23:33:04,49.8153,6.1296,1333,8,6,1319,Luxembourg
 ,,,Madagascar,2020-03-25 23:33:04,-18.766947000000002,46.869107,19,0,0,19,Madagascar
-,,,Malaysia,2020-03-25 23:33:04,4.210483999999999,101.97576600000001,1796,20,199,1577,Malaysia
 ,,,Maldives,2020-03-25 23:33:04,3.2028,73.2207,13,0,8,5,Maldives
 ,,,Mali,2020-03-25 23:33:04,17.570692,-3.996166000000001,2,0,0,2,Mali
 ,,,Malta,2020-03-25 23:33:04,35.9375,14.3754,129,0,2,127,Malta
@@ -3427,3 +3426,21 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Palau,2020-03-25 23:33:19,7.515,134.5825,0,0,0,0,Palau
 ,,Cook Islands,New Zealand,2020-03-25 23:33:19,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand"
 ,,,Summer Olympics 2020,2020-03-25 23:33:19,35.6491,139.7737,0,0,0,0,Summer Olympics 2020
+,,Johor,Malaysia,2020-03-25 23:33:19,1.4854,103.7618,200,6,9,0,"Johor, Malaysia"
+,,Kedah,Malaysia,2020-03-25 23:33:19,6.1184,100.3685,69,0,5,0,"Kedah, Malaysia"
+,,Kelantan,Malaysia,2020-03-25 23:33:19,6.1254,102.2381,84,1,0,0,"Kelantan, Malaysia"
+,,Melaka,Malaysia,2020-03-25 23:33:19,2.1896,102.2501,34,2,0,0,"Melaka, Malaysia"
+,,Negeri Sembilan,Malaysia,2020-03-25 23:33:19,2.7258,101.9424,124,0,4,0,"Negeri Sembilan, Malaysia"
+,,Pahang,Malaysia,2020-03-25 23:33:19,3.8126,103.3256,64,0,4,0,"Pahang, Malaysia"
+,,Perak,Malaysia,2020-03-25 23:33:19,4.5921,101.0901,129,1,1,0,"Perak, Malaysia"
+,,Perlis,Malaysia,2020-03-25 23:33:19,6.4449,100.2048,11,1,0,0,"Perlis, Malaysia"
+,,Pulau Pinang,Malaysia,2020-03-25 23:33:19,5.4141,100.3288,68,1,0,0,"Pulau Pinang, Malaysia"
+,,Sabah,Malaysia,2020-03-25 23:33:19,5.9788,116.0753,171,1,0,0,"Sabah, Malaysia"
+,,Sarawak,Malaysia,2020-03-25 23:33:19,1.5533,110.3592,84,5,0,0,"Sarawak, Malaysia"
+,,Selangor,Malaysia,2020-03-25 23:33:19,3.0738,101.5183,428,1,115,0,"Selangor, Malaysia"
+,,Terengganu,Malaysia,2020-03-25 23:33:19,5.3117,103.1324,37,0,0,0,"Terengganu, Malaysia"
+,,W.P. Kuala Lumpur,Malaysia,2020-03-25 23:33:19,3.139,101.6869,272,2,56,0,"W.P. Kuala Lumpur, Malaysia"
+,,W.P. Labuan,Malaysia,2020-03-25 23:33:19,5.2831,115.2308,5,0,0,0,"W.P. Labuan, Malaysia"
+,,W.P. Putrajaya,Malaysia,2020-03-25 23:33:19,2.9264,101.6964,16,0,5,0,"W.P. Putrajaya, Malaysia"
+,,Unknown,Malaysia,2020-03-25 23:33:19,,,0,0,0,0,"Unknown, Malaysia"
+,,,Tonga,2020-03-25 23:33:19,-21.179,-175.1982,0,0,0,0,Tonga
