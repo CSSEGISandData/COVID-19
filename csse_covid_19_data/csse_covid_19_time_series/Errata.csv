@@ -32500,3 +32500,52 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/02/2021,time_series_covid19_confirmed_global.csv,US,11/29/2021,48438302,48438876,Correct US confirmed data
 12/02/2021,time_series_covid19_confirmed_global.csv,US,11/30/2021,48554890,48555974,Correct US confirmed data
 12/02/2021,time_series_covid19_confirmed_global.csv,US,12/01/2021,48692492,48691353,Correct US confirmed data
+12/03/2021,time_series_covid19_confirmed_global.csv,Peru,12/01/2021,2236351,2237842,Correct Peru confirmed data
+12/03/2021,time_series_covid19_confirmed_global.csv,Peru,12/02/2021,2236351,2239421,Correct Peru confirmed data
+12/03/2021,time_series_covid19_deaths_global.csv,Peru,12/01/2021,201176,201209,Correct Peru deaths data
+12/03/2021,time_series_covid19_deaths_global.csv,Peru,12/02/2021,201176,201282,Correct Peru deaths data
+12/05/2021,time_series_covid19_confirmed_global.csv,France,12/04/2021,7633529,7685153,Correct France confirmed data
+12/05/2021,time_series_covid19_deaths_global.csv,France,12/04/2021,117016,117065,Correct France deaths data
+12/05/2021,time_series_covid19_confirmed_global.csv,South Africa,12/04/2021,3004203,3020569,Correct South Africa confirmed data
+12/05/2021,time_series_covid19_deaths_global.csv,South Africa,12/04/2021,89944,89965,Correct South Africa deaths data
+12/06/2021,time_series_covid19_confirmed_global.csv,US,11/29/2021,48438876,48438882,Correct US confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,US,11/30/2021,48555974,48555980,Correct US confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,US,12/01/2021,48691353,48691359,Correct US confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,US,12/02/2021,48832228,48832234,Correct US confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,US,12/03/2021,48990127,48990133,Correct US confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,US,12/04/2021,49051140,49051146,Correct US confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/18/2021,18979,19893,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/19/2021,18979,20031,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/20/2021,18979,20177,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/21/2021,18979,20372,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/22/2021,18979,20469,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/23/2021,18979,20616,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/24/2021,18979,20752,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/25/2021,18979,20913,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/27/2021,21040,21191,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/28/2021,21040,21325,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/29/2021,21040,21386,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,11/30/2021,21040,21543,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,12/01/2021,21040,21655,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,12/02/2021,21040,21760,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,12/03/2021,21040,21868,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,12/04/2021,21040,21973,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,Mauritius,12/05/2021,21040,22090,Correct Mauritius confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,New Zealand,12/03/2021,1,2,Correct New Zealand confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,New Zealand,12/04/2021,1,2,Correct New Zealand confirmed data
+12/06/2021,time_series_covid19_confirmed_global.csv,New Zealand,12/05/2021,1,2,Correct New Zealand confirmed data
+12/07/2021,time_series_covid19_confirmed_global.csv,Mexico,12/06/2021,3901263,3902015,Correct Mexico confirmed data
+12/07/2021,time_series_covid19_deaths_global.csv,Mexico,12/06/2021,295203,295313,Correct Mexico deaths data
+12/08/2021,time_series_covid19_confirmed_global.csv,France,12/04/2021,7685153,7684993,Correct France confirmed data
+12/08/2021,time_series_covid19_confirmed_global.csv,France,12/05/2021,7727405,7727146,Correct France confirmed data
+12/08/2021,time_series_covid19_confirmed_global.csv,France,12/06/2021,7727405,7738424,Correct France confirmed data
+12/08/2021,time_series_covid19_confirmed_global.csv,France,12/07/2021,7797443,7794665,Correct France confirmed data
+12/08/2021,time_series_covid19_deaths_global.csv,France,12/04/2021,117065,117064,Correct France deaths data
+12/08/2021,time_series_covid19_deaths_global.csv,France,12/05/2021,117094,117091,Correct France deaths data
+12/08/2021,time_series_covid19_deaths_global.csv,France,12/06/2021,117094,117283,Correct France deaths data
+12/08/2021,time_series_covid19_deaths_global.csv,France,12/07/2021,117455,117447,Correct France deaths data
+12/08/2021,time_series_covid19_confirmed_global.csv,South Africa,11/14/2021,2925677,2925939,Correct South Africa confirmed data
+12/08/2021,time_series_covid19_confirmed_global.csv,South Africa,11/18/2021,2926914,2927499,Correct South Africa confirmed data
+12/08/2021,time_series_covid19_deaths_global.csv,South Africa,11/13/2021,89746,89476,Correct South Africa deaths data
+12/08/2021,time_series_covid19_deaths_global.csv,South Africa,11/14/2021,89746,89484,Correct South Africa deaths data
+12/08/2021,time_series_covid19_deaths_global.csv,South Africa,11/18/2021,89515,89555,Correct South Africa deaths data

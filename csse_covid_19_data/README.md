@@ -400,6 +400,7 @@ Date: Location | Change | Reason/Other notes | Source
 * August 6, 2021: Cameron County, Texas, US | 7,634 older probable cases added | [Source](https://txdshs.maps.arcgis.com/apps/dashboards/ed483ecd702b4298ab01e8b9cafc8b83)
 * October 23, 2021: Namibia | 343 antigen positive cases added that were missed from the reports from May 2021 to beginning of October 2021 | [Source](https://www.facebook.com/photo/?fbid=173659591625049&set=pcb.173659671625041)
 * October 30, 2021: Japan | 4,065 backlogged cases in the Tokyo Prefecture | [Source](https://www3.nhk.or.jp/news/special/coronavirus/data-all/) | See Issue #4854 for translation of announcement
+* December 2, 2021: Missouri, US | Addition of ~2800 probable deaths | See [GitHub issue](https://github.com/CSSEGISandData/COVID-19/issues/4982)
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -438,7 +439,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 
 United States
 * Alabama: Providing data seven days a week (as of 9/17/2021). ~~Providing data Monday-Friday.~~ ~~Providing data Monday, Wednesday, and Friday~~
-* Alaska: Providing data Monday-Friday (as of 8/2/2021). ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
+* Alaska: Providing data Monday, Wednesday, and Friday (as of 12/07/2021). ~~Providing data Monday-Friday (as of 8/2/2021).~~ ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
 * Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
 * California: Providing data Monday-Friday.
 * Colorado: Providing data Monday-Friday.
