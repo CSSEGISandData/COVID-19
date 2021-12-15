@@ -32617,3 +32617,81 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/09/2021,time_series_covid19_deaths_global.csv,US,12/06/2021,789905,789907,Correct US deaths data
 12/09/2021,time_series_covid19_deaths_global.csv,US,12/07/2021,791514,791516,Correct US deaths data
 12/09/2021,time_series_covid19_deaths_global.csv,US,12/08/2021,793228,793230,Correct US deaths data
+12/14/2021,time_series_covid19_confirmed_global.csv,Chile,12/11/2021,1778370,1781227,Correct Chile confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,Chile,12/12/2021,1778370,1782804,Correct Chile confirmed data
+12/14/2021,time_series_covid19_deaths_global.csv,Chile,12/11/2021,38600,38646,Correct Chile deaths data
+12/14/2021,time_series_covid19_deaths_global.csv,Chile,12/12/2021,38600,38686,Correct Chile deaths data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/13/2021,50119422,50117198,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,France,12/10/2021,7912490,7967415,Correct France confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,France,12/13/2021,8065182,8076647,Correct France confirmed data
+12/14/2021,time_series_covid19_deaths_global.csv,France,12/10/2021,117706,117851,Correct France deaths data
+12/14/2021,time_series_covid19_deaths_global.csv,France,12/13/2021,117966,118201,Correct France deaths data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,10/18/2021,45095140,45095141,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,10/28/2021,45851417,45851424,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,10/29/2021,45944997,45945003,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/01/2021,46123246,46123252,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/02/2021,46194344,46194355,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/03/2021,46278929,46278930,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/04/2021,46360747,46360756,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/05/2021,46456836,46456840,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/06/2021,46489731,46489738,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/07/2021,46525053,46525054,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/08/2021,46637380,46637389,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/09/2021,46717701,46717710,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/10/2021,46812718,46812729,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/11/2021,46868246,46868247,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/12/2021,47014788,47014791,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/14/2021,47086142,47086147,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/15/2021,47225276,47225280,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/16/2021,47313122,47313128,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/17/2021,47424851,47424860,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/18/2021,47535185,47535208,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/19/2021,47661066,47661073,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/20/2021,47702712,47702731,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/21/2021,47740641,47740648,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/22/2021,47891398,47891408,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/23/2021,47984031,47984129,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/24/2021,48095739,48095771,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/25/2021,48128477,48128522,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/26/2021,48179786,48179829,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/28/2021,48245562,48245657,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/29/2021,48443019,48443044,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,11/30/2021,48560466,48560509,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/01/2021,48698971,48699074,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/02/2021,48837404,48837508,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/03/2021,48991100,48991142,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/04/2021,49052287,49052365,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/05/2021,49099860,49099938,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/06/2021,49282197,49282275,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/09/2021,49661145,49661477,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/10/2021,49833439,49833771,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/11/2021,49884587,49884847,Correct US confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/12/2021,49921405,49921799,Correct US confirmed data
+12/14/2021,time_series_covid19_deaths_global.csv,US,12/04/2021,788362,788364,Correct US deaths data
+12/14/2021,time_series_covid19_deaths_global.csv,US,12/05/2021,788523,788525,Correct US deaths data
+12/14/2021,time_series_covid19_deaths_global.csv,US,12/12/2021,797346,797347,Correct US deaths data
+12/14/2021,time_series_covid19_confirmed_global.csv,Czechia,11/23/2021,2018069,2019030,Correct Czechia confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,Czechia,11/29/2021,2132380,2133098,Correct Czechia confirmed data
+12/14/2021,time_series_covid19_deaths_global.csv,Czechia,11/23/2021,32304,32309,Correct Czechia deaths data
+12/14/2021,time_series_covid19_deaths_global.csv,Czechia,11/29/2021,32929,32953,Correct Czechia deaths data
+12/14/2021,time_series_covid19_confirmed_US.csv,"Apache, Arizona, US",12/13/2021,15745,15763,"Correct Apache, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Cochise, Arizona, US",12/13/2021,19098,19126,"Correct Cochise, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Coconino, Arizona, US",12/13/2021,26321,26353,"Correct Coconino, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Gila, Arizona, US",12/13/2021,11675,11693,"Correct Gila, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Graham, Arizona, US",12/13/2021,8785,8793,"Correct Graham, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Greenlee, Arizona, US",12/13/2021,1418,1421,"Correct Greenlee, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"La Paz, Arizona, US",12/13/2021,3515,3516,"Correct La Paz, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Maricopa, Arizona, US",12/13/2021,828549,830216,"Correct Maricopa, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Mohave, Arizona, US",12/13/2021,37182,37246,"Correct Mohave, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Navajo, Arizona, US",12/13/2021,25697,25768,"Correct Navajo, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Pima, Arizona, US",12/13/2021,165457,165803,"Correct Pima, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Pinal, Arizona, US",12/13/2021,84682,84692,"Correct Pinal, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Santa Cruz, Arizona, US",12/13/2021,10172,10188,"Correct Santa Cruz, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Yavapai, Arizona, US",12/13/2021,34500,34578,"Correct Yavapai, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Yuma, Arizona, US",12/13/2021,43393,43424,"Correct Yuma, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_deaths_US.csv,"Coconino, Arizona, US",12/13/2021,394,395,"Correct Coconino, Arizona, US deaths data"
+12/14/2021,time_series_covid19_deaths_US.csv,"Greenlee, Arizona, US",12/13/2021,23,24,"Correct Greenlee, Arizona, US deaths data"
+12/14/2021,time_series_covid19_deaths_US.csv,"Maricopa, Arizona, US",12/13/2021,13127,13130,"Correct Maricopa, Arizona, US deaths data"
+12/14/2021,time_series_covid19_deaths_US.csv,"Yavapai, Arizona, US",12/13/2021,868,867,"Correct Yavapai, Arizona, US deaths data"
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/13/2021,50117198,50119589,Correct US confirmed data
+12/14/2021,time_series_covid19_deaths_global.csv,US,12/13/2021,798710,798714,Correct US deaths data
