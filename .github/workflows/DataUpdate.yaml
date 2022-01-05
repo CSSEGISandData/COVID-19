@@ -1,0 +1,36 @@
+name: Data-Update
+on: 
+  schedule:
+  - cron: "40 8 * * *"
+jobs:
+  update-data:
+    name: Update data from remote
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          refs: master
+          fetch-depth: 0
+      - name: Update remote data
+        run: |
+          git config --global user.name ${{github.actor}}
+          git config --global user.email ${{github.actor}}@users.noreply.github.com
+          git remote add upstream https://github.com/CSSEGISandData/COVID-19
+          git fetch upstream
+          git branch
+          git merge upstream/master
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: 'x64'
+      - name: Run script
+        run: python convert_csv_to_json.py
+      - name: Commit and merge
+        run: |
+          git add .
+          git commit -m "Update data (auto)"
+          git config pull.rebase true
+          git pull origin master
+          git push origin master 
