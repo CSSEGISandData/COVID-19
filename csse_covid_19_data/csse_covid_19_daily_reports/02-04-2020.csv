@@ -28,7 +28,7 @@ Jilin,Mainland China,2020-02-04T00:23:05,42,0,1
 Inner Mongolia,Mainland China,2020-02-04T03:03:07,35,0,1
 Ningxia,Mainland China,2020-02-04T02:13:18,34,0,1
 Xinjiang,Mainland China,2020-02-04T01:33:01,29,0,0
-,Thailand,2020-02-04T15:33:03,25,0,5
+,Thailand,2020-02-04T15:33:03,25,0,10
 ,Singapore,2020-02-04T15:33:03,24,0,0
 ,Japan,2020-02-04T16:43:03,22,0,1
 Hong Kong,Hong Kong,2020-02-04T09:03:02,17,1,0
@@ -37,7 +37,6 @@ Qinghai,Mainland China,2020-02-04T01:33:01,15,0,0
 ,Germany,2020-02-03T20:53:02,12,0,0
 Taiwan,Taiwan,2020-02-04T14:53:02,11,0,0
 Macau,Macau,2020-02-04T04:43:02,10,0,0
-,Malaysia,2020-02-04T07:33:02,10,0,0
 ,Vietnam,2020-02-03T21:43:02,8,0,1
 ,France,2020-02-01T01:52:40,6,0,0
 ,United Arab Emirates,2020-02-02T05:43:01,5,0,0
@@ -69,3 +68,26 @@ Tibet,Mainland China,2020-02-01T01:52:40,1,0,0
 "Orange, CA",US,2020-02-01T19:53:03,1,0,0
 "Seattle, WA",US,2020-02-01T19:43:03,1,0,0
 "Tempe, AZ",US,2020-02-01T19:43:03,1,0,0
+Unknown,China,2020-02-04T23:43:01,0,0,0
+,Kiribati,2020-02-04T23:43:01,0,0,0
+,Palau,2020-02-04T23:43:01,0,0,0
+Cook Islands,New Zealand,2020-02-04T23:43:01,0,0,0
+,Summer Olympics 2020,2020-02-04T23:43:01,0,0,0
+Johor,Malaysia,2020-02-04T23:43:01,0,0,0
+Kedah,Malaysia,2020-02-04T23:43:01,0,0,0
+Kelantan,Malaysia,2020-02-04T23:43:01,0,0,0
+Melaka,Malaysia,2020-02-04T23:43:01,0,0,0
+Negeri Sembilan,Malaysia,2020-02-04T23:43:01,0,0,0
+Pahang,Malaysia,2020-02-04T23:43:01,0,0,0
+Perak,Malaysia,2020-02-04T23:43:01,0,0,0
+Perlis,Malaysia,2020-02-04T23:43:01,0,0,0
+Pulau Pinang,Malaysia,2020-02-04T23:43:01,0,0,0
+Sabah,Malaysia,2020-02-04T23:43:01,0,0,0
+Sarawak,Malaysia,2020-02-04T23:43:01,0,0,0
+Selangor,Malaysia,2020-02-04T23:43:01,0,0,0
+Terengganu,Malaysia,2020-02-04T23:43:01,0,0,0
+W.P. Kuala Lumpur,Malaysia,2020-02-04T23:43:01,0,0,0
+W.P. Labuan,Malaysia,2020-02-04T23:43:01,0,0,0
+W.P. Putrajaya,Malaysia,2020-02-04T23:43:01,0,0,0
+Unknown,Malaysia,2020-02-04T23:43:01,0,0,0
+,Tonga,2020-02-04T23:43:01,0,0,0

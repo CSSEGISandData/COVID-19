@@ -1,6 +1,6 @@
 ## Time series summary (csse_covid_19_time_series)
 
-This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data is read in from the daily case report. The time series tables are subject to be updated if inaccuracies are identified in our historical data. The daily reports will not be adjusted in these instances to maintain a record of raw data. 
+This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data is read in from the daily case report. The time series tables are subject to be updated if inaccuracies are identified in our historical data. 
 
 Two time series tables are for the US confirmed cases and deaths, reported at the county level. They are named `time_series_covid19_confirmed_US.csv`, `time_series_covid19_deaths_US.csv`, respectively.
 
@@ -16,3 +16,7 @@ The files below were archived [here](https://github.com/CSSEGISandData/COVID-19/
 * `time_series_19-covid-Confirmed.csv`
 * `time_series_19-covid-Deaths.csv`	
 * `time_series_19-covid-Recovered.csv`
+
+### Vaccination Data
+
+Please find the JHU COVID-19 vaccination data hosted on the [JHU GovEx GitHub repository](https://github.com/govex/COVID-19/tree/master/data_tables/vaccine_data). This repository includes both our [global vaccination sources](https://github.com/govex/COVID-19/blob/master/data_tables/vaccine_data/global_data/readme.md) and [US vaccination sources](https://github.com/govex/COVID-19/blob/master/data_tables/vaccine_data/us_data/readme.md).
