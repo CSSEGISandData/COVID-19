@@ -33061,6 +33061,3 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/17/2022,time_series_covid19_deaths_global.csv,Peru,01/14/2022,203255,203302,Correct Peru deaths data
 01/17/2022,time_series_covid19_deaths_global.csv,Peru,01/15/2022,203265,203376,Correct Peru deaths data
 01/17/2022,time_series_covid19_deaths_global.csv,Peru,01/16/2022,203376,203464,Correct Peru deaths data
-01/17/2022,time_series_covid19_confirmed_global.csv,US,01/14/2022,64920604,64920670,Correct US confirmed data
-01/17/2022,time_series_covid19_confirmed_global.csv,US,01/15/2022,65445397,65445434,Correct US confirmed data
-01/17/2022,time_series_covid19_deaths_global.csv,US,01/14/2022,849256,849257,Correct US deaths data
