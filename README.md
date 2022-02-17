@@ -25,7 +25,7 @@ This list includes a complete list of all sources ever used in the data set, sin
 
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
-  - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
+  - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
   - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
   - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
@@ -160,7 +160,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - West Virginia: [Department of Health & Human Resources](https://dhhr.wv.gov/COVID-19/Pages/default.aspx)
   - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm) (https://data.dhsgis.wi.gov/datasets/wi-dhs::covid-19-data-by-county-v2/about)  
   - Wyoming: [Department of Health](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
-  
+
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - Albania:
     - National Agency for Information Society: https://coronavirus.al/statistika/
@@ -173,12 +173,12 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Azerbaijan Operational Headquarters under the Cabinet of Ministers: https://koronavirusinfo.az/az
   - Belgium:
     - Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
-  - Brazil: 
+  - Brazil:
     - Ministry of Health: https://covid.saude.gov.br/
     - Federal University of Viçosa - Brazil: https://github.com/wcota/covid19br (Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362))
   - Burma (Myanmar):
     - Myanmar Ministry of Health and Sports: https://doph.maps.arcgis.com/apps/dashboards/f8fb4ccc3d2d42c7ab0590dbb3fc26b8
-  - Canada: 
+  - Canada:
     - Government of Alberta: https://www.alberta.ca/covid-19-alberta-data.aspx
     - Government of British Columbia Centre for Disease Control: https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded
     - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
@@ -192,7 +192,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Saskatchewan: https://dashboard.saskatchewan.ca/health-wellness
     - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
     - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
-  - Chile: 
+  - Chile:
     - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
     - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
   - China:
@@ -205,7 +205,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Denmark:
     - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
   - Ecuador:
-    - Ministry of Public Health: https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/ 
+    - Ministry of Public Health: https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/
   - El Salvador:
     - Government of El Salvador: https://covid19.gob.sv/
   - Finland:
@@ -223,7 +223,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Honduras:
-    - Despacho de Comunicaciones y Estrategia Presidencial: https://covid19honduras.org/ 
+    - Despacho de Comunicaciones y Estrategia Presidencial: https://covid19honduras.org/
   - Hong Kong:
     - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
   - Hungary:
@@ -232,7 +232,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - India:
     - Government of India: https://www.mygov.in/covid-19
-  - Indonesia: 
+  - Indonesia:
     - National Board for Disaster Management: https://covid19.go.id/peta-sebaran
   - Ireland:
     - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
@@ -242,21 +242,21 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Italy:
     - Civil Protection Department: https://github.com/pcm-dpc/COVID-19/tree/master/
     - Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
-  - Japan: 
+  - Japan:
     - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
   - Jordan:
     - Ministry of Health: https://corona.moh.gov.jo/en
-  - Kazakhstan: 
+  - Kazakhstan:
     - Kazinform: https://www.coronavirus2020.kz/
   - Kosovo:
     - National Institute of Health of Kosovo Dashboard: https://corona-ks.info/?lang=en
     - National Institute of Health of Kosovo JSON: https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
-    - National Institute of Health of Kosovo Data Studio Dashboard: https://datastudio.google.com/embed/reporting/2e546d77-8f7b-4c35-8502-38533aa0e9e8/page/MT0qB 
+    - National Institute of Health of Kosovo Data Studio Dashboard: https://datastudio.google.com/embed/reporting/2e546d77-8f7b-4c35-8502-38533aa0e9e8/page/MT0qB
   - Lebanon  
     - Lebanese Ministry Of Information: https://corona.ministryinfo.gov.lb/
-  - Lithuania: 
+  - Lithuania:
     - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
-  - Luxembourg: 
+  - Luxembourg:
     - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - Macau:
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
@@ -267,12 +267,14 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
   - Monaco:
     - Gouvernement Princier Principaute de Monaco: https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites
+  - Nepal:
+    - Ministry of Health and Population : https://covid19.mohp.gov.np/
   - Netherlands:
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
   - Palau:
-    - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
+    - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf
   - Paraguay:
     - Ministerio de Salud Publica Y Bienestar Social: https://www.mspbs.gov.py/reporte-covid19.html
   - Pakistan:
@@ -282,21 +284,21 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Health Press Releases: https://www.gob.pe/busquedas?categoria[]=6-salud&contenido[]=noticias&institucion[]=minsa&sheet=1&sort_by=recent&tipo_noticia[]=3-comunicado
   - Philippines:
     - Republic of Philippines Department of Health: https://doh.gov.ph/covid19tracker
-  - Poland: 
+  - Poland:
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
   - Portugal:
     - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829
   - Romania:
-    - Government of Romania: https://datelazi.ro/ 
-  - Russia: 
+    - Government of Romania: https://datelazi.ro/
+  - Russia:
     - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Saudi Arabia:
     - Saudi Arabia Ministry of Health: https://covid19.moh.gov.sa/  
   - Serbia:
-    - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
+    - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/
   - Singapore:
-    - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
-  - Slovakia: 
+    - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19
+  - Slovakia:
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/#covid-aut-nasledujuci-pondelok
   - Slovenia:
     - Sledilnik: https://covid-19.sledilnik.org/en/stats
@@ -313,20 +315,20 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
   - Taiwan:
     - CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
-  - Thailand: 
+  - Thailand:
     - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
     - Ministry of Public Health, Department of Disease Control Situational Reports: https://covid19.ddc.moph.go.th/en
-  - Turkey: 
+  - Turkey:
     - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
     - Digital Transformation Office of The Presidency of The Republic of Turkey: https://corona.cbddo.gov.tr/Home/GetLastDayDifference
-  - Ukraine: 
+  - Ukraine:
     - Office of the National Security and Defense Council of Ukraine: https://covid19.rnbo.gov.ua/
   - United Arab Emirates:
     - The Supreme Council For National Security, National Emergency Crisis and Disasters Management Authority: https://covid19.ncema.gov.ae/en
   - United Kingdom
     - Government of the United Kingdom: https://coronavirus.data.gov.uk/#category=nations&map=rate
     - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
-    
+
 
 
 <b>Embed our dashboard into your webpage:</b>
@@ -346,12 +348,12 @@ https://systems.jhu.edu/research/public-health/ncov/
 <b>Contact Us: </b>
 
 * Email: jhusystems@gmail.com
-  
-  
+
+
 
 <b>Terms of Use:</b>
 
-1. This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering.  Copyright Johns Hopkins University 2020. 
+1. This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering.  Copyright Johns Hopkins University 2020.
 
 2. Attribute the data as the "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University" or "JHU CSSE COVID-19 Data" for short, and the url: https://github.com/CSSEGISandData/COVID-19.  
 
