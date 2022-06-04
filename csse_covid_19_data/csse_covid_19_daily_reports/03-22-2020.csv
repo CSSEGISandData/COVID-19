@@ -3175,7 +3175,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 56045,Weston,Wyoming,US,3/22/20 23:45,43.83961191,-104.5674881,0,0,0,0,"Weston, Wyoming, US"
 60000,,American Samoa,US,3/22/20 23:45,-14.271,-170.132,0,0,0,0,"American Samoa, US"
 69000,,Northern Mariana Islands,US,3/22/20 23:45,15.0979,145.6739,0,0,0,0,"Northern Mariana Islands, US"
-,,Ontario,Canada,3/22/20 23:48,51.2538,-85.3232,425,5,0,420,"Ontario, Canada"
+,,Ontario,Canada,3/22/20 23:48,51.2538,-85.3232,1031,29,0,420,"Ontario, Canada"
 ,,British Columbia,Canada,3/22/20 23:48,53.7267,-127.6476,424,10,0,414,"British Columbia, Canada"
 ,,Alberta,Canada,3/22/20 23:48,53.9333,-116.5765,259,1,0,258,"Alberta, Canada"
 ,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,795,5,0,790,"Quebec, Canada"
@@ -3242,7 +3242,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,113,131,7230,Switzerland
 ,,,United Kingdom,3/22/20 23:45,55.3781,-3.436,5683,281,93,5309,United Kingdom
 ,,,Netherlands,3/22/20 23:45,52.1326,5.2913,4204,179,2,4023,Netherlands
-,,,Austria,3/22/20 23:45,47.5162,14.5501,3580,16,9,3555,Austria
+,,,Austria,3/22/20 23:45,47.5162,14.5501,2907,20,9,3555,Austria
 ,,,Belgium,3/22/20 23:45,50.8333,4.469936,3401,75,263,3063,Belgium
 ,,,Norway,3/22/20 23:45,60.472,8.4689,2263,7,6,2250,Norway
 ,,,Sweden,3/22/20 23:45,60.128161,18.643501,1931,21,16,1894,Sweden
@@ -3260,7 +3260,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Diamond Princess,Cruise Ship,3/22/20 23:45,0.0,0.0,712,8,567,137,"Diamond Princess, Cruise Ship"
 ,,,Poland,3/22/20 23:45,51.9194,19.1451,634,7,13,614,Poland
 ,,,Chile,3/22/20 23:45,-35.6751,-71.543,632,1,8,623,Chile
-,,,Finland,3/22/20 23:45,61.92411,25.748151,626,1,10,615,Finland
+,,,Finland,3/22/20 23:45,61.92411,25.748151,823,10,10,615,Finland
 ,,,Greece,3/22/20 23:45,39.0742,21.8243,624,15,19,590,Greece
 ,,,Thailand,3/22/20 23:45,15.870032,100.992541,599,1,45,553,Thailand
 ,,,Iceland,3/22/20 23:45,64.9631,-19.0208,568,1,5,562,Iceland
@@ -3333,10 +3333,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Martinique,France,3/22/20 23:45,14.6415,-61.0242,37,1,0,36,"Martinique, France"
 ,,,Liechtenstein,3/22/20 23:45,47.14,9.55,46,0,0,46,Liechtenstein
 ,,,Cuba,3/22/20 23:45,21.521757,-77.781167,35,1,0,34,Cuba
-,,Channel Islands,United Kingdom,3/22/20 23:45,49.3723,-2.3644,32,0,0,32,"Channel Islands, United Kingdom"
+,,Channel Islands,United Kingdom,3/22/20 23:45,49.3723,-2.3644,0,0,0,32,"Channel Islands, United Kingdom"
 ,,,Congo (Kinshasa),3/22/20 23:45,-4.322447,15.307045,30,1,0,29,Congo (Kinshasa)
 ,,,Nigeria,3/22/20 23:45,9.082,8.6753,30,0,2,28,Nigeria
-,,,Mauritius,3/22/20 23:45,-20.348404,57.552152,28,2,0,26,Mauritius
+,,,Mauritius,3/22/20 23:45,-20.348404,57.552152,14,0,0,26,Mauritius
 ,,,Bangladesh,3/22/20 23:45,23.685,90.3563,27,2,3,22,Bangladesh
 ,,,Honduras,3/22/20 23:45,15.2,-86.2419,26,0,0,26,Honduras
 ,,,Bolivia,3/22/20 23:45,-16.2902,-63.5887,24,0,0,24,Bolivia
@@ -3441,3 +3441,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,W.P. Putrajaya,Malaysia,3/22/20 23:45,2.9264,101.6964,11,0,2,9,"W.P. Putrajaya, Malaysia"
 ,,Unknown,Malaysia,3/22/20 23:45,,,0,0,0,0,"Unknown, Malaysia"
 ,,,Tonga,3/22/20 23:45,-21.179,-175.1982,0,0,0,0,Tonga
+,,,Winter Olympics 2022,3/22/20 23:45,39.9042,116.4074,0,0,0,0,Winter Olympics 2022
+,,,Antarctica,3/22/20 23:45,-71.9499,23.347,0,0,0,0,Antarctica
+,,Jersey,United Kingdom,3/22/20 23:45,49.2138,-2.1358,12,0,0,0,"Jersey, United Kingdom"
+,,Guernsey,United Kingdom,3/22/20 23:45,49.448196,-2.58949,23,0,0,0,"Guernsey, United Kingdom"
+,,,"Korea, North",3/22/20 23:45,40.3399,127.5101,0,0,0,0,"Korea, North"

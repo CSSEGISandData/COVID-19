@@ -1,6 +1,7 @@
 UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined_Key,Population
 4,AF,AFG,4,,,,Afghanistan,33.93911,67.709953,Afghanistan,38928341
 8,AL,ALB,8,,,,Albania,41.1533,20.1683,Albania,2877800
+10,AQ,ATA,10,,,,Antarctica,-71.9499,23.347,Antarctica,
 12,DZ,DZA,12,,,,Algeria,28.0339,1.6596,Algeria,43851043
 20,AD,AND,20,,,,Andorra,42.5063,1.5218,Andorra,77265
 24,AO,AGO,24,,,,Angola,-11.2027,17.8739,Angola,32866268
@@ -316,6 +317,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,18776707
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,53771300
 296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,117606
+408,KP,PRK,408,,,,"Korea, North",40.3399,127.5101,"Korea, North",25778815
 410,KR,KOR,410,,,,"Korea, South",35.907757,127.766922,"Korea, South",51269183
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,1810366
 414,KW,KWT,414,,,,Kuwait,29.31166,47.481766,Kuwait,4270563
@@ -390,7 +392,52 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 48432,MX,MEX,484,,,Zacatecas,Mexico,22.7709,-102.5832,"Zacatecas, Mexico",1666426
 48433,MX,MEX,484,,,Unknown,Mexico,,,"Unknown, Mexico",
 583,FM,FSM,583,,,,Micronesia,7.4256,150.5508,Micronesia,113815
-498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4033963
+498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,4027690
+49801,MD,MDA,498,,,Anenii Noi,Moldova,46.8833,29.2167,"Anenii Noi, Moldova",81710
+49802,MD,MDA,498,,,Balti,Moldova,47.754,27.9184,"Balti, Moldova",127561
+49803,MD,MDA,498,,,Basarabeasca,Moldova,46.3333,28.9667,"Basarabeasca, Moldova",28978
+49804,MD,MDA,498,,,Bender,Moldova,46.8228,29.462,"Bender, Moldova",91197
+49805,MD,MDA,498,,,Briceni,Moldova,48.3600,27.0858,"Briceni, Moldova",78027
+49806,MD,MDA,498,,,Cahul,Moldova,45.9167,28.1833,"Cahul, Moldova",119231
+49807,MD,MDA,498,,,Calarasi,Moldova,47.2500,28.3000,"Calarasi, Moldova",75075
+49808,MD,MDA,498,,,Camenca,Moldova,48.0319,28.6978,"Camenca, Moldova",8871
+49809,MD,MDA,498,,,Cantemir,Moldova,46.2854,28.1979,"Cantemir, Moldova",60001
+49810,MD,MDA,498,,,Causeni,Moldova,46.6333,29.4000,"Causeni, Moldova",90612
+49811,MD,MDA,498,,,Ceadir-Lunga,Moldova,46.0570,28.8260,"Ceadir-Lunga, Moldova",16605
+49812,MD,MDA,498,,,Chisinau,Moldova,47.0105,28.8638,"Chisinau, Moldova",712218
+49813,MD,MDA,498,,,Cimislia,Moldova,46.5289,28.7838,"Cimislia, Moldova",60925
+49814,MD,MDA,498,,,Comrat,Moldova,46.2956,28.6549,"Comrat, Moldova",72254
+49815,MD,MDA,498,,,Criuleni,Moldova,47.2120,29.1617,"Criuleni, Moldova",46442
+49816,MD,MDA,498,,,Donduseni,Moldova,48.2372,27.6104,"Donduseni, Moldova",87092
+49817,MD,MDA,498,,,Drochia,Moldova,48.0333,27.7500,"Drochia, Moldova",43015
+49818,MD,MDA,498,,,Dubasari,Moldova,47.2670,29.1670,"Dubasari, Moldova",28500
+49819,MD,MDA,498,,,Edinet,Moldova,48.1667,27.3167,"Edinet, Moldova",90320
+49820,MD,MDA,498,,,Falesti,Moldova,47.5000,27.7200,"Falesti, Moldova",89389
+49821,MD,MDA,498,,,Floresti,Moldova,47.8933,28.3014,"Floresti, Moldova",155646
+49822,MD,MDA,498,,,Glodeni,Moldova,47.7667,27.5167,"Glodeni, Moldova",119762
+49823,MD,MDA,498,,,Grigoriopol,Moldova,47.1536,29.2964,"Grigoriopol, Moldova",9381
+49824,MD,MDA,498,,,Hincesti,Moldova,46.8167,28.5833,"Hincesti, Moldova",97704
+49825,MD,MDA,498,,,Ialoveni,Moldova,46.9439,28.7772,"Ialoveni, Moldova",51056
+49826,MD,MDA,498,,,Leova,Moldova,46.4806,28.2644,"Leova, Moldova",64924
+49827,MD,MDA,498,,,Nisporeni,Moldova,47.0833,28.1833,"Nisporeni, Moldova",56510
+49828,MD,MDA,498,,,Ocnita,Moldova,48.4061,27.4859,"Ocnita, Moldova",116271
+49829,MD,MDA,498,,,Orhei,Moldova,47.3735,28.8220,"Orhei, Moldova",48105
+49830,MD,MDA,498,,,Rezina,Moldova,47.7333,28.9500,"Rezina, Moldova",69454
+49831,MD,MDA,498,,,Ribnita,Moldova,47.7667,29.0000,"Ribnita, Moldova",47949
+49832,MD,MDA,498,,,Riscani,Moldova,47.9679,27.5565,"Riscani, Moldova",87153
+49833,MD,MDA,498,,,Singerei,Moldova,47.6333,28.1500,"Singerei, Moldova",42227
+49834,MD,MDA,498,,,Slobozia,Moldova,46.7333,29.7000,"Slobozia, Moldova",14618
+49835,MD,MDA,498,,,Soldanesti,Moldova,47.8167,28.8000,"Soldanesti, Moldova",94986
+49836,MD,MDA,498,,,Soroca,Moldova,48.1618,28.3011,"Soroca, Moldova",70594
+49837,MD,MDA,498,,,Stefan Voda,Moldova,46.5153,29.5297,"Stefan Voda, Moldova",88900
+49838,MD,MDA,498,,,Straseni,Moldova,47.1333,28.6167,"Straseni, Moldova",43154
+49839,MD,MDA,498,,,Taraclia,Moldova,45.9000,28.6667,"Taraclia, Moldova",70126
+49840,MD,MDA,498,,,Telenesti,Moldova,47.5032,28.3535,"Telenesti, Moldova",383806
+49841,MD,MDA,498,,,Tiraspol,Moldova,46.8500,29.6333,"Tiraspol, Moldova",133807
+49842,MD,MDA,498,,,Transnistria,Moldova,47.2153,29.463,"Transnistria, Moldova",110545
+49843,MD,MDA,498,,,Ungheni,Moldova,47.2077,27.8073,"Ungheni, Moldova",30804
+49844,MD,MDA,498,,,Vulcanesti,Moldova,45.6833,28.4042,"Vulcanesti, Moldova",12185
+49899,MD,MDA,498,,,Unknown,Moldova,,,"Unknown, Moldova",
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,39244
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,3278292
 499,ME,MNE,499,,,,Montenegro,42.708678,19.37439,Montenegro,628062
@@ -463,6 +510,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2083380
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,5421242
 2020,,,,,,,Summer Olympics 2020,35.6491,139.7737,Summer Olympics 2020,
+2022,,,,,,,Winter Olympics 2022,39.9042,116.4074,Winter Olympics 2022,
 512,OM,OMN,512,,,,Oman,21.512583,55.923255,Oman,5106622
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,220892331
 58601,PK,PAK,586,,,Azad Jammu and Kashmir,Pakistan,34.027401,73.947253,"Azad Jammu and Kashmir, Pakistan",4045366
@@ -522,9 +570,53 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",1428983
 61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",3493969
 61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",1701030
+61617,PL,POL,616,,,Unknown,Poland,,,"Unknown, Poland",
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,10196707
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2881060
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,19237682
+64201,RO,ROU,642,,,Alba,Romania,46.1559,23.5556,"Alba, Romania",74000
+64202,RO,ROU,642,,,Arad,Romania,46.1760,21.3190,"Arad, Romania",409072
+64203,RO,ROU,642,,,Arges,Romania,45.0723,24.8143,"Arges, Romania",612431
+64204,RO,ROU,642,,,Bacau,Romania,46.5833,26.9167,"Bacau, Romania",616168
+64205,RO,ROU,642,,,Bihor,Romania,47.0158,22.1723,"Bihor, Romania",575398
+64206,RO,ROU,642,,,Bistrita-Nasaud,Romania,47.2486,24.5323,"Bistrita-Nasaud, Romania",277861
+64207,RO,ROU,642,,,Botosani,Romania,47.7450,26.6621,"Botosani, Romania",412626
+64208,RO,ROU,642,,,Braila,Romania,45.2710,27.9743,"Braila, Romania",304925
+64209,RO,ROU,642,,,Brasov,Romania,45.6667,25.6167,"Brasov, Romania",549217
+64210,RO,ROU,642,,,Bucuresti,Romania,44.4268,26.1025,"Bucuresti, Romania",1883425
+64211,RO,ROU,642,,,Buzau,Romania,45.1667,26.8167,"Buzau, Romania",432054
+64212,RO,ROU,642,,,Calarasi,Romania,44.2085,27.3137,"Calarasi, Romania",285050
+64213,RO,ROU,642,,,Caras-Severin,Romania,45.114,22.0741,"Caras-Severin, Romania",274277
+64214,RO,ROU,642,,,Cluj,Romania,46.7667,23.5833,"Cluj, Romania",691106
+64215,RO,ROU,642,,,Constanta,Romania,44.1773,28.6529,"Constanta, Romania",684082
+64216,RO,ROU,642,,,Covasna,Romania,45.8446,26.1687,"Covasna, Romania",210177
+64217,RO,ROU,642,,,Dambovita,Romania,44.929,25.4254,"Dambovita, Romania",518745
+64218,RO,ROU,642,,,Dolj,Romania,44.1623,23.6325,"Dolj, Romania",660544
+64219,RO,ROU,642,,,Galati,Romania,45.4382,28.0563,"Galati, Romania",536167
+64220,RO,ROU,642,,,Giurgiu,Romania,43.9008,25.9739,"Giurgiu, Romania",265494
+64221,RO,ROU,642,,,Gorj,Romania,44.9486,23.2427,"Gorj, Romania",334238
+64222,RO,ROU,642,,,Harghita,Romania,46.4929,25.6457,"Harghita, Romania",304969
+64223,RO,ROU,642,,,Hunedoara,Romania,45.7697,22.9203,"Hunedoara, Romania",396253
+64224,RO,ROU,642,,,Ialomita,Romania,44.6031,27.379,"Ialomita, Romania",258669
+64225,RO,ROU,642,,,Iasi,Romania,47.1598,27.5872,"Iasi, Romania",772348
+64226,RO,ROU,642,,,Ilfov,Romania,44.5355,26.2325,"Ilfov, Romania",388738
+64227,RO,ROU,642,,,Maramures,Romania,47.6738,23.7456,"Maramures, Romania",516562
+64228,RO,ROU,642,,,Mehedinti,Romania,44.5515,22.9044,"Mehedinti, Romania",254570
+64229,RO,ROU,642,,,Mures,Romania,46.557,24.6723,"Mures, Romania",550846
+64230,RO,ROU,642,,,Neamt,Romania,46.9759,26.3819,"Neamt, Romania",470766
+64231,RO,ROU,642,,,Olt,Romania,44.2008,24.5023,"Olt, Romania",415530
+64232,RO,ROU,642,,,Prahova,Romania,45.0892,26.0829,"Prahova, Romania",762886
+64233,RO,ROU,642,,,Salaj,Romania,47.2091,23.2122,"Salaj, Romania",224384
+64234,RO,ROU,642,,,Satu Mare,Romania,47.7900,22.8900,"Satu Mare, Romania",329079
+64235,RO,ROU,642,,,Sibiu,Romania,45.7969,24.1500,"Sibiu, Romania",375992
+64236,RO,ROU,642,,,Suceava,Romania,47.6514,26.2556,"Suceava, Romania",634810
+64237,RO,ROU,642,,,Teleorman,Romania,44.016,25.2987,"Teleorman, Romania",360178
+64238,RO,ROU,642,,,Timis,Romania,45.8139,21.3331,"Timis, Romania",683540
+64239,RO,ROU,642,,,Tulcea,Romania,45.1767,28.8052,"Tulcea, Romania",201462
+64240,RO,ROU,642,,,Valcea,Romania,45.0798,24.0835,"Valcea, Romania",355320
+64241,RO,ROU,642,,,Vaslui,Romania,46.6381,27.7288,"Vaslui, Romania",395500
+64242,RO,ROU,642,,,Vrancea,Romania,45.8135,27.0658,"Vrancea, Romania",340310
+64299,RO,ROU,642,,,Unknown,Romania,,,"Unknown, Romania",
 643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,145934460
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",453376
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.6931424,"Altai Krai, Russia",2350080
@@ -623,7 +715,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,98340
 694,SL,SLE,694,,,,Sierra Leone,8.460555,-11.779889,Sierra Leone,7976985
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore,5850343
-703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,5459643
+703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,5434712
+70301,SK,SVK,703,,,Banska Bystrica,Slovakia,48.7363,19.1462,"Banska Bystrica, Slovakia",657119
+70302,SK,SVK,703,,,Bratislava,Slovakia,48.1486,17.107,"Bratislava, Slovakia",603699
+70303,SK,SVK,703,,,Kosice,Slovakia,48.7164,21.2611,"Kosice, Slovakia",771947
+70304,SK,SVK,703,,,Nitra,Slovakia,48.3061,18.0764,"Nitra, Slovakia",708498
+70305,SK,SVK,703,,,Presov,Slovakia,49.0018,21.2393,"Presov, Slovakia",798596
+70306,SK,SVK,703,,,Trencin,Slovakia,48.8849,18.0335,"Trencin, Slovakia",600386
+70307,SK,SVK,703,,,Trnava,Slovakia,48.3709,17.5833,"Trnava, Slovakia",554172
+70308,SK,SVK,703,,,Zilina,Slovakia,49.2194,18.7408,"Zilina, Slovakia",694763
+70399,SK,SVK,703,,,Unknown,Slovakia,,,"Unknown, Slovakia",
 705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2078932
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,652858
 706,SO,SOM,706,,,,Somalia,5.152149,46.199616,Somalia,15893219
@@ -729,6 +830,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom",30237
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",65720
 8261,GB,GBR,826,,,Channel Islands,United Kingdom,49.3723,-2.3644,"Channel Islands, United Kingdom",170499
+831,GG,GGY,831,,,Guernsey,United Kingdom,49.448196,-2.589490,"Guernsey, United Kingdom",63000
+832,JE,JEY,832,,,Jersey,United Kingdom,49.2138,-2.1358,"Jersey, United Kingdom",109300
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",3483
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",33691
 833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",85032

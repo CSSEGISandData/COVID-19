@@ -21,12 +21,12 @@ https://systems.jhu.edu/
 
 
 <b>DATA SOURCES:</b>
-This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
+This list includes a complete list of all sources ever used in the data set, since January 21, 2020. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
-  - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
+  - DXY.cn. Pneumonia. 2020. https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
   - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
@@ -40,7 +40,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Alaska: [Department of Health and Social Services](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/)
   - Arizona: [Department of Health Services](https://www.azdhs.gov/covid19/data/index.php)
   - Arkansas: [Department of Health](https://experience.arcgis.com/experience/633006d0782b4544bd5113a314f6268a/page/page_0/)
-  - California: [Department of Publich Health](https://www.cdph.ca.gov/covid19)
+  - California: [Department of Public Health](https://www.cdph.ca.gov/covid19)
     - [Mariposa County](https://www.mariposacounty.org/1592/COVID-19-Information)
     - [Alameda County](https://covid-19.acgov.org/)
     - [Fresno County](https://www.co.fresno.ca.us/departments/public-health/covid-19)
@@ -72,7 +72,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Connecticut: [Department of Public Health](https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/)
   - Delaware: [Emergency Management Agency](https://coronavirus.delaware.gov/)
   - District of Columbia: [Government of The District of Columbia](https://coronavirus.dc.gov/page/coronavirus-data)
-  - Florida: [Department of Health](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86)
+  - Florida: [Department of Health](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86) & [U.S. Department of Health & Human Services](https://protect-public.hhs.gov/datasets/HHSGOV::community-profile-report-counties/about)
   - Georgia: [Department of Public Health](https://dph.georgia.gov/covid-19-daily-status-report)
   - Guam: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
   - Hawaii: [Department of Health](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/)
@@ -114,7 +114,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - North Dakota: [Department of Health](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
   - Northern Mariana Islands: [Northern Mariana Islands Commonwealth Dept of Public Health](https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a)
   - Ohio: [Department of Health](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home)
-  - Oklahoma: [Department of Health](https://looker-dashboards.ok.gov/embed/dashboards/44)
+  - Oklahoma: [Department of Health](https://oklahoma.gov/covid19.html)
   - Oregon: [Health Authority](https://govstatus.egov.com/OR-OHA-COVID-19)
   - Pennsylvania: [Department of Health](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx)
     - [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/)
@@ -132,7 +132,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Cameron County](https://www.cameroncounty.us/publichealth/index.php/coronavirus/)
     - [Collin County](https://www.collincountytx.gov/healthcare_services/Pages/news.aspx)
     - [Corpus Christi](https://www.cctexas.com/coronavirus)
-    - [Dallas County](https://www.dallascounty.org/departments/dchhs/2019-novel-coronavirus.php)
     - [Denton County](https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases)
     - [Ector County](http://www.co.ector.tx.us/page/ector.CoronavirusCOVID19)
     - [City of El Paso](http://epstrong.org/results.php)
@@ -149,7 +148,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [San Angelo 1](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0)
     - [San Angelo 2](https://www.gosanangelo.com/)
     - [San Antonio](https://covid19.sanantonio.gov/Home)
-    - [Tarrant County](https://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html)
+    - [Tarrant County](https://www.tarrantcounty.com/coronavirus)
     - [Travis County](https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information)
     - [Williamson County](http://www.wcchd.org/COVID-19/dashboard.php)
   - Utah: [Department of Health](https://coronavirus.utah.gov/case-counts/#overview)
@@ -158,17 +157,21 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Virginia: [Department of Health](https://www.vdh.virginia.gov/coronavirus/)
   - Washington: [Department of Health](https://www.doh.wa.gov/emergencies/coronavirus)
   - West Virginia: [Department of Health & Human Resources](https://dhhr.wv.gov/COVID-19/Pages/default.aspx)
-  - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm)
+  - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm) (https://data.dhsgis.wi.gov/datasets/wi-dhs::covid-19-data-by-county-v2/about)  
   - Wyoming: [Department of Health](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - Albania:
     - National Agency for Information Society: https://coronavirus.al/statistika/
+  - Argentina:
+    - Ministry of Health: https://www.argentina.gob.ar/salud/coronavirus-COVID-19/sala-situacion
   - Australia:
     - Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
     - COVID Live: https://www.covidlive.com.au/
   - Azerbaijan:
     - Azerbaijan Operational Headquarters under the Cabinet of Ministers: https://koronavirusinfo.az/az
+  - Belarus:
+    - Ministry of Health: https://stopcovid.belta.by/
   - Belgium:
     - Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
   - Brazil: 
@@ -182,21 +185,14 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
     - Government of Manitoba: https://www.gov.mb.ca/covid19/updates/cases.html
     - Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
-    - Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
     - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
-    - Government of Nova Scotia: https://novascotia.ca/coronavirus/data/
     - Government of Ontario: https://covid-19.ontario.ca/data
-      - City of Toronto: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
-      - Eastern Ontario Health Unit: https://eohu.ca/en/covid/covid-19-status-update-for-eohu-region
-      - Grey Bruce Health Unit: https://www.publichealthgreybruce.on.ca/
-      - Halton Region: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus
-      - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx
-      - Region of Peel: https://peelregion.ca/coronavirus/case-status/
-      - Windsor-Essex County Health Unit: https://www.wechu.org/cv/local-updates
-      - York Region: https://www.york.ca/wps/portal/yorkhome/health/yr/covid-19/covid19inyorkregion/!ut/p/z1/tZPNcpswFIWfJQuWWBcJjOhOpa6BxNhN4j82HowxKAXkYMXUb1-R0pm20zjtJLAASZx7dPRxQRFaoaiKTzyLJRdVXKj5OhpufDb2Pe8agqlJXWAwZQG2KYwcAy2fBfDCxQBF_1J_QRBdtl-gCEWHhO_Q2qIWdYhj6U6Md7qJnVSnceLoO8PZOhhi9XbfqpNKHmSO1ud6k4hKppXU4Czqr2pylFw-PS_kokzVPY0LmWuQiBPf6YbTjQyHV21FnWYKEwpeO6SiiOuJO8lU1FjmOq_2Aq1-mnajP0xVDX94fIyYCtym_CbR6t0SL1sOv2Ye31ET_EVgs4UxBdMnnQBjc-gZLgTgTSn4n-2Z9Yl6BlzjTnDh0ygsWSG2P7qIVVtC1fnrdJ_WaT14qtVyLuXh-EEDDZqmGWRCZEU6SESpwd9KcnFUDH5XorXqH_tF9rcYLU88bdC8EnWpktz9Z7t40O1gU5d5bAwzuJ_b8GVkm3R4M5nd3Bpv3OGVA_RsT3q1t6Ffe9yv_fvACXxwDdb-Y2REgGHfpR9JQMOwX_Zhv-zDftmH_fb94q1wDuV8XlJiFQ9nAnxWLqmkzf0-z8rNZESsyw92dfUd1P5kcA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#.X8UQBqpKi3U
+      - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx 
+      - Toronto Public Health: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
+      - Region of Peel: https://peelregion.ca/coronavirus/case-status/ 
+      - Region of Halton: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus   
     - Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
     - Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
-    - Government of Saskatchewan: https://dashboard.saskatchewan.ca/health-wellness
     - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
     - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
   - Chile: 
@@ -211,6 +207,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Health Information System, Regional Hygiene Stations, Ministry of Health of the Czech Republic: https://onemocneni-aktualne.mzcr.cz/covid-19
   - Denmark:
     - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
+  - Ecuador:
+    - Ministry of Public Health: https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/ 
   - El Salvador:
     - Government of El Salvador: https://covid19.gob.sv/
   - Finland:
@@ -222,15 +220,15 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Georgia:
     - Government of Georgia Ministry of Health: https://stopcov.ge/en
   - Germany:
-    - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+    - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ (retired March 31, 2022)
+    - Robert Koch Institute: https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html
   - Greece:
     - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
-  - Honduras:
-    - Despacho de Comunicaciones y Estrategia Presidencial: https://covid19honduras.org/ 
-  - Hong Kong:
-    - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
+  - Hong Kong SAR:
+    - The Government of The Hong Kong Special Administrative Region Website: https://www.chp.gov.hk/en/features/102465.html
+    - The Government of The Hong Kong Special Administrative Region Dashboard: https://chp-dashboard.geodata.gov.hk/covid-19/en.html
   - Hungary:
     - Government of Hungary: https://koronavirus.gov.hu/
   - Iceland:
@@ -247,8 +245,6 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Italy:
     - Civil Protection Department: https://github.com/pcm-dpc/COVID-19/tree/master/
     - Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
-  - Jamaica: 
-    - Ministry of Health & Wellness: https://www.moh.gov.jm
   - Japan: 
     - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
   - Jordan:
@@ -265,7 +261,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
   - Luxembourg: 
     - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
-  - Macau:
+  - Macau SAR:
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
   - Malaysia
     - Ministry of Health: https://covid-19.moh.gov.my/
@@ -278,6 +274,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
+    - Government of Cook Islands: https://covid19.gov.ck/
   - Palau:
     - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
   - Paraguay:
@@ -318,14 +315,13 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Switzerland:
     - Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
     - Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
-  - Taiwan:
+  - Taiwan*:
     - CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
   - Thailand: 
     - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
     - Ministry of Public Health, Department of Disease Control Situational Reports: https://covid19.ddc.moph.go.th/en
   - Turkey: 
-    - Republic of Turkey Ministry of Health (English): https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
-    - Republic of Turkey Ministry of Health (Turkey): https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
+    - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
     - Digital Transformation Office of The Presidency of The Republic of Turkey: https://corona.cbddo.gov.tr/Home/GetLastDayDifference
   - Ukraine: 
     - Office of the National Security and Defense Council of Ukraine: https://covid19.rnbo.gov.ua/
