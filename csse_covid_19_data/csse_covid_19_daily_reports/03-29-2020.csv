@@ -3357,7 +3357,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,3/29/20 23:08,6.428055,-9.429499,3,0,0,3,Liberia
 ,,,Libya,3/29/20 23:08,26.3351,17.228331,8,0,0,8,Libya
 ,,,Liechtenstein,3/29/20 23:08,47.14,9.55,63,0,0,63,Liechtenstein
-,,,Lithuania,3/29/20 23:08,55.1694,23.8813,378,4,0,374,Lithuania
+,,,Lithuania,3/29/20 23:08,55.1694,23.8813,263,4,0,374,Lithuania
 ,,,Luxembourg,3/29/20 23:08,49.8153,6.1296,1950,21,40,1889,Luxembourg
 ,,,MS Zaandam,3/29/20 23:08,0.0,0.0,2,0,0,2,",,MS Zaandam"
 ,,,Madagascar,3/29/20 23:08,-18.766947,46.869107,39,0,0,39,Madagascar
@@ -3377,7 +3377,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Nepal,3/29/20 23:08,28.1667,84.25,5,0,1,4,Nepal
 ,,,Netherlands,3/29/20 23:08,52.1326,5.2913,10866,771,250,9845,Netherlands
 ,,,New Zealand,3/29/20 23:08,-40.9006,174.886,514,1,56,457,New Zealand
-,,,Nicaragua,3/29/20 23:08,12.865416,-85.207229,4,1,0,3,Nicaragua
+,,,Nicaragua,3/29/20 23:08,12.865416,-85.207229,2,1,0,3,Nicaragua
 ,,,Niger,3/29/20 23:08,17.607789,8.081666,18,1,0,17,Niger
 ,,,Nigeria,3/29/20 23:08,9.082,8.6753,111,1,3,107,Nigeria
 ,,,North Macedonia,3/29/20 23:08,41.6086,21.7453,259,6,3,250,North Macedonia
@@ -3418,7 +3418,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Syria,3/29/20 23:08,34.802075,38.996815,9,1,0,8,Syria
 ,,,Taiwan*,3/29/20 8:04,23.7,121.0,298,2,30,266,Taiwan*
 ,,,Tanzania,3/29/20 23:08,-6.369028,34.888822,14,0,1,13,Tanzania
-,,,Thailand,3/29/20 23:08,15.870032,100.992541,1388,7,111,1270,Thailand
+,,,Thailand,3/29/20 23:08,15.870032,100.992541,1385,7,111,1270,Thailand
 ,,,Timor-Leste,3/29/20 23:08,-8.874217,125.727539,1,0,0,1,Timor-Leste
 ,,,Togo,3/29/20 23:08,8.6195,0.8248,25,1,1,23,Togo
 ,,,Trinidad and Tobago,3/29/20 23:08,10.6918,-61.2225,78,3,1,74,Trinidad and Tobago
@@ -3463,3 +3463,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,3/29/20 23:08,49.2138,-2.1358,57,1,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,3/29/20 23:08,49.448196,-2.58949,46,0,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",3/29/20 23:08,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,3/29/20 23:08,,,0,0,0,0,"Unknown, Ukraine"

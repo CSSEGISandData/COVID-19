@@ -2930,7 +2930,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-04-14 23:33:12,6.4280550000000005,-9.429499,51,6,4,41,Liberia
 ,,,Libya,2020-04-14 23:33:12,26.3351,17.228331,35,1,9,25,Libya
 ,,,Liechtenstein,2020-04-14 23:33:12,47.14,9.55,81,1,55,25,Liechtenstein
-,,,Lithuania,2020-04-14 23:33:12,55.1694,23.8813,977,16,7,954,Lithuania
+,,,Lithuania,2020-04-14 23:33:12,55.1694,23.8813,906,16,7,954,Lithuania
 ,,,Luxembourg,2020-04-14 23:33:12,49.8153,6.1296,3307,67,500,2740,Luxembourg
 ,,,MS Zaandam,2020-04-14 23:33:12,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-04-14 23:33:12,-18.766947000000002,46.869107,108,0,23,85,Madagascar
@@ -3041,3 +3041,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-04-14 23:33:31,49.2138,-2.1358,209,4,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-04-14 23:33:31,49.448196,-2.58949,218,11,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-04-14 23:33:31,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-04-14 23:33:31,,,0,0,0,0,"Unknown, Ukraine"

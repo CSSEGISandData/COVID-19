@@ -1,12 +1,12 @@
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
-Hubei,Mainland China,1/25/20 17:00,761,40,32
-Guangdong,Mainland China,1/25/20 17:00,78,,2
-Zhejiang,Mainland China,1/25/20 17:00,62,,1
+Hubei,Mainland China,1/25/20 17:00,761,40,32.0
+Guangdong,Mainland China,1/25/20 17:00,78,,2.0
+Zhejiang,Mainland China,1/25/20 17:00,62,,1.0
 Chongqing,Mainland China,1/25/20 17:00,57,,
 Hunan,Mainland China,1/25/20 17:00,43,,
-Beijing,Mainland China,1/25/20 17:00,41,,2
+Beijing,Mainland China,1/25/20 17:00,41,,2.0
 Anhui,Mainland China,1/25/20 17:00,39,,
-Shanghai,Mainland China,1/25/20 17:00,33,,1
+Shanghai,Mainland China,1/25/20 17:00,33,,1.0
 Henan,Mainland China,1/25/20 17:00,32,,
 Sichuan,Mainland China,1/25/20 17:00,28,,
 Shandong,Mainland China,1/25/20 17:00,27,,
@@ -14,7 +14,7 @@ Guangxi,Mainland China,1/25/20 17:00,23,,
 Hainan,Mainland China,1/25/20 17:00,19,,
 Jiangxi,Mainland China,1/25/20 17:00,18,,
 Fujian,Mainland China,1/25/20 17:00,18,,
-Jiangsu,Mainland China,1/25/20 17:00,18,,1
+Jiangsu,Mainland China,1/25/20 17:00,18,,1.0
 Liaoning,Mainland China,1/25/20 17:00,17,,
 Shaanxi,Mainland China,1/25/20 17:00,15,,
 Yunnan,Mainland China,1/25/20 17:00,11,,
@@ -35,7 +35,7 @@ Qinghai,Mainland China,1/25/20 17:00,1,,
 Washington,US,1/25/20 17:00,1,,
 Illinois,US,1/25/20 17:00,1,,
 ,Japan,1/25/20 17:00,2,,
-,Thailand,1/25/20 17:00,6,0,3
+,Thailand,1/25/20 17:00,6,0,3.0
 ,South Korea,1/25/20 17:00,2,,
 ,Singapore,1/25/20 17:00,3,,
 ,Vietnam,1/25/20 17:00,2,,
@@ -43,30 +43,31 @@ Illinois,US,1/25/20 17:00,1,,
 ,Australia,1/25/20 17:00,4,,
 ,Nepal,1/25/20 17:00,1,,
 Unknown,China,1/25/20 17:00,,,
-,Kiribati,1/25/20 17:00,0,0,0
-,Palau,1/25/20 17:00,0,0,0
-Cook Islands,New Zealand,1/25/20 17:00,0,0,0
-,Summer Olympics 2020,1/25/20 17:00,0,0,0
-Johor,Malaysia,1/25/20 17:00,0,0,0
-Kedah,Malaysia,1/25/20 17:00,0,0,0
-Kelantan,Malaysia,1/25/20 17:00,0,0,0
-Melaka,Malaysia,1/25/20 17:00,0,0,0
-Negeri Sembilan,Malaysia,1/25/20 17:00,0,0,0
-Pahang,Malaysia,1/25/20 17:00,0,0,0
-Perak,Malaysia,1/25/20 17:00,0,0,0
-Perlis,Malaysia,1/25/20 17:00,0,0,0
-Pulau Pinang,Malaysia,1/25/20 17:00,0,0,0
-Sabah,Malaysia,1/25/20 17:00,0,0,0
-Sarawak,Malaysia,1/25/20 17:00,0,0,0
-Selangor,Malaysia,1/25/20 17:00,0,0,0
-Terengganu,Malaysia,1/25/20 17:00,0,0,0
-W.P. Kuala Lumpur,Malaysia,1/25/20 17:00,0,0,0
-W.P. Labuan,Malaysia,1/25/20 17:00,0,0,0
-W.P. Putrajaya,Malaysia,1/25/20 17:00,0,0,0
-Unknown,Malaysia,1/25/20 17:00,0,0,0
-,Tonga,1/25/20 17:00,0,0,0
-,Winter Olympics 2022,1/25/20 17:00,0,0,0
-,Antarctica,1/25/20 17:00,0,0,0
-Jersey,United Kingdom,1/25/20 17:00,0,0,0
-Guernsey,United Kingdom,1/25/20 17:00,0,0,0
-,"Korea, North",1/25/20 17:00,0,0,0
+,Kiribati,1/25/20 17:00,0,0,0.0
+,Palau,1/25/20 17:00,0,0,0.0
+Cook Islands,New Zealand,1/25/20 17:00,0,0,0.0
+,Summer Olympics 2020,1/25/20 17:00,0,0,0.0
+Johor,Malaysia,1/25/20 17:00,0,0,0.0
+Kedah,Malaysia,1/25/20 17:00,0,0,0.0
+Kelantan,Malaysia,1/25/20 17:00,0,0,0.0
+Melaka,Malaysia,1/25/20 17:00,0,0,0.0
+Negeri Sembilan,Malaysia,1/25/20 17:00,0,0,0.0
+Pahang,Malaysia,1/25/20 17:00,0,0,0.0
+Perak,Malaysia,1/25/20 17:00,0,0,0.0
+Perlis,Malaysia,1/25/20 17:00,0,0,0.0
+Pulau Pinang,Malaysia,1/25/20 17:00,0,0,0.0
+Sabah,Malaysia,1/25/20 17:00,0,0,0.0
+Sarawak,Malaysia,1/25/20 17:00,0,0,0.0
+Selangor,Malaysia,1/25/20 17:00,0,0,0.0
+Terengganu,Malaysia,1/25/20 17:00,0,0,0.0
+W.P. Kuala Lumpur,Malaysia,1/25/20 17:00,0,0,0.0
+W.P. Labuan,Malaysia,1/25/20 17:00,0,0,0.0
+W.P. Putrajaya,Malaysia,1/25/20 17:00,0,0,0.0
+Unknown,Malaysia,1/25/20 17:00,0,0,0.0
+,Tonga,1/25/20 17:00,0,0,0.0
+,Winter Olympics 2022,1/25/20 17:00,0,0,0.0
+,Antarctica,1/25/20 17:00,0,0,0.0
+Jersey,United Kingdom,1/25/20 17:00,0,0,0.0
+Guernsey,United Kingdom,1/25/20 17:00,0,0,0.0
+,"Korea, North",1/25/20 17:00,0,0,0.0
+Unknown,Ukraine,1/25/20 17:00,0,0,0

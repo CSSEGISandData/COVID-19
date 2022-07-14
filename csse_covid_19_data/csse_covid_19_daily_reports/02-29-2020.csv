@@ -93,7 +93,7 @@ Western Australia,Australia,2020-02-29T23:13:06,2,0,0
 ,Georgia,2020-02-27T16:23:03,1,0,0
 ,Iceland,2020-02-29T00:33:01,1,0,0
 ,Ireland,2020-02-29T22:33:03,1,0,0
-,Lithuania,2020-02-28T16:23:03,1,0,0
+,Lithuania,2020-02-28T16:23:03,0,0,0
 ,Luxembourg,2020-02-29T21:03:05,1,0,0
 Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 ,Monaco,2020-02-29T00:33:01,1,0,0
@@ -145,3 +145,4 @@ Unknown,Malaysia,2020-02-29T12:13:10,0,0,0
 Jersey,United Kingdom,2020-02-29T12:13:10,0,0,0
 Guernsey,United Kingdom,2020-02-29T12:13:10,0,0,0
 ,"Korea, North",2020-02-29T12:13:10,0,0,0
+Unknown,Ukraine,2020-02-29T12:13:10,0,0,0

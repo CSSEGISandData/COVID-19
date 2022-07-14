@@ -2970,7 +2970,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-04-18 22:32:28,6.428055,-9.429499,76,7,7,62,Liberia
 ,,,Libya,2020-04-18 22:32:28,26.3351,17.228331,49,1,11,37,Libya
 ,,,Liechtenstein,2020-04-18 22:32:28,47.14,9.55,82,1,55,26,Liechtenstein
-,,,Lithuania,2020-04-18 22:32:28,55.1694,23.8813,1091,22,66,1003,Lithuania
+,,,Lithuania,2020-04-18 22:32:28,55.1694,23.8813,1026,22,66,1003,Lithuania
 ,,,Luxembourg,2020-04-18 22:32:28,49.8153,6.1296,3537,72,601,2864,Luxembourg
 ,,,MS Zaandam,2020-04-18 22:32:28,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-04-18 22:32:28,-18.766947,46.869107,120,0,35,85,Madagascar
@@ -2991,7 +2991,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Nepal,2020-04-18 22:32:28,28.1667,84.25,31,0,2,29,Nepal
 ,,,Netherlands,2020-04-18 22:32:28,52.1326,5.2913,31589,3601,250,27738,Netherlands
 ,,,New Zealand,2020-04-18 22:32:28,-40.9006,174.886,1422,11,867,544,New Zealand
-,,,Nicaragua,2020-04-18 22:32:28,12.865416,-85.207229,9,2,6,1,Nicaragua
+,,,Nicaragua,2020-04-18 22:32:28,12.865416,-85.207229,9,1,6,1,Nicaragua
 ,,,Niger,2020-04-18 22:32:28,17.607789,8.081666,639,19,113,507,Niger
 ,,,Nigeria,2020-04-18 22:32:28,9.082,8.6753,542,19,166,357,Nigeria
 ,,,North Macedonia,2020-04-18 22:32:28,41.6086,21.7453,1170,49,164,957,North Macedonia
@@ -3081,3 +3081,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-04-18 22:32:47,49.2138,-2.1358,219,10,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-04-18 22:32:47,49.448196,-2.58949,239,13,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-04-18 22:32:47,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-04-18 22:32:47,,,0,0,0,0,"Unknown, Ukraine"

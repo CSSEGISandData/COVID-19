@@ -2800,7 +2800,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-04-08 22:51:39,6.4280550000000005,-9.429499,14,3,3,8,Liberia
 ,,,Libya,2020-04-08 22:51:39,26.3351,17.228331,21,1,8,12,Libya
 ,,,Liechtenstein,2020-04-08 22:51:39,47.14,9.55,79,1,55,23,Liechtenstein
-,,,Lithuania,2020-04-08 22:51:39,55.1694,23.8813,821,11,1,809,Lithuania
+,,,Lithuania,2020-04-08 22:51:39,55.1694,23.8813,721,11,1,809,Lithuania
 ,,,Luxembourg,2020-04-08 22:51:39,49.8153,6.1296,3034,46,500,2488,Luxembourg
 ,,,MS Zaandam,2020-04-08 22:51:39,,,9,2,0,7,",,MS Zaandam"
 ,,,Madagascar,2020-04-08 22:51:39,-18.766947000000002,46.869107,93,0,11,82,Madagascar
@@ -2865,7 +2865,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Syria,2020-04-08 22:51:39,34.802075,38.99681500000001,19,2,4,13,Syria
 ,,,Taiwan*,2020-04-08 07:57:59,23.7,121.0,379,5,61,313,Taiwan*
 ,,,Tanzania,2020-04-08 22:51:39,-6.369028,34.888822,25,1,5,19,Tanzania
-,,,Thailand,2020-04-08 22:51:39,15.870032,100.992541,2369,30,888,1451,Thailand
+,,,Thailand,2020-04-08 22:51:39,15.870032,100.992541,2369,32,888,1451,Thailand
 ,,,Timor-Leste,2020-04-08 22:51:39,-8.874217,125.727539,1,0,0,1,Timor-Leste
 ,,,Togo,2020-04-08 22:51:39,8.6195,0.8248,70,3,23,44,Togo
 ,,,Trinidad and Tobago,2020-04-08 22:51:39,10.6918,-61.2225,107,8,1,98,Trinidad and Tobago
@@ -2910,3 +2910,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-04-08 22:51:58,49.2138,-2.1358,166,3,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-04-08 22:51:58,49.448196,-2.58949,167,6,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-04-08 22:51:58,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-04-08 22:51:58,,,0,0,0,0,"Unknown, Ukraine"

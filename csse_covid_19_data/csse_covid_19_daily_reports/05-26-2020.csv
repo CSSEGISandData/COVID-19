@@ -397,7 +397,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-05-27 02:32:31,46.95043611,-94.32603968,11,2,0,9,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-05-27 02:32:31,38.64789422,-94.353399,82,8,0,74,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-05-27 02:32:31,40.90899107,-96.13971217,39,0,0,39,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-05-27 02:32:31,46.93201724,-97.2444719,1600,37,0,1543,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-05-27 02:32:31,46.93201724,-97.2444719,1599,37,0,1543,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-05-27 02:32:31,33.07499881,-94.34646905,10,0,0,23,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-05-27 02:32:31,42.28347888,-113.6012409,28,1,0,27,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-05-27 02:32:31,34.53016752,-102.2617243,24,1,0,31,"Castro, Texas, US"
@@ -2804,7 +2804,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 46129,Walworth,South Dakota,US,2020-05-27 02:32:31,45.43019636,-100.0307514,5,0,0,5,"Walworth, South Dakota, US"
 55127,Walworth,Wisconsin,US,2020-05-27 02:32:31,42.66858202,-88.54163073,351,13,0,338,"Walworth, Wisconsin, US"
 19179,Wapello,Iowa,US,2020-05-27 02:32:31,41.03064984,-92.40954728,517,4,0,513,"Wapello, Iowa, US"
-38101,Ward,North Dakota,US,2020-05-27 02:32:31,48.22390169,-101.5436763,37,1,0,35,"Ward, North Dakota, US"
+38101,Ward,North Dakota,US,2020-05-27 02:32:31,48.22390169,-101.5436763,38,1,0,35,"Ward, North Dakota, US"
 48475,Ward,Texas,US,2020-05-27 02:32:31,31.50999644,-103.0927909,1,0,0,1,"Ward, Texas, US"
 13299,Ware,Georgia,US,2020-05-27 02:32:31,31.05449097,-82.42224148,221,14,0,207,"Ware, Georgia, US"
 13301,Warren,Georgia,US,2020-05-27 02:32:31,33.41146451,-82.67795848,18,0,0,18,"Warren, Georgia, US"
@@ -3329,7 +3329,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-05-27 02:32:31,6.4280550000000005,-9.429499,265,26,144,95,Liberia
 ,,,Libya,2020-05-27 02:32:31,26.3351,17.228331,77,3,40,34,Libya
 ,,,Liechtenstein,2020-05-27 02:32:31,47.14,9.55,83,1,55,27,Liechtenstein
-,,,Lithuania,2020-05-27 02:32:31,55.1694,23.8813,1632,51,1256,325,Lithuania
+,,,Lithuania,2020-05-27 02:32:31,55.1694,23.8813,1571,51,1256,325,Lithuania
 ,,,Luxembourg,2020-05-27 02:32:31,49.8153,6.1296,3995,110,3783,102,Luxembourg
 ,,,MS Zaandam,2020-05-27 02:32:31,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-27 02:32:31,-18.766947,46.869107,586,2,147,437,Madagascar
@@ -3349,7 +3349,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Nepal,2020-05-27 02:32:31,28.1667,84.25,772,4,155,613,Nepal
 ,,,Netherlands,2020-05-27 02:32:31,52.1326,5.2913,45578,5856,0,39722,Netherlands
 ,,,New Zealand,2020-05-27 02:32:31,-40.9006,174.886,1504,21,1462,21,New Zealand
-,,,Nicaragua,2020-05-27 02:32:31,12.865416,-85.207229,759,35,370,354,Nicaragua
+,,,Nicaragua,2020-05-27 02:32:31,12.865416,-85.207229,279,17,370,354,Nicaragua
 ,,,Niger,2020-05-27 02:32:31,17.607789,8.081666,952,63,796,93,Niger
 ,,,Nigeria,2020-05-27 02:32:31,9.082,8.6753,8344,249,2385,5710,Nigeria
 ,,,North Macedonia,2020-05-27 02:32:31,41.6086,21.7453,2014,116,1453,445,North Macedonia
@@ -3441,3 +3441,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-05-27 02:32:31,49.2138,-2.1358,302,29,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-05-27 02:32:31,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-05-27 02:32:31,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-05-27 02:32:31,,,0,0,0,0,"Unknown, Ukraine"

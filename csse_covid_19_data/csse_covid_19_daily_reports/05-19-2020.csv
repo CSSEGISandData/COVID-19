@@ -396,7 +396,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-05-20 02:32:19,46.95043611,-94.32603968,11,2,0,9,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-05-20 02:32:19,38.64789422,-94.353399,72,8,0,64,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-05-20 02:32:19,40.90899107,-96.13971217,23,0,0,23,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-05-20 02:32:19,46.93201724,-97.2444719,1276,28,0,1201,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-05-20 02:32:19,46.93201724,-97.2444719,1275,28,0,1201,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-05-20 02:32:19,33.07499881,-94.34646905,10,0,0,21,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-05-20 02:32:19,42.28347888,-113.6012409,19,1,0,18,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-05-20 02:32:19,34.53016752,-102.2617243,20,1,0,27,"Castro, Texas, US"
@@ -3231,7 +3231,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-05-20 02:32:19,6.4280550000000005,-9.429499,229,22,125,82,Liberia
 ,,,Libya,2020-05-20 02:32:19,26.3351,17.228331,68,3,35,30,Libya
 ,,,Liechtenstein,2020-05-20 02:32:19,47.14,9.55,83,1,55,27,Liechtenstein
-,,,Lithuania,2020-05-20 02:32:19,55.1694,23.8813,1559,45,1174,340,Lithuania
+,,,Lithuania,2020-05-20 02:32:19,55.1694,23.8813,1494,45,1174,340,Lithuania
 ,,,Luxembourg,2020-05-20 02:32:19,49.8153,6.1296,3958,109,3718,131,Luxembourg
 ,,,MS Zaandam,2020-05-20 02:32:19,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-20 02:32:19,-18.766947000000002,46.869107,326,2,119,205,Madagascar
@@ -3252,7 +3252,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Nepal,2020-05-20 02:32:19,28.1667,84.25,402,2,37,363,Nepal
 ,,,Netherlands,2020-05-20 02:32:19,52.1326,5.2913,44249,5715,0,38534,Netherlands
 ,,,New Zealand,2020-05-20 02:32:19,-40.9006,174.886,1503,21,1447,35,New Zealand
-,,,Nicaragua,2020-05-20 02:32:19,12.865416,-85.207229,254,17,199,38,Nicaragua
+,,,Nicaragua,2020-05-20 02:32:19,12.865416,-85.207229,25,8,199,38,Nicaragua
 ,,,Niger,2020-05-20 02:32:19,17.607789,8.081666,914,55,734,125,Niger
 ,,,Nigeria,2020-05-20 02:32:19,9.082,8.6753,6401,192,1734,4475,Nigeria
 ,,,North Macedonia,2020-05-20 02:32:19,41.6086,21.7453,1839,106,1351,382,North Macedonia
@@ -3344,3 +3344,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-05-20 02:32:19,49.2138,-2.1358,298,27,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-05-20 02:32:19,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-05-20 02:32:19,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-05-20 02:32:19,,,0,0,0,0,"Unknown, Ukraine"

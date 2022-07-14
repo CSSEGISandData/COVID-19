@@ -2413,7 +2413,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Ningxia,China,2020-03-16 08:47:05,37.2692,106.1655,75,0,75,0,"Ningxia, China"
 ,,Northern Mariana Islands,US,2020-04-03 22:46:37,15.0979,145.6739,8,1,0,7,",Northern Mariana Islands,US"
 ,,Northern Territory,Australia,2020-04-03 22:52:45,-12.4634,130.8456,22,0,0,22,"Northern Territory, Australia"
-,,Northwest Territories,Canada,2020-04-03 22:52:30,64.8255,-124.8457,2,0,0,2,",Northwest Territories,Canada"
+,,Northwest Territories,Canada,2020-04-03 22:52:30,64.8255,-124.8457,4,0,0,2,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,2020-04-03 22:52:30,44.681999999999995,-63.7443,207,0,0,207,"Nova Scotia, Canada"
 ,,Nunavut,Canada,2020-04-03 22:52:30,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
 ,,Ontario,Canada,2020-04-03 22:52:30,51.2538,-85.3232,4780,345,0,3188,"Ontario, Canada"
@@ -2544,7 +2544,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-04-03 22:46:20,6.4280550000000005,-9.429499,6,0,0,6,Liberia
 ,,,Libya,2020-04-03 22:46:20,26.3351,17.228331,11,1,0,10,Libya
 ,,,Liechtenstein,2020-04-03 22:46:20,47.14,9.55,77,0,0,77,Liechtenstein
-,,,Lithuania,2020-04-03 22:46:20,55.1694,23.8813,631,6,0,625,Lithuania
+,,,Lithuania,2020-04-03 22:46:20,55.1694,23.8813,528,6,0,625,Lithuania
 ,,,Luxembourg,2020-04-03 22:46:20,49.8153,6.1296,2612,31,500,2081,Luxembourg
 ,,,MS Zaandam,2020-04-03 22:46:20,,,9,2,0,7,",,MS Zaandam"
 ,,,Madagascar,2020-04-03 22:46:20,-18.766947000000002,46.869107,70,0,0,70,Madagascar
@@ -2653,3 +2653,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-04-03 22:46:37,49.2138,-2.1358,77,2,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-04-03 22:46:37,49.448196,-2.58949,101,2,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-04-03 22:46:37,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-04-03 22:46:37,,,0,0,0,0,"Unknown, Ukraine"

@@ -215,7 +215,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - THL/National Infectious Disease Register: https://experience.arcgis.com/experience/92e9bb33fac744c9a084381fc35aa3c7
   - France:
     - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/ (retired)
-    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
+    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/ (stopped on May 17, 2022)
+    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/
     - OpenCOVID19: https://github.com/opencovid19-fr (retired)
   - Georgia:
     - Government of Georgia Ministry of Health: https://stopcov.ge/en
@@ -289,7 +290,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Poland: 
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
   - Portugal:
-    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829
+    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829 (expired on March 13, 2022. Transferred to WHO.)
   - Romania:
     - Government of Romania: https://datelazi.ro/ 
   - Russia: 

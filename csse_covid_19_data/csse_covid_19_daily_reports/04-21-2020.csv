@@ -3008,7 +3008,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-04-21 23:30:30,6.4280550000000005,-9.429499,99,8,7,84,Liberia
 ,,,Libya,2020-04-21 23:30:30,26.3351,17.228331,51,1,15,35,Libya
 ,,,Liechtenstein,2020-04-21 23:30:30,47.14,9.55,82,1,55,26,Liechtenstein
-,,,Lithuania,2020-04-21 23:30:30,55.1694,23.8813,1226,26,179,1021,Lithuania
+,,,Lithuania,2020-04-21 23:30:30,55.1694,23.8813,1166,26,179,1021,Lithuania
 ,,,Luxembourg,2020-04-21 23:30:30,49.8153,6.1296,3618,78,670,2870,Luxembourg
 ,,,MS Zaandam,2020-04-21 23:30:30,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-04-21 23:30:30,-18.766947000000002,46.869107,121,0,44,77,Madagascar
@@ -3029,7 +3029,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Nepal,2020-04-21 23:30:30,28.1667,84.25,43,0,4,39,Nepal
 ,,,Netherlands,2020-04-21 23:30:30,52.1326,5.2913,34134,3916,0,30218,Netherlands
 ,,,New Zealand,2020-04-21 23:30:30,-40.9006,174.886,1445,13,1006,426,New Zealand
-,,,Nicaragua,2020-04-21 23:30:30,12.865416,-85.207229,10,2,7,1,Nicaragua
+,,,Nicaragua,2020-04-21 23:30:30,12.865416,-85.207229,9,2,7,1,Nicaragua
 ,,,Niger,2020-04-21 23:30:30,17.607789,8.081666,657,20,127,510,Niger
 ,,,Nigeria,2020-04-21 23:30:30,9.082,8.6753,665,22,188,455,Nigeria
 ,,,North Macedonia,2020-04-21 23:30:30,41.6086,21.7453,1231,55,224,952,North Macedonia
@@ -3073,7 +3073,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Syria,2020-04-21 23:30:30,34.802075,38.99681500000001,42,3,6,33,Syria
 ,,,Taiwan*,2020-04-21 11:38:57,23.7,121.0,425,6,217,202,Taiwan*
 ,,,Tanzania,2020-04-21 23:30:30,-6.369028,34.888822,254,10,11,233,Tanzania
-,,,Thailand,2020-04-21 23:30:30,15.870032,100.992541,2811,48,2108,655,Thailand
+,,,Thailand,2020-04-21 23:30:30,15.870032,100.992541,2811,49,2108,655,Thailand
 ,,,Timor-Leste,2020-04-21 23:30:30,-8.874217,125.727539,23,0,1,22,Timor-Leste
 ,,,Togo,2020-04-21 23:30:30,8.6195,0.8248,86,6,56,24,Togo
 ,,,Trinidad and Tobago,2020-04-21 23:30:30,10.6918,-61.2225,115,8,28,79,Trinidad and Tobago
@@ -3119,3 +3119,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-04-21 23:30:50,49.2138,-2.1358,245,12,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-04-21 23:30:50,49.448196,-2.58949,239,13,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-04-21 23:30:50,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-04-21 23:30:50,,,0,0,0,0,"Unknown, Ukraine"

@@ -3298,7 +3298,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Uruguay,3/22/20 23:45,-32.5228,-55.7658,135,0,0,135,Uruguay
 ,,,Costa Rica,3/22/20 23:45,9.7489,-83.7534,134,2,2,130,Costa Rica
 ,,,Hungary,3/22/20 23:45,47.1625,19.5033,131,6,16,109,Hungary
-,,,Lithuania,3/22/20 23:45,55.1694,23.8813,97,0,0,97,Lithuania
+,,,Lithuania,3/22/20 23:45,55.1694,23.8813,30,0,0,97,Lithuania
 ,,,Bosnia and Herzegovina,3/22/20 23:45,43.9159,17.6791,126,1,2,123,Bosnia and Herzegovina
 ,,,Morocco,3/22/20 23:45,31.7917,-7.0926,115,4,3,108,Morocco
 ,,,North Macedonia,3/22/20 23:45,41.6086,21.7453,115,1,1,113,North Macedonia
@@ -3446,3 +3446,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,3/22/20 23:45,49.2138,-2.1358,12,0,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,3/22/20 23:45,49.448196,-2.58949,23,0,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",3/22/20 23:45,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,3/22/20 23:45,,,0,0,0,0,"Unknown, Ukraine"

@@ -391,7 +391,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-05-16 02:32:19,46.95043611,-94.32603968,8,2,0,6,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-05-16 02:32:19,38.64789422,-94.353399,72,8,0,64,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-05-16 02:32:19,40.90899107,-96.13971217,15,0,0,15,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-05-16 02:32:19,46.93201724,-97.2444719,1108,26,0,1006,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-05-16 02:32:19,46.93201724,-97.2444719,1107,26,0,1006,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-05-16 02:32:19,33.07499881,-94.34646905,10,0,0,21,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-05-16 02:32:19,42.28347888,-113.6012409,16,1,0,15,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-05-16 02:32:19,34.53016752,-102.2617243,20,1,0,26,"Castro, Texas, US"
@@ -3217,7 +3217,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-05-16 02:32:19,6.4280550000000005,-9.429499,215,20,108,87,Liberia
 ,,,Libya,2020-05-16 02:32:19,26.3351,17.228331,64,3,28,33,Libya
 ,,,Liechtenstein,2020-05-16 02:32:19,47.14,9.55,83,1,55,27,Liechtenstein
-,,,Lithuania,2020-05-16 02:32:19,55.1694,23.8813,1521,41,1096,384,Lithuania
+,,,Lithuania,2020-05-16 02:32:19,55.1694,23.8813,1452,41,1096,384,Lithuania
 ,,,Luxembourg,2020-05-16 02:32:19,49.8153,6.1296,3923,104,3682,137,Luxembourg
 ,,,MS Zaandam,2020-05-16 02:32:19,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-16 02:32:19,-18.766947000000002,46.869107,238,0,112,126,Madagascar
@@ -3330,3 +3330,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-05-16 02:32:19,49.2138,-2.1358,293,27,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-05-16 02:32:19,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-05-16 02:32:19,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-05-16 02:32:19,,,0,0,0,0,"Unknown, Ukraine"

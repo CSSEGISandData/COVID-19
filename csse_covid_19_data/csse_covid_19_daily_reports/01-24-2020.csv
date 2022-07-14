@@ -1,12 +1,12 @@
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
-Hubei,Mainland China,1/24/20 17:00,549,24,31
-Guangdong,Mainland China,1/24/20 17:00,53,,2
-Zhejiang,Mainland China,1/24/20 17:00,43,,1
-Beijing,Mainland China,1/24/20 17:00,36,,1
+Hubei,Mainland China,1/24/20 17:00,549,24,31.0
+Guangdong,Mainland China,1/24/20 17:00,53,,2.0
+Zhejiang,Mainland China,1/24/20 17:00,43,,1.0
+Beijing,Mainland China,1/24/20 17:00,36,,1.0
 Chongqing,Mainland China,1/24/20 17:00,27,,
 Hunan,Mainland China,1/24/20 17:00,24,,
 Guangxi,Mainland China,1/24/20 17:00,23,,
-Shanghai,Mainland China,1/24/20 17:00,20,,1
+Shanghai,Mainland China,1/24/20 17:00,20,,1.0
 Jiangxi,Mainland China,1/24/20 17:00,18,,
 Sichuan,Mainland China,1/24/20 17:00,15,,
 Shandong,Mainland China,1/24/20 17:00,15,,
@@ -35,36 +35,37 @@ Qinghai,Mainland China,1/24/20 17:00,,,
 Washington,US,1/24/20 17:00,1,,
 Chicago,US,1/24/20 17:00,1,,
 ,Japan,1/24/20 17:00,2,,
-,Thailand,1/24/20 17:00,5,0,3
+,Thailand,1/24/20 17:00,5,0,3.0
 ,South Korea,1/24/20 17:00,2,,
 ,Singapore,1/24/20 17:00,3,,
 ,Vietnam,1/24/20 17:00,2,,
 ,France,1/24/20 17:00,2,,
 Unknown,China,1/24/20 17:00,,,
-,Kiribati,1/24/20 17:00,0,0,0
-,Palau,1/24/20 17:00,0,0,0
-Cook Islands,New Zealand,1/24/20 17:00,0,0,0
-,Summer Olympics 2020,1/24/20 17:00,0,0,0
-Johor,Malaysia,1/24/20 17:00,0,0,0
-Kedah,Malaysia,1/24/20 17:00,0,0,0
-Kelantan,Malaysia,1/24/20 17:00,0,0,0
-Melaka,Malaysia,1/24/20 17:00,0,0,0
-Negeri Sembilan,Malaysia,1/24/20 17:00,0,0,0
-Pahang,Malaysia,1/24/20 17:00,0,0,0
-Perak,Malaysia,1/24/20 17:00,0,0,0
-Perlis,Malaysia,1/24/20 17:00,0,0,0
-Pulau Pinang,Malaysia,1/24/20 17:00,0,0,0
-Sabah,Malaysia,1/24/20 17:00,0,0,0
-Sarawak,Malaysia,1/24/20 17:00,0,0,0
-Selangor,Malaysia,1/24/20 17:00,0,0,0
-Terengganu,Malaysia,1/24/20 17:00,0,0,0
-W.P. Kuala Lumpur,Malaysia,1/24/20 17:00,0,0,0
-W.P. Labuan,Malaysia,1/24/20 17:00,0,0,0
-W.P. Putrajaya,Malaysia,1/24/20 17:00,0,0,0
-Unknown,Malaysia,1/24/20 17:00,0,0,0
-,Tonga,1/24/20 17:00,0,0,0
-,Winter Olympics 2022,1/24/20 17:00,0,0,0
-,Antarctica,1/24/20 17:00,0,0,0
-Jersey,United Kingdom,1/24/20 17:00,0,0,0
-Guernsey,United Kingdom,1/24/20 17:00,0,0,0
-,"Korea, North",1/24/20 17:00,0,0,0
+,Kiribati,1/24/20 17:00,0,0,0.0
+,Palau,1/24/20 17:00,0,0,0.0
+Cook Islands,New Zealand,1/24/20 17:00,0,0,0.0
+,Summer Olympics 2020,1/24/20 17:00,0,0,0.0
+Johor,Malaysia,1/24/20 17:00,0,0,0.0
+Kedah,Malaysia,1/24/20 17:00,0,0,0.0
+Kelantan,Malaysia,1/24/20 17:00,0,0,0.0
+Melaka,Malaysia,1/24/20 17:00,0,0,0.0
+Negeri Sembilan,Malaysia,1/24/20 17:00,0,0,0.0
+Pahang,Malaysia,1/24/20 17:00,0,0,0.0
+Perak,Malaysia,1/24/20 17:00,0,0,0.0
+Perlis,Malaysia,1/24/20 17:00,0,0,0.0
+Pulau Pinang,Malaysia,1/24/20 17:00,0,0,0.0
+Sabah,Malaysia,1/24/20 17:00,0,0,0.0
+Sarawak,Malaysia,1/24/20 17:00,0,0,0.0
+Selangor,Malaysia,1/24/20 17:00,0,0,0.0
+Terengganu,Malaysia,1/24/20 17:00,0,0,0.0
+W.P. Kuala Lumpur,Malaysia,1/24/20 17:00,0,0,0.0
+W.P. Labuan,Malaysia,1/24/20 17:00,0,0,0.0
+W.P. Putrajaya,Malaysia,1/24/20 17:00,0,0,0.0
+Unknown,Malaysia,1/24/20 17:00,0,0,0.0
+,Tonga,1/24/20 17:00,0,0,0.0
+,Winter Olympics 2022,1/24/20 17:00,0,0,0.0
+,Antarctica,1/24/20 17:00,0,0,0.0
+Jersey,United Kingdom,1/24/20 17:00,0,0,0.0
+Guernsey,United Kingdom,1/24/20 17:00,0,0,0.0
+,"Korea, North",1/24/20 17:00,0,0,0.0
+Unknown,Ukraine,1/24/20 17:00,0,0,0

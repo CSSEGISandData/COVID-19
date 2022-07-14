@@ -394,7 +394,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-05-19 02:32:18,46.95043611,-94.32603968,10,2,0,8,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-05-19 02:32:18,38.64789422,-94.353399,72,8,0,64,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-05-19 02:32:18,40.90899107,-96.13971217,21,0,0,21,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-05-19 02:32:18,46.93201724,-97.2444719,1228,27,0,1146,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-05-19 02:32:18,46.93201724,-97.2444719,1227,27,0,1146,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-05-19 02:32:18,33.07499881,-94.34646905,10,0,0,20,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-05-19 02:32:18,42.28347888,-113.6012409,19,1,0,18,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-05-19 02:32:18,34.53016752,-102.2617243,20,1,0,26,"Castro, Texas, US"
@@ -3225,7 +3225,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Liberia,2020-05-19 02:32:18,6.4280550000000005,-9.429499,226,21,123,82,Liberia
 ,,,Libya,2020-05-19 02:32:18,26.3351,17.228331,65,3,35,27,Libya
 ,,,Liechtenstein,2020-05-19 02:32:18,47.14,9.55,83,1,55,27,Liechtenstein
-,,,Lithuania,2020-05-19 02:32:18,55.1694,23.8813,1551,45,1156,350,Lithuania
+,,,Lithuania,2020-05-19 02:32:18,55.1694,23.8813,1482,45,1156,350,Lithuania
 ,,,Luxembourg,2020-05-19 02:32:18,49.8153,6.1296,3947,107,3715,125,Luxembourg
 ,,,MS Zaandam,2020-05-19 02:32:18,,,9,2,0,7,MS Zaandam
 ,,,Madagascar,2020-05-19 02:32:18,-18.766947000000002,46.869107,322,1,119,202,Madagascar
@@ -3338,3 +3338,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Jersey,United Kingdom,2020-05-19 02:32:18,49.2138,-2.1358,293,27,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-05-19 02:32:18,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-05-19 02:32:18,40.3399,127.5101,0,0,0,0,"Korea, North"
+,,Unknown,Ukraine,2020-05-19 02:32:18,,,0,0,0,0,"Unknown, Ukraine"
