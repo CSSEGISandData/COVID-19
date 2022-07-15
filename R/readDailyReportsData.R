@@ -78,3 +78,7 @@ dataList <- lapply(1:length(theFiles),function(x){
 table(unlist(lapply(1:length(theFiles),function(x) length(names(dataList[[x]])))))
 
 data <- do.call(rbind,dataList)
+
+# make directory & save the RDS
+if(!dir.exists("./rdsData")) dir.create("./rdsData")
+saveRDS(data,"./rdsData/covidData.rds")
