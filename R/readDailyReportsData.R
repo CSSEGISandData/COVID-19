@@ -82,3 +82,8 @@ data <- do.call(rbind,dataList)
 # make directory & save the RDS
 if(!dir.exists("./rdsData")) dir.create("./rdsData")
 saveRDS(data,"./rdsData/covidData.rds")
+
+#subset by date
+system.time(data <- readRDS("./rdsData/covidData.rds"))
+library(lubridate)
+data$date <- mdy(data$date)
