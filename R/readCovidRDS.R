@@ -11,6 +11,9 @@ data$date <- mdy(data$date)
 
 countries <- as.data.frame(table(data$Country_Region))
 
+# read bitcoin data 
+source("./R/readBitcoinPrices.R")
+
 subsetCovidData <- data %>%
      filter(date > mdy("01/01/2020") & date < mdy("06/01/2022")) %>%
      rename(Date = date) %>%
