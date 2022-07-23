@@ -15,17 +15,23 @@ countries <- as.data.frame(table(data$Country_Region))
 source("./R/readBitcoinPrices.R")
 
 subsetCovidData <- data %>%
-     filter(date > mdy("01/01/2020") & date < mdy("06/01/2022")) %>%
+     filter(Country_Region %in% c("Mainland China","China","Ukraine","United Kingdom",
+                                  "US","Russia","Japan","Germany","France")) %>% 
+     filter(date > mdy("01/01/2020") & date < mdy("07/01/2022")) %>%
      rename(Date = date) %>%
+     # use base R ifelse() to avoid typing problem with if_else() 
+     mutate(Confirmed = ifelse(is.na(Confirmed),0,Confirmed),
+            Active = ifelse(is.na(Active),0,Active),
+            Deaths = ifelse(is.na(Deaths),0,Deaths),
+            Recovered = ifelse(is.na(Recovered),0,Recovered),
+            Country_Region = case_when(Country_Region == "Mainland China" ~ "China",
+                                       TRUE ~ Country_Region)) %>%
      # code to summarise() up to one row per country per day
      group_by(Country_Region,Date) %>% 
      summarise(Confirmed = sum(Confirmed),
                Active = sum(Active),
                Deaths = sum(Deaths),
                Recovered = sum(Recovered)) %>% 
-     full_join(.,btcData)
+     full_join(.,btcData) %>% filter(!is.na(Confirmed))
 
-# subset to China data
-
-chinaData <- subsetCovidData %>%
-     filter(Country_Region %in% c("Mainland China","China"))
+saveRDS(subsetCovidData,"./rdsData/covidAndBitcoin.rds")
