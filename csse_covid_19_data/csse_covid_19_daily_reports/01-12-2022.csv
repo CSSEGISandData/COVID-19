@@ -85,7 +85,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northwest Territories,Canada,2022-01-13 08:00:09,64.8255,-124.8457,3467,12,,,"Northwest Territories,Canada",7720.9157313379665,0.3461205653302567
 ,,Nova Scotia,Canada,2022-01-13 08:00:09,44.681999999999995,-63.7443,27357,115,,,"Nova Scotia, Canada",2798.793194994767,0.4203677303797931
 ,,Nunavut,Canada,2022-01-13 08:00:09,70.2998,-83.1076,1036,4,,,"Nunavut, Canada",2671.480144404333,0.3861003861003861
-,,Ontario,Canada,2022-01-13 08:00:09,51.2538,-85.3232,938924,11182,,,"Ontario, Canada",6263.368920800932,1.1406947266065879
+,,Ontario,Canada,2022-01-13 08:00:09,51.2538,-85.3232,938924,10445,,,"Ontario, Canada",6263.368920800932,1.1406947266065879
 ,,Prince Edward Island,Canada,2022-01-13 08:00:09,46.5107,-63.4168,3427,0,,,"Prince Edward Island, Canada",2166.820521250901,0.0
 ,,Quebec,Canada,2022-01-13 08:00:09,52.9399,-73.5491,758575,12080,,,"Quebec, Canada",8885.031215762045,1.592459545859012
 ,,Repatriated Travellers,Canada,2022-01-13 08:00:09,,,13,0,,,"Repatriated Travellers, Canada",,0.0
