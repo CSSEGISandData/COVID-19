@@ -46,7 +46,7 @@ Queensland,Australia,2/1/2020 18:12,3,0,0
 Ontario,Canada,2/1/2020 18:12,3,0,0
 ,Italy,1/31/2020 8:15,2,0,0
 ,Russia,1/31/2020 16:13,2,0,0
-,UK,2/1/2020 1:52,2,0,0
+Unknown,United Kingdom,2/1/2020 1:52,2,0,0
 "Chicago, IL",US,2/1/2020 19:43,2,0,0
 South Australia,Australia,2/1/2020 18:12,1,0,0
 ,Cambodia,1/31/2020 8:15,1,0,0
@@ -94,3 +94,7 @@ Jersey,United Kingdom,2/1/2020 11:53,0,0,0
 Guernsey,United Kingdom,2/1/2020 11:53,0,0,0
 ,"Korea, North",2/1/2020 11:53,0,0,0
 Unknown,Ukraine,2/1/2020 11:53,0,0,0
+England,United Kingdom,2/1/2020 11:53,0,1,0
+Northern Ireland,United Kingdom,2/1/2020 11:53,0,0,0
+Scotland,United Kingdom,2/1/2020 11:53,0,0,0
+Wales,United Kingdom,2/1/2020 11:53,0,0,0

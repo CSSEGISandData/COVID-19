@@ -3175,7 +3175,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 56045,Weston,Wyoming,US,3/22/20 23:45,43.83961191,-104.5674881,0,0,0,0,"Weston, Wyoming, US"
 60000,,American Samoa,US,3/22/20 23:45,-14.271,-170.132,0,0,0,0,"American Samoa, US"
 69000,,Northern Mariana Islands,US,3/22/20 23:45,15.0979,145.6739,0,0,0,0,"Northern Mariana Islands, US"
-,,Ontario,Canada,3/22/20 23:48,51.2538,-85.3232,1031,29,0,420,"Ontario, Canada"
+,,Ontario,Canada,3/22/20 23:48,51.2538,-85.3232,1031,5,0,420,"Ontario, Canada"
 ,,British Columbia,Canada,3/22/20 23:48,53.7267,-127.6476,424,10,0,414,"British Columbia, Canada"
 ,,Alberta,Canada,3/22/20 23:48,53.9333,-116.5765,259,1,0,258,"Alberta, Canada"
 ,,Quebec,Canada,3/22/20 23:48,52.9399,-73.5491,795,5,0,790,"Quebec, Canada"
@@ -3240,7 +3240,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,France,3/22/20 23:45,46.2276,2.2137,16533,674,2200,13659,France
 ,,,"Korea, South",3/22/20 23:45,35.907757,127.766922,8897,104,2909,5884,"Korea, South"
 ,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,113,131,7230,Switzerland
-,,,United Kingdom,3/22/20 23:45,55.3781,-3.436,5683,281,93,5309,United Kingdom
+,,Unknown,United Kingdom,3/22/20 23:45,55.3781,-3.436,5683,3,93,5309,United Kingdom
 ,,,Netherlands,3/22/20 23:45,52.1326,5.2913,4204,179,2,4023,Netherlands
 ,,,Austria,3/22/20 23:45,47.5162,14.5501,2907,20,9,3555,Austria
 ,,,Belgium,3/22/20 23:45,50.8333,4.469936,3401,75,263,3063,Belgium
@@ -3447,3 +3447,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Guernsey,United Kingdom,3/22/20 23:45,49.448196,-2.58949,23,0,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",3/22/20 23:45,40.3399,127.5101,0,0,0,0,"Korea, North"
 ,,Unknown,Ukraine,3/22/20 23:45,,,0,0,0,0,"Unknown, Ukraine"
+82601,,England,United Kingdom,3/22/20 23:45,52.3555,-1.1743,0,742,0,0,"England, United Kingdom"
+82602,,Northern Ireland,United Kingdom,3/22/20 23:45,54.7877,-6.4923,0,3,0,0,"Northern Ireland, United Kingdom"
+82603,,Scotland,United Kingdom,3/22/20 23:45,56.4907,-4.2026,0,37,0,0,"Scotland, United Kingdom"
+82604,,Wales,United Kingdom,3/22/20 23:45,52.1307,-3.7837,0,28,0,0,"Wales, United Kingdom"

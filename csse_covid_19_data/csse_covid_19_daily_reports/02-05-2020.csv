@@ -50,7 +50,7 @@ British Columbia,Canada,2020-02-05T17:33:03,2,0,0
 ,Italy,2020-01-31T08:15:53,2,0,0
 ,Philippines,2020-02-02T03:33:07,2,1,0
 ,Russia,2020-01-31T16:13:45,2,0,0
-,UK,2020-02-01T01:52:40,2,0,0
+Unknown,United Kingdom,2020-02-01T01:52:40,2,0,0
 "Chicago, IL",US,2020-02-01T19:43:03,2,0,0
 "San Benito, CA",US,2020-02-03T03:53:02,2,0,0
 "Santa Clara, CA",US,2020-02-03T00:43:02,2,0,0
@@ -98,3 +98,7 @@ Jersey,United Kingdom,2020-02-05T23:13:12,0,0,0
 Guernsey,United Kingdom,2020-02-05T23:13:12,0,0,0
 ,"Korea, North",2020-02-05T23:13:12,0,0,0
 Unknown,Ukraine,2020-02-05T23:13:12,0,0,0
+England,United Kingdom,2020-02-05T23:13:12,0,2,0
+Northern Ireland,United Kingdom,2020-02-05T23:13:12,0,0,0
+Scotland,United Kingdom,2020-02-05T23:13:12,0,0,0
+Wales,United Kingdom,2020-02-05T23:13:12,0,0,0

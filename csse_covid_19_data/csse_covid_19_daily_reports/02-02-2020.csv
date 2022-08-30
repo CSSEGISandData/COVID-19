@@ -49,7 +49,7 @@ South Australia,Australia,2020-02-02T22:33:07,2,0,0
 ,Italy,2020-01-31T08:15:53,2,0,0
 ,Philippines,2020-02-02T03:33:07,2,1,0
 ,Russia,2020-01-31T16:13:45,2,0,0
-,UK,2020-02-01T01:52:40,2,0,0
+Unknown,United Kingdom,2020-02-01T01:52:40,2,0,0
 "Chicago, IL",US,2020-02-01T19:43:03,2,0,0
 ,Cambodia,2020-01-31T08:15:53,1,0,0
 British Columbia,Canada,2020-02-01T18:12:49,1,0,0
@@ -94,3 +94,7 @@ Jersey,United Kingdom,2020-02-02T23:43:02,0,0,0
 Guernsey,United Kingdom,2020-02-02T23:43:02,0,0,0
 ,"Korea, North",2020-02-02T23:43:02,0,0,0
 Unknown,Ukraine,2020-02-02T23:43:02,0,0,0
+England,United Kingdom,2020-02-02T23:43:02,0,2,0
+Northern Ireland,United Kingdom,2020-02-02T23:43:02,0,0,0
+Scotland,United Kingdom,2020-02-02T23:43:02,0,0,0
+Wales,United Kingdom,2020-02-02T23:43:02,0,0,0

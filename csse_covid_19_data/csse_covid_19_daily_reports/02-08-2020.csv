@@ -48,7 +48,7 @@ British Columbia,Canada,2020-02-07T05:43:03,4,0,0
 ,India,2020-02-03T21:43:02,3,0,0
 ,Italy,2020-02-07T17:53:02,3,0,0
 ,Philippines,2020-02-07T16:43:04,3,1,0
-,UK,2020-02-07T18:33:02,3,0,0
+Unknown,United Kingdom,2020-02-07T18:33:02,3,0,0
 South Australia,Australia,2020-02-02T22:33:07,2,0,0
 "Toronto, ON",Canada,2020-02-04T00:13:06,2,0,0
 ,Russia,2020-01-31T16:13:45,2,0,0
@@ -99,3 +99,7 @@ Jersey,United Kingdom,2020-02-08T23:33:06,0,0,0
 Guernsey,United Kingdom,2020-02-08T23:33:06,0,0,0
 ,"Korea, North",2020-02-08T23:33:06,0,0,0
 Unknown,Ukraine,2020-02-08T23:33:06,0,0,0
+England,United Kingdom,2020-02-08T23:33:06,0,2,0
+Northern Ireland,United Kingdom,2020-02-08T23:33:06,0,0,0
+Scotland,United Kingdom,2020-02-08T23:33:06,0,0,0
+Wales,United Kingdom,2020-02-08T23:33:06,0,0,0

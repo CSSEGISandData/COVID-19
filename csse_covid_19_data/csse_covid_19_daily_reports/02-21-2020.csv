@@ -43,7 +43,7 @@ Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
 ,France,2020-02-15T20:53:02,12,1,4
 "Ashland, NE",US,2020-02-21T23:23:06,11,0,0
 Macau,Macau,2020-02-20T02:13:19,10,0,6
-,UK,2020-02-16T16:23:06,9,0,8
+Unknown,United Kingdom,2020-02-16T16:23:06,9,0,8
 ,United Arab Emirates,2020-02-16T20:43:02,9,0,4
 British Columbia,Canada,2020-02-21T05:23:04,6,0,0
 Queensland,Australia,2020-02-21T05:43:02,5,0,1
@@ -111,3 +111,7 @@ Jersey,United Kingdom,2020-02-21T13:03:09,0,0,0
 Guernsey,United Kingdom,2020-02-21T13:03:09,0,0,0
 ,"Korea, North",2020-02-21T13:03:09,0,0,0
 Unknown,Ukraine,2020-02-21T13:03:09,0,0,0
+England,United Kingdom,2020-02-21T13:03:09,0,2,0
+Northern Ireland,United Kingdom,2020-02-21T13:03:09,0,0,0
+Scotland,United Kingdom,2020-02-21T13:03:09,0,0,0
+Wales,United Kingdom,2020-02-21T13:03:09,0,0,0

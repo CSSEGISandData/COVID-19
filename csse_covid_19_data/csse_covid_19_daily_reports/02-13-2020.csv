@@ -40,7 +40,7 @@ Taiwan,Taiwan,2020-02-09T09:13:11,18,0,1
 ,Vietnam,2020-02-13T06:33:02,16,0,7
 ,France,2020-02-12T18:53:02,11,0,2
 Macau,Macau,2020-02-13T14:13:06,10,0,3
-,UK,2020-02-12T19:03:06,9,0,1
+Unknown,United Kingdom,2020-02-12T19:03:06,9,0,1
 ,United Arab Emirates,2020-02-12T00:33:02,8,0,1
 Queensland,Australia,2020-02-09T19:33:02,5,0,0
 New South Wales,Australia,2020-02-13T17:53:03,4,0,4
@@ -101,3 +101,7 @@ Jersey,United Kingdom,2020-02-13T14:13:06,0,0,0
 Guernsey,United Kingdom,2020-02-13T14:13:06,0,0,0
 ,"Korea, North",2020-02-13T14:13:06,0,0,0
 Unknown,Ukraine,2020-02-13T14:13:06,0,0,0
+England,United Kingdom,2020-02-13T14:13:06,0,2,0
+Northern Ireland,United Kingdom,2020-02-13T14:13:06,0,0,0
+Scotland,United Kingdom,2020-02-13T14:13:06,0,0,0
+Wales,United Kingdom,2020-02-13T14:13:06,0,0,0

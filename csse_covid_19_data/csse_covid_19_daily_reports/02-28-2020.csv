@@ -43,7 +43,7 @@ Unassigned Location (From Diamond Princess),US,2020-02-28T20:03:03,44,0,0
 ,Bahrain,2020-02-28T15:33:03,36,0,0
 Taiwan,Taiwan,2020-02-28T07:13:08,34,1,6
 ,Spain,2020-02-28T15:33:03,32,0,2
-,UK,2020-02-28T20:13:09,20,0,8
+Unknown,United Kingdom,2020-02-28T20:13:09,20,0,8
 ,United Arab Emirates,2020-02-28T04:13:09,19,0,5
 Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
 ,Vietnam,2020-02-25T08:53:02,16,0,16
@@ -141,3 +141,7 @@ Jersey,United Kingdom,2020-02-28T00:43:01,0,0,0
 Guernsey,United Kingdom,2020-02-28T00:43:01,0,0,0
 ,"Korea, North",2020-02-28T00:43:01,0,0,0
 Unknown,Ukraine,2020-02-28T00:43:01,0,0,0
+England,United Kingdom,2020-02-28T00:43:01,0,3,0
+Northern Ireland,United Kingdom,2020-02-28T00:43:01,0,0,0
+Scotland,United Kingdom,2020-02-28T00:43:01,0,0,0
+Wales,United Kingdom,2020-02-28T00:43:01,0,0,0

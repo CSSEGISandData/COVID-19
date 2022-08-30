@@ -2228,7 +2228,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northwest Territories,Canada,2020-03-31 23:49:13,64.8255,-124.8457,1,0,0,1,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,2020-03-31 23:49:13,44.681999999999995,-63.7443,147,0,0,147,"Nova Scotia, Canada"
 ,,Nunavut,Canada,2020-03-31 23:49:13,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
-,,Ontario,Canada,2020-03-31 23:49:13,51.2538,-85.3232,3431,184,0,1933,"Ontario, Canada"
+,,Ontario,Canada,2020-03-31 23:49:13,51.2538,-85.3232,3431,33,0,1933,"Ontario, Canada"
 ,,Prince Edward Island,Canada,2020-03-31 23:49:13,46.5107,-63.4168,21,0,0,21,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,2020-03-31 23:43:56,18.2208,-66.5901,239,8,0,231,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
@@ -2427,7 +2427,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Uganda,2020-03-31 23:43:43,1.373333,32.290275,44,0,0,44,Uganda
 ,,,Ukraine,2020-03-31 23:43:43,48.3794,31.1656,645,17,10,618,Ukraine
 ,,,United Arab Emirates,2020-03-31 23:43:43,23.424076,53.847818000000004,664,6,61,597,United Arab Emirates
-,,,United Kingdom,2020-03-31 23:43:43,55.3781,-3.4360000000000004,25150,1789,135,23226,United Kingdom
+,,Unknown,United Kingdom,2020-03-31 23:43:43,55.3781,-3.436,25150,14,135,23226,United Kingdom
 ,,,Uruguay,2020-03-31 23:43:43,-32.5228,-55.7658,338,1,41,296,Uruguay
 ,,,Uzbekistan,2020-03-31 23:43:43,41.377491,64.585262,172,2,7,163,Uzbekistan
 ,,,Venezuela,2020-03-31 23:43:43,6.4238,-66.5897,135,3,39,93,Venezuela
@@ -2464,3 +2464,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Guernsey,United Kingdom,2020-03-31 23:43:56,49.448196,-2.58949,55,1,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-03-31 23:43:56,40.3399,127.5101,0,0,0,0,"Korea, North"
 ,,Unknown,Ukraine,2020-03-31 23:43:56,,,0,0,0,0,"Unknown, Ukraine"
+82601,,England,United Kingdom,2020-03-31 23:43:56,52.3555,-1.1743,0,4604,0,0,"England, United Kingdom"
+82602,,Northern Ireland,United Kingdom,2020-03-31 23:43:56,54.7877,-6.4923,0,52,0,0,"Northern Ireland, United Kingdom"
+82603,,Scotland,United Kingdom,2020-03-31 23:43:56,56.4907,-4.2026,0,297,0,0,"Scotland, United Kingdom"
+82604,,Wales,United Kingdom,2020-03-31 23:43:56,52.1307,-3.7837,0,174,0,0,"Wales, United Kingdom"

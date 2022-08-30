@@ -44,7 +44,7 @@ Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
 ,France,2020-02-15T20:53:02,12,1,4
 "Omaha, NE (From Diamond Princess)",US,2020-02-22T23:03:09,11,0,0
 Macau,Macau,2020-02-20T02:13:19,10,0,6
-,UK,2020-02-16T16:23:06,9,0,8
+Unknown,United Kingdom,2020-02-16T16:23:06,9,0,8
 From Diamond Princess,Australia,2020-02-22T17:03:05,7,0,0
 British Columbia,Canada,2020-02-21T05:23:04,6,0,0
 Queensland,Australia,2020-02-21T05:43:02,5,0,1
@@ -71,6 +71,7 @@ From Diamond Princess,Israel,2020-02-22T20:53:02,1,0,0
 ,Lebanon,2020-02-22T20:53:02,1,0,0
 Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 ,Nepal,2020-02-12T14:43:03,1,0,1
+,New Zealand,2020-02-23T12:13:14,0,0,0
 ,Sri Lanka,2020-02-08T03:43:03,1,0,1
 ,Sweden,2020-02-01T02:13:26,1,0,0
 "Boston, MA",US,2020-02-01T19:43:03,1,0,0
@@ -112,3 +113,7 @@ Jersey,United Kingdom,2020-02-23T11:33:03,0,0,0
 Guernsey,United Kingdom,2020-02-23T11:33:03,0,0,0
 ,"Korea, North",2020-02-23T11:33:03,0,0,0
 Unknown,Ukraine,2020-02-23T11:33:03,0,0,0
+England,United Kingdom,2020-02-23T11:33:03,0,3,0
+Northern Ireland,United Kingdom,2020-02-23T11:33:03,0,0,0
+Scotland,United Kingdom,2020-02-23T11:33:03,0,0,0
+Wales,United Kingdom,2020-02-23T11:33:03,0,0,0

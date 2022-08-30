@@ -45,7 +45,7 @@ Taiwan,Taiwan,2020-02-26T12:23:04,32,1,5
 Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
 ,Vietnam,2020-02-25T08:53:02,16,0,16
 ,Spain,2020-02-27T13:23:02,15,0,2
-,UK,2020-02-27T13:23:02,15,0,8
+Unknown,United Kingdom,2020-02-27T13:23:02,15,0,8
 ,United Arab Emirates,2020-02-22T14:53:02,13,0,4
 Macau,Macau,2020-02-27T12:43:02,10,0,8
 From Diamond Princess,Australia,2020-02-27T03:33:06,8,0,0
@@ -88,6 +88,7 @@ South Australia,Australia,2020-02-17T08:13:09,2,0,2
 Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 ,Nepal,2020-02-12T14:43:03,1,0,1
 ,Netherlands,2020-02-27T21:13:10,1,0,0
+,New Zealand,2020-02-27T12:13:10,0,0,0
 ,North Macedonia,2020-02-27T16:23:03,1,0,0
 ,Norway,2020-02-27T16:23:03,1,0,0
 ,Romania,2020-02-27T16:23:03,1,0,0
@@ -133,3 +134,7 @@ Jersey,United Kingdom,2020-02-27T12:13:14,0,0,0
 Guernsey,United Kingdom,2020-02-27T12:13:14,0,0,0
 ,"Korea, North",2020-02-27T12:13:14,0,0,0
 Unknown,Ukraine,2020-02-27T12:13:14,0,0,0
+England,United Kingdom,2020-02-27T12:13:14,0,3,0
+Northern Ireland,United Kingdom,2020-02-27T12:13:14,0,0,0
+Scotland,United Kingdom,2020-02-27T12:13:14,0,0,0
+Wales,United Kingdom,2020-02-27T12:13:14,0,0,0

@@ -3231,7 +3231,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northwest Territories,Canada,3/29/20 23:13,64.8255,-124.8457,1,0,0,1,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,3/29/20 23:13,44.682,-63.7443,122,0,0,122,"Nova Scotia, Canada"
 ,,Nunavut,Canada,3/29/20 23:13,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
-,,Ontario,Canada,3/29/20 23:13,51.2538,-85.3232,2608,128,0,1334,"Ontario, Canada"
+,,Ontario,Canada,3/29/20 23:13,51.2538,-85.3232,2608,23,0,1334,"Ontario, Canada"
 ,,Prince Edward Island,Canada,3/29/20 23:13,46.5107,-63.4168,11,0,0,11,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,3/29/20 23:08,18.2208,-66.5901,127,3,0,124,"Puerto Rico, US"
 ,,Qinghai,China,2/23/20 11:19,35.7452,95.9956,18,0,18,0,"Qinghai, China"
@@ -3427,7 +3427,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Uganda,3/29/20 23:08,1.373333,32.290275,33,0,0,33,Uganda
 ,,,Ukraine,3/29/20 23:08,48.3794,31.1656,475,10,6,459,Ukraine
 ,,,United Arab Emirates,3/29/20 23:08,23.424076,53.847818,570,3,58,509,United Arab Emirates
-,,,United Kingdom,3/29/20 23:08,55.3781,-3.436,19522,1228,135,18159,United Kingdom
+,,Unknown,United Kingdom,3/29/20 23:08,55.3781,-3.436,19522,9,135,18159,United Kingdom
 ,,,Uruguay,3/29/20 23:08,-32.5228,-55.7658,304,1,0,303,Uruguay
 ,,,Uzbekistan,3/29/20 23:08,41.377491,64.585262,144,2,7,135,Uzbekistan
 ,,,Venezuela,3/29/20 23:08,6.4238,-66.5897,119,2,39,78,Venezuela
@@ -3464,3 +3464,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Guernsey,United Kingdom,3/29/20 23:08,49.448196,-2.58949,46,0,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",3/29/20 23:08,40.3399,127.5101,0,0,0,0,"Korea, North"
 ,,Unknown,Ukraine,3/29/20 23:08,,,0,0,0,0,"Unknown, Ukraine"
+82601,,England,United Kingdom,3/29/20 23:08,52.3555,-1.1743,0,3232,0,0,"England, United Kingdom"
+82602,,Northern Ireland,United Kingdom,3/29/20 23:08,54.7877,-6.4923,0,37,0,0,"Northern Ireland, United Kingdom"
+82603,,Scotland,United Kingdom,3/29/20 23:08,56.4907,-4.2026,0,189,0,0,"Scotland, United Kingdom"
+82604,,Wales,United Kingdom,3/29/20 23:08,52.1307,-3.7837,0,132,0,0,"Wales, United Kingdom"
