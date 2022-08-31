@@ -65227,3 +65227,91 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 08/15/2022,time_series_covid19_confirmed_global.csv,South Africa,08/14/2022,4004555,4008164,Correct South Africa confirmed data
 08/17/2022,time_series_covid19_confirmed_global.csv,India,07/28/2022,43959321,43979730,Correct India confirmed data
 08/17/2022,time_series_covid19_deaths_global.csv,India,07/28/2022,526211,526258,Correct India deaths data
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/08/2022,258895,261758,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/09/2022,258895,261758,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/10/2022,258895,261758,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/11/2022,258895,261758,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/12/2022,258895,261758,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/13/2022,258895,261758,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/14/2022,258895,261758,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/15/2022,258895,263327,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/16/2022,258895,263327,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/17/2022,258895,263327,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/18/2022,258895,263327,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/19/2022,258895,263327,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/20/2022,258895,263327,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/21/2022,258895,263327,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/22/2022,258895,264306,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/23/2022,258895,264306,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/24/2022,258895,264306,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/25/2022,258895,264306,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/26/2022,258895,264306,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/27/2022,258895,264306,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/28/2022,258895,264306,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/29/2022,258895,264306,"Correct St. Louis, Missouri, US confirmed data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/08/2022,3434,3467,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/09/2022,3434,3467,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/10/2022,3434,3467,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/11/2022,3434,3467,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/12/2022,3434,3467,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/13/2022,3434,3467,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/14/2022,3434,3467,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/15/2022,3434,3473,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/16/2022,3434,3473,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/17/2022,3434,3473,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/18/2022,3434,3473,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/19/2022,3434,3473,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/20/2022,3434,3473,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/21/2022,3434,3473,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/22/2022,3434,3475,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/23/2022,3434,3475,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/24/2022,3434,3475,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/25/2022,3434,3475,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/26/2022,3434,3475,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/27/2022,3434,3475,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/28/2022,3434,3475,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/29/2022,3434,3475,"Correct St. Louis, Missouri, US deaths data"
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/08/2022,92296768,92299631,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/09/2022,92396458,92399321,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/10/2022,92592757,92595620,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/11/2022,92755140,92758003,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/12/2022,92852002,92854865,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/13/2022,92935449,92938312,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/14/2022,92944915,92947778,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/15/2022,93065465,93069897,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/16/2022,93156439,93160871,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/17/2022,93292521,93296953,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/18/2022,93440634,93445066,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/19/2022,93517739,93522171,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/20/2022,93528354,93532786,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/21/2022,93536106,93540538,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/22/2022,93659445,93664856,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/23/2022,93753366,93758777,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/24/2022,93903788,93909199,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/25/2022,94028840,94034251,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/26/2022,94171060,94176471,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/27/2022,94184146,94189557,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/28/2022,94190979,94196390,Correct US confirmed data
+08/30/2022,time_series_covid19_confirmed_global.csv,US,08/29/2022,94280272,94285683,Correct US confirmed data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/08/2022,1034419,1034452,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/09/2022,1035058,1035091,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/10/2022,1035997,1036030,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/11/2022,1036548,1036581,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/12/2022,1037199,1037232,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/13/2022,1037234,1037267,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/14/2022,1037244,1037277,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/15/2022,1037700,1037739,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/16/2022,1038204,1038243,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/17/2022,1039301,1039340,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/18/2022,1039898,1039937,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/19/2022,1040474,1040513,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/20/2022,1040498,1040537,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/21/2022,1041270,1041309,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/22/2022,1040997,1041038,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/23/2022,1041561,1041602,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/24/2022,1042494,1042535,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/25/2022,1043089,1043130,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/26/2022,1043783,1043824,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/27/2022,1043838,1043879,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/28/2022,1043840,1043881,Correct US deaths data
+08/30/2022,time_series_covid19_deaths_global.csv,US,08/29/2022,1044332,1044373,Correct US deaths data
