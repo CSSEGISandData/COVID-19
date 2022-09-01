@@ -16,7 +16,7 @@ df %>%
          dailyActive = if_else(Date == mdy("01/22/2020"),Active,Active - lag(Active)),
          dailyConfirmed = if_else(Date == mdy("01/22/2020"),Confirmed,Confirmed - lag(Confirmed)),
          dailyDeaths = if_else(Date == mdy("01/22/2020"),Deaths,Deaths - lag(Deaths))) %>%
-  select(Date,dailyActive,dailyConfirmed,dailyDeaths,time,month,year) -> covidBitcoin
+  select(Date,Close,dailyActive,dailyConfirmed,dailyDeaths,time,month,year) -> covidBitcoin
 
 library(corrgram)
 
@@ -25,6 +25,6 @@ aModel <- lm(Close ~ dailyActive + dailyConfirmed + dailyDeaths + time ,data = c
 summary(aModel)
 
 library(lessR)
-aModel <- Regression(Close ~ dailyActive + dailyConfirmed + dailyDeaths + dailyRecovered + time + Country_Region,data = covidBitcoin)
+aModel <- lm(Close ~ dailyActive + dailyConfirmed + dailyDeaths + time + Country_Region,data = covidBitcoin)
 summary(aModel)
 
