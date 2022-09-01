@@ -3,6 +3,8 @@
 #
 # 2020-04-17 lgreski 
 # 2020-11-10 updated for 2 corrections of column names after 5/29/2020
+# 2022-07-15 added code to save daily data to RDS
+# 2022-09-01 move date conversion before saveRDS() 
 
 # edit this line to reflect where data is stored on local machine 
 directory <- "./csse_covid_19_data/csse_covid_19_daily_reports/"
@@ -78,12 +80,10 @@ dataList <- lapply(1:length(theFiles),function(x){
 table(unlist(lapply(1:length(theFiles),function(x) length(names(dataList[[x]])))))
 
 data <- do.call(rbind,dataList)
+library(lubridate)
+data$date <- mdy(data$date)
 
 # make directory & save the RDS
 if(!dir.exists("./rdsData")) dir.create("./rdsData")
 saveRDS(data,"./rdsData/covidData.rds")
 
-#subset by date
-system.time(data <- readRDS("./rdsData/covidData.rds"))
-library(lubridate)
-data$date <- mdy(data$date)

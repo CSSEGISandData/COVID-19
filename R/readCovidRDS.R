@@ -7,7 +7,6 @@
 system.time(data <- readRDS("./rdsData/covidData.rds"))
 library(tidyverse)
 library(lubridate)
-data$date <- mdy(data$date)
 
 countries <- as.data.frame(table(data$Country_Region))
 
