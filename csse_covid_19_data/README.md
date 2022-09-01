@@ -406,6 +406,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * August 25, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 * August 26, 2022 | Colorado, US | Corrected from 2020-03-17 to 2022-08-21 | [Data Source](https://data-cdphe.opendata.arcgis.com/datasets/CDPHE::cdphe-covid19-county-level-open-data-repository/explore)
 * August 26, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-08-25 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* August 31, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-08-30 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
