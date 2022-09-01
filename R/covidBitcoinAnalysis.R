@@ -1,13 +1,10 @@
 #
-# bitcoin and COVID regression analysis
+# bitcoin and COVID regression analysis by country
+#
+# instructions: run readCovidRDSAllCountries.R before this script 
 
 df <- readRDS("./rdsData/covidAndBitcoin.rds")
 library(lubridate)
-
-# add time series variables 
-df$time <- df$Date - mdy("01/20/2020")
-df$month <- month(df$Date)
-df$year <- year(df$Date)
 
 # create "daily" variables
 df %>% 

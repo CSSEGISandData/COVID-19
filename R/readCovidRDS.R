@@ -16,7 +16,7 @@ source("./R/readBitcoinPrices.R")
 subsetCovidData <- data %>%
      filter(Country_Region %in% c("Mainland China","China","Ukraine","United Kingdom",
                                   "US","Russia","Japan","Germany","France")) %>% 
-     filter(date > mdy("01/01/2020") & date < mdy("07/01/2022")) %>%
+     filter(date > mdy("01/01/2020") & date < mdy("09/01/2022")) %>%
      rename(Date = date) %>%
      # use base R ifelse() to avoid typing problem with if_else() 
      mutate(Confirmed = ifelse(is.na(Confirmed),0,Confirmed),

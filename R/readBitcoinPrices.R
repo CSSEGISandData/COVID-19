@@ -1,7 +1,7 @@
 library(quantmod)
 symbols = c('BTC-USD')
 start = as.Date("2020-01-01")
-until = as.Date("2022-07-22")
+until = as.Date("2022-08-31")
 
 # df <- getSymbols('BTC-USD',src='yahoo', from = start, to = until, 
 #                  auto.assign = FALSE)
