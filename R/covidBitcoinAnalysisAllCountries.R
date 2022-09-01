@@ -2,6 +2,8 @@
 # bitcoin and COVID regression analysis
 # data dictionary is here: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data 
 
+# Instructions: run readCovidRDSAllCountries.R before running this script
+
 df <- readRDS("./rdsData/covidAndBitcoinAllCountries.rds")
 library(lubridate)
 library(tidyverse)
