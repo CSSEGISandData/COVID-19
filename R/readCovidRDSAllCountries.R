@@ -20,15 +20,16 @@ subsetCovidData <- data %>%
      mutate(Confirmed = ifelse(is.na(Confirmed),0,Confirmed),
             Active = ifelse(is.na(Active),0,Active),
             Deaths = ifelse(is.na(Deaths),0,Deaths),
+            Incident_Rate = ifelse(is.na(Incident_Rate),0,Incident_Rate),
             Recovered = ifelse(is.na(Recovered),0,Recovered),
             Country_Region = case_when(Country_Region == "Mainland China" ~ "China",
                                        TRUE ~ Country_Region)) %>%
      # code to summarise() up to one row per country per day
      group_by(Country_Region,Date) %>% 
-     summarise(Confirmed = sum(Confirmed),
-               Active = sum(Active),
+     summarise(Fatality_Rate = sum(Deaths) / sum(Confirmed) * 100,
+               Confirmed = sum(Confirmed),
                Deaths = sum(Deaths),
-               Recovered = sum(Recovered)) %>% 
+               Incident_Rate = sum(Incident_Rate)) %>% 
      full_join(.,btcData) %>% filter(!is.na(Confirmed))
 
 saveRDS(subsetCovidData,"./rdsData/covidAndBitcoinAllCountries.rds")
