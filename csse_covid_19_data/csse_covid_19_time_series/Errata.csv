@@ -65428,3 +65428,1200 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 08/31/2022,time_series_covid19_deaths_global.csv,US,08/24/2022,1042535,1042543,Correct US deaths data
 08/31/2022,time_series_covid19_deaths_global.csv,US,08/25/2022,1043130,1043149,Correct US deaths data
 08/31/2022,time_series_covid19_deaths_global.csv,US,08/26/2022,1043824,1043849,Correct US deaths data
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/29/2022,264306,264814,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/30/2022,264306,265123,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",08/31/2022,264306,265373,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",09/01/2022,264306,265373,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",09/02/2022,264306,265373,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",09/03/2022,264306,265685,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",09/04/2022,264306,265685,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",09/05/2022,264306,265948,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_confirmed_US.csv,"St. Louis, Missouri, US",09/06/2022,264306,266625,"Correct St. Louis, Missouri, US confirmed data"
+09/07/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",08/31/2022,3475,3479,"Correct St. Louis, Missouri, US deaths data"
+09/07/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",09/01/2022,3475,3479,"Correct St. Louis, Missouri, US deaths data"
+09/07/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",09/02/2022,3475,3479,"Correct St. Louis, Missouri, US deaths data"
+09/07/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",09/03/2022,3475,3482,"Correct St. Louis, Missouri, US deaths data"
+09/07/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",09/04/2022,3475,3482,"Correct St. Louis, Missouri, US deaths data"
+09/07/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",09/05/2022,3475,3488,"Correct St. Louis, Missouri, US deaths data"
+09/07/2022,time_series_covid19_deaths_US.csv,"St. Louis, Missouri, US",09/06/2022,3475,3491,"Correct St. Louis, Missouri, US deaths data"
+09/07/2022,time_series_covid19_confirmed_global.csv,US,08/29/2022,94306725,94307233,Correct US confirmed data
+09/07/2022,time_series_covid19_confirmed_global.csv,US,08/30/2022,94378287,94379104,Correct US confirmed data
+09/07/2022,time_series_covid19_confirmed_global.csv,US,08/31/2022,94531854,94532921,Correct US confirmed data
+09/07/2022,time_series_covid19_confirmed_global.csv,US,09/01/2022,94650029,94651096,Correct US confirmed data
+09/07/2022,time_series_covid19_confirmed_global.csv,US,09/02/2022,94732814,94733881,Correct US confirmed data
+09/07/2022,time_series_covid19_confirmed_global.csv,US,09/03/2022,94742293,94743672,Correct US confirmed data
+09/07/2022,time_series_covid19_confirmed_global.csv,US,09/04/2022,94748404,94749783,Correct US confirmed data
+09/07/2022,time_series_covid19_confirmed_global.csv,US,09/05/2022,94768178,94769820,Correct US confirmed data
+09/07/2022,time_series_covid19_confirmed_global.csv,US,09/06/2022,94896544,94898863,Correct US confirmed data
+09/07/2022,time_series_covid19_deaths_global.csv,US,08/31/2022,1046327,1046331,Correct US deaths data
+09/07/2022,time_series_covid19_deaths_global.csv,US,09/01/2022,1047006,1047010,Correct US deaths data
+09/07/2022,time_series_covid19_deaths_global.csv,US,09/02/2022,1047478,1047482,Correct US deaths data
+09/07/2022,time_series_covid19_deaths_global.csv,US,09/03/2022,1047497,1047504,Correct US deaths data
+09/07/2022,time_series_covid19_deaths_global.csv,US,09/04/2022,1047498,1047505,Correct US deaths data
+09/07/2022,time_series_covid19_deaths_global.csv,US,09/05/2022,1047563,1047576,Correct US deaths data
+09/07/2022,time_series_covid19_deaths_global.csv,US,09/06/2022,1048185,1048201,Correct US deaths data
+09/12/2022,time_series_covid19_confirmed_global.csv,China,09/10/2022,725051,726088,Correct China confirmed data
+09/12/2022,time_series_covid19_confirmed_global.csv,China,09/11/2022,725051,727138,Correct China confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/24/2020,7,5,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/26/2020,8,7,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/22/2020,9771,9763,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/23/2020,9805,9771,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/24/2020,9846,9805,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/25/2021,11099,11181,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/30/2021,11460,11590,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/31/2021,11533,11672,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/01/2021,11533,11692,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/02/2021,11590,11705,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/03/2021,11672,11758,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/04/2021,11692,11806,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/05/2021,11692,11860,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/06/2021,11758,11908,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/07/2021,11806,11969,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/08/2021,11806,11991,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/09/2021,11908,12016,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/10/2021,11969,12037,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/11/2021,11991,12114,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/12/2021,12016,12143,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/13/2021,12016,12192,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/14/2021,12143,12206,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/15/2021,12143,12206,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/16/2021,12192,12236,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/17/2021,12206,12254,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/18/2021,12206,12274,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/19/2021,12206,12309,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/20/2021,12254,12325,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/21/2021,12274,12352,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/22/2021,12309,12354,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/23/2021,12309,12390,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/24/2021,12352,12430,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/25/2021,12352,12448,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/26/2021,12352,12474,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/27/2021,12430,12493,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/28/2021,12430,12531,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/01/2021,12448,12536,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/02/2021,12493,12554,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/03/2021,12531,12559,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/04/2021,12536,12577,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/05/2021,12536,12594,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/06/2021,12536,12614,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/07/2021,12536,12632,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/08/2021,12536,12647,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/09/2021,12536,12663,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/10/2021,12594,12664,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/11/2021,12594,12669,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/12/2021,12632,12686,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/13/2021,12632,12688,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/14/2021,12632,12698,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/15/2021,12632,12700,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/16/2021,12664,12714,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/17/2021,12669,12722,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/18/2021,12686,12730,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/19/2021,12688,12732,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/20/2021,12700,12736,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/21/2021,12714,12758,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/22/2021,12714,12760,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/23/2021,12722,12762,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/24/2021,12732,12779,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/25/2021,12732,12788,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/26/2021,12736,12792,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/27/2021,12736,12797,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/28/2021,12736,12803,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/29/2021,12736,12803,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/30/2021,12758,12807,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/31/2021,12758,12816,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/01/2021,12762,12840,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/02/2021,12788,12852,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/03/2021,12788,12855,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/04/2021,12788,12857,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/05/2021,12788,12857,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/06/2021,12803,12863,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/07/2021,12803,12876,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/08/2021,12803,12885,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/09/2021,12816,12906,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/10/2021,12840,12918,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/11/2021,12840,12920,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/12/2021,12840,12937,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/13/2021,12855,12938,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/14/2021,12855,12944,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/15/2021,12857,12958,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/16/2021,12876,12977,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/17/2021,12885,12999,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/18/2021,12918,13005,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/19/2021,12918,13006,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/20/2021,12918,13017,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/21/2021,12918,13031,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/22/2021,12944,13044,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/23/2021,12944,13056,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/24/2021,12944,13078,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/25/2021,12958,13094,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/26/2021,12958,13096,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/27/2021,12999,13101,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/28/2021,13017,13119,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/29/2021,13017,13135,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/30/2021,13056,13149,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/01/2021,13056,13164,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/02/2021,13094,13170,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/03/2021,13094,13179,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/04/2021,13135,13193,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/05/2021,13149,13210,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/06/2021,13164,13227,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/07/2021,13164,13245,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/08/2021,13164,13255,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/09/2021,13164,13267,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/10/2021,13164,13268,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/11/2021,13179,13305,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/12/2021,13227,13353,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/13/2021,13255,13393,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/14/2021,13268,13460,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/15/2021,13353,13520,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/16/2021,13393,13598,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/17/2021,13460,13624,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/18/2021,13520,13668,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/19/2021,13598,13735,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/20/2021,13598,13843,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/21/2021,13624,13906,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/22/2021,13624,14037,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/23/2021,13735,14128,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/24/2021,13906,14258,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/25/2021,13906,14351,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/26/2021,14037,14453,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/27/2021,14037,14565,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/28/2021,14037,14711,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/29/2021,14128,14931,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/30/2021,14258,15045,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/31/2021,14351,15123,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/01/2021,14565,15282,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/02/2021,14711,15435,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/03/2021,14931,15604,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/04/2021,15058,15754,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/05/2021,15123,15895,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/06/2021,15282,16001,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/07/2021,15435,16079,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/08/2021,15895,16206,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/09/2021,16001,16356,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/10/2021,16001,16561,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/11/2021,16079,16662,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/12/2021,16079,16775,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/13/2021,16079,16859,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/14/2021,16561,16966,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/15/2021,16662,17048,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/16/2021,16662,17239,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/17/2021,16859,17371,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/18/2021,16859,17603,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/19/2021,16859,17710,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/20/2021,16859,17902,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/21/2021,17061,17963,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/22/2021,17061,18073,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/23/2021,17603,18212,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/24/2021,17603,18341,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/25/2021,17963,18460,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/26/2021,17963,18562,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/27/2021,17963,18658,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/28/2021,18212,18665,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/29/2021,18341,18737,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/30/2021,18562,18844,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/01/2021,18658,18952,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/02/2021,18658,19053,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/03/2021,18658,19107,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/04/2021,18658,19172,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/05/2021,18952,19220,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/06/2021,19107,19295,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/07/2021,19172,19374,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/08/2021,19172,19427,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/09/2021,19220,19457,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/10/2021,19220,19512,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/11/2021,19220,19547,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/12/2021,19220,19563,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/13/2021,19220,19627,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/14/2021,19374,19682,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/15/2021,19374,19722,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/16/2021,19374,19762,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/17/2021,19374,19783,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/18/2021,19374,19811,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/19/2021,19547,19817,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/20/2021,19563,19876,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/21/2021,19563,19918,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/22/2021,19627,20000,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/23/2021,19762,20068,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/24/2021,19762,20077,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/25/2021,19762,20116,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/26/2021,19817,20125,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/27/2021,19918,20157,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/28/2021,20000,20203,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/29/2021,20077,20245,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/30/2021,20077,20307,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/31/2021,20077,20326,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/01/2021,20077,20345,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/02/2021,20157,20363,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/03/2021,20307,20389,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/04/2021,20307,20433,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/05/2021,20326,20477,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/06/2021,20326,20507,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/07/2021,20326,20541,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/08/2021,20326,20556,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/09/2021,20389,20562,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/10/2021,20389,20585,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/11/2021,20389,20622,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/12/2021,20507,20658,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/13/2021,20507,20689,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/14/2021,20507,20705,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/15/2021,20507,20719,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/16/2021,20556,20732,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/17/2021,20556,20746,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/18/2021,20556,20768,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/19/2021,20689,20803,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/20/2021,20689,20803,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/21/2021,20689,20845,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/22/2021,20689,20850,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/23/2021,20719,20870,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/24/2021,20746,20896,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/25/2021,20746,20916,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/26/2021,20833,20931,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/27/2021,20833,20941,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/28/2021,20833,20962,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/29/2021,20833,20977,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/30/2021,20850,21017,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/31/2021,20896,21047,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/01/2021,20916,21069,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/02/2021,20941,21094,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/03/2021,20977,21124,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/04/2021,20977,21139,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/05/2021,20977,21162,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/06/2021,21069,21178,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/07/2021,21094,21192,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/08/2021,21124,21219,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/09/2021,21124,21244,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/10/2021,21162,21271,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/11/2021,21162,21299,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/12/2021,21162,21318,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/13/2021,21178,21330,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/14/2021,21271,21330,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/15/2021,21318,21330,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/16/2021,21318,21330,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/18/2021,21330,21486,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/19/2021,21330,21508,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/20/2021,21368,21540,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/21/2021,21431,21583,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/22/2021,21431,21647,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/23/2021,21453,21700,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/24/2021,21486,21761,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/25/2021,21486,21873,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/26/2021,21486,21916,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/27/2021,21540,21972,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/28/2021,21647,22041,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/29/2021,21647,22125,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/30/2021,21647,22173,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/01/2021,21916,22273,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/02/2021,21916,22354,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/03/2021,21916,22382,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/04/2021,21972,22447,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/05/2021,22125,22526,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/06/2021,22354,22614,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/07/2021,22354,22675,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/08/2021,22354,22731,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/09/2021,22382,22827,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/10/2021,22526,22911,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/11/2021,22614,22933,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/12/2021,22675,23042,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/13/2021,22731,23160,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/14/2021,22827,23241,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/15/2021,22827,23324,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/16/2021,22933,23406,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/17/2021,22933,23446,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/18/2021,23042,23490,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/19/2021,23324,23569,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/20/2021,23406,23619,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/21/2021,23406,23726,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/22/2021,23406,23773,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/23/2021,23406,23863,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/24/2021,23406,23909,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/25/2021,23619,23927,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/26/2021,23619,23960,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/27/2021,23773,23981,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/28/2021,23823,24004,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/29/2021,23823,24032,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/30/2021,23960,24073,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,10/31/2021,23960,24091,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/01/2021,23960,24104,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/02/2021,24004,24110,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/03/2021,24004,24128,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/04/2021,24032,24233,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/05/2021,24073,24286,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/06/2021,24073,24359,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/07/2021,24073,24383,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/08/2021,24233,24485,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/09/2021,24233,24543,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/10/2021,24233,24599,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/11/2021,24233,24635,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/12/2021,24543,24694,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/13/2021,24543,24710,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/14/2021,24543,24768,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/15/2021,24635,24819,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/16/2021,24710,24883,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/17/2021,24710,24936,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/18/2021,24710,24950,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/19/2021,24768,24974,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/20/2021,24768,24974,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/21/2021,24768,25016,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/22/2021,24950,25027,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/23/2021,24950,25039,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/24/2021,24974,25062,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/25/2021,24974,25146,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/26/2021,25027,25175,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/27/2021,25027,25202,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/28/2021,25027,25265,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/29/2021,25175,25296,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,11/30/2021,25175,25351,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/01/2021,25351,25463,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/02/2021,25351,25463,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/03/2021,25463,25578,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/04/2021,25510,25638,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/05/2021,25510,25674,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/06/2021,25638,25691,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/07/2021,25638,25705,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/08/2021,25691,25744,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/09/2021,25744,25758,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/10/2021,25744,25794,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/11/2021,25744,25853,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/12/2021,25744,25865,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/13/2021,25758,25879,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/14/2021,25865,25893,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/15/2021,25879,25907,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/16/2021,25907,25917,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/17/2021,25907,25920,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/18/2021,25920,25923,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/19/2021,25920,25934,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/20/2021,25923,25941,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/21/2021,25923,25945,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/22/2021,25941,25945,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/24/2021,25950,25972,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/25/2021,25950,25974,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/26/2021,25950,25974,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/27/2021,25974,25985,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/28/2021,25976,25996,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/29/2021,25985,26024,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/30/2021,25985,26056,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,12/31/2021,25985,26169,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/01/2022,25985,26213,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/02/2022,25985,26255,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/03/2022,26056,26259,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/04/2022,26213,26259,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/05/2022,26259,26304,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/06/2022,26304,26406,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/07/2022,26304,26509,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/08/2022,26304,26654,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/09/2022,26654,26807,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/10/2022,26807,27000,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/11/2022,26807,27082,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/12/2022,26807,27318,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/13/2022,27082,27490,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/14/2022,27082,27619,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/15/2022,27082,27819,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/16/2022,27082,27973,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/17/2022,27819,28030,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/18/2022,27819,28117,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/19/2022,28030,28250,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/20/2022,28117,28352,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/21/2022,28250,28471,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/22/2022,28352,28561,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/23/2022,28471,28709,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/24/2022,28561,28743,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/25/2022,28561,28875,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/26/2022,28561,29053,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/27/2022,28875,29123,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/28/2022,28875,29217,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/29/2022,28875,29323,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/30/2022,28875,29444,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,01/31/2022,29217,29477,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/01/2022,29323,29549,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/02/2022,29323,29549,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/03/2022,29323,29715,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/04/2022,29593,29779,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/05/2022,29593,29832,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/06/2022,29715,29848,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/07/2022,29832,29879,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/08/2022,29879,29888,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/09/2022,29888,29907,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/11/2022,29939,29907,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/12/2022,29939,30055,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/13/2022,29969,30055,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/14/2022,29983,30102,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/15/2022,30055,30121,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/16/2022,30121,30162,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/17/2022,30162,30208,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/18/2022,30162,30226,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/19/2022,30162,30260,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/20/2022,30226,30273,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/21/2022,30260,30287,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/22/2022,30287,30299,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/23/2022,30299,30314,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/25/2022,30336,30340,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/26/2022,30340,30342,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,02/28/2022,30342,30350,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/01/2022,30342,30353,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/02/2022,30350,30375,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/03/2022,30353,30382,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/04/2022,30382,30385,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/05/2022,30385,30400,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/06/2022,30385,30430,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/07/2022,30385,30430,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/08/2022,30400,30432,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/09/2022,30430,30433,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/10/2022,30433,30438,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/11/2022,30438,30446,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/12/2022,30446,30461,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/13/2022,30461,30473,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/14/2022,30461,30473,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/15/2022,30473,30478,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/16/2022,30478,30487,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/17/2022,30478,30488,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/18/2022,30478,30494,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/19/2022,30478,30496,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/20/2022,30478,30509,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/21/2022,30509,30511,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/23/2022,30511,30515,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/24/2022,30511,30522,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/25/2022,30511,30528,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/26/2022,30511,30528,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/27/2022,30511,30528,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/28/2022,30529,30545,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/29/2022,30529,30545,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,03/31/2022,30547,30563,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/01/2022,30547,30567,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/02/2022,30549,30571,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/03/2022,30549,30575,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/04/2022,30567,30575,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/05/2022,30567,30576,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/06/2022,30575,30578,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/07/2022,30575,30578,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/08/2022,30578,30585,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/09/2022,30585,30586,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/10/2022,30585,30586,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/11/2022,30586,30587,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/12/2022,30586,30594,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/13/2022,30586,30610,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/14/2022,30586,30612,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/15/2022,30594,30615,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/16/2022,30594,30623,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/17/2022,30594,30640,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/18/2022,30594,30643,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/19/2022,30615,30648,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/20/2022,30615,30649,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/21/2022,30615,30650,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/22/2022,30640,30655,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/23/2022,30640,30659,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/24/2022,30640,30659,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/25/2022,30640,30690,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/26/2022,30655,30690,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/27/2022,30655,30697,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/28/2022,30655,30699,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/29/2022,30690,30702,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,04/30/2022,30690,30703,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/01/2022,30690,30704,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/02/2022,30697,30705,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/03/2022,30697,30707,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/04/2022,30703,30707,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/05/2022,30703,30707,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/06/2022,30703,30707,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/07/2022,30703,30712,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/08/2022,30703,30713,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/09/2022,30707,30713,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/10/2022,30707,30713,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/11/2022,30707,30725,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/12/2022,30713,30730,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/13/2022,30713,30734,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/14/2022,30713,30740,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/15/2022,30713,30746,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/16/2022,30725,30754,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/17/2022,30725,30760,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/18/2022,30725,30771,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/19/2022,30734,30781,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/20/2022,30746,30781,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/21/2022,30746,30789,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/22/2022,30746,30754,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/23/2022,30746,30803,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/24/2022,30781,30805,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/25/2022,30781,30818,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/26/2022,30781,30818,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/27/2022,30781,30818,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/28/2022,30781,30818,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/29/2022,30800,30818,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/30/2022,30800,30818,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,05/31/2022,30818,30892,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/01/2022,30861,30905,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/02/2022,30874,30924,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/03/2022,30892,30940,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/04/2022,30892,30952,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/05/2022,30892,30963,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/06/2022,30892,30970,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/07/2022,30940,30985,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/08/2022,30963,31004,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/09/2022,30963,31025,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/10/2022,31004,31034,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/11/2022,31004,31054,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/12/2022,31004,31075,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/13/2022,31004,31092,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/14/2022,31034,31115,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/15/2022,31054,31133,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/16/2022,31054,31163,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/17/2022,31054,31195,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/18/2022,31054,31200,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/19/2022,31054,31226,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/20/2022,31115,31242,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/21/2022,31115,31248,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/22/2022,31226,31301,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/23/2022,31226,31355,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/24/2022,31248,31410,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/25/2022,31301,31470,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/26/2022,31301,31470,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/27/2022,31410,31550,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/28/2022,31470,31603,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/29/2022,31550,31656,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,06/30/2022,31550,31677,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/01/2022,31603,31703,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/02/2022,31603,31767,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/03/2022,31603,31795,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/04/2022,31677,31843,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/05/2022,31677,31884,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/06/2022,31767,31908,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/07/2022,31767,31931,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/08/2022,31767,31980,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/09/2022,31767,31980,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/10/2022,31767,31980,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/11/2022,31908,31980,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/12/2022,31980,32103,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/13/2022,31980,32103,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/14/2022,32070,32131,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/15/2022,32070,32145,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/16/2022,32103,32155,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/17/2022,32103,32178,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/18/2022,32103,32197,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/19/2022,32103,32223,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/20/2022,32131,32223,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/21/2022,32131,32223,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/22/2022,32131,32223,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/23/2022,32131,32223,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/24/2022,32131,32263,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/25/2022,32178,32263,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/26/2022,32223,32272,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/27/2022,32223,32285,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/28/2022,32223,32296,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/29/2022,32248,32314,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/30/2022,32263,32361,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,07/31/2022,32263,32405,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/01/2022,32272,32464,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/02/2022,32272,32516,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/03/2022,32296,32516,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/04/2022,32464,32516,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/05/2022,32464,32516,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/06/2022,32464,32516,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/07/2022,32464,32703,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/08/2022,32464,32715,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/09/2022,32577,32738,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/10/2022,32577,32791,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/11/2022,32577,32809,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/12/2022,32577,32843,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/13/2022,32703,32873,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/14/2022,32703,32942,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/15/2022,32703,32961,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/16/2022,32703,32994,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/17/2022,32703,33017,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/18/2022,32703,33043,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/19/2022,32703,33070,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/20/2022,32703,33133,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/21/2022,32703,33189,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/22/2022,32843,33239,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/23/2022,32994,33295,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/24/2022,32994,33331,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/25/2022,33133,33360,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/26/2022,33133,33381,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/27/2022,33295,33400,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/28/2022,33295,33442,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/29/2022,33381,33468,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/30/2022,33381,33520,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,08/31/2022,33381,33551,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/01/2022,33381,33551,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/02/2022,33468,33551,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/03/2022,33468,33551,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_confirmed_global.csv,Haiti,09/04/2022,33468,33551,Correct Haiti confirmed data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/04/2021,245,246,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/05/2021,245,246,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/06/2021,245,246,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/11/2021,246,247,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/12/2021,246,247,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/13/2021,246,247,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/22/2021,247,248,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/23/2021,247,248,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/24/2021,247,249,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/25/2021,247,249,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/26/2021,247,250,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/06/2021,251,250,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/07/2021,251,250,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/08/2021,251,250,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/09/2021,251,250,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/10/2021,251,250,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/11/2021,251,250,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/13/2021,250,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/14/2021,250,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/15/2021,250,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/16/2021,250,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/17/2021,250,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/28/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/29/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/31/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/01/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/02/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/03/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/04/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/05/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/06/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/07/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/08/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/09/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/10/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/11/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/12/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/15/2021,252,251,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/17/2021,251,253,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/18/2021,251,253,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/19/2021,251,253,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/20/2021,251,254,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/21/2021,251,254,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/22/2021,251,254,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/23/2021,251,254,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/24/2021,251,254,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/25/2021,251,254,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/26/2021,252,254,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/27/2021,253,254,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/29/2021,254,257,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/30/2021,254,260,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/01/2021,254,263,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/02/2021,254,264,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/03/2021,254,264,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/04/2021,257,266,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/05/2021,260,266,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/06/2021,263,266,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/07/2021,263,268,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/08/2021,263,268,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/09/2021,263,269,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/10/2021,263,269,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/11/2021,264,271,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/12/2021,266,271,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/13/2021,268,271,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/14/2021,269,271,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/15/2021,271,274,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/16/2021,271,276,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/17/2021,271,276,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/18/2021,274,277,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/19/2021,276,280,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/20/2021,276,283,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/21/2021,276,288,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/22/2021,276,292,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/23/2021,280,302,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/24/2021,288,307,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/25/2021,288,309,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/26/2021,292,311,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/27/2021,292,317,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/28/2021,292,319,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/29/2021,302,321,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/30/2021,307,321,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,05/31/2021,309,321,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/01/2021,317,323,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/02/2021,319,325,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/03/2021,321,328,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/04/2021,321,330,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/05/2021,321,333,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/06/2021,323,342,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/07/2021,325,346,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/08/2021,333,349,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/09/2021,342,352,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/10/2021,342,355,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/11/2021,346,358,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/12/2021,346,360,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/13/2021,346,361,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/14/2021,355,365,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/15/2021,358,369,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/16/2021,358,373,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/17/2021,361,385,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/18/2021,361,388,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/19/2021,361,393,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/20/2021,361,398,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/21/2021,369,400,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/22/2021,369,404,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/23/2021,388,413,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/24/2021,388,415,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/25/2021,400,420,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/26/2021,400,425,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/27/2021,400,437,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/28/2021,413,438,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/29/2021,415,443,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/30/2021,425,447,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/01/2021,436,451,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/02/2021,436,456,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/03/2021,436,462,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/04/2021,436,467,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/05/2021,451,471,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/06/2021,462,482,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/07/2021,467,487,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/08/2021,467,491,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/09/2021,471,496,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/10/2021,471,501,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/11/2021,471,508,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/12/2021,471,510,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/13/2021,471,512,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/14/2021,487,516,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/15/2021,487,519,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/16/2021,487,523,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/17/2021,487,526,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/18/2021,487,526,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/19/2021,508,527,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/20/2021,510,528,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/21/2021,510,535,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/22/2021,512,537,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/23/2021,523,543,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/24/2021,523,545,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/25/2021,523,552,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/26/2021,527,552,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/27/2021,535,555,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/28/2021,537,558,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/29/2021,545,558,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/30/2021,545,560,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/31/2021,545,563,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/01/2021,545,566,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/02/2021,555,566,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/03/2021,560,569,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/04/2021,560,572,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/05/2021,563,575,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/06/2021,563,576,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/07/2021,563,576,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/08/2021,563,576,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/09/2021,569,576,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/10/2021,569,579,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/11/2021,569,579,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/12/2021,576,580,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/13/2021,576,582,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/14/2021,576,583,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/15/2021,576,583,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/16/2021,576,583,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/17/2021,576,583,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/18/2021,576,584,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/19/2021,582,584,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/20/2021,582,584,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/21/2021,582,584,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/22/2021,582,584,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/23/2021,583,584,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/24/2021,583,586,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/25/2021,583,586,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/26/2021,584,586,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/27/2021,584,586,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/28/2021,584,586,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/29/2021,584,586,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/30/2021,584,586,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/01/2021,586,588,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/02/2021,586,588,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/03/2021,586,588,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/04/2021,586,588,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/05/2021,586,588,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/06/2021,588,591,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/07/2021,588,595,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/08/2021,588,596,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/09/2021,588,596,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/10/2021,588,596,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/11/2021,588,596,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/12/2021,588,596,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/13/2021,591,596,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/18/2021,596,607,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/19/2021,596,607,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/20/2021,603,610,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/21/2021,605,610,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/22/2021,605,610,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/23/2021,607,610,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/24/2021,607,611,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/25/2021,607,611,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/26/2021,607,611,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/27/2021,610,615,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/28/2021,610,620,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/29/2021,610,622,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,09/30/2021,610,626,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/01/2021,611,629,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/02/2021,611,634,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/03/2021,611,636,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/04/2021,615,641,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/05/2021,622,641,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/06/2021,634,643,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/07/2021,634,647,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/08/2021,634,649,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/09/2021,636,649,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/10/2021,641,654,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/11/2021,643,657,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/12/2021,647,657,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/13/2021,649,658,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/14/2021,649,658,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/15/2021,649,658,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/16/2021,657,658,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/17/2021,657,658,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/18/2021,657,658,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/19/2021,658,660,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/20/2021,658,662,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/21/2021,658,662,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/22/2021,658,662,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/23/2021,658,662,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/24/2021,658,666,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/25/2021,662,668,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/26/2021,662,671,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/27/2021,662,675,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/28/2021,662,677,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/29/2021,662,679,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/30/2021,671,685,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,10/31/2021,671,686,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/01/2021,671,692,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/02/2021,677,692,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/03/2021,677,698,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/04/2021,679,702,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/05/2021,685,702,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/06/2021,685,705,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/07/2021,685,705,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/08/2021,702,708,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/09/2021,702,708,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/10/2021,702,708,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/11/2021,702,708,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/12/2021,708,711,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/13/2021,708,711,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/14/2021,708,711,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/15/2021,708,715,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/16/2021,711,719,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/17/2021,711,719,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/18/2021,711,719,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/19/2021,711,723,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/20/2021,711,723,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/21/2021,711,725,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/22/2021,719,727,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/23/2021,719,729,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/24/2021,723,729,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/25/2021,723,736,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/26/2021,723,738,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/27/2021,723,738,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/28/2021,723,738,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,11/30/2021,738,746,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/01/2021,746,747,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/02/2021,746,747,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/04/2021,747,750,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/05/2021,747,750,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/06/2021,750,754,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/07/2021,750,754,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/08/2021,754,758,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/09/2021,758,761,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/10/2021,758,761,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/11/2021,758,762,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/12/2021,758,762,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/13/2021,761,762,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/15/2021,762,765,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/24/2021,765,766,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/25/2021,765,766,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/26/2021,765,766,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,12/31/2021,766,773,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/01/2022,766,773,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/02/2022,766,773,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/03/2022,766,774,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/04/2022,773,774,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/06/2022,774,780,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/07/2022,774,780,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/08/2022,774,780,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/20/2022,780,783,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/21/2022,780,783,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/25/2022,783,784,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/26/2022,783,784,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/28/2022,784,786,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/29/2022,784,792,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/30/2022,784,799,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,01/31/2022,786,804,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/01/2022,876,804,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/02/2022,876,804,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/03/2022,876,804,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/07/2022,804,806,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/09/2022,806,807,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/12/2022,807,809,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/13/2022,807,809,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/14/2022,807,809,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/16/2022,809,814,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/17/2022,814,819,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/18/2022,814,819,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/19/2022,814,819,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,02/22/2022,819,820,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/04/2022,820,823,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/05/2022,823,825,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/06/2022,823,827,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/07/2022,823,827,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/08/2022,825,827,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/24/2022,827,829,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/25/2022,827,833,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/26/2022,827,833,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,03/27/2022,827,833,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/05/2022,833,834,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/06/2022,833,834,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/07/2022,833,834,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,04/08/2022,834,835,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/07/2022,835,837,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/08/2022,835,837,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,06/09/2022,835,837,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/14/2022,837,838,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/15/2022,837,838,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/16/2022,837,838,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/17/2022,837,838,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/18/2022,837,838,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,07/19/2022,837,838,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/12/2022,838,840,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/13/2022,838,840,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/14/2022,838,840,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/15/2022,838,840,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/16/2022,838,840,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/17/2022,838,840,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/18/2022,838,841,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/19/2022,838,841,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/20/2022,838,841,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/21/2022,838,841,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/22/2022,840,841,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/23/2022,840,841,Correct Haiti deaths data
+09/13/2022,time_series_covid19_deaths_global.csv,Haiti,08/24/2022,840,841,Correct Haiti deaths data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/10/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/11/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/12/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/13/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/14/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/15/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/16/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/17/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/18/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/19/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/20/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/21/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/22/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/23/2022,0,1,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/24/2022,0,5,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/25/2022,0,5,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/26/2022,0,5,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/27/2022,0,5,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/28/2022,0,5,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/29/2022,0,5,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/30/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/31/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/01/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/02/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/03/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/04/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/05/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/06/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/07/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/08/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/09/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/10/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/11/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/12/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/13/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/14/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/15/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/16/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/17/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/18/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/19/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/20/2022,0,7,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/21/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/22/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/23/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/24/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/25/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/26/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/27/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/28/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/29/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,04/30/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/01/2022,0,8,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/02/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/03/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/04/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/05/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/06/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/07/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/08/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/09/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/10/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/11/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/12/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/13/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/14/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/15/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/16/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/17/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/18/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/19/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/20/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/21/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/22/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/23/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/24/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/25/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/26/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/27/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/28/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/29/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/30/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,05/31/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/01/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/02/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/03/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/04/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/05/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/06/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/07/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/08/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/09/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/10/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/11/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/12/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/13/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/14/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/15/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/16/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/17/2022,0,9,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/18/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/19/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/20/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/21/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/22/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/23/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/24/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/25/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/26/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/27/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/28/2022,0,10,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/29/2022,0,15,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,06/30/2022,0,15,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/01/2022,0,15,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/02/2022,0,15,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/03/2022,0,20,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/04/2022,0,20,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/05/2022,0,20,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/06/2022,0,23,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/07/2022,0,23,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/08/2022,0,23,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/09/2022,0,23,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/10/2022,0,24,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/11/2022,0,24,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/12/2022,0,25,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/13/2022,0,26,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/14/2022,0,26,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/15/2022,0,26,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/16/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/17/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/18/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/19/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/20/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/21/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/22/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/23/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/24/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/25/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/26/2022,0,29,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/27/2022,0,30,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/28/2022,0,30,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/29/2022,0,47,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/30/2022,0,47,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,07/31/2022,0,47,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/01/2022,0,47,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/02/2022,0,51,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/03/2022,0,55,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/04/2022,0,56,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/05/2022,0,56,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/06/2022,0,56,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/07/2022,0,58,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/08/2022,0,58,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/09/2022,0,58,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/10/2022,0,58,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/11/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/12/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/13/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/14/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/15/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/16/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/17/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/18/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/19/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/20/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/21/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/22/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/23/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/24/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/25/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/26/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/27/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/28/2022,0,60,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/29/2022,0,68,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/30/2022,0,70,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,08/31/2022,0,71,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/01/2022,0,71,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/02/2022,0,71,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/03/2022,0,73,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/04/2022,0,73,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/05/2022,0,73,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/06/2022,0,74,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/07/2022,0,74,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/08/2022,0,74,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/09/2022,0,76,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/10/2022,0,77,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/11/2022,0,77,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,New Zealand,09/12/2022,0,77,Correct New Zealand confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/20/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/21/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/22/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/23/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/24/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/25/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/26/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/27/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/28/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/29/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/30/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,07/31/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/01/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/02/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/03/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/04/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/05/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/06/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/07/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/08/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/09/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/10/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/11/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/12/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/13/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/14/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/15/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/16/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/17/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/18/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/19/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/20/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/21/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/22/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/23/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/24/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/25/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/26/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/27/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/28/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/29/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/30/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,08/31/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/01/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/02/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/03/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/04/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/05/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/06/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/07/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/08/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/09/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/10/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/11/2022,0,4,Correct United Kingdom confirmed data
+09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/12/2022,0,4,Correct United Kingdom confirmed data

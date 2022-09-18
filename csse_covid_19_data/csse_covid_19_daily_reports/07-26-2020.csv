@@ -2533,7 +2533,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-07-27 04:35:02,34.98820368,-78.36914061,1381,10,0,1371,"Sampson, North Carolina, US",2173.7419527474776,0.724112961622013
 48405,San Augustine,Texas,US,2020-07-27 04:35:02,31.39457611,-94.17000399,58,12,0,135,"San Augustine, Texas, US",1784.6303265752094,8.16326530612245
 6069,San Benito,California,US,2020-07-27 04:35:02,36.60308176,-121.069975,493,2,0,491,"San Benito, California, US",784.9318558145459,0.4056795131845842
-6071,San Bernardino,California,US,2020-07-27 04:35:02,34.84060306,-116.1774685,29693,400,0,29297,"San Bernardino, California, US",1362.1945933300765,1.3469374010842845
+6071,San Bernardino,California,US,2020-07-27 04:35:02,34.84060306,-116.1774685,29694,400,0,29297,"San Bernardino, California, US",1362.1945933300765,1.3469374010842845
 6073,San Diego,California,US,2020-07-27 04:35:02,33.03484597,-116.7365326,26987,533,0,26454,"San Diego, California, US",808.3982110815887,1.9750250120428354
 6075,San Francisco,California,US,2020-07-27 04:35:02,37.75215114,-122.4385672,5829,55,0,5774,"San Francisco, California, US",661.2224618257181,0.9435580717104135
 72125,San German,Puerto Rico,US,2020-07-27 04:35:02,18.111484,-67.03858100000001,116,0,0,116,"San German, Puerto Rico, US",383.7628610182949,0.0
@@ -3963,3 +3963,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Guernsey,United Kingdom,2020-07-27 04:35:02,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom",0.0,0.0
 ,,,"Korea, North",2020-07-27 04:35:02,40.3399,127.5101,0,0,0,0,"Korea, North",0.0,0.0
 ,,Unknown,Ukraine,2020-07-27 04:35:02,,,0,0,0,0,"Unknown, Ukraine",0.0,0.0
+,,,Nauru,2020-07-27 04:35:02,-0.5228,166.9315,0,0,0,0,Nauru,0.0,0.0
+,,Niue,New Zealand,2020-07-27 04:35:02,-19.0544,-169.8672,0,0,0,0,"Niue, New Zealand",0.0,0.0
+,,,Tuvalu,2020-07-27 04:35:02,-7.1095,177.6493,0,0,0,0,Tuvalu,0.0,0.0
+,,Pitcairn Islands,United Kingdom,2020-07-27 04:35:02,-24.3768,-128.3242,0,0,0,0,"Pitcairn Islands, United Kingdom",0.0,0.0

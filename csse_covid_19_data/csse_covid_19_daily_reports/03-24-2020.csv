@@ -3317,7 +3317,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Guatemala,2020-03-24 23:37:15,15.7835,-90.2308,21,1,0,20,Guatemala
 ,,,Guinea,2020-03-24 23:37:15,9.9456,-9.6966,4,0,0,4,Guinea
 ,,,Guyana,2020-03-24 23:37:15,4.860416000000002,-58.93018000000001,5,1,0,4,Guyana
-,,,Haiti,2020-03-24 23:37:15,18.9712,-72.2852,7,0,0,7,Haiti
+,,,Haiti,2020-03-24 23:37:15,18.9712,-72.2852,5,0,0,7,Haiti
 ,,,Holy See,2020-03-24 23:37:15,41.9029,12.4534,4,0,0,4,Holy See
 ,,,Honduras,2020-03-24 23:37:15,15.2,-86.2419,30,0,0,30,Honduras
 ,,,Hungary,2020-03-24 23:37:15,47.1625,19.5033,187,9,21,157,Hungary
@@ -3450,3 +3450,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 82602,,Northern Ireland,United Kingdom,2020-03-24 23:37:31,54.7877,-6.4923,0,10,0,0,"Northern Ireland, United Kingdom"
 82603,,Scotland,United Kingdom,2020-03-24 23:37:31,56.4907,-4.2026,0,56,0,0,"Scotland, United Kingdom"
 82604,,Wales,United Kingdom,2020-03-24 23:37:31,52.1307,-3.7837,0,46,0,0,"Wales, United Kingdom"
+,,,Nauru,2020-03-24 23:37:31,-0.5228,166.9315,0,0,0,0,Nauru
+,,Niue,New Zealand,2020-03-24 23:37:31,-19.0544,-169.8672,0,0,0,0,"Niue, New Zealand"
+,,,Tuvalu,2020-03-24 23:37:31,-7.1095,177.6493,0,0,0,0,Tuvalu
+,,Pitcairn Islands,United Kingdom,2020-03-24 23:37:31,-24.3768,-128.3242,0,0,0,0,"Pitcairn Islands, United Kingdom"

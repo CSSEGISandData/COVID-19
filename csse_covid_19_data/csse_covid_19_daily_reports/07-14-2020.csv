@@ -2458,7 +2458,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37163,Sampson,North Carolina,US,2020-07-15 04:34:39,34.98820368,-78.36914061,1217,7,0,1210,"Sampson, North Carolina, US",1915.6002581416947,0.5751848808545604
 48405,San Augustine,Texas,US,2020-07-15 04:34:39,31.39457611,-94.17000399,49,12,0,118,"San Augustine, Texas, US",1578.2445064950832,9.23076923076923
 6069,San Benito,California,US,2020-07-15 04:34:39,36.60308176,-121.069975,358,2,0,356,"San Benito, California, US",569.9910839383518,0.5586592178770949
-6071,San Bernardino,California,US,2020-07-15 04:34:39,34.84060306,-116.1774685,20535,316,0,20222,"San Bernardino, California, US",942.0733595249726,1.5386113545622748
+6071,San Bernardino,California,US,2020-07-15 04:34:39,34.84060306,-116.1774685,20536,316,0,20222,"San Bernardino, California, US",942.0733595249726,1.5386113545622748
 6073,San Diego,California,US,2020-07-15 04:34:39,33.03484597,-116.7365326,20887,436,0,20451,"San Diego, California, US",625.6721174958736,2.0874227988701106
 6075,San Francisco,California,US,2020-07-15 04:34:39,37.75215114,-122.4385672,4663,50,0,4613,"San Francisco, California, US",528.9552821227181,1.072271070126528
 48407,San Jacinto,Texas,US,2020-07-15 04:34:39,30.57933681,-95.16260304,79,2,0,102,"San Jacinto, Texas, US",360.372847292006,1.9230769230769231
@@ -3853,3 +3853,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Guernsey,United Kingdom,2020-07-15 04:34:39,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom",0.0,0.0
 ,,,"Korea, North",2020-07-15 04:34:39,40.3399,127.5101,0,0,0,0,"Korea, North",0.0,0.0
 ,,Unknown,Ukraine,2020-07-15 04:34:39,,,0,0,0,0,"Unknown, Ukraine",0.0,0.0
+,,,Nauru,2020-07-15 04:34:39,-0.5228,166.9315,0,0,0,0,Nauru,0.0,0.0
+,,Niue,New Zealand,2020-07-15 04:34:39,-19.0544,-169.8672,0,0,0,0,"Niue, New Zealand",0.0,0.0
+,,,Tuvalu,2020-07-15 04:34:39,-7.1095,177.6493,0,0,0,0,Tuvalu,0.0,0.0
+,,Pitcairn Islands,United Kingdom,2020-07-15 04:34:39,-24.3768,-128.3242,0,0,0,0,"Pitcairn Islands, United Kingdom",0.0,0.0
