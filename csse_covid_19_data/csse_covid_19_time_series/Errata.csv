@@ -66625,3 +66625,1467 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/10/2022,0,4,Correct United Kingdom confirmed data
 09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/11/2022,0,4,Correct United Kingdom confirmed data
 09/14/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/12/2022,0,4,Correct United Kingdom confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,08/31/2022,9931,9331,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/01/2022,9931,9343,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/02/2022,9931,9352,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/03/2022,9931,9357,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/04/2022,9931,9357,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/05/2022,9931,9364,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/06/2022,9931,9366,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/07/2022,9931,9366,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/08/2022,9931,9372,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/09/2022,9931,9374,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/10/2022,9931,9377,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/11/2022,9931,9377,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/12/2022,9931,9384,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/13/2022,9931,9385,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/14/2022,9931,9388,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/15/2022,9931,9388,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/16/2022,9931,9390,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/17/2022,9931,9394,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/18/2022,9931,9395,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/19/2022,9931,9395,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,Niger,09/20/2022,9931,9395,Correct Niger confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/14/2022,-1,4,Correct United Kingdom confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/15/2022,-1,4,Correct United Kingdom confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/16/2022,-1,4,Correct United Kingdom confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/17/2022,-1,4,Correct United Kingdom confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/18/2022,-1,4,Correct United Kingdom confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/19/2022,-1,4,Correct United Kingdom confirmed data
+09/21/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/20/2022,-1,4,Correct United Kingdom confirmed data
+09/21/2022,time_series_covid19_deaths_global.csv,United Kingdom,09/13/2022,-1,0,Correct United Kingdom deaths data
+09/21/2022,time_series_covid19_deaths_global.csv,United Kingdom,09/14/2022,-1,0,Correct United Kingdom deaths data
+09/21/2022,time_series_covid19_deaths_global.csv,United Kingdom,09/15/2022,-1,0,Correct United Kingdom deaths data
+09/21/2022,time_series_covid19_deaths_global.csv,United Kingdom,09/16/2022,-1,0,Correct United Kingdom deaths data
+09/21/2022,time_series_covid19_deaths_global.csv,United Kingdom,09/17/2022,-1,0,Correct United Kingdom deaths data
+09/21/2022,time_series_covid19_deaths_global.csv,United Kingdom,09/18/2022,-1,0,Correct United Kingdom deaths data
+09/21/2022,time_series_covid19_deaths_global.csv,United Kingdom,09/19/2022,-1,0,Correct United Kingdom deaths data
+09/21/2022,time_series_covid19_deaths_global.csv,United Kingdom,09/20/2022,-1,0,Correct United Kingdom deaths data
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/16/2022,0,6382,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/17/2022,0,6382,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/18/2022,0,6382,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/19/2022,0,6382,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/20/2022,0,6382,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/21/2022,0,6382,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/22/2022,0,6382,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/23/2022,0,6349,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/24/2022,0,6349,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/25/2022,0,6349,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/26/2022,0,6349,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/27/2022,0,6349,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/28/2022,0,6349,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/29/2022,0,6349,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/30/2022,0,6357,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",03/31/2022,0,6357,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/01/2022,0,6357,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/02/2022,0,6357,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/03/2022,0,6357,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/04/2022,0,6357,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/05/2022,0,6357,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/06/2022,0,6319,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/07/2022,0,6319,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/08/2022,0,6319,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/09/2022,0,6319,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/10/2022,0,6319,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/11/2022,0,6319,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/12/2022,0,6319,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/13/2022,0,6378,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/14/2022,0,6378,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/15/2022,0,6378,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/16/2022,0,6378,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/17/2022,0,6378,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/18/2022,0,6378,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/19/2022,0,6378,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/20/2022,0,6381,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/21/2022,0,6381,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/22/2022,0,6381,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/23/2022,0,6381,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/24/2022,0,6381,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/25/2022,0,6381,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/26/2022,0,6381,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/27/2022,0,6388,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/28/2022,0,6388,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/29/2022,0,6388,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",04/30/2022,0,6388,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/01/2022,0,6388,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/02/2022,0,6388,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/03/2022,0,6388,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/04/2022,0,6385,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/05/2022,0,6385,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/06/2022,0,6385,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/07/2022,0,6385,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/08/2022,0,6385,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/09/2022,0,6385,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/10/2022,0,6385,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/11/2022,0,6466,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/12/2022,0,6466,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/13/2022,0,6466,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/14/2022,0,6466,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/15/2022,0,6466,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/16/2022,0,6466,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/17/2022,0,6466,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/18/2022,0,6502,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/19/2022,0,6502,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/20/2022,0,6502,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/21/2022,0,6502,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/22/2022,0,6502,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/23/2022,0,6502,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/24/2022,0,6502,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/25/2022,0,6572,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/26/2022,0,6572,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/27/2022,0,6572,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/28/2022,0,6572,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/29/2022,0,6572,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/30/2022,0,6572,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",05/31/2022,0,6572,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/01/2022,0,6629,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/02/2022,0,6629,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/03/2022,0,6629,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/04/2022,0,6629,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/05/2022,0,6629,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/06/2022,0,6629,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/07/2022,0,6629,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/08/2022,0,6728,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/09/2022,0,6728,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/10/2022,0,6728,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/11/2022,0,6728,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/12/2022,0,6728,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/13/2022,0,6728,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/14/2022,0,6728,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/15/2022,0,6875,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/16/2022,0,6875,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/17/2022,0,6875,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/18/2022,0,6875,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/19/2022,0,6875,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/20/2022,0,6875,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/21/2022,0,6875,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/22/2022,0,7026,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/23/2022,0,7026,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/24/2022,0,7026,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/25/2022,0,7026,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/26/2022,0,7026,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/27/2022,0,7026,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/28/2022,0,7026,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/29/2022,0,7139,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",06/30/2022,0,7139,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/01/2022,0,7139,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/02/2022,0,7139,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/03/2022,0,7139,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/04/2022,0,7139,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/05/2022,0,7139,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/06/2022,0,7195,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/07/2022,0,7195,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/08/2022,0,7195,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/09/2022,0,7195,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/10/2022,0,7195,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/11/2022,0,7195,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/12/2022,0,7195,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/13/2022,0,7267,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/14/2022,0,7267,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/15/2022,0,7267,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/16/2022,0,7267,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/17/2022,0,7267,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/18/2022,0,7267,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/19/2022,0,7267,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/20/2022,0,7374,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/21/2022,0,7374,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/22/2022,0,7374,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/23/2022,0,7374,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/24/2022,0,7374,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/25/2022,0,7374,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/26/2022,0,7374,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/27/2022,0,7459,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/28/2022,0,7459,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/29/2022,0,7459,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/30/2022,0,7459,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",07/31/2022,0,7459,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/01/2022,0,7459,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/02/2022,0,7459,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/03/2022,0,7419,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/04/2022,0,7419,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/05/2022,0,7419,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/06/2022,0,7419,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/07/2022,0,7419,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/08/2022,0,7419,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/09/2022,0,7419,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/10/2022,0,7425,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/11/2022,0,7425,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/12/2022,0,7425,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/13/2022,0,7425,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/14/2022,0,7425,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/15/2022,0,7425,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/16/2022,0,7425,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/17/2022,0,7489,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/18/2022,0,7489,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/19/2022,0,7489,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/20/2022,0,7489,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/21/2022,0,7489,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/22/2022,0,7489,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/23/2022,0,7489,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/24/2022,0,7490,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/25/2022,0,7490,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/26/2022,0,7490,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/27/2022,0,7490,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/28/2022,0,7490,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/29/2022,0,7490,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/30/2022,0,7490,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",08/31/2022,0,7876,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/01/2022,0,7876,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/02/2022,0,7876,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/03/2022,0,7876,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/04/2022,0,7876,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/05/2022,0,7876,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/06/2022,0,7876,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/07/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/08/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/09/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/10/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/11/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/12/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/13/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/14/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/15/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/16/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/17/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/18/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Nevada, US",09/19/2022,0,7908,"Correct Unassigned, Nevada, US confirmed data"
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/16/2022,79781254,79787636,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/17/2022,79833268,79839650,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/18/2022,79864966,79871348,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/19/2022,79876050,79882432,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/20/2022,79887701,79894083,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/21/2022,79929174,79935556,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/22/2022,79950372,79956754,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/23/2022,79990331,79996680,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/24/2022,80032416,80038765,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/25/2022,80076856,80083205,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/26/2022,80086531,80092880,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/27/2022,80098551,80104900,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/28/2022,80136258,80142607,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/29/2022,80159492,80165841,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/30/2022,80197609,80203966,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,03/31/2022,80242099,80248456,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/01/2022,80273269,80279626,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/02/2022,80285288,80291645,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/03/2022,80290276,80296633,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/04/2022,80328398,80334755,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/05/2022,80353365,80359722,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/06/2022,80393324,80399643,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/07/2022,80443000,80449319,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/08/2022,80516198,80522517,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/09/2022,80529246,80535565,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/10/2022,80539060,80545379,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/11/2022,80577184,80583503,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/12/2022,80612398,80618717,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/13/2022,80668405,80674783,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/14/2022,80716267,80722645,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/15/2022,80740158,80746536,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/16/2022,80763253,80769631,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/17/2022,80771171,80777549,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/18/2022,80830741,80837119,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/19/2022,80869228,80875606,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/20/2022,80937027,80943408,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/21/2022,80997491,81003872,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/22/2022,81086343,81092724,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/23/2022,81106612,81112993,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/24/2022,81120580,81126961,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/25/2022,81188854,81195235,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/26/2022,81234000,81240381,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/27/2022,81323808,81330196,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/28/2022,81400922,81407310,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/29/2022,81462195,81468583,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,04/30/2022,81486833,81493221,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/01/2022,81504180,81510568,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/02/2022,81598078,81604466,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/03/2022,81647994,81654382,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/04/2022,81760337,81766722,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/05/2022,81848658,81855043,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/06/2022,81977759,81984144,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/07/2022,82006433,82012818,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/08/2022,82013025,82019410,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/09/2022,82142232,82148617,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/10/2022,82212948,82219333,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/11/2022,82373895,82380361,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/12/2022,82479358,82485824,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/13/2022,82566677,82573143,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/14/2022,82584786,82591252,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/15/2022,82617899,82624365,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/16/2022,82794848,82801314,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/17/2022,82880309,82886775,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/18/2022,83084151,83090653,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/19/2022,83219605,83226107,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/20/2022,83368475,83374977,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/21/2022,83396561,83403063,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/22/2022,83409918,83416420,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/23/2022,83558954,83565456,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/24/2022,83642800,83649302,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/25/2022,83853468,83860040,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/26/2022,83988765,83995337,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/27/2022,84096867,84103439,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/28/2022,84111047,84117619,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/29/2022,84118100,84124672,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/30/2022,84180543,84187115,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,05/31/2022,84347852,84354424,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/01/2022,84576729,84583358,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/02/2022,84698834,84705463,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/03/2022,84855923,84862552,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/04/2022,84883943,84890572,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/05/2022,84900203,84906832,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/06/2022,85059912,85066541,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/07/2022,85146760,85153389,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/08/2022,85345548,85352276,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/09/2022,85477153,85483881,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/10/2022,85583487,85590215,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/11/2022,85618705,85625433,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/12/2022,85636449,85643177,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/13/2022,85788178,85794906,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/14/2022,85878332,85885060,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/15/2022,86063316,86070191,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/16/2022,86193003,86199878,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/17/2022,86332045,86338920,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/18/2022,86349699,86356574,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/19/2022,86367730,86374605,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/20/2022,86463737,86470612,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/21/2022,86575057,86581932,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/22/2022,86760520,86767546,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/23/2022,86898857,86905883,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/24/2022,87016334,87023360,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/25/2022,87057186,87064212,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/26/2022,87079427,87086453,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/27/2022,87239615,87246641,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/28/2022,87337445,87344471,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/29/2022,87527523,87534662,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,06/30/2022,87694870,87702009,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/01/2022,87852107,87859246,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/02/2022,87872368,87879507,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/03/2022,87880771,87887910,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/04/2022,87957028,87964167,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/05/2022,88098892,88106031,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/06/2022,88299503,88306698,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/07/2022,88438276,88445471,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/08/2022,88576335,88583530,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/09/2022,88605244,88612439,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/10/2022,88629727,88636922,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/11/2022,88830962,88838157,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/12/2022,88979104,88986299,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/13/2022,89183619,89190886,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/14/2022,89358664,89365931,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/15/2022,89512279,89519546,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/16/2022,89551397,89558664,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/17/2022,89580952,89588219,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/18/2022,89746142,89753409,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/19/2022,89863344,89870611,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/20/2022,90079854,90087228,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/21/2022,90255205,90262579,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/22/2022,90387148,90394522,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/23/2022,90413371,90420745,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/24/2022,90436548,90443922,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/25/2022,90626436,90633810,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/26/2022,90758564,90765938,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/27/2022,90998484,91005943,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/28/2022,91175437,91182896,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/29/2022,91335260,91342719,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/30/2022,91351207,91358666,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,07/31/2022,91364150,91371609,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/01/2022,91534233,91541692,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/02/2022,91625096,91632555,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/03/2022,91825735,91833154,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/04/2022,92012758,92020177,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/05/2022,92119278,92126697,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/06/2022,92134183,92141602,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/07/2022,92146692,92154111,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/08/2022,92302308,92309727,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/09/2022,92402037,92409456,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/10/2022,92598474,92605899,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/11/2022,92761069,92768494,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/12/2022,92858193,92865618,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/13/2022,92941826,92949251,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/14/2022,92951531,92958956,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/15/2022,93074632,93082057,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/16/2022,93166453,93173878,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/17/2022,93303343,93310832,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/18/2022,93452286,93459775,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/19/2022,93530196,93537685,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/20/2022,93541211,93548700,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/21/2022,93550968,93558457,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/22/2022,93680106,93687595,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/23/2022,93779382,93786871,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/24/2022,93931185,93938675,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/25/2022,94070673,94078163,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/26/2022,94191571,94199061,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/27/2022,94203281,94210771,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/28/2022,94211677,94219167,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/29/2022,94317842,94325332,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/30/2022,94393534,94401024,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,08/31/2022,94547551,94555427,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/01/2022,94665496,94673372,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/02/2022,94730031,94737907,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/03/2022,94741267,94749143,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/04/2022,94748530,94756406,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/05/2022,94769390,94777266,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/06/2022,94881434,94889310,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/07/2022,95004922,95012830,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/08/2022,95102910,95110818,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/09/2022,95203537,95211445,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/10/2022,95213380,95221288,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/11/2022,95222156,95230064,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/12/2022,95291149,95299057,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/13/2022,95356856,95364764,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/14/2022,95460173,95468081,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/15/2022,95589758,95597666,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/16/2022,95648776,95656684,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/17/2022,95657090,95664998,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/18/2022,95661800,95669708,Correct US confirmed data
+09/22/2022,time_series_covid19_confirmed_global.csv,US,09/19/2022,95715589,95723497,Correct US confirmed data
+09/26/2022,time_series_covid19_deaths_US.csv,"Dorchester, Maryland, US",05/11/2022,351,108,"Correct Dorchester, Maryland, US deaths data"
+09/26/2022,time_series_covid19_deaths_global.csv,US,05/11/2022,1001538,1001295,Correct US deaths data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/08/2022,7,31,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/09/2022,7,33,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/10/2022,7,92,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/11/2022,7,95,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/12/2022,7,101,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/13/2022,7,107,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/14/2022,7,111,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/15/2022,7,117,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/16/2022,7,126,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/17/2022,7,144,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/18/2022,7,164,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/19/2022,7,175,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/20/2022,7,188,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/21/2022,7,663,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/22/2022,7,672,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/23/2022,7,672,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/24/2022,7,1521,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/25/2022,7,1521,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/26/2022,7,1521,Correct United Kingdom confirmed data
+09/30/2022,time_series_covid19_confirmed_global.csv,United Kingdom,09/27/2022,7,1521,Correct United Kingdom confirmed data
+10/03/2022,time_series_covid19_confirmed_global.csv,Japan,09/28/2022,21147468,21197447,Correct Japan confirmed data
+10/03/2022,time_series_covid19_confirmed_global.csv,Japan,09/29/2022,21147468,21239620,Correct Japan confirmed data
+10/03/2022,time_series_covid19_confirmed_global.csv,Japan,09/30/2022,21147468,21276266,Correct Japan confirmed data
+10/03/2022,time_series_covid19_confirmed_global.csv,Japan,10/01/2022,21147468,21311864,Correct Japan confirmed data
+10/03/2022,time_series_covid19_confirmed_global.csv,Japan,10/02/2022,21147468,21341176,Correct Japan confirmed data
+10/03/2022,time_series_covid19_deaths_global.csv,Japan,09/28/2022,44580,44676,Correct Japan deaths data
+10/03/2022,time_series_covid19_deaths_global.csv,Japan,09/29/2022,44580,44803,Correct Japan deaths data
+10/03/2022,time_series_covid19_deaths_global.csv,Japan,09/30/2022,44580,44914,Correct Japan deaths data
+10/03/2022,time_series_covid19_deaths_global.csv,Japan,10/01/2022,44580,45019,Correct Japan deaths data
+10/03/2022,time_series_covid19_deaths_global.csv,Japan,10/02/2022,44580,45090,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/23/2021,14562,14563,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/24/2021,14604,14605,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/25/2021,14635,14636,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/26/2021,14664,14665,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/27/2021,14674,14675,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/28/2021,14712,14713,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/29/2021,14742,14743,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/30/2021,14783,14784,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/01/2021,14807,14808,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/02/2021,14832,14833,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/03/2021,14841,14842,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/04/2021,14847,14848,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/05/2021,14866,14867,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/06/2021,14888,14889,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/07/2021,14902,14903,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/08/2021,14919,14920,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/09/2021,14939,14940,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/10/2021,14950,14951,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/11/2021,14956,14957,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/12/2021,14959,14960,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/13/2021,14977,14978,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/14/2021,14997,14998,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/15/2021,15019,15020,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/16/2021,15029,15030,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/17/2021,15045,15046,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/18/2021,15049,15050,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/19/2021,15061,15062,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/20/2021,15081,15082,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/21/2021,15101,15102,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/22/2021,15107,15108,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/23/2021,15115,15116,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/24/2021,15123,15124,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/25/2021,15127,15128,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/26/2021,15139,15140,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/27/2021,15151,15152,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/28/2021,15159,15161,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/29/2021,15173,15175,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/30/2021,15182,15184,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/31/2021,15191,15193,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/01/2021,15196,15198,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/02/2021,15207,15209,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/03/2021,15217,15219,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/04/2021,15231,15233,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/05/2021,15239,15241,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/06/2021,15259,15261,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/07/2021,15273,15275,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/08/2021,15282,15284,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/09/2021,15294,15296,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/10/2021,15313,15315,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/11/2021,15333,15335,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/12/2021,15357,15359,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/13/2021,15382,15384,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/14/2021,15400,15402,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/15/2021,15410,15412,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/16/2021,15437,15439,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/17/2021,15484,15486,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/18/2021,15514,15516,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/19/2021,15542,15544,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/20/2021,15578,15580,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/21/2021,15612,15614,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/22/2021,15636,15638,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/23/2021,15668,15670,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/24/2021,15710,15712,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/25/2021,15755,15757,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/26/2021,15807,15809,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/27/2021,15864,15866,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/28/2021,15906,15908,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/29/2021,15955,15957,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/30/2021,16001,16003,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/31/2021,16065,16067,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/01/2021,16136,16138,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/02/2021,16201,16203,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/03/2021,16265,16267,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/04/2021,16325,16327,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/05/2021,16356,16358,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/06/2021,16396,16398,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/07/2021,16458,16460,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/08/2021,16547,16549,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/09/2021,16635,16637,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/10/2021,16703,16705,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/11/2021,16759,16761,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/12/2021,16800,16802,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/13/2021,16849,16851,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/14/2021,16904,16906,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/15/2021,16978,16980,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/16/2021,17041,17043,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/17/2021,17105,17107,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/18/2021,17168,17170,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/19/2021,17209,17211,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/20/2021,17232,17234,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/21/2021,17279,17281,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/22/2021,17333,17335,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/23/2021,17382,17384,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/24/2021,17427,17429,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/25/2021,17460,17462,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/26/2021,17481,17483,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/27/2021,17509,17511,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/28/2021,17559,17561,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/29/2021,17607,17609,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/30/2021,17649,17651,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/01/2021,17683,17685,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/02/2021,17715,17717,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/03/2021,17732,17734,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/04/2021,17756,17758,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/05/2021,17792,17794,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/06/2021,17818,17820,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/07/2021,17857,17859,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/08/2021,17903,17905,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/09/2021,17927,17929,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/10/2021,17937,17939,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/11/2021,17957,17959,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/12/2021,17986,17989,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/13/2021,18019,18022,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/14/2021,18052,18055,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/15/2021,18075,18078,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/16/2021,18088,18091,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/17/2021,18101,18104,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/18/2021,18118,18121,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/19/2021,18145,18148,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/20/2021,18155,18158,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/21/2021,18171,18174,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/22/2021,18183,18186,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/23/2021,18188,18191,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/24/2021,18196,18199,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/25/2021,18203,18206,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/26/2021,18218,18221,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/27/2021,18225,18228,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/28/2021,18234,18237,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/29/2021,18250,18253,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/30/2021,18257,18260,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/31/2021,18264,18267,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/01/2021,18271,18274,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/02/2021,18278,18281,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/03/2021,18286,18289,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/04/2021,18292,18295,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/05/2021,18304,18307,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/06/2021,18306,18309,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/07/2021,18306,18309,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/08/2021,18309,18312,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/09/2021,18312,18315,Correct Japan deaths data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/10/2021,1724172,1724203,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/11/2021,1724379,1724418,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/12/2021,1724573,1724619,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/13/2021,1724767,1724813,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/14/2021,1724893,1724958,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/15/2021,1724967,1725036,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/16/2021,1725111,1725187,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/17/2021,1725310,1725391,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/18/2021,1725458,1725539,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/19/2021,1725611,1725692,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/20/2021,1725715,1725796,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/21/2021,1725850,1725953,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/22/2021,1725894,1726002,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/23/2021,1726001,1726113,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/24/2021,1726074,1726190,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/25/2021,1726186,1726309,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/26/2021,1726299,1726430,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/27/2021,1726419,1726555,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/28/2021,1726479,1726627,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/29/2021,1726555,1726709,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,11/30/2021,1726636,1726798,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/01/2021,1726751,1726913,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/02/2021,1726864,1727030,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/03/2021,1727005,1727188,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/04/2021,1727125,1727308,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/05/2021,1727229,1727412,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/06/2021,1727283,1727493,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/07/2021,1727382,1727604,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/08/2021,1727504,1727739,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/09/2021,1727658,1727893,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/10/2021,1727794,1728039,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/11/2021,1727925,1728176,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/12/2021,1728023,1728311,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/13/2021,1728090,1728388,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/14/2021,1728218,1728527,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/15/2021,1728377,1728686,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/16/2021,1728540,1728861,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/17/2021,1728701,1729048,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/18/2021,1728880,1729248,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/19/2021,1729030,1729421,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/20/2021,1729139,1729555,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/21/2021,1729357,1729814,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/22/2021,1729577,1730065,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/23/2021,1729824,1730353,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/24/2021,1730084,1730699,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/25/2021,1730347,1731018,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/26/2021,1730572,1731281,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/27/2021,1730735,1731495,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/28/2021,1731048,1731808,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/29/2021,1731446,1732275,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/30/2021,1731878,1732810,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,12/31/2021,1732296,1733307,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/01/2022,1732752,1733835,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/02/2022,1733229,1734463,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/03/2022,1733901,1735244,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/04/2022,1735050,1736510,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/05/2022,1737540,1738998,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/06/2022,1741837,1743442,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/07/2022,1747907,1749686,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/08/2022,1756209,1758297,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/09/2022,1764280,1766539,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/10/2022,1770545,1772969,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/11/2022,1776780,1779343,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/12/2022,1789824,1792578,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/13/2022,1808501,1811255,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/14/2022,1830381,1833475,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/15/2022,1856002,1859208,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/16/2022,1881481,1884687,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/17/2022,1902304,1905685,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/18/2022,1934391,1938027,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/19/2022,1975761,1979505,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/20/2022,2021758,2025683,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/21/2022,2071471,2075528,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/22/2022,2125882,2129939,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/23/2022,2175719,2179922,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/24/2022,2220382,2224761,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/25/2022,2282871,2287375,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/26/2022,2354358,2358972,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/27/2022,2433094,2437984,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/28/2022,2514804,2519772,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/29/2022,2599599,2604661,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/30/2022,2677602,2682767,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,01/31/2022,2738460,2743726,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/01/2022,2820053,2825414,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/02/2022,2914824,2920300,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/03/2022,3019169,3024742,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/04/2022,3117346,3122919,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/05/2022,3219621,3225194,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/06/2022,3309439,3315180,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/07/2022,3377378,3383184,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/08/2022,3478462,3484368,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/09/2022,3576261,3582167,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/10/2022,3675865,3681890,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/11/2022,3774164,3780239,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/12/2022,3842551,3848672,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/13/2022,3919931,3926107,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/14/2022,3979984,3986217,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/15/2022,4064142,4070412,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/16/2022,4155027,4161342,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/17/2022,4250142,4256522,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/18/2022,4337780,4344220,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/19/2022,4419254,4425739,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/20/2022,4490748,4497233,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/21/2022,4542657,4549142,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/22/2022,4612104,4618759,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/23/2022,4692406,4699110,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/24/2022,4753558,4760332,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/25/2022,4819151,4825972,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/26/2022,4891242,4898120,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/27/2022,4954865,4961816,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,02/28/2022,5005881,5012908,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/01/2022,5071249,5078276,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/02/2022,5143818,5150876,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/03/2022,5214086,5221144,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/04/2022,5277655,5284831,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/05/2022,5341246,5348422,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/06/2022,5395143,5402455,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/07/2022,5432145,5439457,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/08/2022,5486083,5493395,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/09/2022,5549755,5557262,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/10/2022,5610818,5618325,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/11/2022,5666630,5674311,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/12/2022,5721856,5729537,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/13/2022,5772715,5780484,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/14/2022,5805074,5812843,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/15/2022,5855769,5863778,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/16/2022,5913591,5921690,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/17/2022,5967069,5975168,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/18/2022,6016178,6024350,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/19/2022,6060771,6068943,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/20/2022,6100331,6108503,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/21/2022,6127897,6136069,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/22/2022,6148049,6156221,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/23/2022,6188977,6197583,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/24/2022,6238527,6247334,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/25/2022,6285894,6294771,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/26/2022,6333118,6342100,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/27/2022,6376338,6385448,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/28/2022,6406058,6415168,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/29/2022,6450423,6459761,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/30/2022,6504032,6513370,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,03/31/2022,6555585,6565019,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/01/2022,6604726,6614278,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/02/2022,6653421,6663087,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/03/2022,6700637,6710303,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/04/2022,6730654,6740558,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/05/2022,6776236,6786356,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/06/2022,6830997,6841117,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/07/2022,6885876,6895996,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/08/2022,6937720,6948130,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/09/2022,6990349,7000759,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/10/2022,7039397,7049807,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/11/2022,7072493,7082903,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/12/2022,7122173,7132975,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/13/2022,7179839,7190641,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/14/2022,7235040,7245842,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/15/2022,7284737,7295539,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/16/2022,7332261,7343063,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/17/2022,7371466,7382268,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/18/2022,7395608,7406848,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/19/2022,7436434,7447674,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/20/2022,7484263,7495555,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/21/2022,7531317,7542666,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/22/2022,7574215,7585564,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/23/2022,7618107,7629456,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/24/2022,7656600,7668131,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/25/2022,7681363,7692973,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/26/2022,7721795,7733523,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/27/2022,7767997,7779777,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/28/2022,7809668,7821448,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/29/2022,7846274,7858117,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,04/30/2022,7871253,7883149,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/01/2022,7898133,7910179,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/02/2022,7917391,7929437,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/03/2022,7947818,7959950,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/04/2022,7974232,7986412,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/05/2022,7994944,8007124,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/06/2022,8016485,8028779,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/07/2022,8055713,8068007,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/08/2022,8098119,8110413,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/09/2022,8126472,8138766,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/10/2022,8168462,8180756,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/11/2022,8214311,8227154,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/12/2022,8255959,8268802,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/13/2022,8295529,8308372,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/14/2022,8334859,8347702,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/15/2022,8369751,8382913,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/16/2022,8391424,8404699,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/17/2022,8428219,8441494,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/18/2022,8470287,8483562,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/19/2022,8509857,8523132,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/20/2022,8547200,8560475,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/21/2022,8583048,8596323,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/22/2022,8614387,8628164,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/23/2022,8632778,8646671,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/24/2022,8665068,8679163,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/25/2022,8700168,8714263,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/26/2022,8731080,8745175,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/27/2022,8758532,8772867,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/28/2022,8784188,8798523,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/29/2022,8804886,8819323,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/30/2022,8816943,8831651,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,05/31/2022,8838747,8853455,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/01/2022,8861405,8876113,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/02/2022,8881491,8896430,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/03/2022,8900748,8915687,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/04/2022,8918984,8933945,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/05/2022,8934078,8949039,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/06/2022,8943156,8958140,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/07/2022,8960177,8975161,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/08/2022,8978571,8993568,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/09/2022,8995359,9010356,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/10/2022,9010943,9025940,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/11/2022,9026281,9041278,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/12/2022,9039662,9054719,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/13/2022,9047604,9062661,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/14/2022,9062918,9077975,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/15/2022,9079462,9094519,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/16/2022,9094948,9110063,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/17/2022,9109632,9124760,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/18/2022,9124454,9139597,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/19/2022,9137595,9152738,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/20/2022,9145373,9160533,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/21/2022,9160740,9175927,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/22/2022,9178003,9193205,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/23/2022,9194660,9209862,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/24/2022,9210607,9225840,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/25/2022,9227180,9242413,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/26/2022,9241386,9256660,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/27/2022,9250940,9266214,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/28/2022,9270305,9285592,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/29/2022,9293629,9308916,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,06/30/2022,9316954,9332302,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/01/2022,9340079,9355427,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/02/2022,9364954,9380327,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/03/2022,9388222,9403613,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/04/2022,9405007,9420398,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/05/2022,9441171,9456631,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/06/2022,9486965,9502425,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/07/2022,9534908,9550392,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/08/2022,9584835,9600360,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/09/2022,9639819,9655344,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/10/2022,9693879,9709429,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/11/2022,9730993,9746584,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/12/2022,9806971,9822578,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/13/2022,9901424,9917058,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/14/2022,9999181,10014835,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/15/2022,10102454,10118147,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/16/2022,10213101,10228794,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/17/2022,10318639,10334366,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/18/2022,10394789,10410516,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/19/2022,10461481,10477208,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/20/2022,10613947,10629729,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/21/2022,10800103,10815963,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/22/2022,10995193,11011053,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/23/2022,11196063,11211985,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/24/2022,11372555,11388477,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/25/2022,11499018,11514977,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/26/2022,11695380,11711379,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/27/2022,11904980,11920979,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/28/2022,12137977,12154082,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/29/2022,12359275,12375380,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/30/2022,12581505,12597610,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,07/31/2022,12779171,12795382,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/01/2022,12918780,12935010,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/02/2022,13129678,13145926,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/03/2022,13379386,13395634,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/04/2022,13618037,13634335,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/05/2022,13851692,13868027,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/06/2022,14079172,14095507,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/07/2022,14285593,14301928,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/08/2022,14423315,14439709,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/09/2022,14635748,14652175,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/10/2022,14886036,14902463,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/11/2022,15126145,15142572,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/12/2022,15294863,15311290,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/13/2022,15478389,15494932,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/14/2022,15656681,15673273,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/15/2022,15795156,15811748,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/16/2022,15961249,15977877,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/17/2022,16192610,16209238,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/18/2022,16448037,16464723,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/19/2022,16708985,16725722,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/20/2022,16962177,16978914,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/21/2022,17188265,17205062,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/22/2022,17329185,17345982,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/23/2022,17537636,17554433,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/24/2022,17781018,17797923,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/25/2022,18001865,18018770,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/26/2022,18194170,18211113,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/27/2022,18374230,18391173,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/28/2022,18531986,18548929,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/29/2022,18627815,18644758,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/30/2022,18780302,18797340,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,08/31/2022,18949793,18966848,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/01/2022,19099600,19116684,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/02/2022,19229782,19246866,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/03/2022,19352819,19369978,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/04/2022,19460588,19477797,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/05/2022,19528550,19545759,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/06/2022,19640667,19657900,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/07/2022,19770404,19787682,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/08/2022,19882749,19900027,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/09/2022,19982158,19999466,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/10/2022,20074857,20092165,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/11/2022,20156327,20173655,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/12/2022,20209163,20226491,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/13/2022,20296689,20314059,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/14/2022,20396918,20414288,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/15/2022,20482750,20500172,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/16/2022,20558655,20576128,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/17/2022,20629606,20647079,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/18/2022,20693615,20711125,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/19/2022,20731652,20749162,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/20/2022,20763364,20780883,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/21/2022,20833168,20850696,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/22/2022,20910518,20928069,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/23/2022,20974356,20991907,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/24/2022,21013547,21031120,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/25/2022,21060267,21077882,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/26/2022,21103798,21121413,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/27/2022,21147468,21165123,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/28/2022,21197447,21215102,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/29/2022,21239620,21257275,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,09/30/2022,21276266,21293921,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,10/01/2022,21311864,21329519,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,10/02/2022,21341176,21358831,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,10/03/2022,21356343,21373998,Correct Japan confirmed data
+10/05/2022,time_series_covid19_confirmed_global.csv,Japan,10/04/2022,21396066,21413721,Correct Japan confirmed data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/23/2021,14562,14563,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/24/2021,14604,14605,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/25/2021,14635,14636,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/26/2021,14664,14665,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/27/2021,14674,14675,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/28/2021,14712,14713,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/29/2021,14742,14743,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/30/2021,14783,14784,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/01/2021,14807,14808,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/02/2021,14832,14833,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/03/2021,14841,14842,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/04/2021,14847,14848,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/05/2021,14866,14867,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/06/2021,14888,14889,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/07/2021,14902,14903,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/08/2021,14919,14920,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/09/2021,14939,14940,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/10/2021,14950,14951,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/11/2021,14956,14957,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/12/2021,14959,14960,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/13/2021,14977,14978,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/14/2021,14997,14998,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/15/2021,15019,15020,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/16/2021,15029,15030,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/17/2021,15045,15046,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/18/2021,15049,15050,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/19/2021,15061,15062,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/20/2021,15081,15082,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/21/2021,15101,15102,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/22/2021,15107,15108,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/23/2021,15115,15116,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/24/2021,15123,15124,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/25/2021,15127,15128,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/26/2021,15139,15140,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/27/2021,15151,15152,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/28/2021,15159,15161,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/29/2021,15173,15175,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/30/2021,15182,15184,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/31/2021,15191,15193,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/01/2021,15196,15198,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/02/2021,15207,15209,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/03/2021,15217,15219,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/04/2021,15231,15233,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/05/2021,15239,15241,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/06/2021,15259,15261,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/07/2021,15273,15275,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/08/2021,15282,15284,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/09/2021,15294,15296,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/10/2021,15313,15315,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/11/2021,15333,15335,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/12/2021,15357,15359,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/13/2021,15382,15384,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/14/2021,15400,15402,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/15/2021,15410,15412,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/16/2021,15437,15439,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/17/2021,15484,15486,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/18/2021,15514,15516,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/19/2021,15542,15544,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/20/2021,15578,15580,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/21/2021,15612,15614,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/22/2021,15636,15638,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/23/2021,15668,15670,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/24/2021,15710,15712,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/25/2021,15755,15757,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/26/2021,15807,15809,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/27/2021,15864,15866,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/28/2021,15906,15908,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/29/2021,15955,15957,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/30/2021,16001,16003,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/31/2021,16065,16067,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/01/2021,16136,16138,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/02/2021,16201,16203,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/03/2021,16265,16267,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/04/2021,16325,16327,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/05/2021,16356,16358,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/06/2021,16396,16398,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/07/2021,16458,16460,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/08/2021,16547,16549,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/09/2021,16635,16637,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/10/2021,16703,16705,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/11/2021,16759,16761,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/12/2021,16800,16802,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/13/2021,16849,16851,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/14/2021,16904,16906,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/15/2021,16978,16980,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/16/2021,17041,17043,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/17/2021,17105,17107,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/18/2021,17168,17170,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/19/2021,17209,17211,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/20/2021,17232,17234,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/21/2021,17279,17281,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/22/2021,17333,17335,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/23/2021,17382,17384,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/24/2021,17427,17429,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/25/2021,17460,17462,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/26/2021,17481,17483,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/27/2021,17509,17511,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/28/2021,17559,17561,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/29/2021,17607,17609,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/30/2021,17649,17651,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/01/2021,17683,17685,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/02/2021,17715,17717,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/03/2021,17732,17734,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/04/2021,17756,17758,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/05/2021,17792,17794,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/06/2021,17818,17820,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/07/2021,17857,17859,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/08/2021,17903,17905,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/09/2021,17927,17929,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/10/2021,17937,17939,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/11/2021,17957,17959,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/12/2021,17986,17989,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/13/2021,18019,18022,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/14/2021,18052,18055,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/15/2021,18075,18078,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/16/2021,18088,18091,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/17/2021,18101,18104,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/18/2021,18118,18121,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/19/2021,18145,18148,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/20/2021,18155,18158,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/21/2021,18171,18174,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/22/2021,18183,18186,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/23/2021,18188,18191,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/24/2021,18196,18199,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/25/2021,18203,18206,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/26/2021,18218,18221,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/27/2021,18225,18228,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/28/2021,18234,18237,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/29/2021,18250,18253,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/30/2021,18257,18260,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/31/2021,18264,18267,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/01/2021,18271,18274,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/02/2021,18278,18281,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/03/2021,18286,18289,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/04/2021,18292,18295,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/05/2021,18304,18307,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/06/2021,18306,18309,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/07/2021,18306,18309,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/08/2021,18309,18312,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/09/2021,18312,18315,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/10/2021,18315,18318,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/11/2021,18319,18322,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/12/2021,18320,18323,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/13/2021,18321,18324,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/14/2021,18323,18326,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/15/2021,18324,18327,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/16/2021,18328,18331,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/17/2021,18333,18336,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/18/2021,18338,18341,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/19/2021,18338,18341,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/20/2021,18343,18346,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/21/2021,18343,18346,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/22/2021,18345,18348,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/23/2021,18347,18350,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/24/2021,18349,18352,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/25/2021,18351,18354,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/26/2021,18353,18356,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/27/2021,18354,18357,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/28/2021,18354,18357,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/29/2021,18355,18358,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,11/30/2021,18357,18360,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/01/2021,18358,18361,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/02/2021,18359,18362,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/03/2021,18360,18363,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/04/2021,18360,18363,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/05/2021,18360,18363,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/06/2021,18361,18364,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/07/2021,18363,18366,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/08/2021,18366,18369,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/09/2021,18367,18370,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/10/2021,18368,18371,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/11/2021,18369,18372,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/12/2021,18369,18372,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/13/2021,18370,18373,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/14/2021,18371,18374,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/15/2021,18372,18375,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/16/2021,18375,18378,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/17/2021,18375,18378,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/18/2021,18375,18378,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/19/2021,18375,18378,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/20/2021,18376,18379,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/21/2021,18378,18381,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/22/2021,18380,18383,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/23/2021,18382,18385,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/24/2021,18382,18385,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/25/2021,18383,18386,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/26/2021,18383,18386,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/27/2021,18383,18386,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/28/2021,18385,18388,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/29/2021,18389,18392,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/30/2021,18389,18392,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,12/31/2021,18389,18392,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/01/2022,18389,18392,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/02/2022,18391,18394,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/03/2022,18392,18395,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/04/2022,18393,18396,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/05/2022,18394,18397,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/06/2022,18395,18398,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/07/2022,18396,18399,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/08/2022,18398,18401,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/09/2022,18399,18402,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/10/2022,18401,18404,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/11/2022,18403,18406,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/12/2022,18408,18411,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/13/2022,18412,18415,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/14/2022,18423,18426,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/15/2022,18429,18432,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/16/2022,18429,18432,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/17/2022,18433,18436,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/18/2022,18443,18446,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/19/2022,18458,18461,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/20/2022,18467,18470,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/21/2022,18476,18479,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/22/2022,18493,18496,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/23/2022,18507,18510,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/24/2022,18524,18527,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/25/2022,18567,18570,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/26/2022,18601,18604,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/27/2022,18648,18651,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/28/2022,18692,18695,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/29/2022,18734,18737,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/30/2022,18764,18767,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,01/31/2022,18812,18815,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/01/2022,18882,18885,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/02/2022,18964,18967,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/03/2022,19054,19057,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/04/2022,19157,19160,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/05/2022,19273,19276,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/06/2022,19341,19344,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/07/2022,19454,19457,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/08/2022,19613,19616,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/09/2022,19775,19778,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/10/2022,19939,19942,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/11/2022,20089,20092,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/12/2022,20234,20237,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/13/2022,20371,20374,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/14/2022,20520,20523,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/15/2022,20756,20759,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/16/2022,20986,20989,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/17/2022,21257,21260,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/18/2022,21467,21470,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/19/2022,21685,21688,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/20/2022,21844,21847,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/21/2022,22017,22020,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/22/2022,22339,22342,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/23/2022,22585,22588,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/24/2022,22791,22794,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/25/2022,23069,23072,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/26/2022,23325,23328,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/27/2022,23469,23472,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,02/28/2022,23667,23670,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/01/2022,23905,23908,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/02/2022,24140,24143,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/03/2022,24398,24401,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/04/2022,24632,24635,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/05/2022,24816,24819,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/06/2022,24948,24951,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/07/2022,25068,25071,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/08/2022,25317,25320,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/09/2022,25530,25533,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/10/2022,25718,25721,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/11/2022,25927,25930,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/12/2022,26068,26071,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/13/2022,26158,26161,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/14/2022,26274,26277,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/15/2022,26462,26465,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/16/2022,26625,26628,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/17/2022,26796,26799,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/18/2022,26952,26955,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/19/2022,27056,27059,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/20/2022,27122,27125,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/21/2022,27180,27183,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/22/2022,27251,27254,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/23/2022,27373,27376,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/24/2022,27499,27502,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/25/2022,27614,27617,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/26/2022,27715,27718,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/27/2022,27776,27779,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/28/2022,27841,27844,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/29/2022,27922,27926,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/30/2022,28018,28022,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,03/31/2022,28120,28124,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/01/2022,28198,28202,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/02/2022,28253,28257,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/03/2022,28287,28291,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/04/2022,28332,28336,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/05/2022,28396,28400,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/06/2022,28462,28466,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/07/2022,28531,28535,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/08/2022,28600,28604,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/09/2022,28649,28653,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/10/2022,28688,28692,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/11/2022,28722,28726,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/12/2022,28769,28773,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/13/2022,28836,28840,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/14/2022,28888,28892,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/15/2022,28950,28954,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/16/2022,28998,29002,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/17/2022,29025,29029,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/18/2022,29052,29056,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/19/2022,29104,29108,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/20/2022,29153,29157,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/21/2022,29205,29209,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/22/2022,29256,29260,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/23/2022,29290,29294,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/24/2022,29305,29309,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/25/2022,29344,29348,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/26/2022,29409,29413,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/27/2022,29469,29473,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/28/2022,29508,29512,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/29/2022,29553,29557,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,04/30/2022,29567,29571,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/01/2022,29601,29605,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/02/2022,29631,29635,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/03/2022,29686,29690,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/04/2022,29706,29710,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/05/2022,29724,29728,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/06/2022,29761,29765,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/07/2022,29788,29792,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/08/2022,29814,29818,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/09/2022,29847,29851,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/10/2022,29898,29902,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/11/2022,29939,29943,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/12/2022,29971,29975,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/13/2022,30006,30010,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/14/2022,30036,30040,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/15/2022,30061,30065,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/16/2022,30087,30091,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/17/2022,30126,30130,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/18/2022,30176,30180,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/19/2022,30212,30216,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/20/2022,30256,30260,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/21/2022,30287,30291,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/22/2022,30305,30309,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/23/2022,30336,30340,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/24/2022,30378,30382,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/25/2022,30421,30425,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/26/2022,30463,30467,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/27/2022,30501,30505,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/28/2022,30537,30541,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/29/2022,30556,30560,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/30/2022,30580,30584,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,05/31/2022,30619,30623,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/01/2022,30655,30659,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/02/2022,30678,30682,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/03/2022,30710,30714,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/04/2022,30733,30737,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/05/2022,30749,30753,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/06/2022,30773,30777,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/07/2022,30799,30803,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/08/2022,30820,30824,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/09/2022,30843,30847,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/10/2022,30864,30868,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/11/2022,30879,30883,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/12/2022,30888,30892,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/13/2022,30909,30913,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/14/2022,30938,30942,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/15/2022,30961,30965,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/16/2022,30981,30985,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/17/2022,30999,31003,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/18/2022,31019,31023,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/19/2022,31029,31033,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/20/2022,31042,31046,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/21/2022,31059,31063,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/22/2022,31074,31078,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/23/2022,31089,31093,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/24/2022,31104,31108,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/25/2022,31113,31117,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/26/2022,31125,31129,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/27/2022,31138,31142,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/28/2022,31246,31250,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/29/2022,31263,31267,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,06/30/2022,31277,31281,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/01/2022,31298,31302,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/02/2022,31309,31313,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/03/2022,31314,31318,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/04/2022,31328,31332,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/05/2022,31348,31352,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/06/2022,31360,31364,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/07/2022,31375,31379,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/08/2022,31404,31408,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/09/2022,31416,31420,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/10/2022,31428,31432,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/11/2022,31443,31447,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/12/2022,31466,31470,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/13/2022,31497,31501,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/14/2022,31530,31534,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/15/2022,31561,31565,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/16/2022,31581,31585,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/17/2022,31598,31602,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/18/2022,31617,31621,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/19/2022,31645,31649,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/20/2022,31698,31702,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/21/2022,31746,31750,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/22/2022,31798,31802,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/23/2022,31873,31877,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/24/2022,31898,31902,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/25/2022,31946,31950,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/26/2022,32061,32065,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/27/2022,32190,32194,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/28/2022,32304,32308,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/29/2022,32426,32430,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/30/2022,32527,32531,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,07/31/2022,32609,32613,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/01/2022,32703,32707,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/02/2022,32846,32850,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/03/2022,33015,33019,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/04/2022,33176,33180,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/05/2022,33390,33394,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/06/2022,33542,33546,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/07/2022,33694,33698,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/08/2022,33844,33848,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/09/2022,34122,34126,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/10/2022,34373,34377,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/11/2022,34579,34583,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/12/2022,34789,34793,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/13/2022,35045,35049,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/14/2022,35198,35202,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/15/2022,35402,35406,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/16/2022,35708,35712,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/17/2022,35998,36002,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/18/2022,36285,36289,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/19/2022,36579,36583,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/20/2022,36833,36837,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/21/2022,37059,37063,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/22/2022,37304,37308,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/23/2022,37647,37651,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/24/2022,37948,37952,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/25/2022,38244,38248,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/26/2022,38565,38569,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/27/2022,38826,38830,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/28/2022,39047,39051,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/29/2022,39281,39285,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/30/2022,39600,39604,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,08/31/2022,39938,39942,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/01/2022,40241,40245,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/02/2022,40591,40595,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/03/2022,40879,40883,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/04/2022,41095,41099,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/05/2022,41316,41320,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/06/2022,41636,41640,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/07/2022,41883,41887,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/08/2022,42110,42114,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/09/2022,42346,42350,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/10/2022,42554,42558,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/11/2022,42658,42662,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/12/2022,42803,42807,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/13/2022,43023,43027,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/14/2022,43207,43211,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/15/2022,43378,43382,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/16/2022,43555,43559,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/17/2022,43693,43697,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/18/2022,43765,43769,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/19/2022,43842,43846,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/20/2022,43969,43973,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/21/2022,44095,44099,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/22/2022,44197,44201,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/23/2022,44284,44288,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/24/2022,44352,44356,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/25/2022,44401,44405,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/26/2022,44475,44479,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/27/2022,44580,44584,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/28/2022,44676,44680,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/29/2022,44803,44807,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,09/30/2022,44914,44918,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/01/2022,45019,45023,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/02/2022,45090,45094,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/03/2022,45143,45147,Correct Japan deaths data
+10/05/2022,time_series_covid19_deaths_global.csv,Japan,10/04/2022,45208,45212,Correct Japan deaths data
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",08/26/2022,731,738,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",08/27/2022,731,738,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",08/28/2022,731,738,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",08/29/2022,731,738,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",08/30/2022,731,738,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",08/31/2022,731,738,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/01/2022,731,738,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/02/2022,731,745,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/03/2022,731,745,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/04/2022,731,745,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/05/2022,731,745,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/06/2022,731,745,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/07/2022,731,745,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/08/2022,731,745,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/09/2022,731,748,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/10/2022,731,748,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/11/2022,731,748,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/12/2022,731,748,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/13/2022,731,748,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/14/2022,731,748,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/15/2022,731,748,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/16/2022,731,754,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/17/2022,731,754,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/18/2022,731,754,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/19/2022,731,754,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/20/2022,731,754,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/21/2022,731,754,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/22/2022,731,754,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/23/2022,731,758,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/24/2022,731,758,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/25/2022,731,758,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/26/2022,731,758,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/27/2022,731,758,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/28/2022,731,758,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/29/2022,731,758,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",09/30/2022,731,764,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",10/01/2022,731,764,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",10/02/2022,731,764,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",10/03/2022,731,764,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",10/04/2022,731,764,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_US.csv,"Scotland, Missouri, US",10/05/2022,731,764,"Correct Scotland, Missouri, US confirmed data"
+10/07/2022,time_series_covid19_confirmed_global.csv,US,08/26/2022,94199665,94199672,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,08/27/2022,94211376,94211383,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,08/28/2022,94219782,94219789,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,08/29/2022,94325961,94325968,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,08/30/2022,94401689,94401696,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,08/31/2022,94556139,94556146,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/01/2022,94686698,94686705,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/02/2022,94751323,94751337,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/03/2022,94762672,94762686,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/04/2022,94770080,94770094,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/05/2022,94803659,94803673,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/06/2022,94916332,94916346,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/07/2022,95040324,95040338,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/08/2022,95147782,95147796,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/09/2022,95248805,95248822,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/10/2022,95258872,95258889,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/11/2022,95267836,95267853,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/12/2022,95337343,95337360,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/13/2022,95417031,95417048,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/14/2022,95520634,95520651,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/15/2022,95603920,95603937,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/16/2022,95660342,95660365,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/17/2022,95668810,95668833,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/18/2022,95674187,95674210,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/19/2022,95729790,95729813,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/20/2022,95798807,95798830,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/21/2022,95896992,95897015,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/22/2022,95977748,95977771,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/23/2022,96060994,96061021,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/24/2022,96070533,96070560,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/25/2022,96077072,96077099,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/26/2022,96122301,96122328,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/27/2022,96183027,96183054,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/28/2022,96269621,96269648,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/29/2022,96353805,96353832,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,09/30/2022,96387142,96387175,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,10/01/2022,96394958,96394991,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,10/02/2022,96400300,96400333,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,10/03/2022,96440149,96440182,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,10/04/2022,96494285,96494318,Correct US confirmed data
+10/07/2022,time_series_covid19_confirmed_global.csv,US,10/05/2022,96565276,96565309,Correct US confirmed data
