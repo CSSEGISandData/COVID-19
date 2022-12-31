@@ -14,6 +14,8 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 <b>Please cite our Lancet Article for any use of this data in a publication:</b>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
 
+[The Johns Hopkins University Center for Systems Science and Engineering COVID-19 Dashboard: data collection process, challenges faced, and lessons learned](https://www.sciencedirect.com/science/article/pii/S1473309922004340)
+
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
 https://systems.jhu.edu/
 
@@ -27,6 +29,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
   - DXY.cn. Pneumonia. 2020. https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=
+  - QQ News https://news.qq.com/zt2020/page/feiyan.htm#/
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
   - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
@@ -69,6 +72,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Ventura County](https://www.venturacountyrecovers.org/)
     - [Yolo County](https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/)
   - Colorado: [Department of Public Health and Environment](https://covid19.colorado.gov/covid-19-data)
+    - [Colorado Department of Public Health and Environment Open Data Portal](https://data-cdphe.opendata.arcgis.com/datasets/CDPHE::colorado-covid-19-positive-cases-and-rates-of-infection-by-county-of-identification/explore?location=38.980312%2C-105.550873%2C7.30)
   - Connecticut: [Department of Public Health](https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/)
   - Delaware: [Emergency Management Agency](https://coronavirus.delaware.gov/)
   - District of Columbia: [Government of The District of Columbia](https://coronavirus.dc.gov/page/coronavirus-data)
@@ -79,7 +83,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Idaho: [State Government](https://coronavirus.idaho.gov/)
   - Illinois: [Department of Public Health](https://dph.illinois.gov/covid19)
   - Indiana: [Department of Health](https://hub.mph.in.gov/dataset?q=COVID)
-  - Iowa: [State Government](https://coronavirus.iowa.gov/)
+  - Iowa: [State Government](https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/COVID-19-Reporting)
   - Kansas: [Department Of Health And Environment](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas)
     - [Douglas County](https://coronavirus-response-dgco.hub.arcgis.com/)
     - [Finney County](https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/)
@@ -89,6 +93,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Louisiana: [Department of Health](http://ldh.la.gov/coronavirus/)
   - Maine: [Department of Health and Human Services](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml)
   - Maryland: [Department of Health](https://coronavirus.maryland.gov/)
+    - [State GitHub](https://state-of-maryland.github.io/COVID/SurveillanceDashboard/DashboardBlackBox/CasesBlackboxStats1.html)
   - Massachusetts: [Department of Public Health](https://www.mass.gov/info-details/covid-19-response-reporting)
   - Michigan: [Michigan.gov](https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html )
   - Minnesota: [Department of Health](https://www.health.state.mn.us/diseases/coronavirus/situation.html)
@@ -145,6 +150,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Midland County](https://www.midlandtexas.gov/955/Coronavirus-COVID-19)
     - [Mount Pleasant](https://www.mpcity.net/632/COVID-19-UPDATES)
     - [Montgomery County](https://coronavirus-response-moco.hub.arcgis.com/)
+    - [Potter County](https://covid-data-amarillo.hub.arcgis.com/)
+      - We are aware that the totals reported on our dashboard do not match the headline numbers on the dashboard frontend. We can confirm that our numbers match the dashboard backend and the totals within the graphs on the site. We do not know why there is a discrepancy and have reached out to the county for further information.
     - [San Angelo 1](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0)
     - [San Angelo 2](https://www.gosanangelo.com/)
     - [San Antonio](https://covid19.sanantonio.gov/Home)
@@ -193,14 +200,14 @@ This list includes a complete list of all sources ever used in the data set, sin
       - Region of Halton: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus   
     - Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
     - Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
-    - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
     - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
   - Chile: 
     - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
     - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
   - China:
-    - National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml
-    - China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm
+    - qq.com: https://news.qq.com/zt2020/page/feiyan.htm#/
+    - ~~National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml~~
+    - ~~China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm~~
   - Colombia:
     - National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
   - Czech Republic (Czechia):
@@ -224,7 +231,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ (retired March 31, 2022)
     - Robert Koch Institute: https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html
   - Greece:
-    - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
+    - National Public Health Organization: https://covid19.gov.gr/covid19-live-analytics
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Hong Kong SAR:
@@ -247,7 +254,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Civil Protection Department: https://github.com/pcm-dpc/COVID-19/tree/master/
     - Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
   - Japan: 
-    - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
+    - MHLW: https://covid19.mhlw.go.jp/extensions/public/en/index.html
   - Jordan:
     - Ministry of Health: https://corona.moh.gov.jo/en
   - Kazakhstan: 
@@ -265,7 +272,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Macau SAR:
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
   - Malaysia
-    - Ministry of Health: https://covid-19.moh.gov.my/
+    - Ministry of Health Website: https://covid-19.moh.gov.my/
+    - Ministry of Health Dashboard: https://covidnow.moh.gov.my/bm/cases
     - Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera: https://github.com/MoH-Malaysia/covid19-public
   - Mexico:
     - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
@@ -290,7 +298,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Poland: 
     - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
   - Portugal:
-    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829
+    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829 (expired on March 13, 2022. Transferred to WHO.)
   - Romania:
     - Government of Romania: https://datelazi.ro/ 
   - Russia: 

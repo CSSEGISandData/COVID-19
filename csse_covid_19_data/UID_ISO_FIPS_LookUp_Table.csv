@@ -445,6 +445,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 508,MZ,MOZ,508,,,,Mozambique,-18.665695,35.529562,Mozambique,31255435
 8888,,,,,,,MS Zaandam,,,MS Zaandam,
 516,NA,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2540916
+520,NR,NRU,520,,,,Nauru,-0.5228,166.9315,Nauru,10834
 524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,29136808
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,17134873
 52801,NL,NLD,528,,,Drenthe,Netherlands,52.862485,6.618435,"Drenthe, Netherlands",493682
@@ -466,6 +467,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",26221
 554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,4822233
 184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",17459
+570,NU,NIU,570,,,Niue,New Zealand,-19.0544,-169.8672,"Niue, New Zealand",1650
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,6624554
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,24206636
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,206139587
@@ -789,6 +791,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,1399491
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,11818618
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,84339067
+798,TV,TUV,798,,,,Tuvalu,-7.1095,177.6493,Tuvalu,11792
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,45741000
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,43733759
 80401,UA,UKR,804,,,Cherkasy Oblast,Ukraine,49.4444,32.0598,"Cherkasy Oblast, Ukraine",1206351
@@ -837,6 +840,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",85032
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",4999
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694,-71.7979,"Turks and Caicos Islands, United Kingdom",38718
+612,PN,PCN,612,,,Pitcairn Islands,United Kingdom,-24.3768,-128.3242,"Pitcairn Islands, United Kingdom",67
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",15002
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",5661
 858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,3473727
