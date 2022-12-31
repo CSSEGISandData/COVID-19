@@ -36,7 +36,6 @@ Hong Kong,Hong Kong,2020-02-08T00:03:07,26,1,0
 ,South Korea,2020-02-07T03:03:03,24,0,1
 Qinghai,Mainland China,2020-02-06T02:13:15,18,0,3
 Taiwan,Taiwan,2020-02-08T05:23:02,17,0,1
-,Malaysia,2020-02-08T10:23:04,16,0,1
 ,Germany,2020-02-07T16:33:03,13,0,0
 ,Vietnam,2020-02-08T07:23:04,13,0,1
 ,France,2020-02-08T09:53:01,11,0,0
@@ -49,7 +48,7 @@ British Columbia,Canada,2020-02-07T05:43:03,4,0,0
 ,India,2020-02-03T21:43:02,3,0,0
 ,Italy,2020-02-07T17:53:02,3,0,0
 ,Philippines,2020-02-07T16:43:04,3,1,0
-,UK,2020-02-07T18:33:02,3,0,0
+Unknown,United Kingdom,2020-02-07T18:33:02,3,0,0
 South Australia,Australia,2020-02-02T22:33:07,2,0,0
 "Toronto, ON",Canada,2020-02-04T00:13:06,2,0,0
 ,Russia,2020-01-31T16:13:45,2,0,0
@@ -71,3 +70,40 @@ Tibet,Mainland China,2020-02-01T01:52:40,1,0,0
 "Orange, CA",US,2020-02-01T19:53:03,1,0,0
 "Seattle, WA",US,2020-02-01T19:43:03,1,0,0
 "Tempe, AZ",US,2020-02-01T19:43:03,1,0,0
+Unknown,China,2020-02-08T23:33:06,0,0,0
+,Kiribati,2020-02-08T23:33:06,0,0,0
+,Palau,2020-02-08T23:33:06,0,0,0
+Cook Islands,New Zealand,2020-02-08T23:33:06,0,0,0
+,Summer Olympics 2020,2020-02-08T23:33:06,0,0,0
+Johor,Malaysia,2020-02-08T23:33:06,0,0,0
+Kedah,Malaysia,2020-02-08T23:33:06,0,0,0
+Kelantan,Malaysia,2020-02-08T23:33:06,0,0,0
+Melaka,Malaysia,2020-02-08T23:33:06,0,0,0
+Negeri Sembilan,Malaysia,2020-02-08T23:33:06,0,0,0
+Pahang,Malaysia,2020-02-08T23:33:06,0,0,0
+Perak,Malaysia,2020-02-08T23:33:06,0,0,0
+Perlis,Malaysia,2020-02-08T23:33:06,0,0,0
+Pulau Pinang,Malaysia,2020-02-08T23:33:06,0,0,0
+Sabah,Malaysia,2020-02-08T23:33:06,0,0,0
+Sarawak,Malaysia,2020-02-08T23:33:06,0,0,0
+Selangor,Malaysia,2020-02-08T23:33:06,0,0,0
+Terengganu,Malaysia,2020-02-08T23:33:06,0,0,0
+W.P. Kuala Lumpur,Malaysia,2020-02-08T23:33:06,0,0,0
+W.P. Labuan,Malaysia,2020-02-08T23:33:06,0,0,0
+W.P. Putrajaya,Malaysia,2020-02-08T23:33:06,0,0,0
+Unknown,Malaysia,2020-02-08T23:33:06,0,0,0
+,Tonga,2020-02-08T23:33:06,0,0,0
+,Winter Olympics 2022,2020-02-08T23:33:06,0,0,0
+,Antarctica,2020-02-08T23:33:06,0,0,0
+Jersey,United Kingdom,2020-02-08T23:33:06,0,0,0
+Guernsey,United Kingdom,2020-02-08T23:33:06,0,0,0
+,"Korea, North",2020-02-08T23:33:06,0,0,0
+Unknown,Ukraine,2020-02-08T23:33:06,0,0,0
+England,United Kingdom,2020-02-08T23:33:06,0,2,0
+Northern Ireland,United Kingdom,2020-02-08T23:33:06,0,0,0
+Scotland,United Kingdom,2020-02-08T23:33:06,0,0,0
+Wales,United Kingdom,2020-02-08T23:33:06,0,0,0
+,Nauru,2020-02-08T23:33:06,0,0,0
+Niue,New Zealand,2020-02-08T23:33:06,0,0,0
+,Tuvalu,2020-02-08T23:33:06,0,0,0
+Pitcairn Islands,United Kingdom,2020-02-08T23:33:06,0,0,0
