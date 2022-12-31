@@ -40,7 +40,7 @@ Qinghai,Mainland China,2020-02-15T08:43:03,18,0,13
 ,Vietnam,2020-02-13T06:33:02,16,0,7
 ,France,2020-02-15T20:53:02,12,1,4
 Macau,Macau,2020-02-16T12:03:06,10,0,5
-,UK,2020-02-16T16:23:06,9,0,8
+Unknown,United Kingdom,2020-02-16T16:23:06,9,0,8
 ,United Arab Emirates,2020-02-16T20:43:02,9,0,4
 Queensland,Australia,2020-02-09T19:33:02,5,0,0
 New South Wales,Australia,2020-02-13T17:53:03,4,0,4
@@ -61,7 +61,7 @@ South Australia,Australia,2020-02-02T22:33:07,2,0,0
 ,Cambodia,2020-02-12T07:43:02,1,0,1
 "London, ON",Canada,2020-02-12T18:53:03,1,0,1
 ,Egypt,2020-02-14T23:53:02,1,0,0
-,Finland,2020-02-12T00:03:12,1,0,1
+,Finland,2020-02-12T00:03:12,2,0,1
 Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 ,Nepal,2020-02-12T14:43:03,1,0,1
 ,Sri Lanka,2020-02-08T03:43:03,1,0,1
@@ -95,3 +95,18 @@ W.P. Kuala Lumpur,Malaysia,2020-02-16T23:53:01,0,0,0
 W.P. Labuan,Malaysia,2020-02-16T23:53:01,0,0,0
 W.P. Putrajaya,Malaysia,2020-02-16T23:53:01,0,0,0
 Unknown,Malaysia,2020-02-16T23:53:01,0,0,0
+,Tonga,2020-02-16T23:53:01,0,0,0
+,Winter Olympics 2022,2020-02-16T23:53:01,0,0,0
+,Antarctica,2020-02-16T23:53:01,0,0,0
+Jersey,United Kingdom,2020-02-16T23:53:01,0,0,0
+Guernsey,United Kingdom,2020-02-16T23:53:01,0,0,0
+,"Korea, North",2020-02-16T23:53:01,0,0,0
+Unknown,Ukraine,2020-02-16T23:53:01,0,0,0
+England,United Kingdom,2020-02-16T23:53:01,0,2,0
+Northern Ireland,United Kingdom,2020-02-16T23:53:01,0,0,0
+Scotland,United Kingdom,2020-02-16T23:53:01,0,0,0
+Wales,United Kingdom,2020-02-16T23:53:01,0,0,0
+,Nauru,2020-02-16T23:53:01,0,0,0
+Niue,New Zealand,2020-02-16T23:53:01,0,0,0
+,Tuvalu,2020-02-16T23:53:01,0,0,0
+Pitcairn Islands,United Kingdom,2020-02-16T23:53:01,0,0,0

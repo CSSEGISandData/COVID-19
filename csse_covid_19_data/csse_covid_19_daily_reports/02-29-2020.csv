@@ -43,7 +43,7 @@ Unassigned Location (From Diamond Princess),US,2020-02-28T20:03:03,44,0,0
 ,Thailand,2020-02-29T12:33:03,42,0,28
 ,Bahrain,2020-02-29T18:03:05,41,0,0
 Taiwan,Taiwan,2020-02-29T07:13:05,39,1,9
-,UK,2020-02-29T18:03:05,23,0,8
+Unknown,United Kingdom,2020-02-29T18:03:05,23,0,8
 ,United Arab Emirates,2020-02-29T12:33:03,21,0,5
 Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
 ,Switzerland,2020-02-29T18:03:05,18,0,0
@@ -54,7 +54,7 @@ Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
 "Toronto, ON",Canada,2020-02-29T23:23:13,10,0,2
 Macau,Macau,2020-02-27T12:43:02,10,0,8
 Queensland,Australia,2020-02-29T02:03:10,9,0,1
-,Austria,2020-02-29T14:43:03,9,0,0
+,Austria,2020-02-29T14:43:03,3,0,0
 British Columbia,Canada,2020-02-29T23:23:13,8,0,3
 Victoria,Australia,2020-02-29T02:03:10,7,0,4
 ,Israel,2020-02-29T01:53:03,6,0,0
@@ -69,7 +69,7 @@ New South Wales,Australia,2020-02-13T17:53:03,4,0,4
 ,Pakistan,2020-02-29T18:03:05,4,0,0
 South Australia,Australia,2020-02-29T02:03:10,3,0,2
 ,Denmark,2020-02-29T18:03:05,3,0,0
-,Finland,2020-02-29T05:23:03,3,0,1
+,Finland,2020-02-29T05:23:03,8,0,1
 ,India,2020-02-16T07:43:02,3,0,3
 ,Philippines,2020-02-12T07:43:02,3,1,1
 ,Romania,2020-02-28T15:33:03,3,0,0
@@ -93,7 +93,7 @@ Western Australia,Australia,2020-02-29T23:13:06,2,0,0
 ,Georgia,2020-02-27T16:23:03,1,0,0
 ,Iceland,2020-02-29T00:33:01,1,0,0
 ,Ireland,2020-02-29T22:33:03,1,0,0
-,Lithuania,2020-02-28T16:23:03,1,0,0
+,Lithuania,2020-02-28T16:23:03,0,0,0
 ,Luxembourg,2020-02-29T21:03:05,1,0,0
 Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 ,Monaco,2020-02-29T00:33:01,1,0,0
@@ -139,3 +139,18 @@ W.P. Kuala Lumpur,Malaysia,2020-02-29T12:13:10,0,0,0
 W.P. Labuan,Malaysia,2020-02-29T12:13:10,0,0,0
 W.P. Putrajaya,Malaysia,2020-02-29T12:13:10,0,0,0
 Unknown,Malaysia,2020-02-29T12:13:10,0,0,0
+,Tonga,2020-02-29T12:13:10,0,0,0
+,Winter Olympics 2022,2020-02-29T12:13:10,0,0,0
+,Antarctica,2020-02-29T12:13:10,0,0,0
+Jersey,United Kingdom,2020-02-29T12:13:10,0,0,0
+Guernsey,United Kingdom,2020-02-29T12:13:10,0,0,0
+,"Korea, North",2020-02-29T12:13:10,0,0,0
+Unknown,Ukraine,2020-02-29T12:13:10,0,0,0
+England,United Kingdom,2020-02-29T12:13:10,0,3,0
+Northern Ireland,United Kingdom,2020-02-29T12:13:10,0,0,0
+Scotland,United Kingdom,2020-02-29T12:13:10,0,0,0
+Wales,United Kingdom,2020-02-29T12:13:10,0,0,0
+,Nauru,2020-02-29T12:13:10,0,0,0
+Niue,New Zealand,2020-02-29T12:13:10,0,0,0
+,Tuvalu,2020-02-29T12:13:10,0,0,0
+Pitcairn Islands,United Kingdom,2020-02-29T12:13:10,0,0,0
