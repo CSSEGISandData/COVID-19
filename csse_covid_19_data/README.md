@@ -440,9 +440,91 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * October 12, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-10-11 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
 * October 13, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 * October 13, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* October 14, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-10-13 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* October 18, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-10-17 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* October 19, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-10-18 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* October 20, 2022 | Tom Green, Texas, US | Corrected from 2020-01-22 to 2022-10-17 | [Data Source](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19/covid-19-reports/english-reports-covid-19-2022)
+* October 20, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* October 20, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* October 21, 2022 | Tom Green, Texas, US | Corrected from 2020-10-17 to 2022-10-20 | [Data Source](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19/covid-19-reports/english-reports-covid-19-2022)
+* October 21, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-10-20 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* October 25, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-10-24 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* October 26, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-10-25 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* October 27, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* October 27, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* October 28, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-10-27 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* November 01, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-10-31 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* November 02, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-11-01 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* November 03, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* November 03, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* November 04, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-11-03 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* November 08, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-11-07 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* November 09, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-11-08 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* November 10, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* November 10, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* November 11, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-11-10  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* November 15, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-11-14 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* November 17, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-11-16 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* November 17, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* November 17, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* November 18, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-11-17  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* November 22, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-11-21 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* November 23, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-11-22 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* November 25, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* November 29, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-11-28 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* November 30, 2022 | Czechia | Corrected from 2022-01-16 to 2022-11-29 | Adjusting Czechia's data to include reinfection data in case counts.  Back distribution made from screenshots of [official source](https://onemocneni-aktualne.mzcr.cz/covid-19) retrieved from the [Internet Archive](https://web.archive.org/)
+* November 30, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-11-29 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* December 01, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* December 01, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* December 02, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-12-01  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* December 06, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-12-05 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* December 07, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-12-06 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* December 08, 2022 | Georgia | Corrected from 2020-01-03 to 2022-12-07 | Aligning Georgia's data with WHO reporting | [Data Source](https://covid19.who.int/region/euro/country/ge)
+* December 08, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* December 08, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* December 09, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-12-08  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* December 13, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-12-12 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* December 14, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-12-13 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* December 15, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* December 15, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* December 16, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-12-15  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* December 20, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-12-19 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* December 21, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-12-20 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* December 22, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* December 22, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* December 23, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-12-22  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* December 27, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-12-26 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* December 28, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-12-27 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* December 29, 2022 | Germany | Corrected from 2020-03-04 to 2022-12-28  | [Data Source](https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/Situationsberichte_Tab.html)
+* December 29, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* December 29, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* January 04, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-03 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* January 05, 2023 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* January 05, 2023 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* January 05, 2023 | China | Corrected from 2022-12-18 to 2023-01-04 | [Data Source](https://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/index.html)
+* January 06, 2023 | North Dakota, US | Corrected from 2020-03-09 to 2023-01-05  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* January 10, 2023 | United Kingdom | Corrected from 2020-01-30 to 2023-01-09 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* January 11, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-10 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* January 12, 2023 | Douglas, Kansas, US | Corrected from 2020-11-10 to 2023-01-11 | Aligning Douglas county data with values reported to Kansas DOH [Data Source](https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas)
+* January 12, 2023 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* January 12, 2023 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* January 12, 2023 | Tennessee, US | Corrected from 2023-01-08 to 2023-01-11 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* January 17, 2023 | United Kingdom | Corrected from 2020-01-30 to 2023-01-16 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* January 18, 2023 | China | Fix Alignment with our reporting - Corrected from 2022-12-18 to 2023-01-17 | [Data Source](https://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/index.html)
+* January 18, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-17 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* January 19, 2023 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* January 19, 2023 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* January 20, 2023 | North Dakota, US | Corrected from 2020-03-09 to 2023-01-19  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* January 24, 2023 | United Kingdom | Corrected from 2020-01-30 to 2023-01-23 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* January 25, 2023 | Tennessee, US | Corrected from 2020-03-12 to 2023-01-24 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* January 26, 2023 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* January 26, 2023 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* January 26, 2023 | Potter, Texas, US | Bring data into alignment with Amarillo Public Health - corrected data from 2020-03-04 to 2023-01-25 | [Data Source](https://amarillo-public-health-covid-19-information-amarillo.hub.arcgis.com/)
+* January 27, 2023 | North Dakota, US | Corrected from 2020-03-09 to 2023-01-26  | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
+
 Generalized Format: 
 Date: Location | Change | Reason/Other notes | Source 
 * April 12: France | Spike in cases | Inclusion of "cas possibles en ESMS" (probable cases from ESMS)| ([More details](https://github.com/CSSEGISandData/COVID-19/issues/2094))
@@ -628,26 +710,26 @@ Date: Location | File | Change | Data source for change
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Alabama: Providing data Thursdays only (as of August 1, 2022). ~~Providing data Monday-Friday (as of March 4, 2022).~~ ~~Providing data seven days a week (as of September 17, 2021).~~ ~~Providing data Monday-Friday.~~ ~~Providing data Monday, Wednesday, and Friday~~
-* Alaska: Providing data once per week (Wednesdays) (as of April 4, 2022). ~~Providing data Monday, Wednesday, and Friday (as of December 7, 2021).~~ ~~Providing data Monday-Friday (as of 8/2/2021).~~ ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
+* Alabama: Providing data once per week (Wednesdays) (as of November 16, 2022). ~~Providing data Thursdays only (as of August 1, 2022).~~ ~~Providing data Monday-Friday (as of March 4, 2022).~~ ~~Providing data seven days a week (as of September 17, 2021).~~ ~~Providing data Monday-Friday.~~ ~~Providing data Monday, Wednesday, and Friday~~
+* Alaska: Providing data once per week (Tuesdays) (as of November 8, 2022). ~~Providing data once per week (Wednesdays) (as of April 4, 2022).~~ ~~Providing data Monday, Wednesday, and Friday (as of December 7, 2021).~~ ~~Providing data Monday-Friday (as of 8/2/2021).~~ ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
 * Arizona: Providing data once per week (as of March 2, 2022)
 * Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
 * California: Providing data once per week (Thursdays) (as of September 15, 2022). ~~Providing data Tuesdays and Fridays (as of April 4, 2022).~~ ~~Providing data Monday-Friday.~~
 * Colorado: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday (cases only update via [this csv file](https://data.ct.gov/api/views/qmgw-5kp6/rows.csv?accessType=DOWNLOAD) Saturday and Sunday).
-* Delaware: Providing data Monday-Friday.
+* Delaware: Providing data once weekly (Wednesdays) (as of December 15, 2022). ~~Providing data Monday-Friday.~~
 * District of Columbia: Providing data once per week (Thursdays) as of March 4, 2022. ~~Providing data Monday-Friday.~~
 * Florida: Providing data once every two weeks (Fridays) (as of March 11, 2022). ~~Providing data once per week (Fridays).~~
 * Georgia: Providing data once per week (Wednesdays) (as of April 20, 2022).~~Providing data Monday-Friday.~~
 * Guam: Providing data Monday-Friday.
 * Hawaii: Providing data once per week (Wednesdays) (as of March 9, 2022).
-* Idaho: Porviding data Monday, Wednesday, and Friday (as of April 20, 2022). ~~Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).Providing data daily (as of 9/11/2021).Providing data Monday-Friday.~~
+* Idaho: Providing data once weekly (Wednesdays) (as of October 17, 2022). ~~Providing data Monday, Wednesday, and Friday (as of April 20, 2022).~~ ~~Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).Providing data daily (as of 9/11/2021).Providing data Monday-Friday.~~
 * Illinois: Providing data Monday-Friday.
-* Indiana: Providing data Mondays, Wednesdays, and Fridays (as of March 29, 2022).~~Providing data Monday-Friday.~~
+* Indiana: Providing data once weekly (Wednesday) (as of October 1, 2022). ~~Providing data Mondays, Wednesdays, and Fridays (as of March 29, 2022).~~ ~~Providing data Monday-Friday.~~
 * Iowa: Providing data once weekly (day of the week TBC).
 * Kansas: Providing data once per week (Wednesdays).~~Providing data once per week (Fridays) (as of April 1, 2022).~~ ~~Providing data Monday, Wednesdays, and Fridays.~~ No data for the weekend of August 22-23.
 * Kentucky: Providing data once per week on Mondays (as of March 7, 2022). ~~Providing data Monday-Friday.~~
-* Louisiana: Providing data Monday-Friday.
+* Louisiana: Providing data once weekly (Wednesdays) (as of October 14, 2022). ~~Providing data Monday-Friday.~~
 * Maine: Providing data Tuesday-Saturday.
 * Maryland: Providing data Monday-Friday (as of April 3, 2022).
 * Massachuetts: Providing data once weekly (Thursdays) (as of July 11, 2022). ~~Providing data Monday-Friday.~~
@@ -659,6 +741,7 @@ United States
 * Nebraska: Providing state level data only Monday-Friday (in composite with CDC reporting).~~Providing data Monday-Friday (as of 9/25/2021).~~ ~~Providing data Wednedays only (as of 8/11/2021)~~
 * Nevada: Providing data once per week (Wednesdays) (as of March 16, 2022). ~~Providing data Monday-Friday.~~
 * New Hampshire: Providing data once weekly (Thursdays) as of May 16, 2022. ~~Providing data Monday-Friday.~~
+* New Jersey: Provoding data Monday-Friday (as of November 2, 2022).
 * New Mexico: Providing data Monday-Friday.
 * New York: Providing case data Monday-Sunday, providing death data Monday-Friday (as of September 9, 2022).
 * New York City: ~~Providing data Monday-Friday.~~ Providing data seven days a week (as of January 4, 2022).
@@ -673,11 +756,11 @@ United States
 * South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
 * South Dakota: Providing data weekly (as of April 12, 2022). ~~Providing data Monday-Friday (as of August 16, 2021). Providing data Wednesdays only.Saturday and Sunday data will be reported on Tuesdays.~~
 * Tennessee: Providing data weekly. ~~Providing data Monday-Friday.~~
-* Texas: Providing data Monday, Wednesday, and Friday (as of September 12, 2022). ~~Providing data Monday-Friday (as of August 1, 2022).~~
+* Texas: Providing data once weekly (Mondays) (as of November 30, 2022). ~~Providing data Monday, Wednesday, and Friday (as of September 12, 2022).~~ ~~Providing data Monday-Friday (as of August 1, 2022).~~
 * Utah: Providing data once weekly (Thursdays) (as of March 31, 2022). ~~Providing data Monday-Friday.~~
 * Vermont: Providing data once per week (Wednesdays) (as of May 19, 2022). ~~Providing data daily (as of August 21, 2021).~~ ~~Providing data Monday-Friday.~~
-* Virginia: Providing data Monday-Friday.
-* Washington: Did not update October 10-12 due to data entry issue. ~~As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.~~ As of January 25, 2022, only updating Monday, Wednesday, and Friday.
+* Virginia: Providing data once weekly (Tuesdays) (as of December 27, 2022). ~~Providing data Monday-Friday.~~
+* Washington: Providing data once per week (Wednesdays) as of November 2, 2022. Did not update October 10-12 due to data entry issue. ~~As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.~~ ~~As of January 25, 2022, only updating Monday, Wednesday, and Friday.~~
 * West Virginia: Providing data Monday-Friday (as of March 14th, 2022). ~~Providing data daily.~~ ~~Providing data Monday-Friday.~~
 * Wisconsin: Providing data Monday-Friday.
 * Wyoming: Providing data once per week (Tuesdays). ~~Providing data twice a week (Tuesdays and Fridays) (as of March 11, 2022).~~ ~~Providing data Monday-Friday.~~
@@ -709,8 +792,10 @@ For all international locations, compositing with the reporting of the World Hea
 * Germany: Providing data Monday-Friday.
 * Honduras: Providing data Monday-Friday.
 * Ireland: Providing death data once weekly.
+* Italy: Providing data once weekly (Fridays).
 * Luxembourg: Not providing actionable data on weekends.
 * Mexico: Providing data once weekly. Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
+* Netherlands: Providing data Tuesdays and Fridays (as of September 1, 2022).
 * Nicaragua: Providing data once weekly.
 * Romania: Providing data once per week (Tuesdays).
 * Spain: Providing data twice a week (Tuesdays and Fridays) (as of March 15, 2022). ~~Not updating case or death data on the weekends (and is not currently providing recoveries at any time)~~

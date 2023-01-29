@@ -68089,3 +68089,1237 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/07/2022,time_series_covid19_confirmed_global.csv,US,10/03/2022,96440149,96440182,Correct US confirmed data
 10/07/2022,time_series_covid19_confirmed_global.csv,US,10/04/2022,96494285,96494318,Correct US confirmed data
 10/07/2022,time_series_covid19_confirmed_global.csv,US,10/05/2022,96565276,96565309,Correct US confirmed data
+10/18/2022,time_series_covid19_confirmed_global.csv,Thailand,10/12/2022,4713909,4685047,Correct Thailand confirmed data
+10/18/2022,time_series_covid19_confirmed_global.csv,Thailand,10/13/2022,4713909,4685047,Correct Thailand confirmed data
+10/18/2022,time_series_covid19_confirmed_global.csv,Thailand,10/14/2022,4713909,4685047,Correct Thailand confirmed data
+10/18/2022,time_series_covid19_confirmed_global.csv,Thailand,10/15/2022,4713909,4687281,Correct Thailand confirmed data
+10/18/2022,time_series_covid19_confirmed_global.csv,Thailand,10/16/2022,4713909,4687281,Correct Thailand confirmed data
+10/18/2022,time_series_covid19_confirmed_global.csv,Thailand,10/17/2022,4713909,4687281,Correct Thailand confirmed data
+10/18/2022,time_series_covid19_deaths_global.csv,Thailand,10/12/2022,32923,32829,Correct Thailand deaths data
+10/18/2022,time_series_covid19_deaths_global.csv,Thailand,10/13/2022,32923,32829,Correct Thailand deaths data
+10/18/2022,time_series_covid19_deaths_global.csv,Thailand,10/14/2022,32923,32829,Correct Thailand deaths data
+10/18/2022,time_series_covid19_deaths_global.csv,Thailand,10/15/2022,32923,32882,Correct Thailand deaths data
+10/18/2022,time_series_covid19_deaths_global.csv,Thailand,10/16/2022,32923,32882,Correct Thailand deaths data
+10/18/2022,time_series_covid19_deaths_global.csv,Thailand,10/17/2022,32923,32882,Correct Thailand deaths data
+10/21/2022,time_series_covid19_confirmed_global.csv,Peru,10/16/2022,4150544,4150737,Correct Peru confirmed data
+10/21/2022,time_series_covid19_confirmed_global.csv,Peru,10/17/2022,4150737,4150832,Correct Peru confirmed data
+10/21/2022,time_series_covid19_confirmed_global.csv,Peru,10/18/2022,4150737,4151044,Correct Peru confirmed data
+10/21/2022,time_series_covid19_confirmed_global.csv,Peru,10/19/2022,4150737,4151414,Correct Peru confirmed data
+10/21/2022,time_series_covid19_confirmed_global.csv,Peru,10/20/2022,4150737,4151705,Correct Peru confirmed data
+10/21/2022,time_series_covid19_deaths_global.csv,Peru,10/16/2022,216860,216877,Correct Peru deaths data
+10/24/2022,time_series_covid19_confirmed_global.csv,Peru,10/21/2022,4150737,4152019,Correct Peru confirmed data
+10/24/2022,time_series_covid19_confirmed_global.csv,Peru,10/22/2022,4150737,4152284,Correct Peru confirmed data
+10/24/2022,time_series_covid19_confirmed_global.csv,Peru,10/23/2022,4150737,4152499,Correct Peru confirmed data
+10/28/2022,time_series_covid19_confirmed_US.csv,"Unassigned, New Jersey, US",10/24/2022,5301,2103,"Correct Unassigned, New Jersey, US confirmed data"
+10/28/2022,time_series_covid19_confirmed_global.csv,US,10/24/2022,97244450,97241252,Correct US confirmed data
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/14/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/15/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/16/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/17/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/18/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/19/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/20/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/21/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/22/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/23/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/24/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/25/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/26/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/27/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/28/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/29/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/30/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/01/2022,time_series_covid19_confirmed_global.csv,"Wallis and Futuna,France",10/31/2022,761,3415,"Correct Wallis and Futuna,France confirmed data"
+11/14/2022,time_series_covid19_confirmed_global.csv,Tuvalu,11/05/2022,23,163,Correct Tuvalu confirmed data
+11/14/2022,time_series_covid19_confirmed_global.csv,Tuvalu,11/06/2022,23,163,Correct Tuvalu confirmed data
+11/14/2022,time_series_covid19_confirmed_global.csv,Tuvalu,11/07/2022,23,163,Correct Tuvalu confirmed data
+11/14/2022,time_series_covid19_confirmed_global.csv,Tuvalu,11/09/2022,163,466,Correct Tuvalu confirmed data
+11/14/2022,time_series_covid19_confirmed_global.csv,Tuvalu,11/10/2022,163,466,Correct Tuvalu confirmed data
+11/14/2022,time_series_covid19_confirmed_global.csv,Tuvalu,11/11/2022,163,466,Correct Tuvalu confirmed data
+11/14/2022,time_series_covid19_confirmed_global.csv,Tuvalu,11/12/2022,163,466,Correct Tuvalu confirmed data
+11/14/2022,time_series_covid19_confirmed_global.csv,Tuvalu,11/13/2022,163,1259,Correct Tuvalu confirmed data
+11/15/2022,time_series_covid19_confirmed_US.csv,"Kent, Delaware, US",11/14/2022,61295,61373,"Correct Kent, Delaware, US confirmed data"
+11/15/2022,time_series_covid19_confirmed_US.csv,"New Castle, Delaware, US",11/14/2022,178799,179044,"Correct New Castle, Delaware, US confirmed data"
+11/15/2022,time_series_covid19_confirmed_US.csv,"Sussex, Delaware, US",11/14/2022,73489,73599,"Correct Sussex, Delaware, US confirmed data"
+11/15/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Delaware, US",11/14/2022,1101,1103,"Correct Unassigned, Delaware, US confirmed data"
+11/15/2022,time_series_covid19_deaths_US.csv,"Kent, Delaware, US",11/14/2022,703,705,"Correct Kent, Delaware, US deaths data"
+11/15/2022,time_series_covid19_deaths_US.csv,"New Castle, Delaware, US",11/14/2022,1519,1525,"Correct New Castle, Delaware, US deaths data"
+11/15/2022,time_series_covid19_deaths_US.csv,"Sussex, Delaware, US",11/14/2022,926,931,"Correct Sussex, Delaware, US deaths data"
+11/15/2022,time_series_covid19_confirmed_global.csv,US,11/14/2022,98045358,98045793,Correct US confirmed data
+11/15/2022,time_series_covid19_deaths_global.csv,US,11/14/2022,1074688,1074701,Correct US deaths data
+11/17/2022,time_series_covid19_deaths_global.csv,Iraq,11/14/2022,25631,25361,Correct Iraq deaths data
+11/17/2022,time_series_covid19_confirmed_global.csv,Japan,11/15/2022,23241410,23341236,Correct Japan confirmed data
+11/17/2022,time_series_covid19_confirmed_global.csv,Japan,11/16/2022,23241410,23448938,Correct Japan confirmed data
+11/17/2022,time_series_covid19_deaths_global.csv,Japan,11/15/2022,47733,47723,Correct Japan deaths data
+11/17/2022,time_series_covid19_deaths_global.csv,Japan,11/16/2022,47733,47834,Correct Japan deaths data
+11/28/2022,time_series_covid19_confirmed_global.csv,Venezuela,11/22/2022,560800,546890,Correct Venezuela confirmed data
+11/29/2022,time_series_covid19_confirmed_global.csv,Peru,11/26/2022,4217068,4190948,"Correct Unknown, Peru confirmed data"
+11/29/2022,time_series_covid19_confirmed_global.csv,United Kingdom,11/24/2022,24364551,23998168,Correct United Kingdom confirmed data
+11/29/2022,time_series_covid19_confirmed_global.csv,United Kingdom,11/25/2022,24364551,23998168,Correct United Kingdom confirmed data
+11/29/2022,time_series_covid19_confirmed_global.csv,United Kingdom,11/26/2022,24364551,23998168,Correct United Kingdom confirmed data
+11/29/2022,time_series_covid19_confirmed_global.csv,United Kingdom,11/27/2022,24364551,23998168,Correct United Kingdom confirmed data
+11/29/2022,time_series_covid19_deaths_global.csv,Seychelles,11/23/2022,298,171,Correct Seychelles deaths data
+11/29/2022,time_series_covid19_deaths_global.csv,Seychelles,11/24/2022,298,171,Correct Seychelles deaths data
+11/29/2022,time_series_covid19_deaths_global.csv,Seychelles,11/25/2022,298,171,Correct Seychelles deaths data
+11/29/2022,time_series_covid19_deaths_global.csv,Seychelles,11/26/2022,298,171,Correct Seychelles deaths data
+11/29/2022,time_series_covid19_deaths_global.csv,Seychelles,11/27/2022,298,171,Correct Seychelles deaths data
+11/29/2022,time_series_covid19_deaths_global.csv,Seychelles,11/28/2022,298,171,Correct Seychelles deaths data
+12/06/2022,time_series_covid19_confirmed_global.csv,Canada,12/05/2022,389479,390087,Correct Canada confirmed data
+12/06/2022,time_series_covid19_confirmed_global.csv,Canada,12/05/2022,152072,152940,Correct Canada confirmed data
+12/06/2022,time_series_covid19_confirmed_global.csv,Canada,12/05/2022,82223,82819,Correct Canada confirmed data
+12/06/2022,time_series_covid19_confirmed_global.csv,Canada,12/05/2022,53299,53465,Correct Canada confirmed data
+12/06/2022,time_series_covid19_confirmed_global.csv,Canada,12/05/2022,132351,132887,Correct Canada confirmed data
+12/06/2022,time_series_covid19_confirmed_global.csv,Canada,12/05/2022,1538271,1538839,Correct Canada confirmed data
+12/06/2022,time_series_covid19_confirmed_global.csv,Canada,12/05/2022,54559,54870,Correct Canada confirmed data
+12/06/2022,time_series_covid19_confirmed_global.csv,Canada,12/05/2022,1254067,1258503,Correct Canada confirmed data
+12/06/2022,time_series_covid19_deaths_global.csv,Canada,12/05/2022,4642,4680,Correct Canada deaths data
+12/06/2022,time_series_covid19_deaths_global.csv,Canada,12/05/2022,2256,2293,Correct Canada deaths data
+12/06/2022,time_series_covid19_deaths_global.csv,Canada,12/05/2022,609,615,Correct Canada deaths data
+12/06/2022,time_series_covid19_deaths_global.csv,Canada,12/05/2022,271,275,Correct Canada deaths data
+12/06/2022,time_series_covid19_deaths_global.csv,Canada,12/05/2022,639,653,Correct Canada deaths data
+12/06/2022,time_series_covid19_deaths_global.csv,Canada,12/05/2022,15300,15312,Correct Canada deaths data
+12/06/2022,time_series_covid19_deaths_global.csv,Canada,12/05/2022,76,81,Correct Canada deaths data
+12/06/2022,time_series_covid19_deaths_global.csv,Canada,12/05/2022,17361,17409,Correct Canada deaths data
+12/07/2022,time_series_covid19_deaths_global.csv,Peru,12/06/2022,218322,217542,Correct Peru deaths data
+12/13/2022,time_series_covid19_confirmed_US.csv,"Unassigned, New Jersey, US",12/01/2022,30156,1681,"Correct Unassigned, New Jersey, US confirmed data"
+12/13/2022,time_series_covid19_confirmed_US.csv,"Warren, New Jersey, US",12/01/2022,30123,30156,"Correct Warren, New Jersey, US confirmed data"
+12/13/2022,time_series_covid19_confirmed_US.csv,"Unassigned, New Jersey, US",12/02/2022,5206,1678,"Correct Unassigned, New Jersey, US confirmed data"
+12/13/2022,time_series_covid19_confirmed_US.csv,"Warren, New Jersey, US",12/02/2022,30123,30185,"Correct Warren, New Jersey, US confirmed data"
+12/13/2022,time_series_covid19_confirmed_US.csv,"Unassigned, New Jersey, US",12/03/2022,5206,1678,"Correct Unassigned, New Jersey, US confirmed data"
+12/13/2022,time_series_covid19_confirmed_US.csv,"Warren, New Jersey, US",12/03/2022,30123,30185,"Correct Warren, New Jersey, US confirmed data"
+12/13/2022,time_series_covid19_confirmed_US.csv,"Unassigned, New Jersey, US",12/04/2022,5206,1678,"Correct Unassigned, New Jersey, US confirmed data"
+12/13/2022,time_series_covid19_confirmed_US.csv,"Warren, New Jersey, US",12/04/2022,30123,30185,"Correct Warren, New Jersey, US confirmed data"
+12/13/2022,time_series_covid19_confirmed_global.csv,US,12/01/2022,98932918,98904476,Correct US confirmed data
+12/13/2022,time_series_covid19_confirmed_global.csv,US,12/02/2022,98971429,98967963,Correct US confirmed data
+12/13/2022,time_series_covid19_confirmed_global.csv,US,12/03/2022,98978021,98974555,Correct US confirmed data
+12/13/2022,time_series_covid19_confirmed_global.csv,US,12/04/2022,98982537,98979071,Correct US confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,25249,26660,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,8542,9196,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,7326,7253,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,55674,58258,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,2431,2438,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,1756,1777,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,10287,10422,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,2839,2877,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,5389,5433,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,8692,8897,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,68862,68861,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,2442,2462,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,8237,8318,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,3796,3769,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,1547,1549,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,40481,40480,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,3023,3066,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,1142,1365,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,238,239,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,510,524,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,5462,5480,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,4564,4678,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,64978,65102,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,5006,5038,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,11315,11560,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,2627,2695,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,1522,1515,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,5007,5063,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/17/2022,5858,6029,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,25249,27063,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,8542,9380,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,7326,7253,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,55674,59190,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,2431,2440,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,1756,1777,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,10287,10425,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,2839,2891,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,5389,5438,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,8692,8927,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,2323123,2338897,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,68862,68861,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,2442,2541,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,8237,8335,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,3796,3782,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,1547,1549,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,40481,40480,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,3023,3076,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,1142,1408,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,238,239,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,510,529,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,5462,5493,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,4564,4678,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,64978,65126,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,5006,5047,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,11315,11634,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,2627,2737,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,1522,1515,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,5007,5118,Correct China confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,China,12/18/2022,5858,6074,Correct China confirmed data
+12/19/2022,time_series_covid19_deaths_global.csv,China,12/17/2022,11107,11148,Correct China deaths data
+12/19/2022,time_series_covid19_deaths_global.csv,China,12/17/2022,6,7,Correct China deaths data
+12/19/2022,time_series_covid19_deaths_global.csv,China,12/18/2022,11107,11172,Correct China deaths data
+12/19/2022,time_series_covid19_deaths_global.csv,China,12/18/2022,6,9,Correct China deaths data
+12/19/2022,time_series_covid19_confirmed_global.csv,Taiwan*,12/14/2022,8498195,8515833,Correct Taiwan* confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,Taiwan*,12/15/2022,8498195,8531911,Correct Taiwan* confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,Taiwan*,12/16/2022,8498195,8547315,Correct Taiwan* confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,Taiwan*,12/17/2022,8498195,8562931,Correct Taiwan* confirmed data
+12/19/2022,time_series_covid19_confirmed_global.csv,Taiwan*,12/18/2022,8498195,8578053,Correct Taiwan* confirmed data
+12/19/2022,time_series_covid19_deaths_global.csv,Taiwan*,12/14/2022,14722,14759,Correct Taiwan* deaths data
+12/19/2022,time_series_covid19_deaths_global.csv,Taiwan*,12/15/2022,14722,14796,Correct Taiwan* deaths data
+12/19/2022,time_series_covid19_deaths_global.csv,Taiwan*,12/16/2022,14722,14820,Correct Taiwan* deaths data
+12/19/2022,time_series_covid19_deaths_global.csv,Taiwan*,12/17/2022,14722,14860,Correct Taiwan* deaths data
+12/19/2022,time_series_covid19_deaths_global.csv,Taiwan*,12/18/2022,14722,14890,Correct Taiwan* deaths data
+12/21/2022,time_series_covid19_confirmed_global.csv,Vietnam,12/12/2022,11529639,11521022,Correct Vietnam confirmed data
+01/04/2023,time_series_covid19_confirmed_global.csv,Thailand,01/02/2023,4723919,4723618,Correct Thailand confirmed data
+01/04/2023,time_series_covid19_confirmed_global.csv,Thailand,01/03/2023,4723919,4723618,Correct Thailand confirmed data
+01/04/2023,time_series_covid19_deaths_global.csv,Thailand,01/02/2023,33669,33650,Correct Thailand deaths data
+01/04/2023,time_series_covid19_deaths_global.csv,Thailand,01/03/2023,33669,33650,Correct Thailand deaths data
+01/05/2023,time_series_covid19_deaths_global.csv,Netherlands,01/04/2023,832909,22990,Correct Netherlands deaths data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1700,1763,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,28860,39335,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,10181,14189,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,7651,14553,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1563,1580,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,63739,96165,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,2457,7642,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1794,2202,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,10436,10471,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,2943,3179,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,5493,6219,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,9089,9639,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,68861,71695,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,2983,6266,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,8394,8677,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,3808,3954,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1971,3066,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,40485,40683,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,3086,3477,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1569,2989,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,239,3802,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,542,780,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,5589,6733,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,4797,5303,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,65423,66968,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,5142,6623,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,12023,14010,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,2913,4132,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1515,1693,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1521800,1521816,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,2632,2934,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,5561,8560,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,6235,6793,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1700,1763,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,28860,40243,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,10181,14463,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,7651,15787,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1563,1616,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,63739,99673,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,2457,9471,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1794,2338,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,10436,10472,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,2943,3215,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,5493,6347,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,9089,9719,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,68861,71924,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,2983,6649,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,8394,8697,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,3808,3983,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1971,3243,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,40485,40712,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,3086,3502,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1569,3390,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,239,6900,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,542,960,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,5589,6733,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,4797,5423,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,65423,67046,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,5142,6636,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,12023,14225,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,2913,4302,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1515,1838,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1521800,1521816,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,2632,2977,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,5561,8616,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,6235,6994,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1700,1768,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,28860,40546,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,10181,14596,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,7651,16386,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1563,1622,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,63739,101510,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,2457,11517,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1794,2387,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,10436,10472,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,2943,3250,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,5493,6498,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,9089,9767,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,68861,72029,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,2983,6865,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,8394,8719,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,3808,3984,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1971,3316,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,40485,40747,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,3086,3526,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1569,3911,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,239,10105,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,542,1089,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,5589,6851,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,4797,5506,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,65423,67152,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,5142,6644,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,12023,14337,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,2913,4380,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1515,1914,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1521800,1521816,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,2632,2984,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,5561,8635,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,6235,7123,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1700,2275,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,28860,40774,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,10181,14715,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,7651,17122,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1563,1742,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,63739,103248,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,2457,13371,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1794,2534,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,10436,10483,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,2943,3292,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,5493,6603,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,9089,9948,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,68861,72131,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,2983,7437,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,8394,8847,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,3808,5075,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1971,3423,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,40485,40764,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,3086,3547,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1569,8131,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,239,13387,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,542,1138,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,5589,6860,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,4797,5764,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,65423,67593,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,5142,6654,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,12023,14427,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,2913,4756,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1515,1984,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1521800,1521816,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,2632,3039,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,5561,8666,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,6235,7859,Correct China confirmed data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,6,7,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,7,10,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,8,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,13,16,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,4512,4513,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,13,61,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,0,63,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,3,5,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,8,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,595,596,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,0,1,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,5,11,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,3,4,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,6,7,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,7,11,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,8,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,13,16,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,4512,4515,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,13,61,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,0,135,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,3,5,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,8,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,595,596,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,0,1,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,5,11,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,3,4,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,6,7,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,7,11,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,8,10,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,13,16,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,4512,4515,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,13,61,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,0,213,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,3,5,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,8,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,595,596,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,0,1,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,5,11,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,3,4,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,6,7,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,7,11,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,8,10,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,13,18,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,4512,4515,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,1,2,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,13,61,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,0,296,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,3,5,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,8,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,595,596,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,0,1,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,5,11,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,3,4,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,1,3,Correct China deaths data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,2989,3009,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,3390,3098,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,3911,3205,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,8131,3282,Correct China confirmed data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,61,63,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,61,72,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,61,78,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,61,83,Correct China deaths data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,1700,1699,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,27845,27063,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,9767,9380,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,7467,7253,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,1562,1561,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,61178,59190,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,2443,2440,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,1778,1777,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,10432,10425,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,2914,2891,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,5467,5438,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,9011,8927,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,2749,2541,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,8386,8335,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,3788,3782,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,1686,1549,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,3081,3076,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,1569,1472,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,531,529,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,5536,5493,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,4751,4678,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,65262,65126,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,5064,5047,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,11816,11634,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,2777,2737,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,5277,5118,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/19/2022,6161,6074,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/20/2022,40485,40480,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/20/2022,1659,1569,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,28860,27845,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,10181,9767,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,7651,7467,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,1563,1562,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,63739,61178,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,2457,2443,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,1794,1778,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,10436,10432,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,2943,2914,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,5493,5467,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,9089,9011,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,2983,2749,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,8394,8386,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,3808,3788,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,1971,1686,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,3086,3081,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,1755,1659,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,542,531,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,5589,5536,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,4797,4751,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,65423,65262,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,5142,5064,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,12023,11816,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,2913,2777,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,5561,5277,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/21/2022,6235,6161,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,29410,28860,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,10452,10181,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,7961,7651,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,1565,1563,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,65379,63739,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,2472,2457,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,1795,1794,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,10445,10436,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,2958,2943,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,5536,5493,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,9123,9089,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,68973,68861,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,3076,2983,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,8410,8394,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,3810,3808,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,1994,1971,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,3088,3086,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,1819,1755,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,240,239,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,544,542,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,5614,5589,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,4821,4797,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,65510,65423,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,5160,5142,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,12134,12023,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,2971,2913,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,1516,1515,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,5825,5561,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/22/2022,6267,6235,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,29994,29410,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,10735,10452,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,8299,7961,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,67122,65379,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,2482,2472,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,10447,10445,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,2971,2958,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,5549,5536,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,9156,9123,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,69231,68973,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,3185,3076,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,8419,8410,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,3811,3810,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,2026,1994,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,3089,3088,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,1851,1819,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,241,240,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,549,544,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,5649,5614,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,4852,4821,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,65597,65510,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,5212,5160,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,12231,12134,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,3022,2971,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,1517,1516,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,6134,5825,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/23/2022,6297,6267,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,1703,1700,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,30301,29994,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,10969,10735,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,8443,8299,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,68517,67122,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,2486,2482,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,1796,1795,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,10449,10447,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,2982,2971,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,5565,5549,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,9194,9156,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,69403,69231,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,3275,3185,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,8423,8419,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,3815,3811,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,2030,2026,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,1901,1851,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,554,549,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,5676,5649,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,4889,4852,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,65640,65597,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,5257,5212,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,12354,12231,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,3074,3022,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,1522,1517,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,6328,6134,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/24/2022,6320,6297,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,1705,1703,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,30643,30301,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,11150,10969,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,8585,8443,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,1567,1565,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,69704,68517,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,2490,2486,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,1797,1796,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,10452,10449,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,2996,2982,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,5583,5565,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,9227,9194,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,69558,69403,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,3362,3275,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,8427,8423,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,3816,3815,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,2042,2030,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,3090,3089,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,1950,1901,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,556,554,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,5688,5676,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,4914,4889,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,65690,65640,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,5306,5257,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,12423,12354,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,3132,3074,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,2638,2632,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,6517,6328,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/25/2022,6339,6320,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,31273,30643,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,11433,11150,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,8802,8585,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,71702,69704,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,2495,2490,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,1800,1797,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,10455,10452,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,3010,2996,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,5620,5583,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,9265,9227,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,69814,69558,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,3505,3362,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,8431,8427,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,3820,3816,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,2075,2042,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,3093,3090,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,1984,1950,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,255,241,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,563,556,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,5715,5688,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,4936,4914,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,65782,65690,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,5379,5306,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,12584,12423,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,3183,3132,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,6807,6517,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/26/2022,6367,6339,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,1706,1705,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,32167,31273,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,11704,11433,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,9147,8802,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,1568,1567,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,74017,71702,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,2497,2495,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,1807,1800,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,10457,10455,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,3023,3010,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,5661,5620,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,9300,9265,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,70014,69814,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,3710,3505,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,8468,8431,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,3821,3820,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,2111,2075,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,2058,1984,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,275,255,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,570,563,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,5754,5715,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,4962,4936,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,65858,65782,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,5446,5379,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,12710,12584,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,3242,3183,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,2644,2638,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,7185,6807,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/27/2022,6388,6367,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,1724,1706,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,33163,32167,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,12019,11704,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,9495,9147,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,1569,1568,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,76260,74017,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,2518,2497,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,1810,1807,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,10459,10457,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,3037,3023,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,5690,5661,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,9334,9300,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,70212,70014,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,3923,3710,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,8502,8468,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,2199,2111,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,3096,3093,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,2144,2058,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,290,275,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,578,570,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,5767,5754,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,4966,4962,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,65940,65858,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,5558,5446,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,12804,12710,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,3339,3242,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,2653,2644,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,7272,7185,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/28/2022,6409,6388,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,1728,1724,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,34071,33163,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,12350,12019,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,10015,9495,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,78678,76260,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,2559,2518,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,1811,1810,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,10461,10459,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,3049,3037,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,5714,5690,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,9369,9334,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,70466,70212,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,4183,3923,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,8512,8502,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,2275,2199,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,3139,3096,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,2232,2144,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,321,290,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,580,578,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,5789,5767,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,4992,4966,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,66008,65940,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,5699,5558,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,12924,12804,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,3402,3339,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,2663,2653,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,7340,7272,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/29/2022,6434,6409,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,1733,1728,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,35308,34071,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,12704,12350,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,10515,10015,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,81453,78678,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,2805,2559,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,10463,10461,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,3062,3049,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,5777,5714,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,9398,9369,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,70773,70466,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,4470,4183,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,8518,8512,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,3853,3821,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,2394,2275,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,40492,40485,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,3216,3139,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,2377,2232,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,416,321,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,582,580,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,5909,5789,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,5004,4992,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,66084,66008,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,5846,5699,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,13032,12924,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,3449,3402,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,2685,2663,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,7834,7340,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/30/2022,6456,6434,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,1743,1733,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,36026,35308,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,12976,12704,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,11077,10515,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,1572,1569,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,83268,81453,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,3204,2805,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,1818,1811,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,10465,10463,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,3075,3062,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,5821,5777,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,9425,9398,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,70876,70773,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,4621,4470,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,8524,8518,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,3879,3853,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,2468,2394,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,40499,40492,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,3278,3216,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,2501,2377,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,474,416,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,6120,5909,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,5020,5004,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,66144,66084,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,5918,5846,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,13212,13032,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,3511,3449,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,7996,7834,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,12/31/2022,6472,6456,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,1745,1743,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,36466,36026,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,13242,12976,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,11589,11077,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,84840,83268,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,3477,3204,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,1906,1818,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,10467,10465,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,3086,3075,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,5908,5821,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,9448,9425,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,70988,70876,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,4846,4621,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,8541,8524,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,3897,3879,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,2530,2468,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,40529,40499,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,3330,3278,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,2615,2501,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,554,474,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,6292,6120,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,5035,5020,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,66213,66144,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,5986,5918,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,13337,13212,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,3576,3511,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,2709,2685,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,8095,7996,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/01/2023,6486,6472,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,1751,1745,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,36877,36466,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,13478,13242,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,12090,11589,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,86687,84840,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,3860,3477,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,1950,1906,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,3099,3086,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,5948,5908,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,9469,9448,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,71125,70988,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,5074,4846,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,8564,8541,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,3902,3897,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,2621,2530,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,40559,40529,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,3367,3330,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,2693,2615,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,617,554,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,655,582,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,6467,6292,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,5042,5035,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,66247,66213,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,6095,5986,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,13430,13337,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,3645,3576,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,2741,2709,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,8183,8095,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/02/2023,6526,6486,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,1759,1751,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,37697,36877,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,13740,13478,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,12822,12090,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,89606,86687,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,4550,3860,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,2043,1950,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,10469,10467,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,3114,3099,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,6033,5948,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,9500,9469,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,71269,71125,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,5416,5074,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,8614,8564,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,3904,3902,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,2754,2621,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,40588,40559,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,3407,3367,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,2803,2693,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,719,617,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,6611,6467,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,5108,5042,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,66374,66247,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,6274,6095,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,13634,13430,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,3821,3645,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,1531,1522,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,2831,2741,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,8333,8183,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/03/2023,6571,6526,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,1762,1759,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,38495,37697,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,13954,13740,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,13629,12822,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,1576,1572,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,93018,89606,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,5835,4550,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,2133,2043,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,3150,3114,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,6114,6033,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,9591,9500,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,71443,71269,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,5853,5416,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,8640,8614,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,3931,3904,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,2904,2754,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,40646,40588,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,3443,3407,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,2907,2803,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,793,719,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,6733,6611,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,5171,5108,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,66884,66374,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,6498,6274,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,13758,13634,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,3947,3821,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,1539,1531,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,2931,2831,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,8508,8333,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/04/2023,6624,6571,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1763,1762,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,39335,38495,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,14189,13954,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,14553,13629,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1580,1576,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,96165,93018,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,7642,5835,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,2202,2133,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,10471,10469,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,3179,3150,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,6219,6114,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,9639,9591,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,71695,71443,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,6266,5853,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,8677,8640,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,3954,3931,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,3066,2904,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,40683,40646,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,3477,3443,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,3009,2907,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,3802,793,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,780,655,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,5303,5171,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,66968,66884,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,6623,6498,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,14010,13758,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,4132,3947,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1693,1539,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,1521816,1521800,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,2934,2931,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,8560,8508,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/05/2023,6793,6624,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,40243,39335,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,14463,14189,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,15787,14553,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1616,1580,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,99673,96165,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,9471,7642,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,2338,2202,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,10472,10471,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,3215,3179,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,6347,6219,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,9719,9639,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,71924,71695,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,6649,6266,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,8697,8677,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,3983,3954,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,3243,3066,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,40712,40683,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,3502,3477,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,3098,3009,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,6900,918,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,960,655,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,6733,6865,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,5423,5255,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,67046,67009,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,6636,6750,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,14225,13943,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,4302,4101,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,1838,1542,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,2977,2983,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,8616,8677,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/06/2023,6994,6706,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1768,1763,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,40546,40243,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,14596,14463,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,16386,15787,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1622,1616,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,101510,99673,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,11517,9471,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,2387,2338,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,3250,3215,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,6498,6347,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,9767,9719,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,72029,71924,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,6865,6649,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,8719,8697,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,3984,3983,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,3316,3243,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,40747,40712,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,3526,3502,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,3205,3098,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,10105,1098,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1089,655,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,6851,6985,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,5506,5333,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,67152,67022,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,6644,6965,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,14337,14113,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,4380,4246,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,1914,1585,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,2984,3039,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,8635,8878,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/07/2023,7123,7107,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,2275,1768,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,40774,40546,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,14715,14596,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,17122,16386,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1742,1622,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,103248,101510,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,13371,11517,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,2534,2387,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,10483,10472,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,3292,3250,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,6603,6498,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,9948,9767,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,72131,72029,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,7437,6865,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,8847,8719,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,5075,3984,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,3423,3316,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,40764,40747,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,3547,3526,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,3282,3205,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,13387,1227,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1138,773,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,6860,7068,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,5764,5439,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,67593,67030,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,6654,7077,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,14427,14191,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,4756,4322,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,1984,1592,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,3039,3058,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,8666,9007,Correct China confirmed data
+01/09/2023,time_series_covid19_confirmed_global.csv,China,01/08/2023,7859,7628,Correct China confirmed data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/18/2022,11,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/19/2022,20,13,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/19/2022,13,11,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/20/2022,16,13,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/21/2022,17,16,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/22/2022,18,17,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/23/2022,19,18,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/25/2022,21,19,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/26/2022,23,21,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/26/2022,6,5,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/27/2022,8,7,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/27/2022,30,23,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/27/2022,5,3,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/28/2022,7,6,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/28/2022,32,30,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/29/2022,2,1,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/29/2022,33,32,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/30/2022,9,8,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/30/2022,38,33,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/31/2022,45,38,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,12/31/2022,7,6,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/01/2023,47,45,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/01/2023,8,7,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/02/2023,14,13,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/02/2023,52,47,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/02/2023,10,8,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/03/2023,9,8,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/03/2023,15,14,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/03/2023,4513,4512,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/03/2023,56,52,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/03/2023,9,8,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/03/2023,11,10,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/04/2023,61,56,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/04/2023,1,0,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,10,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,16,15,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,2,1,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,63,61,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,63,0,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,596,595,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/05/2023,4,3,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,11,10,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,4515,4513,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,72,63,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,135,0,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,9,10,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,596,595,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,11,12,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/06/2023,4,3,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,10,9,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,78,72,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,213,0,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,9,10,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,596,595,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,11,12,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,4,3,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/07/2023,2,1,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,18,16,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,83,78,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,296,0,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,9,10,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,596,595,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,11,12,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,4,3,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,2,3,Correct China deaths data
+01/09/2023,time_series_covid19_deaths_global.csv,China,01/08/2023,3,1,Correct China deaths data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,1700,2275,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,28860,40774,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,10181,14715,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,7651,17122,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,1563,1742,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,63739,103248,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,2457,13371,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,1794,2534,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,10436,10483,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,2943,3292,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,5493,6603,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,9089,9948,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,68861,72131,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,2983,7437,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,8394,8847,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,3808,5075,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,1971,3423,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,40485,40764,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,3086,3282,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,1569,3547,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,239,1276,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,542,782,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,5589,7326,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,4797,5880,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,65423,67040,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,5142,7167,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,12023,14567,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,2913,4392,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,1515,1647,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,1521800,1521816,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,2632,3089,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,5561,9743,Correct China confirmed data
+01/10/2023,time_series_covid19_confirmed_global.csv,China,01/09/2023,6235,11848,Correct China confirmed data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,6,7,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,7,11,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,1,2,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,8,10,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,13,18,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,4512,4515,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,1,2,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,2,83,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,13,2,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,3,5,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,8,10,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,0,1,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,5,12,Correct China deaths data
+01/10/2023,time_series_covid19_deaths_global.csv,China,01/09/2023,2,4,Correct China deaths data
+01/10/2023,time_series_covid19_confirmed_global.csv,Philippines,01/03/2023,4200225,4065173,Correct Philippines confirmed data
+01/12/2023,time_series_covid19_confirmed_US.csv,"Apache, Arizona, US",01/11/2023,35308,35456,"Correct Apache, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Cochise, Arizona, US",01/11/2023,38452,38635,"Correct Cochise, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Coconino, Arizona, US",01/11/2023,52175,52262,"Correct Coconino, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Gila, Arizona, US",01/11/2023,21099,21187,"Correct Gila, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Graham, Arizona, US",01/11/2023,13943,13979,"Correct Graham, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Greenlee, Arizona, US",01/11/2023,2681,2693,"Correct Greenlee, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"La Paz, Arizona, US",01/11/2023,5904,5915,"Correct La Paz, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Maricopa, Arizona, US",01/11/2023,1487914,1492148,"Correct Maricopa, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Mohave, Arizona, US",01/11/2023,66405,66586,"Correct Mohave, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Navajo, Arizona, US",01/11/2023,47385,47578,"Correct Navajo, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Pima, Arizona, US",01/11/2023,310365,311536,"Correct Pima, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Pinal, Arizona, US",01/11/2023,154260,154718,"Correct Pinal, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Santa Cruz, Arizona, US",01/11/2023,19400,19444,"Correct Santa Cruz, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Yavapai, Arizona, US",01/11/2023,59137,59402,"Correct Yavapai, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_confirmed_US.csv,"Yuma, Arizona, US",01/11/2023,70093,70356,"Correct Yuma, Arizona, US confirmed data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Apache, Arizona, US",01/11/2023,636,638,"Correct Apache, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Cochise, Arizona, US",01/11/2023,626,631,"Correct Cochise, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Coconino, Arizona, US",01/11/2023,513,516,"Correct Coconino, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Gila, Arizona, US",01/11/2023,411,412,"Correct Gila, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"La Paz, Arizona, US",01/11/2023,155,157,"Correct La Paz, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Maricopa, Arizona, US",01/11/2023,18416,18520,"Correct Maricopa, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Mohave, Arizona, US",01/11/2023,1612,1626,"Correct Mohave, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Navajo, Arizona, US",01/11/2023,961,963,"Correct Navajo, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Pima, Arizona, US",01/11/2023,4169,4198,"Correct Pima, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Pinal, Arizona, US",01/11/2023,1772,1785,"Correct Pinal, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Santa Cruz, Arizona, US",01/11/2023,242,243,"Correct Santa Cruz, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Yavapai, Arizona, US",01/11/2023,1341,1351,"Correct Yavapai, Arizona, US deaths data"
+01/12/2023,time_series_covid19_deaths_US.csv,"Yuma, Arizona, US",01/11/2023,1231,1237,"Correct Yuma, Arizona, US deaths data"
+01/12/2023,time_series_covid19_confirmed_global.csv,US,01/11/2023,101511946,101519320,Correct US confirmed data
+01/12/2023,time_series_covid19_deaths_global.csv,US,01/11/2023,1098512,1098704,Correct US deaths data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/01/2023,4721808,4723919,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/02/2023,4723618,4723919,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/03/2023,4723618,4723919,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/04/2023,4723618,4723919,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/05/2023,4723618,4723919,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/06/2023,4723618,4723919,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/07/2023,4723618,4723919,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/08/2023,4723618,4724916,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/09/2023,4723618,4724916,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/10/2023,4752782,4724916,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/11/2023,4752782,4724916,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/12/2023,4752782,4724916,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/13/2023,4752782,4724916,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/14/2023,4752782,4724916,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/15/2023,4752782,4725885,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/16/2023,4752782,4725885,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/17/2023,4752782,4725885,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/18/2023,4752782,4725885,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/19/2023,4752782,4725885,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/20/2023,4752782,4725885,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/21/2023,4752782,4725885,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_confirmed_global.csv,Thailand,01/22/2023,4752782,4725885,Correct Thailand confirmed data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/01/2023,33594,33669,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/02/2023,33650,33669,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/03/2023,33650,33669,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/04/2023,33650,33669,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/05/2023,33650,33669,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/06/2023,33650,33669,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/07/2023,33650,33669,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/08/2023,33650,33727,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/09/2023,33650,33727,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/10/2023,34668,33727,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/11/2023,34668,33727,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/12/2023,34668,33727,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/13/2023,34668,33727,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/14/2023,34668,33727,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/15/2023,34668,33792,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/16/2023,34668,33792,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/17/2023,34668,33792,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/18/2023,34668,33792,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/19/2023,34668,33792,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/20/2023,34668,33792,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/21/2023,34668,33792,Correct Thailand deaths data
+01/23/2023,time_series_covid19_deaths_global.csv,Thailand,01/22/2023,34668,33792,Correct Thailand deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/12/2023,0,59895,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/13/2023,0,59895,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/14/2023,0,59895,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/15/2023,0,59895,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/16/2023,0,59895,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/17/2023,0,59895,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/18/2023,0,59895,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/19/2023,0,72553,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/20/2023,0,72553,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/21/2023,0,72553,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/22/2023,0,72553,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/23/2023,0,72553,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/24/2023,0,72553,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/12/2023,59895,0,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/13/2023,59895,0,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/14/2023,59895,0,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/19/2023,72553,59895,Correct China deaths data
+01/25/2023,time_series_covid19_deaths_global.csv,China,01/20/2023,72553,59895,Correct China deaths data
+01/26/2023,time_series_covid19_deaths_global.csv,China,01/25/2023,53932,72553,Correct China deaths data
+01/26/2023,time_series_covid19_confirmed_US.csv,"Adams, Washington, US",01/25/2023,5581,5596,"Correct Adams, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Asotin, Washington, US",01/25/2023,5536,5543,"Correct Asotin, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Benton, Washington, US",01/25/2023,61345,61481,"Correct Benton, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Chelan, Washington, US",01/25/2023,23939,23975,"Correct Chelan, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Clallam, Washington, US",01/25/2023,15573,15599,"Correct Clallam, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Clark, Washington, US",01/25/2023,110651,110916,"Correct Clark, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Columbia, Washington, US",01/25/2023,740,742,"Correct Columbia, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Cowlitz, Washington, US",01/25/2023,27080,27120,"Correct Cowlitz, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Douglas, Washington, US",01/25/2023,13196,13213,"Correct Douglas, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Ferry, Washington, US",01/25/2023,1786,1787,"Correct Ferry, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Franklin, Washington, US",01/25/2023,36536,36602,"Correct Franklin, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Garfield, Washington, US",01/25/2023,494,495,"Correct Garfield, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Grant, Washington, US",01/25/2023,31022,31081,"Correct Grant, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Grays Harbor, Washington, US",01/25/2023,20199,20234,"Correct Grays Harbor, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Island, Washington, US",01/25/2023,13492,13522,"Correct Island, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Jefferson, Washington, US",01/25/2023,4740,4751,"Correct Jefferson, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"King, Washington, US",01/25/2023,541429,542740,"Correct King, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Kitsap, Washington, US",01/25/2023,51684,51842,"Correct Kitsap, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Kittitas, Washington, US",01/25/2023,10269,10293,"Correct Kittitas, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Klickitat, Washington, US",01/25/2023,4288,4295,"Correct Klickitat, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Lewis, Washington, US",01/25/2023,20615,20641,"Correct Lewis, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Lincoln, Washington, US",01/25/2023,2648,2649,"Correct Lincoln, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Mason, Washington, US",01/25/2023,15583,15619,"Correct Mason, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Okanogan, Washington, US",01/25/2023,10445,10467,"Correct Okanogan, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Pacific, Washington, US",01/25/2023,4791,4799,"Correct Pacific, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Pierce, Washington, US",01/25/2023,241341,242108,"Correct Pierce, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"San Juan, Washington, US",01/25/2023,1959,1974,"Correct San Juan, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Skagit, Washington, US",01/25/2023,28172,28265,"Correct Skagit, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Skamania, Washington, US",01/25/2023,1782,1788,"Correct Skamania, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Snohomish, Washington, US",01/25/2023,201554,202170,"Correct Snohomish, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Spokane, Washington, US",01/25/2023,151903,152351,"Correct Spokane, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Stevens, Washington, US",01/25/2023,9899,9936,"Correct Stevens, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Thurston, Washington, US",01/25/2023,62214,62425,"Correct Thurston, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Unassigned, Washington, US",01/25/2023,3316,3292,"Correct Unassigned, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Wahkiakum, Washington, US",01/25/2023,633,635,"Correct Wahkiakum, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Walla Walla, Washington, US",01/25/2023,18699,18753,"Correct Walla Walla, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Whatcom, Washington, US",01/25/2023,48692,48791,"Correct Whatcom, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Whitman, Washington, US",01/25/2023,9971,10005,"Correct Whitman, Washington, US confirmed data"
+01/26/2023,time_series_covid19_confirmed_US.csv,"Yakima, Washington, US",01/25/2023,82649,82748,"Correct Yakima, Washington, US confirmed data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Asotin, Washington, US",01/25/2023,86,85,"Correct Asotin, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Clallam, Washington, US",01/25/2023,201,204,"Correct Clallam, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Clark, Washington, US",01/25/2023,1016,1024,"Correct Clark, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Cowlitz, Washington, US",01/25/2023,408,410,"Correct Cowlitz, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Island, Washington, US",01/25/2023,116,117,"Correct Island, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"King, Washington, US",01/25/2023,3424,3444,"Correct King, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Kitsap, Washington, US",01/25/2023,408,409,"Correct Kitsap, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Lewis, Washington, US",01/25/2023,292,293,"Correct Lewis, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Mason, Washington, US",01/25/2023,174,177,"Correct Mason, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Pacific, Washington, US",01/25/2023,75,78,"Correct Pacific, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Pierce, Washington, US",01/25/2023,1581,1582,"Correct Pierce, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"San Juan, Washington, US",01/25/2023,4,3,"Correct San Juan, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Skagit, Washington, US",01/25/2023,261,262,"Correct Skagit, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Snohomish, Washington, US",01/25/2023,1413,1422,"Correct Snohomish, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Spokane, Washington, US",01/25/2023,1646,1656,"Correct Spokane, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Thurston, Washington, US",01/25/2023,505,506,"Correct Thurston, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Walla Walla, Washington, US",01/25/2023,171,173,"Correct Walla Walla, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Whatcom, Washington, US",01/25/2023,367,370,"Correct Whatcom, Washington, US deaths data"
+01/26/2023,time_series_covid19_deaths_US.csv,"Whitman, Washington, US",01/25/2023,98,99,"Correct Whitman, Washington, US deaths data"
+01/26/2023,time_series_covid19_confirmed_global.csv,US,01/25/2023,102181853,102186650,Correct US confirmed data
+01/26/2023,time_series_covid19_deaths_global.csv,US,01/25/2023,1106524,1106592,Correct US deaths data
