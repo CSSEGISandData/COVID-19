@@ -1,11 +1,12 @@
 ---
 title: "COVID-19 and Bitcoin Prices"
 author: "Alston Rice"
-date: "`r Sys.Date()`"
+date: '`r Sys.Date()`'
 output:
-  pdf_document: default
+  word_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -14,28 +15,27 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Synopsis 
 
-This is the overview section ~ 250 words to describe the paper in terms of key hypotheses,  conclusions, and potential future research. 
+* point 1
+* point 2
 
 ## Background
 
-This section summarizes relevant literature as an introduction / setup for hypotheses to be tested in the paper. 
+* background point 1
+* background point 2
+* background point 3
 
 
 ## Research Questions
 
-Given the literature review as context, describe the major hypotheses to be tested in the paper. Include one or more null hypotheses, and for each null hypothesis provide one or more alternate hypotheses. Then explain the types of data needed to test each hypothesis. 
-
-Discuss whether the purpose of the analysis is to be descriptive (explains the data that was collected), inferential (makes inferences about a larger population based on analysis of a sample), or predictive (uses existing data to predict future values) and your reasons for choosing one type of analysis over others. 
+* research question point 1
+* research question point
 
 ## Data Sources & Cleaning
 
-This section explains the sources of data, why they were chosen, their limitations and steps taken to clean / subset / eliminate missing values. For example, with the Johns Hopkins COVID-19 data, consider the following items:
-
-* Data elements collected changed over time
-* Data elements were cumulative numbers, requiring additional processing to derive daily counts
-* Country specific data correction processes resulted in anomalies in the data, such as negative daily counts for deaths or confirmed cases
-
-For the Bitcoin data, explain the source of the financial info (quantmod R package plus Google or Yahoo! Finance website). 
+* Data source: JHU data
+* Data Source: bitcoin data
+* cleaning issues: JHU data
+* Etc. 
 
 ## Exploratory / Descriptive Analysis
 
@@ -46,6 +46,8 @@ Provide some exploratory data analysis / visualizations to illustrate / describe
 Conduct the analysis, summarizing into tables that are standard for journal articles given the type of data analysis. For example, a regression analysis might include a table of effects / effect sizes and p-values, along with one or more goodness-of-fit measures.
 
 Discuss whether to accept or reject null hypotheses, and why they were accepted or rejected. In addition to statistical significane, explain the substantive meaning of the results. 
+
+$\sum_i^n - e_ix_i - \sum_i^ne_i\bar x_i$
 
 ## Conclusions & Implications for Future Research
 
