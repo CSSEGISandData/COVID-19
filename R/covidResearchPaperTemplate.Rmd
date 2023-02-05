@@ -37,7 +37,7 @@ This section explains the sources of data, why they were chosen, their limitatio
 
 For the Bitcoin data, explain the source of the financial info (quantmod R package plus Google or Yahoo! Finance website). 
 
-## Exploratory Analysis
+## Exploratory / Descriptive Analysis
 
 Provide some exploratory data analysis / visualizations to illustrate / describe features of the data to be analyzed.
 
