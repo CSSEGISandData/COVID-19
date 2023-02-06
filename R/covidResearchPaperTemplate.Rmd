@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 and Bitcoin Prices"
-author: "Alston Rice"
+author: "<author's name>"
 date: '`r Sys.Date()`'
 output:
   word_document: default
@@ -45,9 +45,9 @@ Provide some exploratory data analysis / visualizations to illustrate / describe
 
 Conduct the analysis, summarizing into tables that are standard for journal articles given the type of data analysis. For example, a regression analysis might include a table of effects / effect sizes and p-values, along with one or more goodness-of-fit measures.
 
-Discuss whether to accept or reject null hypotheses, and why they were accepted or rejected. In addition to statistical significane, explain the substantive meaning of the results. 
+Discuss whether to accept or reject null hypotheses, and why they were accepted or rejected. In addition to statistical significane, explain the substantive meaning of the results. If you need to write equations, you can use the LaTeX equation language as follows:
 
-$\sum_i^n - e_ix_i - \sum_i^ne_i\bar x_i$
+$\sum_i^n e_iXi = \sum_i^n e_iXi - \sum_i^ne_i\bar Xi$ 
 
 ## Conclusions & Implications for Future Research
 
