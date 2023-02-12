@@ -151,7 +151,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Mount Pleasant](https://www.mpcity.net/632/COVID-19-UPDATES)
     - [Montgomery County](https://coronavirus-response-moco.hub.arcgis.com/)
     - [Potter County](https://covid-data-amarillo.hub.arcgis.com/)
-      - We are aware that the totals reported on our dashboard do not match the headline numbers on the dashboard frontend. We can confirm that our numbers match the dashboard backend and the totals within the graphs on the site. We do not know why there is a discrepancy and have reached out to the county for further information.
+      - ~~We are aware that the totals reported on our dashboard do not match the headline numbers on the dashboard frontend. We can confirm that our numbers match the dashboard backend and the totals within the graphs on the site. We do not know why there is a discrepancy and have reached out to the county for further information.~~
     - [San Angelo 1](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0)
     - [San Angelo 2](https://www.gosanangelo.com/)
     - [San Antonio](https://covid19.sanantonio.gov/Home)
