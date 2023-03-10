@@ -265,7 +265,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29023,Butler,Missouri,US,2020-04-07 23:04:49,36.71462476,-90.40421163,5,0,0,5,"Butler, Missouri, US"
 39017,Butler,Ohio,US,2020-04-07 23:04:49,39.44012838,-84.57388716,92,3,0,89,"Butler, Ohio, US"
 42019,Butler,Pennsylvania,US,2020-04-07 23:04:49,40.91152759,-79.91351055,109,2,0,107,"Butler, Pennsylvania, US"
-6007,Butte,California,US,2020-04-07 23:04:49,39.66727762,-121.6005252,12,0,0,12,"Butte, California, US"
+6007,Butte,California,US,2020-04-07 23:04:49,39.66727762,-121.6005252,13,0,0,12,"Butte, California, US"
 46019,Butte,South Dakota,US,2020-04-07 23:04:49,44.90608745,-103.5079318,0,0,0,0,"Butte, South Dakota, US"
 13035,Butts,Georgia,US,2020-04-07 23:04:49,33.283094500000004,-83.95435040000002,17,0,0,17,"Butts, Georgia, US"
 37025,Cabarrus,North Carolina,US,2020-04-07 23:04:49,35.3877799,-80.55267168,81,1,0,80,"Cabarrus, North Carolina, US"
@@ -1210,7 +1210,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 51101,King William,Virginia,US,2020-04-07 23:04:49,37.70965316,-77.09384941,2,0,0,2,"King William, Virginia, US"
 51097,King and Queen,Virginia,US,2020-04-07 23:04:49,37.71044922,-76.88689628,1,0,0,1,"King and Queen, Virginia, US"
 40073,Kingfisher,Oklahoma,US,2020-04-07 23:04:49,35.94530008,-97.94193268,3,0,0,3,"Kingfisher, Oklahoma, US"
-6031,Kings,California,US,2020-04-07 23:04:49,36.07409056,-119.8159973,6,0,0,6,"Kings, California, US"
+6031,Kings,California,US,2020-04-07 23:04:49,36.07409056,-119.8159973,5,0,0,6,"Kings, California, US"
 46077,Kingsbury,South Dakota,US,2020-04-07 23:04:49,44.36956169,-97.4913945,0,0,0,0,"Kingsbury, South Dakota, US"
 40075,Kiowa,Oklahoma,US,2020-04-07 23:04:49,34.91671958,-98.97720696,1,0,0,1,"Kiowa, Oklahoma, US"
 8063,Kit Carson,Colorado,US,2020-04-07 23:04:49,39.30497777,-102.60221990000001,8,1,0,5,"Kit Carson, Colorado, US"
@@ -1890,7 +1890,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 40125,Pottawatomie,Oklahoma,US,2020-04-07 23:04:49,35.20614018,-96.94923008,19,1,0,18,"Pottawatomie, Oklahoma, US"
 19155,Pottawattamie,Iowa,US,2020-04-07 23:04:49,41.33640314,-95.53907776,9,0,0,9,"Pottawattamie, Iowa, US"
 42105,Potter,Pennsylvania,US,2020-04-07 23:04:49,41.74471626,-77.89559864,3,0,0,3,"Potter, Pennsylvania, US"
-48375,Potter,Texas,US,2020-04-07 23:04:49,35.40133773,-101.893964,52,1,0,40,"Potter, Texas, US"
+48375,Potter,Texas,US,2020-04-07 23:04:49,35.40133773,-101.893964,64,11,0,40,"Potter, Texas, US"
 21197,Powell,Kentucky,US,2020-04-07 23:04:49,37.83218794,-83.82553961,1,0,0,1,"Powell, Kentucky, US"
 19157,Poweshiek,Iowa,US,2020-04-07 23:04:49,41.68625425,-92.53155731,6,1,0,5,"Poweshiek, Iowa, US"
 51145,Powhatan,Virginia,US,2020-04-07 23:04:49,37.55016038,-77.91267882,4,0,0,4,"Powhatan, Virginia, US"
@@ -2738,7 +2738,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,France,2020-04-07 23:04:29,46.2276,2.2137,77302,10315,19337,47650,France
 ,,,Gabon,2020-04-07 23:04:29,-0.8037,11.6094,30,1,1,28,Gabon
 ,,,Gambia,2020-04-07 23:04:29,13.4432,-15.3101,4,1,2,1,Gambia
-,,,Georgia,2020-04-07 23:04:29,42.3154,43.3569,196,3,46,147,Georgia
+,,,Georgia,2020-04-07 23:04:29,42.3154,43.3569,196,2,46,147,Georgia
 ,,,Germany,2020-04-07 23:04:29,51.165690999999995,10.451526,107663,2016,36081,69566,Germany
 ,,,Ghana,2020-04-07 23:04:29,7.9465,-1.0232,287,5,31,251,Ghana
 ,,,Greece,2020-04-07 23:04:29,39.0742,21.8243,1832,81,269,1482,Greece

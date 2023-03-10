@@ -301,7 +301,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31023,Butler,Nebraska,US,2020-05-09 02:32:35,41.22703692,-97.13106306,15,0,0,15,"Butler, Nebraska, US"
 39017,Butler,Ohio,US,2020-05-09 02:32:35,39.44012838,-84.57388716,404,17,0,387,"Butler, Ohio, US"
 42019,Butler,Pennsylvania,US,2020-05-09 02:32:35,40.91152759,-79.91351055,183,6,0,177,"Butler, Pennsylvania, US"
-6007,Butte,California,US,2020-05-09 02:32:35,39.66727762,-121.6005252,19,0,0,19,"Butte, California, US"
+6007,Butte,California,US,2020-05-09 02:32:35,39.66727762,-121.6005252,22,0,0,19,"Butte, California, US"
 46019,Butte,South Dakota,US,2020-05-09 02:32:35,44.90608745,-103.5079318,0,0,0,0,"Butte, South Dakota, US"
 13035,Butts,Georgia,US,2020-05-09 02:32:35,33.283094500000004,-83.95435040000002,171,17,0,154,"Butts, Georgia, US"
 37025,Cabarrus,North Carolina,US,2020-05-09 02:32:35,35.3877799,-80.55267168,338,17,0,321,"Cabarrus, North Carolina, US"
@@ -388,7 +388,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-05-09 02:32:35,46.95043611,-94.32603968,7,0,0,7,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-05-09 02:32:35,38.64789422,-94.353399,65,7,0,58,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-05-09 02:32:35,40.90899107,-96.13971217,9,0,0,9,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-05-09 02:32:35,46.93201724,-97.2444719,783,17,0,735,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-05-09 02:32:35,46.93201724,-97.2444719,782,17,0,735,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-05-09 02:32:35,33.07499881,-94.34646905,10,0,0,17,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-05-09 02:32:35,42.28347888,-113.6012409,13,1,0,12,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-05-09 02:32:35,34.53016752,-102.2617243,17,1,0,21,"Castro, Texas, US"
@@ -914,7 +914,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 16043,Fremont,Idaho,US,2020-05-09 02:32:35,44.22800938,-111.4809943,3,0,0,3,"Fremont, Idaho, US"
 19071,Fremont,Iowa,US,2020-05-09 02:32:35,40.74542720000001,-95.60129045,1,0,0,1,"Fremont, Iowa, US"
 56013,Fremont,Wyoming,US,2020-05-09 02:32:35,43.04183996,-108.6296893,175,0,0,175,"Fremont, Wyoming, US"
-6019,Fresno,California,US,2020-05-09 02:32:35,36.75733899,-119.6466953,862,8,0,850,"Fresno, California, US"
+6019,Fresno,California,US,2020-05-09 02:32:35,36.75733899,-119.6466953,861,8,0,850,"Fresno, California, US"
 48163,Frio,Texas,US,2020-05-09 02:32:35,28.86751206,-99.10804207,21,0,0,25,"Frio, Texas, US"
 31063,Frontier,Nebraska,US,2020-05-09 02:32:35,40.52993007,-100.3924658,1,0,0,1,"Frontier, Nebraska, US"
 5049,Fulton,Arkansas,US,2020-05-09 02:32:35,36.38177105,-91.81729127,3,0,0,3,"Fulton, Arkansas, US"
@@ -1384,7 +1384,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 51101,King William,Virginia,US,2020-05-09 02:32:35,37.70965316,-77.09384941,11,1,0,10,"King William, Virginia, US"
 51097,King and Queen,Virginia,US,2020-05-09 02:32:35,37.71044922,-76.88689628,4,0,0,4,"King and Queen, Virginia, US"
 40073,Kingfisher,Oklahoma,US,2020-05-09 02:32:35,35.94530008,-97.94193268,8,0,0,8,"Kingfisher, Oklahoma, US"
-6031,Kings,California,US,2020-05-09 02:32:35,36.07409056,-119.8159973,237,1,0,236,"Kings, California, US"
+6031,Kings,California,US,2020-05-09 02:32:35,36.07409056,-119.8159973,236,1,0,236,"Kings, California, US"
 46077,Kingsbury,South Dakota,US,2020-05-09 02:32:35,44.36956169,-97.4913945,0,0,0,0,"Kingsbury, South Dakota, US"
 20097,Kiowa,Kansas,US,2020-05-09 02:32:35,37.55848695,-99.2856537,2,0,0,2,"Kiowa, Kansas, US"
 40075,Kiowa,Oklahoma,US,2020-05-09 02:32:35,34.91671958,-98.97720696,6,0,0,6,"Kiowa, Oklahoma, US"
@@ -2156,7 +2156,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 40125,Pottawatomie,Oklahoma,US,2020-05-09 02:32:35,35.20614018,-96.94923008,54,4,0,50,"Pottawatomie, Oklahoma, US"
 19155,Pottawattamie,Iowa,US,2020-05-09 02:32:35,41.33640314,-95.53907776,76,2,0,74,"Pottawattamie, Iowa, US"
 42105,Potter,Pennsylvania,US,2020-05-09 02:32:35,41.74471626,-77.89559864,4,0,0,4,"Potter, Pennsylvania, US"
-48375,Potter,Texas,US,2020-05-09 02:32:35,35.40133773,-101.893964,1070,15,0,1012,"Potter, Texas, US"
+48375,Potter,Texas,US,2020-05-09 02:32:35,35.40133773,-101.893964,1923,42,0,1012,"Potter, Texas, US"
 21197,Powell,Kentucky,US,2020-05-09 02:32:35,37.83218794,-83.82553961,1,0,0,1,"Powell, Kentucky, US"
 16077,Power,Idaho,US,2020-05-09 02:32:35,42.69254894,-112.83957420000002,2,0,0,2,"Power, Idaho, US"
 19157,Poweshiek,Iowa,US,2020-05-09 02:32:35,41.68625425,-92.53155731,78,5,0,73,"Poweshiek, Iowa, US"
@@ -2506,7 +2506,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 32029,Storey,Nevada,US,2020-05-09 02:32:35,39.44875482,-119.5250207,0,0,0,0,"Storey, Nevada, US"
 19169,Story,Iowa,US,2020-05-09 02:32:35,42.03621213,-93.46499005,54,1,0,53,"Story, Iowa, US"
 33017,Strafford,New Hampshire,US,2020-05-09 02:32:35,43.291833,-71.02336013,175,8,0,167,"Strafford, New Hampshire, US"
-38093,Stutsman,North Dakota,US,2020-05-09 02:32:35,46.97962541,-98.95637318,11,0,0,12,"Stutsman, North Dakota, US"
+38093,Stutsman,North Dakota,US,2020-05-09 02:32:35,46.97962541,-98.95637318,12,0,0,12,"Stutsman, North Dakota, US"
 56035,Sublette,Wyoming,US,2020-05-09 02:32:35,42.76558279,-109.9130922,3,0,0,3,"Sublette, Wyoming, US"
 25025,Suffolk,Massachusetts,US,2020-05-09 02:32:35,42.3279514,-71.07850442,14944,683,0,14261,"Suffolk, Massachusetts, US"
 36103,Suffolk,New York,US,2020-05-09 02:32:35,40.88320119,-72.8012172,36223,1568,0,34655,"Suffolk, New York, US"
@@ -3110,7 +3110,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,France,2020-05-09 02:32:35,46.2276,2.2137,175743,26192,54770,94781,France
 ,,,Gabon,2020-05-09 02:32:35,-0.8037,11.6094,620,8,110,502,Gabon
 ,,,Gambia,2020-05-09 02:32:35,13.4432,-15.3101,20,1,9,10,Gambia
-,,,Georgia,2020-05-09 02:32:35,42.3154,43.3569,623,10,288,325,Georgia
+,,,Georgia,2020-05-09 02:32:35,42.3154,43.3569,623,9,288,325,Georgia
 ,,,Germany,2020-05-09 02:32:35,51.165691,10.451526,170588,7510,141700,21378,Germany
 ,,,Ghana,2020-05-09 02:32:35,7.9465,-1.0232,4012,18,323,3671,Ghana
 ,,,Greece,2020-05-09 02:32:35,39.0742,21.8243,2691,150,1374,1167,Greece
