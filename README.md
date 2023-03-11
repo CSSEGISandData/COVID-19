@@ -355,10 +355,25 @@ This list includes a complete list of all sources ever used in the data set, sin
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"></iframe></div>
 ```
 
-<b>Acknowledgements:</b>
-We are grateful to the following organizations for supporting our Center’s COVID-19 mapping and modeling efforts:
-Financial Support: Johns Hopkins University, National Science Foundation (NSF), Bloomberg Philanthropies, Stavros Niarchos Foundation;
-Resource support: AWS, Slack, Github; Technical support: Johns Hopkins Applied Physics Lab (APL), Esri Living Atlas team
+
+<b>Acknowledgements:</b> We would like to express our gratitude to the following organizations for their support of our Centre's COVID-19 mapping and modeling efforts:
+
+- <b>Financial Support:</b><br>
+   - Johns Hopkins University (https://www.jhu.edu/)<br>
+   - National Science Foundation (https://www.nsf.gov/)<br>
+   - Bloomberg Philanthropies (https://www.bloomberg.org/)<br>
+   - Stavros Niarchos Foundation (https://www.snf.org/)
+  
+- <b>Resource Support:</b><br>
+   - Amazon Web Services (https://aws.amazon.com/)<br>
+   - Slack (https://slack.com/intl/en-in)<br>
+   - GitHub (https://github.com/)
+  
+- <b>Technical Support:</b><br>
+   - Johns Hopkins Applied Physics Lab (https://www.jhuapl.edu/)<br>
+   - ArcGIS Living Atlas of the World (https://livingatlas.arcgis.com/en/home/)<br>
+
+
 
 <b>Additional Information about the Visual Dashboard:</b>
 https://systems.jhu.edu/research/public-health/ncov/
