@@ -212,7 +212,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
     - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
   - China:
-    - qq.com: https://news.qq.com/zt2020/page/feiyan.htm#/
+    - ~~qq.com: https://news.qq.com/zt2020/page/feiyan.htm#/~~
     - ~~National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml~~
     - ~~China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm~~
   - Colombia:
