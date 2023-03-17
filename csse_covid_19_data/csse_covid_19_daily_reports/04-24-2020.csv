@@ -1874,7 +1874,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 51135,Nottoway,Virginia,US,2020-04-25 06:30:53,37.1435975,-78.05065922,10,0,0,10,"Nottoway, Virginia, US"
 40105,Nowata,Oklahoma,US,2020-04-25 06:30:53,36.79843529,-95.61902331,17,0,0,17,"Nowata, Oklahoma, US"
 28103,Noxubee,Mississippi,US,2020-04-25 06:30:53,33.11009499,-88.56949061,35,0,0,35,"Noxubee, Mississippi, US"
-48355,Nueces,Texas,US,2020-04-25 06:30:53,27.736286,-97.5433285,98,1,0,90,"Nueces, Texas, US"
+48355,Nueces,Texas,US,2020-04-25 06:30:53,27.736286,-97.5433285,98,0,0,90,"Nueces, Texas, US"
 32023,Nye,Nevada,US,2020-04-25 06:30:53,38.04264256,-116.4722702,31,0,0,31,"Nye, Nevada, US"
 19141,O'Brien,Iowa,US,2020-04-25 06:30:53,43.08310673,-95.62474482,5,0,0,5,"O'Brien, Iowa, US"
 26125,Oakland,Michigan,US,2020-04-25 06:30:53,42.66090111,-83.38595416,6804,585,0,6219,"Oakland, Michigan, US"

@@ -69323,3 +69323,871 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/26/2023,time_series_covid19_deaths_US.csv,"Whitman, Washington, US",01/25/2023,98,99,"Correct Whitman, Washington, US deaths data"
 01/26/2023,time_series_covid19_confirmed_global.csv,US,01/25/2023,102181853,102186650,Correct US confirmed data
 01/26/2023,time_series_covid19_deaths_global.csv,US,01/25/2023,1106524,1106592,Correct US deaths data
+01/30/2023,time_series_covid19_deaths_global.csv,China,01/28/2023,72553,78917,Correct China deaths data
+01/30/2023,time_series_covid19_deaths_global.csv,China,01/29/2023,72553,78917,Correct China deaths data
+02/06/2023,time_series_covid19_confirmed_US.csv,"Abbeville, South Carolina, US",01/31/2023,7714,7747,"Correct Abbeville, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Aiken, South Carolina, US",01/31/2023,51510,51703,"Correct Aiken, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Allendale, South Carolina, US",01/31/2023,2402,2408,"Correct Allendale, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Anderson, South Carolina, US",01/31/2023,68914,69146,"Correct Anderson, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Bamberg, South Carolina, US",01/31/2023,4221,4243,"Correct Bamberg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Barnwell, South Carolina, US",01/31/2023,6711,6737,"Correct Barnwell, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Beaufort, South Carolina, US",01/31/2023,53275,53501,"Correct Beaufort, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Berkeley, South Carolina, US",01/31/2023,65399,65636,"Correct Berkeley, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Calhoun, South Carolina, US",01/31/2023,3557,3566,"Correct Calhoun, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Charleston, South Carolina, US",01/31/2023,136862,137226,"Correct Charleston, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Cherokee, South Carolina, US",01/31/2023,18206,18275,"Correct Cherokee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Chester, South Carolina, US",01/31/2023,12479,12541,"Correct Chester, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Chesterfield, South Carolina, US",01/31/2023,14728,14772,"Correct Chesterfield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Clarendon, South Carolina, US",01/31/2023,10680,10714,"Correct Clarendon, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Colleton, South Carolina, US",01/31/2023,11218,11284,"Correct Colleton, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Darlington, South Carolina, US",01/31/2023,22088,22135,"Correct Darlington, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Dillon, South Carolina, US",01/31/2023,11647,11674,"Correct Dillon, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Dorchester, South Carolina, US",01/31/2023,69370,69669,"Correct Dorchester, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Edgefield, South Carolina, US",01/31/2023,8267,8289,"Correct Edgefield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Fairfield, South Carolina, US",01/31/2023,7524,7547,"Correct Fairfield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Florence, South Carolina, US",01/31/2023,49940,50105,"Correct Florence, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Georgetown, South Carolina, US",01/31/2023,19484,19555,"Correct Georgetown, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Greenville, South Carolina, US",01/31/2023,204588,205093,"Correct Greenville, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Greenwood, South Carolina, US",01/31/2023,26445,26537,"Correct Greenwood, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Hampton, South Carolina, US",01/31/2023,5948,5978,"Correct Hampton, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Horry, South Carolina, US",01/31/2023,119509,119794,"Correct Horry, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Jasper, South Carolina, US",01/31/2023,7162,7194,"Correct Jasper, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Kershaw, South Carolina, US",01/31/2023,27443,27575,"Correct Kershaw, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lancaster, South Carolina, US",01/31/2023,31094,31205,"Correct Lancaster, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Laurens, South Carolina, US",01/31/2023,22760,22817,"Correct Laurens, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lee, South Carolina, US",01/31/2023,5040,5059,"Correct Lee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lexington, South Carolina, US",01/31/2023,122042,122432,"Correct Lexington, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Marion, South Carolina, US",01/31/2023,10554,10594,"Correct Marion, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Marlboro, South Carolina, US",01/31/2023,9769,9805,"Correct Marlboro, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"McCormick, South Carolina, US",01/31/2023,2724,2729,"Correct McCormick, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Newberry, South Carolina, US",01/31/2023,16233,16301,"Correct Newberry, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Oconee, South Carolina, US",01/31/2023,28754,28849,"Correct Oconee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Orangeburg, South Carolina, US",01/31/2023,29226,29325,"Correct Orangeburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Pickens, South Carolina, US",01/31/2023,53927,54107,"Correct Pickens, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Richland, South Carolina, US",01/31/2023,158092,158625,"Correct Richland, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Saluda, South Carolina, US",01/31/2023,4511,4566,"Correct Saluda, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Spartanburg, South Carolina, US",01/31/2023,115500,115899,"Correct Spartanburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Sumter, South Carolina, US",01/31/2023,35021,35186,"Correct Sumter, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Union, South Carolina, US",01/31/2023,9777,9816,"Correct Union, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Williamsburg, South Carolina, US",01/31/2023,10253,10279,"Correct Williamsburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Abbeville, South Carolina, US",02/01/2023,7714,7747,"Correct Abbeville, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Aiken, South Carolina, US",02/01/2023,51510,51703,"Correct Aiken, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Allendale, South Carolina, US",02/01/2023,2402,2408,"Correct Allendale, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Anderson, South Carolina, US",02/01/2023,68914,69146,"Correct Anderson, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Bamberg, South Carolina, US",02/01/2023,4221,4243,"Correct Bamberg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Barnwell, South Carolina, US",02/01/2023,6711,6737,"Correct Barnwell, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Beaufort, South Carolina, US",02/01/2023,53275,53501,"Correct Beaufort, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Berkeley, South Carolina, US",02/01/2023,65399,65636,"Correct Berkeley, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Calhoun, South Carolina, US",02/01/2023,3557,3566,"Correct Calhoun, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Charleston, South Carolina, US",02/01/2023,136862,137226,"Correct Charleston, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Cherokee, South Carolina, US",02/01/2023,18206,18275,"Correct Cherokee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Chester, South Carolina, US",02/01/2023,12479,12541,"Correct Chester, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Chesterfield, South Carolina, US",02/01/2023,14728,14772,"Correct Chesterfield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Clarendon, South Carolina, US",02/01/2023,10680,10714,"Correct Clarendon, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Colleton, South Carolina, US",02/01/2023,11218,11284,"Correct Colleton, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Darlington, South Carolina, US",02/01/2023,22088,22135,"Correct Darlington, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Dillon, South Carolina, US",02/01/2023,11647,11674,"Correct Dillon, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Dorchester, South Carolina, US",02/01/2023,69370,69669,"Correct Dorchester, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Edgefield, South Carolina, US",02/01/2023,8267,8289,"Correct Edgefield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Fairfield, South Carolina, US",02/01/2023,7524,7547,"Correct Fairfield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Florence, South Carolina, US",02/01/2023,49940,50105,"Correct Florence, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Georgetown, South Carolina, US",02/01/2023,19484,19555,"Correct Georgetown, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Greenville, South Carolina, US",02/01/2023,204588,205093,"Correct Greenville, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Greenwood, South Carolina, US",02/01/2023,26445,26537,"Correct Greenwood, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Hampton, South Carolina, US",02/01/2023,5948,5978,"Correct Hampton, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Horry, South Carolina, US",02/01/2023,119509,119794,"Correct Horry, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Jasper, South Carolina, US",02/01/2023,7162,7194,"Correct Jasper, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Kershaw, South Carolina, US",02/01/2023,27443,27575,"Correct Kershaw, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lancaster, South Carolina, US",02/01/2023,31094,31205,"Correct Lancaster, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Laurens, South Carolina, US",02/01/2023,22760,22817,"Correct Laurens, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lee, South Carolina, US",02/01/2023,5040,5059,"Correct Lee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lexington, South Carolina, US",02/01/2023,122042,122432,"Correct Lexington, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Marion, South Carolina, US",02/01/2023,10554,10594,"Correct Marion, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Marlboro, South Carolina, US",02/01/2023,9769,9805,"Correct Marlboro, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"McCormick, South Carolina, US",02/01/2023,2724,2729,"Correct McCormick, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Newberry, South Carolina, US",02/01/2023,16233,16301,"Correct Newberry, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Oconee, South Carolina, US",02/01/2023,28754,28849,"Correct Oconee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Orangeburg, South Carolina, US",02/01/2023,29226,29325,"Correct Orangeburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Pickens, South Carolina, US",02/01/2023,53927,54107,"Correct Pickens, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Richland, South Carolina, US",02/01/2023,158092,158625,"Correct Richland, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Saluda, South Carolina, US",02/01/2023,4511,4566,"Correct Saluda, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Spartanburg, South Carolina, US",02/01/2023,115500,115899,"Correct Spartanburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Sumter, South Carolina, US",02/01/2023,35021,35186,"Correct Sumter, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Union, South Carolina, US",02/01/2023,9777,9816,"Correct Union, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Williamsburg, South Carolina, US",02/01/2023,10253,10279,"Correct Williamsburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Abbeville, South Carolina, US",02/02/2023,7714,7747,"Correct Abbeville, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Aiken, South Carolina, US",02/02/2023,51510,51703,"Correct Aiken, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Allendale, South Carolina, US",02/02/2023,2402,2408,"Correct Allendale, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Anderson, South Carolina, US",02/02/2023,68914,69146,"Correct Anderson, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Bamberg, South Carolina, US",02/02/2023,4221,4243,"Correct Bamberg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Barnwell, South Carolina, US",02/02/2023,6711,6737,"Correct Barnwell, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Beaufort, South Carolina, US",02/02/2023,53275,53501,"Correct Beaufort, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Berkeley, South Carolina, US",02/02/2023,65399,65636,"Correct Berkeley, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Calhoun, South Carolina, US",02/02/2023,3557,3566,"Correct Calhoun, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Charleston, South Carolina, US",02/02/2023,136862,137226,"Correct Charleston, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Cherokee, South Carolina, US",02/02/2023,18206,18275,"Correct Cherokee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Chester, South Carolina, US",02/02/2023,12479,12541,"Correct Chester, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Chesterfield, South Carolina, US",02/02/2023,14728,14772,"Correct Chesterfield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Clarendon, South Carolina, US",02/02/2023,10680,10714,"Correct Clarendon, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Colleton, South Carolina, US",02/02/2023,11218,11284,"Correct Colleton, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Darlington, South Carolina, US",02/02/2023,22088,22135,"Correct Darlington, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Dillon, South Carolina, US",02/02/2023,11647,11674,"Correct Dillon, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Dorchester, South Carolina, US",02/02/2023,69370,69669,"Correct Dorchester, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Edgefield, South Carolina, US",02/02/2023,8267,8289,"Correct Edgefield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Fairfield, South Carolina, US",02/02/2023,7524,7547,"Correct Fairfield, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Florence, South Carolina, US",02/02/2023,49940,50105,"Correct Florence, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Georgetown, South Carolina, US",02/02/2023,19484,19555,"Correct Georgetown, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Greenville, South Carolina, US",02/02/2023,204588,205093,"Correct Greenville, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Greenwood, South Carolina, US",02/02/2023,26445,26537,"Correct Greenwood, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Hampton, South Carolina, US",02/02/2023,5948,5978,"Correct Hampton, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Horry, South Carolina, US",02/02/2023,119509,119794,"Correct Horry, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Jasper, South Carolina, US",02/02/2023,7162,7194,"Correct Jasper, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Kershaw, South Carolina, US",02/02/2023,27443,27575,"Correct Kershaw, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lancaster, South Carolina, US",02/02/2023,31094,31205,"Correct Lancaster, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Laurens, South Carolina, US",02/02/2023,22760,22817,"Correct Laurens, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lee, South Carolina, US",02/02/2023,5040,5059,"Correct Lee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Lexington, South Carolina, US",02/02/2023,122042,122432,"Correct Lexington, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Marion, South Carolina, US",02/02/2023,10554,10594,"Correct Marion, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Marlboro, South Carolina, US",02/02/2023,9769,9805,"Correct Marlboro, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"McCormick, South Carolina, US",02/02/2023,2724,2729,"Correct McCormick, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Newberry, South Carolina, US",02/02/2023,16233,16301,"Correct Newberry, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Oconee, South Carolina, US",02/02/2023,28754,28849,"Correct Oconee, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Orangeburg, South Carolina, US",02/02/2023,29226,29325,"Correct Orangeburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Pickens, South Carolina, US",02/02/2023,53927,54107,"Correct Pickens, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Richland, South Carolina, US",02/02/2023,158092,158625,"Correct Richland, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Saluda, South Carolina, US",02/02/2023,4511,4566,"Correct Saluda, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Spartanburg, South Carolina, US",02/02/2023,115500,115899,"Correct Spartanburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Sumter, South Carolina, US",02/02/2023,35021,35186,"Correct Sumter, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Union, South Carolina, US",02/02/2023,9777,9816,"Correct Union, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_confirmed_US.csv,"Williamsburg, South Carolina, US",02/02/2023,10253,10279,"Correct Williamsburg, South Carolina, US confirmed data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Abbeville, South Carolina, US",01/31/2023,74,76,"Correct Abbeville, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Aiken, South Carolina, US",01/31/2023,452,456,"Correct Aiken, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Anderson, South Carolina, US",01/31/2023,1082,1088,"Correct Anderson, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Beaufort, South Carolina, US",01/31/2023,418,421,"Correct Beaufort, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Berkeley, South Carolina, US",01/31/2023,474,477,"Correct Berkeley, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Charleston, South Carolina, US",01/31/2023,1022,1027,"Correct Charleston, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Clarendon, South Carolina, US",01/31/2023,167,168,"Correct Clarendon, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Colleton, South Carolina, US",01/31/2023,226,227,"Correct Colleton, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Darlington, South Carolina, US",01/31/2023,339,341,"Correct Darlington, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Dorchester, South Carolina, US",01/31/2023,548,554,"Correct Dorchester, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Edgefield, South Carolina, US",01/31/2023,76,77,"Correct Edgefield, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Fairfield, South Carolina, US",01/31/2023,113,114,"Correct Fairfield, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Florence, South Carolina, US",01/31/2023,682,685,"Correct Florence, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Greenville, South Carolina, US",01/31/2023,2111,2126,"Correct Greenville, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Greenwood, South Carolina, US",01/31/2023,327,330,"Correct Greenwood, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Hampton, South Carolina, US",01/31/2023,90,92,"Correct Hampton, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Horry, South Carolina, US",01/31/2023,1263,1266,"Correct Horry, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Kershaw, South Carolina, US",01/31/2023,276,278,"Correct Kershaw, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Lancaster, South Carolina, US",01/31/2023,302,307,"Correct Lancaster, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Laurens, South Carolina, US",01/31/2023,315,318,"Correct Laurens, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Lexington, South Carolina, US",01/31/2023,944,952,"Correct Lexington, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Newberry, South Carolina, US",01/31/2023,217,220,"Correct Newberry, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Oconee, South Carolina, US",01/31/2023,375,378,"Correct Oconee, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Orangeburg, South Carolina, US",01/31/2023,443,449,"Correct Orangeburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Pickens, South Carolina, US",01/31/2023,670,676,"Correct Pickens, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Richland, South Carolina, US",01/31/2023,1017,1027,"Correct Richland, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Spartanburg, South Carolina, US",01/31/2023,1621,1634,"Correct Spartanburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Sumter, South Carolina, US",01/31/2023,425,429,"Correct Sumter, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Union, South Carolina, US",01/31/2023,164,166,"Correct Union, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Williamsburg, South Carolina, US",01/31/2023,153,156,"Correct Williamsburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Abbeville, South Carolina, US",02/01/2023,74,76,"Correct Abbeville, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Aiken, South Carolina, US",02/01/2023,452,456,"Correct Aiken, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Anderson, South Carolina, US",02/01/2023,1082,1088,"Correct Anderson, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Beaufort, South Carolina, US",02/01/2023,418,421,"Correct Beaufort, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Berkeley, South Carolina, US",02/01/2023,474,477,"Correct Berkeley, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Charleston, South Carolina, US",02/01/2023,1022,1027,"Correct Charleston, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Clarendon, South Carolina, US",02/01/2023,167,168,"Correct Clarendon, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Colleton, South Carolina, US",02/01/2023,226,227,"Correct Colleton, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Darlington, South Carolina, US",02/01/2023,339,341,"Correct Darlington, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Dorchester, South Carolina, US",02/01/2023,548,554,"Correct Dorchester, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Edgefield, South Carolina, US",02/01/2023,76,77,"Correct Edgefield, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Fairfield, South Carolina, US",02/01/2023,113,114,"Correct Fairfield, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Florence, South Carolina, US",02/01/2023,682,685,"Correct Florence, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Greenville, South Carolina, US",02/01/2023,2111,2126,"Correct Greenville, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Greenwood, South Carolina, US",02/01/2023,327,330,"Correct Greenwood, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Hampton, South Carolina, US",02/01/2023,90,92,"Correct Hampton, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Horry, South Carolina, US",02/01/2023,1263,1266,"Correct Horry, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Kershaw, South Carolina, US",02/01/2023,276,278,"Correct Kershaw, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Lancaster, South Carolina, US",02/01/2023,302,307,"Correct Lancaster, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Laurens, South Carolina, US",02/01/2023,315,318,"Correct Laurens, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Lexington, South Carolina, US",02/01/2023,944,952,"Correct Lexington, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Newberry, South Carolina, US",02/01/2023,217,220,"Correct Newberry, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Oconee, South Carolina, US",02/01/2023,375,378,"Correct Oconee, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Orangeburg, South Carolina, US",02/01/2023,443,449,"Correct Orangeburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Pickens, South Carolina, US",02/01/2023,670,676,"Correct Pickens, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Richland, South Carolina, US",02/01/2023,1017,1027,"Correct Richland, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Spartanburg, South Carolina, US",02/01/2023,1621,1634,"Correct Spartanburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Sumter, South Carolina, US",02/01/2023,425,429,"Correct Sumter, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Union, South Carolina, US",02/01/2023,164,166,"Correct Union, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Williamsburg, South Carolina, US",02/01/2023,153,156,"Correct Williamsburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Abbeville, South Carolina, US",02/02/2023,74,76,"Correct Abbeville, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Aiken, South Carolina, US",02/02/2023,452,456,"Correct Aiken, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Anderson, South Carolina, US",02/02/2023,1082,1088,"Correct Anderson, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Beaufort, South Carolina, US",02/02/2023,418,421,"Correct Beaufort, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Berkeley, South Carolina, US",02/02/2023,474,477,"Correct Berkeley, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Charleston, South Carolina, US",02/02/2023,1022,1027,"Correct Charleston, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Clarendon, South Carolina, US",02/02/2023,167,168,"Correct Clarendon, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Colleton, South Carolina, US",02/02/2023,226,227,"Correct Colleton, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Darlington, South Carolina, US",02/02/2023,339,341,"Correct Darlington, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Dorchester, South Carolina, US",02/02/2023,548,554,"Correct Dorchester, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Edgefield, South Carolina, US",02/02/2023,76,77,"Correct Edgefield, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Fairfield, South Carolina, US",02/02/2023,113,114,"Correct Fairfield, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Florence, South Carolina, US",02/02/2023,682,685,"Correct Florence, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Greenville, South Carolina, US",02/02/2023,2111,2126,"Correct Greenville, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Greenwood, South Carolina, US",02/02/2023,327,330,"Correct Greenwood, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Hampton, South Carolina, US",02/02/2023,90,92,"Correct Hampton, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Horry, South Carolina, US",02/02/2023,1263,1266,"Correct Horry, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Kershaw, South Carolina, US",02/02/2023,276,278,"Correct Kershaw, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Lancaster, South Carolina, US",02/02/2023,302,307,"Correct Lancaster, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Laurens, South Carolina, US",02/02/2023,315,318,"Correct Laurens, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Lexington, South Carolina, US",02/02/2023,944,952,"Correct Lexington, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Newberry, South Carolina, US",02/02/2023,217,220,"Correct Newberry, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Oconee, South Carolina, US",02/02/2023,375,378,"Correct Oconee, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Orangeburg, South Carolina, US",02/02/2023,443,449,"Correct Orangeburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Pickens, South Carolina, US",02/02/2023,670,676,"Correct Pickens, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Richland, South Carolina, US",02/02/2023,1017,1027,"Correct Richland, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Spartanburg, South Carolina, US",02/02/2023,1621,1634,"Correct Spartanburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Sumter, South Carolina, US",02/02/2023,425,429,"Correct Sumter, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Union, South Carolina, US",02/02/2023,164,166,"Correct Union, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_deaths_US.csv,"Williamsburg, South Carolina, US",02/02/2023,153,156,"Correct Williamsburg, South Carolina, US deaths data"
+02/06/2023,time_series_covid19_confirmed_global.csv,US,01/31/2023,102349267,102354937,Correct US confirmed data
+02/06/2023,time_series_covid19_confirmed_global.csv,US,02/01/2023,102464003,102469673,Correct US confirmed data
+02/06/2023,time_series_covid19_confirmed_global.csv,US,02/02/2023,102542802,102548472,Correct US confirmed data
+02/06/2023,time_series_covid19_deaths_global.csv,US,01/31/2023,1108439,1108568,Correct US deaths data
+02/06/2023,time_series_covid19_deaths_global.csv,US,02/01/2023,1109700,1109829,Correct US deaths data
+02/06/2023,time_series_covid19_deaths_global.csv,US,02/02/2023,1110856,1110985,Correct US deaths data
+02/13/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/06/2023,25375,25073,Correct Congo (Brazzaville) confirmed data
+02/13/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/07/2023,25375,32798,Correct Congo (Brazzaville) confirmed data
+02/13/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/08/2023,25375,32810,Correct Congo (Brazzaville) confirmed data
+02/13/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/09/2023,25375,32814,Correct Congo (Brazzaville) confirmed data
+02/13/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/10/2023,25375,32818,Correct Congo (Brazzaville) confirmed data
+02/13/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/11/2023,25375,32818,Correct Congo (Brazzaville) confirmed data
+02/13/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/12/2023,25375,32818,Correct Congo (Brazzaville) confirmed data
+02/13/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/07/2023,388,743,Correct Congo (Brazzaville) deaths data
+02/13/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/08/2023,388,743,Correct Congo (Brazzaville) deaths data
+02/13/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/09/2023,388,743,Correct Congo (Brazzaville) deaths data
+02/13/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/10/2023,388,743,Correct Congo (Brazzaville) deaths data
+02/13/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/11/2023,388,743,Correct Congo (Brazzaville) deaths data
+02/13/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/12/2023,388,743,Correct Congo (Brazzaville) deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,01/30/2023,13333,13338,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,01/31/2023,13333,13353,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/01/2023,13333,13358,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/02/2023,13333,13370,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/03/2023,13333,13374,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/04/2023,13333,13381,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/05/2023,13333,13388,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/06/2023,13333,13393,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/07/2023,13333,13401,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/08/2023,13333,13403,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/09/2023,13333,13409,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/10/2023,13333,13414,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/11/2023,13333,13418,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/12/2023,13333,13420,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/13/2023,13333,13424,Correct China deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,China,02/14/2023,13333,13427,Correct China deaths data
+02/15/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/07/2023,32798,25073,Correct Congo (Brazzaville) confirmed data
+02/15/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/08/2023,32810,25073,Correct Congo (Brazzaville) confirmed data
+02/15/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/09/2023,32814,25073,Correct Congo (Brazzaville) confirmed data
+02/15/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/10/2023,32818,25073,Correct Congo (Brazzaville) confirmed data
+02/15/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/11/2023,32818,25073,Correct Congo (Brazzaville) confirmed data
+02/15/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/12/2023,32818,25073,Correct Congo (Brazzaville) confirmed data
+02/15/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/13/2023,32818,25073,Correct Congo (Brazzaville) confirmed data
+02/15/2023,time_series_covid19_confirmed_global.csv,Congo (Brazzaville),02/14/2023,32818,25073,Correct Congo (Brazzaville) confirmed data
+02/15/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/07/2023,743,388,Correct Congo (Brazzaville) deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/08/2023,743,388,Correct Congo (Brazzaville) deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/09/2023,743,388,Correct Congo (Brazzaville) deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/10/2023,743,388,Correct Congo (Brazzaville) deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/11/2023,743,388,Correct Congo (Brazzaville) deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/12/2023,743,388,Correct Congo (Brazzaville) deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/13/2023,743,388,Correct Congo (Brazzaville) deaths data
+02/15/2023,time_series_covid19_deaths_global.csv,Congo (Brazzaville),02/14/2023,743,388,Correct Congo (Brazzaville) deaths data
+02/16/2023,time_series_covid19_confirmed_US.csv,"Adams, Washington, US",02/15/2023,5615,5623,"Correct Adams, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Asotin, Washington, US",02/15/2023,5573,5589,"Correct Asotin, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Benton, Washington, US",02/15/2023,61746,61870,"Correct Benton, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Chelan, Washington, US",02/15/2023,24039,24085,"Correct Chelan, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Clallam, Washington, US",02/15/2023,15682,15725,"Correct Clallam, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Clark, Washington, US",02/15/2023,111358,111536,"Correct Clark, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Columbia, Washington, US",02/15/2023,745,747,"Correct Columbia, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Cowlitz, Washington, US",02/15/2023,27222,27259,"Correct Cowlitz, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Douglas, Washington, US",02/15/2023,13287,13303,"Correct Douglas, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Ferry, Washington, US",02/15/2023,1798,1806,"Correct Ferry, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Franklin, Washington, US",02/15/2023,36709,36757,"Correct Franklin, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Garfield, Washington, US",02/15/2023,502,503,"Correct Garfield, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Grant, Washington, US",02/15/2023,31285,31404,"Correct Grant, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Grays Harbor, Washington, US",02/15/2023,20296,20348,"Correct Grays Harbor, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Island, Washington, US",02/15/2023,13686,13741,"Correct Island, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Jefferson, Washington, US",02/15/2023,4813,4840,"Correct Jefferson, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"King, Washington, US",02/15/2023,546224,547542,"Correct King, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Kitsap, Washington, US",02/15/2023,52157,52331,"Correct Kitsap, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Kittitas, Washington, US",02/15/2023,10336,10356,"Correct Kittitas, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Klickitat, Washington, US",02/15/2023,4307,4310,"Correct Klickitat, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Lewis, Washington, US",02/15/2023,20701,20739,"Correct Lewis, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Lincoln, Washington, US",02/15/2023,2656,2661,"Correct Lincoln, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Mason, Washington, US",02/15/2023,15693,15734,"Correct Mason, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Okanogan, Washington, US",02/15/2023,10513,10553,"Correct Okanogan, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Pacific, Washington, US",02/15/2023,4823,4832,"Correct Pacific, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Pend Oreille, Washington, US",02/15/2023,2963,2967,"Correct Pend Oreille, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Pierce, Washington, US",02/15/2023,243689,244440,"Correct Pierce, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"San Juan, Washington, US",02/15/2023,1981,1979,"Correct San Juan, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Skagit, Washington, US",02/15/2023,28514,28645,"Correct Skagit, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Skamania, Washington, US",02/15/2023,1790,1794,"Correct Skamania, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Snohomish, Washington, US",02/15/2023,203606,204205,"Correct Snohomish, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Spokane, Washington, US",02/15/2023,153093,153498,"Correct Spokane, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Stevens, Washington, US",02/15/2023,10012,10045,"Correct Stevens, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Thurston, Washington, US",02/15/2023,62774,62976,"Correct Thurston, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Unassigned, Washington, US",02/15/2023,3309,3303,"Correct Unassigned, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Wahkiakum, Washington, US",02/15/2023,638,639,"Correct Wahkiakum, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Walla Walla, Washington, US",02/15/2023,18868,18932,"Correct Walla Walla, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Whatcom, Washington, US",02/15/2023,48997,49076,"Correct Whatcom, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Whitman, Washington, US",02/15/2023,10074,10087,"Correct Whitman, Washington, US confirmed data"
+02/16/2023,time_series_covid19_confirmed_US.csv,"Yakima, Washington, US",02/15/2023,83212,83415,"Correct Yakima, Washington, US confirmed data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Benton, Washington, US",02/15/2023,532,534,"Correct Benton, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Chelan, Washington, US",02/15/2023,195,196,"Correct Chelan, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Clallam, Washington, US",02/15/2023,206,207,"Correct Clallam, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Clark, Washington, US",02/15/2023,1033,1041,"Correct Clark, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Columbia, Washington, US",02/15/2023,17,18,"Correct Columbia, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Cowlitz, Washington, US",02/15/2023,417,418,"Correct Cowlitz, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Grant, Washington, US",02/15/2023,238,239,"Correct Grant, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Grays Harbor, Washington, US",02/15/2023,249,251,"Correct Grays Harbor, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Island, Washington, US",02/15/2023,121,122,"Correct Island, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"King, Washington, US",02/15/2023,3476,3487,"Correct King, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Kitsap, Washington, US",02/15/2023,410,411,"Correct Kitsap, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Lewis, Washington, US",02/15/2023,294,296,"Correct Lewis, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Pierce, Washington, US",02/15/2023,1592,1597,"Correct Pierce, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Skagit, Washington, US",02/15/2023,266,269,"Correct Skagit, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Snohomish, Washington, US",02/15/2023,1434,1437,"Correct Snohomish, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Spokane, Washington, US",02/15/2023,1670,1679,"Correct Spokane, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Walla Walla, Washington, US",02/15/2023,173,176,"Correct Walla Walla, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Whitman, Washington, US",02/15/2023,100,101,"Correct Whitman, Washington, US deaths data"
+02/16/2023,time_series_covid19_deaths_US.csv,"Yakima, Washington, US",02/15/2023,854,856,"Correct Yakima, Washington, US deaths data"
+02/16/2023,time_series_covid19_confirmed_global.csv,US,02/15/2023,102995115,103000024,Correct US confirmed data
+02/16/2023,time_series_covid19_deaths_global.csv,US,02/15/2023,1115564,1115622,Correct US deaths data
+02/23/2023,time_series_covid19_confirmed_US.csv,"Abbeville, South Carolina, US",02/21/2023,7790,7806,"Correct Abbeville, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Aiken, South Carolina, US",02/21/2023,52090,52254,"Correct Aiken, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Allendale, South Carolina, US",02/21/2023,2418,2423,"Correct Allendale, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Anderson, South Carolina, US",02/21/2023,69513,69678,"Correct Anderson, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Bamberg, South Carolina, US",02/21/2023,4278,4281,"Correct Bamberg, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Barnwell, South Carolina, US",02/21/2023,6774,6784,"Correct Barnwell, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Beaufort, South Carolina, US",02/21/2023,53894,54035,"Correct Beaufort, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Berkeley, South Carolina, US",02/21/2023,66047,66201,"Correct Berkeley, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Calhoun, South Carolina, US",02/21/2023,3593,3604,"Correct Calhoun, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Charleston, South Carolina, US",02/21/2023,137871,138129,"Correct Charleston, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Cherokee, South Carolina, US",02/21/2023,18399,18456,"Correct Cherokee, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Chester, South Carolina, US",02/21/2023,12638,12670,"Correct Chester, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Chesterfield, South Carolina, US",02/21/2023,14860,14894,"Correct Chesterfield, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Clarendon, South Carolina, US",02/21/2023,10760,10773,"Correct Clarendon, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Colleton, South Carolina, US",02/21/2023,11364,11393,"Correct Colleton, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Darlington, South Carolina, US",02/21/2023,22239,22283,"Correct Darlington, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Dillon, South Carolina, US",02/21/2023,11727,11745,"Correct Dillon, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Dorchester, South Carolina, US",02/21/2023,70125,70342,"Correct Dorchester, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Edgefield, South Carolina, US",02/21/2023,8341,8389,"Correct Edgefield, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Fairfield, South Carolina, US",02/21/2023,7612,7648,"Correct Fairfield, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Florence, South Carolina, US",02/21/2023,50357,50430,"Correct Florence, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Georgetown, South Carolina, US",02/21/2023,19656,19724,"Correct Georgetown, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Greenville, South Carolina, US",02/21/2023,205984,206336,"Correct Greenville, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Greenwood, South Carolina, US",02/21/2023,26709,26784,"Correct Greenwood, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Hampton, South Carolina, US",02/21/2023,6028,6051,"Correct Hampton, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Horry, South Carolina, US",02/21/2023,120337,120586,"Correct Horry, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Jasper, South Carolina, US",02/21/2023,7256,7275,"Correct Jasper, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Kershaw, South Carolina, US",02/21/2023,27786,27861,"Correct Kershaw, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Lancaster, South Carolina, US",02/21/2023,31417,31473,"Correct Lancaster, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Laurens, South Carolina, US",02/21/2023,22947,23011,"Correct Laurens, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Lee, South Carolina, US",02/21/2023,5089,5099,"Correct Lee, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Lexington, South Carolina, US",02/21/2023,123180,123518,"Correct Lexington, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Marion, South Carolina, US",02/21/2023,10646,10660,"Correct Marion, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Marlboro, South Carolina, US",02/21/2023,9883,9911,"Correct Marlboro, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"McCormick, South Carolina, US",02/21/2023,2746,2752,"Correct McCormick, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Newberry, South Carolina, US",02/21/2023,16399,16442,"Correct Newberry, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Oconee, South Carolina, US",02/21/2023,28943,28999,"Correct Oconee, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Orangeburg, South Carolina, US",02/21/2023,29536,29608,"Correct Orangeburg, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Pickens, South Carolina, US",02/21/2023,54433,54520,"Correct Pickens, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Richland, South Carolina, US",02/21/2023,159655,160133,"Correct Richland, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Saluda, South Carolina, US",02/21/2023,4663,4671,"Correct Saluda, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Spartanburg, South Carolina, US",02/21/2023,116488,116763,"Correct Spartanburg, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Sumter, South Carolina, US",02/21/2023,35462,35542,"Correct Sumter, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Union, South Carolina, US",02/21/2023,9876,9906,"Correct Union, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Williamsburg, South Carolina, US",02/21/2023,10339,10370,"Correct Williamsburg, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"York, South Carolina, US",02/21/2023,95265,95407,"Correct York, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Abbeville, South Carolina, US",02/22/2023,7790,7806,"Correct Abbeville, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Aiken, South Carolina, US",02/22/2023,52090,52254,"Correct Aiken, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Allendale, South Carolina, US",02/22/2023,2402,2423,"Correct Allendale, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Anderson, South Carolina, US",02/22/2023,69513,69678,"Correct Anderson, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Bamberg, South Carolina, US",02/22/2023,4278,4281,"Correct Bamberg, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Barnwell, South Carolina, US",02/22/2023,6774,6784,"Correct Barnwell, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Beaufort, South Carolina, US",02/22/2023,53894,54035,"Correct Beaufort, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Berkeley, South Carolina, US",02/22/2023,66047,66201,"Correct Berkeley, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Calhoun, South Carolina, US",02/22/2023,3557,3604,"Correct Calhoun, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Charleston, South Carolina, US",02/22/2023,137871,138129,"Correct Charleston, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Cherokee, South Carolina, US",02/22/2023,18399,18456,"Correct Cherokee, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Chester, South Carolina, US",02/22/2023,12638,12670,"Correct Chester, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Chesterfield, South Carolina, US",02/22/2023,14860,14894,"Correct Chesterfield, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Clarendon, South Carolina, US",02/22/2023,10760,10773,"Correct Clarendon, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Colleton, South Carolina, US",02/22/2023,11364,11393,"Correct Colleton, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Darlington, South Carolina, US",02/22/2023,22239,22283,"Correct Darlington, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Dillon, South Carolina, US",02/22/2023,11727,11745,"Correct Dillon, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Dorchester, South Carolina, US",02/22/2023,70125,70342,"Correct Dorchester, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Edgefield, South Carolina, US",02/22/2023,8341,8389,"Correct Edgefield, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Fairfield, South Carolina, US",02/22/2023,7612,7648,"Correct Fairfield, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Florence, South Carolina, US",02/22/2023,50357,50430,"Correct Florence, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Georgetown, South Carolina, US",02/22/2023,19656,19724,"Correct Georgetown, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Greenville, South Carolina, US",02/22/2023,205984,206336,"Correct Greenville, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Greenwood, South Carolina, US",02/22/2023,26709,26784,"Correct Greenwood, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Hampton, South Carolina, US",02/22/2023,6028,6051,"Correct Hampton, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Horry, South Carolina, US",02/22/2023,120337,120586,"Correct Horry, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Jasper, South Carolina, US",02/22/2023,7256,7275,"Correct Jasper, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Kershaw, South Carolina, US",02/22/2023,27786,27861,"Correct Kershaw, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Lancaster, South Carolina, US",02/22/2023,31417,31473,"Correct Lancaster, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Laurens, South Carolina, US",02/22/2023,22947,23011,"Correct Laurens, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Lee, South Carolina, US",02/22/2023,5040,5099,"Correct Lee, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Lexington, South Carolina, US",02/22/2023,123180,123518,"Correct Lexington, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Marion, South Carolina, US",02/22/2023,10646,10660,"Correct Marion, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Marlboro, South Carolina, US",02/22/2023,9883,9911,"Correct Marlboro, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"McCormick, South Carolina, US",02/22/2023,2724,2752,"Correct McCormick, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Newberry, South Carolina, US",02/22/2023,16399,16442,"Correct Newberry, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Oconee, South Carolina, US",02/22/2023,28943,28999,"Correct Oconee, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Orangeburg, South Carolina, US",02/22/2023,29536,29608,"Correct Orangeburg, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Pickens, South Carolina, US",02/22/2023,54433,54520,"Correct Pickens, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Richland, South Carolina, US",02/22/2023,159655,160133,"Correct Richland, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Saluda, South Carolina, US",02/22/2023,4663,4671,"Correct Saluda, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Spartanburg, South Carolina, US",02/22/2023,116488,116763,"Correct Spartanburg, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Sumter, South Carolina, US",02/22/2023,35462,35542,"Correct Sumter, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Unassigned, South Carolina, US",02/22/2023,20601,0,"Correct Unassigned, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Union, South Carolina, US",02/22/2023,9876,9906,"Correct Union, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"Williamsburg, South Carolina, US",02/22/2023,10339,10370,"Correct Williamsburg, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_confirmed_US.csv,"York, South Carolina, US",02/22/2023,95265,95407,"Correct York, South Carolina, US confirmed data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Aiken, South Carolina, US",02/21/2023,456,457,"Correct Aiken, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Anderson, South Carolina, US",02/21/2023,1100,1106,"Correct Anderson, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Beaufort, South Carolina, US",02/21/2023,429,432,"Correct Beaufort, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Berkeley, South Carolina, US",02/21/2023,487,494,"Correct Berkeley, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Charleston, South Carolina, US",02/21/2023,1037,1043,"Correct Charleston, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Cherokee, South Carolina, US",02/21/2023,332,333,"Correct Cherokee, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Chester, South Carolina, US",02/21/2023,161,162,"Correct Chester, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Clarendon, South Carolina, US",02/21/2023,168,169,"Correct Clarendon, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Colleton, South Carolina, US",02/21/2023,231,232,"Correct Colleton, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Darlington, South Carolina, US",02/21/2023,342,343,"Correct Darlington, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Dillon, South Carolina, US",02/21/2023,155,156,"Correct Dillon, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Dorchester, South Carolina, US",02/21/2023,556,557,"Correct Dorchester, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Florence, South Carolina, US",02/21/2023,687,690,"Correct Florence, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Georgetown, South Carolina, US",02/21/2023,241,243,"Correct Georgetown, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Greenville, South Carolina, US",02/21/2023,2140,2146,"Correct Greenville, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Greenwood, South Carolina, US",02/21/2023,331,332,"Correct Greenwood, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Hampton, South Carolina, US",02/21/2023,92,95,"Correct Hampton, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Horry, South Carolina, US",02/21/2023,1272,1277,"Correct Horry, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Jasper, South Carolina, US",02/21/2023,99,100,"Correct Jasper, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Kershaw, South Carolina, US",02/21/2023,282,284,"Correct Kershaw, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Lexington, South Carolina, US",02/21/2023,964,968,"Correct Lexington, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Marlboro, South Carolina, US",02/21/2023,116,117,"Correct Marlboro, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Newberry, South Carolina, US",02/21/2023,221,222,"Correct Newberry, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Oconee, South Carolina, US",02/21/2023,387,390,"Correct Oconee, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Orangeburg, South Carolina, US",02/21/2023,451,454,"Correct Orangeburg, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Pickens, South Carolina, US",02/21/2023,684,686,"Correct Pickens, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Richland, South Carolina, US",02/21/2023,1036,1045,"Correct Richland, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Spartanburg, South Carolina, US",02/21/2023,1646,1656,"Correct Spartanburg, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Sumter, South Carolina, US",02/21/2023,433,435,"Correct Sumter, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Union, South Carolina, US",02/21/2023,168,169,"Correct Union, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Williamsburg, South Carolina, US",02/21/2023,156,157,"Correct Williamsburg, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"York, South Carolina, US",02/21/2023,751,758,"Correct York, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Aiken, South Carolina, US",02/22/2023,456,457,"Correct Aiken, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Anderson, South Carolina, US",02/22/2023,1100,1106,"Correct Anderson, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Beaufort, South Carolina, US",02/22/2023,429,432,"Correct Beaufort, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Berkeley, South Carolina, US",02/22/2023,487,494,"Correct Berkeley, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Charleston, South Carolina, US",02/22/2023,1037,1043,"Correct Charleston, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Cherokee, South Carolina, US",02/22/2023,332,333,"Correct Cherokee, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Chester, South Carolina, US",02/22/2023,161,162,"Correct Chester, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Clarendon, South Carolina, US",02/22/2023,168,169,"Correct Clarendon, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Colleton, South Carolina, US",02/22/2023,231,232,"Correct Colleton, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Darlington, South Carolina, US",02/22/2023,342,343,"Correct Darlington, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Dillon, South Carolina, US",02/22/2023,155,156,"Correct Dillon, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Dorchester, South Carolina, US",02/22/2023,556,557,"Correct Dorchester, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Florence, South Carolina, US",02/22/2023,687,690,"Correct Florence, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Georgetown, South Carolina, US",02/22/2023,241,243,"Correct Georgetown, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Greenville, South Carolina, US",02/22/2023,2140,2146,"Correct Greenville, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Greenwood, South Carolina, US",02/22/2023,331,332,"Correct Greenwood, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Hampton, South Carolina, US",02/22/2023,92,95,"Correct Hampton, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Horry, South Carolina, US",02/22/2023,1272,1277,"Correct Horry, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Jasper, South Carolina, US",02/22/2023,99,100,"Correct Jasper, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Kershaw, South Carolina, US",02/22/2023,282,284,"Correct Kershaw, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Lexington, South Carolina, US",02/22/2023,964,968,"Correct Lexington, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Marlboro, South Carolina, US",02/22/2023,116,117,"Correct Marlboro, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Newberry, South Carolina, US",02/22/2023,221,222,"Correct Newberry, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Oconee, South Carolina, US",02/22/2023,387,390,"Correct Oconee, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Orangeburg, South Carolina, US",02/22/2023,451,454,"Correct Orangeburg, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Pickens, South Carolina, US",02/22/2023,684,686,"Correct Pickens, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Richland, South Carolina, US",02/22/2023,1036,1045,"Correct Richland, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Spartanburg, South Carolina, US",02/22/2023,1646,1656,"Correct Spartanburg, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Sumter, South Carolina, US",02/22/2023,433,435,"Correct Sumter, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Union, South Carolina, US",02/22/2023,168,169,"Correct Union, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"Williamsburg, South Carolina, US",02/22/2023,156,157,"Correct Williamsburg, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_deaths_US.csv,"York, South Carolina, US",02/22/2023,751,758,"Correct York, South Carolina, US deaths data"
+02/23/2023,time_series_covid19_confirmed_global.csv,US,02/21/2023,103176169,103180376,Correct US confirmed data
+02/23/2023,time_series_covid19_confirmed_global.csv,US,02/22/2023,103305370,103289099,Correct US confirmed data
+02/23/2023,time_series_covid19_deaths_global.csv,US,02/21/2023,1117876,1117973,Correct US deaths data
+02/23/2023,time_series_covid19_deaths_global.csv,US,02/22/2023,1118719,1118816,Correct US deaths data
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/01/2022,2174,2169,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/02/2022,2152,2147,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/03/2022,2152,2147,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/04/2022,2152,2147,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/05/2022,2152,2147,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/06/2022,2183,2178,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/07/2022,2183,2178,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/08/2022,2512,2507,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/09/2022,2203,2198,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/10/2022,2198,2193,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/11/2022,2198,2193,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/12/2022,2198,2193,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/13/2022,2171,2166,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/14/2022,2156,2151,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/15/2022,2157,2152,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/16/2022,2168,2163,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/17/2022,2168,2163,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/18/2022,2168,2163,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/19/2022,2167,2162,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/20/2022,2179,2174,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/21/2022,2192,2187,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/22/2022,2200,2195,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/23/2022,2179,2174,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/24/2022,2179,2174,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/25/2022,2179,2174,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/26/2022,2189,2184,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/27/2022,2162,2157,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/28/2022,2146,2141,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/29/2022,2133,2128,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",09/30/2022,2110,2105,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/01/2022,2110,2105,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/02/2022,2110,2105,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/03/2022,2093,2088,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/04/2022,2102,2097,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/05/2022,2135,2130,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/06/2022,2355,2350,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/07/2022,2123,2118,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/08/2022,2123,2118,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/09/2022,2123,2118,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/10/2022,2123,2118,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/11/2022,2096,2091,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/12/2022,2100,2095,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/13/2022,2105,2100,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/14/2022,2082,2077,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/15/2022,2082,2077,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/16/2022,2082,2077,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/17/2022,2129,2124,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/18/2022,2094,2089,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/19/2022,2109,2104,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/20/2022,2102,2097,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/21/2022,2108,2103,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/22/2022,2108,2103,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/23/2022,2108,2103,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/24/2022,2065,2060,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/25/2022,2045,2040,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/26/2022,2067,2062,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/27/2022,2063,2058,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/28/2022,2093,2088,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/29/2022,2093,2088,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/30/2022,2093,2088,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",10/31/2022,2096,2091,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/01/2022,2045,2040,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/02/2022,2048,2043,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/03/2022,2054,2049,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/04/2022,2059,2054,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/05/2022,2059,2054,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/06/2022,2059,2054,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/07/2022,2077,2072,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/08/2022,2072,2067,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/09/2022,2085,2080,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/10/2022,2093,2088,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/11/2022,2093,2088,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/12/2022,2093,2088,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/13/2022,2093,2088,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/14/2022,2060,2055,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/15/2022,2068,2063,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/16/2022,2046,2041,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/17/2022,2056,2051,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/18/2022,2063,2058,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/19/2022,2063,2058,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/20/2022,2063,2058,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/21/2022,2080,2075,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/22/2022,2085,2080,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/23/2022,2087,2082,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/24/2022,2087,2082,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/25/2022,2087,2082,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/26/2022,2087,2082,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/27/2022,2087,2082,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/28/2022,2119,2114,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/29/2022,2123,2118,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/30/2022,2109,2104,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/01/2022,2064,2059,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/02/2022,2076,2071,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/03/2022,2076,2071,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/04/2022,2076,2071,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/05/2022,2050,2045,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/06/2022,2060,2055,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/07/2022,2081,2076,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/08/2022,2047,2042,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/09/2022,2032,2027,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/10/2022,2032,2027,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/11/2022,2032,2027,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/12/2022,2063,2058,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/13/2022,2074,2069,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/14/2022,2094,2089,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/15/2022,2111,2106,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/16/2022,2128,2123,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/17/2022,2128,2123,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/18/2022,2128,2123,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/19/2022,2155,2150,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/20/2022,2101,2096,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/21/2022,2130,2125,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/22/2022,2145,2140,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/23/2022,2122,2117,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/24/2022,2122,2117,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/25/2022,2122,2117,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/26/2022,2122,2117,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/27/2022,2156,2151,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/28/2022,2172,2167,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/29/2022,2172,2167,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/30/2022,2182,2177,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",12/31/2022,2182,2177,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/01/2023,2182,2177,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/02/2023,2182,2177,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/03/2023,2238,2233,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/04/2023,2248,2243,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/05/2023,2270,2265,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/06/2023,2228,2223,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/07/2023,2228,2223,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/08/2023,2228,2223,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/09/2023,2198,2193,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/10/2023,2213,2208,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/11/2023,2236,2231,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/12/2023,2223,2218,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/13/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/14/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/15/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/16/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/17/2023,2217,2212,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/18/2023,2234,2229,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/19/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/20/2023,2254,2249,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/21/2023,2254,2249,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/22/2023,2254,2249,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/23/2023,2235,2230,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/24/2023,2209,2204,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/25/2023,2226,2221,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/26/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/27/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/28/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/29/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/30/2023,2232,2227,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",01/31/2023,2227,2222,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/01/2023,2227,2222,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/02/2023,2230,2225,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/03/2023,2230,2225,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/04/2023,2230,2225,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/05/2023,2230,2225,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/06/2023,2230,2225,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/07/2023,2234,2229,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/08/2023,2226,2221,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/09/2023,2229,2224,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/10/2023,2229,2224,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/11/2023,2229,2224,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/12/2023,2229,2224,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/13/2023,2229,2224,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/14/2023,2291,2286,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/15/2023,2291,2286,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/16/2023,2308,2303,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/17/2023,2308,2303,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/18/2023,2308,2303,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/19/2023,2308,2303,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/20/2023,2308,2303,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/21/2023,2308,2303,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/22/2023,2303,2298,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",02/23/2023,2315,2310,"Correct Unassigned, New Hampshire, US confirmed data"
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/01/2022,94658731,94658726,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/02/2022,94723368,94723363,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/03/2022,94734856,94734851,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/04/2022,94742338,94742333,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/05/2022,94776012,94776007,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/06/2022,94888457,94888452,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/07/2022,95012428,95012423,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/08/2022,95119650,95119645,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/09/2022,95220410,95220405,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/10/2022,95230569,95230564,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/11/2022,95239613,95239608,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/12/2022,95308999,95308994,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/13/2022,95388671,95388666,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/14/2022,95491873,95491868,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/15/2022,95575510,95575505,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/16/2022,95631746,95631741,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/17/2022,95640317,95640312,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/18/2022,95645807,95645802,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/19/2022,95701498,95701493,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/20/2022,95770757,95770752,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/21/2022,95869120,95869115,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/22/2022,95950190,95950185,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/23/2022,96033474,96033469,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/24/2022,96043232,96043227,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/25/2022,96049977,96049972,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/26/2022,96095527,96095522,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/27/2022,96156575,96156570,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/28/2022,96243117,96243112,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/29/2022,96327653,96327648,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,09/30/2022,96361218,96361213,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/01/2022,96369259,96369254,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/02/2022,96375142,96375137,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/03/2022,96416630,96416625,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/04/2022,96471988,96471983,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/05/2022,96543363,96543358,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/06/2022,96604321,96604316,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/07/2022,96662656,96662651,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/08/2022,96670496,96670491,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/09/2022,96676133,96676128,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/10/2022,96699205,96699200,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/11/2022,96760051,96760046,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/12/2022,96824752,96824747,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/13/2022,96888372,96888367,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/14/2022,96915442,96915437,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/15/2022,96921526,96921521,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/16/2022,96928342,96928337,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/17/2022,96967289,96967284,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/18/2022,97010953,97010948,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/19/2022,97071650,97071645,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/20/2022,97129079,97129074,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/21/2022,97175205,97175200,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/22/2022,97180694,97180689,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/23/2022,97189329,97189324,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/24/2022,97228713,97228708,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/25/2022,97272515,97272510,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/26/2022,97344055,97344050,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/27/2022,97403394,97403389,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/28/2022,97433835,97433830,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/29/2022,97442960,97442955,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/30/2022,97446391,97446386,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,10/31/2022,97491357,97491352,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/01/2022,97540327,97540322,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/02/2022,97614366,97614361,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/03/2022,97685209,97685204,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/04/2022,97723917,97723912,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/05/2022,97729216,97729211,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/06/2022,97737348,97737343,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/07/2022,97778026,97778021,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/08/2022,97809482,97809477,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/09/2022,97906806,97906801,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/10/2022,97973138,97973133,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/11/2022,97986318,97986313,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/12/2022,97991588,97991583,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/13/2022,97994233,97994228,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/14/2022,98044644,98044639,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/15/2022,98104515,98104510,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/16/2022,98189252,98189247,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/17/2022,98243344,98243339,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/18/2022,98298933,98298928,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/19/2022,98303943,98303938,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/20/2022,98307889,98307884,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/21/2022,98352400,98352395,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/22/2022,98408706,98408701,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/23/2022,98522140,98522135,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/24/2022,98538459,98538454,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/25/2022,98560791,98560786,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/26/2022,98564086,98564081,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/27/2022,98570033,98570028,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/28/2022,98632353,98632348,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/29/2022,98699797,98699792,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,11/30/2022,98812799,98812794,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/01/2022,98903403,98903398,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/02/2022,98967780,98967775,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/03/2022,98974903,98974898,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/04/2022,98980455,98980450,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/05/2022,99038260,99038255,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/06/2022,99133247,99133242,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/07/2022,99278674,99278669,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/08/2022,99377896,99377891,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/09/2022,99414440,99414435,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/10/2022,99421625,99421620,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/11/2022,99427938,99427933,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/12/2022,99487277,99487272,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/13/2022,99580499,99580494,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/14/2022,99728658,99728653,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/15/2022,99840765,99840760,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/16/2022,99895346,99895341,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/17/2022,99902158,99902153,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/18/2022,99908016,99908011,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/19/2022,99968396,99968391,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/20/2022,100050308,100050303,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/21/2022,100232416,100232411,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/22/2022,100328551,100328546,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/23/2022,100367776,100367771,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/24/2022,100374294,100374289,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/25/2022,100377509,100377504,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/26/2022,100389933,100389928,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/27/2022,100500863,100500858,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/28/2022,100614202,100614197,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/29/2022,100718297,100718292,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/30/2022,100756690,100756685,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,12/31/2022,100764638,100764633,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/01/2023,100768928,100768923,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/02/2023,100777232,100777227,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/03/2023,100866040,100866035,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/04/2023,101064145,101064140,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/05/2023,101195361,101195356,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/06/2023,101260537,101260532,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/07/2023,101266391,101266386,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/08/2023,101272096,101272091,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/09/2023,101315098,101315093,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/10/2023,101398380,101398375,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/11/2023,101537994,101537989,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/12/2023,101602971,101602966,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/13/2023,101636283,101636278,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/14/2023,101641566,101641561,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/15/2023,101644886,101644881,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/16/2023,101652399,101652394,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/17/2023,101733651,101733646,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/18/2023,101862277,101862272,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/19/2023,101953469,101953464,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/20/2023,101990990,101990985,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/21/2023,101996126,101996121,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/22/2023,101999427,101999422,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/23/2023,102030498,102030493,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/24/2023,102086252,102086247,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/25/2023,102188572,102188567,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/26/2023,102252706,102252701,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/27/2023,102269642,102269637,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/28/2023,102274242,102274237,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/29/2023,102277739,102277734,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/30/2023,102306878,102306873,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,01/31/2023,102362229,102362224,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/01/2023,102478696,102478691,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/02/2023,102560298,102560293,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/03/2023,102598951,102598946,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/04/2023,102603052,102603047,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/05/2023,102605890,102605885,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/06/2023,102629937,102629932,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/07/2023,102675196,102675191,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/08/2023,102758479,102758474,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/09/2023,102840139,102840134,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/10/2023,102852953,102852948,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/11/2023,102857230,102857225,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/12/2023,102860460,102860455,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/13/2023,102883342,102883337,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/14/2023,102931296,102931291,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/15/2023,103020052,103020047,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/16/2023,103080528,103080523,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/17/2023,103128227,103128222,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/18/2023,103130800,103130795,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/19/2023,103131562,103131557,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/20/2023,103132164,103132159,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/21/2023,103191442,103191437,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/22/2023,103300165,103300160,Correct US confirmed data
+02/24/2023,time_series_covid19_confirmed_global.csv,US,02/23/2023,103355824,103355819,Correct US confirmed data
+03/06/2023,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/02/2023,0,153,"Correct Unassigned, Oklahoma, US confirmed data"
+03/06/2023,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/03/2023,0,153,"Correct Unassigned, Oklahoma, US confirmed data"
+03/06/2023,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/04/2023,0,153,"Correct Unassigned, Oklahoma, US confirmed data"
+03/06/2023,time_series_covid19_confirmed_US.csv,"Unassigned, Oklahoma, US",03/05/2023,0,153,"Correct Unassigned, Oklahoma, US confirmed data"
+03/06/2023,time_series_covid19_deaths_US.csv,"Unassigned, Oklahoma, US",03/02/2023,2128,2181,"Correct Unassigned, Oklahoma, US deaths data"
+03/06/2023,time_series_covid19_deaths_US.csv,"Unassigned, Oklahoma, US",03/03/2023,2128,2181,"Correct Unassigned, Oklahoma, US deaths data"
+03/06/2023,time_series_covid19_deaths_US.csv,"Unassigned, Oklahoma, US",03/04/2023,2128,2181,"Correct Unassigned, Oklahoma, US deaths data"
+03/06/2023,time_series_covid19_deaths_US.csv,"Unassigned, Oklahoma, US",03/05/2023,2128,2181,"Correct Unassigned, Oklahoma, US deaths data"
+03/06/2023,time_series_covid19_confirmed_global.csv,US,03/02/2023,103583639,103583792,Correct US confirmed data
+03/06/2023,time_series_covid19_confirmed_global.csv,US,03/03/2023,103643742,103643895,Correct US confirmed data
+03/06/2023,time_series_covid19_confirmed_global.csv,US,03/04/2023,103645674,103645827,Correct US confirmed data
+03/06/2023,time_series_covid19_confirmed_global.csv,US,03/05/2023,103646940,103647093,Correct US confirmed data
+03/06/2023,time_series_covid19_deaths_global.csv,US,03/02/2023,1121667,1121720,Correct US deaths data
+03/06/2023,time_series_covid19_deaths_global.csv,US,03/03/2023,1122157,1122210,Correct US deaths data
+03/06/2023,time_series_covid19_deaths_global.csv,US,03/04/2023,1122164,1122217,Correct US deaths data
+03/06/2023,time_series_covid19_deaths_global.csv,US,03/05/2023,1122164,1122217,Correct US deaths data
