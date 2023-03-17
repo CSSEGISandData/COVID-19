@@ -1,6 +1,12 @@
 # COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 
+On March 10, 2023, the Johns Hopkins Coronavirus Resource Center ceased its collecting and reporting of global COVID-19 data. For updated cases, deaths, and vaccine data please visit the following sources:
+- Global: [World Health Organization (WHO)](https://www.who.int/)
+- U.S.: [U.S. Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
+For more information, visit the [Johns Hopkins Coronavirus Resource Center](https://coronavirus.jhu.edu/).
+
+----
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
 
@@ -138,6 +144,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Collin County](https://www.collincountytx.gov/healthcare_services/Pages/news.aspx)
     - [Corpus Christi](https://www.cctexas.com/coronavirus)
     - [Denton County](https://gis-covid19-dentoncounty.hub.arcgis.com/pages/covid-19cases)
+      - Note: The dashboard includes cases identified via at-home antigen tests in the case total. We exlcude these cases from our reported total.
     - [Ector County](http://www.co.ector.tx.us/page/ector.CoronavirusCOVID19)
     - [City of El Paso](http://epstrong.org/results.php)
     - [Fayette County](https://www.co.fayette.tx.us/)
