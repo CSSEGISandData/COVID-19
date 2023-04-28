@@ -5,6 +5,9 @@ library(lubridate)
 # read a set of US and global stock indices along w/ btc price in USD 
 # DJIA only has 294 days of data, so can't use it here
 # 
+# alternate source for index data
+# https://www.marketwatch.com/investing/index/ukx/download-data?startDate=04/27/2020&endDate=04/27/2023&countryCode=uk 
+#
 symbols = c('BTC-USD','^GSPC','^FTSE','^VIX')
 start = as.Date("2020-01-01")
 until = today() - 1 # get data through yesterday 
