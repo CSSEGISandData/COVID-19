@@ -28,7 +28,7 @@ df %>%
 library(corrgram)
 
 
-aModel <- lm(Close ~ Incident_Rate + Fatality_Ratio + dailyConfirmed + dailyDeaths + time ,data = covidBitcoin)
+aModel <- lm(Close ~  Fatality_Ratio + dailyConfirmed + dailyDeaths + time ,data = covidBitcoin)
 summary(aModel)
 
 library(lessR)
