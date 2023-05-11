@@ -1,6 +1,9 @@
 #
 # plot covid-19 cases for selected countries in Europe
 #
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 
 data$Country_Region[data$Country_Region == "UK"] <- "United Kingdom"
 require(dplyr)

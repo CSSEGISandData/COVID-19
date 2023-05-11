@@ -2,7 +2,10 @@
 # COVID-19 Confirmed Cases for selected Illinois USA Counties
 # 
 # 2020-04-17 lgreski
-# 
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 # dependencies: load & clean data with ./R/ReadDailyReportsData.R 
 
 source("./R/ReadDailyReportsData.R")

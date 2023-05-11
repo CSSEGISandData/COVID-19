@@ -1,3 +1,10 @@
+#
+# readBitcoinPrices.R
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
+
 library(quantmod)
 symbols = c('BTC-USD')
 start = as.Date("2020-01-01")

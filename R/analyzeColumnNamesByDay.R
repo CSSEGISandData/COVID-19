@@ -1,6 +1,9 @@
 #
 # Analyze column names in JHU covid-19 data files 
 # 
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
 
 directory <- "./csse_covid_19_data/csse_covid_19_daily_reports"
 theFiles <- list.files(path=directory,pattern="*.csv",full.names = TRUE)

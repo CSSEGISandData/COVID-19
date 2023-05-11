@@ -1,6 +1,9 @@
 #
 # bitcoin and COVID regression analysis
 # data dictionary is here: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data 
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
 
 # Instructions: run readCovidRDSAllCountries.R before running this script
 

@@ -1,6 +1,9 @@
 #
 # read US state level daily reports
 #
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 
 directory <- "./csse_covid_19_data/csse_covid_19_daily_reports_us/"
 theFiles <- list.files(path=directory,pattern="*.csv",full.names = TRUE)

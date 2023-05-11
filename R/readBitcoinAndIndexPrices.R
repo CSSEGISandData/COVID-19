@@ -8,6 +8,10 @@ library(lubridate)
 # alternate source for index data
 # https://www.marketwatch.com/investing/index/ukx/download-data?startDate=04/27/2020&endDate=04/27/2023&countryCode=uk 
 #
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 symbols = c('BTC-USD','^GSPC','^FTSE','^VIX')
 start = as.Date("2020-01-01")
 until = today() - 1 # get data through yesterday 

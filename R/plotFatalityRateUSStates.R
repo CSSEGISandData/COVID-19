@@ -1,5 +1,9 @@
 #
+# plotFatalityRateUSStates.R
 #
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 
 plotCovidFatalityRateUSStates <- function(data,states,yLimits=NULL){
   require(ggplot2)

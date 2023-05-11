@@ -2,6 +2,9 @@
 # graph covid-19 confirmed cases
 # 2020-04-17 lgreski
 #
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 
 # dependency: run ./R/readDailyReportsData.R from console to create input data frame 
 

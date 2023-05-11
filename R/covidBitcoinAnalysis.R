@@ -1,6 +1,10 @@
 #
 # bitcoin and COVID regression analysis by country
 #
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 # instructions: run readCovidRDSAllCountries.R before this script 
 
 df <- readRDS("./rdsData/covidAndBitcoin.rds")

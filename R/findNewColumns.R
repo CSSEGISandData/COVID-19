@@ -1,6 +1,9 @@
 #
 # findNewColumns.R
 # find the new columns as JHU changes the data over time 
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
 
 colnamesList <- lapply(dataList,function(x){
   name <- colnames(x)

@@ -4,6 +4,10 @@
 # date       author
 # ==================================================================
 # 2020-04-18 lgreski
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 
 source("./R/readDailyReportsData.R")
 source("./R/plotCovidUSCounties.R")

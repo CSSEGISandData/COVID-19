@@ -3,6 +3,10 @@
 # 
 # read the COVID data after the files have been combined into
 # a single data frame and saved to disk
+#
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+
 
 # depends on: readDailyReportsData.R 
 if(!file.exists("./rdsData/covidData.rds")) source("./R/readDailyReportsData.R")
