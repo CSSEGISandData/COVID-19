@@ -33,7 +33,7 @@ An example of some of this data cleaning code looks like this:
        y$Incident_Rate <- NA 
     }
 
-Field descriptions are accessible in the [../ccse_covid_19_data/README.md](../ccse_covid_19_data/README.md) file. 
+Field descriptions are accessible in the [../ccse_covid_19_data/README.md](https://github.com/lgreski/COVID-19/tree/master/csse_covid_19_data#readme) file. 
 
 ### (c) 2000 - 2023 Leonard Greski
 ### copying permitted with attribution 
