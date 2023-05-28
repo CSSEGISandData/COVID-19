@@ -1,6 +1,9 @@
 #
 # read JHU covid-19 data
 #
+# (c) 2000 - 2023 Leonard Greski
+# copying permitted with attribution 
+#
 # 2020-04-17 lgreski 
 # 2020-11-10 updated for 2 corrections of column names after 5/29/2020
 # 2022-07-15 added code to save daily data to RDS
