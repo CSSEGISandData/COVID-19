@@ -33,7 +33,20 @@ An example of some of this data cleaning code looks like this:
        y$Incident_Rate <- NA 
     }
 
-Field descriptions are accessible in the [../csse_covid_19_data/README.md](../csse_covid_19_data/README.md) file. 
+COVID-19 field descriptions are accessible in the [../csse_covid_19_data/README.md](../csse_covid_19_data/README.md) file. 
+
+# Financial Data
+
+The financial data provided by the `quantmod` R package and its interface to Yahoo! Finance did not provide sufficient access to other stock market indexes and commodities, so we retrieved the following index data from the [Marketwatch](https://www.marketwatch.com/investing/index/djia/download-data?mod=mw_quote_tab) website as yearly downloads from their manual interface. 
+
+* DJIA
+* FTSE 100 
+* Hang Seng
+* Nikkei 225
+* S&P 500 
+* CBOE Volatility Index (VIX)
+* Crude Oil WTI Futures (NYM $/bbl) Front Month 
+* Gold Continuous Contract   
 
 ### (c) 2000 - 2023 Leonard Greski
 ### copying permitted with attribution 
