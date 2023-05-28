@@ -6,7 +6,10 @@
 
 
 library(quantmod)
-symbols = c('BTC-USD')
+symbols <- c("BTC-USD",'^DJI','^VIX','^HSI','^FTSE','GC=F','^N225',"CL=F","^GSPC")
+symbolNames <- c("Bitcoin","DJIA","Vix","Hang Seng Index","FTSE","Gold",
+                 "Nikkei 225","Oil","S&P 500")
+symbols = c('^GSPC')
 start = as.Date("2020-01-01")
 until = as.Date("2023-01-01")
 
