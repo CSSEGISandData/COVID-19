@@ -5,6 +5,7 @@
 # 2020-11-10 updated for 2 corrections of column names after 5/29/2020
 # 2022-07-15 added code to save daily data to RDS
 # 2022-09-01 move date conversion before saveRDS() 
+# 2023-05-28 add code to clean country names 
 
 # edit this line to reflect where data is stored on local machine 
 directory <- "./csse_covid_19_data/csse_covid_19_daily_reports/"
@@ -82,6 +83,32 @@ table(unlist(lapply(1:length(theFiles),function(x) length(names(dataList[[x]])))
 data <- do.call(rbind,dataList)
 library(lubridate)
 data$date <- mdy(data$date)
+# clean the country names
+data$Country_Region <- sub(" Azer","Azer",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub(", The","",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Dominica$","Dominican Republic",data$Country_Region)
+data$Country_Region <- sub("g SAR","g",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub(" (Islamic Republic of)","",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Macao SAR","Macau",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Mainland ","",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("occupied Palestinian territory","Israel",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("West Bank and Gaza","Israel",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Palestine","Israel",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Republic of the Congo","Congo (Kinshasa)",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Republic of Korea","Korea, South",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Northern Ireland","Ireland",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Republic of ","",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Diamond Princess","Cruise Ship",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Russian Federation","Russia",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("South Korea","Korea, South",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("South Sudan","Sudan",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Summer Olympics 2020","Japan",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Taiwan*","Taiwan",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("The Gambia","Gambia",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("The Bahamas","Bahamas",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Taipei and environs","Taiwan",data$Country_Region,fixed = TRUE)
+data$Country_Region <- sub("Winter Olympics 2022","China",data$Country_Region,fixed = TRUE)
+
 
 # make directory & save the RDS
 if(!dir.exists("./rdsData")) dir.create("./rdsData")
