@@ -24,11 +24,16 @@ knitr::opts_chunk$set(echo = FALSE)
 * background point 2
 * background point 3
 
+## Literature Review
+
+If appropriate, summarize the literature that was reviewed as a means to identifying the potential uniqueness of this article's contribution to the academic research. Describe how the existing literature would be augmented by this article, as well as how it frames the research questions in the next section. 
 
 ## Research Questions
 
 * research question point 1
-* research question point
+* research question point 2
+
+Describe potential null and alternate hypotheses. Discuss the data needed to test these hypotheses. Discuss the unit(s) of analysis to be used in the article. Why were they chosen? Why were other unit(s) of analysis not chosen? How does the unit of analysis affect the choice of research questions? 
 
 ## Data Sources & Cleaning
 

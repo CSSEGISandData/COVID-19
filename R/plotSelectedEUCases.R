@@ -1,7 +1,7 @@
 #
 # plot covid-19 cases for selected countries in Europe
 #
-# (c) 2000 - 2023 Leonard Greski
+# (c) 2020 - 2023 Leonard Greski
 # copying permitted with attribution 
 
 

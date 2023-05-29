@@ -1,23 +1,21 @@
-library(quantmod)
-library(lubridate)
-
+#
+# readBitcoinAndIndexPrices.R 
 #
 # read a set of US and global stock indices along w/ btc price in USD 
-# DJIA only has 294 days of data, so can't use it here
 # 
 # alternate source for index data
 # https://www.marketwatch.com/investing/index/ukx/download-data?startDate=04/27/2020&endDate=04/27/2023&countryCode=uk 
 #
 #
-# (c) 2000 - 2023 Leonard Greski
+# (c) 2020 - 2023 Leonard Greski
 # copying permitted with attribution 
 
-symbols = c('BTC-USD','^GSPC','^FTSE','^VIX')
+library(quantmod)
+library(lubridate)
+
+symbols = c('BTC-USD','^GSPC','^FTSE','^VIX','^DJI')
 start = as.Date("2020-01-01")
 until = today() - 1 # get data through yesterday 
-
-# df <- getSymbols('BTC-USD',src='yahoo', from = start, to = until, 
-#                  auto.assign = FALSE)
 
 stocks = lapply(symbols, function(symbol) {
      aStock = as.data.frame(getSymbols(symbol,src='yahoo', from = start, to = until, 
