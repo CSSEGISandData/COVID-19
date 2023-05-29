@@ -16,7 +16,9 @@ Once data has been saved to `.\rdsData\covidData.rds`, other scripts can be used
 
 ## Data Cleaning
 
-The data read scripts account for the fact that over time Johns Hopkins University added and changed  columns representing the data they collected. Therefore, the data loader adds missing columns where necessary so that once all the data is read it can be combined into a single data frame. 
+The data read scripts account for the fact that over time Johns Hopkins University added and changed columns representing the data they collected from government entities. Some of the changes were due to changes in government reporting, as governments began to track additional information as the pandemic progressed through its lifecycle. Other changes were due to new requirements, such as needing latitude / longitude information to create map-based dashboards of COVID statistics. 
+
+Therefore, the data loader adds missing columns where necessary so that once all the data is read it can be combined into a single data frame. 
 
 An example of some of this data cleaning code looks like this: 
 
