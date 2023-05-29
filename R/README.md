@@ -37,16 +37,20 @@ COVID-19 field descriptions are accessible in the [../csse_covid_19_data/README.
 
 # Financial Data
 
-The financial data provided by the `quantmod` R package and its interface to Yahoo! Finance did not provide sufficient access to other stock market indexes and commodities, so we retrieved the following index data from the [Marketwatch](https://www.marketwatch.com/investing/index/djia/download-data?mod=mw_quote_tab) website as yearly downloads from their manual interface. 
+Market data accessed through the `quantmod` R package and its interface to Yahoo! Finance appeared to provide significantly fewer valid observations for symbols other than Bitcoin. To assess the validity of the data from Yahoo! Finance, we 
+retrieved the following index data from the [Marketwatch](https://www.marketwatch.com/investing/index/djia/download-data?mod=mw_quote_tab) website as yearly downloads from their manual interface. 
 
+* Bitcoin in USD
+* CBOE Volatility Index (VIX)
+* Crude Oil WTI Futures (NYM $/bbl) Front Month 
 * DJIA
 * FTSE 100 
+* Gold Continuous Contract  
 * Hang Seng
 * Nikkei 225
 * S&P 500 
-* CBOE Volatility Index (VIX)
-* Crude Oil WTI Futures (NYM $/bbl) Front Month 
-* Gold Continuous Contract   
+
+A script to read the downloaded Marketwatch data, clean it, and save as an RDS file is located [here.](../R/readMarketwatchData.R)
 
 ### (c) 2000 - 2023 Leonard Greski
 ### copying permitted with attribution 
