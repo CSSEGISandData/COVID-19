@@ -52,5 +52,5 @@ retrieved the following index data from the [Marketwatch](https://www.marketwatc
 
 A script to read the downloaded Marketwatch data, clean it, and save as an RDS file is located [here.](../R/readMarketwatchData.R)
 
-### (c) 2000 - 2023 Leonard Greski
+### (c) 2020 - 2023 Leonard Greski
 ### copying permitted with attribution 
