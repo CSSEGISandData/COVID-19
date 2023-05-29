@@ -9,9 +9,9 @@ library(quantmod)
 symbols <- c("BTC-USD",'^DJI','^VIX','^HSI','^FTSE','GC=F','^N225',"CL=F","^GSPC")
 symbolNames <- c("Bitcoin","DJIA","Vix","Hang Seng Index","FTSE","Gold",
                  "Nikkei 225","Oil","S&P 500")
-symbols = c('^GSPC')
+# symbols = c('^GSPC')
 start = as.Date("2020-01-01")
-until = as.Date("2023-01-01")
+until = as.Date("2023-05-26")
 
 # df <- getSymbols('BTC-USD',src='yahoo', from = start, to = until, 
 #                  auto.assign = FALSE)
@@ -24,4 +24,6 @@ stocks = lapply(symbols, function(symbol) {
      aStock$Date <- as.Date(rownames(aStock),"%Y-%m-%d")
      aStock
 })
-btcData <- do.call(rbind,stocks)
+symbolData <- do.call(rbind,stocks)
+if(!dir.exists("./rdsData")) dir.create("./rdsData")
+saveRDS(symbolData,"./rdsData/yahooSymbolPrices.rds")
