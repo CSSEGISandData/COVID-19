@@ -16,7 +16,7 @@
 # dependencies: ggeasy, ggplot2, lubridate, input data frame from 
 #               JHU CSSE COVID-19 daily reports, cleaned & standardized
 #
-# (c) 2000 - 2023 Leonard Greski
+# (c) 2020 - 2023 Leonard Greski
 # copying permitted with attribution 
 
 plotCovidUSCounties <- function(data,state,counties,yLimits=NULL){

@@ -2,7 +2,7 @@
 #
 # aggregate covid data by Country_Region for most recent date
 #
-# (c) 2000 - 2023 Leonard Greski
+# (c) 2020 - 2023 Leonard Greski
 # copying permitted with attribution 
 
 

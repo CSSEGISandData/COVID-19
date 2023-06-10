@@ -2,7 +2,7 @@
 # graph covid-19 confirmed cases
 # 2020-04-17 lgreski
 #
-# (c) 2000 - 2023 Leonard Greski
+# (c) 2020 - 2023 Leonard Greski
 # copying permitted with attribution 
 
 
