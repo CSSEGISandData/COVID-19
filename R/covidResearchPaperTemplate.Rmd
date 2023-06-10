@@ -1,0 +1,91 @@
+---
+title: "COVID-19 and Bitcoin Prices"
+author: "<author's name>"
+date: '`r Sys.Date()`'
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Synopsis 
+
+* point 1
+* point 2
+
+## Background & Relevant Research 
+
+* background point 1
+* background point 2
+* background point 3
+
+Note that if you have content for a literature review, it can either be included here or in a separate section titled "Literature Review" 
+
+## Research Questions
+
+* research question point 1
+* research question point
+
+## Data Sources & Cleaning
+
+* Data source: JHU data
+* Data Source: bitcoin data
+* cleaning issues: JHU data
+* Etc. 
+
+Given the data sources, describe the primary unit of analysis for this research, and why this unit of analysis is appropriate. 
+
+For the COVID-19 data, a big limitation is that the bulk of data in the JHU data set is sourced from the United States. That is, if you review the most recent contributions from each country represented in the data set, the confirmed cases don't correlate with country size. For example, does anyone believe that China only had 4 million COVID cases when the US reported over 101 million?  
+
+## Exploratory / Descriptive Analysis
+
+Provide some exploratory data analysis / visualizations to illustrate / describe features of the data to be analyzed.
+
+## Analysis & Results
+
+Conduct the analysis, summarizing into tables that are standard for journal articles given the type of data analysis. For example, a regression analysis might include a table of effects / effect sizes and p-values, along with one or more goodness-of-fit measures.
+
+Discuss whether to accept or reject null hypotheses, and why they were accepted or rejected. In addition to statistical significane, explain the substantive meaning of the results. If you need to write equations, you can use the LaTeX equation language as follows:
+
+$\sum_i^n e_iXi = \sum_i^n e_iXi - \sum_i^ne_i\bar Xi$ 
+
+## Conclusions & Implications for Future Research
+
+Given the results of the analysis, highlight some general conclusions and describe any implications / ideas for future research given the results of the analysis. 
+
+\newpage 
+
+## References
+
+List the external articles, papers, and data sources used in the paper. 
+
+For example, the Johns Hopkins COVID-19 data would be cited as follows, per the [README](https://github.com/CSSEGISandData/COVID-19) from the Johns Hopkins University's COVID-19 Github Repository: 
+
+Dong E, Du H, Gardner L. _An interactive web-based dashboard to track COVID-19 in real time._ Lancet Inf Dis. 20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1
+
+Greski, Leonard M. (2020) -- COVID-19 Data Analysis Repository, Github, [github/lgreski/COVID-19 repository](https://github.com/lgreski/COVID-19)
+
+Ryan JA, Ulrich JM (2022). _quantmod: Quantitative Financial Modelling Framework_. R package version 0.4.20, <https://CRAN.R-project.org/package=quantmod>.
+
+
+```{r loadData,include = FALSE}
+# this is a named chunk of R code. Naming the chunks enables one
+# to load all the code at the bottom of the document and reference it by name
+# where needed earlier in the document. 
+
+#
+# note: one can use the `include()` function to include files from the file system
+#       as part of the Rmd file while keeping the code modular. 
+```
+
+```{r sessionInfo,include = FALSE}
+
+sessionInfo() # sometimes it is helpful to know exactly what R packages were used for
+              # the analysis 
+
+```
