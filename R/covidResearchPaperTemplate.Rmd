@@ -18,12 +18,13 @@ knitr::opts_chunk$set(echo = FALSE)
 * point 1
 * point 2
 
-## Background
+## Background & Relevant Research 
 
 * background point 1
 * background point 2
 * background point 3
 
+Note that if you have content for a literature review, it can either be included here or in a separate section titled "Literature Review" 
 
 ## Research Questions
 
@@ -36,6 +37,10 @@ knitr::opts_chunk$set(echo = FALSE)
 * Data Source: bitcoin data
 * cleaning issues: JHU data
 * Etc. 
+
+Given the data sources, describe the primary unit of analysis for this research, and why this unit of analysis is appropriate. 
+
+For the COVID-19 data, a big limitation is that the bulk of data in the JHU data set is sourced from the United States. 
 
 ## Exploratory / Descriptive Analysis
 
