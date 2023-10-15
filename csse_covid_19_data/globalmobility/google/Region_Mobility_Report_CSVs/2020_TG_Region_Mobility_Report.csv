@@ -1,0 +1,1010 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+TG,Togo,,,,,,2020-02-15,-2,-1,-4,-2,2,1
+TG,Togo,,,,,,2020-02-16,-3,-2,-5,-6,-2,1
+TG,Togo,,,,,,2020-02-17,-6,2,-1,-4,0,1
+TG,Togo,,,,,,2020-02-18,-6,0,-6,-7,0,1
+TG,Togo,,,,,,2020-02-19,-9,-3,-10,-2,0,1
+TG,Togo,,,,,,2020-02-20,-9,-3,-12,-10,-2,1
+TG,Togo,,,,,,2020-02-21,-9,-1,-4,-5,0,0
+TG,Togo,,,,,,2020-02-22,-33,-32,-14,-27,-45,15
+TG,Togo,,,,,,2020-02-23,-16,-14,-11,-15,-3,5
+TG,Togo,,,,,,2020-02-24,-11,-6,-4,-10,-2,3
+TG,Togo,,,,,,2020-02-25,-8,-4,2,-6,1,2
+TG,Togo,,,,,,2020-02-26,-8,-3,-2,-4,2,2
+TG,Togo,,,,,,2020-02-27,-7,-2,5,-5,2,3
+TG,Togo,,,,,,2020-02-28,-8,-3,3,-4,1,3
+TG,Togo,,,,,,2020-02-29,-6,-4,3,-1,1,2
+TG,Togo,,,,,,2020-03-01,-6,-4,4,-8,0,2
+TG,Togo,,,,,,2020-03-02,-7,-1,4,-1,2,2
+TG,Togo,,,,,,2020-03-03,-7,-3,6,-4,1,3
+TG,Togo,,,,,,2020-03-04,-3,0,8,-4,3,2
+TG,Togo,,,,,,2020-03-05,-3,4,8,1,3,2
+TG,Togo,,,,,,2020-03-06,-7,-1,0,2,2,3
+TG,Togo,,,,,,2020-03-07,-4,-1,7,-2,4,2
+TG,Togo,,,,,,2020-03-08,1,0,9,-4,2,1
+TG,Togo,,,,,,2020-03-09,-6,1,4,-1,2,2
+TG,Togo,,,,,,2020-03-10,-5,-1,12,-6,4,1
+TG,Togo,,,,,,2020-03-11,-6,-2,5,-6,3,2
+TG,Togo,,,,,,2020-03-12,-4,1,8,0,3,2
+TG,Togo,,,,,,2020-03-13,-5,1,3,-3,3,1
+TG,Togo,,,,,,2020-03-14,-4,-3,7,-7,1,2
+TG,Togo,,,,,,2020-03-15,-6,-4,5,-9,-1,2
+TG,Togo,,,,,,2020-03-16,-7,-3,7,-4,2,2
+TG,Togo,,,,,,2020-03-17,-9,-1,9,-9,2,2
+TG,Togo,,,,,,2020-03-18,-9,-3,8,-5,2,3
+TG,Togo,,,,,,2020-03-19,-9,-1,8,-3,1,4
+TG,Togo,,,,,,2020-03-20,-12,1,2,-10,1,5
+TG,Togo,,,,,,2020-03-21,-17,3,-6,-18,-4,9
+TG,Togo,,,,,,2020-03-22,-30,-17,-21,-35,-7,13
+TG,Togo,,,,,,2020-03-23,-24,-11,-10,-26,-14,13
+TG,Togo,,,,,,2020-03-24,-27,-17,-9,-30,-19,16
+TG,Togo,,,,,,2020-03-25,-28,-15,-10,-31,-19,17
+TG,Togo,,,,,,2020-03-26,-28,-15,-9,-30,-20,18
+TG,Togo,,,,,,2020-03-27,-30,-18,-15,-32,-19,17
+TG,Togo,,,,,,2020-03-28,-30,-20,-12,-34,-13,16
+TG,Togo,,,,,,2020-03-29,-37,-25,-21,-41,-9,16
+TG,Togo,,,,,,2020-03-30,-28,-18,-14,-39,-21,16
+TG,Togo,,,,,,2020-03-31,-28,-19,-11,-34,-22,16
+TG,Togo,,,,,,2020-04-01,-33,-25,-15,-36,-26,18
+TG,Togo,,,,,,2020-04-02,-35,-22,-17,-38,-25,20
+TG,Togo,,,,,,2020-04-03,-37,-25,-20,-43,-24,20
+TG,Togo,,,,,,2020-04-04,-45,-38,-28,-51,-27,24
+TG,Togo,,,,,,2020-04-05,-42,-31,-27,-53,-11,17
+TG,Togo,,,,,,2020-04-06,-32,-17,-11,-42,-22,18
+TG,Togo,,,,,,2020-04-07,-31,-20,-11,-39,-23,18
+TG,Togo,,,,,,2020-04-08,-33,-23,-17,-42,-23,19
+TG,Togo,,,,,,2020-04-09,-33,-21,-14,-39,-23,20
+TG,Togo,,,,,,2020-04-10,-37,-24,-20,-43,-24,21
+TG,Togo,,,,,,2020-04-11,-37,-24,-20,-47,-16,18
+TG,Togo,,,,,,2020-04-12,-40,-28,-24,-51,-11,16
+TG,Togo,,,,,,2020-04-13,-40,-30,-15,-47,-54,26
+TG,Togo,,,,,,2020-04-14,-31,-19,-17,-37,-20,17
+TG,Togo,,,,,,2020-04-15,-33,-21,-16,-39,-20,18
+TG,Togo,,,,,,2020-04-16,-31,-19,-12,-35,-21,20
+TG,Togo,,,,,,2020-04-17,-36,-23,-15,-38,-21,21
+TG,Togo,,,,,,2020-04-18,-34,-24,-21,-39,-10,17
+TG,Togo,,,,,,2020-04-19,-40,-31,-29,-50,-10,17
+TG,Togo,,,,,,2020-04-20,-30,-20,-13,-34,-18,16
+TG,Togo,,,,,,2020-04-21,-30,-21,-16,-38,-19,17
+TG,Togo,,,,,,2020-04-22,-33,-21,-11,-37,-18,18
+TG,Togo,,,,,,2020-04-23,-31,-19,-13,-30,-18,19
+TG,Togo,,,,,,2020-04-24,-35,-23,-19,-38,-17,20
+TG,Togo,,,,,,2020-04-25,-32,-24,-18,-36,-7,17
+TG,Togo,,,,,,2020-04-26,-47,-38,-31,-52,-12,21
+TG,Togo,,,,,,2020-04-27,-39,-31,-16,-44,-54,26
+TG,Togo,,,,,,2020-04-28,-28,-14,-8,-35,-15,15
+TG,Togo,,,,,,2020-04-29,-29,-16,-13,-36,-15,18
+TG,Togo,,,,,,2020-04-30,-25,-9,-4,-28,-14,18
+TG,Togo,,,,,,2020-05-01,-40,-30,-15,-43,-55,28
+TG,Togo,,,,,,2020-05-02,-33,-20,-12,-38,-5,16
+TG,Togo,,,,,,2020-05-03,-46,-38,-28,-52,-11,19
+TG,Togo,,,,,,2020-05-04,-28,-14,-5,-37,-13,15
+TG,Togo,,,,,,2020-05-05,-28,-15,-6,-34,-14,15
+TG,Togo,,,,,,2020-05-06,-28,-12,-6,-35,-13,17
+TG,Togo,,,,,,2020-05-07,-26,-11,-2,-31,-13,18
+TG,Togo,,,,,,2020-05-08,-30,-15,-12,-34,-11,18
+TG,Togo,,,,,,2020-05-09,-28,-16,-8,-36,0,15
+TG,Togo,,,,,,2020-05-10,-40,-31,-31,-50,-5,18
+TG,Togo,,,,,,2020-05-11,-25,-11,-5,-33,-12,14
+TG,Togo,,,,,,2020-05-12,-25,-10,-9,-34,-11,15
+TG,Togo,,,,,,2020-05-13,-27,-14,-9,-30,-11,15
+TG,Togo,,,,,,2020-05-14,-24,-10,-7,-25,-11,14
+TG,Togo,,,,,,2020-05-15,-26,-12,-9,-27,-9,16
+TG,Togo,,,,,,2020-05-16,-25,-14,-6,-28,2,14
+TG,Togo,,,,,,2020-05-17,-31,-21,-18,-41,3,14
+TG,Togo,,,,,,2020-05-18,-24,-13,-5,-26,-10,14
+TG,Togo,,,,,,2020-05-19,-28,-16,-12,-36,-11,16
+TG,Togo,,,,,,2020-05-20,-22,-11,-6,-37,-9,15
+TG,Togo,,,,,,2020-05-21,-29,-17,-2,-36,-42,24
+TG,Togo,,,,,,2020-05-22,-29,-14,-11,-41,-9,17
+TG,Togo,,,,,,2020-05-23,-27,-15,-5,-37,0,15
+TG,Togo,,,,,,2020-05-24,-27,-20,-10,-45,0,13
+TG,Togo,,,,,,2020-05-25,-35,-27,-11,-42,-24,24
+TG,Togo,,,,,,2020-05-26,-22,-9,-3,-35,-8,14
+TG,Togo,,,,,,2020-05-27,-24,-11,-4,-34,-7,15
+TG,Togo,,,,,,2020-05-28,-29,-17,-8,-36,-11,19
+TG,Togo,,,,,,2020-05-29,-23,-8,-4,-34,-6,15
+TG,Togo,,,,,,2020-05-30,-23,-11,-2,-36,5,13
+TG,Togo,,,,,,2020-05-31,-22,-13,-7,-41,8,11
+TG,Togo,,,,,,2020-06-01,-33,-20,-6,-43,-44,23
+TG,Togo,,,,,,2020-06-02,-24,-17,-6,-39,-10,14
+TG,Togo,,,,,,2020-06-03,-17,-5,1,-28,-5,13
+TG,Togo,,,,,,2020-06-04,-18,-4,1,-27,-6,14
+TG,Togo,,,,,,2020-06-05,-19,-3,1,-29,-5,13
+TG,Togo,,,,,,2020-06-06,-18,-5,2,-27,8,12
+TG,Togo,,,,,,2020-06-07,-19,-10,-6,-40,11,12
+TG,Togo,,,,,,2020-06-08,-16,-3,6,-28,-4,12
+TG,Togo,,,,,,2020-06-09,-21,-7,-2,-36,-7,15
+TG,Togo,,,,,,2020-06-10,-20,-9,-2,-30,-5,15
+TG,Togo,,,,,,2020-06-11,-11,-2,11,-22,-4,13
+TG,Togo,,,,,,2020-06-12,-18,-7,1,-26,-5,14
+TG,Togo,,,,,,2020-06-13,-12,-5,7,-29,9,11
+TG,Togo,,,,,,2020-06-14,-14,-10,2,-37,13,11
+TG,Togo,,,,,,2020-06-15,-14,-8,7,-27,-6,11
+TG,Togo,,,,,,2020-06-16,-14,-5,10,-30,-4,11
+TG,Togo,,,,,,2020-06-17,-17,-8,3,-32,-4,13
+TG,Togo,,,,,,2020-06-18,-18,-8,3,-31,-6,12
+TG,Togo,,,,,,2020-06-19,-18,-8,4,-29,-4,11
+TG,Togo,,,,,,2020-06-20,-19,-12,-2,-34,5,12
+TG,Togo,,,,,,2020-06-21,-17,-10,-5,-40,9,11
+TG,Togo,,,,,,2020-06-22,-18,-8,4,-30,-7,11
+TG,Togo,,,,,,2020-06-23,-15,-6,6,-33,-6,11
+TG,Togo,,,,,,2020-06-24,-16,-7,6,-33,-6,11
+TG,Togo,,,,,,2020-06-25,-15,-5,9,-28,-5,12
+TG,Togo,,,,,,2020-06-26,-16,-5,6,-29,-5,11
+TG,Togo,,,,,,2020-06-27,-11,-7,4,-31,5,10
+TG,Togo,,,,,,2020-06-28,-20,-14,-5,-44,2,12
+TG,Togo,,,,,,2020-06-29,-14,-5,10,-28,-6,10
+TG,Togo,,,,,,2020-06-30,-12,-4,12,-33,-5,10
+TG,Togo,,,,,,2020-07-01,-15,-6,16,-26,-5,11
+TG,Togo,,,,,,2020-07-02,-10,0,18,-16,-4,11
+TG,Togo,,,,,,2020-07-03,-12,-2,14,-20,-4,11
+TG,Togo,,,,,,2020-07-04,-14,-10,10,-28,2,13
+TG,Togo,,,,,,2020-07-05,-9,-8,9,-32,8,11
+TG,Togo,,,,,,2020-07-06,-16,-5,10,-25,-6,12
+TG,Togo,,,,,,2020-07-07,-11,0,14,-27,-5,10
+TG,Togo,,,,,,2020-07-08,-13,-5,11,-23,-4,11
+TG,Togo,,,,,,2020-07-09,-13,-2,6,-17,-5,12
+TG,Togo,,,,,,2020-07-10,-14,-2,8,-21,-4,11
+TG,Togo,,,,,,2020-07-11,-11,-4,7,-31,3,11
+TG,Togo,,,,,,2020-07-12,-12,-7,3,-38,6,11
+TG,Togo,,,,,,2020-07-13,-14,-3,9,-25,-6,11
+TG,Togo,,,,,,2020-07-14,-14,-6,8,-26,-6,11
+TG,Togo,,,,,,2020-07-15,-14,-4,5,-27,-5,12
+TG,Togo,,,,,,2020-07-16,-15,-2,2,-22,-5,13
+TG,Togo,,,,,,2020-07-17,-14,-5,4,-21,-4,12
+TG,Togo,,,,,,2020-07-18,-12,-4,6,-28,4,11
+TG,Togo,,,,,,2020-07-19,-13,-5,2,-34,4,11
+TG,Togo,,,,,,2020-07-20,-16,-3,5,-23,-6,11
+TG,Togo,,,,,,2020-07-21,-17,-6,8,-31,-6,12
+TG,Togo,,,,,,2020-07-22,-15,-5,9,-27,-5,12
+TG,Togo,,,,,,2020-07-23,-14,-2,8,-24,-6,12
+TG,Togo,,,,,,2020-07-24,-14,-3,8,-23,-4,12
+TG,Togo,,,,,,2020-07-25,-10,-2,15,-21,4,10
+TG,Togo,,,,,,2020-07-26,-13,-7,7,-34,4,12
+TG,Togo,,,,,,2020-07-27,-13,-1,13,-21,-5,11
+TG,Togo,,,,,,2020-07-28,-13,-1,17,-27,-5,10
+TG,Togo,,,,,,2020-07-29,-11,1,13,-17,-6,10
+TG,Togo,,,,,,2020-07-30,-5,10,26,-15,-6,10
+TG,Togo,,,,,,2020-07-31,-20,-13,13,-40,-52,23
+TG,Togo,,,,,,2020-08-01,-12,-7,16,-31,-11,13
+TG,Togo,,,,,,2020-08-02,-9,-6,11,-35,0,11
+TG,Togo,,,,,,2020-08-03,-10,2,17,-17,-7,10
+TG,Togo,,,,,,2020-08-04,-9,2,16,-23,-7,11
+TG,Togo,,,,,,2020-08-05,-10,1,14,-18,-6,11
+TG,Togo,,,,,,2020-08-06,-6,3,16,-13,-6,10
+TG,Togo,,,,,,2020-08-07,-10,2,21,-7,-5,9
+TG,Togo,,,,,,2020-08-08,-6,1,29,-13,4,9
+TG,Togo,,,,,,2020-08-09,-4,-1,18,-18,5,9
+TG,Togo,,,,,,2020-08-10,-7,4,25,-8,-6,9
+TG,Togo,,,,,,2020-08-11,-7,2,24,-9,-6,9
+TG,Togo,,,,,,2020-08-12,-8,2,23,-15,-5,10
+TG,Togo,,,,,,2020-08-13,-7,4,21,-15,-6,10
+TG,Togo,,,,,,2020-08-14,-8,3,18,-8,-6,11
+TG,Togo,,,,,,2020-08-15,-9,-3,22,-14,-7,11
+TG,Togo,,,,,,2020-08-16,-6,-1,16,-20,3,10
+TG,Togo,,,,,,2020-08-17,-9,5,,,-7,9
+TG,Togo,,,,,,2020-08-18,-10,2,,,-4,10
+TG,Togo,,,,,,2020-08-19,-10,1,,,-5,11
+TG,Togo,,,,,,2020-08-20,-8,4,,,-7,12
+TG,Togo,,,,,,2020-08-21,-10,-2,,,-5,11
+TG,Togo,,,,,,2020-08-22,-5,1,,,3,10
+TG,Togo,,,,,,2020-08-23,-6,-3,,,7,10
+TG,Togo,,,,,,2020-08-24,-10,9,,,-5,10
+TG,Togo,,,,,,2020-08-25,-9,4,,,-4,11
+TG,Togo,,,,,,2020-08-26,-8,2,,,-4,11
+TG,Togo,,,,,,2020-08-27,-7,8,,,-5,11
+TG,Togo,,,,,,2020-08-28,-9,3,,,-4,12
+TG,Togo,,,,,,2020-08-29,-6,0,,,2,10
+TG,Togo,,,,,,2020-08-30,-7,-6,,,5,10
+TG,Togo,,,,,,2020-08-31,-9,4,,,-5,10
+TG,Togo,,,,,,2020-09-01,-7,3,,,-5,11
+TG,Togo,,,,,,2020-09-02,-7,3,,,-6,11
+TG,Togo,,,,,,2020-09-03,-6,4,,,-8,12
+TG,Togo,,,,,,2020-09-04,-6,6,,,-4,12
+TG,Togo,,,,,,2020-09-05,-5,4,,,1,10
+TG,Togo,,,,,,2020-09-06,-2,1,,,4,11
+TG,Togo,,,,,,2020-09-07,-4,8,,,-6,11
+TG,Togo,,,,,,2020-09-08,-3,10,,,-4,10
+TG,Togo,,,,,,2020-09-09,-5,8,,,-4,12
+TG,Togo,,,,,,2020-09-10,-2,6,,,-7,12
+TG,Togo,,,,,,2020-09-11,-2,4,58,0,-4,11
+TG,Togo,,,,,,2020-09-12,0,1,70,3,1,9
+TG,Togo,,,,,,2020-09-13,-3,-9,58,-2,0,11
+TG,Togo,,,,,,2020-09-14,-4,5,72,6,-4,11
+TG,Togo,,,,,,2020-09-15,-12,-5,53,-2,-4,15
+TG,Togo,,,,,,2020-09-16,-7,1,56,2,-6,14
+TG,Togo,,,,,,2020-09-17,-3,6,55,15,-6,14
+TG,Togo,,,,,,2020-09-18,-2,4,55,4,-2,13
+TG,Togo,,,,,,2020-09-19,-1,0,59,5,0,13
+TG,Togo,,,,,,2020-09-20,-4,-10,43,1,0,15
+TG,Togo,,,,,,2020-09-21,-5,9,56,6,-6,13
+TG,Togo,,,,,,2020-09-22,-10,15,55,0,-5,13
+TG,Togo,,,,,,2020-09-23,-14,22,52,-3,-7,13
+TG,Togo,,,,,,2020-09-24,-18,20,46,10,-10,16
+TG,Togo,,,,,,2020-09-25,-14,24,41,1,-5,14
+TG,Togo,,,,,,2020-09-26,-19,11,47,-2,-2,15
+TG,Togo,,,,,,2020-09-27,-15,9,41,-3,-5,13
+TG,Togo,,,,,,2020-09-28,-15,28,56,6,-5,13
+TG,Togo,,,,,,2020-09-29,-12,26,49,5,-6,11
+TG,Togo,,,,,,2020-09-30,-16,24,38,-4,-11,9
+TG,Togo,,,,,,2020-10-01,-12,30,37,10,-13,5
+TG,Togo,,,,,,2020-10-02,-6,28,29,-4,-9,4
+TG,Togo,,,,,,2020-10-03,-6,22,35,-10,-9,3
+TG,Togo,,,,,,2020-10-04,-4,13,27,-10,-14,3
+TG,Togo,,,,,,2020-10-05,-9,26,33,-2,-13,2
+TG,Togo,,,,,,2020-10-06,-9,25,30,-2,-11,3
+TG,Togo,,,,,,2020-10-07,-10,19,26,-7,-10,8
+TG,Togo,,,,,,2020-10-08,-4,25,29,8,-7,9
+TG,Togo,,,,,,2020-10-09,-11,12,17,-5,-4,11
+TG,Togo,,,,,,2020-10-10,-9,11,32,-10,-2,12
+TG,Togo,,,,,,2020-10-11,-11,0,17,-8,-6,12
+TG,Togo,,,,,,2020-10-12,-5,28,39,4,-5,8
+TG,Togo,,,,,,2020-10-13,-2,28,35,2,-4,9
+TG,Togo,,,,,,2020-10-14,-5,28,31,0,-4,10
+TG,Togo,,,,,,2020-10-15,-4,37,31,14,-6,11
+TG,Togo,,,,,,2020-10-16,-4,36,33,2,-2,11
+TG,Togo,,,,,,2020-10-17,-5,30,38,-9,-1,10
+TG,Togo,,,,,,2020-10-18,-4,23,30,-2,-6,10
+TG,Togo,,,,,,2020-10-19,-8,34,32,2,-5,10
+TG,Togo,,,,,,2020-10-20,-8,28,27,3,-4,9
+TG,Togo,,,,,,2020-10-21,-6,27,35,-4,-3,11
+TG,Togo,,,,,,2020-10-22,-4,30,37,8,-5,12
+TG,Togo,,,,,,2020-10-23,-4,29,34,-4,0,11
+TG,Togo,,,,,,2020-10-24,-4,24,37,-8,4,10
+TG,Togo,,,,,,2020-10-25,-8,5,30,-4,-5,13
+TG,Togo,,,,,,2020-10-26,-3,32,37,3,-2,10
+TG,Togo,,,,,,2020-10-27,-2,32,34,-1,-2,10
+TG,Togo,,,,,,2020-10-28,-2,31,36,5,-4,11
+TG,Togo,,,,,,2020-10-29,0,33,25,10,-6,11
+TG,Togo,,,,,,2020-10-30,1,32,25,8,-2,11
+TG,Togo,,,,,,2020-10-31,4,31,33,2,2,9
+TG,Togo,,,,,,2020-11-01,5,18,30,5,-2,10
+TG,Togo,,,,,,2020-11-02,0,34,31,4,-5,8
+TG,Togo,,,,,,2020-11-03,-1,31,28,-3,-2,8
+TG,Togo,,,,,,2020-11-04,-7,28,26,-7,-3,9
+TG,Togo,,,,,,2020-11-05,-7,33,27,-2,-5,9
+TG,Togo,,,,,,2020-11-06,-7,26,27,-5,0,9
+TG,Togo,,,,,,2020-11-07,-5,23,33,-11,1,10
+TG,Togo,,,,,,2020-11-08,-5,11,30,-11,-4,11
+TG,Togo,,,,,,2020-11-09,-9,32,40,-4,-3,8
+TG,Togo,,,,,,2020-11-10,-7,28,32,-6,-2,8
+TG,Togo,,,,,,2020-11-11,-9,23,24,-12,-3,11
+TG,Togo,,,,,,2020-11-12,-7,29,23,2,-4,11
+TG,Togo,,,,,,2020-11-13,-5,31,27,-2,1,9
+TG,Togo,,,,,,2020-11-14,-2,24,39,-4,3,9
+TG,Togo,,,,,,2020-11-15,-4,10,30,-5,-5,10
+TG,Togo,,,,,,2020-11-16,-9,28,32,1,-1,9
+TG,Togo,,,,,,2020-11-17,-9,24,29,-12,-1,10
+TG,Togo,,,,,,2020-11-18,-9,25,25,-3,-2,10
+TG,Togo,,,,,,2020-11-19,-8,27,33,5,-2,10
+TG,Togo,,,,,,2020-11-20,-4,29,29,-3,3,9
+TG,Togo,,,,,,2020-11-21,-3,23,36,-6,4,9
+TG,Togo,,,,,,2020-11-22,-5,8,26,-13,-3,10
+TG,Togo,,,,,,2020-11-23,-9,29,37,-3,0,9
+TG,Togo,,,,,,2020-11-24,-7,27,30,-7,2,9
+TG,Togo,,,,,,2020-11-25,-8,28,29,-2,2,10
+TG,Togo,,,,,,2020-11-26,-8,30,27,9,-1,10
+TG,Togo,,,,,,2020-11-27,-2,32,35,-2,4,8
+TG,Togo,,,,,,2020-11-28,1,28,47,-3,6,9
+TG,Togo,,,,,,2020-11-29,0,15,32,-3,0,10
+TG,Togo,,,,,,2020-11-30,-4,35,46,8,3,9
+TG,Togo,,,,,,2020-12-01,-2,36,43,-4,5,8
+TG,Togo,,,,,,2020-12-02,-2,36,45,4,5,9
+TG,Togo,,,,,,2020-12-03,-1,41,37,11,3,9
+TG,Togo,,,,,,2020-12-04,1,35,43,6,8,8
+TG,Togo,,,,,,2020-12-05,3,31,57,7,9,7
+TG,Togo,,,,,,2020-12-06,1,16,38,-1,1,9
+TG,Togo,Centrale Region,,,TG-C,,2020-10-01,,,,,-45,
+TG,Togo,Centrale Region,,,TG-C,,2020-10-05,,,,,-48,
+TG,Togo,Centrale Region,,,TG-C,,2020-10-06,,,,,-44,
+TG,Togo,Centrale Region,,,TG-C,,2020-10-07,,,,,-40,
+TG,Togo,Centrale Region,,,TG-C,,2020-10-08,,,,,-46,
+TG,Togo,Kara Region,,,TG-K,,2020-02-17,,,,,-4,
+TG,Togo,Kara Region,,,TG-K,,2020-02-18,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-02-19,,,,,-1,
+TG,Togo,Kara Region,,,TG-K,,2020-02-20,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-02-21,,,,,-2,
+TG,Togo,Kara Region,,,TG-K,,2020-02-22,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,2020-02-24,,,,,-3,
+TG,Togo,Kara Region,,,TG-K,,2020-02-25,,,,,-4,
+TG,Togo,Kara Region,,,TG-K,,2020-02-26,,,,,1,
+TG,Togo,Kara Region,,,TG-K,,2020-02-27,,,,,1,
+TG,Togo,Kara Region,,,TG-K,,2020-02-28,,,,,-6,
+TG,Togo,Kara Region,,,TG-K,,2020-03-02,,,,,-7,
+TG,Togo,Kara Region,,,TG-K,,2020-03-03,,,,,-1,
+TG,Togo,Kara Region,,,TG-K,,2020-03-04,,,,,3,
+TG,Togo,Kara Region,,,TG-K,,2020-03-05,,,,,-3,
+TG,Togo,Kara Region,,,TG-K,,2020-03-06,,,,,6,
+TG,Togo,Kara Region,,,TG-K,,2020-03-09,,,,,0,
+TG,Togo,Kara Region,,,TG-K,,2020-03-10,,,,,1,
+TG,Togo,Kara Region,,,TG-K,,2020-03-11,,,,,3,
+TG,Togo,Kara Region,,,TG-K,,2020-03-12,,,,,0,
+TG,Togo,Kara Region,,,TG-K,,2020-03-13,,,,,5,
+TG,Togo,Kara Region,,,TG-K,,2020-03-16,,,,,0,
+TG,Togo,Kara Region,,,TG-K,,2020-03-17,,,,,-6,
+TG,Togo,Kara Region,,,TG-K,,2020-03-18,,,,,3,
+TG,Togo,Kara Region,,,TG-K,,2020-03-19,,,,,-3,
+TG,Togo,Kara Region,,,TG-K,,2020-03-20,,,,,3,
+TG,Togo,Kara Region,,,TG-K,,2020-03-23,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-03-24,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-03-25,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,2020-03-26,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,2020-03-27,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-03-30,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-03-31,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-04-01,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,2020-04-02,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-04-03,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,2020-04-06,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-04-07,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-04-08,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,2020-04-09,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,2020-04-10,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,2020-04-13,,,,,-47,
+TG,Togo,Kara Region,,,TG-K,,2020-04-14,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-04-15,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,2020-04-16,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,2020-04-17,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,2020-04-20,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,2020-04-21,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-04-22,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,2020-04-23,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-04-24,,,-40,,-22,
+TG,Togo,Kara Region,,,TG-K,,2020-04-27,,,,,-42,
+TG,Togo,Kara Region,,,TG-K,,2020-04-28,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,2020-04-29,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-04-30,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-05-01,,,,,-47,
+TG,Togo,Kara Region,,,TG-K,,2020-05-04,,,,,-15,
+TG,Togo,Kara Region,,,TG-K,,2020-05-05,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-05-06,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-05-07,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,2020-05-08,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-05-11,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,2020-05-12,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-05-13,,,,,-9,
+TG,Togo,Kara Region,,,TG-K,,2020-05-14,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-05-15,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-05-18,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-05-19,,,,,-15,
+TG,Togo,Kara Region,,,TG-K,,2020-05-20,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-05-21,,,,,-36,
+TG,Togo,Kara Region,,,TG-K,,2020-05-22,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,2020-05-25,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,2020-05-26,,,,,-10,
+TG,Togo,Kara Region,,,TG-K,,2020-05-27,,,,,-12,
+TG,Togo,Kara Region,,,TG-K,,2020-05-28,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-05-29,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-06-01,,,,,-40,
+TG,Togo,Kara Region,,,TG-K,,2020-06-02,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-06-03,,,,,-5,
+TG,Togo,Kara Region,,,TG-K,,2020-06-04,,,,,-12,
+TG,Togo,Kara Region,,,TG-K,,2020-06-05,,,,,-9,
+TG,Togo,Kara Region,,,TG-K,,2020-06-08,,,,,-9,
+TG,Togo,Kara Region,,,TG-K,,2020-06-09,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,2020-06-10,,,,,-8,
+TG,Togo,Kara Region,,,TG-K,,2020-06-11,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-06-12,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,2020-06-15,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,2020-06-16,,,,,-12,
+TG,Togo,Kara Region,,,TG-K,,2020-06-17,,,,,-9,
+TG,Togo,Kara Region,,,TG-K,,2020-06-18,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,2020-06-19,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-06-22,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-06-23,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,2020-06-24,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,2020-06-25,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,2020-06-26,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-06-29,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,2020-06-30,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-07-01,,,,,-10,
+TG,Togo,Kara Region,,,TG-K,,2020-07-02,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-07-03,,,,,-10,
+TG,Togo,Kara Region,,,TG-K,,2020-07-06,,,,,-10,
+TG,Togo,Kara Region,,,TG-K,,2020-07-07,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-07-08,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-07-09,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,2020-07-10,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,2020-07-13,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-07-14,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,2020-07-15,,,,,-7,
+TG,Togo,Kara Region,,,TG-K,,2020-07-16,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-07-17,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-07-20,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-07-21,,,,,-15,
+TG,Togo,Kara Region,,,TG-K,,2020-07-22,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-07-23,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-07-24,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,2020-07-27,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-07-28,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,2020-07-29,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,2020-07-30,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-07-31,,,,,-52,
+TG,Togo,Kara Region,,,TG-K,,2020-08-03,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,2020-08-04,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,2020-08-05,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-08-06,,,,,-15,
+TG,Togo,Kara Region,,,TG-K,,2020-08-07,,,,,-11,
+TG,Togo,Kara Region,,,TG-K,,2020-08-10,,,,,-12,
+TG,Togo,Kara Region,,,TG-K,,2020-08-11,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,2020-08-12,,,,,-13,
+TG,Togo,Kara Region,,,TG-K,,2020-08-13,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,2020-08-14,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-09-11,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,2020-09-14,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-09-15,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-09-16,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,2020-09-17,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-09-18,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,2020-09-21,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,2020-09-22,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,2020-09-23,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-09-24,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,2020-09-25,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,2020-09-28,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-09-29,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-09-30,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,2020-10-01,,,,,-39,
+TG,Togo,Kara Region,,,TG-K,,2020-10-02,,,,,-36,
+TG,Togo,Kara Region,,,TG-K,,2020-10-03,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,2020-10-05,,,,,-35,
+TG,Togo,Kara Region,,,TG-K,,2020-10-06,,,,,-39,
+TG,Togo,Kara Region,,,TG-K,,2020-10-07,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,2020-10-08,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,2020-10-09,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,2020-10-12,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-10-13,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,2020-10-14,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,2020-10-15,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,2020-10-16,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,2020-10-19,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-10-20,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-10-21,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,2020-10-22,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-10-23,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-10-24,,,,,-15,
+TG,Togo,Kara Region,,,TG-K,,2020-10-26,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-10-27,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-10-28,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,2020-10-29,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,2020-10-30,,,-42,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-10-31,,,-48,,,
+TG,Togo,Kara Region,,,TG-K,,2020-11-02,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-11-03,,,-56,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-11-04,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,2020-11-05,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-11-06,,,-48,,-28,
+TG,Togo,Kara Region,,,TG-K,,2020-11-07,,,-43,,,
+TG,Togo,Kara Region,,,TG-K,,2020-11-09,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-11-10,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,2020-11-11,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,2020-11-12,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-11-13,,,-52,,-24,
+TG,Togo,Kara Region,,,TG-K,,2020-11-15,,,-45,,,
+TG,Togo,Kara Region,,,TG-K,,2020-11-16,,,-50,,-31,
+TG,Togo,Kara Region,,,TG-K,,2020-11-17,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,2020-11-18,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,2020-11-19,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,2020-11-20,,,-50,,-26,
+TG,Togo,Kara Region,,,TG-K,,2020-11-21,,,-45,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-11-22,,,-44,,,
+TG,Togo,Kara Region,,,TG-K,,2020-11-23,,,-49,,-35,
+TG,Togo,Kara Region,,,TG-K,,2020-11-24,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,2020-11-25,,,-53,,-22,
+TG,Togo,Kara Region,,,TG-K,,2020-11-26,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,2020-11-27,,,-51,,-24,
+TG,Togo,Kara Region,,,TG-K,,2020-11-28,,,-42,,,
+TG,Togo,Kara Region,,,TG-K,,2020-11-29,,,-43,,,
+TG,Togo,Kara Region,,,TG-K,,2020-11-30,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,2020-12-01,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-12-02,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2020-12-03,,,,,-29,
+TG,Togo,Kara Region,,,TG-K,,2020-12-04,,,-43,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-12-05,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-12-06,,,-43,,,
+TG,Togo,Maritime Region,,,TG-M,,2020-02-15,-3,0,-11,-2,2,1
+TG,Togo,Maritime Region,,,TG-M,,2020-02-16,-4,-2,-12,-7,-1,1
+TG,Togo,Maritime Region,,,TG-M,,2020-02-17,-7,2,-9,-8,0,1
+TG,Togo,Maritime Region,,,TG-M,,2020-02-18,-7,0,-10,-9,0,1
+TG,Togo,Maritime Region,,,TG-M,,2020-02-19,-9,-3,-14,-6,0,2
+TG,Togo,Maritime Region,,,TG-M,,2020-02-20,-10,-3,-18,-11,-2,1
+TG,Togo,Maritime Region,,,TG-M,,2020-02-21,-9,0,-5,-5,0,0
+TG,Togo,Maritime Region,,,TG-M,,2020-02-22,-35,-31,-15,-29,-48,16
+TG,Togo,Maritime Region,,,TG-M,,2020-02-23,-17,-14,-15,-17,-3,6
+TG,Togo,Maritime Region,,,TG-M,,2020-02-24,-11,-6,2,-11,-2,3
+TG,Togo,Maritime Region,,,TG-M,,2020-02-25,-9,-4,10,-7,1,2
+TG,Togo,Maritime Region,,,TG-M,,2020-02-26,-8,-3,4,-10,2,2
+TG,Togo,Maritime Region,,,TG-M,,2020-02-27,-7,-3,10,-6,2,3
+TG,Togo,Maritime Region,,,TG-M,,2020-02-28,-9,-4,3,-7,1,3
+TG,Togo,Maritime Region,,,TG-M,,2020-02-29,-7,-4,7,-3,2,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-01,-7,-4,4,-7,0,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-02,-8,-1,8,-3,2,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-03,-8,-3,12,-7,1,4
+TG,Togo,Maritime Region,,,TG-M,,2020-03-04,-3,0,13,-8,4,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-05,-4,3,11,2,4,3
+TG,Togo,Maritime Region,,,TG-M,,2020-03-06,-8,-2,-2,-1,2,4
+TG,Togo,Maritime Region,,,TG-M,,2020-03-07,-5,-1,7,-2,4,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-08,0,0,10,-7,1,1
+TG,Togo,Maritime Region,,,TG-M,,2020-03-09,-7,1,11,-3,3,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-10,-6,-1,18,-7,4,1
+TG,Togo,Maritime Region,,,TG-M,,2020-03-11,-6,-2,10,-11,4,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-12,-5,1,13,-2,4,3
+TG,Togo,Maritime Region,,,TG-M,,2020-03-13,-5,1,2,-4,4,1
+TG,Togo,Maritime Region,,,TG-M,,2020-03-14,-5,-3,11,-7,2,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-15,-7,-4,9,-10,-1,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-16,-8,-3,12,-9,2,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-17,-10,-2,16,-11,2,2
+TG,Togo,Maritime Region,,,TG-M,,2020-03-18,-9,-3,13,-6,3,4
+TG,Togo,Maritime Region,,,TG-M,,2020-03-19,-10,-1,13,-1,2,5
+TG,Togo,Maritime Region,,,TG-M,,2020-03-20,-12,1,3,-10,1,5
+TG,Togo,Maritime Region,,,TG-M,,2020-03-21,-18,2,-2,-19,-4,10
+TG,Togo,Maritime Region,,,TG-M,,2020-03-22,-31,-17,-24,-32,-8,14
+TG,Togo,Maritime Region,,,TG-M,,2020-03-23,-25,-11,-7,-27,-15,14
+TG,Togo,Maritime Region,,,TG-M,,2020-03-24,-29,-18,-6,-33,-20,17
+TG,Togo,Maritime Region,,,TG-M,,2020-03-25,-29,-16,-6,-32,-20,18
+TG,Togo,Maritime Region,,,TG-M,,2020-03-26,-30,-16,-6,-30,-21,19
+TG,Togo,Maritime Region,,,TG-M,,2020-03-27,-31,-19,-15,-32,-20,18
+TG,Togo,Maritime Region,,,TG-M,,2020-03-28,-33,-21,-9,-33,-14,18
+TG,Togo,Maritime Region,,,TG-M,,2020-03-29,-39,-27,-25,-41,-12,17
+TG,Togo,Maritime Region,,,TG-M,,2020-03-30,-30,-19,-8,-40,-22,18
+TG,Togo,Maritime Region,,,TG-M,,2020-03-31,-30,-20,-6,-37,-23,17
+TG,Togo,Maritime Region,,,TG-M,,2020-04-01,-33,-25,-16,-40,-28,19
+TG,Togo,Maritime Region,,,TG-M,,2020-04-02,-36,-23,-17,-40,-26,22
+TG,Togo,Maritime Region,,,TG-M,,2020-04-03,-38,-26,-23,-47,-25,21
+TG,Togo,Maritime Region,,,TG-M,,2020-04-04,-48,-40,-32,-54,-30,26
+TG,Togo,Maritime Region,,,TG-M,,2020-04-05,-43,-32,-32,-54,-13,18
+TG,Togo,Maritime Region,,,TG-M,,2020-04-06,-33,-18,-4,-45,-23,19
+TG,Togo,Maritime Region,,,TG-M,,2020-04-07,-33,-22,-6,-41,-24,19
+TG,Togo,Maritime Region,,,TG-M,,2020-04-08,-33,-24,-14,-46,-24,20
+TG,Togo,Maritime Region,,,TG-M,,2020-04-09,-35,-22,-12,-40,-24,21
+TG,Togo,Maritime Region,,,TG-M,,2020-04-10,-38,-25,-19,-46,-25,23
+TG,Togo,Maritime Region,,,TG-M,,2020-04-11,-38,-24,-18,-48,-18,19
+TG,Togo,Maritime Region,,,TG-M,,2020-04-12,-41,-29,-29,-53,-14,17
+TG,Togo,Maritime Region,,,TG-M,,2020-04-13,-42,-31,-12,-50,-56,28
+TG,Togo,Maritime Region,,,TG-M,,2020-04-14,-33,-20,-12,-42,-21,18
+TG,Togo,Maritime Region,,,TG-M,,2020-04-15,-34,-21,-13,-44,-22,20
+TG,Togo,Maritime Region,,,TG-M,,2020-04-16,-33,-21,-9,-38,-22,21
+TG,Togo,Maritime Region,,,TG-M,,2020-04-17,-38,-25,-16,-42,-22,22
+TG,Togo,Maritime Region,,,TG-M,,2020-04-18,-36,-23,-18,-40,-12,18
+TG,Togo,Maritime Region,,,TG-M,,2020-04-19,-43,-31,-32,-48,-11,18
+TG,Togo,Maritime Region,,,TG-M,,2020-04-20,-33,-20,-10,-38,-19,18
+TG,Togo,Maritime Region,,,TG-M,,2020-04-21,-34,-22,-13,-40,-20,19
+TG,Togo,Maritime Region,,,TG-M,,2020-04-22,-34,-21,-9,-40,-20,20
+TG,Togo,Maritime Region,,,TG-M,,2020-04-23,-33,-20,-12,-31,-20,21
+TG,Togo,Maritime Region,,,TG-M,,2020-04-24,-36,-24,-17,-40,-18,21
+TG,Togo,Maritime Region,,,TG-M,,2020-04-25,-35,-24,-16,-39,-9,18
+TG,Togo,Maritime Region,,,TG-M,,2020-04-26,-50,-39,-38,-54,-16,23
+TG,Togo,Maritime Region,,,TG-M,,2020-04-27,-41,-32,-12,-47,-56,28
+TG,Togo,Maritime Region,,,TG-M,,2020-04-28,-31,-16,-4,-40,-16,16
+TG,Togo,Maritime Region,,,TG-M,,2020-04-29,-32,-18,-12,-42,-17,20
+TG,Togo,Maritime Region,,,TG-M,,2020-04-30,-29,-11,0,-34,-15,19
+TG,Togo,Maritime Region,,,TG-M,,2020-05-01,-42,-31,-15,-47,-58,29
+TG,Togo,Maritime Region,,,TG-M,,2020-05-02,-36,-20,-10,-40,-7,18
+TG,Togo,Maritime Region,,,TG-M,,2020-05-03,-50,-38,-36,-53,-14,21
+TG,Togo,Maritime Region,,,TG-M,,2020-05-04,-31,-14,3,-39,-14,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-05,-30,-16,3,-36,-15,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-06,-29,-12,-2,-37,-14,18
+TG,Togo,Maritime Region,,,TG-M,,2020-05-07,-29,-12,0,-34,-14,19
+TG,Togo,Maritime Region,,,TG-M,,2020-05-08,-31,-15,-12,-37,-12,19
+TG,Togo,Maritime Region,,,TG-M,,2020-05-09,-32,-16,-6,-34,-2,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-10,-43,-31,-36,-51,-6,19
+TG,Togo,Maritime Region,,,TG-M,,2020-05-11,-27,-11,0,-36,-12,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-12,-27,-9,-2,-36,-12,15
+TG,Togo,Maritime Region,,,TG-M,,2020-05-13,-28,-13,-3,-29,-12,17
+TG,Togo,Maritime Region,,,TG-M,,2020-05-14,-26,-11,-5,-23,-12,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-15,-28,-12,-9,-25,-10,18
+TG,Togo,Maritime Region,,,TG-M,,2020-05-16,-27,-14,-2,-26,0,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-17,-33,-21,-17,-40,2,15
+TG,Togo,Maritime Region,,,TG-M,,2020-05-18,-26,-13,5,-23,-10,15
+TG,Togo,Maritime Region,,,TG-M,,2020-05-19,-29,-16,-5,-37,-12,17
+TG,Togo,Maritime Region,,,TG-M,,2020-05-20,-23,-11,0,-37,-10,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-21,-30,-17,3,-35,-44,26
+TG,Togo,Maritime Region,,,TG-M,,2020-05-22,-31,-14,-12,-40,-10,19
+TG,Togo,Maritime Region,,,TG-M,,2020-05-23,-29,-15,0,-35,-2,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-24,-28,-19,-11,-44,0,14
+TG,Togo,Maritime Region,,,TG-M,,2020-05-25,-38,-28,-10,-43,-26,26
+TG,Togo,Maritime Region,,,TG-M,,2020-05-26,-24,-9,7,-36,-9,15
+TG,Togo,Maritime Region,,,TG-M,,2020-05-27,-25,-11,1,-36,-8,17
+TG,Togo,Maritime Region,,,TG-M,,2020-05-28,-32,-18,-5,-37,-12,20
+TG,Togo,Maritime Region,,,TG-M,,2020-05-29,-23,-8,1,-35,-7,16
+TG,Togo,Maritime Region,,,TG-M,,2020-05-30,-25,-11,4,-36,4,14
+TG,Togo,Maritime Region,,,TG-M,,2020-05-31,-24,-13,-5,-39,7,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-01,-34,-20,0,-44,-46,25
+TG,Togo,Maritime Region,,,TG-M,,2020-06-02,-27,-17,1,-39,-12,16
+TG,Togo,Maritime Region,,,TG-M,,2020-06-03,-18,-4,9,-29,-7,14
+TG,Togo,Maritime Region,,,TG-M,,2020-06-04,-20,-4,9,-27,-7,16
+TG,Togo,Maritime Region,,,TG-M,,2020-06-05,-20,-3,3,-29,-6,14
+TG,Togo,Maritime Region,,,TG-M,,2020-06-06,-19,-4,8,-26,7,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-07,-21,-9,-4,-40,10,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-08,-18,-2,16,-28,-5,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-09,-23,-7,9,-36,-8,16
+TG,Togo,Maritime Region,,,TG-M,,2020-06-10,-22,-9,5,-32,-6,17
+TG,Togo,Maritime Region,,,TG-M,,2020-06-11,-12,-2,21,-21,-5,14
+TG,Togo,Maritime Region,,,TG-M,,2020-06-12,-19,-8,5,-23,-5,15
+TG,Togo,Maritime Region,,,TG-M,,2020-06-13,-14,-5,14,-28,8,12
+TG,Togo,Maritime Region,,,TG-M,,2020-06-14,-16,-11,2,-36,12,12
+TG,Togo,Maritime Region,,,TG-M,,2020-06-15,-15,-8,20,-28,-6,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-16,-16,-5,23,-29,-4,12
+TG,Togo,Maritime Region,,,TG-M,,2020-06-17,-18,-7,10,-34,-5,14
+TG,Togo,Maritime Region,,,TG-M,,2020-06-18,-20,-8,13,-28,-6,14
+TG,Togo,Maritime Region,,,TG-M,,2020-06-19,-18,-9,7,-28,-4,12
+TG,Togo,Maritime Region,,,TG-M,,2020-06-20,-21,-12,6,-32,4,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-21,-19,-10,-3,-40,9,12
+TG,Togo,Maritime Region,,,TG-M,,2020-06-22,-20,-8,15,-30,-7,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-23,-17,-7,19,-33,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-06-24,-17,-7,13,-35,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-06-25,-17,-5,18,-27,-5,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-26,-16,-5,9,-29,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-06-27,-13,-7,12,-30,4,11
+TG,Togo,Maritime Region,,,TG-M,,2020-06-28,-21,-14,-2,-43,1,13
+TG,Togo,Maritime Region,,,TG-M,,2020-06-29,-15,-5,21,-27,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-06-30,-13,-4,28,-32,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-07-01,-15,-6,28,-27,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-02,-11,0,30,-15,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-03,-13,-2,20,-19,-4,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-04,-16,-10,17,-27,1,14
+TG,Togo,Maritime Region,,,TG-M,,2020-07-05,-11,-8,10,-32,7,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-06,-18,-5,19,-24,-6,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-07,-11,0,26,-27,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-07-08,-13,-4,20,-23,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-09,-13,-2,18,-15,-5,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-10,-14,-2,14,-20,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-11,-13,-3,13,-29,2,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-12,-14,-7,7,-35,5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-13,-14,-2,25,-24,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-14,-15,-5,22,-24,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-15,-14,-4,14,-28,-6,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-16,-16,-4,14,-21,-5,14
+TG,Togo,Maritime Region,,,TG-M,,2020-07-17,-15,-6,10,-22,-5,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-18,-14,-4,18,-28,3,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-19,-14,-6,5,-33,4,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-20,-16,-3,19,-21,-6,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-21,-18,-7,20,-31,-7,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-22,-15,-5,19,-28,-5,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-23,-15,-2,21,-24,-5,14
+TG,Togo,Maritime Region,,,TG-M,,2020-07-24,-14,-4,13,-22,-4,13
+TG,Togo,Maritime Region,,,TG-M,,2020-07-25,-12,-3,22,-21,3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-07-26,-14,-8,9,-34,5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-27,-14,-2,26,-19,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-07-28,-15,-2,29,-28,-5,11
+TG,Togo,Maritime Region,,,TG-M,,2020-07-29,-12,0,27,-19,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-07-30,-8,8,38,-18,-7,11
+TG,Togo,Maritime Region,,,TG-M,,2020-07-31,-21,-14,18,-42,-53,23
+TG,Togo,Maritime Region,,,TG-M,,2020-08-01,-15,-8,23,-31,-11,14
+TG,Togo,Maritime Region,,,TG-M,,2020-08-02,-12,-7,11,-36,0,13
+TG,Togo,Maritime Region,,,TG-M,,2020-08-03,-12,0,27,-19,-7,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-04,-11,1,33,-25,-7,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-05,-11,1,26,-22,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-06,-8,2,25,-14,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-07,-11,1,26,-10,-5,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-08,-8,0,40,-15,3,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-09,-6,-3,22,-18,4,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-10,-9,3,34,-8,-6,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-11,-9,1,40,-8,-6,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-12,-8,1,34,-16,-6,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-13,-9,3,37,-15,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-14,-8,3,29,-4,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-15,-11,-4,30,-12,-8,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-16,-9,-2,22,-17,2,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-17,,6,,,-6,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-18,,0,,,-5,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-19,,2,,,-4,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-20,,3,,,-7,13
+TG,Togo,Maritime Region,,,TG-M,,2020-08-21,-10,0,,,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-22,-7,1,,,2,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-23,,-4,,,7,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-24,,3,,,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-25,,4,,,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-26,,2,,,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-27,,9,,,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-28,-10,1,,,-4,12
+TG,Togo,Maritime Region,,,TG-M,,2020-08-29,-8,-1,,,1,10
+TG,Togo,Maritime Region,,,TG-M,,2020-08-30,,-8,,,3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-08-31,,4,,,-5,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-01,,3,,,-7,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-02,,2,,,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-09-03,,2,,,-7,13
+TG,Togo,Maritime Region,,,TG-M,,2020-09-04,-7,5,,,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-09-05,-5,1,,,0,10
+TG,Togo,Maritime Region,,,TG-M,,2020-09-06,,-1,,,3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-07,,10,,,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-08,,10,,,-7,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-09,,9,,,-4,12
+TG,Togo,Maritime Region,,,TG-M,,2020-09-10,,3,,,-6,12
+TG,Togo,Maritime Region,,,TG-M,,2020-09-11,-5,3,80,1,-6,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-12,-1,0,99,8,0,9
+TG,Togo,Maritime Region,,,TG-M,,2020-09-13,-5,-10,77,2,-2,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-14,-6,4,107,10,-3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-15,-14,-6,81,-1,-8,16
+TG,Togo,Maritime Region,,,TG-M,,2020-09-16,-6,1,82,2,-5,14
+TG,Togo,Maritime Region,,,TG-M,,2020-09-17,-5,4,83,20,-5,14
+TG,Togo,Maritime Region,,,TG-M,,2020-09-18,-4,3,74,5,-3,13
+TG,Togo,Maritime Region,,,TG-M,,2020-09-19,-2,-2,84,9,0,13
+TG,Togo,Maritime Region,,,TG-M,,2020-09-20,-7,-11,57,2,-1,15
+TG,Togo,Maritime Region,,,TG-M,,2020-09-21,-6,9,88,6,-5,13
+TG,Togo,Maritime Region,,,TG-M,,2020-09-22,-11,15,88,0,-8,13
+TG,Togo,Maritime Region,,,TG-M,,2020-09-23,-14,23,77,-8,-6,14
+TG,Togo,Maritime Region,,,TG-M,,2020-09-24,-20,19,67,7,-8,16
+TG,Togo,Maritime Region,,,TG-M,,2020-09-25,-16,24,58,-3,-6,14
+TG,Togo,Maritime Region,,,TG-M,,2020-09-26,-20,9,69,-5,-3,15
+TG,Togo,Maritime Region,,,TG-M,,2020-09-27,-16,9,55,-5,-6,13
+TG,Togo,Maritime Region,,,TG-M,,2020-09-28,-15,28,86,3,-3,13
+TG,Togo,Maritime Region,,,TG-M,,2020-09-29,-13,26,83,0,-8,11
+TG,Togo,Maritime Region,,,TG-M,,2020-09-30,-14,25,65,-7,-10,10
+TG,Togo,Maritime Region,,,TG-M,,2020-10-01,-12,29,69,11,-10,5
+TG,Togo,Maritime Region,,,TG-M,,2020-10-02,-7,28,45,-8,-9,4
+TG,Togo,Maritime Region,,,TG-M,,2020-10-03,-5,22,59,-13,-8,3
+TG,Togo,Maritime Region,,,TG-M,,2020-10-04,-4,14,43,-10,-13,3
+TG,Togo,Maritime Region,,,TG-M,,2020-10-05,-7,26,65,-4,-11,3
+TG,Togo,Maritime Region,,,TG-M,,2020-10-06,-9,24,65,-7,-12,3
+TG,Togo,Maritime Region,,,TG-M,,2020-10-07,-9,19,52,-13,-9,9
+TG,Togo,Maritime Region,,,TG-M,,2020-10-08,-3,24,54,5,-4,9
+TG,Togo,Maritime Region,,,TG-M,,2020-10-09,-12,11,33,-9,-5,12
+TG,Togo,Maritime Region,,,TG-M,,2020-10-10,-8,10,56,-12,-2,13
+TG,Togo,Maritime Region,,,TG-M,,2020-10-11,-12,0,29,-10,-6,13
+TG,Togo,Maritime Region,,,TG-M,,2020-10-12,-4,29,70,1,-3,9
+TG,Togo,Maritime Region,,,TG-M,,2020-10-13,-2,28,71,-2,-5,9
+TG,Togo,Maritime Region,,,TG-M,,2020-10-14,-4,28,55,-2,-3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-10-15,-5,36,58,17,-4,12
+TG,Togo,Maritime Region,,,TG-M,,2020-10-16,-6,36,55,1,-2,11
+TG,Togo,Maritime Region,,,TG-M,,2020-10-17,-5,30,68,-9,0,10
+TG,Togo,Maritime Region,,,TG-M,,2020-10-18,-5,23,52,0,-6,10
+TG,Togo,Maritime Region,,,TG-M,,2020-10-19,-8,35,67,0,-4,11
+TG,Togo,Maritime Region,,,TG-M,,2020-10-20,-9,27,60,0,-7,10
+TG,Togo,Maritime Region,,,TG-M,,2020-10-21,-5,28,63,-8,-2,12
+TG,Togo,Maritime Region,,,TG-M,,2020-10-22,-4,30,72,8,-2,12
+TG,Togo,Maritime Region,,,TG-M,,2020-10-23,-5,29,59,-7,-1,11
+TG,Togo,Maritime Region,,,TG-M,,2020-10-24,-4,24,67,-11,4,10
+TG,Togo,Maritime Region,,,TG-M,,2020-10-25,-10,5,52,-6,-4,13
+TG,Togo,Maritime Region,,,TG-M,,2020-10-26,-4,32,77,-1,-1,11
+TG,Togo,Maritime Region,,,TG-M,,2020-10-27,-4,31,72,-4,-4,10
+TG,Togo,Maritime Region,,,TG-M,,2020-10-28,-1,31,73,2,-3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-10-29,-1,32,59,11,-3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-10-30,0,31,50,7,-2,10
+TG,Togo,Maritime Region,,,TG-M,,2020-10-31,3,29,67,1,3,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-01,3,16,56,6,0,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-02,-1,34,70,1,-3,8
+TG,Togo,Maritime Region,,,TG-M,,2020-11-03,-2,30,71,-4,-4,8
+TG,Togo,Maritime Region,,,TG-M,,2020-11-04,-7,30,62,-10,-2,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-05,-7,32,61,-3,-2,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-06,-8,27,53,-8,-1,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-07,-5,23,64,-11,2,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-08,-5,12,55,-12,-3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-11-09,-8,33,81,-5,-1,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-10,-8,29,75,-7,-4,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-11,-9,23,62,-15,-2,11
+TG,Togo,Maritime Region,,,TG-M,,2020-11-12,-7,28,59,2,-1,11
+TG,Togo,Maritime Region,,,TG-M,,2020-11-13,-6,31,59,-4,0,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-14,-2,23,77,-4,5,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-15,-5,10,57,-6,-3,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-16,-9,29,69,-1,1,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-17,-10,24,73,-16,-3,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-18,-9,25,59,-8,0,11
+TG,Togo,Maritime Region,,,TG-M,,2020-11-19,-9,26,74,2,1,11
+TG,Togo,Maritime Region,,,TG-M,,2020-11-20,-4,29,57,-7,3,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-21,-3,22,72,-5,5,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-22,-4,7,51,-14,-1,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-23,-9,29,77,-6,2,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-24,-7,27,69,-9,0,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-25,-7,28,67,-6,3,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-26,-9,29,64,7,2,11
+TG,Togo,Maritime Region,,,TG-M,,2020-11-27,-5,32,71,-7,4,8
+TG,Togo,Maritime Region,,,TG-M,,2020-11-28,0,28,88,-7,7,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-29,-1,14,62,-5,2,10
+TG,Togo,Maritime Region,,,TG-M,,2020-11-30,-4,35,94,8,5,9
+TG,Togo,Maritime Region,,,TG-M,,2020-12-01,-3,36,92,-7,3,9
+TG,Togo,Maritime Region,,,TG-M,,2020-12-02,-2,36,87,-2,7,10
+TG,Togo,Maritime Region,,,TG-M,,2020-12-03,-2,40,78,7,7,10
+TG,Togo,Maritime Region,,,TG-M,,2020-12-04,-1,35,78,3,9,8
+TG,Togo,Maritime Region,,,TG-M,,2020-12-05,3,30,99,4,10,8
+TG,Togo,Maritime Region,,,TG-M,,2020-12-06,0,16,68,-3,2,9
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-15,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-17,,,,,0,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-18,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-19,,,,,0,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-20,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-21,,,,,5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-22,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-24,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-25,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-26,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-27,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-28,,,,,5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-02-29,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-02,,,,,5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-03,,,,,8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-04,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-05,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-06,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-07,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-09,,,,,0,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-10,,,,,0,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-11,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-12,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-13,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-14,,,,,-7,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-16,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-17,,,,,5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-18,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-19,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-20,,,,,5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-21,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-23,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-24,,,,,0,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-25,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-26,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-27,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-30,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-03-31,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-01,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-02,,,,,-5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-03,,,,,-5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-06,,,,,-5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-07,,,,,-5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-08,,,,,0,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-09,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-10,,,,,-3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-13,,,,,-28,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-14,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-15,,,,,-3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-16,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-17,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-20,,,,,1,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-21,,,,,1,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-22,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-23,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-24,,,,,4,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-27,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-28,,,,,4,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-29,,,,,7,
+TG,Togo,Plateaux Region,,,TG-P,,2020-04-30,,,,,7,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-01,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-04,,,,,4,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-05,,,,,4,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-06,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-07,,,,,6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-08,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-11,,,,,6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-12,,,,,8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-13,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-14,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-15,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-18,,,,,4,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-19,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-20,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-21,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-22,,,,,5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-25,,,,,0,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-26,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-27,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-28,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-05-29,,,,,9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-01,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-02,,,,,13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-03,,,,,6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-04,,,,,12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-05,,,,,12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-08,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-09,,,,,4,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-10,,,,,14,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-11,,,,,15,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-12,,,,,13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-15,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-16,,,,,3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-17,,,,,2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-18,,,,,8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-19,,,,,8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-22,,,,,8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-23,,,,,6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-24,,,,,6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-25,,,,,15,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-26,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-29,,,,,12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-06-30,,,,,5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-01,,,,,13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-02,,,,,23,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-03,,,,,15,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-06,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-07,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-08,,,,,12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-09,,,,,12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-10,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-13,,,,,15,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-14,,,,,9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-15,,,,,14,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-16,,,,,15,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-17,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-20,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-21,,,,,7,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-22,,,,,7,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-23,,,,,9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-24,,,,,11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-27,,,,,9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-28,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-29,,,,,7,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-30,,,,,8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-07-31,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-03,,,,,9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-04,,,,,1,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-05,,,,,5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-06,,,,,9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-07,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-10,,,,,8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-11,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-12,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-13,,,,,10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-08-14,,,,,4,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-11,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-14,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-15,,,,,0,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-16,,,,,-3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-17,,,,,1,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-18,,,,,1,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-21,,,,,-5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-22,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-23,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-24,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-25,,,,,-11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-26,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-28,,,,,-9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-29,,,,,-11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-09-30,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-01,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-02,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-03,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-05,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-06,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-07,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-08,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-09,,,,,-9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-10,,,,,-4,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-12,,,,,-12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-13,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-14,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-15,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-16,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-17,,,,,-12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-19,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-20,,,,,-12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-21,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-22,,,,,-11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-23,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-24,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-26,,,,,-9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-27,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-28,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-29,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-30,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-10-31,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-02,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-03,,,,,-11,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-04,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-05,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-06,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-07,,,,,-12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-09,,,,,-18,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-10,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-11,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-12,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-13,,,,,-16,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-14,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-16,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-17,,,,,-12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-18,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-19,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-20,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-21,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-23,,,,,-12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-24,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-25,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-26,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-27,,,,,-12,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-28,,,,,-5,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-30,,,,,-9,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-01,,,,,-3,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-02,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-03,,,,,-2,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-04,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-05,,,,,-3,
+TG,Togo,Savanes Region,,,TG-S,,2020-07-31,,,,,-50,

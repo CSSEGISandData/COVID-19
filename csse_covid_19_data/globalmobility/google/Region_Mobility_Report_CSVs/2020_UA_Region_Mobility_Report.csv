@@ -1,0 +1,593 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+UA,Ukraine,,,,,,2020-02-15,6,3,6,5,0,0
+UA,Ukraine,,,,,,2020-02-16,4,3,2,4,7,0
+UA,Ukraine,,,,,,2020-02-17,4,3,5,5,6,0
+UA,Ukraine,,,,,,2020-02-18,3,4,5,5,7,-1
+UA,Ukraine,,,,,,2020-02-19,7,6,16,8,8,-2
+UA,Ukraine,,,,,,2020-02-20,4,4,11,7,7,-1
+UA,Ukraine,,,,,,2020-02-21,4,6,2,7,7,-1
+UA,Ukraine,,,,,,2020-02-22,8,7,12,8,5,-1
+UA,Ukraine,,,,,,2020-02-23,0,2,-12,2,7,0
+UA,Ukraine,,,,,,2020-02-24,-5,-3,-14,-1,3,1
+UA,Ukraine,,,,,,2020-02-25,3,5,3,5,9,-1
+UA,Ukraine,,,,,,2020-02-26,5,6,12,8,9,-2
+UA,Ukraine,,,,,,2020-02-27,3,5,8,7,8,-2
+UA,Ukraine,,,,,,2020-02-28,2,5,2,6,8,-1
+UA,Ukraine,,,,,,2020-02-29,8,7,19,9,8,-1
+UA,Ukraine,,,,,,2020-03-01,6,6,9,7,12,-1
+UA,Ukraine,,,,,,2020-03-02,1,2,-4,3,9,-1
+UA,Ukraine,,,,,,2020-03-03,7,7,15,7,11,-2
+UA,Ukraine,,,,,,2020-03-04,11,11,24,11,10,-3
+UA,Ukraine,,,,,,2020-03-05,14,14,26,14,10,-3
+UA,Ukraine,,,,,,2020-03-06,16,14,17,14,9,-3
+UA,Ukraine,,,,,,2020-03-07,21,21,25,18,6,-3
+UA,Ukraine,,,,,,2020-03-08,24,18,32,16,7,-4
+UA,Ukraine,,,,,,2020-03-09,8,1,31,-8,-56,9
+UA,Ukraine,,,,,,2020-03-10,6,7,16,9,9,-3
+UA,Ukraine,,,,,,2020-03-11,5,9,9,8,9,-2
+UA,Ukraine,,,,,,2020-03-12,6,12,30,10,-3,-1
+UA,Ukraine,,,,,,2020-03-13,-3,6,11,1,-8,2
+UA,Ukraine,,,,,,2020-03-14,-10,4,1,-2,1,1
+UA,Ukraine,,,,,,2020-03-15,-18,-1,-15,-12,2,2
+UA,Ukraine,,,,,,2020-03-16,-6,9,5,-6,-14,4
+UA,Ukraine,,,,,,2020-03-17,-23,4,1,-14,-22,6
+UA,Ukraine,,,,,,2020-03-18,-33,-4,12,-24,-32,9
+UA,Ukraine,,,,,,2020-03-19,-37,-11,22,-29,-35,10
+UA,Ukraine,,,,,,2020-03-20,-42,-14,1,-35,-37,13
+UA,Ukraine,,,,,,2020-03-21,-52,-20,-16,-39,-28,8
+UA,Ukraine,,,,,,2020-03-22,-62,-30,-44,-53,-31,10
+UA,Ukraine,,,,,,2020-03-23,-49,-22,-26,-48,-43,16
+UA,Ukraine,,,,,,2020-03-24,-50,-26,-23,-49,-45,16
+UA,Ukraine,,,,,,2020-03-25,-49,-24,-12,-46,-45,16
+UA,Ukraine,,,,,,2020-03-26,-48,-25,-1,-45,-46,15
+UA,Ukraine,,,,,,2020-03-27,-50,-26,-8,-45,-45,17
+UA,Ukraine,,,,,,2020-03-28,-54,-27,0,-43,-31,8
+UA,Ukraine,,,,,,2020-03-29,-56,-30,-4,-45,-27,7
+UA,Ukraine,,,,,,2020-03-30,-49,-26,-13,-48,-45,16
+UA,Ukraine,,,,,,2020-03-31,-51,-28,-23,-51,-46,17
+UA,Ukraine,,,,,,2020-04-01,-49,-26,-14,-49,-46,16
+UA,Ukraine,,,,,,2020-04-02,-49,-27,-7,-47,-47,16
+UA,Ukraine,,,,,,2020-04-03,-50,-25,-12,-47,-46,17
+UA,Ukraine,,,,,,2020-04-04,-54,-27,-10,-45,-33,8
+UA,Ukraine,,,,,,2020-04-05,-56,-28,-17,-48,-29,7
+UA,Ukraine,,,,,,2020-04-06,-49,-27,-17,-49,-46,16
+UA,Ukraine,,,,,,2020-04-07,-46,-21,-10,-47,-48,16
+UA,Ukraine,,,,,,2020-04-08,-46,-23,-3,-46,-47,14
+UA,Ukraine,,,,,,2020-04-09,-46,-23,2,-45,-47,13
+UA,Ukraine,,,,,,2020-04-10,-49,-23,-15,-47,-46,16
+UA,Ukraine,,,,,,2020-04-11,-55,-28,-16,-47,-34,8
+UA,Ukraine,,,,,,2020-04-12,-57,-29,-21,-49,-31,7
+UA,Ukraine,,,,,,2020-04-13,-45,-23,-7,-46,-45,14
+UA,Ukraine,,,,,,2020-04-14,-48,-25,-20,-49,-46,15
+UA,Ukraine,,,,,,2020-04-15,-43,-18,-14,-47,-46,15
+UA,Ukraine,,,,,,2020-04-16,-43,-15,-7,-45,-47,15
+UA,Ukraine,,,,,,2020-04-17,-42,-10,-11,-44,-47,17
+UA,Ukraine,,,,,,2020-04-18,-55,-23,-17,-48,-38,10
+UA,Ukraine,,,,,,2020-04-19,-75,-56,-17,-59,-41,7
+UA,Ukraine,,,,,,2020-04-20,-64,-43,-8,-64,-77,21
+UA,Ukraine,,,,,,2020-04-21,-50,-29,-12,-51,-47,15
+UA,Ukraine,,,,,,2020-04-22,-44,-22,-2,-46,-45,13
+UA,Ukraine,,,,,,2020-04-23,-41,-18,11,-42,-44,13
+UA,Ukraine,,,,,,2020-04-24,-43,-17,0,-43,-43,14
+UA,Ukraine,,,,,,2020-04-25,-49,-22,-5,-42,-29,6
+UA,Ukraine,,,,,,2020-04-26,-56,-29,-25,-51,-28,7
+UA,Ukraine,,,,,,2020-04-27,-41,-19,-2,-44,-42,13
+UA,Ukraine,,,,,,2020-04-28,-37,-16,13,-40,-41,11
+UA,Ukraine,,,,,,2020-04-29,-36,-13,20,-38,-40,11
+UA,Ukraine,,,,,,2020-04-30,-34,-8,17,-36,-41,10
+UA,Ukraine,,,,,,2020-05-01,-46,-18,15,-46,-66,15
+UA,Ukraine,,,,,,2020-05-02,-50,-24,9,-43,-32,5
+UA,Ukraine,,,,,,2020-05-03,-50,-22,-3,-43,-22,3
+UA,Ukraine,,,,,,2020-05-04,-39,-17,2,-42,-40,12
+UA,Ukraine,,,,,,2020-05-05,-38,-15,4,-41,-40,12
+UA,Ukraine,,,,,,2020-05-06,-37,-12,0,-40,-40,12
+UA,Ukraine,,,,,,2020-05-07,-37,-11,1,-39,-40,12
+UA,Ukraine,,,,,,2020-05-08,-35,-6,5,-36,-38,12
+UA,Ukraine,,,,,,2020-05-09,-42,-10,25,-34,-27,3
+UA,Ukraine,,,,,,2020-05-10,-40,-10,27,-32,-13,1
+UA,Ukraine,,,,,,2020-05-11,-23,-6,50,-36,-59,11
+UA,Ukraine,,,,,,2020-05-12,-25,-7,4,-33,-32,10
+UA,Ukraine,,,,,,2020-05-13,-18,-1,28,-28,-31,8
+UA,Ukraine,,,,,,2020-05-14,-25,-6,8,-33,-32,9
+UA,Ukraine,,,,,,2020-05-15,-23,-2,13,-29,-30,9
+UA,Ukraine,,,,,,2020-05-16,-22,0,29,-22,-8,2
+UA,Ukraine,,,,,,2020-05-17,-25,-2,16,-26,-2,1
+UA,Ukraine,,,,,,2020-05-18,-16,-1,26,-29,-29,8
+UA,Ukraine,,,,,,2020-05-19,-18,-2,21,-29,-28,8
+UA,Ukraine,,,,,,2020-05-20,-17,1,25,-27,-29,8
+UA,Ukraine,,,,,,2020-05-21,-16,2,34,-24,-28,7
+UA,Ukraine,,,,,,2020-05-22,-20,2,16,-26,-27,8
+UA,Ukraine,,,,,,2020-05-23,-22,0,28,-20,-5,1
+UA,Ukraine,,,,,,2020-05-24,-23,0,20,-21,2,0
+UA,Ukraine,,,,,,2020-05-25,-18,-3,13,-26,-26,8
+UA,Ukraine,,,,,,2020-05-26,-18,-2,7,-25,-24,8
+UA,Ukraine,,,,,,2020-05-27,-13,4,32,-18,-23,6
+UA,Ukraine,,,,,,2020-05-28,-16,1,22,-20,-26,7
+UA,Ukraine,,,,,,2020-05-29,-19,0,15,-20,-23,7
+UA,Ukraine,,,,,,2020-05-30,-24,-4,1,-22,-8,3
+UA,Ukraine,,,,,,2020-05-31,-19,1,15,-16,4,1
+UA,Ukraine,,,,,,2020-06-01,-9,2,23,-16,-23,6
+UA,Ukraine,,,,,,2020-06-02,-9,3,26,-13,-22,5
+UA,Ukraine,,,,,,2020-06-03,-7,6,36,-10,-22,4
+UA,Ukraine,,,,,,2020-06-04,-6,8,45,-8,-22,3
+UA,Ukraine,,,,,,2020-06-05,-5,12,39,-7,-22,3
+UA,Ukraine,,,,,,2020-06-06,-7,12,65,-1,-2,-5
+UA,Ukraine,,,,,,2020-06-07,-9,7,73,-6,2,-6
+UA,Ukraine,,,,,,2020-06-08,-7,2,82,-22,-59,7
+UA,Ukraine,,,,,,2020-06-09,-2,8,53,-8,-21,1
+UA,Ukraine,,,,,,2020-06-10,0,12,64,-4,-22,1
+UA,Ukraine,,,,,,2020-06-11,0,12,67,-4,-22,1
+UA,Ukraine,,,,,,2020-06-12,-5,10,51,-7,-22,1
+UA,Ukraine,,,,,,2020-06-13,-11,6,58,-6,-1,-4
+UA,Ukraine,,,,,,2020-06-14,-9,8,40,-7,8,-5
+UA,Ukraine,,,,,,2020-06-15,1,11,54,-7,-22,2
+UA,Ukraine,,,,,,2020-06-16,1,12,49,-5,-21,2
+UA,Ukraine,,,,,,2020-06-17,3,14,63,-2,-21,1
+UA,Ukraine,,,,,,2020-06-18,-1,10,60,-4,-23,1
+UA,Ukraine,,,,,,2020-06-19,-4,9,49,-6,-22,1
+UA,Ukraine,,,,,,2020-06-20,-9,6,60,-4,-1,-4
+UA,Ukraine,,,,,,2020-06-21,-10,6,52,-5,8,-5
+UA,Ukraine,,,,,,2020-06-22,-1,8,46,-8,-24,2
+UA,Ukraine,,,,,,2020-06-23,1,11,54,-5,-23,1
+UA,Ukraine,,,,,,2020-06-24,3,14,65,-2,-23,1
+UA,Ukraine,,,,,,2020-06-25,4,14,76,0,-23,0
+UA,Ukraine,,,,,,2020-06-26,-2,11,63,-3,-23,0
+UA,Ukraine,,,,,,2020-06-27,-10,5,81,-4,-5,-6
+UA,Ukraine,,,,,,2020-06-28,-12,2,75,-8,4,-7
+UA,Ukraine,,,,,,2020-06-29,-8,1,82,-20,-56,5
+UA,Ukraine,,,,,,2020-06-30,2,12,59,-3,-22,0
+UA,Ukraine,,,,,,2020-07-01,5,13,77,0,-23,-1
+UA,Ukraine,,,,,,2020-07-02,1,11,75,-2,-24,0
+UA,Ukraine,,,,,,2020-07-03,-4,8,57,-5,-24,1
+UA,Ukraine,,,,,,2020-07-04,-9,5,69,-4,-3,-4
+UA,Ukraine,,,,,,2020-07-05,-10,6,66,-4,6,-6
+UA,Ukraine,,,,,,2020-07-06,2,11,73,-6,-27,1
+UA,Ukraine,,,,,,2020-07-07,2,13,49,-6,-27,1
+UA,Ukraine,,,,,,2020-07-08,5,13,58,-4,-25,0
+UA,Ukraine,,,,,,2020-07-09,5,14,70,-1,-25,0
+UA,Ukraine,,,,,,2020-07-10,0,11,63,-4,-24,0
+UA,Ukraine,,,,,,2020-07-11,-7,6,76,-2,-3,-6
+UA,Ukraine,,,,,,2020-07-12,-10,5,51,-5,4,-6
+UA,Ukraine,,,,,,2020-07-13,1,8,44,-9,-28,2
+UA,Ukraine,,,,,,2020-07-14,1,8,46,-8,-27,2
+UA,Ukraine,,,,,,2020-07-15,8,16,72,-1,-24,0
+UA,Ukraine,,,,,,2020-07-16,7,14,76,-1,-25,0
+UA,Ukraine,,,,,,2020-07-17,1,11,60,-4,-25,1
+UA,Ukraine,,,,,,2020-07-18,-3,9,77,0,-3,-5
+UA,Ukraine,,,,,,2020-07-19,-3,8,67,-1,6,-7
+UA,Ukraine,,,,,,2020-07-20,6,11,69,-6,-28,1
+UA,Ukraine,,,,,,2020-07-21,6,11,69,-5,-27,0
+UA,Ukraine,,,,,,2020-07-22,8,14,78,-2,-25,0
+UA,Ukraine,,,,,,2020-07-23,6,13,79,-2,-26,0
+UA,Ukraine,,,,,,2020-07-24,1,10,66,-4,-26,0
+UA,Ukraine,,,,,,2020-07-25,-7,4,63,-5,-6,-5
+UA,Ukraine,,,,,,2020-07-26,-5,6,63,-2,4,-6
+UA,Ukraine,,,,,,2020-07-27,3,8,66,-7,-29,1
+UA,Ukraine,,,,,,2020-07-28,5,11,73,-5,-26,0
+UA,Ukraine,,,,,,2020-07-29,4,11,78,-3,-27,0
+UA,Ukraine,,,,,,2020-07-30,3,10,77,-4,-27,0
+UA,Ukraine,,,,,,2020-07-31,-1,9,53,-6,-27,1
+UA,Ukraine,,,,,,2020-08-01,-4,5,63,-3,-6,-5
+UA,Ukraine,,,,,,2020-08-02,-1,8,63,-2,4,-6
+UA,Ukraine,,,,,,2020-08-03,5,9,71,-6,-28,1
+UA,Ukraine,,,,,,2020-08-04,5,10,72,-5,-27,0
+UA,Ukraine,,,,,,2020-08-05,6,12,80,-2,-27,0
+UA,Ukraine,,,,,,2020-08-06,5,12,84,-2,-28,-1
+UA,Ukraine,,,,,,2020-08-07,1,10,70,-4,-28,-1
+UA,Ukraine,,,,,,2020-08-08,-3,7,85,0,-8,-6
+UA,Ukraine,,,,,,2020-08-09,-1,9,74,1,2,-8
+UA,Ukraine,,,,,,2020-08-10,6,10,70,-5,-29,0
+UA,Ukraine,,,,,,2020-08-11,5,9,66,-5,-28,0
+UA,Ukraine,,,,,,2020-08-12,7,13,75,-2,-28,0
+UA,Ukraine,,,,,,2020-08-13,5,11,76,-2,-28,0
+UA,Ukraine,,,,,,2020-08-14,3,12,65,-2,-28,0
+UA,Ukraine,,,,,,2020-08-15,-2,6,73,0,-7,-5
+UA,Ukraine,,,,,,2020-08-16,0,9,68,1,2,-7
+UA,Ukraine,,,,,,2020-08-17,5,10,67,-4,-28,0
+UA,Ukraine,,,,,,2020-08-18,4,11,65,-4,-26,0
+UA,Ukraine,,,,,,2020-08-19,8,14,78,-1,-28,-1
+UA,Ukraine,,,,,,2020-08-20,2,8,70,-3,-28,-1
+UA,Ukraine,,,,,,2020-08-21,-1,9,59,-3,-28,-1
+UA,Ukraine,,,,,,2020-08-22,-4,5,74,-1,-8,-6
+UA,Ukraine,,,,,,2020-08-23,0,7,79,1,1,-7
+UA,Ukraine,,,,,,2020-08-24,0,0,102,-17,-61,5
+UA,Ukraine,,,,,,2020-08-25,2,8,48,-4,-27,-1
+UA,Ukraine,,,,,,2020-08-26,8,14,65,1,-25,-1
+UA,Ukraine,,,,,,2020-08-27,4,10,56,0,-26,-1
+UA,Ukraine,,,,,,2020-08-28,4,11,53,-1,-27,-1
+UA,Ukraine,,,,,,2020-08-29,-1,6,64,3,-4,-6
+UA,Ukraine,,,,,,2020-08-30,3,11,60,5,5,-7
+UA,Ukraine,,,,,,2020-08-31,12,17,57,2,-25,-1
+UA,Ukraine,,,,,,2020-09-01,9,14,58,-1,-24,-2
+UA,Ukraine,,,,,,2020-09-02,2,11,55,-1,-23,-3
+UA,Ukraine,,,,,,2020-09-03,-1,8,48,-1,-24,-2
+UA,Ukraine,,,,,,2020-09-04,-3,8,35,-2,-23,-2
+UA,Ukraine,,,,,,2020-09-05,-4,5,50,-2,-8,-5
+UA,Ukraine,,,,,,2020-09-06,-2,9,48,1,1,-5
+UA,Ukraine,,,,,,2020-09-07,4,11,48,-1,-24,-2
+UA,Ukraine,,,,,,2020-09-08,4,12,43,-1,-24,-2
+UA,Ukraine,,,,,,2020-09-09,4,12,50,1,-21,-3
+UA,Ukraine,,,,,,2020-09-10,1,10,55,1,-22,-4
+UA,Ukraine,,,,,,2020-09-11,2,12,49,2,-22,-4
+UA,Ukraine,,,,,,2020-09-12,-1,6,68,3,-8,-8
+UA,Ukraine,,,,,,2020-09-13,-2,8,56,3,0,-8
+UA,Ukraine,,,,,,2020-09-14,2,9,51,-1,-17,-3
+UA,Ukraine,,,,,,2020-09-15,2,10,45,-1,-16,-3
+UA,Ukraine,,,,,,2020-09-16,3,12,52,2,-17,-3
+UA,Ukraine,,,,,,2020-09-17,-2,6,42,-1,-18,-3
+UA,Ukraine,,,,,,2020-09-18,-5,6,22,-4,-18,-2
+UA,Ukraine,,,,,,2020-09-19,1,8,51,2,-8,-5
+UA,Ukraine,,,,,,2020-09-20,-2,7,42,1,0,-5
+UA,Ukraine,,,,,,2020-09-21,3,10,43,-1,-19,-1
+UA,Ukraine,,,,,,2020-09-22,-3,8,26,-1,-16,-2
+UA,Ukraine,,,,,,2020-09-23,-3,11,23,2,-15,-3
+UA,Ukraine,,,,,,2020-09-24,-6,7,22,0,-16,-2
+UA,Ukraine,,,,,,2020-09-25,-8,8,18,0,-16,-2
+UA,Ukraine,,,,,,2020-09-26,-10,4,33,2,-8,-5
+UA,Ukraine,,,,,,2020-09-27,-14,1,-5,-6,-7,-2
+UA,Ukraine,,,,,,2020-09-28,-6,6,16,0,-14,-1
+UA,Ukraine,,,,,,2020-09-29,-9,5,-1,-3,-14,-1
+UA,Ukraine,,,,,,2020-09-30,-10,6,-9,-5,-16,-1
+UA,Ukraine,,,,,,2020-10-01,-7,10,2,-2,-15,-3
+UA,Ukraine,,,,,,2020-10-02,-8,9,5,1,-15,-2
+UA,Ukraine,,,,,,2020-10-03,-6,7,27,4,-12,-5
+UA,Ukraine,,,,,,2020-10-04,-6,7,27,5,-6,-5
+UA,Ukraine,,,,,,2020-10-05,-7,7,13,1,-16,-2
+UA,Ukraine,,,,,,2020-10-06,-8,7,5,-1,-16,-3
+UA,Ukraine,,,,,,2020-10-07,-5,11,13,1,-15,-3
+UA,Ukraine,,,,,,2020-10-08,-7,9,14,1,-15,-2
+UA,Ukraine,,,,,,2020-10-09,-7,9,18,2,-15,-2
+UA,Ukraine,,,,,,2020-10-10,-7,5,31,2,-9,-4
+UA,Ukraine,,,,,,2020-10-11,-10,4,22,0,-5,-3
+UA,Ukraine,,,,,,2020-10-12,-7,7,21,-1,-16,-1
+UA,Ukraine,,,,,,2020-10-13,-3,12,19,2,-15,-2
+UA,Ukraine,,,,,,2020-10-14,1,10,41,-10,-58,8
+UA,Ukraine,,,,,,2020-10-15,-11,5,9,-2,-19,0
+UA,Ukraine,,,,,,2020-10-16,-12,6,-4,-5,-20,1
+UA,Ukraine,,,,,,2020-10-17,-17,0,-7,-11,-14,0
+UA,Ukraine,,,,,,2020-10-18,-13,2,1,-5,-9,-2
+UA,Ukraine,,,,,,2020-10-19,-11,3,-6,-8,-24,3
+UA,Ukraine,,,,,,2020-10-20,-10,5,-5,-7,-23,2
+UA,Ukraine,,,,,,2020-10-21,-9,8,-1,-5,-24,2
+UA,Ukraine,,,,,,2020-10-22,-9,9,14,-1,-25,1
+UA,Ukraine,,,,,,2020-10-23,-11,8,9,-3,-26,2
+UA,Ukraine,,,,,,2020-10-24,-13,7,17,-1,-11,-3
+UA,Ukraine,,,,,,2020-10-25,-9,11,17,2,-3,-5
+UA,Ukraine,,,,,,2020-10-26,-13,2,2,-7,-29,3
+UA,Ukraine,,,,,,2020-10-27,-11,5,3,-6,-27,2
+UA,Ukraine,,,,,,2020-10-28,-10,6,4,-7,-26,2
+UA,Ukraine,,,,,,2020-10-29,-13,3,-3,-9,-27,2
+UA,Ukraine,,,,,,2020-10-30,-14,4,-10,-11,-26,3
+UA,Ukraine,,,,,,2020-10-31,-17,-1,-17,-14,-15,0
+UA,Ukraine,,,,,,2020-11-01,-19,-1,-19,-15,-13,0
+UA,Ukraine,,,,,,2020-11-02,-16,0,-14,-14,-21,3
+UA,Ukraine,,,,,,2020-11-03,-15,2,-13,-12,-21,2
+UA,Ukraine,,,,,,2020-11-04,-13,5,-4,-9,-21,2
+UA,Ukraine,,,,,,2020-11-05,-16,2,-6,-10,-21,2
+UA,Ukraine,,,,,,2020-11-06,-17,4,-14,-12,-21,3
+UA,Ukraine,,,,,,2020-11-07,-15,4,1,-6,-14,-1
+UA,Ukraine,,,,,,2020-11-08,-16,3,-1,-8,-11,-2
+UA,Ukraine,,,,,,2020-11-09,-17,0,-8,-12,-22,3
+UA,Ukraine,,,,,,2020-11-10,-15,2,-9,-11,-21,2
+UA,Ukraine,,,,,,2020-11-11,-14,4,-9,-10,-21,2
+UA,Ukraine,,,,,,2020-11-12,-16,2,-11,-11,-22,2
+UA,Ukraine,,,,,,2020-11-13,-15,5,-15,-11,-21,3
+UA,Ukraine,,,,,,2020-11-14,-40,-5,-6,-19,-23,2
+UA,Ukraine,,,,,,2020-11-15,-47,-11,-15,-25,-24,2
+UA,Ukraine,,,,,,2020-11-16,-13,1,-15,-13,-20,3
+UA,Ukraine,,,,,,2020-11-17,-16,0,-21,-14,-20,3
+UA,Ukraine,,,,,,2020-11-18,-14,3,-16,-12,-19,3
+UA,Ukraine,,,,,,2020-11-19,-16,1,-16,-12,-20,3
+UA,Ukraine,,,,,,2020-11-20,-15,5,-22,-11,-20,3
+UA,Ukraine,,,,,,2020-11-21,-44,-7,-18,-23,-27,4
+UA,Ukraine,,,,,,2020-11-22,-48,-12,-19,-26,-26,3
+UA,Ukraine,,,,,,2020-11-23,-10,3,-14,-11,-19,3
+UA,Ukraine,,,,,,2020-11-24,-13,2,-18,-12,-19,2
+UA,Ukraine,,,,,,2020-11-25,-11,4,-13,-10,-18,2
+UA,Ukraine,,,,,,2020-11-26,-12,3,-11,-9,-19,2
+UA,Ukraine,,,,,,2020-11-27,-8,7,-17,-8,-18,2
+UA,Ukraine,,,,,,2020-11-28,-45,-10,-17,-24,-26,4
+UA,Ukraine,,,,,,2020-11-29,-49,-13,-20,-28,-26,4
+UA,Ukraine,,,,,,2020-11-30,-12,2,-19,-12,-18,3
+UA,Ukraine,,,,,,2020-12-01,-16,0,-22,-13,-19,3
+UA,Ukraine,,,,,,2020-12-02,-16,2,-20,-12,-18,3
+UA,Ukraine,,,,,,2020-12-03,-18,0,-19,-13,-19,3
+UA,Ukraine,,,,,,2020-12-04,-18,2,-23,-14,-20,4
+UA,Ukraine,,,,,,2020-12-05,-23,-3,-22,-15,-15,2
+UA,Ukraine,,,,,,2020-12-06,-24,-5,-27,-18,-14,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-15,5,2,3,5,-1,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-16,4,3,0,4,4,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-17,3,3,6,5,4,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-18,5,4,10,5,5,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-19,7,5,36,9,5,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-20,5,4,17,7,4,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-21,7,6,10,6,4,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-22,9,6,33,11,4,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-23,2,4,-7,4,4,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-24,-3,0,-16,1,3,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-25,3,4,0,5,6,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-26,5,6,28,8,5,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-27,3,3,3,6,4,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-28,10,7,22,8,5,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-02-29,8,7,31,11,6,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-01,3,5,9,5,6,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-02,-3,-2,-15,1,5,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-03,9,8,27,9,7,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-04,10,9,38,10,6,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-05,15,12,39,15,5,-3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-06,16,11,30,13,5,-3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-07,13,11,31,15,2,-4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-08,17,7,21,9,0,-3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-09,7,1,12,-20,-69,14
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-10,0,3,2,5,5,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-11,3,10,19,8,4,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-12,3,10,38,6,-9,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-13,-3,7,27,-2,-11,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-14,-19,0,-10,-9,-3,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-15,-24,-1,-18,-15,-1,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-16,-8,13,7,-9,-18,5
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-17,-33,5,-10,-22,-31,11
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-18,-42,-5,22,-37,-45,16
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-19,-43,-9,35,-40,-49,16
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-20,-46,-11,11,-45,-49,18
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-21,-58,-18,-22,-50,-35,11
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-22,-67,-28,-57,-63,-38,11
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-23,-55,-23,-40,-62,-56,23
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-24,-58,-27,-39,-63,-58,25
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-25,-57,-26,-16,-62,-58,23
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-26,-55,-27,-11,-60,-58,23
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-27,-55,-26,-8,-59,-57,22
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-28,-61,-30,-4,-57,-40,11
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-29,-61,-30,4,-56,-34,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-30,-57,-30,-37,-64,-56,23
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-03-31,-58,-31,-45,-66,-57,24
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-01,-56,-29,-30,-64,-58,23
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-02,-56,-29,-24,-62,-58,22
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-03,-55,-26,-19,-61,-57,22
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-04,-61,-30,-20,-59,-40,11
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-05,-62,-30,-25,-60,-36,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-06,-55,-29,-34,-63,-57,22
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-07,-53,-25,-31,-62,-57,22
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-08,-54,-26,-19,-62,-58,21
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-09,-52,-25,-17,-60,-58,20
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-10,-55,-26,-36,-63,-57,21
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-11,-62,-32,-39,-62,-40,11
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-12,-63,-31,-32,-62,-37,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-13,-52,-25,-23,-61,-56,20
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-14,-58,-32,-54,-67,-58,24
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-15,-52,-22,-35,-63,-56,21
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-16,-53,-23,-38,-62,-57,21
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-17,-52,-17,-36,-61,-58,21
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-18,-63,-26,-45,-65,-44,13
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-19,-80,-56,-39,-73,-50,11
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-20,-66,-41,-35,-75,-84,27
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-21,-57,-32,-42,-66,-55,21
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-22,-52,-25,-15,-61,-55,20
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-23,-49,-22,-6,-58,-55,19
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-24,-50,-21,-11,-59,-54,19
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-25,-58,-27,-23,-58,-34,9
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-26,-62,-30,-40,-63,-34,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-27,-48,-21,-19,-59,-53,19
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-28,-46,-19,-4,-55,-52,18
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-29,-44,-16,26,-53,-52,16
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-04-30,-44,-14,-8,-53,-52,15
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-01,-51,-20,6,-62,-75,21
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-02,-61,-32,-10,-59,-39,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-03,-57,-24,-4,-55,-27,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-04,-48,-20,-16,-57,-51,18
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-05,-46,-17,-10,-55,-51,18
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-06,-48,-18,-14,-56,-51,18
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-07,-51,-22,-40,-61,-53,20
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-08,-42,-9,2,-50,-50,15
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-09,-52,-17,20,-48,-32,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-10,-51,-17,25,-46,-19,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-11,-35,-10,63,-53,-72,15
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-12,-40,-16,-22,-49,-45,15
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-13,-32,-6,37,-42,-44,13
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-14,-41,-16,-25,-52,-47,17
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-15,-34,-7,12,-44,-44,13
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-16,-36,-7,32,-38,-17,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-17,-39,-10,14,-42,-11,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-18,-33,-9,7,-46,-43,14
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-19,-37,-13,-16,-49,-44,16
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-20,-31,-5,27,-43,-44,13
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-21,-29,-4,35,-39,-43,12
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-22,-35,-7,4,-43,-43,13
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-23,-38,-9,9,-38,-15,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-24,-33,-5,43,-31,-5,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-25,-39,-17,-28,-44,-41,14
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-26,-31,-6,-10,-36,-37,13
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-27,-25,-1,49,-29,-36,10
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-28,-31,-8,-4,-33,-37,11
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-29,-27,-2,29,-30,-35,10
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-30,-37,-14,-13,-37,-14,5
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-05-31,-21,0,47,-17,5,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-01,-18,-1,23,-24,-32,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-02,-20,-2,13,-23,-30,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-03,-19,-1,37,-20,-31,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-04,-14,3,48,-16,-31,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-05,-14,6,52,-15,-31,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-06,-23,-1,65,-12,-6,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-07,-23,-4,75,-16,-2,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-08,-14,-1,92,-33,-70,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-09,-14,3,52,-16,-29,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-10,-11,7,88,-13,-30,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-11,-10,7,77,-13,-30,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-12,-13,6,74,-15,-30,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-13,-23,-2,66,-15,-4,-4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-14,-21,0,34,-14,5,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-15,-10,6,53,-16,-30,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-16,-8,8,64,-12,-29,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-17,-10,7,77,-12,-30,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-18,-11,5,61,-13,-30,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-19,-12,6,68,-14,-30,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-20,-20,-1,70,-12,-3,-5
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-21,-20,1,76,-9,6,-8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-22,-15,-2,31,-17,-32,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-23,-9,7,51,-11,-31,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-24,-6,8,91,-8,-29,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-25,-6,8,82,-8,-30,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-26,-10,5,72,-11,-31,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-27,-26,-7,69,-15,-9,-8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-28,-28,-11,61,-20,2,-7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-29,-17,-5,90,-33,-69,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-06-30,-10,4,50,-13,-29,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-01,-6,5,96,-9,-30,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-02,-8,5,79,-11,-31,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-03,-10,4,78,-13,-30,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-04,-19,-2,77,-11,-5,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-05,-19,-1,73,-10,5,-8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-06,-8,4,71,-16,-33,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-07,-10,3,20,-15,-32,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-08,-7,4,60,-14,-31,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-09,-6,5,58,-12,-31,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-10,-9,4,65,-14,-31,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-11,-20,-4,80,-12,-5,-7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-12,-22,-4,43,-14,3,-8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-13,-10,0,22,-20,-33,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-14,-9,1,33,-16,-32,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-15,-5,6,68,-12,-30,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-16,-4,5,66,-12,-31,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-17,-8,4,64,-14,-31,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-18,-18,-2,77,-10,-5,-7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-19,-18,-2,70,-9,5,-9
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-20,-7,3,58,-17,-31,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-21,-9,1,43,-17,-30,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-22,-5,4,68,-14,-31,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-23,-7,3,59,-13,-32,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-24,-9,2,60,-15,-32,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-25,-27,-13,-1,-22,-10,-3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-26,-17,-2,50,-10,3,-8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-27,-8,2,59,-17,-34,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-28,-9,2,58,-16,-32,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-29,-9,2,78,-15,-32,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-30,-8,2,63,-14,-33,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-07-31,-8,3,58,-14,-32,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-01,-19,-5,39,-13,-9,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-02,-15,-2,51,-9,2,-8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-03,-7,1,52,-16,-34,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-04,-7,2,53,-15,-33,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-05,-7,3,79,-14,-33,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-06,-6,4,67,-13,-34,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-07,-8,3,67,-15,-33,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-08,-17,-4,73,-10,-10,-8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-09,-15,-2,69,-7,0,-10
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-10,-9,0,33,-18,-35,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-11,-8,0,37,-16,-34,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-12,-7,2,53,-15,-34,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-13,-7,1,47,-14,-34,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-14,-7,3,54,-14,-34,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-15,-15,-4,60,-9,-10,-7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-16,-14,-2,61,-7,0,-9
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-17,-7,2,49,-15,-35,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-18,-8,1,45,-15,-32,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-19,-6,4,75,-13,-33,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-20,-9,1,58,-14,-34,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-21,-12,1,48,-14,-35,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-22,-23,-9,48,-14,-12,-9
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-23,-20,-10,63,-13,-3,-9
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-24,-12,-8,83,-32,-74,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-25,-15,-4,5,-17,-34,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-26,-6,4,59,-11,-32,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-27,-8,1,25,-12,-32,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-28,-4,4,47,-10,-32,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-29,-10,0,71,-4,-8,-7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-30,-6,5,72,0,2,-9
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-08-31,4,14,60,-7,-31,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-01,1,11,63,-9,-31,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-02,-7,8,71,-10,-29,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-03,-6,6,46,-8,-30,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-04,-7,6,37,-10,-29,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-05,-10,2,68,-6,-10,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-06,-9,5,65,-4,-1,-8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-07,-4,9,52,-8,-30,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-08,-5,8,27,-9,-29,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-09,-5,8,56,-8,-27,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-10,-4,7,54,-6,-28,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-11,-4,8,56,-7,-28,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-12,-9,2,77,-4,-10,-7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-13,-8,5,70,-2,-1,-9
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-14,-4,8,50,-9,-23,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-15,-5,7,38,-10,-23,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-16,-4,8,68,-7,-24,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-17,-8,2,29,-11,-25,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-18,-9,4,17,-13,-25,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-19,-6,4,65,-4,-9,-5
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-20,-6,4,56,-4,0,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-21,-4,7,43,-9,-25,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-22,-8,6,28,-8,-24,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-23,-10,7,42,-6,-23,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-24,-10,6,31,-7,-24,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-25,-10,6,39,-7,-24,0
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-26,-13,2,63,-2,-8,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-27,-22,-5,-25,-16,-7,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-28,-10,6,25,-6,-21,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-29,-13,4,5,-8,-21,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-09-30,-18,1,-18,-13,-23,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-01,-9,11,8,-8,-21,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-02,-11,9,15,-7,-21,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-03,-11,5,41,-1,-10,-5
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-04,-9,6,47,3,-4,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-05,-10,7,23,-6,-22,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-06,-14,5,-8,-10,-22,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-07,-18,2,-4,-13,-24,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-08,-12,5,3,-7,-22,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-09,-9,9,33,-6,-22,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-10,-11,3,45,-2,-8,-4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-11,-10,4,56,2,-1,-6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-12,-11,6,31,-7,-23,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-13,-6,10,28,-4,-22,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-14,0,9,94,-20,-67,12
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-15,-16,3,16,-10,-25,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-16,-15,5,4,-12,-26,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-17,-30,-10,-34,-28,-16,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-18,-14,3,7,-8,-5,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-19,-14,3,-3,-13,-26,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-20,-13,4,-5,-12,-26,5
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-21,-14,6,4,-13,-29,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-22,-12,7,20,-10,-30,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-23,-13,8,27,-12,-30,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-24,-18,4,34,-8,-8,-3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-25,-12,10,39,-1,0,-7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-26,-17,2,2,-16,-32,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-27,-15,4,5,-15,-30,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-28,-15,5,20,-16,-30,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-29,-18,0,-14,-18,-28,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-30,-16,5,1,-18,-27,5
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-10-31,-24,-5,-35,-25,-13,2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-01,-24,-3,-34,-23,-9,1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-02,-19,1,-15,-20,-25,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-03,-18,3,-8,-18,-25,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-04,-18,4,5,-17,-25,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-05,-19,3,-7,-17,-25,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-06,-18,5,-9,-19,-26,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-07,-18,3,13,-13,-10,-1
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-08,-20,0,-4,-14,-6,-2
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-09,-19,2,-5,-19,-25,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-10,-17,3,-4,-18,-25,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-11,-19,3,-4,-19,-26,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-12,-19,2,-13,-19,-26,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-13,-15,6,-11,-19,-26,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-14,-49,-4,-5,-28,-21,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-15,-55,-10,-21,-33,-23,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-16,-16,1,-25,-21,-25,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-17,-19,0,-28,-22,-26,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-18,-19,1,-18,-21,-26,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-19,-19,0,-26,-21,-27,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-20,-17,3,-29,-20,-27,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-21,-51,-5,-20,-30,-23,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-22,-54,-8,-12,-32,-23,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-23,-13,3,-15,-19,-25,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-24,-16,1,-22,-20,-25,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-25,-15,3,-8,-19,-25,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-26,-14,3,-12,-18,-26,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-27,-7,6,-17,-19,-25,6
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-28,-51,-6,-10,-30,-22,5
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-29,-54,-9,-10,-33,-21,4
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-11-30,-13,3,-18,-20,-24,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-12-01,-19,1,-26,-21,-24,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-12-02,-20,2,-17,-21,-24,8
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-12-03,-20,1,-22,-21,-25,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-12-04,-19,3,-20,-21,-25,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-12-05,-25,-2,-28,-23,-10,3
+UA,Ukraine,,,Kiev Metropolitan Area,,,2020-12-06,-22,-1,-18,-21,-7,1

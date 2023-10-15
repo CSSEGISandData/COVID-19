@@ -1,0 +1,1792 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+NE,Niger,,,,,,2020-02-15,4,5,-2,4,9,-1
+NE,Niger,,,,,,2020-02-16,3,5,0,4,6,0
+NE,Niger,,,,,,2020-02-17,2,4,0,1,-3,2
+NE,Niger,,,,,,2020-02-18,0,6,-1,3,3,0
+NE,Niger,,,,,,2020-02-19,-2,2,-4,-1,4,-1
+NE,Niger,,,,,,2020-02-20,3,4,8,1,3,0
+NE,Niger,,,,,,2020-02-21,0,1,-4,2,5,-1
+NE,Niger,,,,,,2020-02-22,3,2,1,3,7,0
+NE,Niger,,,,,,2020-02-23,3,3,-3,8,4,0
+NE,Niger,,,,,,2020-02-24,-2,2,0,1,3,0
+NE,Niger,,,,,,2020-02-25,2,3,-3,3,3,0
+NE,Niger,,,,,,2020-02-26,-1,3,4,2,3,-1
+NE,Niger,,,,,,2020-02-27,4,4,-4,8,3,0
+NE,Niger,,,,,,2020-02-28,7,-7,-4,8,4,-1
+NE,Niger,,,,,,2020-02-29,6,-10,-1,10,7,-2
+NE,Niger,,,,,,2020-03-01,6,-10,-1,4,6,-2
+NE,Niger,,,,,,2020-03-02,5,-7,-8,3,4,-2
+NE,Niger,,,,,,2020-03-03,2,4,-1,6,5,-2
+NE,Niger,,,,,,2020-03-04,5,4,-4,3,5,-2
+NE,Niger,,,,,,2020-03-05,4,3,-7,1,6,-1
+NE,Niger,,,,,,2020-03-06,-1,2,-4,-2,7,-2
+NE,Niger,,,,,,2020-03-07,2,0,-2,3,6,-2
+NE,Niger,,,,,,2020-03-08,0,0,0,6,10,-3
+NE,Niger,,,,,,2020-03-09,0,0,-4,4,4,-2
+NE,Niger,,,,,,2020-03-10,2,3,-4,7,4,-2
+NE,Niger,,,,,,2020-03-11,2,0,-3,7,4,-2
+NE,Niger,,,,,,2020-03-12,3,4,4,4,4,0
+NE,Niger,,,,,,2020-03-13,5,2,-2,1,7,-1
+NE,Niger,,,,,,2020-03-14,2,1,0,4,8,-2
+NE,Niger,,,,,,2020-03-15,1,1,5,2,6,-1
+NE,Niger,,,,,,2020-03-16,1,-1,-5,-3,5,-2
+NE,Niger,,,,,,2020-03-17,-1,3,-3,-1,6,-2
+NE,Niger,,,,,,2020-03-18,-1,4,-10,3,5,-1
+NE,Niger,,,,,,2020-03-19,-3,5,-3,0,4,-2
+NE,Niger,,,,,,2020-03-20,-7,2,-7,-4,1,2
+NE,Niger,,,,,,2020-03-21,-11,-4,-6,-11,-7,2
+NE,Niger,,,,,,2020-03-22,-11,-8,-8,-23,1,1
+NE,Niger,,,,,,2020-03-23,-12,-4,-14,-24,-12,5
+NE,Niger,,,,,,2020-03-24,-14,-3,-13,-22,-13,5
+NE,Niger,,,,,,2020-03-25,-14,-5,-16,-22,-14,7
+NE,Niger,,,,,,2020-03-26,-17,-7,-11,-29,-17,7
+NE,Niger,,,,,,2020-03-27,-16,-7,-11,-29,-14,8
+NE,Niger,,,,,,2020-03-28,-26,-16,-17,-30,-14,10
+NE,Niger,,,,,,2020-03-29,-23,-15,-19,-25,-1,9
+NE,Niger,,,,,,2020-03-30,-22,-15,-26,-28,-22,13
+NE,Niger,,,,,,2020-03-31,-24,-17,-20,-24,-26,13
+NE,Niger,,,,,,2020-04-01,-27,-17,-22,-32,-26,13
+NE,Niger,,,,,,2020-04-02,-23,-14,-20,-31,-25,15
+NE,Niger,,,,,,2020-04-03,-24,-17,-21,-35,-23,15
+NE,Niger,,,,,,2020-04-04,-24,-17,-16,-33,-12,11
+NE,Niger,,,,,,2020-04-05,-22,-15,-16,-30,0,8
+NE,Niger,,,,,,2020-04-06,-20,-10,-20,-34,-23,13
+NE,Niger,,,,,,2020-04-07,-20,-11,-16,-29,-24,12
+NE,Niger,,,,,,2020-04-08,-20,-11,-19,-31,-23,13
+NE,Niger,,,,,,2020-04-09,-19,-9,-14,-30,-23,14
+NE,Niger,,,,,,2020-04-10,-24,-20,-20,-32,-22,14
+NE,Niger,,,,,,2020-04-11,-23,-14,-21,-35,-10,11
+NE,Niger,,,,,,2020-04-12,-23,-16,-19,-36,0,9
+NE,Niger,,,,,,2020-04-13,-27,-19,-21,-40,-43,18
+NE,Niger,,,,,,2020-04-14,-20,-8,-21,-29,-20,13
+NE,Niger,,,,,,2020-04-15,-18,-9,-18,-31,-21,13
+NE,Niger,,,,,,2020-04-16,-19,-7,-15,-32,-20,13
+NE,Niger,,,,,,2020-04-17,-23,-14,-24,-34,-18,13
+NE,Niger,,,,,,2020-04-18,-21,-11,-20,-35,-8,10
+NE,Niger,,,,,,2020-04-19,-19,-13,-23,-33,2,7
+NE,Niger,,,,,,2020-04-20,-19,-8,-21,-31,-21,12
+NE,Niger,,,,,,2020-04-21,-19,-5,-19,-28,-21,11
+NE,Niger,,,,,,2020-04-22,-13,-4,-21,-29,-19,11
+NE,Niger,,,,,,2020-04-23,-9,6,-17,-22,-20,10
+NE,Niger,,,,,,2020-04-24,-30,-17,-31,-42,-35,20
+NE,Niger,,,,,,2020-04-25,-28,-18,-26,-37,-6,15
+NE,Niger,,,,,,2020-04-26,-28,-18,-27,-37,7,12
+NE,Niger,,,,,,2020-04-27,-26,-14,-27,-37,-19,14
+NE,Niger,,,,,,2020-04-28,-25,-11,-27,-36,-20,13
+NE,Niger,,,,,,2020-04-29,-25,-13,-26,-36,-19,14
+NE,Niger,,,,,,2020-04-30,-21,-12,-24,-34,-20,14
+NE,Niger,,,,,,2020-05-01,-30,-20,-31,-44,-35,19
+NE,Niger,,,,,,2020-05-02,-27,-15,-24,-39,-4,12
+NE,Niger,,,,,,2020-05-03,-26,-16,-29,-39,11,10
+NE,Niger,,,,,,2020-05-04,-23,-13,-21,-40,-19,12
+NE,Niger,,,,,,2020-05-05,-20,-6,-28,-39,-19,12
+NE,Niger,,,,,,2020-05-06,-19,-6,-22,-38,-15,12
+NE,Niger,,,,,,2020-05-07,-17,-2,-23,-30,-14,13
+NE,Niger,,,,,,2020-05-08,-21,-9,-24,-38,-10,14
+NE,Niger,,,,,,2020-05-09,-23,-11,-25,-39,2,11
+NE,Niger,,,,,,2020-05-10,-21,-10,-26,-35,16,8
+NE,Niger,,,,,,2020-05-11,-19,-5,-20,-37,-15,12
+NE,Niger,,,,,,2020-05-12,-19,-7,-21,-31,-16,10
+NE,Niger,,,,,,2020-05-13,-16,-3,-20,-30,-13,10
+NE,Niger,,,,,,2020-05-14,-11,0,-15,-29,-12,9
+NE,Niger,,,,,,2020-05-15,-14,-2,-12,-29,-9,11
+NE,Niger,,,,,,2020-05-16,-16,-5,-17,-30,4,9
+NE,Niger,,,,,,2020-05-17,-15,-1,-17,-23,14,5
+NE,Niger,,,,,,2020-05-18,-14,3,-15,-27,-13,8
+NE,Niger,,,,,,2020-05-19,-17,0,-20,-23,-14,9
+NE,Niger,,,,,,2020-05-20,-17,0,-19,-23,-34,12
+NE,Niger,,,,,,2020-05-21,-1,16,-6,-7,-13,7
+NE,Niger,,,,,,2020-05-22,2,25,-9,-8,-12,6
+NE,Niger,,,,,,2020-05-23,-6,-10,-17,-26,-30,2
+NE,Niger,,,,,,2020-05-24,-3,-3,-12,-23,1,4
+NE,Niger,,,,,,2020-05-25,8,17,-7,-18,-13,6
+NE,Niger,,,,,,2020-05-26,2,13,-10,-11,-9,6
+NE,Niger,,,,,,2020-05-27,-5,7,-10,-13,-7,6
+NE,Niger,,,,,,2020-05-28,3,14,-10,-16,-7,6
+NE,Niger,,,,,,2020-05-29,1,13,-14,-12,-4,5
+NE,Niger,,,,,,2020-05-30,1,6,-12,-11,1,2
+NE,Niger,,,,,,2020-05-31,1,9,-12,-5,12,0
+NE,Niger,,,,,,2020-06-01,0,12,-5,-12,-7,-1
+NE,Niger,,,,,,2020-06-02,-1,10,-14,-6,-7,0
+NE,Niger,,,,,,2020-06-03,3,13,-8,-8,-4,-1
+NE,Niger,,,,,,2020-06-04,1,11,-7,-14,-3,0
+NE,Niger,,,,,,2020-06-05,2,10,-10,-9,-2,0
+NE,Niger,,,,,,2020-06-06,7,10,-7,-6,4,-3
+NE,Niger,,,,,,2020-06-07,1,7,-9,-5,11,-2
+NE,Niger,,,,,,2020-06-08,0,11,-6,-10,-4,-2
+NE,Niger,,,,,,2020-06-09,1,10,-14,-10,-3,-1
+NE,Niger,,,,,,2020-06-10,4,9,-9,0,-2,-1
+NE,Niger,,,,,,2020-06-11,5,8,-7,-11,-3,0
+NE,Niger,,,,,,2020-06-12,2,5,-4,-13,-2,0
+NE,Niger,,,,,,2020-06-13,4,5,-8,-12,3,-4
+NE,Niger,,,,,,2020-06-14,-5,-4,-14,-15,4,-3
+NE,Niger,,,,,,2020-06-15,5,10,-6,-6,-2,-3
+NE,Niger,,,,,,2020-06-16,2,6,-6,-4,-3,-3
+NE,Niger,,,,,,2020-06-17,3,8,-10,-5,-3,-2
+NE,Niger,,,,,,2020-06-18,1,4,-9,-11,-5,0
+NE,Niger,,,,,,2020-06-19,3,2,-13,-11,-2,-1
+NE,Niger,,,,,,2020-06-20,3,1,-9,-11,3,-3
+NE,Niger,,,,,,2020-06-21,3,0,-10,-7,7,-2
+NE,Niger,,,,,,2020-06-22,2,3,-10,-13,-6,-2
+NE,Niger,,,,,,2020-06-23,0,3,-8,-12,-6,-2
+NE,Niger,,,,,,2020-06-24,2,5,-6,-7,-4,-2
+NE,Niger,,,,,,2020-06-25,7,9,-5,-11,-5,-2
+NE,Niger,,,,,,2020-06-26,2,5,-5,-10,-4,-2
+NE,Niger,,,,,,2020-06-27,6,5,-11,-8,-1,-4
+NE,Niger,,,,,,2020-06-28,5,2,-11,-3,3,-2
+NE,Niger,,,,,,2020-06-29,2,5,-7,-11,-6,-2
+NE,Niger,,,,,,2020-06-30,6,6,7,3,-4,-3
+NE,Niger,,,,,,2020-07-01,5,8,10,0,-3,-2
+NE,Niger,,,,,,2020-07-02,6,7,15,-4,-4,0
+NE,Niger,,,,,,2020-07-03,4,5,19,-3,-3,-1
+NE,Niger,,,,,,2020-07-04,4,5,11,-1,-2,-3
+NE,Niger,,,,,,2020-07-05,5,4,4,-1,4,-4
+NE,Niger,,,,,,2020-07-06,4,10,15,-7,-6,-3
+NE,Niger,,,,,,2020-07-07,3,5,8,4,-6,-2
+NE,Niger,,,,,,2020-07-08,1,1,4,-1,-5,-2
+NE,Niger,,,,,,2020-07-09,3,6,10,-8,-5,-2
+NE,Niger,,,,,,2020-07-10,2,0,2,-10,-5,1
+NE,Niger,,,,,,2020-07-11,2,4,9,-1,-2,-3
+NE,Niger,,,,,,2020-07-12,-7,-3,-3,-14,-1,1
+NE,Niger,,,,,,2020-07-13,5,9,12,-8,-7,-2
+NE,Niger,,,,,,2020-07-14,2,4,6,-6,-8,0
+NE,Niger,,,,,,2020-07-15,3,2,1,-3,-9,1
+NE,Niger,,,,,,2020-07-16,3,7,-6,-2,-9,0
+NE,Niger,,,,,,2020-07-17,2,4,-3,2,-7,1
+NE,Niger,,,,,,2020-07-18,2,2,-3,-7,-7,-2
+NE,Niger,,,,,,2020-07-19,2,-4,-1,-2,-6,-1
+NE,Niger,,,,,,2020-07-20,3,8,3,-8,-11,-1
+NE,Niger,,,,,,2020-07-21,-2,0,-1,-11,-14,2
+NE,Niger,,,,,,2020-07-22,4,9,9,-2,-10,0
+NE,Niger,,,,,,2020-07-23,4,7,5,-2,-11,2
+NE,Niger,,,,,,2020-07-24,3,8,7,-6,-11,1
+NE,Niger,,,,,,2020-07-25,4,5,9,-2,-8,-2
+NE,Niger,,,,,,2020-07-26,2,1,-2,-2,-4,-1
+NE,Niger,,,,,,2020-07-27,-1,4,1,-5,-16,2
+NE,Niger,,,,,,2020-07-28,6,11,5,4,-14,1
+NE,Niger,,,,,,2020-07-29,12,22,15,14,-15,-2
+NE,Niger,,,,,,2020-07-30,9,23,12,-4,-25,2
+NE,Niger,,,,,,2020-07-31,-23,-34,-15,-36,-65,12
+NE,Niger,,,,,,2020-08-01,-21,-34,-11,-35,-47,9
+NE,Niger,,,,,,2020-08-02,-15,-23,-5,-33,-24,3
+NE,Niger,,,,,,2020-08-03,-12,-12,2,-22,-52,7
+NE,Niger,,,,,,2020-08-04,4,8,10,-3,-19,2
+NE,Niger,,,,,,2020-08-05,10,11,19,4,-15,1
+NE,Niger,,,,,,2020-08-06,7,11,12,-12,-16,1
+NE,Niger,,,,,,2020-08-07,-2,-5,-4,-8,-19,5
+NE,Niger,,,,,,2020-08-08,8,6,21,-5,-11,-4
+NE,Niger,,,,,,2020-08-09,11,7,14,0,-3,-5
+NE,Niger,,,,,,2020-08-10,2,8,21,-7,-17,0
+NE,Niger,,,,,,2020-08-11,4,4,7,-8,-17,1
+NE,Niger,,,,,,2020-08-12,7,12,17,-1,-16,-1
+NE,Niger,,,,,,2020-08-13,6,7,16,-12,-18,-1
+NE,Niger,,,,,,2020-08-14,9,10,11,1,-15,-2
+NE,Niger,,,,,,2020-08-15,12,7,21,-1,-14,-4
+NE,Niger,,,,,,2020-08-16,13,5,17,-4,-3,-6
+NE,Niger,,,,,,2020-08-17,,,,,-18,-3
+NE,Niger,,,,,,2020-08-18,,,,,-18,-3
+NE,Niger,,,,,,2020-08-19,,,,,-26,-2
+NE,Niger,,,,,,2020-08-20,,,,,-22,-5
+NE,Niger,,,,,,2020-08-21,,,,,-40,7
+NE,Niger,,,,,,2020-08-22,,,,,-15,-2
+NE,Niger,,,,,,2020-08-23,,,,,-4,-5
+NE,Niger,,,,,,2020-08-24,,,,,-27,4
+NE,Niger,,,,,,2020-08-25,,,,,-20,-2
+NE,Niger,,,,,,2020-08-26,,,,,-17,0
+NE,Niger,,,,,,2020-08-27,,,,,-18,0
+NE,Niger,,,,,,2020-08-28,,,,,-18,0
+NE,Niger,,,,,,2020-08-29,,,,,-15,-3
+NE,Niger,,,,,,2020-08-30,,,,,-7,-4
+NE,Niger,,,,,,2020-08-31,,,,,-18,-1
+NE,Niger,,,,,,2020-09-01,,,,,-18,0
+NE,Niger,,,,,,2020-09-02,,,,,-19,2
+NE,Niger,,,,,,2020-09-03,,,,,-17,2
+NE,Niger,,,,,,2020-09-04,,,,,-17,3
+NE,Niger,,,,,,2020-09-05,,,,,-16,-2
+NE,Niger,,,,,,2020-09-06,,,,,-11,0
+NE,Niger,,,,,,2020-09-07,,,,,-23,2
+NE,Niger,,,,,,2020-09-08,,,,,-20,1
+NE,Niger,,,,,,2020-09-09,,,,,-16,3
+NE,Niger,,,,,,2020-09-10,,,,,-19,5
+NE,Niger,,,,,,2020-09-11,35,9,23,23,-19,5
+NE,Niger,,,,,,2020-09-12,40,4,31,18,-19,2
+NE,Niger,,,,,,2020-09-13,37,-27,14,24,-11,1
+NE,Niger,,,,,,2020-09-14,31,-22,33,22,-17,4
+NE,Niger,,,,,,2020-09-15,35,-21,18,22,-16,4
+NE,Niger,,,,,,2020-09-16,38,-21,31,32,-16,5
+NE,Niger,,,,,,2020-09-17,31,9,13,19,-19,11
+NE,Niger,,,,,,2020-09-18,38,11,20,20,-15,6
+NE,Niger,,,,,,2020-09-19,39,7,27,17,-15,3
+NE,Niger,,,,,,2020-09-20,36,-28,11,18,-8,2
+NE,Niger,,,,,,2020-09-21,26,-23,17,12,-19,6
+NE,Niger,,,,,,2020-09-22,24,-19,10,14,-21,5
+NE,Niger,,,,,,2020-09-23,20,-16,16,15,-20,4
+NE,Niger,,,,,,2020-09-24,20,29,17,6,-21,4
+NE,Niger,,,,,,2020-09-25,18,29,23,4,-20,6
+NE,Niger,,,,,,2020-09-26,24,26,25,15,-23,2
+NE,Niger,,,,,,2020-09-27,20,-21,16,10,-19,2
+NE,Niger,,,,,,2020-09-28,22,-13,27,10,-21,3
+NE,Niger,,,,,,2020-09-29,24,-15,12,18,-23,2
+NE,Niger,,,,,,2020-09-30,15,-19,13,14,-27,-3
+NE,Niger,,,,,,2020-10-01,14,28,-1,6,-29,-7
+NE,Niger,,,,,,2020-10-02,8,18,3,0,-28,-9
+NE,Niger,,,,,,2020-10-03,4,3,-6,-2,-35,-8
+NE,Niger,,,,,,2020-10-04,12,-25,-3,6,-30,-11
+NE,Niger,,,,,,2020-10-05,11,-20,0,5,-30,-10
+NE,Niger,,,,,,2020-10-06,13,-21,-1,7,-29,-10
+NE,Niger,,,,,,2020-10-07,11,-21,5,5,-24,-8
+NE,Niger,,,,,,2020-10-08,13,20,-2,2,-21,-4
+NE,Niger,,,,,,2020-10-09,7,13,-10,-2,-21,-1
+NE,Niger,,,,,,2020-10-10,14,16,0,2,-19,-3
+NE,Niger,,,,,,2020-10-11,14,-22,8,1,-18,-5
+NE,Niger,,,,,,2020-10-12,15,-18,10,6,-22,-4
+NE,Niger,,,,,,2020-10-13,20,-17,6,11,-21,-5
+NE,Niger,,,,,,2020-10-14,19,-11,13,18,-20,-2
+NE,Niger,,,,,,2020-10-15,20,32,10,13,-20,-1
+NE,Niger,,,,,,2020-10-16,15,26,4,11,-19,0
+NE,Niger,,,,,,2020-10-17,12,19,2,8,-21,0
+NE,Niger,,,,,,2020-10-18,11,-22,6,15,-17,-1
+NE,Niger,,,,,,2020-10-19,12,-19,16,5,-21,-2
+NE,Niger,,,,,,2020-10-20,13,-21,6,9,-20,-2
+NE,Niger,,,,,,2020-10-21,21,-20,8,18,-18,-2
+NE,Niger,,,,,,2020-10-22,27,29,21,10,-17,-2
+NE,Niger,,,,,,2020-10-23,26,23,12,14,-17,-3
+NE,Niger,,,,,,2020-10-24,22,16,24,7,-20,-2
+NE,Niger,,,,,,2020-10-25,25,-24,8,15,-17,-3
+NE,Niger,,,,,,2020-10-26,26,-18,18,15,-17,-3
+NE,Niger,,,,,,2020-10-27,27,-19,14,15,-19,-3
+NE,Niger,,,,,,2020-10-28,26,-17,10,28,-17,-4
+NE,Niger,,,,,,2020-10-29,13,13,-13,4,-51,7
+NE,Niger,,,,,,2020-10-30,25,26,7,24,-18,-3
+NE,Niger,,,,,,2020-10-31,23,20,7,20,-20,-3
+NE,Niger,,,,,,2020-11-01,20,-23,7,19,-19,-2
+NE,Niger,,,,,,2020-11-02,26,-19,11,21,-20,-4
+NE,Niger,,,,,,2020-11-03,25,-17,10,23,-19,-4
+NE,Niger,,,,,,2020-11-04,18,-19,13,24,-17,-4
+NE,Niger,,,,,,2020-11-05,22,31,15,19,-16,-5
+NE,Niger,,,,,,2020-11-06,15,23,6,17,-13,-4
+NE,Niger,,,,,,2020-11-07,14,13,8,8,-18,-4
+NE,Niger,,,,,,2020-11-08,14,-25,0,14,-18,-4
+NE,Niger,,,,,,2020-11-09,13,-19,0,20,-16,-5
+NE,Niger,,,,,,2020-11-10,17,-20,4,21,-16,-5
+NE,Niger,,,,,,2020-11-11,14,-19,8,26,-14,-4
+NE,Niger,,,,,,2020-11-12,18,30,8,22,-14,-3
+NE,Niger,,,,,,2020-11-13,19,24,7,24,-13,-4
+NE,Niger,,,,,,2020-11-14,18,21,14,18,-16,-4
+NE,Niger,,,,,,2020-11-15,17,-22,6,24,-16,-3
+NE,Niger,,,,,,2020-11-16,12,-20,8,22,-15,-5
+NE,Niger,,,,,,2020-11-17,16,-21,2,27,-15,-5
+NE,Niger,,,,,,2020-11-18,17,-19,1,24,-13,-4
+NE,Niger,,,,,,2020-11-19,17,28,7,15,-13,-4
+NE,Niger,,,,,,2020-11-20,14,28,2,15,-12,-4
+NE,Niger,,,,,,2020-11-21,17,18,3,13,-12,-4
+NE,Niger,,,,,,2020-11-22,13,-25,-6,12,-16,-4
+NE,Niger,,,,,,2020-11-23,12,-18,15,13,-13,-5
+NE,Niger,,,,,,2020-11-24,17,-19,7,25,-13,-5
+NE,Niger,,,,,,2020-11-25,16,-15,10,32,-12,-4
+NE,Niger,,,,,,2020-11-26,22,36,13,27,-12,-4
+NE,Niger,,,,,,2020-11-27,22,33,21,26,-11,-5
+NE,Niger,,,,,,2020-11-28,24,23,20,19,-13,-5
+NE,Niger,,,,,,2020-11-29,20,-20,12,29,-16,-5
+NE,Niger,,,,,,2020-11-30,20,-13,17,31,-11,-6
+NE,Niger,,,,,,2020-12-01,22,-12,14,31,-11,-4
+NE,Niger,,,,,,2020-12-02,20,-12,11,35,-9,-4
+NE,Niger,,,,,,2020-12-03,25,43,20,25,-9,-4
+NE,Niger,,,,,,2020-12-04,22,38,18,22,-9,-5
+NE,Niger,,,,,,2020-12-05,24,32,15,20,-12,-5
+NE,Niger,,,,,,2020-12-06,25,-19,10,28,-14,-4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-15,2,4,-11,0,8,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-16,1,5,-4,-3,7,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-17,-1,1,0,2,-5,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-18,-4,5,1,-6,2,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-19,-6,2,-2,-3,4,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-20,0,4,8,-4,3,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-21,-4,1,-5,-3,5,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-22,2,0,0,0,6,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-23,1,2,1,6,4,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-24,-3,0,1,3,2,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-25,-3,2,6,-2,2,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-26,-4,4,4,4,2,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-27,4,7,-3,9,2,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-28,5,3,-5,6,4,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-02-29,6,2,-5,3,5,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-01,4,1,-5,-6,5,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-02,2,2,-7,4,3,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-03,-1,5,3,0,5,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-04,-1,6,-3,1,4,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-05,3,4,-8,-1,5,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-06,-4,3,-8,-6,7,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-07,2,0,-9,4,6,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-08,-1,1,-4,2,10,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-09,-1,0,-8,5,3,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-10,-2,2,-3,6,2,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-11,-3,1,-4,7,3,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-12,2,5,2,4,3,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-13,1,1,-9,-1,6,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-14,0,1,-7,0,5,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-15,-1,0,6,-4,2,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-16,-3,-3,-10,-5,3,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-17,-5,3,-5,-4,4,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-18,-6,5,-14,8,3,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-19,-8,6,-6,-7,3,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-20,-13,1,-17,-16,-2,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-21,-18,-4,-18,-21,-12,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-22,-18,-8,-16,-30,-1,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-23,-18,-6,-24,-29,-16,8
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-24,-22,-5,-20,-30,-16,10
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-25,-23,-5,-14,-28,-18,12
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-26,-22,-6,-16,-39,-20,12
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-27,-25,-8,-25,-39,-19,13
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-28,-38,-19,-33,-46,-21,16
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-29,-35,-19,-35,-39,-6,13
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-30,-31,-19,-38,-41,-27,20
+NE,Niger,,,Naimey Metropolitan Area,,,2020-03-31,-31,-17,-31,-37,-30,20
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-01,-32,-15,-30,-37,-30,20
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-02,-30,-15,-34,-41,-30,21
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-03,-34,-16,-35,-49,-28,21
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-04,-33,-18,-34,-48,-18,16
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-05,-31,-18,-31,-46,-5,12
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-06,-29,-15,-35,-44,-30,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-07,-29,-15,-27,-44,-30,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-08,-31,-15,-32,-43,-30,20
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-09,-28,-13,-29,-41,-30,20
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-10,-34,-26,-34,-49,-30,20
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-11,-33,-18,-34,-48,-17,15
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-12,-33,-18,-31,-48,-5,12
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-13,-38,-23,-37,-52,-52,25
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-14,-30,-13,-26,-47,-27,20
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-15,-30,-12,-29,-46,-29,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-16,-28,-10,-29,-50,-27,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-17,-33,-18,-37,-48,-25,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-18,-29,-15,-30,-50,-15,14
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-19,-28,-15,-31,-50,-3,11
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-20,-26,-13,-28,-47,-27,17
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-21,-27,-8,-21,-47,-28,17
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-22,-21,-6,-29,-42,-25,17
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-23,-14,4,-26,-37,-25,15
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-24,-37,-19,-46,-52,-42,26
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-25,-37,-21,-41,-50,-12,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-26,-35,-21,-35,-47,5,15
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-27,-32,-18,-38,-46,-24,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-28,-35,-16,-37,-45,-24,20
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-29,-34,-17,-33,-45,-24,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-04-30,-29,-16,-33,-44,-25,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-01,-39,-23,-47,-51,-43,25
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-02,-34,-19,-39,-46,-8,17
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-03,-32,-17,-37,-46,10,13
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-04,-29,-18,-37,-49,-25,17
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-05,-26,-9,-38,-45,-25,17
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-06,-26,-8,-31,-43,-21,18
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-07,-24,-5,-34,-40,-20,18
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-08,-29,-13,-38,-43,-16,19
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-09,-31,-14,-37,-47,-3,16
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-10,-28,-12,-34,-45,16,11
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-11,-24,-10,-33,-49,-21,16
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-12,-28,-13,-27,-43,-22,15
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-13,-22,-5,-31,-39,-19,15
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-14,-21,-4,-23,-36,-18,15
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-15,-23,-7,-24,-36,-15,15
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-16,-24,-10,-29,-40,0,13
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-17,-19,-1,-19,-28,13,8
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-18,-16,-1,-28,-28,-18,12
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-19,-23,-2,-29,-29,-19,13
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-20,-24,-1,-34,-32,-43,17
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-21,-5,14,-7,-14,-18,11
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-22,-1,25,-10,-17,-18,10
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-23,-7,-13,-27,-31,-42,6
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-24,-3,-8,-20,-29,-5,7
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-25,7,11,-23,-22,-17,10
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-26,0,11,-18,-17,-14,9
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-27,-8,5,-22,-19,-14,10
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-28,4,13,-12,-18,-12,9
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-29,0,10,-23,-20,-9,9
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-30,3,4,-22,-16,-4,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-05-31,2,8,-17,-8,10,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-01,0,8,-20,-12,-10,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-02,-3,10,-17,-12,-10,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-03,2,12,-15,-13,-9,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-04,2,10,-15,-14,-6,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-05,0,9,-19,-16,-6,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-06,9,10,-19,-17,1,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-07,2,7,-18,-13,9,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-08,-1,9,-20,-19,-6,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-09,-2,10,-17,-14,-6,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-10,2,11,-17,-1,-5,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-11,6,10,-9,-11,-5,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-12,4,6,-10,-14,-3,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-13,6,5,-17,-13,2,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-14,-3,-4,-15,-15,4,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-15,5,7,-22,-10,-5,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-16,-2,4,-13,-10,-5,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-17,0,7,-17,-6,-6,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-18,0,2,-14,-10,-7,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-19,2,1,-14,-15,-5,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-20,4,-1,-14,-15,1,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-21,4,-1,-14,-18,7,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-22,2,-1,-20,-16,-8,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-23,-2,2,-5,-20,-8,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-24,0,4,-12,-13,-7,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-25,3,9,-4,-18,-7,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-26,1,3,-14,-14,-7,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-27,6,3,-13,-18,-4,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-28,5,2,-10,-12,1,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-29,3,3,-10,-12,-8,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-06-30,2,5,16,-1,-7,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-01,3,8,12,-8,-6,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-02,3,6,25,-8,-7,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-03,2,2,25,-12,-5,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-04,4,4,18,-5,-5,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-05,6,3,10,-12,3,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-06,1,5,14,-15,-9,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-07,-4,4,19,-3,-10,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-08,-2,1,13,-1,-8,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-09,1,4,19,-8,-7,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-10,0,-2,7,-16,-7,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-11,0,2,13,-7,-5,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-12,-11,-7,2,-26,-5,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-13,3,5,14,-16,-10,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-14,0,3,17,-10,-10,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-15,0,0,3,-5,-12,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-16,-1,4,3,-8,-10,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-17,-1,2,2,3,-9,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-18,0,1,5,-15,-9,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-19,0,-9,6,-14,-9,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-20,1,4,5,-12,-12,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-21,-7,-2,5,-20,-14,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-22,0,8,13,-11,-11,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-23,0,5,21,-9,-12,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-24,-1,7,12,-16,-12,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-25,2,3,10,-11,-10,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-26,-2,-2,9,-17,-5,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-27,-5,-2,7,-16,-17,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-28,1,10,24,-7,-16,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-29,7,22,21,2,-16,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-30,10,23,23,-9,-26,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-07-31,-30,-39,-28,-44,-73,18
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-01,-24,-37,-13,-35,-53,12
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-02,-12,-22,-3,-32,-22,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-03,-17,-16,-7,-33,-58,12
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-04,0,6,16,-15,-20,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-05,8,9,27,-3,-17,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-06,7,12,20,-14,-16,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-07,-11,-12,-6,-21,-22,9
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-08,4,3,27,-11,-15,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-09,10,4,27,-8,-5,-3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-10,0,3,22,-13,-18,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-11,-2,-1,12,-21,-20,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-12,4,10,19,-4,-18,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-13,5,5,25,-13,-19,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-14,5,8,15,-2,-17,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-15,9,4,27,-8,-17,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-16,9,2,27,-7,-5,-4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-17,,4,,,-21,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-18,,5,,,-21,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-19,,-13,,,-27,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-20,,4,,,-25,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-21,,-5,,,-45,11
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-22,,-4,,,-19,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-23,,4,,,-5,-4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-24,,-13,,,-32,9
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-25,,13,,,-23,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-26,,13,,,-20,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-27,,17,,,-20,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-28,,6,,,-18,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-29,,8,,,-19,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-30,,5,,,-10,-3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-08-31,,12,,,-20,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-01,,15,,,-21,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-02,,11,,,-21,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-03,,12,,,-19,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-04,,6,,,-16,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-05,,7,,,-20,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-06,,-4,,,-15,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-07,,11,,,-26,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-08,,17,,,-25,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-09,,16,,,-19,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-10,,16,,,-20,6
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-11,24,8,35,28,-19,7
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-12,28,2,45,27,-24,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-13,28,-6,25,29,-14,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-14,21,6,39,28,-20,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-15,22,11,33,26,-21,6
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-16,27,13,44,43,-19,6
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-17,19,7,25,26,-23,14
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-18,29,11,32,27,-13,8
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-19,29,5,38,27,-19,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-20,31,-6,22,24,-11,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-21,13,10,18,17,-21,9
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-22,13,27,19,18,-25,8
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-23,12,34,20,25,-20,8
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-24,13,32,29,14,-21,8
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-25,12,33,29,12,-16,9
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-26,16,28,36,29,-24,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-27,16,18,32,17,-18,4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-28,14,37,34,16,-21,6
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-29,16,36,25,23,-24,5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-09-30,8,31,28,26,-25,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-01,9,36,19,15,-26,-4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-02,1,24,21,5,-22,-6
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-03,-4,4,4,3,-33,-5
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-04,9,15,16,13,-27,-8
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-05,6,28,12,10,-27,-6
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-06,5,29,16,12,-29,-6
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-07,2,28,17,2,-22,-4
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-08,5,23,15,1,-20,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-09,-1,14,5,3,-17,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-10,7,19,11,8,-19,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-11,9,18,29,7,-15,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-12,11,32,18,16,-21,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-13,10,34,22,19,-22,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-14,9,42,27,26,-18,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-15,11,35,30,27,-18,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-16,5,28,18,20,-14,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-17,4,21,14,19,-21,3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-18,4,15,22,22,-15,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-19,2,27,32,14,-20,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-20,0,23,25,15,-21,2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-21,9,27,17,30,-15,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-22,15,31,38,24,-14,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-23,14,25,27,20,-11,1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-24,10,17,37,19,-19,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-25,16,9,26,24,-15,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-26,16,32,24,30,-15,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-27,14,32,32,27,-20,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-28,15,34,26,46,-14,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-29,3,15,3,18,-54,12
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-30,14,27,23,31,-11,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-10-31,11,21,23,27,-19,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-01,11,13,19,19,-16,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-02,15,30,21,36,-17,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-03,14,35,26,30,-19,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-04,8,33,24,34,-15,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-05,12,37,38,32,-13,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-06,8,28,17,25,-6,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-07,9,18,25,13,-16,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-08,8,13,19,19,-15,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-09,7,34,2,30,-13,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-10,7,36,15,25,-16,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-11,5,37,24,36,-11,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-12,10,35,22,32,-11,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-13,10,31,17,33,-6,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-14,10,26,24,29,-14,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-15,10,25,21,29,-14,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-16,6,32,14,33,-12,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-17,6,33,12,38,-15,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-18,10,37,13,35,-10,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-19,9,37,24,26,-10,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-20,6,35,12,24,-4,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-21,10,23,12,24,-10,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-22,4,15,8,16,-14,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-23,4,37,20,29,-10,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-24,5,37,18,32,-13,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-25,5,44,20,47,-9,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-26,10,42,27,43,-10,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-27,12,40,32,32,-4,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-28,15,28,30,27,-11,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-29,10,23,24,35,-15,-3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-11-30,9,44,20,41,-8,-3
+NE,Niger,,,Naimey Metropolitan Area,,,2020-12-01,11,51,30,34,-10,0
+NE,Niger,,,Naimey Metropolitan Area,,,2020-12-02,10,51,24,45,-6,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-12-03,13,52,41,32,-6,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-12-04,13,47,26,29,-2,-1
+NE,Niger,,,Naimey Metropolitan Area,,,2020-12-05,15,40,28,32,-9,-2
+NE,Niger,,,Naimey Metropolitan Area,,,2020-12-06,15,27,27,28,-11,-3
+NE,Niger,Agadez Region,,,NE-1,,2020-02-17,,,,,8,
+NE,Niger,Agadez Region,,,NE-1,,2020-02-18,,,,,17,
+NE,Niger,Agadez Region,,,NE-1,,2020-02-20,,,,,15,
+NE,Niger,Agadez Region,,,NE-1,,2020-02-21,,,,,4,
+NE,Niger,Agadez Region,,,NE-1,,2020-02-24,,,,,10,
+NE,Niger,Agadez Region,,,NE-1,,2020-02-25,,,,,8,
+NE,Niger,Agadez Region,,,NE-1,,2020-02-27,,,,,8,
+NE,Niger,Agadez Region,,,NE-1,,2020-02-28,,,,,8,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-02,,,,,15,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-03,,,,,10,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-05,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-06,,,,,6,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-10,,,,,15,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-12,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-13,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-17,,,,,15,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-19,,,,,17,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-20,,,,,8,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-23,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-24,,,,,0,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-26,,,,,2,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-27,,,,,6,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-30,,,,,10,
+NE,Niger,Agadez Region,,,NE-1,,2020-03-31,,,,,0,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-01,,,,,2,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-02,,,,,6,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-03,,,,,4,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-06,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-07,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-08,,,,,9,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-09,,,,,6,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-10,,,,,10,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-13,,,,,-6,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-14,,,,,10,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-16,,,,,17,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-17,,,,,8,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-20,,,,,11,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-21,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-23,,,,,9,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-24,,,,,-8,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-27,,,,,15,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-28,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-04-30,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-01,,,,,-8,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-04,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-05,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-07,,,,,11,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-08,,,,,18,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-11,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-12,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-14,,,,,10,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-15,,,,,7,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-18,,,,,14,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-19,,,,,17,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-20,,,,,4,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-21,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-22,,,,,8,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-23,,,,,-11,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-25,,,,,9,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-26,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-28,,,,,16,
+NE,Niger,Agadez Region,,,NE-1,,2020-05-29,,,,,6,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-01,,,,,14,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-02,,,,,18,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-04,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-05,,,,,2,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-08,,,,,14,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-09,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-11,,,,,10,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-12,,,,,7,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-15,,,,,5,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-16,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-18,,,,,13,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-19,,,,,6,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-22,,,,,6,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-23,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-25,,,,,5,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-26,,,,,11,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-29,,,,,11,
+NE,Niger,Agadez Region,,,NE-1,,2020-06-30,,,,,11,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-02,,,,,12,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-03,,,,,6,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-06,,,,,11,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-07,,,,,9,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-09,,,,,2,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-10,,,,,-4,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-13,,,,,5,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-14,,,,,2,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-16,,,,,-4,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-17,,,,,-11,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-18,,,,,-22,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-20,,,,,-4,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-21,,,,,-5,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-22,,,,,0,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-23,,,,,-1,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-24,,,,,-8,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-27,,,,,-2,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-28,,,,,-5,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-29,,,,,-5,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-30,,,,,-16,
+NE,Niger,Agadez Region,,,NE-1,,2020-07-31,,,,,-44,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-01,,,,,-32,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-03,,,,,-30,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-04,,,,,-10,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-05,,,,,0,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-06,,,,,-4,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-07,,,,,-8,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-10,,,,,-13,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-11,,,,,-8,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-12,,,,,-3,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-13,,,,,-13,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-14,,,,,-11,
+NE,Niger,Agadez Region,,,NE-1,,2020-08-15,,,,,-13,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-11,,,,,-15,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-12,,,,,-20,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-14,,,,,-11,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-15,,,,,-11,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-16,,,,,-10,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-17,,,,,-11,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-18,,,,,-15,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-19,,,,,-12,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-21,,,,,-16,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-22,,,,,-19,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-23,,,,,-17,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-24,,,,,-26,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-25,,,,,-23,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-26,,,,,-31,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-28,,,,,-26,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-29,,,,,-23,
+NE,Niger,Agadez Region,,,NE-1,,2020-09-30,,,,,-30,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-01,,,,,-37,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-02,,,,,-39,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-03,,,,,-34,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-04,,,,,-36,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-05,,,,,-40,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-06,,,,,-35,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-07,,,,,-28,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-08,,,,,-20,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-09,,,,,-20,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-10,,,,,-20,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-12,,,,,-19,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-13,,,,,-24,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-14,,,,,-21,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-15,,,,,-24,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-16,,,,,-26,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-17,,,,,-24,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-19,,,,,-28,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-20,,,,,-27,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-21,,,,,-30,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-22,,,,,-31,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-23,,,,,-35,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-24,,,,,-31,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-26,,,,,-22,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-27,,,,,-23,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-28,,,,,-28,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-29,,,,,-41,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-30,,,,,-34,
+NE,Niger,Agadez Region,,,NE-1,,2020-10-31,,,,,-26,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-02,,,,,-30,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-03,,,,,-26,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-04,,,,,-21,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-05,,,,,-27,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-06,,,,,-25,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-07,,,,,-22,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-08,,,,,-32,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-09,,,,,-28,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-10,,,,,-26,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-11,,,,,-20,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-12,,,,,-26,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-13,,,,,-31,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-14,,,,,-21,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-16,,,,,-23,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-17,,,,,-24,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-18,,,,,-22,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-19,,,,,-23,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-20,,,,,-30,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-21,,,,,-18,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-23,,,,,-18,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-24,,,,,-19,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-25,,,,,-17,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-26,,,,,-18,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-27,,,,,-20,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-28,,,,,-19,
+NE,Niger,Agadez Region,,,NE-1,,2020-11-30,,,,,-15,
+NE,Niger,Agadez Region,,,NE-1,,2020-12-01,,,,,-17,
+NE,Niger,Agadez Region,,,NE-1,,2020-12-02,,,,,-12,
+NE,Niger,Agadez Region,,,NE-1,,2020-12-03,,,,,-15,
+NE,Niger,Agadez Region,,,NE-1,,2020-12-04,,,,,-11,
+NE,Niger,Agadez Region,,,NE-1,,2020-12-05,,,,,-24,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-15,,,,,8,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-16,,,,,2,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-17,,,,,4,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-18,,,,,9,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-19,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-20,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-21,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-22,,,,,9,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-23,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-24,,,,,-6,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-25,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-26,,,,,8,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-27,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-28,,,,,5,
+NE,Niger,Maradi Region,,,NE-4,,2020-02-29,,,,,9,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-01,,,,,2,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-02,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-03,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-04,,,,,9,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-05,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-06,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-07,,,,,4,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-08,,,,,9,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-09,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-10,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-11,,,,,8,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-12,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-13,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-14,,,,,15,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-15,,,,,9,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-16,,,,,4,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-17,,,,,14,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-18,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-19,,,,,9,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-20,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-21,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-22,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-23,,,,,-7,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-24,,,,,-5,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-25,,,,,-6,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-26,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-27,,,,,2,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-28,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-29,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-30,,,,,-11,
+NE,Niger,Maradi Region,,,NE-4,,2020-03-31,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-01,,,,,-11,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-02,,,,,-5,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-03,,,,,-5,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-04,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-05,,,,,4,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-06,,,,,-8,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-07,,,,,-11,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-08,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-09,,,,,-8,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-10,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-11,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-12,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-13,,,,,-28,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-14,,,,,-5,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-15,,,,,-8,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-16,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-17,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-18,,,,,-5,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-19,,,,,1,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-20,,,,,-10,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-21,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-22,,,,,-8,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-23,,,,,-6,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-24,,,,,-18,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-25,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-26,,,,,5,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-27,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-28,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-29,,,,,-10,
+NE,Niger,Maradi Region,,,NE-4,,2020-04-30,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-01,,,,,-20,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-02,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-03,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-04,,,,,-14,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-05,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-06,,,,,-7,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-07,,,,,-5,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-08,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-09,,,,,8,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-10,,,,,8,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-11,,,,,-10,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-12,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-13,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-14,,,,,-4,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-15,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-16,,,,,8,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-17,,,,,7,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-18,,,,,-6,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-19,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-20,,,,,-15,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-21,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-22,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-23,,,,,-18,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-24,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-25,,,,,-7,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-26,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-27,,,,,9,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-28,,,,,8,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-29,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-30,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-05-31,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-01,,,,,-6,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-02,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-03,,,,,1,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-04,,,,,2,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-05,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-06,,,,,2,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-07,,,,,6,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-08,,,,,-4,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-09,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-10,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-11,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-12,,,,,-11,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-13,,,,,-4,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-14,,,,,-6,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-15,,,,,2,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-16,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-17,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-18,,,,,-2,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-19,,,,,-4,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-20,,,,,-4,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-21,,,,,-11,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-22,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-23,,,,,-4,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-24,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-25,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-26,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-27,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-28,,,,,-7,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-29,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-06-30,,,,,0,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-01,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-02,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-03,,,,,-7,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-04,,,,,-1,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-05,,,,,-1,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-06,,,,,-8,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-07,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-08,,,,,-5,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-09,,,,,-1,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-10,,,,,-8,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-11,,,,,3,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-12,,,,,-6,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-13,,,,,-4,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-14,,,,,-3,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-15,,,,,-6,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-16,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-17,,,,,-4,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-18,,,,,-13,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-19,,,,,-10,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-20,,,,,-10,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-21,,,,,-14,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-22,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-23,,,,,-14,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-24,,,,,-17,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-25,,,,,-15,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-26,,,,,-10,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-27,,,,,-24,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-28,,,,,-13,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-29,,,,,-16,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-30,,,,,-28,
+NE,Niger,Maradi Region,,,NE-4,,2020-07-31,,,,,-53,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-01,,,,,-44,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-02,,,,,-41,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-03,,,,,-43,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-04,,,,,-14,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-05,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-06,,,,,-19,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-07,,,,,-13,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-08,,,,,-7,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-09,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-10,,,,,-18,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-11,,,,,-14,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-12,,,,,-13,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-13,,,,,-16,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-14,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-15,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-08-16,,,,,-16,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-11,,,,,-18,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-12,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-13,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-14,,,,,-13,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-15,,,,,-9,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-16,,,,,-11,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-17,,,,,-11,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-18,,,,,-15,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-19,,,,,-22,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-20,,,,,-14,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-21,,,,,-20,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-22,,,,,-15,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-23,,,,,-22,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-24,,,,,-23,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-25,,,,,-23,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-26,,,,,-21,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-27,,,,,-26,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-28,,,,,-22,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-29,,,,,-28,
+NE,Niger,Maradi Region,,,NE-4,,2020-09-30,,,,,-31,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-01,,,,,-37,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-02,,,,,-36,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-03,,,,,-41,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-04,,,,,-37,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-05,,,,,-43,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-06,,,,,-39,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-07,,,,,-31,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-08,,,,,-27,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-09,,,,,-28,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-10,,,,,-21,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-11,,,,,-24,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-12,,,,,-26,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-13,,,,,-20,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-14,,,,,-17,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-15,,,,,-24,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-16,,,,,-18,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-17,,,,,-23,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-18,,,,,-24,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-19,,,,,-23,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-20,,,,,-18,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-21,,,,,-17,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-22,,,,,-22,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-23,,,,,-22,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-24,,,,,-21,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-25,,,,,-24,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-26,,,,,-25,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-27,,,,,-25,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-28,,,,,-25,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-29,,,,,-44,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-30,,,,,-27,
+NE,Niger,Maradi Region,,,NE-4,,2020-10-31,,,,,-27,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-01,,,,,-29,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-02,,,,,-31,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-03,,,,,-25,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-04,,,,,-23,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-05,,,,,-21,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-06,,,,,-24,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-07,,,,,-16,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-08,,,,,-26,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-09,,,,,-27,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-10,,,,,-21,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-11,,,,,-22,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-12,,,,,-18,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-13,,,,,-19,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-14,,,,,-20,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-15,,,,,-23,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-16,,,,,-26,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-17,,,,,-19,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-18,,,,,-15,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-19,,,,,-18,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-20,,,,,-20,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-21,,,,,-16,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-22,,,,,-19,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-23,,,,,-23,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-24,,,,,-19,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-25,,,,,-21,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-26,,,,,-16,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-27,,,,,-21,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-28,,,,,-22,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-29,,,,,-21,
+NE,Niger,Maradi Region,,,NE-4,,2020-11-30,,,,,-20,
+NE,Niger,Maradi Region,,,NE-4,,2020-12-01,,,,,-16,
+NE,Niger,Maradi Region,,,NE-4,,2020-12-02,,,,,-17,
+NE,Niger,Maradi Region,,,NE-4,,2020-12-03,,,,,-12,
+NE,Niger,Maradi Region,,,NE-4,,2020-12-04,,,,,-13,
+NE,Niger,Maradi Region,,,NE-4,,2020-12-05,,,,,-16,
+NE,Niger,Maradi Region,,,NE-4,,2020-12-06,,,,,-20,
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-15,2,4,-9,-1,8,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-16,1,5,-9,-3,6,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-17,-1,2,-1,4,-5,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-18,-3,5,-1,-6,2,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-19,-6,2,-4,-4,4,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-20,1,3,12,-5,3,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-21,-3,1,-8,-2,5,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-22,2,0,-2,-1,6,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-23,0,2,-1,4,4,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-24,-3,0,2,6,3,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-25,-3,2,5,-1,3,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-26,-4,4,2,4,2,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-27,4,6,-2,8,2,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-28,5,3,-4,5,4,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-29,5,2,-3,3,5,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-01,4,1,-4,-5,5,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-02,3,2,-7,6,3,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-03,0,4,5,1,4,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-04,-1,6,-4,0,4,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-05,3,4,-5,-2,5,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-06,-4,3,-11,-6,7,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-07,1,0,-9,3,6,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-08,-1,1,-9,1,9,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-09,0,0,-10,7,3,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-10,-2,1,-1,6,2,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-11,-3,1,-9,6,3,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-12,2,5,4,4,3,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-13,2,2,-10,-1,6,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-14,0,1,-9,0,6,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-15,-1,0,,-4,1,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-16,-1,-3,-11,-2,3,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-17,-4,3,-3,-5,4,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-18,-6,5,-18,11,3,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-19,-8,6,-5,-7,2,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-20,-13,1,-14,-16,-2,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-21,-18,-4,-19,-22,-12,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-22,-17,-8,-18,-31,-1,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-23,-18,-6,-25,-30,-16,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-24,-21,-5,-19,-28,-16,8
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-25,-24,-5,-18,-28,-19,10
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-26,-22,-6,-15,-40,-20,10
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-27,-24,-9,-26,-39,-20,11
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-28,-38,-20,-34,-47,-21,15
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-29,-35,-19,-38,-41,-6,12
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-30,-31,-19,-42,-40,-27,19
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-03-31,-31,-17,-30,-37,-30,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-01,-33,-15,-25,-37,-30,19
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-02,-29,-15,-37,-42,-30,20
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-03,-34,-16,-35,-50,-29,20
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-04,-33,-18,-37,-49,-17,16
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-05,-31,-18,-30,-49,-5,12
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-06,-29,-14,-35,-43,-30,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-07,-28,-15,-25,-44,-31,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-08,-31,-15,-32,-44,-30,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-09,-28,-14,-27,-41,-30,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-10,-34,-26,-35,-48,-31,19
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-11,-33,-18,-36,-48,-17,15
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-12,-33,-18,-32,-50,-5,11
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-13,-37,-23,-36,-51,-52,24
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-14,-29,-13,-27,-46,-27,19
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-15,-29,-12,-29,-46,-29,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-16,-27,-11,-27,-50,-27,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-17,-33,-18,-36,-50,-26,17
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-18,-29,-15,-32,-50,-15,14
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-19,-28,-15,-30,-49,-3,10
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-20,-25,-12,-25,-45,-28,16
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-21,-26,-9,-20,-42,-28,15
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-22,-21,-5,-30,-44,-26,15
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-23,-14,5,-24,-37,-26,13
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-24,-37,-19,-45,-52,-43,25
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-25,-38,-21,-43,-51,-12,19
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-26,-35,-21,-36,-48,5,14
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-27,-31,-18,-39,-44,-25,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-28,-33,-16,-37,-43,-26,17
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-29,-34,-17,-35,-43,-26,18
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-04-30,-28,-16,-30,-45,-26,17
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-01,-39,-23,-48,-50,-43,23
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-02,-35,-19,-43,-47,-8,16
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-03,-33,-17,-38,-47,10,12
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-04,-30,-18,-36,-48,-25,16
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-05,-26,-10,-36,-44,-26,16
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-06,-26,-9,-31,-43,-21,16
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-07,-24,-6,-34,-42,-21,16
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-08,-29,-13,-39,-44,-17,17
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-09,-31,-14,-34,-48,-4,14
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-10,-28,-12,-36,-44,15,10
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-11,-24,-10,-34,-48,-21,15
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-12,-27,-13,-28,-44,-22,12
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-13,-22,-4,-29,-37,-19,13
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-14,-20,-2,-18,-36,-18,11
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-15,-21,-5,-23,-35,-16,14
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-16,-21,-6,-28,-37,0,11
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-17,-19,-1,-20,-28,14,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-18,-16,0,-28,-26,-19,10
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-19,-22,-2,-28,-26,-20,10
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-20,-24,0,-35,-33,-43,15
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-21,-5,15,-6,-15,-19,8
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-22,-1,24,-11,-18,-18,9
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-23,-7,-13,-28,-31,-40,5
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-24,-2,-7,-21,-29,-4,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-25,9,12,-21,-21,-19,8
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-26,1,10,-14,-15,-14,8
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-27,-7,5,-21,-20,-13,9
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-28,4,13,-7,-18,-12,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-29,1,11,-24,-19,-9,8
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-30,2,4,-24,-15,-3,4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-05-31,1,7,-17,-9,13,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-01,1,8,-26,-9,-10,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-02,-1,10,-14,-11,-11,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-03,3,12,-16,-13,-9,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-04,3,11,-14,-14,-6,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-05,1,10,-19,-15,-6,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-06,9,11,-21,-16,2,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-07,2,8,-19,-8,10,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-08,0,9,-19,-18,-6,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-09,-1,10,-17,-14,-6,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-10,2,11,-17,-3,-5,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-11,6,10,-9,-11,-5,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-12,4,7,-10,-13,-3,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-13,6,6,-17,-15,2,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-14,-2,-3,-16,-14,5,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-15,5,7,-22,-9,-5,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-16,0,4,-12,-10,-5,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-17,0,8,-17,-5,-6,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-18,0,3,-9,-10,-7,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-19,3,2,-15,-15,-5,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-20,4,0,-15,-16,1,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-21,4,0,-12,-18,7,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-22,4,0,-19,-14,-8,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-23,0,2,-5,-19,-8,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-24,0,5,-13,-13,-7,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-25,3,9,-3,-19,-7,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-26,1,4,-14,-14,-7,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-27,6,4,-13,-18,-3,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-28,6,2,-10,-12,2,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-29,4,3,-12,-9,-8,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-06-30,4,5,,-4,-7,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-01,4,8,11,-7,-6,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-02,4,6,,-9,-7,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-03,2,3,25,-10,-5,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-04,4,4,19,-4,-4,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-05,7,4,,-10,4,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-06,3,6,17,-12,-9,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-07,-3,4,,-1,-10,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-08,-1,1,10,-1,-8,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-09,0,4,,-7,-7,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-10,1,-2,5,-16,-7,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-11,0,3,10,-8,-5,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-12,-11,-6,3,-27,-4,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-13,5,5,15,-14,-10,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-14,1,3,,-7,-10,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-15,0,1,0,-5,-12,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-16,-1,5,4,-10,-10,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-17,-1,2,0,4,-9,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-18,0,1,2,-15,-8,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-19,1,-8,6,-13,-8,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-20,2,5,3,-9,-13,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-21,-6,-2,9,-19,-16,4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-22,0,8,12,-12,-11,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-23,-1,5,,-11,-12,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-24,-1,6,10,-18,-13,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-25,2,3,6,-14,-10,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-26,-2,-2,8,-18,-4,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-27,-5,-2,3,-13,-17,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-28,2,10,,-6,-16,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-29,7,22,19,3,-16,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-30,9,22,,-9,-26,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-07-31,-31,-39,-27,-44,-73,16
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-01,-24,-37,-16,-35,-52,11
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-02,-12,-22,-4,-32,-22,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-03,-17,-16,-8,-29,-58,11
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-04,1,5,,-13,-20,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-05,7,9,,-4,-17,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-06,7,12,,-15,-16,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-07,-11,-12,-9,-22,-22,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-08,3,3,23,-9,-14,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-09,9,5,,-9,-4,-4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-10,1,3,22,-13,-18,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-11,-2,-1,,-20,-20,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-12,3,10,19,-5,-18,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-13,5,5,,-15,-20,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-14,5,9,15,-3,-17,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-15,9,4,25,-9,-17,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-16,9,2,,-9,-4,-5
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-17,,,,,-21,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-18,,,,,-21,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-19,,,,,-27,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-20,,,,,-25,-4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-21,,,,,-47,9
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-22,,,,,-19,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-23,,,,,,-5
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-24,,,,,-32,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-25,,,,,-23,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-26,,,,,-21,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-27,,,,,-21,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-28,,,,,-20,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-29,,,,,-19,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-30,,,,,,-4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-08-31,,,,,-21,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-01,,,,,-21,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-02,,,,,-22,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-03,,,,,-21,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-04,,,,,-20,4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-05,,,,,-20,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-06,,,,,,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-07,,,,,-27,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-08,,,,,-25,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-09,,,,,-21,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-10,,,,,-22,5
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-11,35,8,34,29,-23,6
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-12,39,3,39,25,-25,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-13,38,-33,,30,-14,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-14,35,-29,,29,-21,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-15,34,-26,,25,-20,4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-16,38,-25,,41,-21,6
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-17,29,-30,,23,-24,12
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-18,40,11,33,28,-18,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-19,41,5,32,26,-19,4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-20,42,-34,,23,-11,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-21,23,-29,18,20,-23,8
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-22,25,-21,,19,-24,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-23,21,-19,17,22,-22,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-24,23,-20,,13,-22,6
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-25,22,34,31,13,-21,7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-26,26,29,31,27,-24,4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-27,26,-25,,15,-19,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-28,25,-17,,17,-23,5
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-29,27,-17,,23,-23,3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-09-30,17,-20,,21,-27,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-01,20,-19,,16,-27,-6
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-02,10,24,20,4,-27,-8
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-03,5,6,1,1,-34,-6
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-04,18,-25,,12,-27,-9
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-05,16,-22,11,12,-28,-7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-06,15,-21,,12,-28,-7
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-07,11,-22,12,2,-24,-6
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-08,14,-25,,-2,-22,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-09,7,14,5,2,-22,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-10,15,20,9,7,-20,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-11,18,-24,,5,-15,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-12,22,-20,19,18,-21,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-13,21,-18,,18,-21,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-14,18,-12,,25,-20,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-15,21,-18,,25,-20,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-16,14,29,17,18,-19,1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-17,12,22,10,19,-22,2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-18,12,-25,,19,-16,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-19,13,-23,,17,-21,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-20,10,-24,,13,-20,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-21,19,-23,14,29,-17,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-22,26,-21,,21,-16,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-23,25,25,29,20,-16,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-24,20,17,36,18,-20,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-25,26,-29,,26,-14,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-26,28,-22,24,33,-16,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-27,26,-21,,27,-19,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-28,24,-19,,44,-16,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-29,11,-28,1,17,-55,10
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-30,23,27,18,32,-16,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-10-31,20,21,19,26,-20,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-01,20,-27,,18,-17,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-02,27,-21,20,38,-18,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-03,25,-19,,30,-18,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-04,17,-19,22,31,-16,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-05,22,-17,,31,-15,-4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-06,18,29,18,26,-11,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-07,17,19,21,12,-17,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-08,16,-27,,18,-15,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-09,18,-21,2,33,-15,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-10,18,-19,,24,-15,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-11,15,-18,21,36,-13,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-12,20,-20,,32,-12,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-13,19,31,17,38,-12,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-14,19,27,21,27,-15,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-15,20,-22,,28,-14,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-16,18,-21,14,36,-13,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-17,17,-21,,36,-14,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-18,20,-19,12,34,-12,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-19,18,-19,,26,-12,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-20,16,36,8,25,-10,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-21,19,23,13,23,-11,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-22,12,-27,4,15,-15,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-23,14,-20,19,31,-11,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-24,15,-19,,33,-12,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-25,14,-15,19,45,-11,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-26,19,-15,,40,-12,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-27,22,40,30,32,-10,-4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-28,24,29,25,25,-12,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-29,19,-22,,32,-15,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-11-30,22,-14,18,44,-10,-4
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-12-01,21,-12,,34,-9,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-12-02,20,-10,21,45,-8,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-12-03,23,-10,,30,-8,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-12-04,24,48,26,29,-8,-2
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-12-05,25,41,23,31,-10,-3
+NE,Niger,Niamey Urban Community,,,NE-8,,2020-12-06,26,-20,,28,-12,-4
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-17,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-18,,,,,2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-19,,,,,-2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-20,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-21,,,,,4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-24,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-25,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-26,,,,,4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-27,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-02-28,,,,,2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-02,,,,,9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-03,,,,,8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-04,,,,,8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-05,,,,,6,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-06,,,,,18,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-09,,,,,13,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-10,,,,,10,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-11,,,,,4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-12,,,,,8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-13,,,,,14,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-16,,,,,15,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-17,,,,,10,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-18,,,,,8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-19,,,,,4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-20,,,,,12,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-23,,,,,-6,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-24,,,,,-4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-25,,,,,-4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-26,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-27,,,,,-2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-30,,,,,-15,
+NE,Niger,Tahoua Region,,,NE-5,,2020-03-31,,,,,-12,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-01,,,,,-16,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-02,,,,,-6,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-03,,,,,-2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-06,,,,,-9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-07,,,,,-4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-08,,,,,-12,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-09,,,,,-10,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-10,,,,,-6,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-13,,,,,-19,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-14,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-15,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-16,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-17,,,,,6,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-20,,,,,-7,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-21,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-22,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-23,,,,,-3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-24,,,,,-12,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-27,,,,,-9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-28,,,,,-12,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-29,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-04-30,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-01,,,,,-18,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-04,,,,,-9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-05,,,,,-16,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-06,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-07,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-08,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-11,,,,,-11,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-12,,,,,-6,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-13,,,,,-6,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-14,,,,,-1,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-15,,,,,3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-18,,,,,-1,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-19,,,,,-9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-20,,,,,-15,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-21,,,,,-1,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-22,,,,,-3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-25,,,,,-3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-26,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-27,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-28,,,,,4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-05-29,,,,,10,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-01,,,,,3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-02,,,,,-1,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-03,,,,,2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-04,,,,,3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-05,,,,,4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-08,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-09,,,,,4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-10,,,,,10,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-11,,,,,2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-12,,,,,-3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-15,,,,,11,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-16,,,,,1,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-17,,,,,-3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-18,,,,,-2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-19,,,,,5,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-22,,,,,-2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-23,,,,,-4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-24,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-25,,,,,2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-26,,,,,5,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-29,,,,,-4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-06-30,,,,,2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-01,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-02,,,,,2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-03,,,,,8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-06,,,,,9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-07,,,,,5,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-08,,,,,9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-09,,,,,7,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-10,,,,,-1,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-13,,,,,-1,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-14,,,,,-2,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-15,,,,,-3,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-16,,,,,0,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-17,,,,,4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-20,,,,,-5,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-21,,,,,-12,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-22,,,,,-4,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-23,,,,,-8,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-24,,,,,-5,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-27,,,,,-12,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-28,,,,,-9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-29,,,,,-12,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-30,,,,,-19,
+NE,Niger,Tahoua Region,,,NE-5,,2020-07-31,,,,,-50,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-01,,,,,-35,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-03,,,,,-40,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-04,,,,,-22,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-05,,,,,-11,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-06,,,,,-19,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-07,,,,,-11,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-10,,,,,-16,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-11,,,,,-11,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-12,,,,,-14,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-13,,,,,-14,
+NE,Niger,Tahoua Region,,,NE-5,,2020-08-14,,,,,-9,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-11,,,,,-16,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-14,,,,,-16,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-15,,,,,-16,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-16,,,,,-15,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-17,,,,,-17,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-18,,,,,-17,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-21,,,,,-18,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-22,,,,,-22,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-23,,,,,-28,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-24,,,,,-32,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-25,,,,,-19,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-26,,,,,-23,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-28,,,,,-22,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-29,,,,,-29,
+NE,Niger,Tahoua Region,,,NE-5,,2020-09-30,,,,,-34,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-01,,,,,-38,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-02,,,,,-38,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-03,,,,,-36,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-05,,,,,-39,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-06,,,,,-36,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-07,,,,,-27,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-08,,,,,-28,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-09,,,,,-29,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-10,,,,,-26,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-12,,,,,-32,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-13,,,,,-32,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-14,,,,,-32,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-15,,,,,-29,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-16,,,,,-25,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-17,,,,,-23,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-19,,,,,-27,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-20,,,,,-26,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-21,,,,,-31,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-22,,,,,-31,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-23,,,,,-24,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-24,,,,,-23,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-26,,,,,-23,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-27,,,,,-27,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-28,,,,,-27,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-29,,,,,-48,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-30,,,,,-29,
+NE,Niger,Tahoua Region,,,NE-5,,2020-10-31,,,,,-20,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-02,,,,,-31,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-03,,,,,-28,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-04,,,,,-28,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-05,,,,,-30,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-06,,,,,-29,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-07,,,,,-22,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-09,,,,,-26,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-10,,,,,-27,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-11,,,,,-22,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-12,,,,,-26,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-13,,,,,-26,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-14,,,,,-20,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-16,,,,,-27,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-17,,,,,-25,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-18,,,,,-26,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-19,,,,,-26,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-20,,,,,-23,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-21,,,,,-25,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-23,,,,,-29,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-24,,,,,-36,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-25,,,,,-22,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-26,,,,,-21,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-27,,,,,-27,
+NE,Niger,Tahoua Region,,,NE-5,,2020-11-30,,,,,-28,
+NE,Niger,Tahoua Region,,,NE-5,,2020-12-01,,,,,-23,
+NE,Niger,Tahoua Region,,,NE-5,,2020-12-02,,,,,-19,
+NE,Niger,Tahoua Region,,,NE-5,,2020-12-03,,,,,-18,
+NE,Niger,Tahoua Region,,,NE-5,,2020-12-04,,,,,-19,
+NE,Niger,Tahoua Region,,,NE-5,,2020-12-05,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-15,,,,,18,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-17,,,,,-1,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-18,,,,,2,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-19,,,,,7,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-20,,,,,-2,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-21,,,,,3,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-22,,,,,10,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-24,,,,,4,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-25,,,,,8,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-26,,,,,11,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-27,,,,,7,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-28,,,,,8,
+NE,Niger,Zinder Region,,,NE-7,,2020-02-29,,,,,12,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-02,,,,,9,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-03,,,,,5,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-04,,,,,11,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-05,,,,,7,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-06,,,,,10,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-07,,,,,8,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-09,,,,,3,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-10,,,,,2,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-11,,,,,3,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-12,,,,,5,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-13,,,,,3,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-14,,,,,12,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-16,,,,,9,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-17,,,,,8,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-18,,,,,8,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-19,,,,,5,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-20,,,,,8,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-21,,,,,4,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-23,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-24,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-25,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-26,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-27,,,,,-10,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-28,,,,,-8,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-30,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-03-31,,,,,-14,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-01,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-02,,,,,-11,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-03,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-04,,,,,2,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-06,,,,,-18,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-07,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-08,,,,,-10,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-09,,,,,-13,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-10,,,,,-8,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-11,,,,,-4,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-13,,,,,-33,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-14,,,,,-11,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-15,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-16,,,,,-11,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-17,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-18,,,,,1,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-20,,,,,-6,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-21,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-22,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-23,,,,,-9,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-24,,,,,-19,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-25,,,,,0,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-27,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-28,,,,,-15,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-29,,,,,-8,
+NE,Niger,Zinder Region,,,NE-7,,2020-04-30,,,,,-14,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-01,,,,,-25,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-02,,,,,1,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-04,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-05,,,,,-10,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-06,,,,,-8,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-07,,,,,-7,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-08,,,,,-3,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-09,,,,,9,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-11,,,,,-9,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-12,,,,,-6,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-13,,,,,-4,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-14,,,,,-4,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-15,,,,,1,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-16,,,,,5,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-18,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-19,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-20,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-21,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-22,,,,,-1,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-23,,,,,-11,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-25,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-26,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-27,,,,,5,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-28,,,,,5,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-29,,,,,0,
+NE,Niger,Zinder Region,,,NE-7,,2020-05-30,,,,,9,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-01,,,,,-8,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-02,,,,,-9,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-03,,,,,-1,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-04,,,,,2,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-05,,,,,-1,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-06,,,,,4,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-08,,,,,-6,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-09,,,,,-1,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-10,,,,,6,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-11,,,,,-2,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-12,,,,,-6,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-13,,,,,-4,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-15,,,,,0,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-16,,,,,-2,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-17,,,,,1,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-18,,,,,0,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-19,,,,,2,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-20,,,,,3,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-22,,,,,-9,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-23,,,,,-4,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-24,,,,,2,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-25,,,,,2,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-26,,,,,2,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-27,,,,,9,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-29,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-06-30,,,,,3,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-01,,,,,0,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-02,,,,,-1,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-03,,,,,-1,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-04,,,,,-1,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-06,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-07,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-08,,,,,-2,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-09,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-10,,,,,-2,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-11,,,,,1,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-13,,,,,-6,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-14,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-15,,,,,-2,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-16,,,,,-6,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-17,,,,,-5,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-18,,,,,3,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-20,,,,,-11,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-21,,,,,-11,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-22,,,,,-4,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-23,,,,,-6,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-24,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-25,,,,,-8,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-27,,,,,-21,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-28,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-29,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-30,,,,,-27,
+NE,Niger,Zinder Region,,,NE-7,,2020-07-31,,,,,-47,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-01,,,,,-32,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-02,,,,,-30,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-03,,,,,-40,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-04,,,,,-17,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-05,,,,,-9,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-06,,,,,-18,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-07,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-08,,,,,-10,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-10,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-11,,,,,-14,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-12,,,,,-10,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-13,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-14,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-08-15,,,,,-8,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-11,,,,,-13,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-12,,,,,-14,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-14,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-15,,,,,-13,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-16,,,,,-10,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-17,,,,,-7,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-18,,,,,-9,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-19,,,,,-3,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-21,,,,,-15,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-22,,,,,-11,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-23,,,,,-13,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-24,,,,,-17,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-25,,,,,-18,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-26,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-27,,,,,-19,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-28,,,,,-21,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-29,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-09-30,,,,,-25,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-01,,,,,-28,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-02,,,,,-31,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-03,,,,,-30,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-04,,,,,-34,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-05,,,,,-33,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-06,,,,,-38,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-07,,,,,-19,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-08,,,,,-15,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-09,,,,,-24,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-10,,,,,-24,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-11,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-12,,,,,-28,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-13,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-14,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-15,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-16,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-17,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-19,,,,,-27,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-20,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-21,,,,,-28,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-22,,,,,-25,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-23,,,,,-21,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-24,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-25,,,,,-24,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-26,,,,,-27,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-27,,,,,-24,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-28,,,,,-25,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-29,,,,,-42,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-30,,,,,-30,
+NE,Niger,Zinder Region,,,NE-7,,2020-10-31,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-01,,,,,-30,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-02,,,,,-27,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-03,,,,,-24,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-04,,,,,-15,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-05,,,,,-19,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-06,,,,,-23,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-07,,,,,-24,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-08,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-09,,,,,-25,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-10,,,,,-25,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-11,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-12,,,,,-14,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-13,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-14,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-15,,,,,-21,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-16,,,,,-23,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-17,,,,,-21,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-18,,,,,-23,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-19,,,,,-21,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-20,,,,,-17,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-21,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-22,,,,,-22,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-23,,,,,-28,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-24,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-25,,,,,-20,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-26,,,,,-18,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-27,,,,,-18,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-28,,,,,-19,
+NE,Niger,Zinder Region,,,NE-7,,2020-11-30,,,,,-19,
+NE,Niger,Zinder Region,,,NE-7,,2020-12-01,,,,,-18,
+NE,Niger,Zinder Region,,,NE-7,,2020-12-02,,,,,-15,
+NE,Niger,Zinder Region,,,NE-7,,2020-12-03,,,,,-13,
+NE,Niger,Zinder Region,,,NE-7,,2020-12-04,,,,,-16,
+NE,Niger,Zinder Region,,,NE-7,,2020-12-05,,,,,-12,
+NE,Niger,Zinder Region,,,NE-7,,2020-12-06,,,,,-18,

@@ -1,0 +1,593 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+PA,Panama,,,,,,2020-02-15,10,11,7,9,5,-3
+PA,Panama,,,,,,2020-02-16,11,13,2,10,4,-1
+PA,Panama,,,,,,2020-02-17,4,4,0,5,5,-1
+PA,Panama,,,,,,2020-02-18,2,2,2,3,3,-1
+PA,Panama,,,,,,2020-02-19,1,2,-1,4,4,-1
+PA,Panama,,,,,,2020-02-20,7,7,0,4,4,-2
+PA,Panama,,,,,,2020-02-21,4,10,7,7,2,-1
+PA,Panama,,,,,,2020-02-22,-7,7,14,-9,-13,0
+PA,Panama,,,,,,2020-02-23,-8,1,34,-11,-9,-1
+PA,Panama,,,,,,2020-02-24,-21,-9,56,-35,-64,11
+PA,Panama,,,,,,2020-02-25,-35,-18,34,-39,-73,13
+PA,Panama,,,,,,2020-02-26,-14,-9,-8,-22,-34,8
+PA,Panama,,,,,,2020-02-27,2,5,-6,-4,-2,0
+PA,Panama,,,,,,2020-02-28,5,5,-6,3,1,0
+PA,Panama,,,,,,2020-02-29,14,15,-5,8,5,-2
+PA,Panama,,,,,,2020-03-01,16,20,-12,11,7,1
+PA,Panama,,,,,,2020-03-02,4,10,-3,5,6,-2
+PA,Panama,,,,,,2020-03-03,1,9,-2,5,5,-1
+PA,Panama,,,,,,2020-03-04,-3,4,-2,5,7,0
+PA,Panama,,,,,,2020-03-05,0,4,-4,4,7,0
+PA,Panama,,,,,,2020-03-06,-2,-3,-2,5,9,-1
+PA,Panama,,,,,,2020-03-07,2,4,-7,2,5,2
+PA,Panama,,,,,,2020-03-08,1,8,-11,2,4,3
+PA,Panama,,,,,,2020-03-09,-4,3,-4,1,7,0
+PA,Panama,,,,,,2020-03-10,-5,14,-6,-1,4,0
+PA,Panama,,,,,,2020-03-11,-16,9,-15,-11,0,5
+PA,Panama,,,,,,2020-03-12,-17,7,-20,-17,-5,8
+PA,Panama,,,,,,2020-03-13,-18,5,-20,-15,-5,9
+PA,Panama,,,,,,2020-03-14,-22,3,-29,-18,-6,11
+PA,Panama,,,,,,2020-03-15,-37,-6,-43,-26,-12,14
+PA,Panama,,,,,,2020-03-16,-29,-11,-28,-25,-18,14
+PA,Panama,,,,,,2020-03-17,-39,-18,-36,-34,-28,18
+PA,Panama,,,,,,2020-03-18,-46,-29,-39,-39,-32,22
+PA,Panama,,,,,,2020-03-19,-50,-29,-45,-46,-37,24
+PA,Panama,,,,,,2020-03-20,-50,-27,-48,-45,-37,26
+PA,Panama,,,,,,2020-03-21,-64,-36,-61,-52,-43,27
+PA,Panama,,,,,,2020-03-22,-69,-41,-67,-59,-43,25
+PA,Panama,,,,,,2020-03-23,-63,-38,-56,-61,-54,31
+PA,Panama,,,,,,2020-03-24,-70,-47,-62,-67,-61,34
+PA,Panama,,,,,,2020-03-25,-82,-54,-71,-77,-72,40
+PA,Panama,,,,,,2020-03-26,-81,-53,-71,-76,-73,41
+PA,Panama,,,,,,2020-03-27,-81,-54,-71,-76,-72,43
+PA,Panama,,,,,,2020-03-28,-82,-53,-75,-76,-68,36
+PA,Panama,,,,,,2020-03-29,-84,-61,-78,-77,-59,31
+PA,Panama,,,,,,2020-03-30,-80,-55,-69,-76,-72,40
+PA,Panama,,,,,,2020-03-31,-79,-51,-69,-75,-73,38
+PA,Panama,,,,,,2020-04-01,-85,-68,-73,-79,-75,42
+PA,Panama,,,,,,2020-04-02,-81,-53,-70,-77,-74,41
+PA,Panama,,,,,,2020-04-03,-85,-64,-74,-79,-74,45
+PA,Panama,,,,,,2020-04-04,-83,-54,-75,-76,-70,37
+PA,Panama,,,,,,2020-04-05,-95,-95,-86,-89,-74,36
+PA,Panama,,,,,,2020-04-06,-82,-62,-72,-79,-74,41
+PA,Panama,,,,,,2020-04-07,-79,-48,-68,-75,-74,39
+PA,Panama,,,,,,2020-04-08,-82,-60,-71,-78,-74,41
+PA,Panama,,,,,,2020-04-09,-78,-42,-68,-75,-76,40
+PA,Panama,,,,,,2020-04-10,-89,-71,-79,-85,-87,50
+PA,Panama,,,,,,2020-04-11,-96,-95,-86,-91,-84,45
+PA,Panama,,,,,,2020-04-12,-95,-95,-87,-90,-75,36
+PA,Panama,,,,,,2020-04-13,-81,-59,-72,-78,-73,40
+PA,Panama,,,,,,2020-04-14,-76,-44,-68,-74,-73,38
+PA,Panama,,,,,,2020-04-15,-79,-56,-70,-76,-73,40
+PA,Panama,,,,,,2020-04-16,-74,-41,-67,-72,-72,39
+PA,Panama,,,,,,2020-04-17,-77,-49,-69,-74,-72,42
+PA,Panama,,,,,,2020-04-18,-95,-94,-85,-90,-82,44
+PA,Panama,,,,,,2020-04-19,-95,-95,-86,-91,-74,36
+PA,Panama,,,,,,2020-04-20,-77,-54,-69,-76,-71,39
+PA,Panama,,,,,,2020-04-21,-73,-41,-66,-73,-71,37
+PA,Panama,,,,,,2020-04-22,-79,-58,-70,-77,-71,40
+PA,Panama,,,,,,2020-04-23,-75,-45,-67,-74,-71,38
+PA,Panama,,,,,,2020-04-24,-78,-52,-70,-75,-70,41
+PA,Panama,,,,,,2020-04-25,-95,-93,-85,-90,-80,43
+PA,Panama,,,,,,2020-04-26,-95,-95,-86,-90,-72,35
+PA,Panama,,,,,,2020-04-27,-76,-53,-68,-75,-69,39
+PA,Panama,,,,,,2020-04-28,-72,-41,-63,-71,-69,32
+PA,Panama,,,,,,2020-04-29,-76,-51,-65,-74,-69,38
+PA,Panama,,,,,,2020-04-30,-70,-35,-61,-69,-68,36
+PA,Panama,,,,,,2020-05-01,-83,-61,-74,-81,-83,47
+PA,Panama,,,,,,2020-05-02,-94,-93,-84,-90,-79,43
+PA,Panama,,,,,,2020-05-03,-94,-94,-86,-90,-71,35
+PA,Panama,,,,,,2020-05-04,-73,-51,-65,-73,-67,37
+PA,Panama,,,,,,2020-05-05,-71,-41,-62,-70,-67,35
+PA,Panama,,,,,,2020-05-06,-75,-51,-65,-72,-67,37
+PA,Panama,,,,,,2020-05-07,-71,-42,-63,-70,-67,37
+PA,Panama,,,,,,2020-05-08,-73,-44,-65,-70,-66,39
+PA,Panama,,,,,,2020-05-09,-93,-91,-83,-88,-77,42
+PA,Panama,,,,,,2020-05-10,-94,-94,-85,-89,-69,34
+PA,Panama,,,,,,2020-05-11,-71,-47,-64,-70,-64,36
+PA,Panama,,,,,,2020-05-12,-68,-36,-60,-68,-64,34
+PA,Panama,,,,,,2020-05-13,-72,-49,-64,-71,-64,36
+PA,Panama,,,,,,2020-05-14,-68,-38,-61,-68,-64,33
+PA,Panama,,,,,,2020-05-15,-70,-44,-63,-67,-62,37
+PA,Panama,,,,,,2020-05-16,-76,-50,-70,-72,-62,34
+PA,Panama,,,,,,2020-05-17,-93,-93,-84,-88,-67,34
+PA,Panama,,,,,,2020-05-18,-68,-47,-62,-68,-60,34
+PA,Panama,,,,,,2020-05-19,-67,-41,-59,-66,-61,33
+PA,Panama,,,,,,2020-05-20,-69,-44,-57,-66,-60,35
+PA,Panama,,,,,,2020-05-21,-67,-38,-55,-64,-60,35
+PA,Panama,,,,,,2020-05-22,-71,-46,-61,-66,-59,36
+PA,Panama,,,,,,2020-05-23,-75,-47,-64,-68,-58,32
+PA,Panama,,,,,,2020-05-24,-93,-92,-83,-87,-66,33
+PA,Panama,,,,,,2020-05-25,-67,-44,-56,-65,-58,33
+PA,Panama,,,,,,2020-05-26,-66,-40,-55,-64,-58,32
+PA,Panama,,,,,,2020-05-27,-70,-49,-60,-66,-58,34
+PA,Panama,,,,,,2020-05-28,-67,-42,-57,-65,-58,34
+PA,Panama,,,,,,2020-05-29,-68,-43,-59,-65,-57,36
+PA,Panama,,,,,,2020-05-30,-73,-47,-65,-67,-54,31
+PA,Panama,,,,,,2020-05-31,-93,-92,-82,-87,-64,33
+PA,Panama,,,,,,2020-06-01,-52,-24,-39,-50,-49,26
+PA,Panama,,,,,,2020-06-02,-57,-32,-49,-57,-52,29
+PA,Panama,,,,,,2020-06-03,-55,-28,-43,-53,-50,29
+PA,Panama,,,,,,2020-06-04,-54,-26,-44,-55,-51,29
+PA,Panama,,,,,,2020-06-05,-55,-26,-44,-54,-49,30
+PA,Panama,,,,,,2020-06-06,-61,-32,-54,-56,-47,26
+PA,Panama,,,,,,2020-06-07,-90,-85,-78,-86,-60,32
+PA,Panama,,,,,,2020-06-08,-62,-43,-53,-63,-51,30
+PA,Panama,,,,,,2020-06-09,-62,-38,-53,-63,-53,31
+PA,Panama,,,,,,2020-06-10,-64,-44,-54,-64,-52,32
+PA,Panama,,,,,,2020-06-11,-61,-36,-50,-61,-52,31
+PA,Panama,,,,,,2020-06-12,-59,-32,-49,-59,-50,32
+PA,Panama,,,,,,2020-06-13,-67,-41,-58,-64,-48,29
+PA,Panama,,,,,,2020-06-14,-88,-82,-75,-85,-56,31
+PA,Panama,,,,,,2020-06-15,-57,-34,-47,-59,-49,29
+PA,Panama,,,,,,2020-06-16,-56,-29,-45,-57,-51,29
+PA,Panama,,,,,,2020-06-17,-57,-33,-48,-58,-50,30
+PA,Panama,,,,,,2020-06-18,-58,-32,-48,-60,-51,30
+PA,Panama,,,,,,2020-06-19,-58,-29,-48,-57,-48,30
+PA,Panama,,,,,,2020-06-20,-64,-35,-55,-60,-45,27
+PA,Panama,,,,,,2020-06-21,-87,-80,-73,-83,-53,30
+PA,Panama,,,,,,2020-06-22,-59,-37,-49,-60,-50,29
+PA,Panama,,,,,,2020-06-23,-60,-36,-50,-61,-53,30
+PA,Panama,,,,,,2020-06-24,-61,-38,-49,-60,-50,30
+PA,Panama,,,,,,2020-06-25,-59,-34,-49,-59,-51,30
+PA,Panama,,,,,,2020-06-26,-61,-35,-52,-59,-50,32
+PA,Panama,,,,,,2020-06-27,-66,-40,-59,-62,-47,29
+PA,Panama,,,,,,2020-06-28,-87,-81,-75,-85,-57,31
+PA,Panama,,,,,,2020-06-29,-58,-35,-52,-60,-49,28
+PA,Panama,,,,,,2020-06-30,-59,-35,-58,-62,-51,29
+PA,Panama,,,,,,2020-07-01,-59,-35,-55,-60,-50,29
+PA,Panama,,,,,,2020-07-02,-59,-34,-57,-61,-51,30
+PA,Panama,,,,,,2020-07-03,-60,-34,-58,-60,-49,31
+PA,Panama,,,,,,2020-07-04,-68,-42,-68,-66,-47,29
+PA,Panama,,,,,,2020-07-05,-88,-83,-80,-87,-57,31
+PA,Panama,,,,,,2020-07-06,-57,-35,-54,-61,-49,29
+PA,Panama,,,,,,2020-07-07,-59,-34,-57,-61,-52,29
+PA,Panama,,,,,,2020-07-08,-61,-39,-57,-63,-50,30
+PA,Panama,,,,,,2020-07-09,-61,-37,-57,-63,-51,30
+PA,Panama,,,,,,2020-07-10,-61,-37,-59,-61,-49,32
+PA,Panama,,,,,,2020-07-11,-67,-42,-66,-66,-46,29
+PA,Panama,,,,,,2020-07-12,-89,-83,-80,-87,-57,31
+PA,Panama,,,,,,2020-07-13,-58,-36,-57,-62,-49,29
+PA,Panama,,,,,,2020-07-14,-58,-33,-55,-62,-51,29
+PA,Panama,,,,,,2020-07-15,-58,-32,-55,-60,-49,29
+PA,Panama,,,,,,2020-07-16,-57,-28,-56,-60,-50,29
+PA,Panama,,,,,,2020-07-17,-56,-24,-55,-57,-48,29
+PA,Panama,,,,,,2020-07-18,-85,-78,-78,-86,-67,38
+PA,Panama,,,,,,2020-07-19,-89,-84,-82,-88,-59,31
+PA,Panama,,,,,,2020-07-20,-59,-36,-56,-61,-50,28
+PA,Panama,,,,,,2020-07-21,-60,-34,-56,-62,-52,29
+PA,Panama,,,,,,2020-07-22,-61,-38,-57,-62,-49,30
+PA,Panama,,,,,,2020-07-23,-60,-33,-57,-62,-50,29
+PA,Panama,,,,,,2020-07-24,-58,-26,-57,-58,-48,30
+PA,Panama,,,,,,2020-07-25,-90,-86,-80,-88,-71,40
+PA,Panama,,,,,,2020-07-26,-92,-90,-83,-89,-63,33
+PA,Panama,,,,,,2020-07-27,-56,-32,-53,-59,-48,28
+PA,Panama,,,,,,2020-07-28,-57,-31,-54,-60,-50,28
+PA,Panama,,,,,,2020-07-29,-58,-33,-55,-59,-49,29
+PA,Panama,,,,,,2020-07-30,-55,-27,-52,-58,-50,28
+PA,Panama,,,,,,2020-07-31,-53,-19,-50,-53,-47,27
+PA,Panama,,,,,,2020-08-01,-89,-85,-79,-87,-71,39
+PA,Panama,,,,,,2020-08-02,-91,-89,-82,-89,-63,33
+PA,Panama,,,,,,2020-08-03,-53,-30,-52,-57,-47,26
+PA,Panama,,,,,,2020-08-04,-56,-31,-54,-59,-50,28
+PA,Panama,,,,,,2020-08-05,-57,-34,-55,-59,-49,28
+PA,Panama,,,,,,2020-08-06,-55,-28,-52,-59,-49,27
+PA,Panama,,,,,,2020-08-07,-52,-19,-49,-53,-47,27
+PA,Panama,,,,,,2020-08-08,-89,-85,-79,-87,-70,39
+PA,Panama,,,,,,2020-08-09,-91,-89,-82,-89,-62,33
+PA,Panama,,,,,,2020-08-10,-52,-29,-51,-56,-47,26
+PA,Panama,,,,,,2020-08-11,-54,-29,-51,-58,-49,27
+PA,Panama,,,,,,2020-08-12,-57,-35,-53,-60,-48,28
+PA,Panama,,,,,,2020-08-13,-55,-29,-53,-59,-48,27
+PA,Panama,,,,,,2020-08-14,-50,-16,-49,-51,-45,25
+PA,Panama,,,,,,2020-08-15,-88,-84,-77,-86,-70,38
+PA,Panama,,,,,,2020-08-16,-90,-88,-80,-88,-61,32
+PA,Panama,,,,,,2020-08-17,-47,-23,-48,-52,-45,23
+PA,Panama,,,,,,2020-08-18,-51,-26,-51,-55,-46,25
+PA,Panama,,,,,,2020-08-19,-53,-30,-52,-55,-45,26
+PA,Panama,,,,,,2020-08-20,-54,-29,-52,-57,-47,27
+PA,Panama,,,,,,2020-08-21,-51,-20,-49,-52,-44,25
+PA,Panama,,,,,,2020-08-22,-88,-84,-78,-86,-69,38
+PA,Panama,,,,,,2020-08-23,-90,-89,-81,-88,-61,32
+PA,Panama,,,,,,2020-08-24,-49,-27,-47,-52,-43,23
+PA,Panama,,,,,,2020-08-25,-52,-29,-51,-54,-46,25
+PA,Panama,,,,,,2020-08-26,-50,-28,-48,-53,-43,24
+PA,Panama,,,,,,2020-08-27,-51,-27,-48,-54,-44,25
+PA,Panama,,,,,,2020-08-28,-48,-20,-47,-49,-41,24
+PA,Panama,,,,,,2020-08-29,-64,-40,-61,-60,-47,25
+PA,Panama,,,,,,2020-08-30,-89,-87,-80,-87,-59,31
+PA,Panama,,,,,,2020-08-31,-46,-24,-45,-51,-41,22
+PA,Panama,,,,,,2020-09-01,-50,-28,-48,-53,-45,23
+PA,Panama,,,,,,2020-09-02,-51,-29,-48,-53,-43,24
+PA,Panama,,,,,,2020-09-03,-52,-30,-50,-54,-45,25
+PA,Panama,,,,,,2020-09-04,-49,-22,-48,-51,-41,24
+PA,Panama,,,,,,2020-09-05,-64,-41,-60,-60,-46,25
+PA,Panama,,,,,,2020-09-06,-90,-88,-81,-87,-61,31
+PA,Panama,,,,,,2020-09-07,-49,-28,-47,-53,-43,22
+PA,Panama,,,,,,2020-09-08,-51,-28,-48,-54,-45,23
+PA,Panama,,,,,,2020-09-09,-51,-29,-48,-53,-42,23
+PA,Panama,,,,,,2020-09-10,-50,-27,-47,-53,-43,23
+PA,Panama,,,,,,2020-09-11,-48,-20,-45,-49,-40,22
+PA,Panama,,,,,,2020-09-12,-62,-38,-56,-58,-45,23
+PA,Panama,,,,,,2020-09-13,-89,-87,-78,-86,-60,30
+PA,Panama,,,,,,2020-09-14,-42,-15,-38,-46,-36,18
+PA,Panama,,,,,,2020-09-15,-43,-17,-42,-47,-39,20
+PA,Panama,,,,,,2020-09-16,-45,-21,-39,-47,-39,21
+PA,Panama,,,,,,2020-09-17,-46,-20,-43,-48,-40,21
+PA,Panama,,,,,,2020-09-18,-45,-16,-41,-46,-37,21
+PA,Panama,,,,,,2020-09-19,-56,-29,-51,-51,-42,20
+PA,Panama,,,,,,2020-09-20,-89,-87,-79,-87,-61,31
+PA,Panama,,,,,,2020-09-21,-44,-19,-44,-46,-38,18
+PA,Panama,,,,,,2020-09-22,-48,-23,-51,-48,-41,21
+PA,Panama,,,,,,2020-09-23,-49,-23,-49,-46,-39,22
+PA,Panama,,,,,,2020-09-24,-50,-24,-54,-49,-40,23
+PA,Panama,,,,,,2020-09-25,-46,-17,-49,-44,-37,22
+PA,Panama,,,,,,2020-09-26,-53,-23,-53,-46,-37,19
+PA,Panama,,,,,,2020-09-27,-90,-88,-83,-87,-62,32
+PA,Panama,,,,,,2020-09-28,-44,-17,-46,-44,-37,19
+PA,Panama,,,,,,2020-09-29,-42,-18,-48,-45,-38,19
+PA,Panama,,,,,,2020-09-30,-46,-22,-52,-47,-39,20
+PA,Panama,,,,,,2020-10-01,-41,-14,-47,-42,-36,17
+PA,Panama,,,,,,2020-10-02,-42,-15,-47,-39,-34,18
+PA,Panama,,,,,,2020-10-03,-49,-21,-55,-41,-37,15
+PA,Panama,,,,,,2020-10-04,-90,-88,-82,-87,-62,30
+PA,Panama,,,,,,2020-10-05,-39,-13,-43,-39,-35,14
+PA,Panama,,,,,,2020-10-06,-44,-20,-49,-45,-38,17
+PA,Panama,,,,,,2020-10-07,-45,-23,-48,-42,-35,18
+PA,Panama,,,,,,2020-10-08,-45,-22,-51,-46,-36,20
+PA,Panama,,,,,,2020-10-09,-42,-18,-47,-42,-33,19
+PA,Panama,,,,,,2020-10-10,-48,-23,-54,-43,-33,16
+PA,Panama,,,,,,2020-10-11,-90,-88,-82,-88,-61,31
+PA,Panama,,,,,,2020-10-12,-40,-15,-47,-40,-33,16
+PA,Panama,,,,,,2020-10-13,-43,-19,-53,-43,-36,19
+PA,Panama,,,,,,2020-10-14,-43,-18,-51,-40,-34,19
+PA,Panama,,,,,,2020-10-15,-37,-9,-47,-39,-33,18
+PA,Panama,,,,,,2020-10-16,-38,-11,-45,-34,-32,18
+PA,Panama,,,,,,2020-10-17,-40,-9,-51,-33,-29,13
+PA,Panama,,,,,,2020-10-18,-89,-87,-83,-87,-61,31
+PA,Panama,,,,,,2020-10-19,-40,-15,-50,-37,-33,16
+PA,Panama,,,,,,2020-10-20,-42,-18,-52,-41,-35,19
+PA,Panama,,,,,,2020-10-21,-42,-19,-46,-39,-32,19
+PA,Panama,,,,,,2020-10-22,-41,-18,-45,-41,-33,19
+PA,Panama,,,,,,2020-10-23,-42,-18,-46,-40,-31,19
+PA,Panama,,,,,,2020-10-24,-42,-18,-49,-39,-27,15
+PA,Panama,,,,,,2020-10-25,-59,-46,-57,-56,-29,17
+PA,Panama,,,,,,2020-10-26,-40,-17,-43,-40,-31,17
+PA,Panama,,,,,,2020-10-27,-39,-15,-45,-41,-34,17
+PA,Panama,,,,,,2020-10-28,-42,-19,-46,-40,-32,18
+PA,Panama,,,,,,2020-10-29,-38,-15,-48,-39,-32,17
+PA,Panama,,,,,,2020-10-30,-34,-10,-42,-32,-29,15
+PA,Panama,,,,,,2020-10-31,-37,-11,-49,-34,-24,11
+PA,Panama,,,,,,2020-11-01,-52,-37,-58,-48,-24,14
+PA,Panama,,,,,,2020-11-02,-34,-10,-46,-41,-39,16
+PA,Panama,,,,,,2020-11-03,-58,-34,-58,-64,-73,28
+PA,Panama,,,,,,2020-11-04,-52,-29,-53,-57,-61,25
+PA,Panama,,,,,,2020-11-05,-55,-32,-50,-60,-71,27
+PA,Panama,,,,,,2020-11-06,-42,-18,-48,-43,-34,19
+PA,Panama,,,,,,2020-11-07,-44,-22,-50,-41,-26,15
+PA,Panama,,,,,,2020-11-08,-56,-43,-57,-50,-23,16
+PA,Panama,,,,,,2020-11-09,-38,-16,-45,-40,-33,16
+PA,Panama,,,,,,2020-11-10,-51,-28,-50,-59,-69,27
+PA,Panama,,,,,,2020-11-11,-42,-19,-51,-38,-32,18
+PA,Panama,,,,,,2020-11-12,-41,-16,-52,-40,-32,18
+PA,Panama,,,,,,2020-11-13,-37,-14,-51,-37,-29,17
+PA,Panama,,,,,,2020-11-14,-35,-10,-54,-33,-23,13
+PA,Panama,,,,,,2020-11-15,-50,-35,-64,-46,-21,16
+PA,Panama,,,,,,2020-11-16,-38,-16,-53,-39,-30,17
+PA,Panama,,,,,,2020-11-17,-39,-16,-56,-41,-33,18
+PA,Panama,,,,,,2020-11-18,-40,-19,-52,-40,-31,19
+PA,Panama,,,,,,2020-11-19,-39,-16,-52,-41,-31,18
+PA,Panama,,,,,,2020-11-20,-40,-19,-54,-37,-29,19
+PA,Panama,,,,,,2020-11-21,-39,-17,-57,-37,-24,15
+PA,Panama,,,,,,2020-11-22,-49,-37,-59,-46,-20,15
+PA,Panama,,,,,,2020-11-23,-39,-19,-52,-40,-30,17
+PA,Panama,,,,,,2020-11-24,-40,-18,-53,-41,-32,18
+PA,Panama,,,,,,2020-11-25,-39,-17,-51,-39,-30,18
+PA,Panama,,,,,,2020-11-26,-38,-15,-54,-42,-31,18
+PA,Panama,,,,,,2020-11-27,-32,-10,-50,-33,-28,16
+PA,Panama,,,,,,2020-11-28,-38,-15,-56,-42,-44,17
+PA,Panama,,,,,,2020-11-29,-43,-31,-61,-43,-17,13
+PA,Panama,,,,,,2020-11-30,-31,-10,-50,-33,-28,15
+PA,Panama,,,,,,2020-12-01,-30,-6,-51,-36,-31,15
+PA,Panama,,,,,,2020-12-02,-35,-13,-51,-37,-29,17
+PA,Panama,,,,,,2020-12-03,-31,-8,-50,-37,-29,17
+PA,Panama,,,,,,2020-12-04,-30,-8,-48,-32,-26,16
+PA,Panama,,,,,,2020-12-05,-31,-11,-53,-32,-21,13
+PA,Panama,,,,,,2020-12-06,-39,-28,-59,-41,-12,14
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-15,15,14,16,12,5,-3
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-16,14,14,8,11,4,-1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-17,5,7,-1,6,4,-1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-18,4,3,4,4,3,-1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-19,1,2,-3,5,4,0
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-20,5,6,-3,4,3,-2
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-21,1,9,-2,6,0,-2
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-22,-20,-10,-22,-15,-18,-1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-23,-30,-25,-17,-22,-13,-1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-24,-43,-34,-21,-44,-69,12
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-25,-50,-35,-11,-46,-77,15
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-26,-24,-14,-31,-24,-35,8
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-27,-2,2,-8,-4,-2,1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-28,6,10,-4,4,0,0
+PA,Panama,,,Panama City Metropolitan Area,,,2020-02-29,18,16,-6,11,5,-1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-01,18,23,-7,11,6,1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-02,4,12,-4,6,5,-2
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-03,3,11,3,6,5,-1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-04,-3,4,-1,5,6,0
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-05,0,5,3,3,6,0
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-06,2,4,9,6,8,-1
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-07,6,8,-1,4,5,2
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-08,5,13,3,3,2,3
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-09,-4,6,-2,0,6,0
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-10,-5,18,-6,-2,4,0
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-11,-19,9,-21,-14,-2,7
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-12,-20,8,-23,-19,-5,9
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-13,-20,12,-22,-16,-6,10
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-14,-25,4,-36,-18,-7,12
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-15,-41,-6,-48,-28,-15,15
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-16,-33,-13,-39,-26,-20,15
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-17,-42,-20,-48,-35,-30,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-18,-51,-32,-52,-41,-34,24
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-19,-54,-32,-57,-47,-39,26
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-20,-54,-26,-57,-47,-40,28
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-21,-67,-37,-69,-54,-47,28
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-22,-72,-42,-73,-61,-47,25
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-23,-67,-40,-69,-63,-57,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-24,-74,-51,-74,-69,-64,36
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-25,-86,-58,-83,-79,-76,43
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-26,-85,-57,-82,-78,-76,44
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-27,-85,-54,-82,-78,-76,46
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-28,-85,-55,-83,-78,-72,37
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-29,-87,-62,-84,-79,-64,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-30,-83,-57,-80,-78,-76,42
+PA,Panama,,,Panama City Metropolitan Area,,,2020-03-31,-83,-54,-80,-77,-77,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-01,-88,-71,-83,-82,-78,45
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-02,-84,-56,-81,-79,-78,44
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-03,-87,-64,-84,-81,-78,47
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-04,-85,-55,-82,-78,-73,38
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-05,-97,-96,-92,-91,-79,36
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-06,-85,-63,-83,-80,-78,43
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-07,-82,-50,-79,-78,-78,42
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-08,-85,-61,-82,-80,-78,44
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-09,-81,-45,-78,-77,-80,42
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-10,-91,-71,-87,-87,-90,53
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-11,-97,-96,-92,-92,-88,46
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-12,-96,-96,-92,-92,-79,36
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-13,-84,-62,-81,-80,-77,42
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-14,-80,-46,-78,-76,-76,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-15,-83,-58,-80,-78,-76,43
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-16,-79,-45,-77,-74,-76,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-17,-81,-49,-78,-76,-76,44
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-18,-96,-95,-90,-91,-85,45
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-19,-96,-96,-91,-91,-78,36
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-20,-80,-54,-79,-76,-75,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-21,-77,-41,-76,-74,-74,40
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-22,-82,-58,-80,-78,-75,43
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-23,-79,-46,-77,-75,-75,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-24,-81,-51,-78,-76,-75,44
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-25,-95,-94,-90,-91,-83,44
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-26,-95,-96,-91,-91,-77,36
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-27,-79,-53,-78,-76,-73,40
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-28,-76,-40,-74,-72,-74,39
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-29,-80,-52,-75,-75,-73,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-04-30,-75,-36,-72,-71,-72,38
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-01,-86,-59,-82,-82,-86,49
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-02,-95,-94,-90,-90,-83,44
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-03,-95,-95,-91,-90,-75,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-04,-77,-51,-76,-74,-71,39
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-05,-74,-40,-73,-71,-71,38
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-06,-79,-52,-75,-74,-71,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-07,-76,-42,-73,-71,-71,39
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-08,-76,-40,-73,-70,-70,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-09,-94,-92,-89,-89,-81,43
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-10,-94,-95,-90,-90,-74,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-11,-75,-47,-75,-72,-68,38
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-12,-72,-35,-71,-69,-68,37
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-13,-77,-50,-74,-72,-68,40
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-14,-72,-38,-71,-69,-68,38
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-15,-73,-41,-71,-68,-67,39
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-16,-78,-48,-77,-72,-67,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-17,-94,-95,-89,-89,-72,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-18,-72,-46,-73,-69,-64,36
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-19,-71,-41,-69,-68,-65,37
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-20,-73,-45,-68,-67,-64,38
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-21,-72,-40,-65,-66,-65,37
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-22,-74,-46,-69,-67,-63,39
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-23,-77,-45,-70,-68,-62,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-24,-94,-94,-88,-88,-71,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-25,-71,-44,-67,-66,-62,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-26,-71,-41,-65,-65,-62,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-27,-74,-51,-69,-68,-62,37
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-28,-71,-44,-66,-66,-62,37
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-29,-72,-43,-68,-66,-61,38
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-30,-76,-47,-72,-67,-58,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-05-31,-94,-94,-87,-87,-69,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-01,-56,-24,-47,-51,-53,28
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-02,-63,-34,-60,-58,-56,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-03,-59,-29,-50,-55,-54,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-04,-59,-28,-51,-57,-55,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-05,-58,-23,-48,-55,-53,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-06,-63,-32,-59,-57,-51,27
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-07,-94,-94,-90,-88,-69,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-08,-70,-48,-70,-66,-56,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-09,-68,-42,-68,-65,-57,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-10,-71,-50,-70,-66,-57,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-11,-67,-40,-64,-64,-57,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-12,-65,-33,-62,-61,-55,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-13,-72,-46,-69,-66,-53,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-14,-94,-94,-89,-88,-67,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-15,-63,-37,-65,-61,-54,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-16,-62,-33,-60,-60,-56,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-17,-64,-36,-62,-60,-54,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-18,-64,-35,-61,-62,-56,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-19,-63,-28,-59,-59,-53,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-20,-69,-38,-65,-61,-50,29
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-21,-93,-93,-86,-87,-65,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-22,-65,-40,-64,-63,-55,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-23,-66,-40,-64,-63,-57,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-24,-67,-42,-62,-63,-55,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-25,-65,-38,-60,-62,-56,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-26,-66,-37,-64,-62,-55,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-27,-70,-43,-67,-64,-52,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-28,-94,-93,-88,-88,-67,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-29,-63,-37,-64,-62,-53,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-06-30,-63,-37,-66,-64,-55,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-01,-64,-37,-64,-61,-54,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-02,-64,-36,-65,-63,-55,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-03,-64,-32,-65,-61,-54,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-04,-71,-44,-74,-67,-52,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-05,-94,-94,-89,-90,-68,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-06,-62,-36,-65,-62,-53,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-07,-64,-36,-66,-63,-56,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-08,-66,-41,-66,-64,-54,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-09,-65,-38,-64,-64,-55,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-10,-65,-35,-65,-62,-54,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-11,-70,-43,-72,-66,-51,30
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-12,-94,-94,-90,-90,-68,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-13,-63,-36,-68,-63,-53,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-14,-63,-34,-64,-63,-55,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-15,-63,-34,-64,-62,-53,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-16,-62,-29,-62,-61,-54,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-17,-60,-18,-61,-58,-53,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-18,-94,-93,-90,-90,-79,43
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-19,-94,-95,-91,-91,-70,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-20,-62,-36,-66,-62,-53,30
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-21,-63,-34,-64,-63,-55,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-22,-65,-40,-64,-63,-53,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-23,-64,-33,-63,-63,-55,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-24,-61,-23,-61,-58,-53,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-25,-94,-92,-89,-89,-78,43
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-26,-94,-95,-90,-90,-70,35
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-27,-60,-33,-63,-60,-53,30
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-28,-61,-31,-60,-61,-55,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-29,-63,-35,-63,-61,-54,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-30,-60,-27,-59,-60,-55,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-07-31,-57,-16,-54,-53,-52,29
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-01,-94,-92,-88,-89,-77,42
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-02,-94,-94,-89,-90,-69,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-03,-58,-31,-62,-58,-52,28
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-04,-60,-30,-62,-60,-54,30
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-05,-62,-34,-63,-60,-53,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-06,-60,-28,-59,-60,-54,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-07,-56,-15,-56,-53,-51,29
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-08,-94,-91,-88,-89,-77,42
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-09,-94,-94,-89,-90,-69,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-10,-57,-30,-61,-57,-51,28
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-11,-58,-29,-59,-59,-54,29
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-12,-62,-36,-63,-61,-53,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-13,-60,-30,-61,-60,-53,30
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-14,-53,-10,-55,-51,-50,27
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-15,-93,-90,-85,-87,-76,41
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-16,-94,-94,-88,-89,-68,34
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-17,-52,-24,-60,-54,-50,25
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-18,-56,-25,-61,-56,-51,28
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-19,-58,-31,-60,-56,-50,29
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-20,-58,-29,-61,-58,-51,29
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-21,-54,-16,-54,-52,-49,27
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-22,-92,-90,-87,-87,-75,40
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-23,-93,-94,-89,-89,-68,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-24,-52,-26,-55,-53,-47,25
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-25,-54,-27,-57,-55,-50,27
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-26,-54,-28,-55,-54,-47,27
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-27,-55,-29,-53,-55,-49,27
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-28,-51,-18,-52,-49,-47,26
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-29,-61,-31,-62,-57,-48,25
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-30,-93,-93,-89,-88,-67,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-08-31,-50,-25,-55,-52,-46,23
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-01,-54,-29,-54,-53,-50,26
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-02,-54,-29,-55,-53,-47,26
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-03,-56,-32,-54,-55,-49,27
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-04,-52,-20,-51,-51,-47,26
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-05,-61,-32,-59,-57,-46,24
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-06,-93,-93,-89,-89,-67,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-07,-53,-30,-57,-55,-47,24
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-08,-55,-30,-52,-55,-50,26
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-09,-55,-31,-55,-54,-47,26
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-10,-55,-31,-55,-55,-48,26
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-11,-52,-20,-51,-49,-45,25
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-12,-59,-30,-56,-54,-44,23
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-13,-92,-92,-87,-87,-67,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-14,-44,-13,-43,-47,-40,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-15,-46,-16,-44,-48,-44,22
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-16,-49,-21,-43,-47,-43,23
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-17,-49,-20,-45,-49,-45,23
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-18,-48,-13,-42,-45,-43,22
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-19,-51,-16,-46,-46,-40,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-20,-93,-92,-89,-88,-68,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-21,-46,-17,-52,-46,-43,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-22,-51,-22,-55,-48,-46,24
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-23,-51,-22,-51,-46,-43,24
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-24,-53,-24,-58,-50,-44,25
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-25,-48,-12,-47,-43,-42,23
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-26,-49,-11,-46,-42,-36,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-27,-93,-93,-91,-88,-68,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-28,-45,-14,-50,-44,-41,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-29,-43,-17,-49,-44,-42,21
+PA,Panama,,,Panama City Metropolitan Area,,,2020-09-30,-47,-21,-56,-46,-43,23
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-01,-42,-12,-48,-43,-40,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-02,-43,-10,-46,-38,-39,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-03,-42,-9,-50,-35,-35,14
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-04,-93,-93,-90,-88,-68,32
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-05,-39,-10,-47,-38,-38,16
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-06,-45,-20,-50,-44,-42,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-07,-45,-22,-49,-41,-39,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-08,-47,-23,-54,-46,-41,22
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-09,-43,-14,-46,-40,-39,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-10,-41,-11,-47,-38,-32,14
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-11,-94,-94,-91,-89,-68,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-12,-40,-11,-49,-38,-38,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-13,-44,-17,-56,-42,-41,21
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-14,-44,-16,-53,-39,-38,21
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-15,-38,-7,-48,-39,-38,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-16,-38,-5,-44,-31,-37,19
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-17,-36,-3,-49,-28,-31,13
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-18,-93,-93,-91,-88,-68,33
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-19,-40,-11,-55,-35,-37,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-20,-42,-16,-56,-39,-40,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-21,-43,-17,-47,-37,-37,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-22,-42,-16,-45,-40,-38,21
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-23,-42,-13,-46,-37,-36,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-24,-40,-14,-49,-34,-31,15
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-25,-54,-37,-52,-55,-31,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-26,-40,-14,-46,-39,-35,18
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-27,-40,-14,-45,-39,-38,19
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-28,-43,-19,-49,-39,-36,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-29,-39,-14,-49,-38,-36,19
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-30,-34,-4,-40,-29,-34,16
+PA,Panama,,,Panama City Metropolitan Area,,,2020-10-31,-35,-9,-52,-30,-27,11
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-01,-48,-30,-63,-46,-26,14
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-02,-38,-13,-58,-40,-43,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-03,-65,-42,-73,-64,-77,31
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-04,-58,-35,-66,-57,-65,28
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-05,-60,-38,-55,-61,-74,29
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-06,-44,-16,-51,-41,-40,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-07,-43,-21,-49,-37,-29,15
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-08,-52,-35,-53,-48,-25,16
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-09,-39,-14,-50,-39,-36,18
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-10,-53,-29,-51,-58,-73,30
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-11,-45,-19,-54,-37,-36,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-12,-43,-17,-55,-39,-37,21
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-13,-37,-8,-52,-34,-34,19
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-14,-32,-5,-54,-28,-25,14
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-15,-43,-22,-65,-43,-23,16
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-16,-37,-14,-59,-37,-34,19
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-17,-39,-15,-60,-40,-38,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-18,-41,-17,-55,-38,-35,21
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-19,-40,-14,-53,-40,-36,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-20,-40,-14,-54,-34,-34,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-21,-35,-11,-53,-31,-26,15
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-22,-41,-23,-51,-43,-22,15
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-23,-38,-16,-57,-39,-34,19
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-24,-40,-15,-54,-39,-37,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-25,-40,-16,-53,-37,-34,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-26,-39,-14,-57,-41,-36,20
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-27,-31,-3,-51,-30,-33,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-28,-38,-13,-58,-38,-47,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-29,-35,-18,-61,-40,-18,13
+PA,Panama,,,Panama City Metropolitan Area,,,2020-11-30,-30,-6,-53,-30,-32,16
+PA,Panama,,,Panama City Metropolitan Area,,,2020-12-01,-30,-3,-52,-34,-35,17
+PA,Panama,,,Panama City Metropolitan Area,,,2020-12-02,-35,-12,-54,-35,-33,19
+PA,Panama,,,Panama City Metropolitan Area,,,2020-12-03,-33,-7,-53,-36,-34,19
+PA,Panama,,,Panama City Metropolitan Area,,,2020-12-04,-29,0,-49,-29,-32,18
+PA,Panama,,,Panama City Metropolitan Area,,,2020-12-05,-29,-6,-55,-26,-24,14
+PA,Panama,,,Panama City Metropolitan Area,,,2020-12-06,-32,-14,-60,-38,-14,14
