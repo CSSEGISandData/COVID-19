@@ -1,0 +1,31 @@
+name: Update data
+on:
+  schedule:
+    - cron:  '*/15 * * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  update-notebooks:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Copy Repository Contents
+      uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.6
+
+    - name: Install packages
+      run: |
+        pip install pandas scrapy jupyterlab papermill ipykernel
+        python3 -m ipykernel install --user --name python3
+        sudo chmod -R 777 .
+    
+    - name: Run notebooks
+      run: |
+        cd data_generation
+        for nb in $(ls *ipynb); do papermill --kernel python3 $nb $nb; done
